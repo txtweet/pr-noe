@@ -48,5 +48,47 @@
     "tags": [
       "Token"
     ]
+  },
+  "Bitcoin": {
+    "name": "Bitcoin",
+    "short": "BTC",
+    "url": "/currencies/bitcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "Store of Value",
+      "State channels"
+    ]
+  },
+  "Ethereum": {
+    "name": "Ethereum",
+    "short": "ETH",
+    "url": "/currencies/ethereum",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Smart Contracts",
+      "Binance Chain"
+    ]
+  },
+  "CoinPoker": {
+    "name": "CoinPoker",
+    "short": "CHP",
+    "url": "/currencies/coinpoker",
+    "tags": [
+      "Token",
+      "Gambling"
+    ]
+  },
+  "TrueFeedBack": {
+    "name": "TrueFeedBack",
+    "short": "TFB",
+    "url": "/currencies/truefeedback",
+    "tags": [
+      "Token"
+    ]
   }
 }

@@ -40,6 +40,7 @@ request()
       # Promise.resolve()
       .delay(Math.floor(Math.random() * 10000) + 5000)
     else
+      console.warn "Déjà indexée : ", crypto.name
       Promise.resolve()
 
 .then () ->
