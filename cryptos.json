@@ -488,5 +488,45 @@
       "Coin",
       "Mineable"
     ]
+  },
+  "HorusPay": {
+    "name": "HorusPay",
+    "short": "HORUS",
+    "url": "/currencies/horuspay",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Grid+": {
+    "name": "Grid+",
+    "short": "GRID",
+    "url": "/currencies/grid",
+    "tags": [
+      "Token",
+      "Energy"
+    ]
+  },
+  "BitBall": {
+    "name": "BitBall",
+    "short": "BTB",
+    "url": "/currencies/bitball",
+    "tags": [
+      "Token",
+      "Decentralized exchange",
+      "Platform",
+      "Medium of Exchange",
+      "DeFi",
+      "E-commerce",
+      "Marketplace",
+      "Services"
+    ]
+  },
+  "FNKOS": {
+    "name": "FNKOS",
+    "short": "FNKOS",
+    "url": "/currencies/fnkos",
+    "tags": [
+      "Token"
+    ]
   }
 }
