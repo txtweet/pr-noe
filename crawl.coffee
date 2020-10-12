@@ -44,11 +44,11 @@ request()
       Promise.resolve()
 .then () ->
   # # tri du tableau
-  # ordered = {}
-  # _(sauve).keys().sort().each (key) ->
-  #   ordered[key] = sauve[key]
+  ordered = {}
+  _(sauve).keys().sort().each (key) ->
+    ordered[key] = sauve[key]
 
-  console.log "#{JSON.stringify sauve, null, 2}"
+  console.log "#{JSON.stringify ordered, null, 2}"
   # console.log sauve
   console.warn "fin"
 .catch (err) ->

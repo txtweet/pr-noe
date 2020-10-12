@@ -707,5 +707,24 @@
       "Coin",
       "Mineable"
     ]
+  },
+  "Flow Protocol": {
+    "name": "Flow Protocol",
+    "short": "FLOW",
+    "url": "/currencies/flow-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Francs": {
+    "name": "Francs",
+    "short": "FRN",
+    "url": "/currencies/francs",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
   }
 }
