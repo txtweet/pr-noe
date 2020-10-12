@@ -671,5 +671,41 @@
     "tags": [
       "Coin"
     ]
+  },
+  "Distributed Energy Coin": {
+    "name": "Distributed Energy Coin",
+    "short": "DEC",
+    "url": "/currencies/distributed-energy-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "OC Protocol": {
+    "name": "OC Protocol",
+    "short": "OCP",
+    "url": "/currencies/oc-protocol",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "VeriCoin": {
+    "name": "VeriCoin",
+    "short": "VRC",
+    "url": "/currencies/vericoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoST",
+      "Scrypt"
+    ]
+  },
+  "AirWire": {
+    "name": "AirWire",
+    "short": "WIRE",
+    "url": "/currencies/airwire",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
   }
 }
