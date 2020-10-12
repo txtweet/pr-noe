@@ -234,5 +234,259 @@
     "tags": [
       "Token"
     ]
+  },
+  "MANY": {
+    "name": "MANY",
+    "short": "MANY",
+    "url": "/currencies/many",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Index Cooperative": {
+    "name": "Index Cooperative",
+    "short": "INDEX",
+    "url": "/currencies/index-cooperative",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Autonio": {
+    "name": "Autonio",
+    "short": "NIOX",
+    "url": "/currencies/autonio",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Payments",
+      "DAO"
+    ]
+  },
+  "CoTrader": {
+    "name": "CoTrader",
+    "short": "COT",
+    "url": "/currencies/cotrader",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ixcoin": {
+    "name": "Ixcoin",
+    "short": "IXC",
+    "url": "/currencies/ixcoin",
+    "tags": [
+      "Coin",
+      "PoW",
+      "SHA-256"
+    ]
+  },
+  "ZMINE": {
+    "name": "ZMINE",
+    "short": "ZMN",
+    "url": "/currencies/zmine",
+    "tags": [
+      "Token"
+    ]
+  },
+  "IXT": {
+    "name": "IXT",
+    "short": "IXT",
+    "url": "/currencies/ixledger",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Lendingblock": {
+    "name": "Lendingblock",
+    "short": "LND",
+    "url": "/currencies/lendingblock",
+    "tags": [
+      "Token"
+    ]
+  },
+  "imbrex": {
+    "name": "imbrex",
+    "short": "REX",
+    "url": "/currencies/imbrex",
+    "tags": [
+      "Token",
+      "Real Estate"
+    ]
+  },
+  "Crypton": {
+    "name": "Crypton",
+    "short": "CRP",
+    "url": "/currencies/utopia",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Store of Value",
+      "Gaming",
+      "Privacy",
+      "E-commerce",
+      "Platform"
+    ]
+  },
+  "Velo": {
+    "name": "Velo",
+    "short": "VELO",
+    "url": "/currencies/velo",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SocialGood": {
+    "name": "SocialGood",
+    "short": "SG",
+    "url": "/currencies/socialgood",
+    "tags": [
+      "Token"
+    ]
+  },
+  "HGH Token": {
+    "name": "HGH Token",
+    "short": "HGH",
+    "url": "/currencies/hgh-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "NOVA": {
+    "name": "NOVA",
+    "short": "NOVA",
+    "url": "/currencies/nova",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Datum": {
+    "name": "Datum",
+    "short": "DAT",
+    "url": "/currencies/datum",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "AI & Big Data",
+      "IoT"
+    ]
+  },
+  "Rapids": {
+    "name": "Rapids",
+    "short": "RPD",
+    "url": "/currencies/rapids",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Redd": {
+    "name": "Redd",
+    "short": "RDD",
+    "url": "/currencies/redd",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt",
+      "Media",
+      "Content Creation"
+    ]
+  },
+  "Sologenic": {
+    "name": "Sologenic",
+    "short": "SOLO",
+    "url": "/currencies/sologenic",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
+  "NNB Token": {
+    "name": "NNB Token",
+    "short": "NNB",
+    "url": "/currencies/nnb-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ZAC Finance": {
+    "name": "ZAC Finance",
+    "short": "ZAC",
+    "url": "/currencies/zac-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PlayGame": {
+    "name": "PlayGame",
+    "short": "PXG",
+    "url": "/currencies/playgame",
+    "tags": [
+      "Token"
+    ]
+  },
+  "QUINADS": {
+    "name": "QUINADS",
+    "short": "QUIN",
+    "url": "/currencies/quinads",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Dragon Option": {
+    "name": "Dragon Option",
+    "short": "DRAGON",
+    "url": "/currencies/dragon-option",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SongCoin": {
+    "name": "SongCoin",
+    "short": "SONG",
+    "url": "/currencies/songcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
+  "DATA": {
+    "name": "DATA",
+    "short": "DTA",
+    "url": "/currencies/data",
+    "tags": [
+      "Token",
+      "Marketing",
+      "AI & Big Data"
+    ]
+  },
+  "FLO": {
+    "name": "FLO",
+    "short": "FLO",
+    "url": "/currencies/flo",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
+  "ZENZO": {
+    "name": "ZENZO",
+    "short": "ZNZ",
+    "url": "/currencies/zenzo",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "SafeCoin": {
+    "name": "SafeCoin",
+    "short": "SAFE",
+    "url": "/currencies/safecoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
   }
 }
