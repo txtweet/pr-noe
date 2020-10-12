@@ -7,6 +7,14 @@
       "Token"
     ]
   },
+  "3X Short Sushi Token": {
+    "name": "3X Short Sushi Token",
+    "short": "SUSHIBEAR",
+    "url": "/currencies/3x-short-sushi-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "AOS": {
     "name": "AOS",
     "short": "AOS",
@@ -23,6 +31,15 @@
       "Token"
     ]
   },
+  "ATN": {
+    "name": "ATN",
+    "short": "ATN",
+    "url": "/currencies/atn",
+    "tags": [
+      "Token",
+      "Asset management"
+    ]
+  },
   "Aavegotchi": {
     "name": "Aavegotchi",
     "short": "GHST",
@@ -30,6 +47,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "Add.xyz": {
+    "name": "Add.xyz",
+    "short": "PLT",
+    "url": "/currencies/add-xyz",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "Aigang": {
@@ -113,6 +139,16 @@
       "Coin"
     ]
   },
+  "Axe": {
+    "name": "Axe",
+    "short": "AXE",
+    "url": "/currencies/axe",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace"
+    ]
+  },
   "Axial Entertainment Digital Asset": {
     "name": "Axial Entertainment Digital Asset",
     "short": "AXL",
@@ -169,6 +205,14 @@
       "Token"
     ]
   },
+  "Beefy.Finance": {
+    "name": "Beefy.Finance",
+    "short": "BIFI",
+    "url": "/currencies/beefy-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "BitBall": {
     "name": "BitBall",
     "short": "BTB",
@@ -182,6 +226,15 @@
       "E-commerce",
       "Marketplace",
       "Services"
+    ]
+  },
+  "BitCapitalVendor": {
+    "name": "BitCapitalVendor",
+    "short": "BCV",
+    "url": "/currencies/bitcapitalvendor",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "BitKan": {
@@ -205,6 +258,15 @@
       "SHA-256",
       "Store of Value",
       "State channels"
+    ]
+  },
+  "BlockStamp": {
+    "name": "BlockStamp",
+    "short": "BST",
+    "url": "/currencies/blockstamp",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Blockmason Credit Protocol": {
@@ -334,6 +396,17 @@
     "url": "/currencies/coni",
     "tags": [
       "Token"
+    ]
+  },
+  "Constant": {
+    "name": "Constant",
+    "short": "CONST",
+    "url": "/currencies/constant",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "CryptoBossCoin": {
@@ -476,6 +549,14 @@
       "Platform",
       "Enterprise solutions",
       "Masternodes"
+    ]
+  },
+  "EOSDOWN": {
+    "name": "EOSDOWN",
+    "short": "EOSDOWN",
+    "url": "/currencies/eosdown",
+    "tags": [
+      "Coin"
     ]
   },
   "ETH/LINK Price Action Candlestick Set": {
@@ -665,6 +746,14 @@
       "Mineable"
     ]
   },
+  "Global Rental Token": {
+    "name": "Global Rental Token",
+    "short": "GRT",
+    "url": "/currencies/global-rental-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Golden Token": {
     "name": "Golden Token",
     "short": "GOLD",
@@ -742,6 +831,24 @@
     "url": "/currencies/horuspay",
     "tags": [
       "Token"
+    ]
+  },
+  "Hyprr (Howdoo)": {
+    "name": "Hyprr (Howdoo)",
+    "short": "UDOO",
+    "url": "/currencies/hyprr",
+    "tags": [
+      "Token"
+    ]
+  },
+  "INT": {
+    "name": "INT",
+    "short": "INT",
+    "url": "/currencies/int-chain",
+    "tags": [
+      "Coin",
+      "Platform",
+      "IoT"
     ]
   },
   "IQ.cash": {
@@ -1200,6 +1307,14 @@
       "DApp"
     ]
   },
+  "Sentinel": {
+    "name": "Sentinel",
+    "short": "SENT",
+    "url": "/currencies/sentinel",
+    "tags": [
+      "Token"
+    ]
+  },
   "Shardus": {
     "name": "Shardus",
     "short": "ULT",
@@ -1234,6 +1349,16 @@
     "url": "/currencies/socialgood",
     "tags": [
       "Token"
+    ]
+  },
+  "Solaris": {
+    "name": "Solaris",
+    "short": "XLR",
+    "url": "/currencies/solaris",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "XEVAN"
     ]
   },
   "Sologenic": {
@@ -1455,6 +1580,14 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "Xaya": {
+    "name": "Xaya",
+    "short": "CHI",
+    "url": "/currencies/xaya",
+    "tags": [
+      "Coin"
     ]
   },
   "XeniosCoin": {
