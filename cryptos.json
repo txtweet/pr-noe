@@ -90,5 +90,149 @@
     "tags": [
       "Token"
     ]
+  },
+  "QANplatform": {
+    "name": "QANplatform",
+    "short": "QARK",
+    "url": "/currencies/qanplatform",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sXAG": {
+    "name": "sXAG",
+    "short": "SXAG",
+    "url": "/currencies/sxag",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MINDOL": {
+    "name": "MINDOL",
+    "short": "MIN",
+    "url": "/currencies/mindol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "The Sandbox": {
+    "name": "The Sandbox",
+    "short": "SAND",
+    "url": "/currencies/the-sandbox",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Gaming",
+      "Ethereum"
+    ]
+  },
+  "TrueDeck": {
+    "name": "TrueDeck",
+    "short": "TDP",
+    "url": "/currencies/truedeck",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Scorum Coins": {
+    "name": "Scorum Coins",
+    "short": "SCR",
+    "url": "/currencies/scorum-coins",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "BaconSwap": {
+    "name": "BaconSwap",
+    "short": "BACON",
+    "url": "/currencies/baconswap",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Universal Liquidity Union": {
+    "name": "Universal Liquidity Union",
+    "short": "ULU",
+    "url": "/currencies/universal-liquidity-union",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Donut": {
+    "name": "Donut",
+    "short": "DONUT",
+    "url": "/currencies/donut",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Compound Dai": {
+    "name": "Compound Dai",
+    "short": "CDAI",
+    "url": "/currencies/compound-dai",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
+  "Espers": {
+    "name": "Espers",
+    "short": "ESP",
+    "url": "/currencies/espers",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "HMQ1725",
+      "Marketplace",
+      "Payments"
+    ]
+  },
+  "EUNO": {
+    "name": "EUNO",
+    "short": "EUNO",
+    "url": "/currencies/euno",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Paxos Standard": {
+    "name": "Paxos Standard",
+    "short": "PAX",
+    "url": "/currencies/paxos-standard",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
+  "NXM": {
+    "name": "NXM",
+    "short": "NXM",
+    "url": "/currencies/nxm",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Insurance"
+    ]
+  },
+  "Auxilium": {
+    "name": "Auxilium",
+    "short": "AUX",
+    "url": "/currencies/auxilium",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Castweet": {
+    "name": "Castweet",
+    "short": "CTT",
+    "url": "/currencies/castweet",
+    "tags": [
+      "Token"
+    ]
   }
 }
