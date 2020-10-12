@@ -1,10 +1,10 @@
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
 request = require('request-promise').defaults
-  url: 'https://coinmarketcap.com/'
+  url: 'https://coinmarketcap.com/'+((Math.floor(Math.random() * 37) + 1 ))
 _ = require 'lodash'
 
-all = {}
+sauve = require './cryptos.json'
 
 request()
 .then (body) ->
@@ -25,22 +25,26 @@ request()
 
   # Boucle sur les cryptos, on mélange le tableau et on coupe à 3 éléments
   Promise.each (_.shuffle cryptos).slice(0, 2), (crypto) ->
-    request
-      url : 'https://coinmarketcap.com'+crypto.url
-      method: 'GET'
-    .then (body) ->
-      $ = cheerio.load(body)
-      #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
-      $('li.cmc-detail-panel-tags > span').each () ->
-        crypto.tags.push($(@).text())
-      console.error "->", crypto
-      all[crypto.name] = crypto
-    # console.log "coucou", crypto.name
-    # Promise.resolve()
-    .delay(Math.floor(Math.random() * 10000) + 5000)
+    unless sauve[crypto.name]?
+      request
+        url : 'https://coinmarketcap.com'+crypto.url
+        method: 'GET'
+      .then (body) ->
+        $ = cheerio.load(body)
+        #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
+        $('li.cmc-detail-panel-tags > span').each () ->
+          crypto.tags.push($(@).text())
+        console.error "->", crypto
+        sauve[crypto.name] = crypto
+      # console.log "coucou", crypto.name
+      # Promise.resolve()
+      .delay(Math.floor(Math.random() * 10000) + 5000)
+    else
+      Promise.resolve()
 
 .then () ->
-  console.warn "#{JSON.stringify all, null, 2}"
+  console.log "#{JSON.stringify sauve, null, 2}"
+  # console.log sauve
   console.warn "fin"
 .catch (err) ->
   console.warn 'ERR', err

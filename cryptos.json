@@ -1,0 +1,52 @@
+{
+  "PegNet": {
+    "name": "PegNet",
+    "short": "PEG",
+    "url": "/currencies/pegnet",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "CargoX": {
+    "name": "CargoX",
+    "short": "CXO",
+    "url": "/currencies/cargox",
+    "tags": [
+      "Token",
+      "Logistics"
+    ]
+  },
+  "Yap Stone": {
+    "name": "Yap Stone",
+    "short": "YAP",
+    "url": "/currencies/yap-stone",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Banano": {
+    "name": "Banano",
+    "short": "BAN",
+    "url": "/currencies/banano",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "MIR COIN": {
+    "name": "MIR COIN",
+    "short": "MIR",
+    "url": "/currencies/mir-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "dKargo": {
+    "name": "dKargo",
+    "short": "DKA",
+    "url": "/currencies/dkargo",
+    "tags": [
+      "Token"
+    ]
+  }
+}
