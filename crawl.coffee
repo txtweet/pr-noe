@@ -46,7 +46,7 @@ request()
   # tri du tableau
   ordered = {}
   ordered = _(sauve).keys().sort().each (key) ->
-    ordered[key] = Categories[key]
+    ordered[key] = sauve[key]
 
   console.log "#{JSON.stringify ordered, null, 2}"
   # console.log sauve
