@@ -754,6 +754,14 @@
       "Token"
     ]
   },
+  "GoldFund": {
+    "name": "GoldFund",
+    "short": "GFUN",
+    "url": "/currencies/goldfund",
+    "tags": [
+      "Token"
+    ]
+  },
   "Golden Token": {
     "name": "Golden Token",
     "short": "GOLD",
@@ -839,6 +847,16 @@
     "url": "/currencies/hyprr",
     "tags": [
       "Token"
+    ]
+  },
+  "ICOBID": {
+    "name": "ICOBID",
+    "short": "ICOB",
+    "url": "/currencies/icobid",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "INT": {
@@ -1332,6 +1350,14 @@
       "Logistics"
     ]
   },
+  "Shivers": {
+    "name": "Shivers",
+    "short": "SHVR",
+    "url": "/currencies/shivers",
+    "tags": [
+      "Token"
+    ]
+  },
   "SmartCoin": {
     "name": "SmartCoin",
     "short": "SMC",
@@ -1341,6 +1367,14 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Social Send": {
+    "name": "Social Send",
+    "short": "SEND",
+    "url": "/currencies/social-send",
+    "tags": [
+      "Coin"
     ]
   },
   "SocialGood": {
