@@ -639,5 +639,37 @@
       "Asset management",
       "Staking"
     ]
+  },
+  "FUTUREXCRYPTO": {
+    "name": "FUTUREXCRYPTO",
+    "short": "FXC",
+    "url": "/currencies/futurexcrypto",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Coni": {
+    "name": "Coni",
+    "short": "CONI",
+    "url": "/currencies/coni",
+    "tags": [
+      "Token"
+    ]
+  },
+  "P2P": {
+    "name": "P2P",
+    "short": "P2P",
+    "url": "/currencies/p2p",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Davies": {
+    "name": "Davies",
+    "short": "DVS",
+    "url": "/currencies/davies",
+    "tags": [
+      "Coin"
+    ]
   }
 }
