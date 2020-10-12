@@ -57,6 +57,17 @@
       "Token"
     ]
   },
+  "AmsterdamCoin": {
+    "name": "AmsterdamCoin",
+    "short": "AMS",
+    "url": "/currencies/amsterdamcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Quark"
+    ]
+  },
   "Arion": {
     "name": "Arion",
     "short": "ARION",
@@ -82,6 +93,14 @@
     "url": "/currencies/auxilium",
     "tags": [
       "Coin"
+    ]
+  },
+  "Axial Entertainment Digital Asset": {
+    "name": "Axial Entertainment Digital Asset",
+    "short": "AXL",
+    "url": "/currencies/axial-entertainment-digital-asset",
+    "tags": [
+      "Token"
     ]
   },
   "Azbit": {
@@ -179,6 +198,14 @@
       "Platform"
     ]
   },
+  "Buccaneer V2": {
+    "name": "Buccaneer V2",
+    "short": "BUCC",
+    "url": "/currencies/buccaneer-v2",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cannadrix": {
     "name": "Cannadrix",
     "short": "CND",
@@ -194,6 +221,14 @@
     "tags": [
       "Token",
       "Logistics"
+    ]
+  },
+  "CashBackPro": {
+    "name": "CashBackPro",
+    "short": "CBP",
+    "url": "/currencies/cashbackpro",
+    "tags": [
+      "Token"
     ]
   },
   "Castweet": {
@@ -213,6 +248,14 @@
       "Sports",
       "Content Creation",
       "Payments"
+    ]
+  },
+  "Chronologic": {
+    "name": "Chronologic",
+    "short": "DAY",
+    "url": "/currencies/chronologic",
+    "tags": [
+      "Token"
     ]
   },
   "CoTrader": {
@@ -570,6 +613,14 @@
       "Energy"
     ]
   },
+  "Guaranteed Ethurance Token Extra": {
+    "name": "Guaranteed Ethurance Token Extra",
+    "short": "GETX",
+    "url": "/currencies/guaranteed-ethurance-token-extra",
+    "tags": [
+      "Token"
+    ]
+  },
   "HGH Token": {
     "name": "HGH Token",
     "short": "HGH",
@@ -596,6 +647,24 @@
       "DAG",
       "Platform",
       "Scaling"
+    ]
+  },
+  "Hamebi Token": {
+    "name": "Hamebi Token",
+    "short": "HMB",
+    "url": "/currencies/hamebi-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "High Voltage": {
+    "name": "High Voltage",
+    "short": "HVCO",
+    "url": "/currencies/high-voltage",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
     ]
   },
   "HorusPay": {
@@ -641,6 +710,14 @@
       "SHA-256"
     ]
   },
+  "JSECOIN": {
+    "name": "JSECOIN",
+    "short": "JSE",
+    "url": "/currencies/jsecoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lendingblock": {
     "name": "Lendingblock",
     "short": "LND",
@@ -682,6 +759,14 @@
       "Mineable"
     ]
   },
+  "Machi X": {
+    "name": "Machi X",
+    "short": "MCX",
+    "url": "/currencies/machix",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mainstream For The Underground": {
     "name": "Mainstream For The Underground",
     "short": "MFTU",
@@ -721,6 +806,14 @@
     "name": "Morpher",
     "short": "MPH",
     "url": "/currencies/morpher",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MyTVchain": {
+    "name": "MyTVchain",
+    "short": "MYTV",
+    "url": "/currencies/mytvchain",
     "tags": [
       "Token"
     ]
@@ -794,6 +887,16 @@
     "url": "/currencies/openalexa-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "Ormeus Coin": {
+    "name": "Ormeus Coin",
+    "short": "ORMEUS",
+    "url": "/currencies/ormeus-coin",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Payments"
     ]
   },
   "P2P": {
@@ -955,6 +1058,14 @@
       "DApp"
     ]
   },
+  "Shardus": {
+    "name": "Shardus",
+    "short": "ULT",
+    "url": "/currencies/shardus",
+    "tags": [
+      "Token"
+    ]
+  },
   "SocialGood": {
     "name": "SocialGood",
     "short": "SG",
@@ -990,6 +1101,14 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
+    ]
+  },
+  "SwapShip": {
+    "name": "SwapShip",
+    "short": "SWSH",
+    "url": "/currencies/swapship",
+    "tags": [
+      "Token"
     ]
   },
   "SwissBorg": {
@@ -1124,6 +1243,15 @@
       "Staking"
     ]
   },
+  "XPA": {
+    "name": "XPA",
+    "short": "XPA",
+    "url": "/currencies/xpa",
+    "tags": [
+      "Token",
+      "Asset management"
+    ]
+  },
   "XeniosCoin": {
     "name": "XeniosCoin",
     "short": "XNC",
@@ -1162,6 +1290,15 @@
     "url": "/currencies/zmine",
     "tags": [
       "Token"
+    ]
+  },
+  "Zen Protocol": {
+    "name": "Zen Protocol",
+    "short": "ZP",
+    "url": "/currencies/zen-protocol",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "dKargo": {
