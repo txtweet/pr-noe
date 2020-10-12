@@ -42,9 +42,13 @@ request()
     else
       console.warn "Déjà indexée : ", crypto.name
       Promise.resolve()
-
 .then () ->
-  console.log "#{JSON.stringify sauve, null, 2}"
+  # tri du tableau
+  ordered = {}
+  ordered = _(sauve).keys().sort().each (key) ->
+    ordered[key] = Categories[key]
+
+  console.log "#{JSON.stringify ordered, null, 2}"
   # console.log sauve
   console.warn "fin"
 .catch (err) ->
