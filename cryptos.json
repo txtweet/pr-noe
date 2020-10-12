@@ -528,5 +528,116 @@
     "tags": [
       "Token"
     ]
+  },
+  "QURA GLOBAL": {
+    "name": "QURA GLOBAL",
+    "short": "QURA",
+    "url": "/currencies/qura-global",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Cannadrix": {
+    "name": "Cannadrix",
+    "short": "CND",
+    "url": "/currencies/cannadrix",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Flixxo": {
+    "name": "Flixxo",
+    "short": "FLIXX",
+    "url": "/currencies/flixxo",
+    "tags": [
+      "Token",
+      "Media",
+      "Entertainment",
+      "Video"
+    ]
+  },
+  "Trinity Network Credit": {
+    "name": "Trinity Network Credit",
+    "short": "TNC",
+    "url": "/currencies/trinity-network-credit",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments",
+      "State channels"
+    ]
+  },
+  "SALT": {
+    "name": "SALT",
+    "short": "SALT",
+    "url": "/currencies/salt",
+    "tags": [
+      "Token",
+      "Platform",
+      "Smart Contracts"
+    ]
+  },
+  "Aavegotchi": {
+    "name": "Aavegotchi",
+    "short": "GHST",
+    "url": "/currencies/aavegotchi",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
+    ]
+  },
+  "IQ.cash": {
+    "name": "IQ.cash",
+    "short": "IQ",
+    "url": "/currencies/iqcash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "FintruX Network": {
+    "name": "FintruX Network",
+    "short": "FTX",
+    "url": "/currencies/fintrux-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeFiat": {
+    "name": "DeFiat",
+    "short": "DFT",
+    "url": "/currencies/defiat",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BeeKan": {
+    "name": "BeeKan",
+    "short": "BKBT",
+    "url": "/currencies/beekan",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Chiliz": {
+    "name": "Chiliz",
+    "short": "CHZ",
+    "url": "/currencies/chiliz",
+    "tags": [
+      "Token",
+      "Sports",
+      "Content Creation",
+      "Payments"
+    ]
+  },
+  "SwissBorg": {
+    "name": "SwissBorg",
+    "short": "CHSB",
+    "url": "/currencies/swissborg",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Staking"
+    ]
   }
 }
