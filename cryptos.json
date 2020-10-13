@@ -178,6 +178,14 @@
       "Token"
     ]
   },
+  "AMATEN": {
+    "name": "AMATEN",
+    "short": "AMA",
+    "url": "/currencies/amaten",
+    "tags": [
+      "Token"
+    ]
+  },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
     "short": "ABTC",
@@ -267,6 +275,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "Abitshadow Token": {
+    "name": "Abitshadow Token",
+    "short": "ABST",
+    "url": "/currencies/abitshadow-token",
+    "tags": [
+      "Token"
     ]
   },
   "Acute Angle Cloud": {
@@ -602,6 +618,14 @@
       "Marketing"
     ]
   },
+  "AtromG8": {
+    "name": "AtromG8",
+    "short": "AG8",
+    "url": "/currencies/atromg8",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Augur": {
     "name": "Augur",
     "short": "REP",
@@ -797,6 +821,15 @@
       "Coin"
     ]
   },
+  "BUZZCoin": {
+    "name": "BUZZCoin",
+    "short": "BUZZ",
+    "url": "/currencies/buzzcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BaconSwap": {
     "name": "BaconSwap",
     "short": "BACON",
@@ -849,6 +882,17 @@
     "url": "/currencies/bast",
     "tags": [
       "Token"
+    ]
+  },
+  "Beam": {
+    "name": "Beam",
+    "short": "BEAM",
+    "url": "/currencies/beam",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Mimble Wimble"
     ]
   },
   "Beaxy": {
@@ -2041,6 +2085,15 @@
       "Platform"
     ]
   },
+  "Cryptopay": {
+    "name": "Cryptopay",
+    "short": "CPAY",
+    "url": "/currencies/cryptopay",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
+    ]
+  },
   "Crystal Token": {
     "name": "Crystal Token",
     "short": "CYL",
@@ -2247,6 +2300,14 @@
     "url": "/currencies/davies",
     "tags": [
       "Coin"
+    ]
+  },
+  "Dawn Protocol": {
+    "name": "Dawn Protocol",
+    "short": "DAWN",
+    "url": "/currencies/dawn-protocol",
+    "tags": [
+      "Token"
     ]
   },
   "Dcoin Token": {
@@ -2508,6 +2569,14 @@
     "name": "Dragon Option",
     "short": "DRAGON",
     "url": "/currencies/dragon-option",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DragonVein": {
+    "name": "DragonVein",
+    "short": "DVC",
+    "url": "/currencies/dragonvein",
     "tags": [
       "Token"
     ]
@@ -2887,6 +2956,14 @@
       "Token"
     ]
   },
+  "Eska": {
+    "name": "Eska",
+    "short": "ESK",
+    "url": "/currencies/eska",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Espers": {
     "name": "Espers",
     "short": "ESP",
@@ -3121,6 +3198,23 @@
     "url": "/currencies/flux",
     "tags": [
       "Token"
+    ]
+  },
+  "FME": {
+    "name": "FME",
+    "short": "FME",
+    "url": "/currencies/fme",
+    "tags": [
+      "Token"
+    ]
+  },
+  "FNB Protocol": {
+    "name": "FNB Protocol",
+    "short": "FNB",
+    "url": "/currencies/fnb-protocol",
+    "tags": [
+      "Token",
+      "Platform"
     ]
   },
   "FNKOS": {
@@ -3402,6 +3496,14 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token"
+    ]
+  },
+  "GazeCoin": {
+    "name": "GazeCoin",
+    "short": "GZE",
+    "url": "/currencies/gazecoin",
+    "tags": [
+      "Token"
     ]
   },
   "Geeq": {
@@ -4119,6 +4221,14 @@
       "Mineable"
     ]
   },
+  "Ivy": {
+    "name": "Ivy",
+    "short": "IVY",
+    "url": "/currencies/ivy",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ixcoin": {
     "name": "Ixcoin",
     "short": "IXC",
@@ -4127,6 +4237,14 @@
       "Coin",
       "PoW",
       "SHA-256"
+    ]
+  },
+  "JBOX": {
+    "name": "JBOX",
+    "short": "JBX",
+    "url": "/currencies/jboxcoin",
+    "tags": [
+      "Token"
     ]
   },
   "JSECOIN": {
@@ -4390,6 +4508,14 @@
     "tags": [
       "Token",
       "Philanthropy"
+    ]
+  },
+  "LINK Profit Taker Set": {
+    "name": "LINK Profit Taker Set",
+    "short": "LINKPT",
+    "url": "/currencies/link-profit-taker-set",
+    "tags": [
+      "Token"
     ]
   },
   "LINK/ETH RSI Ratio Trading Set": {
@@ -4671,6 +4797,14 @@
       "Token"
     ]
   },
+  "MEETtoken": {
+    "name": "MEETtoken",
+    "short": "MTT",
+    "url": "/currencies/meettoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "MEX": {
     "name": "MEX",
     "short": "MEX",
@@ -4908,6 +5042,17 @@
       "Token"
     ]
   },
+  "Metaverse ETP": {
+    "name": "Metaverse ETP",
+    "short": "ETP",
+    "url": "/currencies/metaverse",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Asset management",
+      "Smart Contracts"
+    ]
+  },
   "Meter Governance mapped by Meter.io": {
     "name": "Meter Governance mapped by Meter.io",
     "short": "eMTRG",
@@ -4938,6 +5083,14 @@
     "name": "Mettalex",
     "short": "MTLX",
     "url": "/currencies/mettalex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MidasProtocol": {
+    "name": "MidasProtocol",
+    "short": "MAS",
+    "url": "/currencies/midasprotocol",
     "tags": [
       "Token"
     ]
@@ -5498,6 +5651,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13"
+    ]
+  },
+  "Open Predict Token": {
+    "name": "Open Predict Token",
+    "short": "OPT",
+    "url": "/currencies/open-predict-token",
+    "tags": [
+      "Token"
     ]
   },
   "Open Trading Network": {
@@ -6104,6 +6265,14 @@
       "Token"
     ]
   },
+  "ROONEX": {
+    "name": "ROONEX",
+    "short": "RNX",
+    "url": "/currencies/roonex",
+    "tags": [
+      "Token"
+    ]
+  },
   "RabbitCoin": {
     "name": "RabbitCoin",
     "short": "RBBT",
@@ -6241,6 +6410,14 @@
       "DeFi"
     ]
   },
+  "Ritocoin": {
+    "name": "Ritocoin",
+    "short": "RITO",
+    "url": "/currencies/ritocoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Rocket Pool": {
     "name": "Rocket Pool",
     "short": "RPL",
@@ -6263,6 +6440,14 @@
     "url": "/currencies/rotten",
     "tags": [
       "Token"
+    ]
+  },
+  "Rupaya": {
+    "name": "Rupaya",
+    "short": "RUPX",
+    "url": "/currencies/rupaya",
+    "tags": [
+      "Coin"
     ]
   },
   "Rupee": {
@@ -6480,6 +6665,14 @@
       "Coin"
     ]
   },
+  "SeChain": {
+    "name": "SeChain",
+    "short": "SNN",
+    "url": "/currencies/sechain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Secure Cash": {
     "name": "Secure Cash",
     "short": "SCSX",
@@ -6642,6 +6835,14 @@
     "name": "Silent Notary",
     "short": "SNTR",
     "url": "/currencies/silent-notary",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Simone": {
+    "name": "Simone",
+    "short": "SON",
+    "url": "/currencies/simone",
     "tags": [
       "Token"
     ]
@@ -6921,6 +7122,17 @@
       "Coin"
     ]
   },
+  "SuperCoin": {
+    "name": "SuperCoin",
+    "short": "SUPER",
+    "url": "/currencies/supercoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "SuperSkynet": {
     "name": "SuperSkynet",
     "short": "SSN",
@@ -6965,6 +7177,15 @@
       "Interoperability",
       "Payments",
       "DeFi"
+    ]
+  },
+  "SwiftCash": {
+    "name": "SwiftCash",
+    "short": "SWIFT",
+    "url": "/currencies/swiftcash",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Swipe": {
@@ -7053,6 +7274,15 @@
     "url": "/currencies/top",
     "tags": [
       "Token"
+    ]
+  },
+  "TRONbetDice": {
+    "name": "TRONbetDice",
+    "short": "DICE",
+    "url": "/currencies/tronbetdice",
+    "tags": [
+      "Token",
+      "Gambling"
     ]
   },
   "TRONbetLive": {
@@ -7214,6 +7444,14 @@
       "JL Van der Velde"
     ]
   },
+  "Tether Gold": {
+    "name": "Tether Gold",
+    "short": "XAUT",
+    "url": "/currencies/tether-gold",
+    "tags": [
+      "Token"
+    ]
+  },
   "Thar Token": {
     "name": "Thar Token",
     "short": "THAR",
@@ -7267,6 +7505,14 @@
     "name": "Thingschain",
     "short": "TIC",
     "url": "/currencies/thingschain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Thisoption": {
+    "name": "Thisoption",
+    "short": "TONS",
+    "url": "/currencies/thisoption",
     "tags": [
       "Token"
     ]
@@ -7856,6 +8102,15 @@
       "Coin"
     ]
   },
+  "Wagerr": {
+    "name": "Wagerr",
+    "short": "WGR",
+    "url": "/currencies/wagerr",
+    "tags": [
+      "Coin",
+      "Gambling"
+    ]
+  },
   "Wallabee": {
     "name": "Wallabee",
     "short": "WLB",
@@ -8000,6 +8255,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256"
+    ]
+  },
+  "XIO": {
+    "name": "XIO",
+    "short": "XIO",
+    "url": "/currencies/xio",
+    "tags": [
+      "Token"
     ]
   },
   "XPA": {
@@ -8369,6 +8632,15 @@
       "Token"
     ]
   },
+  "Zenon": {
+    "name": "Zenon",
+    "short": "ZNN",
+    "url": "/currencies/zenon",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Zetacoin": {
     "name": "Zetacoin",
     "short": "ZET",
@@ -8384,6 +8656,14 @@
     "name": "ZeuxCoin",
     "short": "ZUC",
     "url": "/currencies/zeuxcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ziktalk": {
+    "name": "Ziktalk",
+    "short": "ZIK",
+    "url": "/currencies/zik-token",
     "tags": [
       "Token"
     ]
@@ -8435,6 +8715,17 @@
     "url": "/currencies/dkargo",
     "tags": [
       "Token"
+    ]
+  },
+  "e-Gulden": {
+    "name": "e-Gulden",
+    "short": "EFL",
+    "url": "/currencies/e-gulden",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "eBitcoin": {
