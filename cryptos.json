@@ -285,6 +285,14 @@
       "Research"
     ]
   },
+  "Alpha Token": {
+    "name": "Alpha Token",
+    "short": "A",
+    "url": "/currencies/alpha-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "AmonD": {
     "name": "AmonD",
     "short": "AMON",
@@ -3242,6 +3250,16 @@
       "Coin"
     ]
   },
+  "ODUWA": {
+    "name": "ODUWA",
+    "short": "OWC",
+    "url": "/currencies/oduwa",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace"
+    ]
+  },
   "OKB": {
     "name": "OKB",
     "short": "OKB",
@@ -3455,6 +3473,19 @@
     "url": "/currencies/pearl",
     "tags": [
       "Token"
+    ]
+  },
+  "PeerEx": {
+    "name": "PeerEx",
+    "short": "PERX",
+    "url": "/currencies/peerex",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Platform",
+      "Decentralized exchange",
+      "Staking",
+      "DApp"
     ]
   },
   "Peerplays": {
@@ -3672,6 +3703,16 @@
     "url": "/currencies/ravencoin-classic",
     "tags": [
       "Coin"
+    ]
+  },
+  "Red Pulse Phoenix": {
+    "name": "Red Pulse Phoenix",
+    "short": "PHX",
+    "url": "/currencies/red-pulse",
+    "tags": [
+      "Token",
+      "Services",
+      "Research"
     ]
   },
   "RedFOX Labs": {
@@ -3954,6 +3995,14 @@
     "tags": [
       "Token",
       "Yield farming"
+    ]
+  },
+  "Signals Network": {
+    "name": "Signals Network",
+    "short": "SGN",
+    "url": "/currencies/signals-network",
+    "tags": [
+      "Token"
     ]
   },
   "SignatureChain ": {
@@ -4455,6 +4504,14 @@
       "Token"
     ]
   },
+  "Two Prime FF1 Token": {
+    "name": "Two Prime FF1 Token",
+    "short": "FF1",
+    "url": "/currencies/two-prime-ff1-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ubiq": {
     "name": "Ubiq",
     "short": "UBQ",
@@ -4699,6 +4756,16 @@
       "Crowdfunding"
     ]
   },
+  "Wings": {
+    "name": "Wings",
+    "short": "WINGS",
+    "url": "/currencies/wings",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdfunding"
+    ]
+  },
   "Wisdom Chain": {
     "name": "Wisdom Chain",
     "short": "WDC",
@@ -4738,6 +4805,14 @@
     "name": "XYO",
     "short": "XYO",
     "url": "/currencies/xyo",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Xank": {
+    "name": "Xank",
+    "short": "XANK",
+    "url": "/currencies/xank",
     "tags": [
       "Token"
     ]
