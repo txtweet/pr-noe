@@ -1250,6 +1250,20 @@
       "Scrypt"
     ]
   },
+  "Cardano": {
+    "name": "Cardano",
+    "short": "ADA",
+    "url": "/currencies/cardano",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "Research",
+      "Smart Contracts",
+      "Binance Chain",
+      "Communications & Social Media"
+    ]
+  },
   "CargoX": {
     "name": "CargoX",
     "short": "CXO",
@@ -1937,6 +1951,28 @@
     "url": "/currencies/digital-currency-daily",
     "tags": [
       "Token"
+    ]
+  },
+  "Digitalcoin": {
+    "name": "Digitalcoin",
+    "short": "DGC",
+    "url": "/currencies/digitalcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
+  "DigixDAO": {
+    "name": "DigixDAO",
+    "short": "DGD",
+    "url": "/currencies/digixdao",
+    "tags": [
+      "Token",
+      "Platform",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "Diligence": {
@@ -3034,6 +3070,14 @@
       "Coin"
     ]
   },
+  "Hurify": {
+    "name": "Hurify",
+    "short": "HUR",
+    "url": "/currencies/hurify",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hush": {
     "name": "Hush",
     "short": "HUSH",
@@ -3397,6 +3441,14 @@
       "Coin"
     ]
   },
+  "Khipu Token": {
+    "name": "Khipu Token",
+    "short": "KIP",
+    "url": "/currencies/khipu-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Kids Cash": {
     "name": "Kids Cash",
     "short": "KASH",
@@ -3682,6 +3734,14 @@
       "Token"
     ]
   },
+  "MCDEX": {
+    "name": "MCDEX",
+    "short": "MCB",
+    "url": "/currencies/mcdex",
+    "tags": [
+      "Token"
+    ]
+  },
   "MEX": {
     "name": "MEX",
     "short": "MEX",
@@ -3806,12 +3866,29 @@
       "Staking"
     ]
   },
+  "Mchain": {
+    "name": "Mchain",
+    "short": "MAR",
+    "url": "/currencies/mchain",
+    "tags": [
+      "Coin"
+    ]
+  },
   "MeconCash": {
     "name": "MeconCash",
     "short": "MCH",
     "url": "/currencies/meconcash",
     "tags": [
       "Token"
+    ]
+  },
+  "MediBloc": {
+    "name": "MediBloc",
+    "short": "MED",
+    "url": "/currencies/medibloc",
+    "tags": [
+      "Coin",
+      "Health"
     ]
   },
   "Mega Lottery Services Global": {
@@ -3845,6 +3922,14 @@
     "name": "MesChain",
     "short": "MES",
     "url": "/currencies/meschain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Metaprediction": {
+    "name": "Metaprediction",
+    "short": "METP",
+    "url": "/currencies/metaprediction",
     "tags": [
       "Token"
     ]
@@ -5486,6 +5571,14 @@
       "Token"
     ]
   },
+  "TRXDOWN": {
+    "name": "TRXDOWN",
+    "short": "TRXDOWN",
+    "url": "/currencies/trxdown",
+    "tags": [
+      "Coin"
+    ]
+  },
   "TRXUP": {
     "name": "TRXUP",
     "short": "TRXUP",
@@ -5793,6 +5886,14 @@
     "name": "Two Prime FF1 Token",
     "short": "FF1",
     "url": "/currencies/two-prime-ff1-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "UCX FOUNDATION": {
+    "name": "UCX FOUNDATION",
+    "short": "UCX",
+    "url": "/currencies/ucx-foundation",
     "tags": [
       "Token"
     ]
@@ -6150,6 +6251,18 @@
       "Token"
     ]
   },
+  "Wrapped Bitcoin": {
+    "name": "Wrapped Bitcoin",
+    "short": "WBTC",
+    "url": "/currencies/wrapped-bitcoin",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "DeFi",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "Wrapped LEO": {
     "name": "Wrapped LEO",
     "short": "WLEO",
@@ -6497,6 +6610,15 @@
       "Token"
     ]
   },
+  "Zynecoin": {
+    "name": "Zynecoin",
+    "short": "ZYN",
+    "url": "/currencies/zynecoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Zyro": {
     "name": "Zyro",
     "short": "ZYRO",
@@ -6610,6 +6732,15 @@
     "url": "/currencies/sbch",
     "tags": [
       "Token"
+    ]
+  },
+  "sBTC": {
+    "name": "sBTC",
+    "short": "SBTC",
+    "url": "/currencies/sbtc",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "sCEX": {
