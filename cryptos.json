@@ -189,6 +189,18 @@
       "Token"
     ]
   },
+  "Algorand": {
+    "name": "Algorand",
+    "short": "ALGO",
+    "url": "/currencies/algorand",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "Platform",
+      "Research"
+    ]
+  },
   "AmonD": {
     "name": "AmonD",
     "short": "AMON",
@@ -1387,6 +1399,16 @@
       "Token"
     ]
   },
+  "FABRK": {
+    "name": "FABRK",
+    "short": "FAB",
+    "url": "/currencies/fabrk",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data"
+    ]
+  },
   "FANZY": {
     "name": "FANZY",
     "short": "FX1",
@@ -1442,6 +1464,14 @@
     "name": "FUTUREXCRYPTO",
     "short": "FXC",
     "url": "/currencies/futurexcrypto",
+    "tags": [
+      "Token"
+    ]
+  },
+  "FidexToken": {
+    "name": "FidexToken",
+    "short": "FEX",
+    "url": "/currencies/fidex-token",
     "tags": [
       "Token"
     ]
@@ -2068,6 +2098,14 @@
       "Coin"
     ]
   },
+  "LinkEye": {
+    "name": "LinkEye",
+    "short": "LET",
+    "url": "/currencies/linkeye",
+    "tags": [
+      "Token"
+    ]
+  },
   "LiteBitcoin": {
     "name": "LiteBitcoin",
     "short": "LBTC",
@@ -2236,6 +2274,15 @@
     "url": "/currencies/meconcash",
     "tags": [
       "Token"
+    ]
+  },
+  "Meme": {
+    "name": "Meme",
+    "short": "MEME",
+    "url": "/currencies/degenerator-meme",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "MesChain": {
@@ -2542,6 +2589,14 @@
     "name": "POP Network Token",
     "short": "POP",
     "url": "/currencies/pop-network-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PRASM": {
+    "name": "PRASM",
+    "short": "PSM",
+    "url": "/currencies/prasm",
     "tags": [
       "Token"
     ]
@@ -3193,6 +3248,18 @@
       "Token"
     ]
   },
+  "Terra": {
+    "name": "Terra",
+    "short": "LUNA",
+    "url": "/currencies/terra-luna",
+    "tags": [
+      "Coin",
+      "Store of Value",
+      "DeFi",
+      "Payments",
+      "Stablecoin - Algorithmically-Stabilized"
+    ]
+  },
   "Tesra": {
     "name": "Tesra",
     "short": "TSR",
@@ -3340,6 +3407,14 @@
       "Mineable",
       "PoS",
       "Blake"
+    ]
+  },
+  "Trust Wallet Token": {
+    "name": "Trust Wallet Token",
+    "short": "TWT",
+    "url": "/currencies/trust-wallet-token",
+    "tags": [
+      "Token"
     ]
   },
   "TrustVerse": {
