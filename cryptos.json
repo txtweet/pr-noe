@@ -527,6 +527,14 @@
       "Token"
     ]
   },
+  "BITFXT COIN": {
+    "name": "BITFXT COIN",
+    "short": "BXT",
+    "url": "/currencies/bitfxt-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "BIZKEY": {
     "name": "BIZKEY",
     "short": "BZKY",
@@ -651,10 +659,30 @@
       "NEM"
     ]
   },
+  "Beldex": {
+    "name": "Beldex",
+    "short": "BDX",
+    "url": "/currencies/beldex",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "Centralized exchange",
+      "Discount token",
+      "Privacy"
+    ]
+  },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
     "short": "BNP",
     "url": "/currencies/benepit-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bezant": {
+    "name": "Bezant",
+    "short": "BZNT",
+    "url": "/currencies/bezant",
     "tags": [
       "Token"
     ]
@@ -990,6 +1018,17 @@
     "url": "/currencies/bulleon",
     "tags": [
       "Token"
+    ]
+  },
+  "Burger money": {
+    "name": "Burger money",
+    "short": "BURGER",
+    "url": "/currencies/burger-money",
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Yield farming",
+      "Binance Chain"
     ]
   },
   "Buxcoin": {
@@ -1930,6 +1969,14 @@
       "Token"
     ]
   },
+  "EnterCoin": {
+    "name": "EnterCoin",
+    "short": "ENTRC",
+    "url": "/currencies/entercoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Espers": {
     "name": "Espers",
     "short": "ESP",
@@ -2314,6 +2361,14 @@
     "name": "Global X Change Token",
     "short": "GXT",
     "url": "/currencies/global-x-change-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Globalvillage Ecosystem": {
+    "name": "Globalvillage Ecosystem",
+    "short": "GVE",
+    "url": "/currencies/globalvillage-ecosystem",
     "tags": [
       "Token"
     ]
@@ -2756,6 +2811,14 @@
       "Token"
     ]
   },
+  "InternationalCryptoX": {
+    "name": "InternationalCryptoX",
+    "short": "INCX",
+    "url": "/currencies/internationalcryptox",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ixcoin": {
     "name": "Ixcoin",
     "short": "IXC",
@@ -3002,6 +3065,14 @@
     "url": "/currencies/lightstreams",
     "tags": [
       "Coin"
+    ]
+  },
+  "LimitSwap": {
+    "name": "LimitSwap",
+    "short": "LIMIT",
+    "url": "/currencies/limitswap",
+    "tags": [
+      "Token"
     ]
   },
   "Linear": {
@@ -3421,6 +3492,15 @@
       "Smart Contracts"
     ]
   },
+  "NIX": {
+    "name": "NIX",
+    "short": "NIX",
+    "url": "/currencies/nix",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "NNB Token": {
     "name": "NNB Token",
     "short": "NNB",
@@ -3577,6 +3657,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "OTOCASH": {
+    "name": "OTOCASH",
+    "short": "OTO",
+    "url": "/currencies/otocash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "Medium of Exchange"
     ]
   },
   "Ocean Protocol": {
@@ -3812,6 +3903,18 @@
       "Coin"
     ]
   },
+  "Phantasma": {
+    "name": "Phantasma",
+    "short": "SOUL",
+    "url": "/currencies/phantasma",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions",
+      "Collectibles & NFTs",
+      "Content Creation"
+    ]
+  },
   "Phantomx": {
     "name": "Phantomx",
     "short": "PNX",
@@ -3852,6 +3955,14 @@
       "PoS",
       "Privacy",
       "Transport"
+    ]
+  },
+  "PlayFuel": {
+    "name": "PlayFuel",
+    "short": "PLF",
+    "url": "/currencies/playfuel",
+    "tags": [
+      "Token"
     ]
   },
   "PlayGame": {
@@ -4601,6 +4712,14 @@
       "Staking"
     ]
   },
+  "T.OS": {
+    "name": "T.OS",
+    "short": "TOSC",
+    "url": "/currencies/t-os",
+    "tags": [
+      "Token"
+    ]
+  },
   "TAI": {
     "name": "TAI",
     "short": "TAI",
@@ -4727,6 +4846,14 @@
     "name": "Thingschain",
     "short": "TIC",
     "url": "/currencies/thingschain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Thore Cash": {
+    "name": "Thore Cash",
+    "short": "TCH",
+    "url": "/currencies/thore-cash",
     "tags": [
       "Token"
     ]
@@ -5107,6 +5234,14 @@
       "Coin"
     ]
   },
+  "Wallet Plus X": {
+    "name": "Wallet Plus X",
+    "short": "WPX",
+    "url": "/currencies/wallet-plus-x",
+    "tags": [
+      "Token"
+    ]
+  },
   "Walletreum": {
     "name": "Walletreum",
     "short": "WALT",
@@ -5173,6 +5308,14 @@
     "url": "/currencies/wisdom-chain",
     "tags": [
       "Coin"
+    ]
+  },
+  "Worldcore": {
+    "name": "Worldcore",
+    "short": "WRC",
+    "url": "/currencies/worldcore",
+    "tags": [
+      "Token"
     ]
   },
   "WowSecret": {
@@ -5338,6 +5481,16 @@
     "url": "/currencies/youengine",
     "tags": [
       "Token"
+    ]
+  },
+  "YOYOW": {
+    "name": "YOYOW",
+    "short": "YOYOW",
+    "url": "/currencies/yoyow",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation"
     ]
   },
   "Yap Stone": {
