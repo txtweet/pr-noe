@@ -621,6 +621,14 @@
       "Coin"
     ]
   },
+  "BNSD Finance": {
+    "name": "BNSD Finance",
+    "short": "BNSD",
+    "url": "/currencies/bnsd-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "BOSAGORA": {
     "name": "BOSAGORA",
     "short": "BOA",
@@ -1559,6 +1567,14 @@
       "Token"
     ]
   },
+  "Crypto Accept": {
+    "name": "Crypto Accept",
+    "short": "ACPT",
+    "url": "/currencies/crypto-accept",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crypto Price Index": {
     "name": "Crypto Price Index",
     "short": "CPI",
@@ -1778,6 +1794,14 @@
     "name": "Davies",
     "short": "DVS",
     "url": "/currencies/davies",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Dcoin Token": {
+    "name": "Dcoin Token",
+    "short": "DT",
+    "url": "/currencies/dcoin-token",
     "tags": [
       "Coin"
     ]
@@ -2360,6 +2384,14 @@
     "name": "Experty",
     "short": "EXY",
     "url": "/currencies/experty",
+    "tags": [
+      "Token"
+    ]
+  },
+  "EzyStayz": {
+    "name": "EzyStayz",
+    "short": "EZY",
+    "url": "/currencies/ezystayz",
     "tags": [
       "Token"
     ]
@@ -5342,6 +5374,14 @@
       "Mineable"
     ]
   },
+  "THECASH": {
+    "name": "THECASH",
+    "short": "TCH",
+    "url": "/currencies/thecash",
+    "tags": [
+      "Token"
+    ]
+  },
   "TOKYO": {
     "name": "TOKYO",
     "short": "TOKC",
@@ -5626,6 +5666,14 @@
       "Stablecoin - Asset-Backed"
     ]
   },
+  "Trump Wins Token": {
+    "name": "Trump Wins Token",
+    "short": "TRUMPWIN",
+    "url": "/currencies/trump-wins-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "TrumpCoin": {
     "name": "TrumpCoin",
     "short": "TRUMP",
@@ -5693,6 +5741,14 @@
       "Mineable",
       "Quark",
       "Masternodes"
+    ]
+  },
+  "UniDollar": {
+    "name": "UniDollar",
+    "short": "UNIUSD",
+    "url": "/currencies/unidollar",
+    "tags": [
+      "Token"
     ]
   },
   "Unikoin Gold": {
@@ -6313,6 +6369,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "ZenSports": {
+    "name": "ZenSports",
+    "short": "SPORTS",
+    "url": "/currencies/zensports",
+    "tags": [
+      "Token"
     ]
   },
   "Zetacoin": {
