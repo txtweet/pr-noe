@@ -281,6 +281,14 @@
       "Scrypt"
     ]
   },
+  "Arcona": {
+    "name": "Arcona",
+    "short": "ARCONA",
+    "url": "/currencies/arcona",
+    "tags": [
+      "Token"
+    ]
+  },
   "Arion": {
     "name": "Arion",
     "short": "ARION",
@@ -485,6 +493,14 @@
       "Token"
     ]
   },
+  "BeeEx": {
+    "name": "BeeEx",
+    "short": "BEE",
+    "url": "/currencies/beeex",
+    "tags": [
+      "Token"
+    ]
+  },
   "BeeKan": {
     "name": "BeeKan",
     "short": "BKBT",
@@ -501,12 +517,35 @@
       "Token"
     ]
   },
+  "Beer Money": {
+    "name": "Beer Money",
+    "short": "BEER",
+    "url": "/currencies/beer-money",
+    "tags": [
+      "Token",
+      "Commodities",
+      "Food & Beverage",
+      "Loyalty",
+      "Discount token",
+      "Payments",
+      "Wallet",
+      "NEM"
+    ]
+  },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
     "short": "BNP",
     "url": "/currencies/benepit-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "Bfine": {
+    "name": "Bfine",
+    "short": "BRI",
+    "url": "/currencies/bfine",
+    "tags": [
+      "Coin"
     ]
   },
   "BigBang Core": {
@@ -663,6 +702,15 @@
       "Ethereum"
     ]
   },
+  "BitcoinV": {
+    "name": "BitcoinV",
+    "short": "BTCV",
+    "url": "/currencies/bitcoinv",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcurate": {
     "name": "Bitcurate",
     "short": "BTCR",
@@ -730,6 +778,15 @@
       "Mineable",
       "PoW",
       "X11"
+    ]
+  },
+  "Boosted Finance": {
+    "name": "Boosted Finance",
+    "short": "BOOST",
+    "url": "/currencies/boosted-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
     ]
   },
   "Brickblock": {
@@ -1109,6 +1166,14 @@
       "AI & Big Data"
     ]
   },
+  "DAV Coin": {
+    "name": "DAV Coin",
+    "short": "DAV",
+    "url": "/currencies/dav-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "DECOIN": {
     "name": "DECOIN",
     "short": "DTEP",
@@ -1145,6 +1210,14 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
+    ]
+  },
+  "Daneel": {
+    "name": "Daneel",
+    "short": "DAN",
+    "url": "/currencies/daneel",
+    "tags": [
+      "Token"
     ]
   },
   "DarkPay": {
@@ -1510,6 +1583,19 @@
       "Binance Chain"
     ]
   },
+  "Ethereum Classic": {
+    "name": "Ethereum Classic",
+    "short": "ETC",
+    "url": "/currencies/ethereum-classic",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Ethash",
+      "Platform",
+      "Smart Contracts"
+    ]
+  },
   "Ethereum Gold Project": {
     "name": "Ethereum Gold Project",
     "short": "ETGP",
@@ -1851,6 +1937,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "GrafSound": {
+    "name": "GrafSound",
+    "short": "GSMT",
+    "url": "/currencies/grafsound",
+    "tags": [
+      "Token"
     ]
   },
   "Graviocoin": {
@@ -2405,6 +2499,17 @@
       "Masternodes",
       "Mineable",
       "Technology"
+    ]
+  },
+  "Loopring": {
+    "name": "Loopring",
+    "short": "LRC",
+    "url": "/currencies/loopring",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Decentralized exchange",
+      "DeFi"
     ]
   },
   "Lua Token": {
@@ -3114,6 +3219,15 @@
     "url": "/currencies/qura-global",
     "tags": [
       "Token"
+    ]
+  },
+  "Qbao": {
+    "name": "Qbao",
+    "short": "QBT",
+    "url": "/currencies/qbao",
+    "tags": [
+      "Token",
+      "Marketplace"
     ]
   },
   "Qtum": {
@@ -4058,6 +4172,24 @@
       "Coin"
     ]
   },
+  "Walletreum": {
+    "name": "Walletreum",
+    "short": "WALT",
+    "url": "/currencies/walletreum",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Waltonchain": {
+    "name": "Waltonchain",
+    "short": "WTC",
+    "url": "/currencies/waltonchain",
+    "tags": [
+      "Token",
+      "Logistics",
+      "IoT"
+    ]
+  },
   "Waves": {
     "name": "Waves",
     "short": "WAVES",
@@ -4088,6 +4220,14 @@
       "Token",
       "Marketplace",
       "Crowdfunding"
+    ]
+  },
+  "Wisdom Chain": {
+    "name": "Wisdom Chain",
+    "short": "WDC",
+    "url": "/currencies/wisdom-chain",
+    "tags": [
+      "Coin"
     ]
   },
   "Wrapped LEO": {
