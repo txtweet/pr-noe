@@ -467,6 +467,17 @@
       "Mineable"
     ]
   },
+  "Arweave": {
+    "name": "Arweave",
+    "short": "AR",
+    "url": "/currencies/arweave",
+    "tags": [
+      "Coin",
+      "Distributed Computing",
+      "Filesharing",
+      "IPFS"
+    ]
+  },
   "AstroTools": {
     "name": "AstroTools",
     "short": "ASTRO",
@@ -696,6 +707,17 @@
       "DeFi",
       "Oracles",
       "Binance Chain"
+    ]
+  },
+  "Basic Attention Token": {
+    "name": "Basic Attention Token",
+    "short": "BAT",
+    "url": "/currencies/basic-attention-token",
+    "tags": [
+      "Token",
+      "Marketing",
+      "Content Creation",
+      "Payments"
     ]
   },
   "Bast": {
@@ -1117,6 +1139,17 @@
     "url": "/currencies/blockmason-link",
     "tags": [
       "Token"
+    ]
+  },
+  "Blue Whale EXchange": {
+    "name": "Blue Whale EXchange",
+    "short": "BWX",
+    "url": "/currencies/blue-whale-exchange",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Sharing Economy",
+      "Smart Contracts"
     ]
   },
   "Bonk": {
@@ -1577,6 +1610,14 @@
       "Stablecoin - Asset-Backed"
     ]
   },
+  "ContentBox": {
+    "name": "ContentBox",
+    "short": "BOX",
+    "url": "/currencies/contentbox",
+    "tags": [
+      "Token"
+    ]
+  },
   "Convertible ACXT": {
     "name": "Convertible ACXT",
     "short": "CACXT",
@@ -1743,6 +1784,15 @@
     "url": "/currencies/daex",
     "tags": [
       "Token"
+    ]
+  },
+  "DAOBet": {
+    "name": "DAOBet",
+    "short": "BET",
+    "url": "/currencies/daobet",
+    "tags": [
+      "Coin",
+      "Gambling"
     ]
   },
   "DATA": {
@@ -2861,6 +2911,14 @@
       "Token"
     ]
   },
+  "Global Social Chain": {
+    "name": "Global Social Chain",
+    "short": "GSC",
+    "url": "/currencies/global-social-chain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Global X Change Token": {
     "name": "Global X Change Token",
     "short": "GXT",
@@ -2987,6 +3045,14 @@
       "Coin"
     ]
   },
+  "HOMT": {
+    "name": "HOMT",
+    "short": "HOMT",
+    "url": "/currencies/homt",
+    "tags": [
+      "Token"
+    ]
+  },
   "HUDDL": {
     "name": "HUDDL",
     "short": "HUDDL",
@@ -3065,6 +3131,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256"
+    ]
+  },
+  "Hinto": {
+    "name": "Hinto",
+    "short": "HNT",
+    "url": "/currencies/hinto",
+    "tags": [
+      "Token"
     ]
   },
   "HitChain": {
@@ -4214,6 +4288,18 @@
       "PoW",
       "SHA-256",
       "Platform"
+    ]
+  },
+  "Nano": {
+    "name": "Nano",
+    "short": "NANO",
+    "url": "/currencies/nano",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Blake2b",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "Neo": {
@@ -5725,12 +5811,12 @@
       "Payments",
       "Stablecoin"
     ],
-    "depends" : [
+    "depends": [
       "Bitfinex",
       "MasterCoin",
       "Omni Foundation"
     ],
-    "people" : [
+    "people": [
       "Brock Pierce",
       "Reeve Collins",
       "Craig Sellars",
@@ -6141,6 +6227,17 @@
       "Token"
     ]
   },
+  "VeChain": {
+    "name": "VeChain",
+    "short": "VET",
+    "url": "/currencies/vechain",
+    "tags": [
+      "Coin",
+      "Logistics",
+      "Data Provenance",
+      "Smart Contracts"
+    ]
+  },
   "VectorAI": {
     "name": "VectorAI",
     "short": "VEC2",
@@ -6230,6 +6327,14 @@
       "Media",
       "Content Creation",
       "Video"
+    ]
+  },
+  "Voltz": {
+    "name": "Voltz",
+    "short": "VOLTZ",
+    "url": "/currencies/voltz",
+    "tags": [
+      "Token"
     ]
   },
   "WABnetwork": {
@@ -6449,6 +6554,14 @@
     "url": "/currencies/xplosive-ethereum",
     "tags": [
       "Token"
+    ]
+  },
+  "Xrpalike Gene": {
+    "name": "Xrpalike Gene",
+    "short": "XAG",
+    "url": "/currencies/xrpalike-gene",
+    "tags": [
+      "Coin"
     ]
   },
   "YAM v1": {
