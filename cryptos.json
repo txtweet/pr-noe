@@ -172,6 +172,14 @@
       "Token"
     ]
   },
+  "Agora": {
+    "name": "Agora",
+    "short": "VOTE",
+    "url": "/currencies/agora",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aigang": {
     "name": "Aigang",
     "short": "AIX",
@@ -677,6 +685,14 @@
     "tags": [
       "Token",
       "Platform"
+    ]
+  },
+  "Blockmason Link": {
+    "name": "Blockmason Link",
+    "short": "BLINK",
+    "url": "/currencies/blockmason-link",
+    "tags": [
+      "Token"
     ]
   },
   "Boolberry": {
@@ -2319,6 +2335,14 @@
       "Mineable"
     ]
   },
+  "MACH Project": {
+    "name": "MACH Project",
+    "short": "MACH",
+    "url": "/currencies/mach-project",
+    "tags": [
+      "Token"
+    ]
+  },
   "MANY": {
     "name": "MANY",
     "short": "MANY",
@@ -2508,6 +2532,15 @@
       "Smart Contracts"
     ]
   },
+  "MixTrust": {
+    "name": "MixTrust",
+    "short": "MXT",
+    "url": "/currencies/mixtrust",
+    "tags": [
+      "Token",
+      "SHA-256"
+    ]
+  },
   "Mixin": {
     "name": "Mixin",
     "short": "XIN",
@@ -2686,6 +2719,15 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS"
+    ]
+  },
+  "OPCoinX": {
+    "name": "OPCoinX",
+    "short": "OPCX",
+    "url": "/currencies/opcoinx",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Ocean Protocol": {
@@ -3100,6 +3142,14 @@
       "Mineable"
     ]
   },
+  "SWYFT": {
+    "name": "SWYFT",
+    "short": "SWYFTT",
+    "url": "/currencies/swyft",
+    "tags": [
+      "Token"
+    ]
+  },
   "SafeCapital": {
     "name": "SafeCapital",
     "short": "SCAP",
@@ -3115,6 +3165,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "SalPay": {
+    "name": "SalPay",
+    "short": "SAL",
+    "url": "/currencies/salpay",
+    "tags": [
+      "Token"
     ]
   },
   "Sapien": {
@@ -3549,10 +3607,27 @@
       "Ethereum"
     ]
   },
+  "Theresa May Coin": {
+    "name": "Theresa May Coin",
+    "short": "MAY",
+    "url": "/currencies/theresa-may-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Thingschain": {
     "name": "Thingschain",
     "short": "TIC",
     "url": "/currencies/thingschain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TideBit Token": {
+    "name": "TideBit Token",
+    "short": "TBT",
+    "url": "/currencies/tidebit-token",
     "tags": [
       "Token"
     ]
