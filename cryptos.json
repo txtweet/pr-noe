@@ -519,6 +519,14 @@
       "Token"
     ]
   },
+  "BLOCKCLOUT": {
+    "name": "BLOCKCLOUT",
+    "short": "CLOUT",
+    "url": "/currencies/blockclout",
+    "tags": [
+      "Token"
+    ]
+  },
   "BLOCKIDCOIN": {
     "name": "BLOCKIDCOIN",
     "short": "BID",
@@ -755,6 +763,14 @@
     "name": "Bitcloud Pro",
     "short": "BPRO",
     "url": "/currencies/bitcloud-pro",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bitcoffeen": {
+    "name": "Bitcoffeen",
+    "short": "BFF",
+    "url": "/currencies/bitcoffeen",
     "tags": [
       "Token"
     ]
@@ -2703,6 +2719,15 @@
       "Payments"
     ]
   },
+  "Jibrel Network": {
+    "name": "Jibrel Network",
+    "short": "JNT",
+    "url": "/currencies/jibrel-network",
+    "tags": [
+      "Token",
+      "Asset management"
+    ]
+  },
   "KEY": {
     "name": "KEY",
     "short": "KEY",
@@ -3036,6 +3061,14 @@
     "url": "/currencies/mainstream-for-the-underground",
     "tags": [
       "Token"
+    ]
+  },
+  "Markaccy": {
+    "name": "Markaccy",
+    "short": "MKCY",
+    "url": "/currencies/markaccy",
+    "tags": [
+      "Coin"
     ]
   },
   "Master Contract Token": {
@@ -4456,6 +4489,17 @@
       "Token"
     ]
   },
+  "TagCoin": {
+    "name": "TagCoin",
+    "short": "TAG",
+    "url": "/currencies/tagcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "Tendies": {
     "name": "Tendies",
     "short": "TEND",
@@ -4686,6 +4730,17 @@
       "Ethash",
       "Platform",
       "DApp"
+    ]
+  },
+  "Ultragate": {
+    "name": "Ultragate",
+    "short": "ULG",
+    "url": "/currencies/ultragate",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Quark",
+      "Masternodes"
     ]
   },
   "Unikoin Gold": {
@@ -5170,6 +5225,19 @@
     "url": "/currencies/zano",
     "tags": [
       "Coin"
+    ]
+  },
+  "Zel": {
+    "name": "Zel",
+    "short": "ZEL",
+    "url": "/currencies/zel",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Equihash",
+      "Distributed Computing",
+      "Privacy",
+      "Filesharing"
     ]
   },
   "Zen Protocol": {
