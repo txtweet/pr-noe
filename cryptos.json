@@ -4263,6 +4263,15 @@
       "Smart Contracts"
     ]
   },
+  "Quantis Network": {
+    "name": "Quantis Network",
+    "short": "QUAN",
+    "url": "/currencies/quantis-network",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "QunQun": {
     "name": "QunQun",
     "short": "QUN",
@@ -4825,6 +4834,14 @@
     "name": "StockChain",
     "short": "SCC",
     "url": "/currencies/stockchain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Storeum": {
+    "name": "Storeum",
+    "short": "STO",
+    "url": "/currencies/storeum",
     "tags": [
       "Token"
     ]
