@@ -1001,6 +1001,14 @@
       "Sharing Economy"
     ]
   },
+  "Cointorox": {
+    "name": "Cointorox",
+    "short": "OROX",
+    "url": "/currencies/cointorox",
+    "tags": [
+      "Token"
+    ]
+  },
   "Commercium": {
     "name": "Commercium",
     "short": "CMM",
@@ -1279,6 +1287,14 @@
       "Token"
     ]
   },
+  "Defi": {
+    "name": "Defi",
+    "short": "DEFI",
+    "url": "/currencies/defi",
+    "tags": [
+      "Token"
+    ]
+  },
   "Degenerate Platform": {
     "name": "Degenerate Platform",
     "short": "DGN",
@@ -1490,6 +1506,18 @@
       "Token",
       "Real Estate",
       "Smart Contracts"
+    ]
+  },
+  "Edge": {
+    "name": "Edge",
+    "short": "DADI",
+    "url": "/currencies/edge",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "IPFS"
     ]
   },
   "Electra": {
@@ -2715,6 +2743,16 @@
       "Token"
     ]
   },
+  "MintCoin": {
+    "name": "MintCoin",
+    "short": "MINT",
+    "url": "/currencies/mintcoin",
+    "tags": [
+      "Coin",
+      "PoS",
+      "Scrypt"
+    ]
+  },
   "Mithril": {
     "name": "Mithril",
     "short": "MITH",
@@ -3124,6 +3162,18 @@
       "DAO"
     ]
   },
+  "PirateCash": {
+    "name": "PirateCash",
+    "short": "PIRATE",
+    "url": "/currencies/piratecash",
+    "tags": [
+      "Coin",
+      "Scrypt",
+      "PoS",
+      "Privacy",
+      "Transport"
+    ]
+  },
   "PlayGame": {
     "name": "PlayGame",
     "short": "PXG",
@@ -3406,6 +3456,17 @@
       "Token"
     ]
   },
+  "Santiment Network Token": {
+    "name": "Santiment Network Token",
+    "short": "SAN",
+    "url": "/currencies/santiment",
+    "tags": [
+      "Token",
+      "Asset management",
+      "AI & Big Data",
+      "Crowdsourcing"
+    ]
+  },
   "Sapien": {
     "name": "Sapien",
     "short": "SPN",
@@ -3660,6 +3721,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Spice": {
+    "name": "Spice",
+    "short": "SPICE",
+    "url": "/currencies/spice",
+    "tags": [
+      "Coin"
     ]
   },
   "Stafi": {
@@ -4030,6 +4099,29 @@
       "Token",
       "Gambling",
       "Gaming"
+    ]
+  },
+  "Unit Protocol": {
+    "name": "Unit Protocol",
+    "short": "COL",
+    "url": "/currencies/unit-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Universa": {
+    "name": "Universa",
+    "short": "UTNP",
+    "url": "/currencies/universa",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Enterprise solutions",
+      "Smart Contracts",
+      "Enterprise solutions",
+      "DApp",
+      "Ethereum",
+      "PoA"
     ]
   },
   "Universal Liquidity Union": {
