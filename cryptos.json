@@ -49,10 +49,26 @@
       "Token"
     ]
   },
+  "3x Long Tezos Token": {
+    "name": "3x Long Tezos Token",
+    "short": "XTZBULL",
+    "url": "/currencies/3x-long-tezos-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "7Eleven": {
     "name": "7Eleven",
     "short": "7E",
     "url": "/currencies/7eleven",
+    "tags": [
+      "Token"
+    ]
+  },
+  "AICON": {
+    "name": "AICON",
+    "short": "AICO",
+    "url": "/currencies/aicon",
     "tags": [
       "Token"
     ]
@@ -636,6 +652,14 @@
       "Token"
     ]
   },
+  "Centaur": {
+    "name": "Centaur",
+    "short": "CNTR",
+    "url": "/currencies/centaur",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Chad Link Set": {
     "name": "Chad Link Set",
     "short": "CHADLINK",
@@ -1026,6 +1050,14 @@
     "url": "/currencies/dune-network",
     "tags": [
       "Coin"
+    ]
+  },
+  "EA Token": {
+    "name": "EA Token",
+    "short": "EA",
+    "url": "/currencies/ea-token",
+    "tags": [
+      "Token"
     ]
   },
   "EDC Blockchain [old]": {
@@ -1680,6 +1712,14 @@
       "Token"
     ]
   },
+  "Innovation Blockchain Payment": {
+    "name": "Innovation Blockchain Payment",
+    "short": "IBP",
+    "url": "/currencies/innovation-blockchain-payment",
+    "tags": [
+      "Token"
+    ]
+  },
   "Innovative Bioresearch Classic": {
     "name": "Innovative Bioresearch Classic",
     "short": "INNBCL",
@@ -2055,6 +2095,17 @@
       "Media",
       "Content Creation",
       "Smart Contracts"
+    ]
+  },
+  "Mixin": {
+    "name": "Mixin",
+    "short": "XIN",
+    "url": "/currencies/mixin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Content Creation",
+      "Wallet"
     ]
   },
   "Moeda Loyalty Points": {
@@ -2515,6 +2566,14 @@
       "Mineable"
     ]
   },
+  "S4FE": {
+    "name": "S4FE",
+    "short": "S4F",
+    "url": "/currencies/s4fe",
+    "tags": [
+      "Token"
+    ]
+  },
   "SALT": {
     "name": "SALT",
     "short": "SALT",
@@ -2778,6 +2837,14 @@
     "url": "/currencies/starcointv",
     "tags": [
       "Coin"
+    ]
+  },
+  "Stobox Token": {
+    "name": "Stobox Token",
+    "short": "STBU",
+    "url": "/currencies/stobox-token",
+    "tags": [
+      "Token"
     ]
   },
   "StockChain": {
