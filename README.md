@@ -11,3 +11,5 @@ Le script charge le fichier cryptos.json
 
 
 Un script shell : `lance.sh` automatise l'appel au crawler.
+
+Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
