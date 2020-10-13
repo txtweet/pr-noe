@@ -57,6 +57,14 @@
       "Token"
     ]
   },
+  "3x Short Tezos Token": {
+    "name": "3x Short Tezos Token",
+    "short": "XTZBEAR",
+    "url": "/currencies/3x-short-tezos-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "7Eleven": {
     "name": "7Eleven",
     "short": "7E",
@@ -330,6 +338,14 @@
       "Smart Contracts"
     ]
   },
+  "BIZKEY": {
+    "name": "BIZKEY",
+    "short": "BZKY",
+    "url": "/currencies/bizkey",
+    "tags": [
+      "Token"
+    ]
+  },
   "BOSAGORA": {
     "name": "BOSAGORA",
     "short": "BOA",
@@ -471,6 +487,14 @@
       "Token",
       "Services",
       "Content Creation"
+    ]
+  },
+  "Bitcloud Pro": {
+    "name": "Bitcloud Pro",
+    "short": "BPRO",
+    "url": "/currencies/bitcloud-pro",
+    "tags": [
+      "Token"
     ]
   },
   "Bitcoin": {
@@ -927,6 +951,14 @@
       "Binance Smart Chain"
     ]
   },
+  "DarkPay": {
+    "name": "DarkPay",
+    "short": "D4RK",
+    "url": "/currencies/darkpaycoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Darma Cash": {
     "name": "Darma Cash",
     "short": "DMCH",
@@ -958,6 +990,14 @@
     "name": "DeFiat",
     "short": "DFT",
     "url": "/currencies/defiat",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Decentralized Vulnerability Platform": {
+    "name": "Decentralized Vulnerability Platform",
+    "short": "DVP",
+    "url": "/currencies/decentralized-vulnerability-platform",
     "tags": [
       "Token"
     ]
@@ -1131,6 +1171,17 @@
       "Coin"
     ]
   },
+  "EXRNchain": {
+    "name": "EXRNchain",
+    "short": "EXRN",
+    "url": "/currencies/exrnchain",
+    "tags": [
+      "Token",
+      "Platform",
+      "Interoperability",
+      "Smart Contracts"
+    ]
+  },
   "EchoLink": {
     "name": "EchoLink",
     "short": "EKO",
@@ -1241,6 +1292,14 @@
     "name": "Ethereum Gold Project",
     "short": "ETGP",
     "url": "/currencies/ethereum-gold-project",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Etherisc DIP Token": {
+    "name": "Etherisc DIP Token",
+    "short": "DIP",
+    "url": "/currencies/etherisc",
     "tags": [
       "Token"
     ]
@@ -1617,6 +1676,18 @@
       "Token"
     ]
   },
+  "HyperCash": {
+    "name": "HyperCash",
+    "short": "HC",
+    "url": "/currencies/hypercash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "Payments",
+      "State channels"
+    ]
+  },
   "Hyperion": {
     "name": "Hyperion",
     "short": "HYN",
@@ -1933,10 +2004,35 @@
       "Token"
     ]
   },
+  "Lua Token": {
+    "name": "Lua Token",
+    "short": "LUA",
+    "url": "/currencies/lua-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Lunes": {
+    "name": "Lunes",
+    "short": "LUNES",
+    "url": "/currencies/lunes",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "MANY": {
     "name": "MANY",
     "short": "MANY",
     "url": "/currencies/many",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MEX": {
+    "name": "MEX",
+    "short": "MEX",
+    "url": "/currencies/mex",
     "tags": [
       "Token"
     ]
@@ -2329,6 +2425,14 @@
     "name": "POP Network Token",
     "short": "POP",
     "url": "/currencies/pop-network-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PYRO Network (TRON)": {
+    "name": "PYRO Network (TRON)",
+    "short": "PYRO",
+    "url": "/currencies/pyro-network-tron",
     "tags": [
       "Token"
     ]
@@ -2739,6 +2843,17 @@
       "Token"
     ]
   },
+  "SingularityNET": {
+    "name": "SingularityNET",
+    "short": "AGI",
+    "url": "/currencies/singularitynet",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "AI & Big Data",
+      "Payments"
+    ]
+  },
   "Skycoin": {
     "name": "Skycoin",
     "short": "SKY",
@@ -3093,6 +3208,14 @@
       "Blake"
     ]
   },
+  "TrustVerse": {
+    "name": "TrustVerse",
+    "short": "TRV",
+    "url": "/currencies/trustverse",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ubiq": {
     "name": "Ubiq",
     "short": "UBQ",
@@ -3120,6 +3243,14 @@
     "name": "Universal Liquidity Union",
     "short": "ULU",
     "url": "/currencies/universal-liquidity-union",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Unochain": {
+    "name": "Unochain",
+    "short": "UNOC",
+    "url": "/currencies/unochain",
     "tags": [
       "Token"
     ]
@@ -3489,6 +3620,14 @@
     "name": "sXAG",
     "short": "SXAG",
     "url": "/currencies/sxag",
+    "tags": [
+      "Token"
+    ]
+  },
+  "snglsDAO": {
+    "name": "snglsDAO",
+    "short": "SGT",
+    "url": "/currencies/snglsdao",
     "tags": [
       "Token"
     ]
