@@ -732,6 +732,14 @@
       "Coin"
     ]
   },
+  "Bidao": {
+    "name": "Bidao",
+    "short": "BID",
+    "url": "/currencies/bidao",
+    "tags": [
+      "Token"
+    ]
+  },
   "Big Bang Game Coin": {
     "name": "Big Bang Game Coin",
     "short": "BBGC",
@@ -1341,6 +1349,17 @@
       "Sharing Economy"
     ]
   },
+  "Coinonat": {
+    "name": "Coinonat",
+    "short": "CXT",
+    "url": "/currencies/coinonat",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "NIST5"
+    ]
+  },
   "Cointorox": {
     "name": "Cointorox",
     "short": "OROX",
@@ -1431,6 +1450,14 @@
       "Polkadot"
     ]
   },
+  "CryCash": {
+    "name": "CryCash",
+    "short": "CRC",
+    "url": "/currencies/crycash",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crypto Price Index": {
     "name": "Crypto Price Index",
     "short": "CPI",
@@ -1509,6 +1536,14 @@
     "name": "Cyber Movie Chain",
     "short": "CMCT",
     "url": "/currencies/cyber-movie-chain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CyberFM": {
+    "name": "CyberFM",
+    "short": "CYFM",
+    "url": "/currencies/cyberfm",
     "tags": [
       "Token"
     ]
@@ -1848,6 +1883,14 @@
     "name": "EMOGI Network",
     "short": "LOL",
     "url": "/currencies/emogi-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ENTONE": {
+    "name": "ENTONE",
+    "short": "ENTONE",
+    "url": "/currencies/entone",
     "tags": [
       "Token"
     ]
@@ -2292,6 +2335,14 @@
     "url": "/currencies/flexeth-btc-set",
     "tags": [
       "Token"
+    ]
+  },
+  "Flits": {
+    "name": "Flits",
+    "short": "FLS",
+    "url": "/currencies/flits",
+    "tags": [
+      "Coin"
     ]
   },
   "Flixxo": {
@@ -3135,6 +3186,15 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "LIFE": {
+    "name": "LIFE",
+    "short": "LIFE",
+    "url": "/currencies/life",
+    "tags": [
+      "Token",
+      "Philanthropy"
     ]
   },
   "LINK/ETH RSI Ratio Trading Set": {
@@ -3996,6 +4056,14 @@
       "Token"
     ]
   },
+  "PalletOne": {
+    "name": "PalletOne",
+    "short": "PTN",
+    "url": "/currencies/palletone",
+    "tags": [
+      "Token"
+    ]
+  },
   "Paparazzi": {
     "name": "Paparazzi",
     "short": "PAZZI",
@@ -4267,6 +4335,15 @@
     "name": "Quantis Network",
     "short": "QUAN",
     "url": "/currencies/quantis-network",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Quasarcoin": {
+    "name": "Quasarcoin",
+    "short": "QAC",
+    "url": "/currencies/quasarcoin",
     "tags": [
       "Coin",
       "Mineable"
