@@ -25,6 +25,7 @@ request()
 
   # Boucle sur les cryptos, on mélange le tableau et on coupe à 3 éléments
   Promise.each (_.shuffle cryptos).slice(0, 2), (crypto) ->
+  # Promise.each (cryptos).slice(1, 3), (crypto) ->
     unless sauve[crypto.name]?
       request
         url : 'https://coinmarketcap.com'+crypto.url
