@@ -1,0 +1,10 @@
+library(tibble)
+library(jsonlite)
+library(tidyr)
+library(dplyr)
+
+brut <- stream_in(file("data.ndjson"))
+tablecrypt <- tibble(brut)
+cryptnotnest <- unnest(tablecrypt,tags)
+listetag <- cryptnotnest %>% select(tags) %>% count(tags) %>% arrange(desc(n))
+write.table(listetag, "./listetagtrie.csv", sep=';')
