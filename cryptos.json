@@ -4329,6 +4329,16 @@
       "Coin"
     ]
   },
+  "Measurable Data Token": {
+    "name": "Measurable Data Token",
+    "short": "MDT",
+    "url": "/currencies/measurable-data-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "AI & Big Data"
+    ]
+  },
   "MeconCash": {
     "name": "MeconCash",
     "short": "MCH",
@@ -4911,6 +4921,14 @@
       "Token"
     ]
   },
+  "Orbit Chain": {
+    "name": "Orbit Chain",
+    "short": "ORC",
+    "url": "/currencies/orbit-chain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Orbitcoin": {
     "name": "Orbitcoin",
     "short": "ORB",
@@ -5481,6 +5499,17 @@
       "Token",
       "Cybersecurity",
       "Identity"
+    ]
+  },
+  "RigoBlock": {
+    "name": "RigoBlock",
+    "short": "GRG",
+    "url": "/currencies/rigoblock",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Asset management",
+      "DeFi"
     ]
   },
   "Rocket Pool": {
@@ -6096,6 +6125,14 @@
     "name": "SuperSkynet",
     "short": "SSN",
     "url": "/currencies/superskynet",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SuperSwap": {
+    "name": "SuperSwap",
+    "short": "SUPER",
+    "url": "/currencies/superswap",
     "tags": [
       "Token"
     ]
@@ -6763,6 +6800,15 @@
       "Token"
     ]
   },
+  "Venus": {
+    "name": "Venus",
+    "short": "XVS",
+    "url": "/currencies/venus",
+    "tags": [
+      "Token",
+      "Binance Smart Chain"
+    ]
+  },
   "VeraOne": {
     "name": "VeraOne",
     "short": "VRO",
@@ -7413,6 +7459,14 @@
     "url": "/currencies/eboostcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "eToro New Zealand Dollar": {
+    "name": "eToro New Zealand Dollar",
+    "short": "NZDX",
+    "url": "/currencies/etoro-new-zealand-dollar",
+    "tags": [
+      "Token"
     ]
   },
   "eXPerience Chain": {
