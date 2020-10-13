@@ -244,6 +244,14 @@
       "Collectibles & NFTs"
     ]
   },
+  "Acute Angle Cloud": {
+    "name": "Acute Angle Cloud",
+    "short": "AAC",
+    "url": "/currencies/acute-angle-cloud",
+    "tags": [
+      "Token"
+    ]
+  },
   "AdHive": {
     "name": "AdHive",
     "short": "ADH",
@@ -985,6 +993,15 @@
       "Mineable"
     ]
   },
+  "Bitcoin Private": {
+    "name": "Bitcoin Private",
+    "short": "BTCP",
+    "url": "/currencies/bitcoin-private",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoin SV": {
     "name": "Bitcoin SV",
     "short": "BSV",
@@ -1361,6 +1378,14 @@
       "Polkadot"
     ]
   },
+  "Charg Coin": {
+    "name": "Charg Coin",
+    "short": "CHG",
+    "url": "/currencies/charg-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Cherry Token": {
     "name": "Cherry Token",
     "short": "YT",
@@ -1512,6 +1537,14 @@
     "name": "Community Token",
     "short": "COM",
     "url": "/currencies/community-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Compendia": {
+    "name": "Compendia",
+    "short": "BIND",
+    "url": "/currencies/compendia",
     "tags": [
       "Token"
     ]
@@ -2911,6 +2944,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Gric Coin": {
+    "name": "Gric Coin",
+    "short": "GC",
+    "url": "/currencies/gric-coin",
+    "tags": [
+      "Token"
     ]
   },
   "Grid+": {
@@ -5683,6 +5724,21 @@
       "Store of Value",
       "Payments",
       "Stablecoin"
+    ],
+    "depends" : [
+      "Bitfinex",
+      "MasterCoin",
+      "Omni Foundation"
+    ],
+    "people" : [
+      "Brock Pierce",
+      "Reeve Collins",
+      "Craig Sellars",
+      "JR  Willet",
+      "Philip Potter",
+      "Giancarlo Devasini",
+      "Charlie lee",
+      "JL Van der Velde"
     ]
   },
   "Thar Token": {
@@ -5796,6 +5852,14 @@
     "name": "TokenDesk",
     "short": "TDS",
     "url": "/currencies/tokendesk",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Touch Social": {
+    "name": "Touch Social",
+    "short": "TST",
+    "url": "/currencies/touch-social",
     "tags": [
       "Token"
     ]
