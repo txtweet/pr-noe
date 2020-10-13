@@ -81,6 +81,14 @@
       "Token"
     ]
   },
+  "888tron": {
+    "name": "888tron",
+    "short": "888",
+    "url": "/currencies/888tron",
+    "tags": [
+      "Token"
+    ]
+  },
   "AICON": {
     "name": "AICON",
     "short": "AICO",
@@ -95,6 +103,14 @@
     "url": "/currencies/alax",
     "tags": [
       "Token"
+    ]
+  },
+  "AML Bitcoin": {
+    "name": "AML Bitcoin",
+    "short": "ABTC",
+    "url": "/currencies/aml-bitcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "AOS": {
@@ -358,6 +374,14 @@
       "Smart Contracts"
     ]
   },
+  "BIDR": {
+    "name": "BIDR",
+    "short": "BIDR",
+    "url": "/currencies/binance-idr",
+    "tags": [
+      "Token"
+    ]
+  },
   "BIZKEY": {
     "name": "BIZKEY",
     "short": "BZKY",
@@ -560,6 +584,15 @@
     "url": "/currencies/bitcoin-21",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bitcoin Incognito": {
+    "name": "Bitcoin Incognito",
+    "short": "XBI",
+    "url": "/currencies/bitcoin-incognito",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Bitcoin Interest": {
@@ -923,6 +956,14 @@
       "Filesharing",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Crypto Price Index": {
+    "name": "Crypto Price Index",
+    "short": "CPI",
+    "url": "/currencies/crypto-price-index",
+    "tags": [
+      "Token"
     ]
   },
   "CryptoBossCoin": {
@@ -1304,6 +1345,14 @@
       "Payments"
     ]
   },
+  "Electronero": {
+    "name": "Electronero",
+    "short": "ETNX",
+    "url": "/currencies/electronero",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Electrum Dark": {
     "name": "Electrum Dark",
     "short": "ELD",
@@ -1546,6 +1595,14 @@
       "Token"
     ]
   },
+  "Fridn": {
+    "name": "Fridn",
+    "short": "EFAR",
+    "url": "/currencies/fridn",
+    "tags": [
+      "Token"
+    ]
+  },
   "Fyooz": {
     "name": "Fyooz",
     "short": "FYZ",
@@ -1742,6 +1799,16 @@
       "Coin"
     ]
   },
+  "Hi Mutual Society": {
+    "name": "Hi Mutual Society",
+    "short": "HMC",
+    "url": "/currencies/hi-mutual-society",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdfunding"
+    ]
+  },
   "High Voltage": {
     "name": "High Voltage",
     "short": "HVCO",
@@ -1863,6 +1930,14 @@
       "IoT"
     ]
   },
+  "IP Exchange": {
+    "name": "IP Exchange",
+    "short": "IPSX",
+    "url": "/currencies/ip-exchange",
+    "tags": [
+      "Token"
+    ]
+  },
   "IQ.cash": {
     "name": "IQ.cash",
     "short": "IQ",
@@ -1894,6 +1969,14 @@
     "url": "/currencies/idea-chain-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "ImageCash": {
+    "name": "ImageCash",
+    "short": "IMGC",
+    "url": "/currencies/imagecash",
+    "tags": [
+      "Coin"
     ]
   },
   "Index Cooperative": {
@@ -2015,6 +2098,14 @@
     "name": "Katana Finance",
     "short": "KATANA",
     "url": "/currencies/katana-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Kids Cash": {
+    "name": "Kids Cash",
+    "short": "KASH",
+    "url": "/currencies/kids-cash",
     "tags": [
       "Token"
     ]
@@ -2335,6 +2426,14 @@
       "Coin"
     ]
   },
+  "Mineral": {
+    "name": "Mineral",
+    "short": "MNR",
+    "url": "/currencies/mineral",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mithril": {
     "name": "Mithril",
     "short": "MITH",
@@ -2506,6 +2605,28 @@
       "Coin"
     ]
   },
+  "OKCash": {
+    "name": "OKCash",
+    "short": "OK",
+    "url": "/currencies/okcash",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS"
+    ]
+  },
+  "Ocean Protocol": {
+    "name": "Ocean Protocol",
+    "short": "OCEAN",
+    "url": "/currencies/ocean-protocol",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Filesharing",
+      "Substrate",
+      "IPFS"
+    ]
+  },
   "Octoin Coin": {
     "name": "Octoin Coin",
     "short": "OCC",
@@ -2548,6 +2669,17 @@
     "url": "/currencies/orbicular",
     "tags": [
       "Token"
+    ]
+  },
+  "Origo": {
+    "name": "Origo",
+    "short": "OGO",
+    "url": "/currencies/origo",
+    "tags": [
+      "Token",
+      "Platform",
+      "Privacy",
+      "Smart Contracts"
     ]
   },
   "Ormeus Coin": {
@@ -2911,6 +3043,30 @@
       "Mineable"
     ]
   },
+  "Sapien": {
+    "name": "Sapien",
+    "short": "SPN",
+    "url": "/currencies/sapien",
+    "tags": [
+      "Token",
+      "Communications & Social Media",
+      "Content Creation",
+      "Platform",
+      "DApp",
+      "Ethereum",
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  "Scala": {
+    "name": "Scala",
+    "short": "XLA",
+    "url": "/currencies/scala",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Scorum Coins": {
     "name": "Scorum Coins",
     "short": "SCR",
@@ -3126,6 +3282,14 @@
       "Coin"
     ]
   },
+  "Sparkle Loyalty": {
+    "name": "Sparkle Loyalty",
+    "short": "SPRKL",
+    "url": "/currencies/sparkle-loyalty",
+    "tags": [
+      "Token"
+    ]
+  },
   "SpectrumCash": {
     "name": "SpectrumCash",
     "short": "XSM",
@@ -3133,6 +3297,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Stafi": {
+    "name": "Stafi",
+    "short": "FIS",
+    "url": "/currencies/stafi",
+    "tags": [
+      "Coin",
+      "DeFi",
+      "Substrate",
+      "Polkadot"
     ]
   },
   "StarCoin": {
@@ -3620,6 +3795,14 @@
       "Crowdfunding"
     ]
   },
+  "Wrapped LEO": {
+    "name": "Wrapped LEO",
+    "short": "WLEO",
+    "url": "/currencies/wrapped-leo",
+    "tags": [
+      "Token"
+    ]
+  },
   "X-Coin": {
     "name": "X-Coin",
     "short": "XCO",
@@ -3667,6 +3850,14 @@
     "name": "Xensor",
     "short": "XSR",
     "url": "/currencies/xensor",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Xfinance": {
+    "name": "Xfinance",
+    "short": "XFI",
+    "url": "/currencies/xfinance",
     "tags": [
       "Token"
     ]
@@ -3828,6 +4019,14 @@
     "name": "eosBLACK",
     "short": "BLACK",
     "url": "/currencies/eosblack",
+    "tags": [
+      "Token"
+    ]
+  },
+  "iEthereum": {
+    "name": "iEthereum",
+    "short": "IETH",
+    "url": "/currencies/iethereum",
     "tags": [
       "Token"
     ]
