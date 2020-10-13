@@ -2535,6 +2535,14 @@
       "Token"
     ]
   },
+  "Elitium": {
+    "name": "Elitium",
+    "short": "EUM",
+    "url": "/currencies/elitium",
+    "tags": [
+      "Token"
+    ]
+  },
   "Elrond": {
     "name": "Elrond",
     "short": "EGLD",
@@ -2691,6 +2699,14 @@
     "name": "Ethereum Gold Project",
     "short": "ETGP",
     "url": "/currencies/ethereum-gold-project",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ethereum Meta": {
+    "name": "Ethereum Meta",
+    "short": "ETHM",
+    "url": "/currencies/ethereum-meta",
     "tags": [
       "Token"
     ]
@@ -3033,6 +3049,17 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "GHOST": {
+    "name": "GHOST",
+    "short": "GHOST",
+    "url": "/currencies/ghost",
+    "tags": [
+      "Coin",
+      "PoS",
+      "Privacy",
+      "RingCT"
     ]
   },
   "GLOBALTRUSTFUND TOKEN": {
@@ -3567,6 +3594,16 @@
     "url": "/currencies/ioox-system",
     "tags": [
       "Token"
+    ]
+  },
+  "IOST": {
+    "name": "IOST",
+    "short": "IOST",
+    "url": "/currencies/iostoken",
+    "tags": [
+      "Coin",
+      "Hardware",
+      "IoT"
     ]
   },
   "IP Exchange": {
@@ -4683,6 +4720,14 @@
       "Platform"
     ]
   },
+  "NanTrade": {
+    "name": "NanTrade",
+    "short": "NAN",
+    "url": "/currencies/nantrade",
+    "tags": [
+      "Token"
+    ]
+  },
   "Nano": {
     "name": "Nano",
     "short": "NANO",
@@ -5544,6 +5589,18 @@
       "Identity"
     ]
   },
+  "Reserve Rights": {
+    "name": "Reserve Rights",
+    "short": "RSR",
+    "url": "/currencies/reserve-rights",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "DeFi",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "RigoBlock": {
     "name": "RigoBlock",
     "short": "GRG",
@@ -5649,6 +5706,14 @@
       "Coin"
     ]
   },
+  "STK Coin": {
+    "name": "STK Coin",
+    "short": "STK",
+    "url": "/currencies/stk-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "STRAKS": {
     "name": "STRAKS",
     "short": "STAK",
@@ -5656,6 +5721,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "SUN": {
+    "name": "SUN",
+    "short": "SUN",
+    "url": "/currencies/sun",
+    "tags": [
+      "Token"
     ]
   },
   "SWYFT": {
@@ -6204,6 +6277,19 @@
     "tags": [
       "Token",
       "Marketplace"
+    ]
+  },
+  "SwftCoin": {
+    "name": "SwftCoin",
+    "short": "SWFTC",
+    "url": "/currencies/swftcoin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "DeFi",
+      "Interoperability",
+      "Payments",
+      "DeFi"
     ]
   },
   "Swipe": {
@@ -7208,6 +7294,14 @@
     "name": "YEARN2.FINANCE",
     "short": "YFI2",
     "url": "/currencies/yearn2-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFDAI.FINANCE": {
+    "name": "YFDAI.FINANCE",
+    "short": "YF-DAI",
+    "url": "/currencies/yfdai-finance",
     "tags": [
       "Token"
     ]
