@@ -653,6 +653,14 @@
       "Token"
     ]
   },
+  "Bittwatt": {
+    "name": "Bittwatt",
+    "short": "BWT",
+    "url": "/currencies/bittwatt",
+    "tags": [
+      "Token"
+    ]
+  },
   "BlockStamp": {
     "name": "BlockStamp",
     "short": "BST",
@@ -719,6 +727,14 @@
     "name": "Bulleon",
     "short": "BUL",
     "url": "/currencies/bulleon",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CNNS": {
+    "name": "CNNS",
+    "short": "CNNS",
+    "url": "/currencies/cnns",
     "tags": [
       "Token"
     ]
@@ -1118,6 +1134,14 @@
     "name": "DeFiat",
     "short": "DFT",
     "url": "/currencies/defiat",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeXe": {
+    "name": "DeXe",
+    "short": "DEXE",
+    "url": "/currencies/dexe",
     "tags": [
       "Token"
     ]
@@ -1729,10 +1753,30 @@
       "Token"
     ]
   },
+  "Golem": {
+    "name": "Golem",
+    "short": "GNT",
+    "url": "/currencies/golem-network-tokens",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Payments"
+    ]
+  },
   "Gossip Coin": {
     "name": "Gossip Coin",
     "short": "GOSS",
     "url": "/currencies/gossipcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Graviocoin": {
+    "name": "Graviocoin",
+    "short": "GIO",
+    "url": "/currencies/graviocoin",
     "tags": [
       "Coin",
       "Mineable"
@@ -1987,6 +2031,14 @@
       "Token"
     ]
   },
+  "Infinity Economics": {
+    "name": "Infinity Economics",
+    "short": "XIN",
+    "url": "/currencies/infinity-economics",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Innovation Blockchain Payment": {
     "name": "Innovation Blockchain Payment",
     "short": "IBP",
@@ -2149,6 +2201,17 @@
     "url": "/currencies/linkup",
     "tags": [
       "Coin"
+    ]
+  },
+  "Ladder Network Token": {
+    "name": "Ladder Network Token",
+    "short": "LAD",
+    "url": "/currencies/ladder-network-token",
+    "tags": [
+      "Token",
+      "Services",
+      "Substrate",
+      "Polkadot"
     ]
   },
   "Lamden": {
@@ -2603,6 +2666,17 @@
     "url": "/currencies/oc-protocol",
     "tags": [
       "Coin"
+    ]
+  },
+  "OKB": {
+    "name": "OKB",
+    "short": "OKB",
+    "url": "/currencies/okb",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange",
+      "Discount token"
     ]
   },
   "OKCash": {
@@ -3860,6 +3934,16 @@
     "url": "/currencies/xfinance",
     "tags": [
       "Token"
+    ]
+  },
+  "YAMv2": {
+    "name": "YAMv2",
+    "short": "YAMV2",
+    "url": "/currencies/yam-v2",
+    "tags": [
+      "Token",
+      "Memes",
+      "Yield farming"
     ]
   },
   "YEARN2.FINANCE": {
