@@ -170,6 +170,14 @@
       "Token"
     ]
   },
+  "ASTA": {
+    "name": "ASTA",
+    "short": "ASTA",
+    "url": "/currencies/asta",
+    "tags": [
+      "Token"
+    ]
+  },
   "ATN": {
     "name": "ATN",
     "short": "ATN",
@@ -614,6 +622,14 @@
     "url": "/currencies/bigbang-core",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bigbom": {
+    "name": "Bigbom",
+    "short": "BBO",
+    "url": "/currencies/bigbom",
+    "tags": [
+      "Token"
     ]
   },
   "Bilaxy Token": {
@@ -1075,6 +1091,17 @@
       "DApp",
       "Stablecoin - Asset-Backed",
       "Payments"
+    ]
+  },
+  "CoinFi": {
+    "name": "CoinFi",
+    "short": "COFI",
+    "url": "/currencies/coinfi",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdsourcing",
+      "Research"
     ]
   },
   "CoinPoker": {
@@ -1715,6 +1742,14 @@
       "Coin"
     ]
   },
+  "EncryptoTel [ETH]": {
+    "name": "EncryptoTel [ETH]",
+    "short": "ETT",
+    "url": "/currencies/encryptotel-eth",
+    "tags": [
+      "Token"
+    ]
+  },
   "Enecuum": {
     "name": "Enecuum",
     "short": "ENQ",
@@ -2103,6 +2138,14 @@
       "Token"
     ]
   },
+  "Global X Change Token": {
+    "name": "Global X Change Token",
+    "short": "GXT",
+    "url": "/currencies/global-x-change-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "GoHelpFund": {
     "name": "GoHelpFund",
     "short": "HELP",
@@ -2462,6 +2505,15 @@
       "Token"
     ]
   },
+  "InsaneCoin": {
+    "name": "InsaneCoin",
+    "short": "INSN",
+    "url": "/currencies/insanecoin-insn",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Insights Network": {
     "name": "Insights Network",
     "short": "INSTAR",
@@ -2598,6 +2650,14 @@
     "name": "Kind Ads Token",
     "short": "KIND",
     "url": "/currencies/kind-ads-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Kingdom Game 4.0": {
+    "name": "Kingdom Game 4.0",
+    "short": "KDG",
+    "url": "/currencies/kingdom-game-4",
     "tags": [
       "Token"
     ]
@@ -3370,6 +3430,14 @@
       "Token"
     ]
   },
+  "Parkgene": {
+    "name": "Parkgene",
+    "short": "GENE",
+    "url": "/currencies/parkgene",
+    "tags": [
+      "Token"
+    ]
+  },
   "Paxos Standard": {
     "name": "Paxos Standard",
     "short": "PAX",
@@ -4131,6 +4199,15 @@
     "url": "/currencies/swapship",
     "tags": [
       "Token"
+    ]
+  },
+  "Swarm City": {
+    "name": "Swarm City",
+    "short": "SWT",
+    "url": "/currencies/swarm-city",
+    "tags": [
+      "Token",
+      "Marketplace"
     ]
   },
   "SwissBorg": {
