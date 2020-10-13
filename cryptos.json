@@ -1439,6 +1439,15 @@
       "Token"
     ]
   },
+  "Crypto Sports": {
+    "name": "Crypto Sports",
+    "short": "CSPN",
+    "url": "/currencies/crypto-sports",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "CryptoBossCoin": {
     "name": "CryptoBossCoin",
     "short": "CBC",
@@ -2184,6 +2193,14 @@
     "url": "/currencies/fex-token",
     "tags": [
       "Token"
+    ]
+  },
+  "FIO Protocol": {
+    "name": "FIO Protocol",
+    "short": "FIO",
+    "url": "/currencies/fio-protocol",
+    "tags": [
+      "Coin"
     ]
   },
   "FLAMA": {
@@ -3869,6 +3886,14 @@
       "Token"
     ]
   },
+  "Opus": {
+    "name": "Opus",
+    "short": "OPT",
+    "url": "/currencies/opus",
+    "tags": [
+      "Token"
+    ]
+  },
   "Orbicular": {
     "name": "Orbicular",
     "short": "ORBI",
@@ -4095,6 +4120,15 @@
       "PoS",
       "Privacy",
       "Transport"
+    ]
+  },
+  "Pirl": {
+    "name": "Pirl",
+    "short": "PIRL",
+    "url": "/currencies/pirl",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "PlayFuel": {
@@ -4942,6 +4976,15 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "TenX": {
+    "name": "TenX",
+    "short": "PAY",
+    "url": "/currencies/tenx",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
     ]
   },
   "Tendies": {
