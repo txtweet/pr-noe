@@ -1327,6 +1327,14 @@
       "Yield farming"
     ]
   },
+  "Brazilian Digital Token": {
+    "name": "Brazilian Digital Token",
+    "short": "BRZ",
+    "url": "/currencies/brz",
+    "tags": [
+      "Token"
+    ]
+  },
   "Braziliex Token": {
     "name": "Braziliex Token",
     "short": "BRZX",
@@ -3349,10 +3357,28 @@
       "Token"
     ]
   },
+  "Gnosis": {
+    "name": "Gnosis",
+    "short": "GNO",
+    "url": "/currencies/gnosis-gno",
+    "tags": [
+      "Token",
+      "Services",
+      "Prediction Markets"
+    ]
+  },
   "GoHelpFund": {
     "name": "GoHelpFund",
     "short": "HELP",
     "url": "/currencies/gohelpfund",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Gold Poker": {
+    "name": "Gold Poker",
+    "short": "GPKR",
+    "url": "/currencies/gold-poker",
     "tags": [
       "Coin"
     ]
@@ -4139,6 +4165,17 @@
       "Token"
     ]
   },
+  "KuCoin Shares": {
+    "name": "KuCoin Shares",
+    "short": "KCS",
+    "url": "/currencies/kucoin-shares",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange",
+      "Discount token"
+    ]
+  },
   "LALA World": {
     "name": "LALA World",
     "short": "LALA",
@@ -4328,6 +4365,14 @@
       "Token"
     ]
   },
+  "Livenodes Token": {
+    "name": "Livenodes Token",
+    "short": "LNOT",
+    "url": "/currencies/livenodes-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Loki": {
     "name": "Loki",
     "short": "LOKI",
@@ -4377,6 +4422,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Lung Protocol": {
+    "name": "Lung Protocol",
+    "short": "L2P",
+    "url": "/currencies/lung-protocol",
+    "tags": [
+      "Token"
     ]
   },
   "MACH Project": {
@@ -5567,6 +5620,14 @@
       "Token"
     ]
   },
+  "Printer.Finance": {
+    "name": "Printer.Finance",
+    "short": "PRINT",
+    "url": "/currencies/printer-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Privatix": {
     "name": "Privatix",
     "short": "PRIX",
@@ -5736,6 +5797,14 @@
     "url": "/currencies/rapids",
     "tags": [
       "Coin"
+    ]
+  },
+  "Raven Protocol": {
+    "name": "Raven Protocol",
+    "short": "RAVEN",
+    "url": "/currencies/raven-protocol",
+    "tags": [
+      "Token"
     ]
   },
   "Ravencoin Classic": {
@@ -6578,6 +6647,15 @@
       "Token"
     ]
   },
+  "THORChain": {
+    "name": "THORChain",
+    "short": "RUNE",
+    "url": "/currencies/thorchain",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "TOKOK": {
     "name": "TOKOK",
     "short": "TOK",
@@ -6669,6 +6747,17 @@
       "Token",
       "Media",
       "Content Creation"
+    ]
+  },
+  "Tellor": {
+    "name": "Tellor",
+    "short": "TRB",
+    "url": "/currencies/tellor",
+    "tags": [
+      "Token",
+      "Mineable",
+      "DeFi",
+      "Oracles"
     ]
   },
   "TenX": {
