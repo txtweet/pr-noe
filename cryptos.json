@@ -690,6 +690,14 @@
       "Token"
     ]
   },
+  "Bali Coin": {
+    "name": "Bali Coin",
+    "short": "BALI",
+    "url": "/currencies/bali-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Banano": {
     "name": "Banano",
     "short": "BAN",
@@ -1257,10 +1265,26 @@
       "Token"
     ]
   },
+  "CK USD": {
+    "name": "CK USD",
+    "short": "CKUSD",
+    "url": "/currencies/ckusd",
+    "tags": [
+      "Coin"
+    ]
+  },
   "CNNS": {
     "name": "CNNS",
     "short": "CNNS",
     "url": "/currencies/cnns",
+    "tags": [
+      "Token"
+    ]
+  },
+  "COMSA [ETH]": {
+    "name": "COMSA [ETH]",
+    "short": "CMS",
+    "url": "/currencies/comsa-eth",
     "tags": [
       "Token"
     ]
@@ -1770,6 +1794,14 @@
       "Token"
     ]
   },
+  "D Community": {
+    "name": "D Community",
+    "short": "DILI",
+    "url": "/currencies/d-community",
+    "tags": [
+      "Token"
+    ]
+  },
   "DACC2": {
     "name": "DACC2",
     "short": "DACC2",
@@ -1966,6 +1998,14 @@
     "name": "Decentralized Vulnerability Platform",
     "short": "DVP",
     "url": "/currencies/decentralized-vulnerability-platform",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeepCloud AI": {
+    "name": "DeepCloud AI",
+    "short": "DEEP",
+    "url": "/currencies/deepcloud-ai",
     "tags": [
       "Token"
     ]
@@ -2470,6 +2510,14 @@
       "Token"
     ]
   },
+  "EtherBone": {
+    "name": "EtherBone",
+    "short": "ETHBN",
+    "url": "/currencies/etherbone",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ethereum": {
     "name": "Ethereum",
     "short": "ETH",
@@ -2520,6 +2568,14 @@
       "Marketplace",
       "Payments",
       "DApp"
+    ]
+  },
+  "Etherpay": {
+    "name": "Etherpay",
+    "short": "ETHPY",
+    "url": "/currencies/etherpay",
+    "tags": [
+      "Token"
     ]
   },
   "Eurocoin": {
@@ -2607,6 +2663,14 @@
       "Token"
     ]
   },
+  "FLEX": {
+    "name": "FLEX",
+    "short": "FLEX",
+    "url": "/currencies/flex",
+    "tags": [
+      "Token"
+    ]
+  },
   "FLO": {
     "name": "FLO",
     "short": "FLO",
@@ -2654,6 +2718,14 @@
     "name": "FidexToken",
     "short": "FEX",
     "url": "/currencies/fidex-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Finswap": {
+    "name": "Finswap",
+    "short": "FNSP",
+    "url": "/currencies/finswap",
     "tags": [
       "Token"
     ]
@@ -3185,6 +3257,17 @@
       "Coin"
     ]
   },
+  "Huobi Token": {
+    "name": "Huobi Token",
+    "short": "HT",
+    "url": "/currencies/huobi-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Discount token",
+      "Payments"
+    ]
+  },
   "Hurify": {
     "name": "Hurify",
     "short": "HUR",
@@ -3327,6 +3410,14 @@
     "name": "IXT",
     "short": "IXT",
     "url": "/currencies/ixledger",
+    "tags": [
+      "Token"
+    ]
+  },
+  "IZEROIUM": {
+    "name": "IZEROIUM",
+    "short": "IZER",
+    "url": "/currencies/izeroium",
     "tags": [
       "Token"
     ]
@@ -3497,6 +3588,14 @@
       "Payments"
     ]
   },
+  "Jiaozi": {
+    "name": "Jiaozi",
+    "short": "JIAOZI",
+    "url": "/currencies/jiaozi",
+    "tags": [
+      "Token"
+    ]
+  },
   "Jibrel Network": {
     "name": "Jibrel Network",
     "short": "JNT",
@@ -3504,6 +3603,14 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "Joint Ventures": {
+    "name": "Joint Ventures",
+    "short": "JOINT",
+    "url": "/currencies/joint-ventures",
+    "tags": [
+      "Token"
     ]
   },
   "KEY": {
@@ -3686,6 +3793,14 @@
       "Platform",
       "Atomic Swaps",
       "Interoperability"
+    ]
+  },
+  "LegalBlock": {
+    "name": "LegalBlock",
+    "short": "LBK",
+    "url": "/currencies/legalblock",
+    "tags": [
+      "Token"
     ]
   },
   "Lendingblock": {
@@ -4716,6 +4831,14 @@
       "Coin"
     ]
   },
+  "Perpetual Protocol": {
+    "name": "Perpetual Protocol",
+    "short": "PERP",
+    "url": "/currencies/perpetual-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Phantasma": {
     "name": "Phantasma",
     "short": "SOUL",
@@ -4756,6 +4879,14 @@
       "Token",
       "DeFi",
       "DAO"
+    ]
+  },
+  "Pilnette": {
+    "name": "Pilnette",
+    "short": "PVG",
+    "url": "/currencies/pilnette",
+    "tags": [
+      "Token"
     ]
   },
   "PirateCash": {
@@ -5657,6 +5788,18 @@
       "Marketplace"
     ]
   },
+  "Swipe": {
+    "name": "Swipe",
+    "short": "SXP",
+    "url": "/currencies/swipe",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "DeFi",
+      "Payments",
+      "Wallet"
+    ]
+  },
   "SwissBorg": {
     "name": "SwissBorg",
     "short": "CHSB",
@@ -5696,6 +5839,14 @@
     "name": "THECASH",
     "short": "TCH",
     "url": "/currencies/thecash",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TOKOK": {
+    "name": "TOKOK",
+    "short": "TOK",
+    "url": "/currencies/tokok",
     "tags": [
       "Token"
     ]
@@ -6625,6 +6776,14 @@
       "Token"
     ]
   },
+  "YFISCURITY": {
+    "name": "YFISCURITY",
+    "short": "YFIS",
+    "url": "/currencies/yfiscurity",
+    "tags": [
+      "Token"
+    ]
+  },
   "YFPRO Finance": {
     "name": "YFPRO Finance",
     "short": "YFPRO",
@@ -6782,6 +6941,14 @@
     "url": "/currencies/zelerius",
     "tags": [
       "Coin"
+    ]
+  },
+  "Zelwin": {
+    "name": "Zelwin",
+    "short": "ZLW",
+    "url": "/currencies/zelwin",
+    "tags": [
+      "Token"
     ]
   },
   "Zen Protocol": {
