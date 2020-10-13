@@ -2341,6 +2341,14 @@
       "Masternodes"
     ]
   },
+  "ELYSIA": {
+    "name": "ELYSIA",
+    "short": "EL",
+    "url": "/currencies/elysia",
+    "tags": [
+      "Token"
+    ]
+  },
   "EMOGI Network": {
     "name": "EMOGI Network",
     "short": "LOL",
@@ -2733,6 +2741,17 @@
       "Token"
     ]
   },
+  "Expanse": {
+    "name": "Expanse",
+    "short": "EXP",
+    "url": "/currencies/expanse",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Ethash"
+    ]
+  },
   "Experty": {
     "name": "Experty",
     "short": "EXY",
@@ -2939,6 +2958,14 @@
     "name": "Folgory Coin",
     "short": "FLG",
     "url": "/currencies/folgory-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Fountain": {
+    "name": "Fountain",
+    "short": "FTN",
+    "url": "/currencies/fountain",
     "tags": [
       "Token"
     ]
@@ -4275,6 +4302,14 @@
       "Token"
     ]
   },
+  "MangoChain": {
+    "name": "MangoChain",
+    "short": "MGP",
+    "url": "/currencies/mangochain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Markaccy": {
     "name": "Markaccy",
     "short": "MKCY",
@@ -5443,6 +5478,14 @@
       "Coin"
     ]
   },
+  "Realio Network": {
+    "name": "Realio Network",
+    "short": "RIO",
+    "url": "/currencies/realio-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Red Pulse Phoenix": {
     "name": "Red Pulse Phoenix",
     "short": "PHX",
@@ -5986,6 +6029,15 @@
       "Coin"
     ]
   },
+  "SpaceChain": {
+    "name": "SpaceChain",
+    "short": "SPC",
+    "url": "/currencies/spacechain",
+    "tags": [
+      "Token",
+      "Technology"
+    ]
+  },
   "Sparkle Loyalty": {
     "name": "Sparkle Loyalty",
     "short": "SPRKL",
@@ -6223,6 +6275,14 @@
     "url": "/currencies/tokyo",
     "tags": [
       "Coin"
+    ]
+  },
+  "TOP": {
+    "name": "TOP",
+    "short": "TOP",
+    "url": "/currencies/top",
+    "tags": [
+      "Token"
     ]
   },
   "TRONbetLive": {
@@ -6896,6 +6956,14 @@
       "Token"
     ]
   },
+  "WHEN Token": {
+    "name": "WHEN Token",
+    "short": "WHEN",
+    "url": "/currencies/when-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "WIZBL": {
     "name": "WIZBL",
     "short": "WBL",
@@ -7230,6 +7298,14 @@
     "name": "Yap Stone",
     "short": "YAP",
     "url": "/currencies/yap-stone",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YeaFinance": {
+    "name": "YeaFinance",
+    "short": "YEA",
+    "url": "/currencies/yeafinance",
     "tags": [
       "Token"
     ]
