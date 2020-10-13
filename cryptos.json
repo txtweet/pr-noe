@@ -130,6 +130,14 @@
       "Token"
     ]
   },
+  "3x Short Bitcoin Cash Token": {
+    "name": "3x Short Bitcoin Cash Token",
+    "short": "BCHBEAR",
+    "url": "/currencies/3x-short-bitcoin-cash-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
     "short": "XTZBEAR",
@@ -549,6 +557,15 @@
     "url": "/currencies/asura-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "Atheios": {
+    "name": "Atheios",
+    "short": "ATH",
+    "url": "/currencies/atheios",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Atlas Protocol": {
@@ -1443,6 +1460,14 @@
       "Coin"
     ]
   },
+  "CaluraCoin": {
+    "name": "CaluraCoin",
+    "short": "CLC",
+    "url": "/currencies/caluracoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Cannadrix": {
     "name": "Cannadrix",
     "short": "CND",
@@ -1507,6 +1532,14 @@
     "name": "CashBackPro",
     "short": "CBP",
     "url": "/currencies/cashbackpro",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Cashpayz Token": {
+    "name": "Cashpayz Token",
+    "short": "CPC",
+    "url": "/currencies/cashpayz-token",
     "tags": [
       "Token"
     ]
@@ -5526,6 +5559,14 @@
       "Logistics"
     ]
   },
+  "Poseidon Network": {
+    "name": "Poseidon Network",
+    "short": "QQQ",
+    "url": "/currencies/poseidon-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Privatix": {
     "name": "Privatix",
     "short": "PRIX",
@@ -6901,6 +6942,14 @@
       "Stablecoin - Asset-Backed"
     ]
   },
+  "TrueVett": {
+    "name": "TrueVett",
+    "short": "VME",
+    "url": "/currencies/truevett",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trump Wins Token": {
     "name": "Trump Wins Token",
     "short": "TRUMPWIN",
@@ -7080,6 +7129,14 @@
       "Marketplace",
       "Medium of Exchange",
       "Services"
+    ]
+  },
+  "VENJOCOIN": {
+    "name": "VENJOCOIN",
+    "short": "VJC",
+    "url": "/currencies/venjocoin",
+    "tags": [
+      "Token"
     ]
   },
   "VNX Exchange": {
@@ -7674,6 +7731,14 @@
     "url": "/currencies/yolocash",
     "tags": [
       "Token"
+    ]
+  },
+  "Ystar": {
+    "name": "Ystar",
+    "short": "YSR",
+    "url": "/currencies/ystar",
+    "tags": [
+      "Coin"
     ]
   },
   "ZAC Finance": {
