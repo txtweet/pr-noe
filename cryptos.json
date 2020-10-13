@@ -58,6 +58,14 @@
       "Token"
     ]
   },
+  "3X Long OKB Token": {
+    "name": "3X Long OKB Token",
+    "short": "OKBBULL",
+    "url": "/currencies/3x-long-okb-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Long TomoChain Token": {
     "name": "3X Long TomoChain Token",
     "short": "TOMOBULL",
@@ -1632,6 +1640,15 @@
       "Platform"
     ]
   },
+  "Cube": {
+    "name": "Cube",
+    "short": "AUTO",
+    "url": "/currencies/cube",
+    "tags": [
+      "Token",
+      "Cybersecurity"
+    ]
+  },
   "Cubiex": {
     "name": "Cubiex",
     "short": "CBIX",
@@ -1832,6 +1849,22 @@
       "Crowdfunding"
     ]
   },
+  "Decentralized Crypto Token": {
+    "name": "Decentralized Crypto Token",
+    "short": "DCTO",
+    "url": "/currencies/decentralized-crypto-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Decentralized Data Assets Management": {
+    "name": "Decentralized Data Assets Management",
+    "short": "DDAM",
+    "url": "/currencies/decentralized-data-assets-management",
+    "tags": [
+      "Token"
+    ]
+  },
   "Decentralized Vulnerability Platform": {
     "name": "Decentralized Vulnerability Platform",
     "short": "DVP",
@@ -1990,6 +2023,15 @@
       "Technology",
       "AI & Big Data",
       "Payments"
+    ]
+  },
+  "Dystem": {
+    "name": "Dystem",
+    "short": "DTEM",
+    "url": "/currencies/dystem",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "EA Token": {
@@ -3787,6 +3829,16 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "Mercury": {
+    "name": "Mercury",
+    "short": "MER",
+    "url": "/currencies/mercury",
+    "tags": [
+      "Token",
+      "Platform",
+      "DApp"
     ]
   },
   "MesChain": {
@@ -6187,6 +6239,17 @@
     "url": "/currencies/xplosive-ethereum",
     "tags": [
       "Token"
+    ]
+  },
+  "YAM v1": {
+    "name": "YAM v1",
+    "short": "YAM",
+    "url": "/currencies/yamv1",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Memes",
+      "Yield farming"
     ]
   },
   "YAMv2": {
