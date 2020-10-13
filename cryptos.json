@@ -317,6 +317,16 @@
       "Research"
     ]
   },
+  "Alias": {
+    "name": "Alias",
+    "short": "ALIAS",
+    "url": "/currencies/alias",
+    "tags": [
+      "Coin",
+      "PoS",
+      "POS 3.0"
+    ]
+  },
   "Alpha Token": {
     "name": "Alpha Token",
     "short": "A",
@@ -679,6 +689,14 @@
       "Token"
     ]
   },
+  "Betherchip": {
+    "name": "Betherchip",
+    "short": "BEC",
+    "url": "/currencies/betherchip",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bezant": {
     "name": "Bezant",
     "short": "BZNT",
@@ -957,6 +975,15 @@
     "url": "/currencies/blockmason-link",
     "tags": [
       "Token"
+    ]
+  },
+  "Bonk": {
+    "name": "Bonk",
+    "short": "BONK",
+    "url": "/currencies/bonk",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "Boolberry": {
@@ -1410,6 +1437,14 @@
       "Binance Smart Chain"
     ]
   },
+  "Curio": {
+    "name": "Curio",
+    "short": "CUR",
+    "url": "/currencies/curio",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cyber Movie Chain": {
     "name": "Cyber Movie Chain",
     "short": "CMCT",
@@ -1633,6 +1668,14 @@
       "Token"
     ]
   },
+  "Digital Currency Daily": {
+    "name": "Digital Currency Daily",
+    "short": "DCD",
+    "url": "/currencies/digital-currency-daily",
+    "tags": [
+      "Token"
+    ]
+  },
   "Diligence": {
     "name": "Diligence",
     "short": "IRA",
@@ -1706,6 +1749,17 @@
     "url": "/currencies/dune-network",
     "tags": [
       "Coin"
+    ]
+  },
+  "DxChain Token": {
+    "name": "DxChain Token",
+    "short": "DX",
+    "url": "/currencies/dxchain-token",
+    "tags": [
+      "Token",
+      "Technology",
+      "AI & Big Data",
+      "Payments"
     ]
   },
   "EA Token": {
@@ -4099,6 +4153,14 @@
       "Payments"
     ]
   },
+  "RAKUN": {
+    "name": "RAKUN",
+    "short": "RAKU",
+    "url": "/currencies/rakun",
+    "tags": [
+      "Token"
+    ]
+  },
   "RabbitCoin": {
     "name": "RabbitCoin",
     "short": "RBBT",
@@ -4176,6 +4238,14 @@
     "name": "Rotharium",
     "short": "RTH",
     "url": "/currencies/rotharium",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Rotten": {
+    "name": "Rotten",
+    "short": "ROT",
+    "url": "/currencies/rotten",
     "tags": [
       "Token"
     ]
@@ -4743,6 +4813,14 @@
     "url": "/currencies/tokyo",
     "tags": [
       "Coin"
+    ]
+  },
+  "TRONbetLive": {
+    "name": "TRONbetLive",
+    "short": "LIVE",
+    "url": "/currencies/tronbetlive",
+    "tags": [
+      "Token"
     ]
   },
   "TV-TWO": {
