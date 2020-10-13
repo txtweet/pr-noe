@@ -74,6 +74,14 @@
       "Token"
     ]
   },
+  "3X Short Dogecoin Token": {
+    "name": "3X Short Dogecoin Token",
+    "short": "DOGEBEAR",
+    "url": "/currencies/3x-short-dogecoin-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Sushi Token": {
     "name": "3X Short Sushi Token",
     "short": "SUSHIBEAR",
@@ -227,6 +235,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Aditus": {
+    "name": "Aditus",
+    "short": "ADI",
+    "url": "/currencies/aditus",
+    "tags": [
+      "Token"
     ]
   },
   "Adzcoin": {
@@ -796,6 +812,15 @@
       "Coin"
     ]
   },
+  "Bitcoin CZ": {
+    "name": "Bitcoin CZ",
+    "short": "BCZ",
+    "url": "/currencies/bitcoin-cz",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
     "short": "XBI",
@@ -1362,6 +1387,14 @@
       "Token"
     ]
   },
+  "DAEX": {
+    "name": "DAEX",
+    "short": "DAX",
+    "url": "/currencies/daex",
+    "tags": [
+      "Token"
+    ]
+  },
   "DATA": {
     "name": "DATA",
     "short": "DTA",
@@ -1507,6 +1540,14 @@
     "name": "Defi",
     "short": "DEFI",
     "url": "/currencies/defi",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Definitex": {
+    "name": "Definitex",
+    "short": "DFX",
+    "url": "/currencies/definitex",
     "tags": [
       "Token"
     ]
@@ -2228,6 +2269,14 @@
       "Token"
     ]
   },
+  "GemSwap": {
+    "name": "GemSwap",
+    "short": "GEM",
+    "url": "/currencies/gemswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "Gene Source Code Chain": {
     "name": "Gene Source Code Chain",
     "short": "GENE",
@@ -2415,6 +2464,14 @@
       "Token"
     ]
   },
+  "Herbalist Token": {
+    "name": "Herbalist Token",
+    "short": "HERB",
+    "url": "/currencies/herbalist-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hi Mutual Society": {
     "name": "Hi Mutual Society",
     "short": "HMC",
@@ -2469,6 +2526,14 @@
     "url": "/currencies/horuspay",
     "tags": [
       "Token"
+    ]
+  },
+  "Hotpot Base Token": {
+    "name": "Hotpot Base Token",
+    "short": "pot",
+    "url": "/currencies/hotpot-base-token",
+    "tags": [
+      "Coin"
     ]
   },
   "Hydro": {
@@ -2837,6 +2902,14 @@
       "Coin"
     ]
   },
+  "Kompass": {
+    "name": "Kompass",
+    "short": "KOMP",
+    "url": "/currencies/kompass",
+    "tags": [
+      "Token"
+    ]
+  },
   "Kryll": {
     "name": "Kryll",
     "short": "KRL",
@@ -3058,6 +3131,19 @@
       "Mineable"
     ]
   },
+  "MMOCoin": {
+    "name": "MMOCoin",
+    "short": "MMO",
+    "url": "/currencies/mmocoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "Gaming",
+      "Staking",
+      "Hybrid - PoW & PoS"
+    ]
+  },
   "MODEL-X-coin": {
     "name": "MODEL-X-coin",
     "short": "MODX",
@@ -3140,6 +3226,14 @@
     "name": "MeconCash",
     "short": "MCH",
     "url": "/currencies/meconcash",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Mega Lottery Services Global": {
+    "name": "Mega Lottery Services Global",
+    "short": "MLR",
+    "url": "/currencies/mega-lottery-services-global",
     "tags": [
       "Token"
     ]
@@ -3372,6 +3466,14 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
+    ]
+  },
+  "New Year Bull": {
+    "name": "New Year Bull",
+    "short": "NYB",
+    "url": "/currencies/new-year-bull",
+    "tags": [
+      "Token"
     ]
   },
   "NewYork Exchange": {
@@ -4010,6 +4112,14 @@
       "Token"
     ]
   },
+  "SHENG": {
+    "name": "SHENG",
+    "short": "SHENG",
+    "url": "/currencies/sheng",
+    "tags": [
+      "Token"
+    ]
+  },
   "STRAKS": {
     "name": "STRAKS",
     "short": "STAK",
@@ -4091,6 +4201,14 @@
     "name": "Scorum Coins",
     "short": "SCR",
     "url": "/currencies/scorum-coins",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Secure Cash": {
+    "name": "Secure Cash",
+    "short": "SCSX",
+    "url": "/currencies/secure-cash",
     "tags": [
       "Coin"
     ]
@@ -4355,6 +4473,14 @@
       "DeFi",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Stakinglab": {
+    "name": "Stakinglab",
+    "short": "LABX",
+    "url": "/currencies/stakinglab",
+    "tags": [
+      "Coin"
     ]
   },
   "StarCoin": {
@@ -4827,6 +4953,14 @@
       "Token"
     ]
   },
+  "Uptrennd": {
+    "name": "Uptrennd",
+    "short": "1UP",
+    "url": "/currencies/uptrennd",
+    "tags": [
+      "Token"
+    ]
+  },
   "Uquid Coin": {
     "name": "Uquid Coin",
     "short": "UQC",
@@ -5041,6 +5175,14 @@
       "Coin"
     ]
   },
+  "WowSecret": {
+    "name": "WowSecret",
+    "short": "WOW",
+    "url": "/currencies/wowsecret",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wrapped LEO": {
     "name": "Wrapped LEO",
     "short": "WLEO",
@@ -5116,6 +5258,14 @@
       "Token"
     ]
   },
+  "Xplosive Ethereum": {
+    "name": "Xplosive Ethereum",
+    "short": "XETH",
+    "url": "/currencies/xplosive-ethereum",
+    "tags": [
+      "Token"
+    ]
+  },
   "YAMv2": {
     "name": "YAMv2",
     "short": "YAMV2",
@@ -5130,6 +5280,14 @@
     "name": "YEARN2.FINANCE",
     "short": "YFI2",
     "url": "/currencies/yearn2-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFE Money": {
+    "name": "YFE Money",
+    "short": "YFE",
+    "url": "/currencies/yfe-money",
     "tags": [
       "Token"
     ]
@@ -5154,6 +5312,22 @@
     "name": "YFIBusiness",
     "short": "YFIB",
     "url": "/currencies/yfibusiness",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFPRO Finance": {
+    "name": "YFPRO Finance",
+    "short": "YFPRO",
+    "url": "/currencies/yfpro-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFUEL": {
+    "name": "YFUEL",
+    "short": "YFUEL",
+    "url": "/currencies/yfuel",
     "tags": [
       "Token"
     ]
@@ -5265,6 +5439,14 @@
       "Distributed Computing",
       "Privacy",
       "Filesharing"
+    ]
+  },
+  "Zelerius": {
+    "name": "Zelerius",
+    "short": "ZLS",
+    "url": "/currencies/zelerius",
+    "tags": [
+      "Coin"
     ]
   },
   "Zen Protocol": {
@@ -5420,6 +5602,14 @@
     "url": "/currencies/wys-token",
     "tags": [
       "Token"
+    ]
+  },
+  "xscoin": {
+    "name": "xscoin",
+    "short": "XSC",
+    "url": "/currencies/xscoin",
+    "tags": [
+      "Coin"
     ]
   },
   "yfBeta": {
