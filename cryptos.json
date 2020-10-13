@@ -804,6 +804,14 @@
       "Token"
     ]
   },
+  "Bispex": {
+    "name": "Bispex",
+    "short": "BPX",
+    "url": "/currencies/bispex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bit-Z Token": {
     "name": "Bit-Z Token",
     "short": "BZ",
@@ -967,6 +975,14 @@
       "Discount token",
       "Smart Contracts",
       "Ethereum"
+    ]
+  },
+  "BitcoinPoS": {
+    "name": "BitcoinPoS",
+    "short": "BPS",
+    "url": "/currencies/bitcoinpos",
+    "tags": [
+      "Coin"
     ]
   },
   "BitcoinV": {
@@ -2280,6 +2296,14 @@
       "DApp"
     ]
   },
+  "Eva Cash": {
+    "name": "Eva Cash",
+    "short": "EVC",
+    "url": "/currencies/eva-cash",
+    "tags": [
+      "Token"
+    ]
+  },
   "Experty": {
     "name": "Experty",
     "short": "EXY",
@@ -2950,6 +2974,16 @@
       "Token"
     ]
   },
+  "INO COIN": {
+    "name": "INO COIN",
+    "short": "INO",
+    "url": "/currencies/ino-coin",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Crowdfunding"
+    ]
+  },
   "INT": {
     "name": "INT",
     "short": "INT",
@@ -3381,6 +3415,14 @@
     "name": "Linear",
     "short": "LINA",
     "url": "/currencies/linear",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LinkCoin Token": {
+    "name": "LinkCoin Token",
+    "short": "LKN",
+    "url": "/currencies/linkcoin-token",
     "tags": [
       "Token"
     ]
@@ -3817,6 +3859,14 @@
     "name": "NNB Token",
     "short": "NNB",
     "url": "/currencies/nnb-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "NOIZ": {
+    "name": "NOIZ",
+    "short": "NOIZ",
+    "url": "/currencies/noizchain",
     "tags": [
       "Token"
     ]
@@ -4368,6 +4418,14 @@
       "Payments"
     ]
   },
+  "Proof Of Liquidity": {
+    "name": "Proof Of Liquidity",
+    "short": "POL",
+    "url": "/currencies/proof-of-liquidity",
+    "tags": [
+      "Token"
+    ]
+  },
   "Propy": {
     "name": "Propy",
     "short": "PRO",
@@ -4633,6 +4691,14 @@
       "Mineable",
       "PoW",
       "X11GOST"
+    ]
+  },
+  "SOLBIT": {
+    "name": "SOLBIT",
+    "short": "SBT",
+    "url": "/currencies/solbit",
+    "tags": [
+      "Coin"
     ]
   },
   "STRAKS": {
@@ -5171,6 +5237,14 @@
     "url": "/currencies/tronbetlive",
     "tags": [
       "Token"
+    ]
+  },
+  "TRXUP": {
+    "name": "TRXUP",
+    "short": "TRXUP",
+    "url": "/currencies/trxup",
+    "tags": [
+      "Coin"
     ]
   },
   "TV-TWO": {
@@ -5848,6 +5922,14 @@
       "Coin"
     ]
   },
+  "Xenoverse": {
+    "name": "Xenoverse",
+    "short": "XENO",
+    "url": "/currencies/xenoverse",
+    "tags": [
+      "Token"
+    ]
+  },
   "Xensor": {
     "name": "Xensor",
     "short": "XSR",
@@ -6189,6 +6271,15 @@
     "tags": [
       "Token",
       "Real Estate"
+    ]
+  },
+  "indaHash": {
+    "name": "indaHash",
+    "short": "IDH",
+    "url": "/currencies/indahash",
+    "tags": [
+      "Token",
+      "Media"
     ]
   },
   "sBCH": {
