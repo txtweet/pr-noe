@@ -41,6 +41,14 @@
       "Token"
     ]
   },
+  "3X Long Matic Token": {
+    "name": "3X Long Matic Token",
+    "short": "MATICBULL",
+    "url": "/currencies/3x-long-matic-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
     "short": "LINKBEAR",
@@ -298,6 +306,14 @@
       "Token"
     ]
   },
+  "Asura Coin": {
+    "name": "Asura Coin",
+    "short": "ASA",
+    "url": "/currencies/asura-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Augur": {
     "name": "Augur",
     "short": "REP",
@@ -354,6 +370,16 @@
     "url": "/currencies/axial-entertainment-digital-asset",
     "tags": [
       "Token"
+    ]
+  },
+  "Axiom": {
+    "name": "Axiom",
+    "short": "AXIOM",
+    "url": "/currencies/axiom",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS"
     ]
   },
   "Axioms": {
@@ -786,6 +812,16 @@
     "tags": [
       "Token",
       "Logistics"
+    ]
+  },
+  "Carry": {
+    "name": "Carry",
+    "short": "CRE",
+    "url": "/currencies/carry",
+    "tags": [
+      "Token",
+      "Retail",
+      "Loyalty"
     ]
   },
   "CashBackPro": {
@@ -1373,6 +1409,16 @@
       "Smart Contracts"
     ]
   },
+  "Ecoreal Estate": {
+    "name": "Ecoreal Estate",
+    "short": "ECOREAL",
+    "url": "/currencies/ecoreal-estate",
+    "tags": [
+      "Token",
+      "Real Estate",
+      "Smart Contracts"
+    ]
+  },
   "Electra": {
     "name": "Electra",
     "short": "ECA",
@@ -1498,6 +1544,14 @@
       "AI & Big Data"
     ]
   },
+  "FANBI TOKEN": {
+    "name": "FANBI TOKEN",
+    "short": "FBT",
+    "url": "/currencies/fanbi-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "FANZY": {
     "name": "FANZY",
     "short": "FX1",
@@ -1606,6 +1660,16 @@
     "url": "/currencies/flow-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "FlypMe": {
+    "name": "FlypMe",
+    "short": "FYP",
+    "url": "/currencies/flypme",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Wallet"
     ]
   },
   "Folgory Coin": {
@@ -1821,6 +1885,14 @@
     "url": "/currencies/hgh-token",
     "tags": [
       "Token"
+    ]
+  },
+  "HL Chain": {
+    "name": "HL Chain",
+    "short": "HL",
+    "url": "/currencies/hl-chain",
+    "tags": [
+      "Coin"
     ]
   },
   "HUDDL": {
@@ -2153,6 +2225,15 @@
       "Token"
     ]
   },
+  "KZ Cash": {
+    "name": "KZ Cash",
+    "short": "KZC",
+    "url": "/currencies/kz-cash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Kalkulus": {
     "name": "Kalkulus",
     "short": "KLKS",
@@ -2266,6 +2347,14 @@
     "url": "/currencies/lightstreams",
     "tags": [
       "Coin"
+    ]
+  },
+  "Linear": {
+    "name": "Linear",
+    "short": "LINA",
+    "url": "/currencies/linear",
+    "tags": [
+      "Token"
     ]
   },
   "LinkEye": {
@@ -2900,6 +2989,15 @@
       "Coin"
     ]
   },
+  "Phantomx": {
+    "name": "Phantomx",
+    "short": "PNX",
+    "url": "/currencies/phantomx",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Photon": {
     "name": "Photon",
     "short": "PHO",
@@ -3028,6 +3126,16 @@
       "Smart Contracts"
     ]
   },
+  "QunQun": {
+    "name": "QunQun",
+    "short": "QUN",
+    "url": "/currencies/qunqun",
+    "tags": [
+      "Token",
+      "Media",
+      "Payments"
+    ]
+  },
   "RabbitCoin": {
     "name": "RabbitCoin",
     "short": "RBBT",
@@ -3072,6 +3180,15 @@
       "Scrypt",
       "Media",
       "Content Creation"
+    ]
+  },
+  "RefToken": {
+    "name": "RefToken",
+    "short": "REF",
+    "url": "/currencies/reftoken",
+    "tags": [
+      "Token",
+      "Marketing"
     ]
   },
   "Relex": {
@@ -3450,6 +3567,19 @@
       "Coin"
     ]
   },
+  "Stealth": {
+    "name": "Stealth",
+    "short": "XST",
+    "url": "/currencies/stealth",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X13",
+      "Medium of Exchange",
+      "Privacy"
+    ]
+  },
   "Stobox Token": {
     "name": "Stobox Token",
     "short": "STBU",
@@ -3512,6 +3642,14 @@
       "Coin"
     ]
   },
+  "SuperSkynet": {
+    "name": "SuperSkynet",
+    "short": "SSN",
+    "url": "/currencies/superskynet",
+    "tags": [
+      "Token"
+    ]
+  },
   "SwapShip": {
     "name": "SwapShip",
     "short": "SWSH",
@@ -3528,6 +3666,14 @@
       "Token",
       "Asset management",
       "Staking"
+    ]
+  },
+  "TAI": {
+    "name": "TAI",
+    "short": "TAI",
+    "url": "/currencies/tai",
+    "tags": [
+      "Token"
     ]
   },
   "TERA": {
@@ -4057,6 +4203,14 @@
     "name": "Yap Stone",
     "short": "YAP",
     "url": "/currencies/yap-stone",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn Finance Protocol": {
+    "name": "Yearn Finance Protocol",
+    "short": "YFP",
+    "url": "/currencies/yearn-finance-protocol",
     "tags": [
       "Token"
     ]
