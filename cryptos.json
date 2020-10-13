@@ -195,6 +195,14 @@
       "Asset management"
     ]
   },
+  "AXEL": {
+    "name": "AXEL",
+    "short": "AXEL",
+    "url": "/currencies/axel",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Aave": {
     "name": "Aave",
     "short": "AAVE",
@@ -2753,6 +2761,14 @@
       "Token"
     ]
   },
+  "King DAG": {
+    "name": "King DAG",
+    "short": "KDAG",
+    "url": "/currencies/king-dag",
+    "tags": [
+      "Token"
+    ]
+  },
   "Kingdom Game 4.0": {
     "name": "Kingdom Game 4.0",
     "short": "KDG",
@@ -3296,6 +3312,15 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
+    ]
+  },
+  "NewYork Exchange": {
+    "name": "NewYork Exchange",
+    "short": "NYE",
+    "url": "/currencies/newyork-exchange",
+    "tags": [
+      "Coin",
+      "Services"
     ]
   },
   "Newton": {
@@ -4807,6 +4832,20 @@
       "Platform",
       "Identity",
       "Reputation"
+    ]
+  },
+  "Vertcoin": {
+    "name": "Vertcoin",
+    "short": "VTC",
+    "url": "/currencies/vertcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Lyra2RE",
+      "Medium of Exchange",
+      "Privacy",
+      "Payments"
     ]
   },
   "Vexanium": {
