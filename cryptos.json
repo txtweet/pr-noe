@@ -16,6 +16,15 @@
       "Token"
     ]
   },
+  "1X2 COIN": {
+    "name": "1X2 COIN",
+    "short": "1X2",
+    "url": "/currencies/1x2-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "1irstcoin": {
     "name": "1irstcoin",
     "short": "FST",
@@ -61,6 +70,14 @@
     "name": "3X Short Sushi Token",
     "short": "SUSHIBEAR",
     "url": "/currencies/3x-short-sushi-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "3x Long Bitcoin Cash Token": {
+    "name": "3x Long Bitcoin Cash Token",
+    "short": "BCHBULL",
+    "url": "/currencies/3x-long-bitcoin-cash-token",
     "tags": [
       "Token"
     ]
@@ -154,6 +171,14 @@
       "Asset management"
     ]
   },
+  "Aave": {
+    "name": "Aave",
+    "short": "AAVE",
+    "url": "/currencies/aave-new",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aavegotchi": {
     "name": "Aavegotchi",
     "short": "GHST",
@@ -170,6 +195,17 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Adzcoin": {
+    "name": "Adzcoin",
+    "short": "ADZ",
+    "url": "/currencies/adzcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X11"
     ]
   },
   "Aerotoken": {
@@ -548,6 +584,14 @@
       "Coin"
     ]
   },
+  "Big Bang Game Coin": {
+    "name": "Big Bang Game Coin",
+    "short": "BBGC",
+    "url": "/currencies/big-bang-game-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "BigBang Core": {
     "name": "BigBang Core",
     "short": "BBC",
@@ -597,6 +641,16 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "BitCherry": {
+    "name": "BitCherry",
+    "short": "BCHC",
+    "url": "/currencies/bitcherry",
+    "tags": [
+      "Token",
+      "SHA-256",
+      "Platform"
     ]
   },
   "BitCoal": {
@@ -830,6 +884,14 @@
       "Token"
     ]
   },
+  "Buxcoin": {
+    "name": "Buxcoin",
+    "short": "BUX",
+    "url": "/currencies/buxcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "CNNS": {
     "name": "CNNS",
     "short": "CNNS",
@@ -946,6 +1008,16 @@
     "url": "/currencies/chronologic",
     "tags": [
       "Token"
+    ]
+  },
+  "Clams": {
+    "name": "Clams",
+    "short": "CLAM",
+    "url": "/currencies/clams",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Medium of Exchange"
     ]
   },
   "ClubCoin": {
@@ -1228,6 +1300,14 @@
       "Token"
     ]
   },
+  "Dapp Token": {
+    "name": "Dapp Token",
+    "short": "DAPPT",
+    "url": "/currencies/dapp-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "DarkPay": {
     "name": "DarkPay",
     "short": "D4RK",
@@ -1325,6 +1405,14 @@
     "name": "Dev Protocol",
     "short": "DEV",
     "url": "/currencies/dev-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Diligence": {
+    "name": "Diligence",
+    "short": "IRA",
+    "url": "/currencies/diligence",
     "tags": [
       "Token"
     ]
@@ -1431,6 +1519,15 @@
       "Coin"
     ]
   },
+  "ESBC": {
+    "name": "ESBC",
+    "short": "ESBC",
+    "url": "/currencies/esbc",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "ETH/BTC RSI Ratio Trading Set": {
     "name": "ETH/BTC RSI Ratio Trading Set",
     "short": "ETHBTCRSI",
@@ -1473,6 +1570,15 @@
       "Platform",
       "Interoperability",
       "Smart Contracts"
+    ]
+  },
+  "Earneo": {
+    "name": "Earneo",
+    "short": "RNO",
+    "url": "/currencies/earneo",
+    "tags": [
+      "Token",
+      "Payments"
     ]
   },
   "EchoLink": {
@@ -1540,6 +1646,17 @@
       "Coin"
     ]
   },
+  "Electroneum": {
+    "name": "Electroneum",
+    "short": "ETN",
+    "url": "/currencies/electroneum",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Wallet"
+    ]
+  },
   "Electrum Dark": {
     "name": "Electrum Dark",
     "short": "ELD",
@@ -1566,6 +1683,14 @@
       "Sharing Economy"
     ]
   },
+  "Emrals": {
+    "name": "Emrals",
+    "short": "EMRALS",
+    "url": "/currencies/emrals",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Enecuum": {
     "name": "Enecuum",
     "short": "ENQ",
@@ -1576,6 +1701,21 @@
       "PoS",
       "PoW",
       "Smart Contracts"
+    ]
+  },
+  "Energi": {
+    "name": "Energi",
+    "short": "NRG",
+    "url": "/currencies/energi",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "Masternodes",
+      "Research",
+      "Platform",
+      "Medium of Exchange",
+      "DAO"
     ]
   },
   "Engine": {
@@ -1713,6 +1853,14 @@
     "name": "FNKOS",
     "short": "FNKOS",
     "url": "/currencies/fnkos",
+    "tags": [
+      "Token"
+    ]
+  },
+  "FSBT API Token": {
+    "name": "FSBT API Token",
+    "short": "FSBT",
+    "url": "/currencies/fsbt-api-token",
     "tags": [
       "Token"
     ]
@@ -2053,6 +2201,14 @@
       "Coin"
     ]
   },
+  "Helper Search Token": {
+    "name": "Helper Search Token",
+    "short": "HSN",
+    "url": "/currencies/helper-search-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hi Mutual Society": {
     "name": "Hi Mutual Society",
     "short": "HMC",
@@ -2079,6 +2235,15 @@
     "url": "/currencies/hitchain",
     "tags": [
       "Token"
+    ]
+  },
+  "HollyWoodCoin": {
+    "name": "HollyWoodCoin",
+    "short": "HWC",
+    "url": "/currencies/hollywoodcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Holo": {
@@ -2284,6 +2449,14 @@
       "Token"
     ]
   },
+  "InterValue": {
+    "name": "InterValue",
+    "short": "INVE",
+    "url": "/currencies/intervalue",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ixcoin": {
     "name": "Ixcoin",
     "short": "IXC",
@@ -2373,6 +2546,14 @@
       "Token"
     ]
   },
+  "KekCoin": {
+    "name": "KekCoin",
+    "short": "KEK",
+    "url": "/currencies/kekcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Kids Cash": {
     "name": "Kids Cash",
     "short": "KASH",
@@ -2395,6 +2576,14 @@
     "url": "/currencies/klaytn",
     "tags": [
       "Coin"
+    ]
+  },
+  "Kryll": {
+    "name": "Kryll",
+    "short": "KRL",
+    "url": "/currencies/kryll",
+    "tags": [
+      "Token"
     ]
   },
   "LALA World": {
@@ -2823,6 +3012,14 @@
       "Token"
     ]
   },
+  "MorCrypto Coin": {
+    "name": "MorCrypto Coin",
+    "short": "MOR",
+    "url": "/currencies/morcrypto-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Morpher": {
     "name": "Morpher",
     "short": "MPH",
@@ -2896,6 +3093,17 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
+    ]
+  },
+  "Newton": {
+    "name": "Newton",
+    "short": "NEW",
+    "url": "/currencies/newton",
+    "tags": [
+      "Token",
+      "Mineable",
+      "Marketplace",
+      "Enterprise solutions"
     ]
   },
   "Nexxo": {
@@ -3017,6 +3225,17 @@
     "url": "/currencies/orbicular",
     "tags": [
       "Token"
+    ]
+  },
+  "Orbitcoin": {
+    "name": "Orbitcoin",
+    "short": "ORB",
+    "url": "/currencies/orbitcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "NeoScrypt"
     ]
   },
   "Origo": {
@@ -3178,6 +3397,14 @@
     "name": "PlayGame",
     "short": "PXG",
     "url": "/currencies/playgame",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Pledge Coin": {
+    "name": "Pledge Coin",
+    "short": "PLG",
+    "url": "/currencies/pledge-coin",
     "tags": [
       "Token"
     ]
@@ -3544,6 +3771,17 @@
     "url": "/currencies/sentinel",
     "tags": [
       "Token"
+    ]
+  },
+  "Sexcoin": {
+    "name": "Sexcoin",
+    "short": "SXC",
+    "url": "/currencies/sexcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Shardus": {
@@ -3995,6 +4233,14 @@
       "Token"
     ]
   },
+  "TravelNote": {
+    "name": "TravelNote",
+    "short": "TVNT",
+    "url": "/currencies/travelnote",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trinity Network Credit": {
     "name": "Trinity Network Credit",
     "short": "TNC",
@@ -4161,6 +4407,14 @@
       "Marketplace",
       "Medium of Exchange",
       "Services"
+    ]
+  },
+  "VOMER": {
+    "name": "VOMER",
+    "short": "VMR",
+    "url": "/currencies/vomer",
+    "tags": [
+      "Token"
     ]
   },
   "Valobit": {
@@ -4427,6 +4681,14 @@
     "name": "YFIBusiness",
     "short": "YFIB",
     "url": "/currencies/yfibusiness",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YOUengine": {
+    "name": "YOUengine",
+    "short": "YOUC",
+    "url": "/currencies/youengine",
     "tags": [
       "Token"
     ]
