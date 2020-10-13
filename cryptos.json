@@ -74,6 +74,14 @@
       "Token"
     ]
   },
+  "3X Short Cosmos Token": {
+    "name": "3X Short Cosmos Token",
+    "short": "ATOMBEAR",
+    "url": "/currencies/3x-short-cosmos-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Dogecoin Token": {
     "name": "3X Short Dogecoin Token",
     "short": "DOGEBEAR",
@@ -254,6 +262,17 @@
       "Mineable",
       "PoW",
       "X11"
+    ]
+  },
+  "Aeon": {
+    "name": "Aeon",
+    "short": "AEON",
+    "url": "/currencies/aeon",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "CryptoNight-Lite"
     ]
   },
   "Aerotoken": {
@@ -745,6 +764,14 @@
       "Token"
     ]
   },
+  "Bintex Futures": {
+    "name": "Bintex Futures",
+    "short": "BNTX",
+    "url": "/currencies/bintex-futures",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bit-Z Token": {
     "name": "Bit-Z Token",
     "short": "BZ",
@@ -1141,6 +1168,14 @@
       "Token"
     ]
   },
+  "Ccore": {
+    "name": "Ccore",
+    "short": "CCO",
+    "url": "/currencies/ccore",
+    "tags": [
+      "Token"
+    ]
+  },
   "Celo Dollar": {
     "name": "Celo Dollar",
     "short": "CUSD",
@@ -1161,6 +1196,14 @@
     "name": "Chad Link Set",
     "short": "CHADLINK",
     "url": "/currencies/chad-link-set",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Chain Games": {
+    "name": "Chain Games",
+    "short": "CHAIN",
+    "url": "/currencies/chain-games",
     "tags": [
       "Token"
     ]
@@ -1257,6 +1300,14 @@
       "DApp",
       "Stablecoin - Asset-Backed",
       "Payments"
+    ]
+  },
+  "Coin Lion": {
+    "name": "Coin Lion",
+    "short": "LION",
+    "url": "/currencies/coin-lion",
+    "tags": [
+      "Token"
     ]
   },
   "CoinFi": {
@@ -1893,6 +1944,14 @@
       "Smart Contracts"
     ]
   },
+  "EcoDollar": {
+    "name": "EcoDollar",
+    "short": "ECOS",
+    "url": "/currencies/ecodollar",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Ecoreal Estate": {
     "name": "Ecoreal Estate",
     "short": "ECOREAL",
@@ -2392,6 +2451,15 @@
     "url": "/currencies/geodb",
     "tags": [
       "Token"
+    ]
+  },
+  "Gexan": {
+    "name": "Gexan",
+    "short": "GEX",
+    "url": "/currencies/gexan",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Global Currency Reserve": {
@@ -2943,6 +3011,14 @@
     "url": "/currencies/key",
     "tags": [
       "Token"
+    ]
+  },
+  "KVANT": {
+    "name": "KVANT",
+    "short": "KVNT",
+    "url": "/currencies/kvant",
+    "tags": [
+      "Coin"
     ]
   },
   "KZ Cash": {
@@ -3508,6 +3584,16 @@
     "url": "/currencies/moneytoken",
     "tags": [
       "Token"
+    ]
+  },
+  "Monolith": {
+    "name": "Monolith",
+    "short": "TKN",
+    "url": "/currencies/monolith",
+    "tags": [
+      "Token",
+      "Services",
+      "DeFi"
     ]
   },
   "MorCrypto Coin": {
@@ -4335,6 +4421,14 @@
       "Mineable"
     ]
   },
+  "SafeInsure": {
+    "name": "SafeInsure",
+    "short": "SINS",
+    "url": "/currencies/safeinsure",
+    "tags": [
+      "Coin"
+    ]
+  },
   "SalPay": {
     "name": "SalPay",
     "short": "SAL",
@@ -5005,6 +5099,14 @@
       "Token"
     ]
   },
+  "Tronipay": {
+    "name": "Tronipay",
+    "short": "TRP",
+    "url": "/currencies/tronipay",
+    "tags": [
+      "Token"
+    ]
+  },
   "TrueChain": {
     "name": "TrueChain",
     "short": "TRUE",
@@ -5179,6 +5281,14 @@
       "Marketplace",
       "Medium of Exchange",
       "Services"
+    ]
+  },
+  "VNX Exchange": {
+    "name": "VNX Exchange",
+    "short": "VNXLU",
+    "url": "/currencies/vnx-exchange",
+    "tags": [
+      "Token"
     ]
   },
   "VOMER": {
