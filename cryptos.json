@@ -1141,6 +1141,14 @@
       "Services"
     ]
   },
+  "Block-Logic": {
+    "name": "Block-Logic",
+    "short": "BLTG",
+    "url": "/currencies/block-logic",
+    "tags": [
+      "Coin"
+    ]
+  },
   "BlockStamp": {
     "name": "BlockStamp",
     "short": "BST",
@@ -4556,6 +4564,17 @@
       "Smart Contracts"
     ]
   },
+  "Netbox Coin": {
+    "name": "Netbox Coin",
+    "short": "NBX",
+    "url": "/currencies/netbox-coin",
+    "tags": [
+      "Coin",
+      "Media",
+      "Masternodes",
+      "Staking"
+    ]
+  },
   "Netrum": {
     "name": "Netrum",
     "short": "NTR",
@@ -5329,6 +5348,14 @@
       "Token",
       "Cybersecurity",
       "Identity"
+    ]
+  },
+  "Rocket Pool": {
+    "name": "Rocket Pool",
+    "short": "RPL",
+    "url": "/currencies/rocket-pool",
+    "tags": [
+      "Token"
     ]
   },
   "Rotharium": {
@@ -7072,6 +7099,15 @@
     "url": "/currencies/zmine",
     "tags": [
       "Token"
+    ]
+  },
+  "ZPER": {
+    "name": "ZPER",
+    "short": "ZPR",
+    "url": "/currencies/zper",
+    "tags": [
+      "Token",
+      "Payments"
     ]
   },
   "ZUM TOKEN": {
