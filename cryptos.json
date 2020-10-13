@@ -310,6 +310,16 @@
       "Token"
     ]
   },
+  "AgaveCoin": {
+    "name": "AgaveCoin",
+    "short": "AGVC",
+    "url": "/currencies/agavecoin",
+    "tags": [
+      "Token",
+      "Commodities",
+      "Discount token"
+    ]
+  },
   "Agora": {
     "name": "Agora",
     "short": "VOTE",
@@ -440,6 +450,14 @@
       "DAO",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Arbidex": {
+    "name": "Arbidex",
+    "short": "ABX",
+    "url": "/currencies/arbidex",
+    "tags": [
+      "Token"
     ]
   },
   "Arcona": {
@@ -1149,6 +1167,14 @@
       "Token"
     ]
   },
+  "Bloomzed Loyalty Club Ticket": {
+    "name": "Bloomzed Loyalty Club Ticket",
+    "short": "BLCT",
+    "url": "/currencies/bloomzed-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Blue Whale EXchange": {
     "name": "Blue Whale EXchange",
     "short": "BWX",
@@ -1462,6 +1488,14 @@
       "Payments"
     ]
   },
+  "Chimpion": {
+    "name": "Chimpion",
+    "short": "BNANA",
+    "url": "/currencies/chimpion",
+    "tags": [
+      "Token"
+    ]
+  },
   "Chronologic": {
     "name": "Chronologic",
     "short": "DAY",
@@ -1687,6 +1721,14 @@
       "Token"
     ]
   },
+  "Cryptaur": {
+    "name": "Cryptaur",
+    "short": "CPT",
+    "url": "/currencies/cryptaur",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crypto Accept": {
     "name": "Crypto Accept",
     "short": "ACPT",
@@ -1845,6 +1887,14 @@
       "Token"
     ]
   },
+  "DEAPcoin": {
+    "name": "DEAPcoin",
+    "short": "DEP",
+    "url": "/currencies/deapcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "DECOIN": {
     "name": "DECOIN",
     "short": "DTEP",
@@ -1990,6 +2040,14 @@
     "name": "Decentralized Data Assets Management",
     "short": "DDAM",
     "url": "/currencies/decentralized-data-assets-management",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Decentralized Machine Learning": {
+    "name": "Decentralized Machine Learning",
+    "short": "DML",
+    "url": "/currencies/decentralized-machine-learning",
     "tags": [
       "Token"
     ]
@@ -2147,6 +2205,16 @@
     "url": "/currencies/doctors-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "DomRaider": {
+    "name": "DomRaider",
+    "short": "DRT",
+    "url": "/currencies/domraider",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Collectibles & NFTs"
     ]
   },
   "Donut": {
@@ -3241,6 +3309,14 @@
       "Filesharing"
     ]
   },
+  "Honest": {
+    "name": "Honest",
+    "short": "HNST",
+    "url": "/currencies/honest",
+    "tags": [
+      "Token"
+    ]
+  },
   "HorusPay": {
     "name": "HorusPay",
     "short": "HORUS",
@@ -3533,6 +3609,15 @@
       "Token"
     ]
   },
+  "Iridium": {
+    "name": "Iridium",
+    "short": "IRD",
+    "url": "/currencies/iridium",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Ixcoin": {
     "name": "Ixcoin",
     "short": "IXC",
@@ -3659,6 +3744,14 @@
     "name": "KekCoin",
     "short": "KEK",
     "url": "/currencies/kekcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Kepler Network": {
+    "name": "Kepler Network",
+    "short": "KMW",
+    "url": "/currencies/kepler-network",
     "tags": [
       "Coin"
     ]
@@ -3939,6 +4032,14 @@
       "Token"
     ]
   },
+  "LunchMoney": {
+    "name": "LunchMoney",
+    "short": "LMY",
+    "url": "/currencies/lunchmoney",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lunes": {
     "name": "Lunes",
     "short": "LUNES",
@@ -3962,6 +4063,15 @@
     "url": "/currencies/many",
     "tags": [
       "Token"
+    ]
+  },
+  "MAX Exchange Token": {
+    "name": "MAX Exchange Token",
+    "short": "MAX",
+    "url": "/currencies/max-exchange-token",
+    "tags": [
+      "Token",
+      "Centralized exchange"
     ]
   },
   "MCDEX": {
@@ -4255,6 +4365,14 @@
       "Wallet"
     ]
   },
+  "Modern Investment Coin": {
+    "name": "Modern Investment Coin",
+    "short": "MODIC",
+    "url": "/currencies/modern-investment-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Moeda Loyalty Points": {
     "name": "Moeda Loyalty Points",
     "short": "MDA",
@@ -4417,6 +4535,16 @@
       "Payments"
     ]
   },
+  "Nebulas": {
+    "name": "Nebulas",
+    "short": "NAS",
+    "url": "/currencies/nebulas-token",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Search Engine"
+    ]
+  },
   "Neo": {
     "name": "Neo",
     "short": "NEO",
@@ -4500,6 +4628,14 @@
       "Scrypt"
     ]
   },
+  "Nuggets": {
+    "name": "Nuggets",
+    "short": "NUG",
+    "url": "/currencies/nuggets",
+    "tags": [
+      "Token"
+    ]
+  },
   "Nyerium": {
     "name": "Nyerium",
     "short": "NYEX",
@@ -4577,6 +4713,14 @@
       "Filesharing",
       "Substrate",
       "IPFS"
+    ]
+  },
+  "OceanEx Token": {
+    "name": "OceanEx Token",
+    "short": "OCE",
+    "url": "/currencies/oceanex-token",
+    "tags": [
+      "Token"
     ]
   },
   "Octoin Coin": {
@@ -4706,6 +4850,14 @@
     "name": "PANTHEON X",
     "short": "XPN",
     "url": "/currencies/pantheon-x",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PARSIQ": {
+    "name": "PARSIQ",
+    "short": "PRQ",
+    "url": "/currencies/parsiq",
     "tags": [
       "Token"
     ]
@@ -5341,6 +5493,14 @@
       "Technology"
     ]
   },
+  "SaveToken": {
+    "name": "SaveToken",
+    "short": "SAVE",
+    "url": "/currencies/savetoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Scala": {
     "name": "Scala",
     "short": "XLA",
@@ -5863,6 +6023,14 @@
     "name": "TRONbetLive",
     "short": "LIVE",
     "url": "/currencies/tronbetlive",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TROY": {
+    "name": "TROY",
+    "short": "TROY",
+    "url": "/currencies/troy",
     "tags": [
       "Token"
     ]
@@ -6570,6 +6738,14 @@
       "Crowdfunding"
     ]
   },
+  "Wenburn": {
+    "name": "Wenburn",
+    "short": "WENB",
+    "url": "/currencies/wenburn",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wings": {
     "name": "Wings",
     "short": "WINGS",
@@ -7073,6 +7249,14 @@
     "name": "happy birthday coin",
     "short": "HBDC",
     "url": "/currencies/happy-birthday-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "iDeFi": {
+    "name": "iDeFi",
+    "short": "IDEFI",
+    "url": "/currencies/idefi",
     "tags": [
       "Token"
     ]
