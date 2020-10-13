@@ -407,6 +407,14 @@
       "Binance Chain"
     ]
   },
+  "Bast": {
+    "name": "Bast",
+    "short": "BAST",
+    "url": "/currencies/bast",
+    "tags": [
+      "Token"
+    ]
+  },
   "BeeKan": {
     "name": "BeeKan",
     "short": "BKBT",
@@ -437,6 +445,14 @@
     "url": "/currencies/bigbang-core",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bilaxy Token": {
+    "name": "Bilaxy Token",
+    "short": "BIA",
+    "url": "/currencies/bilaxy-token",
+    "tags": [
+      "Token"
     ]
   },
   "Bit-Z Token": {
@@ -944,6 +960,14 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
+    ]
+  },
+  "Cyber Movie Chain": {
+    "name": "Cyber Movie Chain",
+    "short": "CMCT",
+    "url": "/currencies/cyber-movie-chain",
+    "tags": [
+      "Token"
     ]
   },
   "DACC2": {
@@ -1594,6 +1618,14 @@
       "Token"
     ]
   },
+  "GoHelpFund": {
+    "name": "GoHelpFund",
+    "short": "HELP",
+    "url": "/currencies/gohelpfund",
+    "tags": [
+      "Coin"
+    ]
+  },
   "GoldFund": {
     "name": "GoldFund",
     "short": "GFUN",
@@ -2061,6 +2093,21 @@
     "url": "/currencies/lition",
     "tags": [
       "Token"
+    ]
+  },
+  "Loki": {
+    "name": "Loki",
+    "short": "LOKI",
+    "url": "/currencies/loki",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Technology",
+      "DeFi",
+      "Privacy",
+      "Masternodes",
+      "Mineable",
+      "Technology"
     ]
   },
   "Lua Token": {
@@ -2678,6 +2725,15 @@
       "Smart Contracts"
     ]
   },
+  "RabbitCoin": {
+    "name": "RabbitCoin",
+    "short": "RBBT",
+    "url": "/currencies/rabbitcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Rapids": {
     "name": "Rapids",
     "short": "RPD",
@@ -2816,6 +2872,14 @@
       "Token",
       "Platform",
       "AI & Big Data"
+    ]
+  },
+  "Seigniorage Shares": {
+    "name": "Seigniorage Shares",
+    "short": "SHARE",
+    "url": "/currencies/seigniorage-shares",
+    "tags": [
+      "Token"
     ]
   },
   "Selfkey": {
@@ -3524,6 +3588,14 @@
       "Coin"
     ]
   },
+  "Xensor": {
+    "name": "Xensor",
+    "short": "XSR",
+    "url": "/currencies/xensor",
+    "tags": [
+      "Token"
+    ]
+  },
   "YEARN2.FINANCE": {
     "name": "YEARN2.FINANCE",
     "short": "YFI2",
@@ -3635,6 +3707,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "dForce GOLDx": {
+    "name": "dForce GOLDx",
+    "short": "GOLDX",
+    "url": "/currencies/dforce-goldx",
+    "tags": [
+      "Token"
     ]
   },
   "dForce USDx": {
