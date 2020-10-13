@@ -8,7 +8,7 @@ Object.keys(data).forEach (x) ->
   tab_data.push(data[x])
 
 transformStream = ndjson.stringify();
-outputStream = transformStream.pipe( fs.createWriteStream( __dirname + "/dataCS.ndjson" ) )
+outputStream = transformStream.pipe( fs.createWriteStream( __dirname + "/data.ndjson" ) )
 tab_data.forEach (x) ->
   transformStream.write(x)
 
