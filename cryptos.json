@@ -353,6 +353,14 @@
       "Token"
     ]
   },
+  "AiLink Token": {
+    "name": "AiLink Token",
+    "short": "ALI",
+    "url": "/currencies/ailink-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aigang": {
     "name": "Aigang",
     "short": "AIX",
@@ -376,6 +384,15 @@
     "url": "/currencies/airbloc",
     "tags": [
       "Token"
+    ]
+  },
+  "Akroma": {
+    "name": "Akroma",
+    "short": "AKA",
+    "url": "/currencies/akroma",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Akropolis ": {
@@ -1870,6 +1887,14 @@
       "Mineable"
     ]
   },
+  "Crowd Machine": {
+    "name": "Crowd Machine",
+    "short": "CMCT",
+    "url": "/currencies/crowd-machine",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crust": {
     "name": "Crust",
     "short": "CRU",
@@ -2183,6 +2208,14 @@
     "name": "DeFiat",
     "short": "DFT",
     "url": "/currencies/defiat",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeFinition": {
+    "name": "DeFinition",
+    "short": "DZI",
+    "url": "/currencies/definition",
     "tags": [
       "Token"
     ]
@@ -3181,6 +3214,15 @@
       "Token"
     ]
   },
+  "Frontier": {
+    "name": "Frontier",
+    "short": "FRONT",
+    "url": "/currencies/frontier",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "FujiCoin": {
     "name": "FujiCoin",
     "short": "FJC",
@@ -4085,6 +4127,14 @@
       "Mineable"
     ]
   },
+  "KardiaChain": {
+    "name": "KardiaChain",
+    "short": "KAI",
+    "url": "/currencies/kardiachain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Katana Finance": {
     "name": "Katana Finance",
     "short": "KATANA",
@@ -4191,6 +4241,15 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "LHT": {
+    "name": "LHT",
+    "short": "LHT",
+    "url": "/currencies/lighthouse-token",
+    "tags": [
+      "Coin",
+      "Payments"
     ]
   },
   "LIFE": {
@@ -4807,6 +4866,14 @@
     "tags": [
       "Token",
       "Services"
+    ]
+  },
+  "MoneroV ": {
+    "name": "MoneroV ",
+    "short": "XMV",
+    "url": "/currencies/monero-v",
+    "tags": [
+      "Coin"
     ]
   },
   "MonetaryUnit": {
@@ -5539,6 +5606,17 @@
       "DAO"
     ]
   },
+  "Pillar": {
+    "name": "Pillar",
+    "short": "PLR",
+    "url": "/currencies/pillar",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Identity"
+    ]
+  },
   "Pilnette": {
     "name": "Pilnette",
     "short": "PVG",
@@ -5626,6 +5704,17 @@
     "url": "/currencies/poseidon-network",
     "tags": [
       "Token"
+    ]
+  },
+  "Primecoin": {
+    "name": "Primecoin",
+    "short": "XPM",
+    "url": "/currencies/primecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Multiple"
     ]
   },
   "Printer.Finance": {
