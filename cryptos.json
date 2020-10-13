@@ -236,6 +236,17 @@
       "Collectibles & NFTs"
     ]
   },
+  "AdHive": {
+    "name": "AdHive",
+    "short": "ADH",
+    "url": "/currencies/adhive",
+    "tags": [
+      "Token",
+      "Marketing",
+      "AI & Big Data",
+      "Content Creation"
+    ]
+  },
   "Add.xyz": {
     "name": "Add.xyz",
     "short": "PLT",
@@ -400,6 +411,19 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "Aragon": {
+    "name": "Aragon",
+    "short": "ANT",
+    "url": "/currencies/aragon",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions",
+      "DAO",
+      "Substrate",
+      "Polkadot"
     ]
   },
   "Arcona": {
@@ -986,6 +1010,15 @@
       "Token"
     ]
   },
+  "Blackmoon": {
+    "name": "Blackmoon",
+    "short": "BMC",
+    "url": "/currencies/blackmoon",
+    "tags": [
+      "Token",
+      "Services"
+    ]
+  },
   "BlockStamp": {
     "name": "BlockStamp",
     "short": "BST",
@@ -1101,6 +1134,14 @@
       "Coin"
     ]
   },
+  "CBDAO": {
+    "name": "CBDAO",
+    "short": "BREE",
+    "url": "/currencies/cbdao",
+    "tags": [
+      "Token"
+    ]
+  },
   "CNNS": {
     "name": "CNNS",
     "short": "CNNS",
@@ -1131,6 +1172,17 @@
     "url": "/currencies/cannadrix",
     "tags": [
       "Token"
+    ]
+  },
+  "Carboncoin": {
+    "name": "Carboncoin",
+    "short": "CARBON",
+    "url": "/currencies/carboncoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "CargoX": {
@@ -1697,6 +1749,16 @@
       "Token"
     ]
   },
+  "Debitum": {
+    "name": "Debitum",
+    "short": "DEB",
+    "url": "/currencies/debitum-network",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdfunding"
+    ]
+  },
   "Decentralized Vulnerability Platform": {
     "name": "Decentralized Vulnerability Platform",
     "short": "DVP",
@@ -2134,6 +2196,17 @@
       "Token"
     ]
   },
+  "Enjin Coin": {
+    "name": "Enjin Coin",
+    "short": "ENJ",
+    "url": "/currencies/enjin-coin",
+    "tags": [
+      "Token",
+      "Media",
+      "Collectibles & NFTs",
+      "Gaming"
+    ]
+  },
   "EnterCoin": {
     "name": "EnterCoin",
     "short": "ENTRC",
@@ -2194,6 +2267,17 @@
     "url": "/currencies/etherisc",
     "tags": [
       "Token"
+    ]
+  },
+  "Etherparty": {
+    "name": "Etherparty",
+    "short": "FUEL",
+    "url": "/currencies/etherparty",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Payments",
+      "DApp"
     ]
   },
   "Experty": {
@@ -2779,6 +2863,17 @@
     "url": "/currencies/hotpot-base-token",
     "tags": [
       "Coin"
+    ]
+  },
+  "Hush": {
+    "name": "Hush",
+    "short": "HUSH",
+    "url": "/currencies/hush",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Equihash"
     ]
   },
   "Hydro": {
@@ -3754,6 +3849,18 @@
       "Smart Contracts"
     ]
   },
+  "Namecoin": {
+    "name": "Namecoin",
+    "short": "NMC",
+    "url": "/currencies/namecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "Platform"
+    ]
+  },
   "Neo": {
     "name": "Neo",
     "short": "NEO",
@@ -4251,6 +4358,16 @@
       "Logistics"
     ]
   },
+  "Profile Utility Token": {
+    "name": "Profile Utility Token",
+    "short": "PUT",
+    "url": "/currencies/profile-utility-token",
+    "tags": [
+      "Token",
+      "Media",
+      "Payments"
+    ]
+  },
   "Propy": {
     "name": "Propy",
     "short": "PRO",
@@ -4505,6 +4622,17 @@
     "url": "/currencies/sheng",
     "tags": [
       "Token"
+    ]
+  },
+  "SIBCoin": {
+    "name": "SIBCoin",
+    "short": "SIB",
+    "url": "/currencies/sibcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X11GOST"
     ]
   },
   "STRAKS": {
@@ -5316,6 +5444,16 @@
       "Token"
     ]
   },
+  "USDQ": {
+    "name": "USDQ",
+    "short": "USDQ",
+    "url": "/currencies/usdq",
+    "tags": [
+      "Token",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "Ubiq": {
     "name": "Ubiq",
     "short": "UBQ",
@@ -5934,6 +6072,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Zetacoin": {
+    "name": "Zetacoin",
+    "short": "ZET",
+    "url": "/currencies/zetacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
     ]
   },
   "ZeuxCoin": {
