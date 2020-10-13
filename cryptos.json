@@ -1545,6 +1545,14 @@
       "Token"
     ]
   },
+  "Digital Asset Guarantee Token": {
+    "name": "Digital Asset Guarantee Token",
+    "short": "DAGT",
+    "url": "/currencies/digital-asset-guarantee-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Diligence": {
     "name": "Diligence",
     "short": "IRA",
@@ -2140,6 +2148,14 @@
       "Token"
     ]
   },
+  "GAMB": {
+    "name": "GAMB",
+    "short": "GMB",
+    "url": "/currencies/gamb",
+    "tags": [
+      "Token"
+    ]
+  },
   "GCN Coin": {
     "name": "GCN Coin",
     "short": "GCN",
@@ -2594,6 +2610,17 @@
     "url": "/currencies/index-cooperative",
     "tags": [
       "Token"
+    ]
+  },
+  "Infinitecoin": {
+    "name": "Infinitecoin",
+    "short": "IFC",
+    "url": "/currencies/infinitecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Infinity Economics": {
