@@ -4410,6 +4410,14 @@
       "NeoScrypt"
     ]
   },
+  "Orchid": {
+    "name": "Orchid",
+    "short": "OXT",
+    "url": "/currencies/orchid",
+    "tags": [
+      "Token"
+    ]
+  },
   "Origin Protocol": {
     "name": "Origin Protocol",
     "short": "OGN",
@@ -5312,6 +5320,16 @@
     "url": "/currencies/socialgood",
     "tags": [
       "Token"
+    ]
+  },
+  "Solana": {
+    "name": "Solana",
+    "short": "SOL",
+    "url": "/currencies/solana",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Platform"
     ]
   },
   "Solaris": {
