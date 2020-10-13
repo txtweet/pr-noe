@@ -1,6 +1,8 @@
 {
   "name": "pr-noe",
   "version": "1.0.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "ndjson": "^2.0.0"
   }
 }
