@@ -58,6 +58,14 @@
       "Token"
     ]
   },
+  "3X Long TomoChain Token": {
+    "name": "3X Long TomoChain Token",
+    "short": "TOMOBULL",
+    "url": "/currencies/3x-long-tomochain-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
     "short": "LINKBEAR",
@@ -474,6 +482,17 @@
       "Token",
       "Marketplace",
       "Smart Contracts"
+    ]
+  },
+  "BERNcash": {
+    "name": "BERNcash",
+    "short": "BERN",
+    "url": "/currencies/berncash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X14"
     ]
   },
   "BIDR": {
@@ -1072,6 +1091,16 @@
       "Token"
     ]
   },
+  "Cindicator": {
+    "name": "Cindicator",
+    "short": "CND",
+    "url": "/currencies/cindicator",
+    "tags": [
+      "Token",
+      "Services",
+      "AI & Big Data"
+    ]
+  },
   "Clams": {
     "name": "Clams",
     "short": "CLAM",
@@ -1498,6 +1527,17 @@
     "url": "/currencies/diligence",
     "tags": [
       "Token"
+    ]
+  },
+  "Dimecoin": {
+    "name": "Dimecoin",
+    "short": "DIME",
+    "url": "/currencies/dimecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Quark"
     ]
   },
   "Diplexcoin": {
@@ -2076,6 +2116,17 @@
       "Token"
     ]
   },
+  "GCN Coin": {
+    "name": "GCN Coin",
+    "short": "GCN",
+    "url": "/currencies/gcn-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "GLOBALTRUSTFUND TOKEN": {
     "name": "GLOBALTRUSTFUND TOKEN",
     "short": "GTF",
@@ -2304,6 +2355,14 @@
     "name": "Hanacoin",
     "short": "HANA",
     "url": "/currencies/hanacoin",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "HebeBlock": {
+    "name": "HebeBlock",
+    "short": "HEBE",
+    "url": "/currencies/hebeblock",
     "tags": [
       "Coin"
     ]
@@ -2752,6 +2811,18 @@
       "Services",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Lambda": {
+    "name": "Lambda",
+    "short": "LAMB",
+    "url": "/currencies/lambda",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Distributed Computing",
+      "Filesharing"
     ]
   },
   "Lamden": {
@@ -3350,6 +3421,16 @@
       "Token",
       "Platform",
       "Sharing Economy"
+    ]
+  },
+  "Omni": {
+    "name": "Omni",
+    "short": "OMNI",
+    "url": "/currencies/omni",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Opal": {
@@ -4326,6 +4407,14 @@
       "Mineable"
     ]
   },
+  "TOKYO": {
+    "name": "TOKYO",
+    "short": "TOKC",
+    "url": "/currencies/tokyo",
+    "tags": [
+      "Coin"
+    ]
+  },
   "TV-TWO": {
     "name": "TV-TWO",
     "short": "TTV",
@@ -4340,6 +4429,15 @@
     "url": "/currencies/tachyon-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "Tendies": {
+    "name": "Tendies",
+    "short": "TEND",
+    "url": "/currencies/tendies",
+    "tags": [
+      "Token",
+      "Memes"
     ]
   },
   "Terra": {
@@ -4709,6 +4807,14 @@
       "Platform",
       "Identity",
       "Reputation"
+    ]
+  },
+  "Vexanium": {
+    "name": "Vexanium",
+    "short": "VEX",
+    "url": "/currencies/vexanium",
+    "tags": [
+      "Coin"
     ]
   },
   "VideoCoin": {
@@ -5082,6 +5188,14 @@
     "url": "/currencies/ebtcnew",
     "tags": [
       "Token"
+    ]
+  },
+  "eBoost": {
+    "name": "eBoost",
+    "short": "EBST",
+    "url": "/currencies/eboostcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "eXPerience Chain": {
