@@ -33,6 +33,14 @@
       "Token"
     ]
   },
+  "3X Long Chainlink Token": {
+    "name": "3X Long Chainlink Token",
+    "short": "LINKBULL",
+    "url": "/currencies/3x-long-chainlink-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
     "short": "LINKBEAR",
@@ -423,6 +431,14 @@
       "Token"
     ]
   },
+  "BigBang Core": {
+    "name": "BigBang Core",
+    "short": "BBC",
+    "url": "/currencies/bigbang-core",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bit-Z Token": {
     "name": "Bit-Z Token",
     "short": "BZ",
@@ -594,6 +610,25 @@
       "Platform"
     ]
   },
+  "Boolberry": {
+    "name": "Boolberry",
+    "short": "BBR",
+    "url": "/currencies/boolberry",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X11"
+    ]
+  },
+  "Brickblock": {
+    "name": "Brickblock",
+    "short": "BBK",
+    "url": "/currencies/brickblock",
+    "tags": [
+      "Token"
+    ]
+  },
   "Buccaneer V2": {
     "name": "Buccaneer V2",
     "short": "BUCC",
@@ -617,6 +652,14 @@
     "tags": [
       "Token",
       "Transport"
+    ]
+  },
+  "Bulleon": {
+    "name": "Bulleon",
+    "short": "BUL",
+    "url": "/currencies/bulleon",
+    "tags": [
+      "Token"
     ]
   },
   "CUTcoin": {
@@ -779,6 +822,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Community Token": {
+    "name": "Community Token",
+    "short": "COM",
+    "url": "/currencies/community-token",
+    "tags": [
+      "Token"
     ]
   },
   "Compound Dai": {
@@ -1463,6 +1514,14 @@
     "url": "/currencies/got-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Galilel": {
+    "name": "Galilel",
+    "short": "GALI",
+    "url": "/currencies/galilel",
+    "tags": [
+      "Coin"
     ]
   },
   "GameCredits": {
@@ -2211,6 +2270,17 @@
     "tags": [
       "Token",
       "Services"
+    ]
+  },
+  "MonetaryUnit": {
+    "name": "MonetaryUnit",
+    "short": "MUE",
+    "url": "/currencies/monetaryunit",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Quark"
     ]
   },
   "Monetha": {
@@ -3583,10 +3653,26 @@
       "Token"
     ]
   },
+  "eBitcoin": {
+    "name": "eBitcoin",
+    "short": "EBTC",
+    "url": "/currencies/ebtcnew",
+    "tags": [
+      "Token"
+    ]
+  },
   "ebakus": {
     "name": "ebakus",
     "short": "EBK",
     "url": "/currencies/ebakus",
+    "tags": [
+      "Token"
+    ]
+  },
+  "eosBLACK": {
+    "name": "eosBLACK",
+    "short": "BLACK",
+    "url": "/currencies/eosblack",
     "tags": [
       "Token"
     ]
