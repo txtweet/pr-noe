@@ -5670,6 +5670,21 @@
       "Token"
     ]
   },
+  "Tether": {
+    "name": "Tether",
+    "short": "USDT",
+    "url": "/currencies/tether",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Payments",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed",
+      "Store of Value",
+      "Payments",
+      "Stablecoin"
+    ]
+  },
   "Thar Token": {
     "name": "Thar Token",
     "short": "THAR",
