@@ -1288,12 +1288,30 @@
       "Token"
     ]
   },
+  "Blood": {
+    "name": "Blood",
+    "short": "BLOOD",
+    "url": "/currencies/blood",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bloomzed Loyalty Club Ticket": {
     "name": "Bloomzed Loyalty Club Ticket",
     "short": "BLCT",
     "url": "/currencies/bloomzed-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Blue Protocol": {
+    "name": "Blue Protocol",
+    "short": "BLUE",
+    "url": "/currencies/ethereum-blue",
+    "tags": [
+      "Token",
+      "Platform",
+      "Wallet"
     ]
   },
   "Blue Whale EXchange": {
@@ -1456,6 +1474,14 @@
     "name": "COMSA [ETH]",
     "short": "CMS",
     "url": "/currencies/comsa-eth",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CRDT": {
+    "name": "CRDT",
+    "short": "CRDT",
+    "url": "/currencies/crdt",
     "tags": [
       "Token"
     ]
@@ -3797,6 +3823,16 @@
       "Scrypt"
     ]
   },
+  "IDEX Membership": {
+    "name": "IDEX Membership",
+    "short": "IDXM",
+    "url": "/currencies/idex-membership",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Decentralized exchange"
+    ]
+  },
   "INMAX": {
     "name": "INMAX",
     "short": "INX",
@@ -4234,6 +4270,14 @@
       "Discount token"
     ]
   },
+  "Kuai Token": {
+    "name": "Kuai Token",
+    "short": "KT",
+    "url": "/currencies/kuai-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "LALA World": {
     "name": "LALA World",
     "short": "LALA",
@@ -4499,6 +4543,14 @@
       "Token"
     ]
   },
+  "Lux Bio Cell": {
+    "name": "Lux Bio Cell",
+    "short": "LBXC",
+    "url": "/currencies/lux-bio-cell",
+    "tags": [
+      "Token"
+    ]
+  },
   "MACH Project": {
     "name": "MACH Project",
     "short": "MACH",
@@ -4568,6 +4620,15 @@
       "Gaming",
       "Staking",
       "Hybrid - PoW & PoS"
+    ]
+  },
+  "MNPCoin": {
+    "name": "MNPCoin",
+    "short": "MNP",
+    "url": "/currencies/mnpcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "MODEL-X-coin": {
@@ -5272,6 +5333,14 @@
       "Token"
     ]
   },
+  "OctoFi": {
+    "name": "OctoFi",
+    "short": "OCTO",
+    "url": "/currencies/octofi",
+    "tags": [
+      "Token"
+    ]
+  },
   "Octoin Coin": {
     "name": "Octoin Coin",
     "short": "OCC",
@@ -5308,6 +5377,16 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13"
+    ]
+  },
+  "Open Trading Network": {
+    "name": "Open Trading Network",
+    "short": "OTN",
+    "url": "/currencies/open-trading-network",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Interoperability"
     ]
   },
   "OpenAlexa Protocol": {
@@ -5679,6 +5758,15 @@
       "Mineable"
     ]
   },
+  "Polkastarter": {
+    "name": "Polkastarter",
+    "short": "POLS",
+    "url": "/currencies/polkastarter",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Polymath": {
     "name": "Polymath",
     "short": "POLY",
@@ -5702,6 +5790,14 @@
     "name": "Poseidon Network",
     "short": "QQQ",
     "url": "/currencies/poseidon-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PowerTrade Fuel": {
+    "name": "PowerTrade Fuel",
+    "short": "PTF",
+    "url": "/currencies/powertrade-fuel",
     "tags": [
       "Token"
     ]
@@ -6167,6 +6263,18 @@
     "url": "/currencies/salpay",
     "tags": [
       "Token"
+    ]
+  },
+  "SaluS": {
+    "name": "SaluS",
+    "short": "SLS",
+    "url": "/currencies/salus",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt",
+      "Marketplace",
+      "Staking"
     ]
   },
   "Santiment Network Token": {
