@@ -146,6 +146,14 @@
       "Coin"
     ]
   },
+  "ARAW": {
+    "name": "ARAW",
+    "short": "ARAW",
+    "url": "/currencies/araw",
+    "tags": [
+      "Token"
+    ]
+  },
   "ARCS": {
     "name": "ARCS",
     "short": "ARX",
@@ -466,6 +474,14 @@
     "url": "/currencies/bizkey",
     "tags": [
       "Token"
+    ]
+  },
+  "BLOCKIDCOIN": {
+    "name": "BLOCKIDCOIN",
+    "short": "BID",
+    "url": "/currencies/blockidcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "BOSAGORA": {
@@ -941,6 +957,14 @@
       "Token",
       "Retail",
       "Loyalty"
+    ]
+  },
+  "Cash Global Coin": {
+    "name": "Cash Global Coin",
+    "short": "CGC",
+    "url": "/currencies/cash-global-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "CashBackPro": {
@@ -1887,6 +1911,14 @@
     "url": "/currencies/fintrux-network",
     "tags": [
       "Token"
+    ]
+  },
+  "Five Star Coin": {
+    "name": "Five Star Coin",
+    "short": "FSC",
+    "url": "/currencies/five-star-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "FlashX Advance": {
@@ -3122,6 +3154,15 @@
       "Coin"
     ]
   },
+  "Nimiq": {
+    "name": "Nimiq",
+    "short": "NIM",
+    "url": "/currencies/nimiq",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Novacoin": {
     "name": "Novacoin",
     "short": "NVC",
@@ -3236,6 +3277,19 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "NeoScrypt"
+    ]
+  },
+  "Origin Protocol": {
+    "name": "Origin Protocol",
+    "short": "OGN",
+    "url": "/currencies/origin-protocol",
+    "tags": [
+      "Token",
+      "DeFi",
+      "E-commerce",
+      "Marketplace",
+      "Platform",
+      "Ethereum"
     ]
   },
   "Origo": {
@@ -4757,6 +4811,14 @@
       "Token"
     ]
   },
+  "ZUM TOKEN": {
+    "name": "ZUM TOKEN",
+    "short": "ZUM",
+    "url": "/currencies/zum-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "ZYX": {
     "name": "ZYX",
     "short": "ZYX",
@@ -4826,6 +4888,14 @@
     "name": "eosBLACK",
     "short": "BLACK",
     "url": "/currencies/eosblack",
+    "tags": [
+      "Token"
+    ]
+  },
+  "happy birthday coin": {
+    "name": "happy birthday coin",
+    "short": "HBDC",
+    "url": "/currencies/happy-birthday-coin",
     "tags": [
       "Token"
     ]
