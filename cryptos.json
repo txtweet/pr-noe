@@ -467,6 +467,15 @@
       "Token"
     ]
   },
+  "Atlas Protocol": {
+    "name": "Atlas Protocol",
+    "short": "ATP",
+    "url": "/currencies/atlas-protocol",
+    "tags": [
+      "Token",
+      "Marketing"
+    ]
+  },
   "Augur": {
     "name": "Augur",
     "short": "REP",
@@ -764,6 +773,14 @@
       "Token"
     ]
   },
+  "BidiPass": {
+    "name": "BidiPass",
+    "short": "BDP",
+    "url": "/currencies/bidipass",
+    "tags": [
+      "Token"
+    ]
+  },
   "Big Bang Game Coin": {
     "name": "Big Bang Game Coin",
     "short": "BBGC",
@@ -1018,6 +1035,14 @@
       "Token"
     ]
   },
+  "BitoPro Exchange Token": {
+    "name": "BitoPro Exchange Token",
+    "short": "BITO",
+    "url": "/currencies/bitopro-exchange-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bittwatt": {
     "name": "Bittwatt",
     "short": "BWT",
@@ -1068,6 +1093,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "BonusCloud": {
+    "name": "BonusCloud",
+    "short": "BXC",
+    "url": "/currencies/bonuscloud",
+    "tags": [
+      "Token"
     ]
   },
   "Boolberry": {
@@ -2244,6 +2277,14 @@
       "Payments"
     ]
   },
+  "Esportbits": {
+    "name": "Esportbits",
+    "short": "HLT",
+    "url": "/currencies/esportbits",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ethereum": {
     "name": "Ethereum",
     "short": "ETH",
@@ -2294,6 +2335,17 @@
       "Marketplace",
       "Payments",
       "DApp"
+    ]
+  },
+  "Eurocoin": {
+    "name": "Eurocoin",
+    "short": "EUC",
+    "url": "/currencies/eurocoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
     ]
   },
   "Eva Cash": {
@@ -2719,6 +2771,14 @@
     "name": "GrafSound",
     "short": "GSMT",
     "url": "/currencies/grafsound",
+    "tags": [
+      "Token"
+    ]
+  },
+  "GramGold Coin": {
+    "name": "GramGold Coin",
+    "short": "GGC",
+    "url": "/currencies/gramgold-coin",
     "tags": [
       "Token"
     ]
@@ -3395,6 +3455,14 @@
       "DeFi"
     ]
   },
+  "Libfx": {
+    "name": "Libfx",
+    "short": "LIBFX",
+    "url": "/currencies/libfx",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lightstreams": {
     "name": "Lightstreams",
     "short": "PHT",
@@ -3431,6 +3499,14 @@
     "name": "LinkEye",
     "short": "LET",
     "url": "/currencies/linkeye",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Liquidity Network": {
+    "name": "Liquidity Network",
+    "short": "LQD",
+    "url": "/currencies/liquidity-network",
     "tags": [
       "Token"
     ]
@@ -3563,6 +3639,14 @@
     "name": "MODEL-X-coin",
     "short": "MODX",
     "url": "/currencies/model-x-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MOTIV Protocol": {
+    "name": "MOTIV Protocol",
+    "short": "MOV",
+    "url": "/currencies/motiv-protocol",
     "tags": [
       "Token"
     ]
@@ -3984,6 +4068,14 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "Nyerium": {
+    "name": "Nyerium",
+    "short": "NYEX",
+    "url": "/currencies/nyerium",
+    "tags": [
+      "Coin"
     ]
   },
   "OC Protocol": {
@@ -4615,6 +4707,16 @@
       "Token"
     ]
   },
+  "Remme": {
+    "name": "Remme",
+    "short": "REM",
+    "url": "/currencies/remme",
+    "tags": [
+      "Token",
+      "Cybersecurity",
+      "Identity"
+    ]
+  },
   "Rotharium": {
     "name": "Rotharium",
     "short": "RTH",
@@ -4841,6 +4943,14 @@
       "DApp"
     ]
   },
+  "Sentient Coin": {
+    "name": "Sentient Coin",
+    "short": "SEN",
+    "url": "/currencies/consensus",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Sentinel": {
     "name": "Sentinel",
     "short": "SENT",
@@ -4953,6 +5063,15 @@
       "Coin",
       "Platform",
       "Distributed Computing"
+    ]
+  },
+  "Small Love Potion": {
+    "name": "Small Love Potion",
+    "short": "SLP",
+    "url": "/currencies/small-love-potion",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "SmartCoin": {
@@ -5320,6 +5439,14 @@
       "Token"
     ]
   },
+  "The Currency Analytics": {
+    "name": "The Currency Analytics",
+    "short": "TCAT",
+    "url": "/currencies/the-currency-analytics",
+    "tags": [
+      "Token"
+    ]
+  },
   "The Force Protocol": {
     "name": "The Force Protocol",
     "short": "FOR",
@@ -5399,6 +5526,22 @@
     "name": "Toast.finance",
     "short": "TOAST",
     "url": "/currencies/toast",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TokenBacon": {
+    "name": "TokenBacon",
+    "short": "BAK",
+    "url": "/currencies/tokenbacon",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TokenDesk": {
+    "name": "TokenDesk",
+    "short": "TDS",
+    "url": "/currencies/tokendesk",
     "tags": [
       "Token"
     ]
@@ -6038,6 +6181,14 @@
       "Content Creation"
     ]
   },
+  "YUNo.finance": {
+    "name": "YUNo.finance",
+    "short": "YUNO",
+    "url": "/currencies/yuno-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Yap Stone": {
     "name": "Yap Stone",
     "short": "YAP",
@@ -6050,6 +6201,14 @@
     "name": "Yearn Finance Protocol",
     "short": "YFP",
     "url": "/currencies/yearn-finance-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yield Farming Known as Ash": {
+    "name": "Yield Farming Known as Ash",
+    "short": "YFKA",
+    "url": "/currencies/yield-farming-known-as-ash",
     "tags": [
       "Token"
     ]
