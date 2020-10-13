@@ -2601,6 +2601,17 @@
       "Token"
     ]
   },
+  "FujiCoin": {
+    "name": "FujiCoin",
+    "short": "FJC",
+    "url": "/currencies/fujicoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt-n"
+    ]
+  },
   "Fyooz": {
     "name": "Fyooz",
     "short": "FYZ",
@@ -4038,6 +4049,14 @@
       "Smart Contracts"
     ]
   },
+  "Netrum": {
+    "name": "Netrum",
+    "short": "NTR",
+    "url": "/currencies/netrum",
+    "tags": [
+      "Coin"
+    ]
+  },
   "New Year Bull": {
     "name": "New Year Bull",
     "short": "NYB",
@@ -4327,6 +4346,14 @@
     "url": "/currencies/prasm",
     "tags": [
       "Token"
+    ]
+  },
+  "PRiVCY": {
+    "name": "PRiVCY",
+    "short": "PRIV",
+    "url": "/currencies/privcy",
+    "tags": [
+      "Coin"
     ]
   },
   "PYRO Network (TRON)": {
@@ -5123,6 +5150,15 @@
     "url": "/currencies/smartup",
     "tags": [
       "Token"
+    ]
+  },
+  "Snovian.Space": {
+    "name": "Snovian.Space",
+    "short": "SNOV",
+    "url": "/currencies/snov",
+    "tags": [
+      "Token",
+      "Marketing"
     ]
   },
   "Social Send": {
