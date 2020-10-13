@@ -1031,6 +1031,20 @@
       "Token"
     ]
   },
+  "Chainlink": {
+    "name": "Chainlink",
+    "short": "LINK",
+    "url": "/currencies/chainlink",
+    "tags": [
+      "Token",
+      "Platform",
+      "DeFi",
+      "Oracles",
+      "Smart Contracts",
+      "Substrate",
+      "Polkadot"
+    ]
+  },
   "Cherry Token": {
     "name": "Cherry Token",
     "short": "YT",
@@ -1349,6 +1363,16 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
+    ]
+  },
+  "Dai": {
+    "name": "Dai",
+    "short": "DAI",
+    "url": "/currencies/multi-collateral-dai",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Stablecoin"
     ]
   },
   "Daneel": {
@@ -2522,6 +2546,14 @@
       "Mineable"
     ]
   },
+  "Insight Protocol": {
+    "name": "Insight Protocol",
+    "short": "INX",
+    "url": "/currencies/insight-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Insights Network": {
     "name": "Insights Network",
     "short": "INSTAR",
@@ -3436,6 +3468,14 @@
     "name": "PYRO Network (TRON)",
     "short": "PYRO",
     "url": "/currencies/pyro-network-tron",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Paparazzi": {
+    "name": "Paparazzi",
+    "short": "PAZZI",
+    "url": "/currencies/paparazzi",
     "tags": [
       "Token"
     ]
@@ -4996,6 +5036,22 @@
       "Mineable"
     ]
   },
+  "ZeuxCoin": {
+    "name": "ZeuxCoin",
+    "short": "ZUC",
+    "url": "/currencies/zeuxcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Zyro": {
+    "name": "Zyro",
+    "short": "ZYRO",
+    "url": "/currencies/zyro",
+    "tags": [
+      "Token"
+    ]
+  },
   "dForce GOLDx": {
     "name": "dForce GOLDx",
     "short": "GOLDX",
@@ -5026,6 +5082,15 @@
     "url": "/currencies/ebtcnew",
     "tags": [
       "Token"
+    ]
+  },
+  "eXPerience Chain": {
+    "name": "eXPerience Chain",
+    "short": "XPC",
+    "url": "/currencies/experience-chain",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "ebakus": {
