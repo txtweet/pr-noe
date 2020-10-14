@@ -1846,6 +1846,14 @@
       "Payments"
     ]
   },
+  "Bitcoin Fast": {
+    "name": "Bitcoin Fast",
+    "short": "BTCF",
+    "url": "/currencies/bitcoin-fast",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bitcoin God": {
     "name": "Bitcoin God",
     "short": "GOD",
@@ -6061,6 +6069,16 @@
       "Token"
     ]
   },
+  "GuccioneCoin": {
+    "name": "GuccioneCoin",
+    "short": "GCC",
+    "url": "/currencies/guccionecoin",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "HAPY Coin": {
     "name": "HAPY Coin",
     "short": "HAPY",
@@ -6260,6 +6278,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256"
+    ]
+  },
+  "Hintchain": {
+    "name": "Hintchain",
+    "short": "HINT",
+    "url": "/currencies/hintchain",
+    "tags": [
+      "Token"
     ]
   },
   "Hinto": {
