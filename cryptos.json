@@ -4960,6 +4960,15 @@
       "Token"
     ]
   },
+  "Etheroll": {
+    "name": "Etheroll",
+    "short": "DICE",
+    "url": "/currencies/etheroll",
+    "tags": [
+      "Token",
+      "Gambling"
+    ]
+  },
   "Etherparty": {
     "name": "Etherparty",
     "short": "FUEL",
@@ -6065,6 +6074,14 @@
     "url": "/currencies/hanacoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Hashgard": {
+    "name": "Hashgard",
+    "short": "GARD",
+    "url": "/currencies/hashgard",
+    "tags": [
+      "Token"
     ]
   },
   "Havy": {
@@ -9336,6 +9353,14 @@
       "Coin",
       "Mineable",
       "NeoScrypt"
+    ]
+  },
+  "Phore": {
+    "name": "Phore",
+    "short": "PHR",
+    "url": "/currencies/phore",
+    "tags": [
+      "Coin"
     ]
   },
   "Photon": {
