@@ -9451,6 +9451,17 @@
       "Mineable"
     ]
   },
+  "Polkadot": {
+    "name": "Polkadot",
+    "short": "DOT",
+    "url": "/currencies/polkadot-new",
+    "tags": [
+      "Coin",
+      "Substrate",
+      "Polkadot",
+      "Binance Chain"
+    ]
+  },
   "Polkastarter": {
     "name": "Polkastarter",
     "short": "POLS",
@@ -9782,6 +9793,14 @@
       "X11"
     ]
   },
+  "Quish Coin": {
+    "name": "Quish Coin",
+    "short": "QTV",
+    "url": "/currencies/quish-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "QunQun": {
     "name": "QunQun",
     "short": "QUN",
@@ -9988,6 +10007,14 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Resoper": {
+    "name": "Resoper",
+    "short": "RSP",
+    "url": "/currencies/resoper",
+    "tags": [
+      "Token"
     ]
   },
   "RigoBlock": {
@@ -11274,6 +11301,18 @@
     "url": "/currencies/thecash",
     "tags": [
       "Token"
+    ]
+  },
+  "THETA": {
+    "name": "THETA",
+    "short": "THETA",
+    "url": "/currencies/theta",
+    "tags": [
+      "Coin",
+      "Media",
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Video"
     ]
   },
   "THORChain": {
