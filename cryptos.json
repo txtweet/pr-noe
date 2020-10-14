@@ -25,6 +25,17 @@
       "Mineable"
     ]
   },
+  "1irstGold": {
+    "name": "1irstGold",
+    "short": "1GOLD",
+    "url": "/currencies/1irstgold",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "1irstcoin": {
     "name": "1irstcoin",
     "short": "FST",
@@ -213,6 +224,14 @@
       "Token"
     ]
   },
+  "3x Short EOS Token": {
+    "name": "3x Short EOS Token",
+    "short": "EOSBEAR",
+    "url": "/currencies/3x-short-eos-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
     "short": "XTZBEAR",
@@ -299,6 +318,14 @@
     "url": "/currencies/aml-bitcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "AMO Coin": {
+    "name": "AMO Coin",
+    "short": "AMO",
+    "url": "/currencies/amo-coin",
+    "tags": [
+      "Token"
     ]
   },
   "ANON": {
@@ -5580,6 +5607,14 @@
       "Discount token"
     ]
   },
+  "Gather": {
+    "name": "Gather",
+    "short": "GTH",
+    "url": "/currencies/gather",
+    "tags": [
+      "Token"
+    ]
+  },
   "GazeCoin": {
     "name": "GazeCoin",
     "short": "GZE",
@@ -9459,6 +9494,14 @@
     "tags": [
       "Token",
       "Logistics"
+    ]
+  },
+  "Port of DeFi Network": {
+    "name": "Port of DeFi Network",
+    "short": "PDF",
+    "url": "/currencies/port-of-defi-network",
+    "tags": [
+      "Token"
     ]
   },
   "PosEx": {
