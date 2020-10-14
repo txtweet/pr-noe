@@ -2780,6 +2780,15 @@
       "Token"
     ]
   },
+  "Credit Tag Chain": {
+    "name": "Credit Tag Chain",
+    "short": "CTC",
+    "url": "/currencies/credit-tag-chain",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Credo": {
     "name": "Credo",
     "short": "CREDO",
@@ -4612,6 +4621,14 @@
       "Token"
     ]
   },
+  "Footballcoin": {
+    "name": "Footballcoin",
+    "short": "XFC",
+    "url": "/currencies/footballcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Foresight": {
     "name": "Foresight",
     "short": "FORS",
@@ -5414,6 +5431,14 @@
       "Content Creation"
     ]
   },
+  "Huobi Pool Token": {
+    "name": "Huobi Pool Token",
+    "short": "HPT",
+    "url": "/currencies/huobi-pool-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Huobi Token": {
     "name": "Huobi Token",
     "short": "HT",
@@ -6203,6 +6228,14 @@
       "Token"
     ]
   },
+  "LINKA": {
+    "name": "LINKA",
+    "short": "LINKA",
+    "url": "/currencies/linka",
+    "tags": [
+      "Token"
+    ]
+  },
   "LINKDOWN": {
     "name": "LINKDOWN",
     "short": "LINKDOWN",
@@ -6472,6 +6505,15 @@
     "url": "/currencies/lukki-operating-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Luna Coin": {
+    "name": "Luna Coin",
+    "short": "LUNA",
+    "url": "/currencies/luna-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "LunchMoney": {
@@ -8841,6 +8883,15 @@
       "X11GOST"
     ]
   },
+  "SIX": {
+    "name": "SIX",
+    "short": "SIX",
+    "url": "/currencies/six",
+    "tags": [
+      "Token",
+      "Payments"
+    ]
+  },
   "SOLBIT": {
     "name": "SOLBIT",
     "short": "SBT",
@@ -9434,6 +9485,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Spectiv": {
+    "name": "Spectiv",
+    "short": "SIG",
+    "url": "/currencies/signal-token",
+    "tags": [
+      "Token"
     ]
   },
   "SpectrumCash": {
@@ -10108,6 +10167,18 @@
     "url": "/currencies/the-tokenized-bitcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "The Transfer Token": {
+    "name": "The Transfer Token",
+    "short": "TTT",
+    "url": "/currencies/the-transfer-token",
+    "tags": [
+      "Token",
+      "Payments",
+      "Ethereum",
+      "Ethash",
+      "Japan"
     ]
   },
   "Theresa May Coin": {
@@ -11086,6 +11157,14 @@
       "Token"
     ]
   },
+  "WinCash": {
+    "name": "WinCash",
+    "short": "WCC",
+    "url": "/currencies/wincash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "WinPlay Token": {
     "name": "WinPlay Token",
     "short": "WNRZ",
@@ -11900,6 +11979,14 @@
     "name": "intexcoin",
     "short": "INTX",
     "url": "/currencies/intexcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "pEOS": {
+    "name": "pEOS",
+    "short": "PEOS",
+    "url": "/currencies/peos",
     "tags": [
       "Token"
     ]
