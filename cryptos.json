@@ -1630,6 +1630,15 @@
       "Token"
     ]
   },
+  "BitNewChain": {
+    "name": "BitNewChain",
+    "short": "BTN",
+    "url": "/currencies/bitnewchain",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BitStash": {
     "name": "BitStash",
     "short": "STASH",
@@ -6766,6 +6775,22 @@
       "Token"
     ]
   },
+  "Kush Finance": {
+    "name": "Kush Finance",
+    "short": "KSEED",
+    "url": "/currencies/kush-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Kuverit": {
+    "name": "Kuverit",
+    "short": "KUV",
+    "url": "/currencies/kuverit",
+    "tags": [
+      "Token"
+    ]
+  },
   "LALA World": {
     "name": "LALA World",
     "short": "LALA",
@@ -11421,6 +11446,14 @@
     "url": "/currencies/ubu",
     "tags": [
       "Token"
+    ]
+  },
+  "UCA Coin": {
+    "name": "UCA Coin",
+    "short": "UCA",
+    "url": "/currencies/uca-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "UCX FOUNDATION": {
