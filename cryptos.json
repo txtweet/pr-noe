@@ -563,6 +563,14 @@
       "Token"
     ]
   },
+  "Alchemy": {
+    "name": "Alchemy",
+    "short": "ACOIN",
+    "url": "/currencies/alchemy",
+    "tags": [
+      "Token"
+    ]
+  },
   "Algorand": {
     "name": "Algorand",
     "short": "ALGO",
@@ -3730,6 +3738,14 @@
     "name": "Elysian",
     "short": "ELY",
     "url": "/currencies/elysian",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Emanate": {
+    "name": "Emanate",
+    "short": "EMT",
+    "url": "/currencies/emanate",
     "tags": [
       "Token"
     ]
