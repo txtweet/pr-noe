@@ -2591,6 +2591,14 @@
       "Scrypt"
     ]
   },
+  "Carboneum [C8] Token": {
+    "name": "Carboneum [C8] Token",
+    "short": "C8",
+    "url": "/currencies/carboneum-c8-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cardano": {
     "name": "Cardano",
     "short": "ADA",
@@ -6514,6 +6522,16 @@
       "Mineable"
     ]
   },
+  "IQeon": {
+    "name": "IQeon",
+    "short": "IQN",
+    "url": "/currencies/iqeon",
+    "tags": [
+      "Token",
+      "Gaming",
+      "Platform"
+    ]
+  },
   "ITAM Games": {
     "name": "ITAM Games",
     "short": "ITAM",
@@ -6852,6 +6870,17 @@
       "Platform",
       "Enterprise solutions",
       "Data Provenance"
+    ]
+  },
+  "JavaScript Token": {
+    "name": "JavaScript Token",
+    "short": "JS",
+    "url": "/currencies/javascript-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Crowdsourcing",
+      "Jobs"
     ]
   },
   "Jewel": {
@@ -7592,6 +7621,14 @@
       "Token"
     ]
   },
+  "MARK.SPACE": {
+    "name": "MARK.SPACE",
+    "short": "MRK",
+    "url": "/currencies/mark-space",
+    "tags": [
+      "Token"
+    ]
+  },
   "MAX Exchange Token": {
     "name": "MAX Exchange Token",
     "short": "MAX",
@@ -8270,6 +8307,16 @@
     "url": "/currencies/morpher",
     "tags": [
       "Token"
+    ]
+  },
+  "Morpheus Labs": {
+    "name": "Morpheus Labs",
+    "short": "MITX",
+    "url": "/currencies/morpheus-labs",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
     ]
   },
   "MovieBloc": {
