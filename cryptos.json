@@ -2381,6 +2381,14 @@
       "Mineable"
     ]
   },
+  "CRYPTOBUCKS": {
+    "name": "CRYPTOBUCKS",
+    "short": "CBUCKS",
+    "url": "/currencies/cryptobucks",
+    "tags": [
+      "Token"
+    ]
+  },
   "CSPC": {
     "name": "CSPC",
     "short": "CSPC",
@@ -2479,6 +2487,16 @@
     "url": "/currencies/cannadrix",
     "tags": [
       "Token"
+    ]
+  },
+  "Cappasity": {
+    "name": "Cappasity",
+    "short": "CAPP",
+    "url": "/currencies/cappasity",
+    "tags": [
+      "Token",
+      "VR/AR",
+      "Entertainment"
     ]
   },
   "Carboncoin": {
