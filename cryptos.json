@@ -3787,6 +3787,17 @@
       "Scrypt"
     ]
   },
+  "Digitex Futures": {
+    "name": "Digitex Futures",
+    "short": "DGTX",
+    "url": "/currencies/digitex-futures",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Centralized exchange",
+      "Derivatives"
+    ]
+  },
   "Digiwage": {
     "name": "Digiwage",
     "short": "WAGE",
@@ -6677,6 +6688,14 @@
     "url": "/currencies/kingmoney",
     "tags": [
       "Coin"
+    ]
+  },
+  "KingXChain": {
+    "name": "KingXChain",
+    "short": "KXC",
+    "url": "/currencies/kingxchain",
+    "tags": [
+      "Token"
     ]
   },
   "Kingdom Game 4.0": {
@@ -9669,6 +9688,17 @@
       "Coin"
     ]
   },
+  "SOLVE": {
+    "name": "SOLVE",
+    "short": "SOLVE",
+    "url": "/currencies/solve",
+    "tags": [
+      "Token",
+      "Health",
+      "Enterprise solutions",
+      "Wallet"
+    ]
+  },
   "SONO": {
     "name": "SONO",
     "short": "SONO",
@@ -10667,6 +10697,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "TEAM (TokenStars)": {
+    "name": "TEAM (TokenStars)",
+    "short": "TEAM",
+    "url": "/currencies/tokenstars",
+    "tags": [
+      "Token"
     ]
   },
   "TERA": {
@@ -12477,6 +12515,14 @@
       "Coin",
       "Media",
       "Content Creation"
+    ]
+  },
+  "YUKI": {
+    "name": "YUKI",
+    "short": "YUKI",
+    "url": "/currencies/yuki",
+    "tags": [
+      "Token"
     ]
   },
   "YUNo.finance": {
