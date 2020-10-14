@@ -714,6 +714,16 @@
       "Binance Chain"
     ]
   },
+  "Anoncoin": {
+    "name": "Anoncoin",
+    "short": "ANC",
+    "url": "/currencies/anoncoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW"
+    ]
+  },
   "Apollo Currency": {
     "name": "Apollo Currency",
     "short": "APL",
@@ -1328,6 +1338,14 @@
     "url": "/currencies/benepit-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "Benz": {
+    "name": "Benz",
+    "short": "BENZ",
+    "url": "/currencies/benz",
+    "tags": [
+      "Coin"
     ]
   },
   "Betherchip": {
@@ -4899,6 +4917,14 @@
       "PoS"
     ]
   },
+  "Global Gaming": {
+    "name": "Global Gaming",
+    "short": "GMNG",
+    "url": "/currencies/global-gaming",
+    "tags": [
+      "Token"
+    ]
+  },
   "Global Rental Token": {
     "name": "Global Rental Token",
     "short": "GRT",
@@ -5905,6 +5931,14 @@
     "name": "KEY",
     "short": "KEY",
     "url": "/currencies/key",
+    "tags": [
+      "Token"
+    ]
+  },
+  "KUN": {
+    "name": "KUN",
+    "short": "KUN",
+    "url": "/currencies/kun",
     "tags": [
       "Token"
     ]
@@ -8951,6 +8985,17 @@
       "Technology"
     ]
   },
+  "Save and Gain": {
+    "name": "Save and Gain",
+    "short": "SANDG",
+    "url": "/currencies/save-and-gain",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
+    ]
+  },
   "SaveToken": {
     "name": "SaveToken",
     "short": "SAVE",
@@ -11902,6 +11947,14 @@
     "name": "unibot.cash",
     "short": "UNDB",
     "url": "/currencies/unibot-cash",
+    "tags": [
+      "Token"
+    ]
+  },
+  "weBloc": {
+    "name": "weBloc",
+    "short": "WOK",
+    "url": "/currencies/webloc",
     "tags": [
       "Token"
     ]
