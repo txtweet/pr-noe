@@ -1017,6 +1017,17 @@
       "Token"
     ]
   },
+  "BORA": {
+    "name": "BORA",
+    "short": "BORA",
+    "url": "/currencies/bora",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Gaming",
+      "Wallet"
+    ]
+  },
   "BOSAGORA": {
     "name": "BOSAGORA",
     "short": "BOA",
@@ -2733,6 +2744,14 @@
     "name": "CyberFM",
     "short": "CYFM",
     "url": "/currencies/cyberfm",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CyberMusic": {
+    "name": "CyberMusic",
+    "short": "CYMT",
+    "url": "/currencies/cybermusic",
     "tags": [
       "Token"
     ]
@@ -5367,6 +5386,15 @@
     "url": "/currencies/jboxcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "JET8": {
+    "name": "JET8",
+    "short": "J8T",
+    "url": "/currencies/jet8",
+    "tags": [
+      "Token",
+      "Marketing"
     ]
   },
   "JSECOIN": {
@@ -8927,6 +8955,14 @@
       "Asset management"
     ]
   },
+  "Swap": {
+    "name": "Swap",
+    "short": "XWP",
+    "url": "/currencies/swap",
+    "tags": [
+      "Coin"
+    ]
+  },
   "SwapShip": {
     "name": "SwapShip",
     "short": "SWSH",
@@ -10048,6 +10084,14 @@
       "Token"
     ]
   },
+  "VikkyToken": {
+    "name": "VikkyToken",
+    "short": "VIKKY",
+    "url": "/currencies/vikkytoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Vinci": {
     "name": "Vinci",
     "short": "VINCI",
@@ -10997,6 +11041,17 @@
     "url": "/currencies/scex",
     "tags": [
       "Token"
+    ]
+  },
+  "sUSD": {
+    "name": "sUSD",
+    "short": "SUSD",
+    "url": "/currencies/susd",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "DeFi",
+      "Stablecoin - Algorithmically-Stabilized"
     ]
   },
   "sXAG": {
