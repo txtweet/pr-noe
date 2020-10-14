@@ -470,6 +470,18 @@
       "Token"
     ]
   },
+  "AdEx Network": {
+    "name": "AdEx Network",
+    "short": "ADX",
+    "url": "/currencies/adx-net",
+    "tags": [
+      "Token",
+      "Marketing",
+      "Smart Contracts",
+      "Substrate",
+      "Polkadot"
+    ]
+  },
   "AdHive": {
     "name": "AdHive",
     "short": "ADH",
@@ -8597,6 +8609,14 @@
       "Token",
       "Asset management",
       "Smart Contracts"
+    ]
+  },
+  "Naka Bodhi Token": {
+    "name": "Naka Bodhi Token",
+    "short": "NBOT",
+    "url": "/currencies/naka-bodhi-token",
+    "tags": [
+      "Token"
     ]
   },
   "Namecoin": {
