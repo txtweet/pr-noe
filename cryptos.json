@@ -9459,6 +9459,14 @@
       "Smart Contracts"
     ]
   },
+  "Paypex": {
+    "name": "Paypex",
+    "short": "PAYX",
+    "url": "/currencies/paypex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Pearl": {
     "name": "Pearl",
     "short": "PEARL",
@@ -9478,6 +9486,16 @@
       "Decentralized exchange",
       "Staking",
       "DApp"
+    ]
+  },
+  "Peerguess": {
+    "name": "Peerguess",
+    "short": "GUESS",
+    "url": "/currencies/guess",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Prediction Markets"
     ]
   },
   "Peerplays": {
