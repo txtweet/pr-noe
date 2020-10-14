@@ -3774,6 +3774,14 @@
       "Coin"
     ]
   },
+  "Ducato Protocol Token": {
+    "name": "Ducato Protocol Token",
+    "short": "DUCATO",
+    "url": "/currencies/ducato-protocol-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dune Network": {
     "name": "Dune Network",
     "short": "DUN",
@@ -8893,6 +8901,16 @@
       "Mineable"
     ]
   },
+  "Raiden Network Token": {
+    "name": "Raiden Network Token",
+    "short": "RDN",
+    "url": "/currencies/raiden-network-token",
+    "tags": [
+      "Token",
+      "Platform",
+      "State channels"
+    ]
+  },
   "Rakon": {
     "name": "Rakon",
     "short": "RKN",
@@ -9045,6 +9063,14 @@
       "Coin",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Ripple Alpha": {
+    "name": "Ripple Alpha",
+    "short": "XLA",
+    "url": "/currencies/ripple-alpha",
+    "tags": [
+      "Coin"
     ]
   },
   "Ritocoin": {
@@ -12234,6 +12260,17 @@
     "url": "/currencies/dkargo",
     "tags": [
       "Token"
+    ]
+  },
+  "district0x": {
+    "name": "district0x",
+    "short": "DNT",
+    "url": "/currencies/district0x",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments",
+      "Reputation"
     ]
   },
   "e-Gulden": {
