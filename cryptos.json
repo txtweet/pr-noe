@@ -85,6 +85,14 @@
       "Token"
     ]
   },
+  "3X Long Dragon Index Token": {
+    "name": "3X Long Dragon Index Token",
+    "short": "DRGNBULL",
+    "url": "/currencies/3x-long-dragon-index-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Long Matic Token": {
     "name": "3X Long Matic Token",
     "short": "MATICBULL",
@@ -1703,6 +1711,14 @@
       "Marketplace",
       "Enterprise solutions",
       "Binance Chain"
+    ]
+  },
+  "Bitcoin Classic": {
+    "name": "Bitcoin Classic",
+    "short": "BXC",
+    "url": "/currencies/bitcoin-classic",
+    "tags": [
+      "Coin"
     ]
   },
   "Bitcoin Diamond": {
@@ -5436,6 +5452,21 @@
       "Prediction Markets"
     ]
   },
+  "GoByte": {
+    "name": "GoByte",
+    "short": "GBX",
+    "url": "/currencies/gobyte",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Hybrid - PoW & PoS",
+      "NeoScrypt",
+      "Privacy",
+      "Mixer & Coinjoin",
+      "Masternodes"
+    ]
+  },
   "GoHelpFund": {
     "name": "GoHelpFund",
     "short": "HELP",
@@ -6504,6 +6535,15 @@
       "Mineable"
     ]
   },
+  "Kabberry Coin": {
+    "name": "Kabberry Coin",
+    "short": "KKC",
+    "url": "/currencies/kabberry-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Kadena": {
     "name": "Kadena",
     "short": "KDA",
@@ -6987,6 +7027,14 @@
       "Mineable"
     ]
   },
+  "LocalCoinSwap": {
+    "name": "LocalCoinSwap",
+    "short": "LCS",
+    "url": "/currencies/local-coin-swap",
+    "tags": [
+      "Token"
+    ]
+  },
   "Loki": {
     "name": "Loki",
     "short": "LOKI",
@@ -7302,6 +7350,17 @@
     "url": "/currencies/markaccy",
     "tags": [
       "Coin"
+    ]
+  },
+  "MarteXcoin": {
+    "name": "MarteXcoin",
+    "short": "MXT",
+    "url": "/currencies/martexcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X13"
     ]
   },
   "Masari": {
@@ -10108,6 +10167,14 @@
       "Scrypt"
     ]
   },
+  "Smartshare": {
+    "name": "Smartshare",
+    "short": "SSP",
+    "url": "/currencies/smartshare",
+    "tags": [
+      "Token"
+    ]
+  },
   "Smartup": {
     "name": "Smartup",
     "short": "SMARTUP",
@@ -10425,6 +10492,14 @@
       "Platform",
       "Distributed Computing",
       "Sharing Economy"
+    ]
+  },
+  "Sumcoin": {
+    "name": "Sumcoin",
+    "short": "SUM",
+    "url": "/currencies/sumcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "Super Zero Protocol": {
@@ -11347,6 +11422,14 @@
       "Ethash",
       "Platform",
       "DApp"
+    ]
+  },
+  "Ubricoin": {
+    "name": "Ubricoin",
+    "short": "UBN",
+    "url": "/currencies/ubricoin",
+    "tags": [
+      "Token"
     ]
   },
   "Ulgen Hash Power": {
