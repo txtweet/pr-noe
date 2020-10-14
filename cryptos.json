@@ -3132,6 +3132,15 @@
       "DeFi"
     ]
   },
+  "Compound Augur": {
+    "name": "Compound Augur",
+    "short": "CREP",
+    "url": "/currencies/compound-augur",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Compound Coin": {
     "name": "Compound Coin",
     "short": "COMP",
@@ -3255,6 +3264,15 @@
     "url": "/currencies/coupon-chain",
     "tags": [
       "Token"
+    ]
+  },
+  "Cream": {
+    "name": "Cream",
+    "short": "CRM",
+    "url": "/currencies/cream",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Creatanium": {
@@ -9140,6 +9158,14 @@
       "Medium of Exchange"
     ]
   },
+  "OWL": {
+    "name": "OWL",
+    "short": "OWL",
+    "url": "/currencies/owl",
+    "tags": [
+      "Token"
+    ]
+  },
   "OWL Token (StealthSwap)": {
     "name": "OWL Token (StealthSwap)",
     "short": "OWL",
@@ -10082,6 +10108,17 @@
       "Token",
       "Marketplace",
       "Distributed Computing"
+    ]
+  },
+  "ProChain": {
+    "name": "ProChain",
+    "short": "PRA",
+    "url": "/currencies/prochain",
+    "tags": [
+      "Token",
+      "Marketing",
+      "AI & Big Data",
+      "Payments"
     ]
   },
   "Profile Utility Token": {
