@@ -908,6 +908,14 @@
       "Coin"
     ]
   },
+  "AurusCOIN": {
+    "name": "AurusCOIN",
+    "short": "AWX",
+    "url": "/currencies/auruscoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Autonio": {
     "name": "Autonio",
     "short": "NIOX",
@@ -1684,6 +1692,14 @@
       "Payments"
     ]
   },
+  "Bitcoin God": {
+    "name": "Bitcoin God",
+    "short": "GOD",
+    "url": "/currencies/bitcoin-god",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
     "short": "XBI",
@@ -2015,6 +2031,14 @@
     "tags": [
       "Token",
       "Yield farming"
+    ]
+  },
+  "Bounce Token": {
+    "name": "Bounce Token",
+    "short": "BOT",
+    "url": "/currencies/bounce-token",
+    "tags": [
+      "Token"
     ]
   },
   "BoutsPro": {
@@ -2930,6 +2954,14 @@
       "Centralized exchange"
     ]
   },
+  "Creed Finance": {
+    "name": "Creed Finance",
+    "short": "CREED",
+    "url": "/currencies/creed-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "CrevaCoin": {
     "name": "CrevaCoin",
     "short": "CREVA",
@@ -3285,6 +3317,14 @@
     "name": "DREP",
     "short": "DREP",
     "url": "/currencies/drep",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DSLA Protocol": {
+    "name": "DSLA Protocol",
+    "short": "DSLA",
+    "url": "/currencies/dsla-protocol",
     "tags": [
       "Token"
     ]
@@ -4454,6 +4494,15 @@
     "url": "/currencies/esports-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Ether Zero": {
+    "name": "Ether Zero",
+    "short": "ETZ",
+    "url": "/currencies/ether-zero",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Ether-1": {
@@ -5925,6 +5974,18 @@
       "Coin",
       "Hardware",
       "IoT"
+    ]
+  },
+  "IOTA": {
+    "name": "IOTA",
+    "short": "MIOTA",
+    "url": "/currencies/iota",
+    "tags": [
+      "Coin",
+      "DAG",
+      "Medium of Exchange",
+      "IoT",
+      "Sharing Economy"
     ]
   },
   "IOV BlockChain": {
@@ -7572,6 +7633,14 @@
       "Video"
     ]
   },
+  "Moving Cloud Coin": {
+    "name": "Moving Cloud Coin",
+    "short": "MCC",
+    "url": "/currencies/moving-cloud-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "MyTVchain": {
     "name": "MyTVchain",
     "short": "MYTV",
@@ -7778,6 +7847,16 @@
       "Token",
       "Asset management",
       "Crowdfunding"
+    ]
+  },
+  "NevaCoin": {
+    "name": "NevaCoin",
+    "short": "NEVA",
+    "url": "/currencies/nevacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS"
     ]
   },
   "New Year Bull": {
@@ -8471,6 +8550,14 @@
     "url": "/currencies/pengolincoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Penta": {
+    "name": "Penta",
+    "short": "PNT",
+    "url": "/currencies/penta",
+    "tags": [
+      "Token"
     ]
   },
   "Perpetual Protocol": {
@@ -10770,6 +10857,16 @@
       "Data Provenance"
     ]
   },
+  "Time New Bank": {
+    "name": "Time New Bank",
+    "short": "TNB",
+    "url": "/currencies/time-new-bank",
+    "tags": [
+      "Token",
+      "Platform",
+      "Smart Contracts"
+    ]
+  },
   "TitanSwap": {
     "name": "TitanSwap",
     "short": "TITAN",
@@ -10821,6 +10918,14 @@
     "name": "TokenDesk",
     "short": "TDS",
     "url": "/currencies/tokendesk",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TopCoinFX": {
+    "name": "TopCoinFX",
+    "short": "TCFX",
+    "url": "/currencies/topcoinfx",
     "tags": [
       "Token"
     ]
