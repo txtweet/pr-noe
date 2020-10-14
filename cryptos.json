@@ -1253,6 +1253,14 @@
       "Binance Chain"
     ]
   },
+  "Bankcoin Reserve": {
+    "name": "Bankcoin Reserve",
+    "short": "BCR",
+    "url": "/currencies/bankcoin-reserve",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Barkis Network": {
     "name": "Barkis Network",
     "short": "BKS",
@@ -1464,6 +1472,16 @@
       "Token"
     ]
   },
+  "Binance Coin": {
+    "name": "Binance Coin",
+    "short": "BNB",
+    "url": "/currencies/binance-coin",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "Payments"
+    ]
+  },
   "Bintex Futures": {
     "name": "Bintex Futures",
     "short": "BNTX",
@@ -1572,6 +1590,14 @@
       "Token"
     ]
   },
+  "BitStash": {
+    "name": "BitStash",
+    "short": "STASH",
+    "url": "/currencies/bitstash",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bitalgo": {
     "name": "Bitalgo",
     "short": "ALG",
@@ -1633,6 +1659,18 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Bitcoin Cash": {
+    "name": "Bitcoin Cash",
+    "short": "BCH",
+    "url": "/currencies/bitcoin-cash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "Enterprise solutions",
+      "Binance Chain"
     ]
   },
   "Bitcoin Diamond": {
@@ -1814,6 +1852,17 @@
     "url": "/currencies/blaze-network",
     "tags": [
       "Token"
+    ]
+  },
+  "Blocery": {
+    "name": "Blocery",
+    "short": "BLY",
+    "url": "/currencies/blocery",
+    "tags": [
+      "Token",
+      "Services",
+      "Logistics",
+      "Enterprise solutions"
     ]
   },
   "Block-Logic": {
@@ -3015,6 +3064,18 @@
       "Platform"
     ]
   },
+  "Cryptonex": {
+    "name": "Cryptonex",
+    "short": "CNX",
+    "url": "/currencies/cryptonex",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Centralized exchange",
+      "Smart Contracts"
+    ]
+  },
   "Cryptopay": {
     "name": "Cryptopay",
     "short": "CPAY",
@@ -4010,6 +4071,14 @@
     "tags": [
       "Token",
       "Payments"
+    ]
+  },
+  "EasyFi": {
+    "name": "EasyFi",
+    "short": "EASY",
+    "url": "/currencies/easyfi",
+    "tags": [
+      "Token"
     ]
   },
   "EasySwap": {
@@ -5981,6 +6050,14 @@
       "Scrypt"
     ]
   },
+  "Infinitus Token": {
+    "name": "Infinitus Token",
+    "short": "INF",
+    "url": "/currencies/infinitus-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Infinity Economics": {
     "name": "Infinity Economics",
     "short": "XIN",
@@ -5995,6 +6072,16 @@
     "url": "/currencies/infinity-esaham",
     "tags": [
       "Token"
+    ]
+  },
+  "InflationCoin": {
+    "name": "InflationCoin",
+    "short": "IFLT",
+    "url": "/currencies/inflationcoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "InnovaMinex": {
@@ -6098,6 +6185,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Isiklar Coin": {
+    "name": "Isiklar Coin",
+    "short": "ISIKC",
+    "url": "/currencies/isiklar-coin",
+    "tags": [
+      "Token"
     ]
   },
   "Ivy": {
@@ -7359,6 +7454,14 @@
       "PoS"
     ]
   },
+  "Monarch": {
+    "name": "Monarch",
+    "short": "MT",
+    "url": "/currencies/monarch",
+    "tags": [
+      "Token"
+    ]
+  },
   "Monero Classic": {
     "name": "Monero Classic",
     "short": "XMC",
@@ -7395,6 +7498,14 @@
       "Marketplace",
       "Reputation",
       "Smart Contracts"
+    ]
+  },
+  "Moneynet": {
+    "name": "Moneynet",
+    "short": "MNC",
+    "url": "/currencies/moneynet",
+    "tags": [
+      "Token"
     ]
   },
   "Moneytoken": {
@@ -7495,6 +7606,15 @@
     "url": "/currencies/neobitcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "NEST Protocol": {
+    "name": "NEST Protocol",
+    "short": "NEST",
+    "url": "/currencies/nest-protocol",
+    "tags": [
+      "Token",
+      "Oracles"
     ]
   },
   "NEXT.coin": {
@@ -8410,6 +8530,16 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Phoenixcoin": {
+    "name": "Phoenixcoin",
+    "short": "PXC",
+    "url": "/currencies/phoenixcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "NeoScrypt"
     ]
   },
   "Photon": {
@@ -10015,6 +10145,15 @@
       "Hybrid - PoW & PoS",
       "Medium of Exchange",
       "Staking"
+    ]
+  },
+  "StrongHands Masternode": {
+    "name": "StrongHands Masternode",
+    "short": "SHMN",
+    "url": "/currencies/stronghands-masternode",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Student Coin": {
