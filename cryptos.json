@@ -1172,6 +1172,14 @@
       "Token"
     ]
   },
+  "Balloon-X": {
+    "name": "Balloon-X",
+    "short": "BLX",
+    "url": "/currencies/balloon-x",
+    "tags": [
+      "Token"
+    ]
+  },
   "Banano": {
     "name": "Banano",
     "short": "BAN",
@@ -1680,6 +1688,17 @@
     "url": "/currencies/bitopro-exchange-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Bitsdaq": {
+    "name": "Bitsdaq",
+    "short": "BQQQ",
+    "url": "/currencies/bitsdaq",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange",
+      "Payments"
     ]
   },
   "Bittwatt": {
@@ -2342,6 +2361,14 @@
       "Smart Contracts",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Chainpay": {
+    "name": "Chainpay",
+    "short": "CPAY",
+    "url": "/currencies/chainpay",
+    "tags": [
+      "Token"
     ]
   },
   "Charg Coin": {
@@ -3446,6 +3473,14 @@
     "name": "Diplexcoin",
     "short": "DLX",
     "url": "/currencies/diplexcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Dipper Network": {
+    "name": "Dipper Network",
+    "short": "DIP",
+    "url": "/currencies/dipper-network",
     "tags": [
       "Coin"
     ]
@@ -4963,6 +4998,14 @@
       "Energy"
     ]
   },
+  "Gstcoin": {
+    "name": "Gstcoin",
+    "short": "GST",
+    "url": "/currencies/gstcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Guaranteed Ethurance Token Extra": {
     "name": "Guaranteed Ethurance Token Extra",
     "short": "GETX",
@@ -6039,6 +6082,14 @@
       "Coin"
     ]
   },
+  "LTO Network": {
+    "name": "LTO Network",
+    "short": "LTO",
+    "url": "/currencies/lto-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ladder Network Token": {
     "name": "Ladder Network Token",
     "short": "LAD",
@@ -6071,6 +6122,14 @@
       "Platform",
       "Atomic Swaps",
       "Interoperability"
+    ]
+  },
+  "Latamcash": {
+    "name": "Latamcash",
+    "short": "LMCH",
+    "url": "/currencies/latamcash",
+    "tags": [
+      "Token"
     ]
   },
   "LegalBlock": {
@@ -6358,6 +6417,14 @@
     "name": "MEETtoken",
     "short": "MTT",
     "url": "/currencies/meettoken",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MESG": {
+    "name": "MESG",
+    "short": "MESG",
+    "url": "/currencies/mesg",
     "tags": [
       "Token"
     ]
@@ -6821,6 +6888,15 @@
     "tags": [
       "Token",
       "Services"
+    ]
+  },
+  "Moin": {
+    "name": "Moin",
+    "short": "MOIN",
+    "url": "/currencies/moin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS"
     ]
   },
   "MojoCoin": {
@@ -7324,6 +7400,14 @@
       "Mineable",
       "PoS",
       "Medium of Exchange"
+    ]
+  },
+  "OWL Token (StealthSwap)": {
+    "name": "OWL Token (StealthSwap)",
+    "short": "OWL",
+    "url": "/currencies/owl-token-stealthswap",
+    "tags": [
+      "Token"
     ]
   },
   "Ocean Protocol": {
@@ -9450,6 +9534,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Swing": {
+    "name": "Swing",
+    "short": "SWING",
+    "url": "/currencies/swing",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
     ]
   },
   "Swipe": {
