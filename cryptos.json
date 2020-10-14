@@ -968,10 +968,27 @@
       "Coin"
     ]
   },
+  "BNS Token": {
+    "name": "BNS Token",
+    "short": "BNS",
+    "url": "/currencies/bns-token",
+    "tags": [
+      "Token",
+      "Centralized exchange"
+    ]
+  },
   "BNSD Finance": {
     "name": "BNSD Finance",
     "short": "BNSD",
     "url": "/currencies/bnsd-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BOOM": {
+    "name": "BOOM",
+    "short": "BOOM",
+    "url": "/currencies/boom",
     "tags": [
       "Token"
     ]
@@ -1000,6 +1017,22 @@
     "url": "/currencies/btcdown",
     "tags": [
       "Coin"
+    ]
+  },
+  "BTCUP": {
+    "name": "BTCUP",
+    "short": "BTCUP",
+    "url": "/currencies/btcup",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "BTS Coin": {
+    "name": "BTS Coin",
+    "short": "BTSC",
+    "url": "/currencies/bts-coin",
+    "tags": [
+      "Token"
     ]
   },
   "BUZZCoin": {
@@ -1520,6 +1553,14 @@
       "Token"
     ]
   },
+  "Bitvolt": {
+    "name": "Bitvolt",
+    "short": "VOLT",
+    "url": "/currencies/bitvolt",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Blackmoon": {
     "name": "Blackmoon",
     "short": "BMC",
@@ -1771,6 +1812,16 @@
       "Ethereum",
       "Yield farming",
       "Binance Chain"
+    ]
+  },
+  "Burst": {
+    "name": "Burst",
+    "short": "BURST",
+    "url": "/currencies/burst",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoC"
     ]
   },
   "Buxcoin": {
@@ -2162,6 +2213,14 @@
       "Token",
       "Services",
       "AI & Big Data"
+    ]
+  },
+  "Circuits of Value": {
+    "name": "Circuits of Value",
+    "short": "COVAL",
+    "url": "/currencies/circuits-of-value",
+    "tags": [
+      "Token"
     ]
   },
   "Clams": {
@@ -2886,6 +2945,15 @@
       "Crowdfunding"
     ]
   },
+  "DecentBet": {
+    "name": "DecentBet",
+    "short": "DBET",
+    "url": "/currencies/decent-bet",
+    "tags": [
+      "Token",
+      "Gambling"
+    ]
+  },
   "Decentralized Crypto Token": {
     "name": "Decentralized Crypto Token",
     "short": "DCTO",
@@ -3214,6 +3282,14 @@
       "Token"
     ]
   },
+  "Dreamcoin": {
+    "name": "Dreamcoin",
+    "short": "DRM",
+    "url": "/currencies/dreamcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Dune Network": {
     "name": "Dune Network",
     "short": "DUN",
@@ -3475,6 +3551,22 @@
       "IPFS"
     ]
   },
+  "Egas": {
+    "name": "Egas",
+    "short": "EGAS",
+    "url": "/currencies/egas",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Egoras Dollar": {
+    "name": "Egoras Dollar",
+    "short": "EUSD",
+    "url": "/currencies/egoras-dollar",
+    "tags": [
+      "Token"
+    ]
+  },
   "Egretia": {
     "name": "Egretia",
     "short": "EGT",
@@ -3561,6 +3653,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "Eminer": {
+    "name": "Eminer",
+    "short": "EM",
+    "url": "/currencies/eminer",
+    "tags": [
+      "Token"
     ]
   },
   "Emphy": {
@@ -3690,12 +3790,34 @@
       "Token"
     ]
   },
+  "Ether-1": {
+    "name": "Ether-1",
+    "short": "ETHO",
+    "url": "/currencies/ether-1",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Distributed Computing",
+      "Filesharing"
+    ]
+  },
   "EtherBone": {
     "name": "EtherBone",
     "short": "ETHBN",
     "url": "/currencies/etherbone",
     "tags": [
       "Token"
+    ]
+  },
+  "EtherSportz": {
+    "name": "EtherSportz",
+    "short": "ESZ",
+    "url": "/currencies/ethersportz",
+    "tags": [
+      "Token",
+      "Media",
+      "Gaming",
+      "Entertainment"
     ]
   },
   "Ethereum": {
@@ -4217,6 +4339,14 @@
       "Coin",
       "Platform",
       "Decentralized exchange"
+    ]
+  },
+  "Galaxy Wallet": {
+    "name": "Galaxy Wallet",
+    "short": "GC",
+    "url": "/currencies/galaxy-wallet",
+    "tags": [
+      "Token"
     ]
   },
   "Galilel": {
@@ -5050,6 +5180,15 @@
       "Token"
     ]
   },
+  "Innovative Bioresearch Coin": {
+    "name": "Innovative Bioresearch Coin",
+    "short": "INNBC",
+    "url": "/currencies/innovative-bioresearch-coin",
+    "tags": [
+      "Token",
+      "Binance Smart Chain"
+    ]
+  },
   "InsaneCoin": {
     "name": "InsaneCoin",
     "short": "INSN",
@@ -5545,6 +5684,15 @@
       "Token"
     ]
   },
+  "Lightning Bitcoin": {
+    "name": "Lightning Bitcoin",
+    "short": "LBTC",
+    "url": "/currencies/lightning-bitcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Lightstreams": {
     "name": "Lightstreams",
     "short": "PHT",
@@ -5597,6 +5745,14 @@
     "name": "Liquidity Network",
     "short": "LQD",
     "url": "/currencies/liquidity-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Litbinex Coin": {
+    "name": "Litbinex Coin",
+    "short": "LTB",
+    "url": "/currencies/litbinex-coin",
     "tags": [
       "Token"
     ]
@@ -5857,6 +6013,17 @@
     "url": "/currencies/mvl",
     "tags": [
       "Token"
+    ]
+  },
+  "MX Token": {
+    "name": "MX Token",
+    "short": "MX",
+    "url": "/currencies/mx-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange",
+      "Discount token"
     ]
   },
   "MXC": {
@@ -6214,6 +6381,15 @@
       "Services"
     ]
   },
+  "MojoCoin": {
+    "name": "MojoCoin",
+    "short": "MOJO",
+    "url": "/currencies/mojocoin",
+    "tags": [
+      "Coin",
+      "PoS"
+    ]
+  },
   "MoneroV ": {
     "name": "MoneroV ",
     "short": "XMV",
@@ -6470,6 +6646,16 @@
       "Coin"
     ]
   },
+  "Neumark": {
+    "name": "Neumark",
+    "short": "NEU",
+    "url": "/currencies/neumark",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdfunding"
+    ]
+  },
   "New Year Bull": {
     "name": "New Year Bull",
     "short": "NYB",
@@ -6531,6 +6717,14 @@
       "Token"
     ]
   },
+  "NiftyMoji": {
+    "name": "NiftyMoji",
+    "short": "MEXP",
+    "url": "/currencies/niftymoji",
+    "tags": [
+      "Token"
+    ]
+  },
   "Nilu": {
     "name": "Nilu",
     "short": "NILU",
@@ -6567,12 +6761,29 @@
       "Token"
     ]
   },
+  "Nyan Finance": {
+    "name": "Nyan Finance",
+    "short": "NYAN",
+    "url": "/currencies/nyan-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
+    ]
+  },
   "Nyerium": {
     "name": "Nyerium",
     "short": "NYEX",
     "url": "/currencies/nyerium",
     "tags": [
       "Coin"
+    ]
+  },
+  "OBIC": {
+    "name": "OBIC",
+    "short": "OBIC",
+    "url": "/currencies/obic",
+    "tags": [
+      "Token"
     ]
   },
   "OC Protocol": {
@@ -6749,6 +6960,14 @@
     "name": "OpenAlexa Protocol",
     "short": "OAP",
     "url": "/currencies/openalexa-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Opennity": {
+    "name": "Opennity",
+    "short": "OPNN",
+    "url": "/currencies/opennity",
     "tags": [
       "Token"
     ]
@@ -7023,6 +7242,14 @@
       "Coin"
     ]
   },
+  "PengolinCoin": {
+    "name": "PengolinCoin",
+    "short": "PGO",
+    "url": "/currencies/pengolincoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Perpetual Protocol": {
     "name": "Perpetual Protocol",
     "short": "PERP",
@@ -7048,6 +7275,17 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Phala.Network": {
+    "name": "Phala.Network",
+    "short": "PHA",
+    "url": "/currencies/phala-network",
+    "tags": [
+      "Coin",
+      "AI & Big Data",
+      "Privacy",
+      "Substrate"
     ]
   },
   "Phantasma": {
@@ -7213,6 +7451,15 @@
       "DeFi"
     ]
   },
+  "Polybius": {
+    "name": "Polybius",
+    "short": "PLBT",
+    "url": "/currencies/polybius",
+    "tags": [
+      "Token",
+      "Asset management"
+    ]
+  },
   "Polymath": {
     "name": "Polymath",
     "short": "POLY",
@@ -7238,6 +7485,15 @@
     "tags": [
       "Token",
       "Logistics"
+    ]
+  },
+  "PosEx": {
+    "name": "PosEx",
+    "short": "PEX",
+    "url": "/currencies/posex",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Poseidon Network": {
@@ -7493,6 +7749,15 @@
       "Platform",
       "Distributed Computing",
       "Smart Contracts"
+    ]
+  },
+  "RED": {
+    "name": "RED",
+    "short": "RED",
+    "url": "/currencies/red",
+    "tags": [
+      "Token",
+      "Marketplace"
     ]
   },
   "ROONEX": {
@@ -7793,6 +8058,15 @@
     "url": "/currencies/solbit",
     "tags": [
       "Coin"
+    ]
+  },
+  "SONO": {
+    "name": "SONO",
+    "short": "SONO",
+    "url": "/currencies/altcommunity-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "SPIN Protocol": {
@@ -8737,6 +9011,14 @@
       "Token"
     ]
   },
+  "Tacos": {
+    "name": "Tacos",
+    "short": "TACO",
+    "url": "/currencies/tacos",
+    "tags": [
+      "Token"
+    ]
+  },
   "TagCoin": {
     "name": "TagCoin",
     "short": "TAG",
@@ -8757,6 +9039,22 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Blake2S"
+    ]
+  },
+  "Taklimakan Network": {
+    "name": "Taklimakan Network",
+    "short": "TAN",
+    "url": "/currencies/taklimakan-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Tcbcoin": {
+    "name": "Tcbcoin",
+    "short": "TCFX",
+    "url": "/currencies/tcbcoin",
+    "tags": [
+      "Token"
     ]
   },
   "Telcoin": {
@@ -9082,6 +9380,15 @@
       "Token"
     ]
   },
+  "Trexcoin": {
+    "name": "Trexcoin",
+    "short": "TREX",
+    "url": "/currencies/trexcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Trinity Network Credit": {
     "name": "Trinity Network Credit",
     "short": "TNC",
@@ -9260,6 +9567,15 @@
       "Coin"
     ]
   },
+  "UltraNote Coin": {
+    "name": "UltraNote Coin",
+    "short": "XUN",
+    "url": "/currencies/ultranote-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Ultragate": {
     "name": "Ultragate",
     "short": "ULG",
@@ -9362,6 +9678,14 @@
     "url": "/currencies/universal-liquidity-union",
     "tags": [
       "Token"
+    ]
+  },
+  "Unknown Fair Object": {
+    "name": "Unknown Fair Object",
+    "short": "UFO",
+    "url": "/currencies/unknown-fair-object",
+    "tags": [
+      "Coin"
     ]
   },
   "Unochain": {
@@ -9624,6 +9948,14 @@
       "Token"
     ]
   },
+  "Vybe": {
+    "name": "Vybe",
+    "short": "VYBE",
+    "url": "/currencies/vybe",
+    "tags": [
+      "Token"
+    ]
+  },
   "WABnetwork": {
     "name": "WABnetwork",
     "short": "WAB",
@@ -9764,6 +10096,14 @@
       "Token"
     ]
   },
+  "Whole Network": {
+    "name": "Whole Network",
+    "short": "NODE",
+    "url": "/currencies/whole-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "WinPlay Token": {
     "name": "WinPlay Token",
     "short": "WNRZ",
@@ -9818,6 +10158,14 @@
       "Token"
     ]
   },
+  "Wowbit": {
+    "name": "Wowbit",
+    "short": "WWB",
+    "url": "/currencies/wowbit",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wrapped Bitcoin": {
     "name": "Wrapped Bitcoin",
     "short": "WBTC",
@@ -9848,6 +10196,15 @@
       "SHA-256"
     ]
   },
+  "XDNA": {
+    "name": "XDNA",
+    "short": "XDNA",
+    "url": "/currencies/xdna",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "XEL": {
     "name": "XEL",
     "short": "XEL",
@@ -9871,6 +10228,17 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "XRP": {
+    "name": "XRP",
+    "short": "XRP",
+    "url": "/currencies/xrp",
+    "tags": [
+      "Coin",
+      "Medium of Exchange",
+      "Enterprise solutions",
+      "Binance Chain"
     ]
   },
   "XYO": {
@@ -9943,6 +10311,14 @@
     "url": "/currencies/xrpalike-gene",
     "tags": [
       "Coin"
+    ]
+  },
+  "Xtock": {
+    "name": "Xtock",
+    "short": "XTX",
+    "url": "/currencies/xtock",
+    "tags": [
+      "Token"
     ]
   },
   "YAM v1": {
