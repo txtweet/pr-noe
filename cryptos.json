@@ -205,6 +205,14 @@
       "Token"
     ]
   },
+  "3x Short Bitcoin SV Token": {
+    "name": "3x Short Bitcoin SV Token",
+    "short": "BSVBEAR",
+    "url": "/currencies/3x-short-bitcoin-sv-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
     "short": "XTZBEAR",
@@ -3928,6 +3936,14 @@
       "Token"
     ]
   },
+  "Digital Gold": {
+    "name": "Digital Gold",
+    "short": "GOLD",
+    "url": "/currencies/digital-gold",
+    "tags": [
+      "Token"
+    ]
+  },
   "Digital Wallet": {
     "name": "Digital Wallet",
     "short": "DWC",
@@ -6016,6 +6032,15 @@
       "Coin"
     ]
   },
+  "Helium Chain": {
+    "name": "Helium Chain",
+    "short": "HLM",
+    "url": "/currencies/helium-chain",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Helper Search Token": {
     "name": "Helper Search Token",
     "short": "HSN",
@@ -7332,6 +7357,19 @@
       "Coin",
       "Mineable",
       "Marketplace"
+    ]
+  },
+  "Litecoin": {
+    "name": "Litecoin",
+    "short": "LTC",
+    "url": "/currencies/litecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "Medium of Exchange",
+      "Binance Chain"
     ]
   },
   "Litecred": {
@@ -8990,6 +9028,14 @@
     "url": "/currencies/privcy",
     "tags": [
       "Coin"
+    ]
+  },
+  "PTON": {
+    "name": "PTON",
+    "short": "PTON",
+    "url": "/currencies/pton",
+    "tags": [
+      "Token"
     ]
   },
   "PYRO Network (TRON)": {
@@ -12067,6 +12113,14 @@
     "name": "Union Fair Coin",
     "short": "UFC",
     "url": "/currencies/union-fair-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Uniris": {
+    "name": "Uniris",
+    "short": "UCO",
+    "url": "/currencies/uniris",
     "tags": [
       "Token"
     ]
