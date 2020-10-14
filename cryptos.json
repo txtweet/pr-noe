@@ -1699,6 +1699,14 @@
       "Token"
     ]
   },
+  "BitNautic Token": {
+    "name": "BitNautic Token",
+    "short": "BTNT",
+    "url": "/currencies/bitnautic-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "BitNewChain": {
     "name": "BitNewChain",
     "short": "BTN",
@@ -3583,6 +3591,14 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
+    ]
+  },
+  "DOWCOIN": {
+    "name": "DOWCOIN",
+    "short": "DOW",
+    "url": "/currencies/dowcoin",
+    "tags": [
+      "Token"
     ]
   },
   "DREP": {
@@ -8783,6 +8799,18 @@
       "Token",
       "Platform",
       "Enterprise solutions"
+    ]
+  },
+  "Ontology": {
+    "name": "Ontology",
+    "short": "ONT",
+    "url": "/currencies/ontology",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "Enterprise solutions",
+      "Identity",
+      "Binance Chain"
     ]
   },
   "Opal": {
