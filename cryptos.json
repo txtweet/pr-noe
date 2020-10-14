@@ -1922,6 +1922,14 @@
       "Mineable"
     ]
   },
+  "Blockchain Quotations Index Token": {
+    "name": "Blockchain Quotations Index Token",
+    "short": "BQT",
+    "url": "/currencies/blockchain-quotations-index-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Blockmason Credit Protocol": {
     "name": "Blockmason Credit Protocol",
     "short": "BCPT",
@@ -4926,6 +4934,14 @@
       "Coin"
     ]
   },
+  "FlashSwap": {
+    "name": "FlashSwap",
+    "short": "FSP",
+    "url": "/currencies/flashswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "FlashX Advance": {
     "name": "FlashX Advance",
     "short": "FSXA",
@@ -6137,6 +6153,14 @@
     "name": "Index Cooperative",
     "short": "INDEX",
     "url": "/currencies/index-cooperative",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Indorse Token": {
+    "name": "Indorse Token",
+    "short": "IND",
+    "url": "/currencies/indorse-token",
     "tags": [
       "Token"
     ]
@@ -8524,6 +8548,16 @@
       "Token"
     ]
   },
+  "Patientory": {
+    "name": "Patientory",
+    "short": "PTOY",
+    "url": "/currencies/patientory",
+    "tags": [
+      "Token",
+      "Health",
+      "Data Provenance"
+    ]
+  },
   "Pawtocol": {
     "name": "Pawtocol",
     "short": "UPI",
@@ -10485,6 +10519,15 @@
       "Token"
     ]
   },
+  "TCOIN": {
+    "name": "TCOIN",
+    "short": "TCN",
+    "url": "/currencies/tcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "TERA": {
     "name": "TERA",
     "short": "TERA",
@@ -11385,6 +11428,14 @@
     "name": "Universal Protocol Token",
     "short": "UPT",
     "url": "/currencies/universal-protocol-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "UniversalEnergyChain": {
+    "name": "UniversalEnergyChain",
+    "short": "UENC",
+    "url": "/currencies/universalenergychain",
     "tags": [
       "Token"
     ]
