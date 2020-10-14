@@ -12892,10 +12892,26 @@
       "Token"
     ]
   },
+  "smARTOFGIVING": {
+    "name": "smARTOFGIVING",
+    "short": "AOG",
+    "url": "/currencies/smartofgiving",
+    "tags": [
+      "Token"
+    ]
+  },
   "snglsDAO": {
     "name": "snglsDAO",
     "short": "SGT",
     "url": "/currencies/snglsdao",
+    "tags": [
+      "Token"
+    ]
+  },
+  "suterusu": {
+    "name": "suterusu",
+    "short": "SUTER",
+    "url": "/currencies/suterusu",
     "tags": [
       "Token"
     ]
