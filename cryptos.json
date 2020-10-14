@@ -581,6 +581,14 @@
       "Payments"
     ]
   },
+  "Agrolot": {
+    "name": "Agrolot",
+    "short": "AGLT",
+    "url": "/currencies/agrolot",
+    "tags": [
+      "Token"
+    ]
+  },
   "AiLink Token": {
     "name": "AiLink Token",
     "short": "ALI",
@@ -2339,6 +2347,14 @@
       "Coin",
       "Mineable",
       "PoC"
+    ]
+  },
+  "Business Credit Alliance Chain": {
+    "name": "Business Credit Alliance Chain",
+    "short": "BCAC",
+    "url": "/currencies/business-credit-alliance-chain",
+    "tags": [
+      "Token"
     ]
   },
   "Buxcoin": {
@@ -6494,6 +6510,17 @@
       "Scrypt"
     ]
   },
+  "ICON": {
+    "name": "ICON",
+    "short": "ICX",
+    "url": "/currencies/icon",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Enterprise solutions",
+      "Interoperability"
+    ]
+  },
   "IDEX Membership": {
     "name": "IDEX Membership",
     "short": "IDXM",
@@ -6502,6 +6529,14 @@
       "Token",
       "Marketplace",
       "Decentralized exchange"
+    ]
+  },
+  "IFX24": {
+    "name": "IFX24",
+    "short": "IFX24",
+    "url": "/currencies/ifx24",
+    "tags": [
+      "Token"
     ]
   },
   "INMAX": {
@@ -10479,6 +10514,14 @@
       "Wallet"
     ]
   },
+  "SOMESING": {
+    "name": "SOMESING",
+    "short": "SSX",
+    "url": "/currencies/somesing",
+    "tags": [
+      "Token"
+    ]
+  },
   "SONO": {
     "name": "SONO",
     "short": "SONO",
@@ -13517,6 +13560,14 @@
     "name": "YeaFinance",
     "short": "YEA",
     "url": "/currencies/yeafinance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn Finance Ecosystem": {
+    "name": "Yearn Finance Ecosystem",
+    "short": "YFIEC",
+    "url": "/currencies/yearn-finance-ecosystem",
     "tags": [
       "Token"
     ]
