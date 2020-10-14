@@ -213,6 +213,14 @@
       "Token"
     ]
   },
+  "4NEW": {
+    "name": "4NEW",
+    "short": "KWATT",
+    "url": "/currencies/4new",
+    "tags": [
+      "Token"
+    ]
+  },
   "7Eleven": {
     "name": "7Eleven",
     "short": "7E",
@@ -1167,6 +1175,14 @@
     "url": "/currencies/bosagora",
     "tags": [
       "Token"
+    ]
+  },
+  "BOScoin": {
+    "name": "BOScoin",
+    "short": "BOS",
+    "url": "/currencies/boscoin",
+    "tags": [
+      "Coin"
     ]
   },
   "BQT": {
@@ -2249,6 +2265,14 @@
       "Token"
     ]
   },
+  "CAT.trade Protocol": {
+    "name": "CAT.trade Protocol",
+    "short": "CATX",
+    "url": "/currencies/cat-trade-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "CBDAO": {
     "name": "CBDAO",
     "short": "BREE",
@@ -2371,6 +2395,14 @@
     "url": "/currencies/cutcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "CXN Network": {
+    "name": "CXN Network",
+    "short": "CXN",
+    "url": "/currencies/cxn-network",
+    "tags": [
+      "Token"
     ]
   },
   "CY Finance": {
@@ -3171,6 +3203,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Cryptobuyer": {
+    "name": "Cryptobuyer",
+    "short": "XPT",
+    "url": "/currencies/cryptobuyer",
+    "tags": [
+      "Token"
     ]
   },
   "Cryptocean": {
@@ -4218,6 +4258,14 @@
       "Token"
     ]
   },
+  "EXMR FDN": {
+    "name": "EXMR FDN",
+    "short": "EXMR",
+    "url": "/currencies/exmr-fdn",
+    "tags": [
+      "Token"
+    ]
+  },
   "EXOR": {
     "name": "EXOR",
     "short": "EXOR",
@@ -4563,6 +4611,17 @@
       "DAO"
     ]
   },
+  "Energycoin": {
+    "name": "Energycoin",
+    "short": "ENRG",
+    "url": "/currencies/energycoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "Engine": {
     "name": "Engine",
     "short": "EGCC",
@@ -4663,6 +4722,15 @@
     "url": "/currencies/etherbone",
     "tags": [
       "Token"
+    ]
+  },
+  "EtherGem": {
+    "name": "EtherGem",
+    "short": "EGEM",
+    "url": "/currencies/ethergem",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "EtherSportz": {
@@ -4796,6 +4864,14 @@
       "Token",
       "Services",
       "Smart Contracts"
+    ]
+  },
+  "EveriToken": {
+    "name": "EveriToken",
+    "short": "EVT",
+    "url": "/currencies/everitoken",
+    "tags": [
+      "Coin"
     ]
   },
   "Exchange Union": {
@@ -5191,6 +5267,14 @@
       "Hardware"
     ]
   },
+  "Future1coin": {
+    "name": "Future1coin",
+    "short": "F1C",
+    "url": "/currencies/future1coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "FuzzBalls": {
     "name": "FuzzBalls",
     "short": "FUZZ",
@@ -5305,6 +5389,14 @@
     "url": "/currencies/galilel",
     "tags": [
       "Coin"
+    ]
+  },
+  "Game Stars": {
+    "name": "Game Stars",
+    "short": "GST",
+    "url": "/currencies/game-stars",
+    "tags": [
+      "Token"
     ]
   },
   "GameCredits": {
@@ -6028,6 +6120,14 @@
       "DeFi"
     ]
   },
+  "Hyper Pay": {
+    "name": "Hyper Pay",
+    "short": "HPY",
+    "url": "/currencies/hyper-pay",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hyper Speed Network": {
     "name": "Hyper Speed Network",
     "short": "HSN",
@@ -6238,6 +6338,14 @@
     "name": "ImageCash",
     "short": "IMGC",
     "url": "/currencies/imagecash",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "ImageCoin": {
+    "name": "ImageCoin",
+    "short": "IMG",
+    "url": "/currencies/imagecoin",
     "tags": [
       "Coin"
     ]
@@ -6836,6 +6944,15 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "LCX": {
+    "name": "LCX",
+    "short": "LCX",
+    "url": "/currencies/lcx",
+    "tags": [
+      "Token",
+      "Liechtenstein"
     ]
   },
   "LHT": {
@@ -7747,6 +7864,14 @@
       "Token"
     ]
   },
+  "Mobile Crypto Pay Coin": {
+    "name": "Mobile Crypto Pay Coin",
+    "short": "MCPC",
+    "url": "/currencies/mobile-crypto-pay-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Modern Investment Coin": {
     "name": "Modern Investment Coin",
     "short": "MODIC",
@@ -8610,6 +8735,14 @@
       "Token"
     ]
   },
+  "PAL Network": {
+    "name": "PAL Network",
+    "short": "PAL",
+    "url": "/currencies/pal-network",
+    "tags": [
+      "Coin"
+    ]
+  },
   "PANTHEON X": {
     "name": "PANTHEON X",
     "short": "XPN",
@@ -8854,6 +8987,15 @@
     "url": "/currencies/penta",
     "tags": [
       "Token"
+    ]
+  },
+  "Peony": {
+    "name": "Peony",
+    "short": "PNY",
+    "url": "/currencies/peony",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Perpetual Protocol": {
@@ -9278,6 +9420,14 @@
     "name": "QANplatform",
     "short": "QARK",
     "url": "/currencies/qanplatform",
+    "tags": [
+      "Token"
+    ]
+  },
+  "QChi": {
+    "name": "QChi",
+    "short": "QCH",
+    "url": "/currencies/qchi",
     "tags": [
       "Token"
     ]
@@ -10075,6 +10225,14 @@
     "name": "Sentinel",
     "short": "SENT",
     "url": "/currencies/sentinel",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Sentivate": {
+    "name": "Sentivate",
+    "short": "SNTVT",
+    "url": "/currencies/sentivate",
     "tags": [
       "Token"
     ]
@@ -10990,6 +11148,14 @@
       "Token"
     ]
   },
+  "TeeCoin": {
+    "name": "TeeCoin",
+    "short": "TEC",
+    "url": "/currencies/teecoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Telcoin": {
     "name": "Telcoin",
     "short": "TEL",
@@ -11039,6 +11205,14 @@
       "DeFi",
       "Payments",
       "Stablecoin - Algorithmically-Stabilized"
+    ]
+  },
+  "TerraCredit": {
+    "name": "TerraCredit",
+    "short": "CREDIT",
+    "url": "/currencies/credit",
+    "tags": [
+      "Coin"
     ]
   },
   "TerraKRW": {
@@ -12258,6 +12432,14 @@
       "Yield farming"
     ]
   },
+  "Winding Tree": {
+    "name": "Winding Tree",
+    "short": "LIF",
+    "url": "/currencies/winding-tree",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wing": {
     "name": "Wing",
     "short": "WING",
@@ -12673,6 +12855,14 @@
       "Token"
     ]
   },
+  "Yearn Finance Farm": {
+    "name": "Yearn Finance Farm",
+    "short": "YFF",
+    "url": "/currencies/yearn-finance-farm",
+    "tags": [
+      "Token"
+    ]
+  },
   "Yearn Finance Protocol": {
     "name": "Yearn Finance Protocol",
     "short": "YFP",
@@ -12831,6 +13021,17 @@
       "Medium of Exchange",
       "Zero Knowledge Proofs",
       "Binance Chain"
+    ]
+  },
+  "Zebi Token": {
+    "name": "Zebi Token",
+    "short": "ZEBI",
+    "url": "/currencies/zebi-token",
+    "tags": [
+      "Coin",
+      "Platform",
+      "AI & Big Data",
+      "Enterprise solutions"
     ]
   },
   "Zel": {
@@ -12999,6 +13200,14 @@
       "Platform",
       "Payments",
       "Reputation"
+    ]
+  },
+  "e-Chat": {
+    "name": "e-Chat",
+    "short": "ECHT",
+    "url": "/currencies/e-chat",
+    "tags": [
+      "Token"
     ]
   },
   "e-Gulden": {
@@ -13273,6 +13482,15 @@
     "url": "/currencies/yfbeta",
     "tags": [
       "Token"
+    ]
+  },
+  "yffi finance": {
+    "name": "yffi finance",
+    "short": "YFFI",
+    "url": "/currencies/yffi-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
     ]
   },
   "yieldfarming.insure": {
