@@ -362,6 +362,14 @@
       "Asset management"
     ]
   },
+  "ATTN": {
+    "name": "ATTN",
+    "short": "ATTN",
+    "url": "/currencies/attn",
+    "tags": [
+      "Token"
+    ]
+  },
   "AXEL": {
     "name": "AXEL",
     "short": "AXEL",
@@ -1534,6 +1542,15 @@
       "Token"
     ]
   },
+  "BitcoiNote": {
+    "name": "BitcoiNote",
+    "short": "BTCN",
+    "url": "/currencies/bitcoinote",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoin": {
     "name": "Bitcoin",
     "short": "BTC",
@@ -1784,6 +1801,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Marketplace"
+    ]
+  },
+  "Blockpass": {
+    "name": "Blockpass",
+    "short": "PASS",
+    "url": "/currencies/blockpass",
+    "tags": [
+      "Token"
     ]
   },
   "Blocktix": {
@@ -3093,6 +3118,14 @@
       "Token"
     ]
   },
+  "DTOP Token": {
+    "name": "DTOP Token",
+    "short": "DTOP",
+    "url": "/currencies/data-trade-on-demand-platform",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dai": {
     "name": "Dai",
     "short": "DAI",
@@ -3544,6 +3577,16 @@
       "Token"
     ]
   },
+  "DopeCoin": {
+    "name": "DopeCoin",
+    "short": "DOPE",
+    "url": "/currencies/dopecoin",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Dovu": {
     "name": "Dovu",
     "short": "DOV",
@@ -3843,6 +3886,19 @@
     "url": "/currencies/egas",
     "tags": [
       "Token"
+    ]
+  },
+  "Egoras": {
+    "name": "Egoras",
+    "short": "EGR",
+    "url": "/currencies/egoras",
+    "tags": [
+      "Token",
+      "DAO",
+      "DeFi",
+      "Collectibles & NFTs",
+      "DApp",
+      "Yield farming"
     ]
   },
   "Egoras Dollar": {
@@ -4793,6 +4849,14 @@
       "Token"
     ]
   },
+  "GeoCoin": {
+    "name": "GeoCoin",
+    "short": "GEO",
+    "url": "/currencies/geocoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "GeoDB": {
     "name": "GeoDB",
     "short": "GEO",
@@ -4998,6 +5062,14 @@
       "Energy"
     ]
   },
+  "Grimm": {
+    "name": "Grimm",
+    "short": "GRIMM",
+    "url": "/currencies/grimm",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Gstcoin": {
     "name": "Gstcoin",
     "short": "GST",
@@ -5010,6 +5082,14 @@
     "name": "Guaranteed Ethurance Token Extra",
     "short": "GETX",
     "url": "/currencies/guaranteed-ethurance-token-extra",
+    "tags": [
+      "Token"
+    ]
+  },
+  "HAPY Coin": {
+    "name": "HAPY Coin",
+    "short": "HAPY",
+    "url": "/currencies/hapy-coin",
     "tags": [
       "Token"
     ]
@@ -5283,6 +5363,16 @@
     "url": "/currencies/hotpot-base-token",
     "tags": [
       "Coin"
+    ]
+  },
+  "Hubii Network": {
+    "name": "Hubii Network",
+    "short": "HBT",
+    "url": "/currencies/hubii-network",
+    "tags": [
+      "Token",
+      "Platform",
+      "Content Creation"
     ]
   },
   "Huobi Token": {
@@ -7466,6 +7556,14 @@
       "DeFi"
     ]
   },
+  "Omix": {
+    "name": "Omix",
+    "short": "OMX",
+    "url": "/currencies/omix",
+    "tags": [
+      "Token"
+    ]
+  },
   "Omni": {
     "name": "Omni",
     "short": "OMNI",
@@ -7667,6 +7765,17 @@
     "url": "/currencies/parsiq",
     "tags": [
       "Token"
+    ]
+  },
+  "PCHAIN": {
+    "name": "PCHAIN",
+    "short": "PI",
+    "url": "/currencies/pchain",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Interoperability",
+      "Smart Contracts"
     ]
   },
   "PDATA": {
@@ -11359,6 +11468,14 @@
       "Coin"
     ]
   },
+  "Yuan Chain Coin": {
+    "name": "Yuan Chain Coin",
+    "short": "YCC",
+    "url": "/currencies/yuan-chain-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "ZAC Finance": {
     "name": "ZAC Finance",
     "short": "ZAC",
@@ -11535,6 +11652,16 @@
     "url": "/currencies/bxiot",
     "tags": [
       "Token"
+    ]
+  },
+  "bZx Protocol": {
+    "name": "bZx Protocol",
+    "short": "BZRX",
+    "url": "/currencies/bzx-protocol",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Smart Contracts"
     ]
   },
   "bZx Vesting Token": {
