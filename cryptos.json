@@ -2153,6 +2153,17 @@
       "Smart Contracts"
     ]
   },
+  "BlueCoin": {
+    "name": "BlueCoin",
+    "short": "BLU",
+    "url": "/currencies/bluecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "Bluzelle": {
     "name": "Bluzelle",
     "short": "BLZ",
@@ -3356,6 +3367,16 @@
       "Mineable"
     ]
   },
+  "CryptoVerificationCoin": {
+    "name": "CryptoVerificationCoin",
+    "short": "CVCC",
+    "url": "/currencies/cryptoverificationcoin",
+    "tags": [
+      "Coin",
+      "Services",
+      "Privacy"
+    ]
+  },
   "Cryptobuyer": {
     "name": "Cryptobuyer",
     "short": "XPT",
@@ -3941,6 +3962,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Dether": {
+    "name": "Dether",
+    "short": "DTH",
+    "url": "/currencies/dether",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Mobile",
+      "Payments"
     ]
   },
   "Dev Protocol": {
@@ -8102,6 +8134,18 @@
       "Interoperability"
     ]
   },
+  "Meter Stable": {
+    "name": "Meter Stable",
+    "short": "MTR",
+    "url": "/currencies/meter-stable",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "SHA-256",
+      "Interoperability",
+      "Stablecoin"
+    ]
+  },
   "Metric": {
     "name": "Metric",
     "short": "METRIC",
@@ -9312,6 +9356,14 @@
       "Data Provenance"
     ]
   },
+  "Patron": {
+    "name": "Patron",
+    "short": "PAT",
+    "url": "/currencies/patron",
+    "tags": [
+      "Token"
+    ]
+  },
   "Pawtocol": {
     "name": "Pawtocol",
     "short": "UPI",
@@ -9538,6 +9590,17 @@
     "url": "/currencies/pilnette",
     "tags": [
       "Token"
+    ]
+  },
+  "Pinkcoin": {
+    "name": "Pinkcoin",
+    "short": "PINK",
+    "url": "/currencies/pinkcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "PiplCoin": {
@@ -10298,6 +10361,16 @@
     "tags": [
       "Coin",
       "PoS"
+    ]
+  },
+  "Ruff": {
+    "name": "Ruff",
+    "short": "RUFF",
+    "url": "/currencies/ruff",
+    "tags": [
+      "Token",
+      "Platform",
+      "IoT"
     ]
   },
   "Rupaya": {
