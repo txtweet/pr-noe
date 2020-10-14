@@ -3458,6 +3458,14 @@
       "Token"
     ]
   },
+  "CyberVein": {
+    "name": "CyberVein",
+    "short": "CVT",
+    "url": "/currencies/cybervein",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cybercoin": {
     "name": "Cybercoin",
     "short": "CBR",
@@ -5225,6 +5233,15 @@
     "url": "/currencies/farmatrust",
     "tags": [
       "Token"
+    ]
+  },
+  "FedoraCoin": {
+    "name": "FedoraCoin",
+    "short": "TIPS",
+    "url": "/currencies/fedoracoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Ferrum Network": {
@@ -13929,6 +13946,17 @@
     "url": "/currencies/unibot-cash",
     "tags": [
       "Token"
+    ]
+  },
+  "v.systems": {
+    "name": "v.systems",
+    "short": "VSYS",
+    "url": "/currencies/v-systems",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Discount token",
+      "Smart Contracts"
     ]
   },
   "weBloc": {
