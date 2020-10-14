@@ -1347,6 +1347,14 @@
       "Mimble Wimble"
     ]
   },
+  "BeatzCoin": {
+    "name": "BeatzCoin",
+    "short": "BTZC",
+    "url": "/currencies/beatzcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Beaxy": {
     "name": "Beaxy",
     "short": "BXY",
@@ -1510,6 +1518,16 @@
     "url": "/currencies/bigbang-core",
     "tags": [
       "Coin"
+    ]
+  },
+  "BigONE Token": {
+    "name": "BigONE Token",
+    "short": "ONE",
+    "url": "/currencies/bigone-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange"
     ]
   },
   "Bigbom": {
@@ -2980,6 +2998,15 @@
       "DeFi"
     ]
   },
+  "Compound Wrapped BTC": {
+    "name": "Compound Wrapped BTC",
+    "short": "CWBTC",
+    "url": "/currencies/compound-wrapped-btc",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Coni": {
     "name": "Coni",
     "short": "CONI",
@@ -3155,6 +3182,15 @@
     "url": "/currencies/cryptaur",
     "tags": [
       "Token"
+    ]
+  },
+  "CrypticCoin": {
+    "name": "CrypticCoin",
+    "short": "CRYP",
+    "url": "/currencies/crypticcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Crypto Accept": {
@@ -5101,6 +5137,14 @@
       "Token"
     ]
   },
+  "Fire Lotto": {
+    "name": "Fire Lotto",
+    "short": "FLOT",
+    "url": "/currencies/fire-lotto",
+    "tags": [
+      "Token"
+    ]
+  },
   "FirstBlood": {
     "name": "FirstBlood",
     "short": "1ST",
@@ -5407,6 +5451,14 @@
     "url": "/currencies/galilel",
     "tags": [
       "Coin"
+    ]
+  },
+  "Game Ark": {
+    "name": "Game Ark",
+    "short": "GARK",
+    "url": "/currencies/game-ark",
+    "tags": [
+      "Token"
     ]
   },
   "Game Stars": {
@@ -8777,6 +8829,14 @@
       "Token"
     ]
   },
+  "PAX Gold": {
+    "name": "PAX Gold",
+    "short": "PAXG",
+    "url": "/currencies/pax-gold",
+    "tags": [
+      "Token"
+    ]
+  },
   "PCHAIN": {
     "name": "PCHAIN",
     "short": "PI",
@@ -10124,6 +10184,14 @@
       "Technology"
     ]
   },
+  "SatoExchange Token": {
+    "name": "SatoExchange Token",
+    "short": "SATX",
+    "url": "/currencies/satoexchange-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Save and Gain": {
     "name": "Save and Gain",
     "short": "SANDG",
@@ -10862,6 +10930,14 @@
     "name": "SwapShip",
     "short": "SWSH",
     "url": "/currencies/swapship",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Swapzilla": {
+    "name": "Swapzilla",
+    "short": "SWZL",
+    "url": "/currencies/swapzilla",
     "tags": [
       "Token"
     ]
@@ -12167,6 +12243,14 @@
     "url": "/currencies/veros",
     "tags": [
       "Token"
+    ]
+  },
+  "Versess Coin": {
+    "name": "Versess Coin",
+    "short": "VERS",
+    "url": "/currencies/versess-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Vertcoin": {
