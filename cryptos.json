@@ -2602,6 +2602,15 @@
       "Token"
     ]
   },
+  "ColossusXT": {
+    "name": "ColossusXT",
+    "short": "COLX",
+    "url": "/currencies/colossusxt",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Comet": {
     "name": "Comet",
     "short": "CMT",
@@ -3382,6 +3391,10 @@
     "tags": [
       "Token",
       "Health"
+    ],
+    "checked": true,
+    "commentaire": [
+      "Dentiste"
     ]
   },
   "Derivex": {
@@ -9723,6 +9736,14 @@
       "Staking"
     ]
   },
+  "SymVerse": {
+    "name": "SymVerse",
+    "short": "SYM",
+    "url": "/currencies/symverse",
+    "tags": [
+      "Token"
+    ]
+  },
   "T.OS": {
     "name": "T.OS",
     "short": "TOSC",
@@ -10931,6 +10952,14 @@
     "url": "/currencies/wizbl",
     "tags": [
       "Coin"
+    ]
+  },
+  "WOLLO": {
+    "name": "WOLLO",
+    "short": "WLO",
+    "url": "/currencies/wollo",
+    "tags": [
+      "Token"
     ]
   },
   "Wagerr": {
