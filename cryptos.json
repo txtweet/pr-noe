@@ -499,6 +499,18 @@
       "Token"
     ]
   },
+  "Aion": {
+    "name": "Aion",
+    "short": "AION",
+    "url": "/currencies/aion",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "AI & Big Data",
+      "Payments"
+    ]
+  },
   "AirWire": {
     "name": "AirWire",
     "short": "WIRE",
@@ -1535,6 +1547,15 @@
     "name": "BitcoinV",
     "short": "BTCV",
     "url": "/currencies/bitcoinv",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "BitcoinX": {
+    "name": "BitcoinX",
+    "short": "BCX",
+    "url": "/currencies/bitcoinx",
     "tags": [
       "Coin",
       "Mineable"
@@ -7154,6 +7175,17 @@
       "Marketplace",
       "Platform",
       "Ethereum"
+    ]
+  },
+  "OriginTrail": {
+    "name": "OriginTrail",
+    "short": "TRAC",
+    "url": "/currencies/origintrail",
+    "tags": [
+      "Token",
+      "Logistics",
+      "Enterprise solutions",
+      "Smart Contracts"
     ]
   },
   "Origo": {
