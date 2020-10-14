@@ -202,6 +202,14 @@
       "Token"
     ]
   },
+  "8X8 PROTOCOL": {
+    "name": "8X8 PROTOCOL",
+    "short": "EXE",
+    "url": "/currencies/8x8-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "AC3": {
     "name": "AC3",
     "short": "AC3",
@@ -246,6 +254,14 @@
     "name": "AML Bitcoin",
     "short": "ABTC",
     "url": "/currencies/aml-bitcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "ANON": {
+    "name": "ANON",
+    "short": "ANON",
+    "url": "/currencies/anon",
     "tags": [
       "Coin"
     ]
@@ -1848,6 +1864,14 @@
       "Token"
     ]
   },
+  "CEDARS": {
+    "name": "CEDARS",
+    "short": "CEDS",
+    "url": "/currencies/cedars",
+    "tags": [
+      "Token"
+    ]
+  },
   "CFun": {
     "name": "CFun",
     "short": "CFUN",
@@ -2813,6 +2837,14 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
+    ]
+  },
+  "DSYS": {
+    "name": "DSYS",
+    "short": "DSYS",
+    "url": "/currencies/dsys",
+    "tags": [
+      "Token"
     ]
   },
   "Dai": {
@@ -4260,6 +4292,26 @@
       "Scrypt-n"
     ]
   },
+  "Function X": {
+    "name": "Function X",
+    "short": "FX",
+    "url": "/currencies/function-x",
+    "tags": [
+      "Token",
+      "Hardware"
+    ]
+  },
+  "FuzzBalls": {
+    "name": "FuzzBalls",
+    "short": "FUZZ",
+    "url": "/currencies/fuzzballs",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Fyooz": {
     "name": "Fyooz",
     "short": "FYZ",
@@ -4631,6 +4683,14 @@
     "name": "HEIDI",
     "short": "HDI",
     "url": "/currencies/heidi",
+    "tags": [
+      "Token"
+    ]
+  },
+  "HEX": {
+    "name": "HEX",
+    "short": "HEX",
+    "url": "/currencies/hex",
     "tags": [
       "Token"
     ]
@@ -5162,6 +5222,14 @@
     "url": "/currencies/infinity-economics",
     "tags": [
       "Coin"
+    ]
+  },
+  "InnovaMinex": {
+    "name": "InnovaMinex",
+    "short": "MINX",
+    "url": "/currencies/innovaminex",
+    "tags": [
+      "Token"
     ]
   },
   "Innovation Blockchain Payment": {
@@ -6438,6 +6506,14 @@
       "DeFi"
     ]
   },
+  "MoonSwap": {
+    "name": "MoonSwap",
+    "short": "MOON",
+    "url": "/currencies/moonswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "MorCrypto Coin": {
     "name": "MorCrypto Coin",
     "short": "MOR",
@@ -6841,6 +6917,14 @@
       "Mineable"
     ]
   },
+  "OTCBTC Token": {
+    "name": "OTCBTC Token",
+    "short": "OTB",
+    "url": "/currencies/otcbtc-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "OTOCASH": {
     "name": "OTOCASH",
     "short": "OTO",
@@ -7047,6 +7131,14 @@
       "Token",
       "Asset management",
       "Payments"
+    ]
+  },
+  "Ormeus Ecosystem": {
+    "name": "Ormeus Ecosystem",
+    "short": "ECO",
+    "url": "/currencies/ormeus-ecosystem",
+    "tags": [
+      "Token"
     ]
   },
   "Ouroboros": {
@@ -9488,6 +9580,14 @@
       "Token"
     ]
   },
+  "TrustSwap": {
+    "name": "TrustSwap",
+    "short": "SWAP",
+    "url": "/currencies/trustswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "TrustVerse": {
     "name": "TrustVerse",
     "short": "TRV",
@@ -10755,6 +10855,14 @@
     "name": "eToro New Zealand Dollar",
     "short": "NZDX",
     "url": "/currencies/etoro-new-zealand-dollar",
+    "tags": [
+      "Token"
+    ]
+  },
+  "eToro Pound Sterling": {
+    "name": "eToro Pound Sterling",
+    "short": "GBPX",
+    "url": "/currencies/etoro-pound-sterling",
     "tags": [
       "Token"
     ]
