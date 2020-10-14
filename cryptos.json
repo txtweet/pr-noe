@@ -1827,6 +1827,15 @@
       "Mineable"
     ]
   },
+  "BitcoinZ": {
+    "name": "BitcoinZ",
+    "short": "BTCZ",
+    "url": "/currencies/bitcoinz",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoinus": {
     "name": "Bitcoinus",
     "short": "BITS",
@@ -2420,6 +2429,16 @@
     "url": "/currencies/caluracoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "CannabisCoin": {
+    "name": "CannabisCoin",
+    "short": "CANN",
+    "url": "/currencies/cannabiscoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW"
     ]
   },
   "Cannadrix": {
@@ -3135,6 +3154,14 @@
     "url": "/currencies/cryptocarbon",
     "tags": [
       "Coin"
+    ]
+  },
+  "CryptoEnergy": {
+    "name": "CryptoEnergy",
+    "short": "CNRG",
+    "url": "/currencies/cryptoenergy",
+    "tags": [
+      "Token"
     ]
   },
   "CryptoFlow": {
@@ -7520,6 +7547,14 @@
     "name": "Mega Lottery Services Global",
     "short": "MLR",
     "url": "/currencies/mega-lottery-services-global",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Membrana": {
+    "name": "Membrana",
+    "short": "MBN",
+    "url": "/currencies/membrana",
     "tags": [
       "Token"
     ]
