@@ -1996,6 +1996,14 @@
       "Coin"
     ]
   },
+  "Bityuan": {
+    "name": "Bityuan",
+    "short": "BTY",
+    "url": "/currencies/bityuan",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Blackmoon": {
     "name": "Blackmoon",
     "short": "BMC",
@@ -7659,6 +7667,17 @@
       "Token"
     ]
   },
+  "MANTRA DAO": {
+    "name": "MANTRA DAO",
+    "short": "OM",
+    "url": "/currencies/mantra-dao",
+    "tags": [
+      "Token",
+      "DeFi",
+      "DAO",
+      "Substrate"
+    ]
+  },
   "MANY": {
     "name": "MANY",
     "short": "MANY",
@@ -8561,6 +8580,14 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
+    ]
+  },
+  "Nervos Network": {
+    "name": "Nervos Network",
+    "short": "CKB",
+    "url": "/currencies/nervos-network",
+    "tags": [
+      "Coin"
     ]
   },
   "Netbox Coin": {
@@ -10602,6 +10629,14 @@
     "name": "SeChain",
     "short": "SNN",
     "url": "/currencies/sechain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Seal Finance": {
+    "name": "Seal Finance",
+    "short": "SEAL",
+    "url": "/currencies/seal-finance",
     "tags": [
       "Token"
     ]
