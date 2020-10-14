@@ -744,6 +744,14 @@
       "DApp"
     ]
   },
+  "Asian Dragon": {
+    "name": "Asian Dragon",
+    "short": "AD",
+    "url": "/currencies/asian-dragon",
+    "tags": [
+      "Token"
+    ]
+  },
   "AstroTools": {
     "name": "AstroTools",
     "short": "ASTRO",
@@ -1033,6 +1041,14 @@
     "url": "/currencies/btcdown",
     "tags": [
       "Coin"
+    ]
+  },
+  "BTCMoon": {
+    "name": "BTCMoon",
+    "short": "BTCM",
+    "url": "/currencies/btcmoon",
+    "tags": [
+      "Token"
     ]
   },
   "BTCUP": {
@@ -8255,6 +8271,14 @@
       "Token"
     ]
   },
+  "SalmonSwap": {
+    "name": "SalmonSwap",
+    "short": "SAL",
+    "url": "/currencies/salmonswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "SaluS": {
     "name": "SaluS",
     "short": "SLS",
@@ -10240,6 +10264,14 @@
     "url": "/currencies/wisdom-chain",
     "tags": [
       "Coin"
+    ]
+  },
+  "Wolfs Group": {
+    "name": "Wolfs Group",
+    "short": "WLF",
+    "url": "/currencies/wolfs-group",
+    "tags": [
+      "Token"
     ]
   },
   "Worldcore": {
