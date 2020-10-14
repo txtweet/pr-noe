@@ -1681,6 +1681,14 @@
       "Entertainment"
     ]
   },
+  "BitGuild PLAT": {
+    "name": "BitGuild PLAT",
+    "short": "PLAT",
+    "url": "/currencies/bitguild-plat",
+    "tags": [
+      "Token"
+    ]
+  },
   "BitKan": {
     "name": "BitKan",
     "short": "KAN",
@@ -7196,6 +7204,16 @@
       "Token"
     ]
   },
+  "Kulupu": {
+    "name": "Kulupu",
+    "short": "KLP",
+    "url": "/currencies/kulupu",
+    "tags": [
+      "Coin",
+      "Smart Contracts",
+      "Substrate"
+    ]
+  },
   "Kush Finance": {
     "name": "Kush Finance",
     "short": "KSEED",
@@ -8668,6 +8686,14 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "Novo": {
+    "name": "Novo",
+    "short": "NOVO",
+    "url": "/currencies/novo",
+    "tags": [
+      "Coin"
     ]
   },
   "Nuggets": {
@@ -12041,6 +12067,15 @@
       "Mineable"
     ]
   },
+  "TrezarCoin": {
+    "name": "TrezarCoin",
+    "short": "TZC",
+    "url": "/currencies/trezarcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Trinity Network Credit": {
     "name": "Trinity Network Credit",
     "short": "TNC",
@@ -13618,6 +13653,14 @@
       "Mineable",
       "PoW",
       "SHA-256"
+    ]
+  },
+  "ZeusNetwork": {
+    "name": "ZeusNetwork",
+    "short": "ZEUS",
+    "url": "/currencies/zeusnetwork",
+    "tags": [
+      "Token"
     ]
   },
   "ZeuxCoin": {
