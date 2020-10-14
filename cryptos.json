@@ -1101,6 +1101,14 @@
       "Coin"
     ]
   },
+  "BNBDOWN": {
+    "name": "BNBDOWN",
+    "short": "BNBDOWN",
+    "url": "/currencies/bnbdown",
+    "tags": [
+      "Coin"
+    ]
+  },
   "BNBUP": {
     "name": "BNBUP",
     "short": "BNBUP",
@@ -2464,6 +2472,14 @@
     "url": "/currencies/cashbackpro",
     "tags": [
       "Token"
+    ]
+  },
+  "Cashhand": {
+    "name": "Cashhand",
+    "short": "CHND",
+    "url": "/currencies/cashhand",
+    "tags": [
+      "Coin"
     ]
   },
   "Cashpayz Token": {
@@ -7233,6 +7249,14 @@
       "Token"
     ]
   },
+  "Magic Liquidity Rainbow": {
+    "name": "Magic Liquidity Rainbow",
+    "short": "RAINBOW",
+    "url": "/currencies/magic-liquidity-rainbow",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mainstream For The Underground": {
     "name": "Mainstream For The Underground",
     "short": "MFTU",
@@ -11647,6 +11671,15 @@
       "Platform",
       "Identity",
       "Reputation"
+    ]
+  },
+  "Veritaseum": {
+    "name": "Veritaseum",
+    "short": "VERI",
+    "url": "/currencies/veritaseum",
+    "tags": [
+      "Token",
+      "Services"
     ]
   },
   "Veros": {
