@@ -10504,6 +10504,19 @@
       "Token"
     ]
   },
+  "Serum": {
+    "name": "Serum",
+    "short": "SRM",
+    "url": "/currencies/serum",
+    "tags": [
+      "Coin",
+      "Decentralized exchange",
+      "DeFi",
+      "Derivatives",
+      "Smart Contracts",
+      "Staking"
+    ]
+  },
   "Sexcoin": {
     "name": "Sexcoin",
     "short": "SXC",
@@ -13050,6 +13063,14 @@
     "url": "/currencies/yearn2-finance",
     "tags": [
       "Token"
+    ]
+  },
+  "YEP COIN": {
+    "name": "YEP COIN",
+    "short": "YEP",
+    "url": "/currencies/yep-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "YFDAI.FINANCE": {
