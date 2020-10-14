@@ -3315,6 +3315,19 @@
       "Token"
     ]
   },
+  "DDKoin": {
+    "name": "DDKoin",
+    "short": "DDK",
+    "url": "/currencies/ddkoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "DPoS",
+      "Platform",
+      "Enterprise solutions",
+      "Scaling"
+    ]
+  },
   "DEAPcoin": {
     "name": "DEAPcoin",
     "short": "DEP",
@@ -9445,6 +9458,14 @@
       "Coin"
     ]
   },
+  "Rivex": {
+    "name": "Rivex",
+    "short": "RVX",
+    "url": "/currencies/rivex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Rocket Pool": {
     "name": "Rocket Pool",
     "short": "RPL",
@@ -9624,6 +9645,16 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Wallet"
+    ]
+  },
+  "STK": {
+    "name": "STK",
+    "short": "STK",
+    "url": "/currencies/stk",
+    "tags": [
+      "Token",
+      "Services",
+      "Payments"
     ]
   },
   "STK Coin": {
@@ -9878,6 +9909,17 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Shadow Token": {
+    "name": "Shadow Token",
+    "short": "SHDW",
+    "url": "/currencies/shadow-token",
+    "tags": [
+      "Token",
+      "Media",
+      "Gaming",
+      "Entertainment"
     ]
   },
   "Sharder": {
