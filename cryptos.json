@@ -2913,6 +2913,17 @@
       "Token"
     ]
   },
+  "Citadel": {
+    "name": "Citadel",
+    "short": "CTL",
+    "url": "/currencies/citadel",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "CryptoNight"
+    ]
+  },
   "Clams": {
     "name": "Clams",
     "short": "CLAM",
@@ -3671,6 +3682,14 @@
     "name": "DEONEX COIN",
     "short": "DON",
     "url": "/currencies/deonex-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DIMCOIN": {
+    "name": "DIMCOIN",
+    "short": "DIM",
+    "url": "/currencies/dimcoin",
     "tags": [
       "Token"
     ]
@@ -4755,6 +4774,16 @@
       "Token"
     ]
   },
+  "Elementrem": {
+    "name": "Elementrem",
+    "short": "ELE",
+    "url": "/currencies/elementrem",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW"
+    ]
+  },
   "Elitium": {
     "name": "Elitium",
     "short": "EUM",
@@ -4973,6 +5002,14 @@
     "name": "Esports Token",
     "short": "EST",
     "url": "/currencies/esports-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Eterbase Utility Token": {
+    "name": "Eterbase Utility Token",
+    "short": "XBASE",
+    "url": "/currencies/eterbase-utility-token",
     "tags": [
       "Token"
     ]
@@ -7094,6 +7131,14 @@
       "Token"
     ]
   },
+  "KNOW": {
+    "name": "KNOW",
+    "short": "KNOW",
+    "url": "/currencies/know",
+    "tags": [
+      "Token"
+    ]
+  },
   "KUN": {
     "name": "KUN",
     "short": "KUN",
@@ -8412,6 +8457,18 @@
     "url": "/currencies/monarch",
     "tags": [
       "Token"
+    ]
+  },
+  "Monero": {
+    "name": "Monero",
+    "short": "XMR",
+    "url": "/currencies/monero",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Medium of Exchange",
+      "RingCT"
     ]
   },
   "Monero Classic": {
@@ -12043,6 +12100,14 @@
       "Singapore"
     ]
   },
+  "The Forms": {
+    "name": "The Forms",
+    "short": "FRMS",
+    "url": "/currencies/the-forms",
+    "tags": [
+      "Token"
+    ]
+  },
   "The Hash Speed": {
     "name": "The Hash Speed",
     "short": "THS",
@@ -13140,6 +13205,16 @@
       "Smart Contracts"
     ]
   },
+  "Waves Community Token": {
+    "name": "Waves Community Token",
+    "short": "WCT",
+    "url": "/currencies/waves-community-token",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
+    ]
+  },
   "Waves Enterprise": {
     "name": "Waves Enterprise",
     "short": "WEST",
@@ -13385,6 +13460,14 @@
       "Medium of Exchange",
       "Enterprise solutions",
       "Binance Chain"
+    ]
+  },
+  "XSwap": {
+    "name": "XSwap",
+    "short": "XSP",
+    "url": "/currencies/xsp",
+    "tags": [
+      "Coin"
     ]
   },
   "XTZUP": {
@@ -13939,6 +14022,14 @@
     "name": "Ziktalk",
     "short": "ZIK",
     "url": "/currencies/zik-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Zuflo Coin": {
+    "name": "Zuflo Coin",
+    "short": "ZFL",
+    "url": "/currencies/zuflo-coin",
     "tags": [
       "Token"
     ]
