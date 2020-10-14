@@ -3226,6 +3226,16 @@
       "Token"
     ]
   },
+  "CryptoBonusMiles": {
+    "name": "CryptoBonusMiles",
+    "short": "CBM",
+    "url": "/currencies/cryptobonusmiles",
+    "tags": [
+      "Token",
+      "Transport",
+      "Loyalty"
+    ]
+  },
   "CryptoBossCoin": {
     "name": "CryptoBossCoin",
     "short": "CBC",
@@ -3780,6 +3790,14 @@
     "name": "Degenerate Platform",
     "short": "DGN",
     "url": "/currencies/degenerate-platform",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeltaChain": {
+    "name": "DeltaChain",
+    "short": "DELTA",
+    "url": "/currencies/delta-chain",
     "tags": [
       "Token"
     ]
@@ -5327,6 +5345,17 @@
     "tags": [
       "Token",
       "Hardware"
+    ]
+  },
+  "Fusion": {
+    "name": "Fusion",
+    "short": "FSN",
+    "url": "/currencies/fusion",
+    "tags": [
+      "Coin",
+      "Platform",
+      "DeFi",
+      "Payments"
     ]
   },
   "Future1coin": {
@@ -7166,6 +7195,14 @@
       "Asset management",
       "Derivatives",
       "DeFi"
+    ]
+  },
+  "Levolution": {
+    "name": "Levolution",
+    "short": "LEVL",
+    "url": "/currencies/levolution",
+    "tags": [
+      "Token"
     ]
   },
   "Libfx": {
