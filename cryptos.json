@@ -1205,6 +1205,14 @@
       "Token"
     ]
   },
+  "BOMB": {
+    "name": "BOMB",
+    "short": "BOMB",
+    "url": "/currencies/bomb",
+    "tags": [
+      "Token"
+    ]
+  },
   "BOOM": {
     "name": "BOOM",
     "short": "BOOM",
@@ -2344,6 +2352,14 @@
     "name": "Bulleon",
     "short": "BUL",
     "url": "/currencies/bulleon",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Burency": {
+    "name": "Burency",
+    "short": "BUY",
+    "url": "/currencies/burency",
     "tags": [
       "Token"
     ]
@@ -5387,6 +5403,14 @@
       "Mineable"
     ]
   },
+  "Feellike": {
+    "name": "Feellike",
+    "short": "FLL",
+    "url": "/currencies/feellike",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ferrum Network": {
     "name": "Ferrum Network",
     "short": "FRM",
@@ -5814,6 +5838,14 @@
     "url": "/currencies/gazecoin",
     "tags": [
       "Token"
+    ]
+  },
+  "Gbrick": {
+    "name": "Gbrick",
+    "short": "GBX",
+    "url": "/currencies/gbrick",
+    "tags": [
+      "Coin"
     ]
   },
   "Geeq": {
@@ -8230,6 +8262,15 @@
       "DApp"
     ]
   },
+  "Merebel": {
+    "name": "Merebel",
+    "short": "MERI",
+    "url": "/currencies/merebel",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "MesChain": {
     "name": "MesChain",
     "short": "MES",
@@ -8353,6 +8394,15 @@
       "Scrypt"
     ]
   },
+  "Mirai": {
+    "name": "Mirai",
+    "short": "MRI",
+    "url": "/currencies/mirai",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Mithril": {
     "name": "Mithril",
     "short": "MITH",
@@ -8404,6 +8454,14 @@
     "name": "Mobile Crypto Pay Coin",
     "short": "MCPC",
     "url": "/currencies/mobile-crypto-pay-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Mochimo": {
+    "name": "Mochimo",
+    "short": "MCM",
+    "url": "/currencies/mochimo",
     "tags": [
       "Coin"
     ]
@@ -8599,6 +8657,14 @@
       "Coin"
     ]
   },
+  "Multicoin": {
+    "name": "Multicoin",
+    "short": "MTCN",
+    "url": "/currencies/multicoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "MyTVchain": {
     "name": "MyTVchain",
     "short": "MYTV",
@@ -8613,6 +8679,14 @@
     "url": "/currencies/ndn-link",
     "tags": [
       "Token"
+    ]
+  },
+  "NEAR Protocol": {
+    "name": "NEAR Protocol",
+    "short": "NEAR",
+    "url": "/currencies/near-protocol",
+    "tags": [
+      "Coin"
     ]
   },
   "NEM": {
@@ -8821,6 +8895,14 @@
       "Token",
       "Asset management",
       "Crowdfunding"
+    ]
+  },
+  "NeuroChain": {
+    "name": "NeuroChain",
+    "short": "NCC",
+    "url": "/currencies/neurochain",
+    "tags": [
+      "Token"
     ]
   },
   "NevaCoin": {
@@ -12610,6 +12692,14 @@
       "Token"
     ]
   },
+  "UltrAlpha": {
+    "name": "UltrAlpha",
+    "short": "UAT",
+    "url": "/currencies/ultralpha",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ultra": {
     "name": "Ultra",
     "short": "UOS",
@@ -12715,6 +12805,17 @@
     "url": "/currencies/unit-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "United Traders Token": {
+    "name": "United Traders Token",
+    "short": "UTT",
+    "url": "/currencies/uttoken",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Payments",
+      "Smart Contracts"
     ]
   },
   "Universa": {
@@ -13773,6 +13874,14 @@
       "Token"
     ]
   },
+  "Yfscience": {
+    "name": "Yfscience",
+    "short": "YFSI",
+    "url": "/currencies/yfscience",
+    "tags": [
+      "Token"
+    ]
+  },
   "Yield Farming Known as Ash": {
     "name": "Yield Farming Known as Ash",
     "short": "YFKA",
@@ -13989,6 +14098,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Zero": {
+    "name": "Zero",
+    "short": "ZER",
+    "url": "/currencies/zero",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Equihash"
     ]
   },
   "Zetacoin": {
