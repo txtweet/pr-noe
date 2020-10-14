@@ -3499,6 +3499,20 @@
       "Binance Smart Chain"
     ]
   },
+  "Curecoin": {
+    "name": "Curecoin",
+    "short": "CURE",
+    "url": "/currencies/curecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "Education",
+      "Distributed Computing",
+      "Research"
+    ]
+  },
   "Curio": {
     "name": "Curio",
     "short": "CUR",
@@ -3651,6 +3665,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "DEONEX COIN": {
+    "name": "DEONEX COIN",
+    "short": "DON",
+    "url": "/currencies/deonex-coin",
+    "tags": [
+      "Token"
     ]
   },
   "DNotes": {
@@ -10550,6 +10572,14 @@
       "X11GOST"
     ]
   },
+  "SIMBA Storage Token": {
+    "name": "SIMBA Storage Token",
+    "short": "SST",
+    "url": "/currencies/simba-storage-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "SIX": {
     "name": "SIX",
     "short": "SIX",
@@ -14079,6 +14109,14 @@
     "name": "happy birthday coin",
     "short": "HBDC",
     "url": "/currencies/happy-birthday-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "hybrix": {
+    "name": "hybrix",
+    "short": "HY",
+    "url": "/currencies/hybrix",
     "tags": [
       "Token"
     ]
