@@ -2086,6 +2086,18 @@
       "Smart Contracts"
     ]
   },
+  "Bluzelle": {
+    "name": "Bluzelle",
+    "short": "BLZ",
+    "url": "/currencies/bluzelle",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "Smart Contracts"
+    ]
+  },
   "BnkToTheFuture": {
     "name": "BnkToTheFuture",
     "short": "BFT",
@@ -8765,6 +8777,16 @@
       "NeoScrypt"
     ]
   },
+  "Orbs": {
+    "name": "Orbs",
+    "short": "ORBS",
+    "url": "/currencies/orbs",
+    "tags": [
+      "Token",
+      "Services",
+      "Enterprise solutions"
+    ]
+  },
   "Orchid": {
     "name": "Orchid",
     "short": "OXT",
@@ -11652,6 +11674,14 @@
       "Coin"
     ]
   },
+  "Trading Membership Community": {
+    "name": "Trading Membership Community",
+    "short": "TMC",
+    "url": "/currencies/trading-membership-community",
+    "tags": [
+      "Token"
+    ]
+  },
   "TransferCoin": {
     "name": "TransferCoin",
     "short": "TX",
@@ -11668,6 +11698,15 @@
     "url": "/currencies/tratok",
     "tags": [
       "Token"
+    ]
+  },
+  "Travala.com": {
+    "name": "Travala.com",
+    "short": "AVA",
+    "url": "/currencies/travala",
+    "tags": [
+      "Token",
+      "Hospitality"
     ]
   },
   "Travel1Click": {
@@ -11848,6 +11887,17 @@
     "url": "/currencies/ucx-foundation",
     "tags": [
       "Token"
+    ]
+  },
+  "USDK": {
+    "name": "USDK",
+    "short": "USDK",
+    "url": "/currencies/usdk",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "USDQ": {
