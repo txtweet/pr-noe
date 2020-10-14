@@ -1392,6 +1392,14 @@
       "Privacy"
     ]
   },
+  "Bellevue Network": {
+    "name": "Bellevue Network",
+    "short": "BLV",
+    "url": "/currencies/bellevue-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
     "short": "BNP",
@@ -2313,6 +2321,14 @@
     "url": "/currencies/cutcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "CY Finance": {
+    "name": "CY Finance",
+    "short": "CYF",
+    "url": "/currencies/cy-finance",
+    "tags": [
+      "Token"
     ]
   },
   "CYCLEAN": {
