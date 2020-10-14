@@ -4511,6 +4511,14 @@
       "Token"
     ]
   },
+  "Eight Hours": {
+    "name": "Eight Hours",
+    "short": "EHRT",
+    "url": "/currencies/eight-hours",
+    "tags": [
+      "Token"
+    ]
+  },
   "Electra": {
     "name": "Electra",
     "short": "ECA",
@@ -5133,6 +5141,15 @@
     "url": "/currencies/farmatrust",
     "tags": [
       "Token"
+    ]
+  },
+  "Ferrum Network": {
+    "name": "Ferrum Network",
+    "short": "FRM",
+    "url": "/currencies/ferrum-network",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "Fesschain": {
@@ -9921,6 +9938,14 @@
       "Token"
     ]
   },
+  "Robonomics.network": {
+    "name": "Robonomics.network",
+    "short": "XRT",
+    "url": "/currencies/robonomics-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Rocket Pool": {
     "name": "Rocket Pool",
     "short": "RPL",
@@ -10815,6 +10840,14 @@
     "name": "StarCoin",
     "short": "KST",
     "url": "/currencies/starcointv",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Starname": {
+    "name": "Starname",
+    "short": "IOV",
+    "url": "/currencies/starname",
     "tags": [
       "Coin"
     ]
