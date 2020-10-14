@@ -3918,6 +3918,15 @@
       "Payments"
     ]
   },
+  "Dynamic Trading Rights": {
+    "name": "Dynamic Trading Rights",
+    "short": "DTR",
+    "url": "/currencies/dynamic-trading-rights",
+    "tags": [
+      "Token",
+      "Marketplace"
+    ]
+  },
   "Dystem": {
     "name": "Dystem",
     "short": "DTEM",
@@ -9902,6 +9911,14 @@
       "Marketplace",
       "AI & Big Data",
       "Payments"
+    ]
+  },
+  "Skrumble Network": {
+    "name": "Skrumble Network",
+    "short": "SKM",
+    "url": "/currencies/skrumble-network",
+    "tags": [
+      "Token"
     ]
   },
   "Skycoin": {
