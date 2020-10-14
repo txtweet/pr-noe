@@ -732,6 +732,14 @@
       "PoW"
     ]
   },
+  "Antiample": {
+    "name": "Antiample",
+    "short": "XAMP",
+    "url": "/currencies/antiample",
+    "tags": [
+      "Token"
+    ]
+  },
   "Apollo Currency": {
     "name": "Apollo Currency",
     "short": "APL",
@@ -3696,6 +3704,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Dogz": {
+    "name": "Dogz",
+    "short": "DOGZ",
+    "url": "/currencies/dogz",
+    "tags": [
+      "Coin"
     ]
   },
   "Dollars": {
@@ -7308,6 +7324,14 @@
       "Coin"
     ]
   },
+  "Modex": {
+    "name": "Modex",
+    "short": "MODEX",
+    "url": "/currencies/modex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Moeda Loyalty Points": {
     "name": "Moeda Loyalty Points",
     "short": "MDA",
@@ -8466,6 +8490,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Plair": {
+    "name": "Plair",
+    "short": "PLA",
+    "url": "/currencies/plair",
+    "tags": [
+      "Token"
     ]
   },
   "PlayFuel": {
