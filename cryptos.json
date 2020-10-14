@@ -6392,6 +6392,17 @@
       "Token"
     ]
   },
+  "IoT Chain": {
+    "name": "IoT Chain",
+    "short": "ITC",
+    "url": "/currencies/iot-chain",
+    "tags": [
+      "Token",
+      "Platform",
+      "IoT",
+      "Smart Contracts"
+    ]
+  },
   "Iridium": {
     "name": "Iridium",
     "short": "IRD",
@@ -6816,6 +6827,14 @@
     "tags": [
       "Token",
       "Philanthropy"
+    ]
+  },
+  "LINK": {
+    "name": "LINK",
+    "short": "LN",
+    "url": "/currencies/link",
+    "tags": [
+      "Coin"
     ]
   },
   "LINK Profit Taker Set": {
@@ -8608,6 +8627,17 @@
       "Token"
     ]
   },
+  "PLNcoin": {
+    "name": "PLNcoin",
+    "short": "PLNC",
+    "url": "/currencies/plncoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "POP Network Token": {
     "name": "POP Network Token",
     "short": "POP",
@@ -10247,6 +10277,14 @@
       "Marketing"
     ]
   },
+  "SoPay": {
+    "name": "SoPay",
+    "short": "SOP",
+    "url": "/currencies/sopay",
+    "tags": [
+      "Token"
+    ]
+  },
   "Social Send": {
     "name": "Social Send",
     "short": "SEND",
@@ -10966,6 +11004,14 @@
       "DeFi",
       "Payments",
       "Stablecoin - Algorithmically-Stabilized"
+    ]
+  },
+  "TerraKRW": {
+    "name": "TerraKRW",
+    "short": "KRT",
+    "url": "/currencies/terra-krw",
+    "tags": [
+      "Coin"
     ]
   },
   "Tesra": {
@@ -11828,6 +11874,16 @@
     "url": "/currencies/velo",
     "tags": [
       "Token"
+    ]
+  },
+  "Veltor": {
+    "name": "Veltor",
+    "short": "VLT",
+    "url": "/currencies/veltor",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW"
     ]
   },
   "Venus": {
