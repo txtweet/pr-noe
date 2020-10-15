@@ -2216,6 +2216,14 @@
       "X11"
     ]
   },
+  "Bluekey": {
+    "name": "Bluekey",
+    "short": "BKY",
+    "url": "/currencies/bluekey",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bluzelle": {
     "name": "Bluzelle",
     "short": "BLZ",
@@ -2986,6 +2994,14 @@
       "Scrypt"
     ]
   },
+  "CoFiX": {
+    "name": "CoFiX",
+    "short": "COFI",
+    "url": "/currencies/cofix",
+    "tags": [
+      "Token"
+    ]
+  },
   "CoTrader": {
     "name": "CoTrader",
     "short": "COT",
@@ -3332,6 +3348,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Creditcoin": {
+    "name": "Creditcoin",
+    "short": "CTC",
+    "url": "/currencies/creditcoin",
+    "tags": [
+      "Coin",
+      "DeFi"
     ]
   },
   "Credo": {
@@ -5598,6 +5623,14 @@
       "Token"
     ]
   },
+  "Flit Token": {
+    "name": "Flit Token",
+    "short": "FLT",
+    "url": "/currencies/flit-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Flits": {
     "name": "Flits",
     "short": "FLS",
@@ -6948,6 +6981,14 @@
       "Coin"
     ]
   },
+  "Imsmart": {
+    "name": "Imsmart",
+    "short": "IMT",
+    "url": "/currencies/imsmart",
+    "tags": [
+      "Token"
+    ]
+  },
   "Index Chain": {
     "name": "Index Chain",
     "short": "IDX",
@@ -7149,6 +7190,18 @@
       "Platform",
       "IoT",
       "Smart Contracts"
+    ]
+  },
+  "IoTeX": {
+    "name": "IoTeX",
+    "short": "IOTX",
+    "url": "/currencies/iotex",
+    "tags": [
+      "Coin",
+      "Platform",
+      "IoT",
+      "IoT",
+      "DeFi"
     ]
   },
   "Iridium": {
@@ -8997,6 +9050,14 @@
       "Mineable"
     ]
   },
+  "Nebula AI": {
+    "name": "Nebula AI",
+    "short": "NBAI",
+    "url": "/currencies/nebula-ai",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Nebulas": {
     "name": "Nebulas",
     "short": "NAS",
@@ -10408,6 +10469,15 @@
       "Token"
     ]
   },
+  "QYNO": {
+    "name": "QYNO",
+    "short": "QNO",
+    "url": "/currencies/qyno",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Qbao": {
     "name": "Qbao",
     "short": "QBT",
@@ -10651,6 +10721,17 @@
     "tags": [
       "Token",
       "Marketing"
+    ]
+  },
+  "Refereum": {
+    "name": "Refereum",
+    "short": "RFR",
+    "url": "/currencies/refereum",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation",
+      "Gaming"
     ]
   },
   "Release Project": {
@@ -12258,6 +12339,14 @@
       "Token"
     ]
   },
+  "Tamy Token": {
+    "name": "Tamy Token",
+    "short": "TMT",
+    "url": "/currencies/tamy-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Tcbcoin": {
     "name": "Tcbcoin",
     "short": "TCFX",
@@ -12789,6 +12878,15 @@
     "url": "/currencies/truefeedback",
     "tags": [
       "Token"
+    ]
+  },
+  "TrueFlip": {
+    "name": "TrueFlip",
+    "short": "TFL",
+    "url": "/currencies/trueflip",
+    "tags": [
+      "Token",
+      "Gambling"
     ]
   },
   "TrueUSD": {
@@ -13470,6 +13568,14 @@
       "Token"
     ]
   },
+  "W Green Pay": {
+    "name": "W Green Pay",
+    "short": "WGP",
+    "url": "/currencies/w-green-pay",
+    "tags": [
+      "Token"
+    ]
+  },
   "WABnetwork": {
     "name": "WABnetwork",
     "short": "WAB",
@@ -13635,6 +13741,16 @@
     "url": "/currencies/wenburn",
     "tags": [
       "Token"
+    ]
+  },
+  "WhiteCoin": {
+    "name": "WhiteCoin",
+    "short": "XWC",
+    "url": "/currencies/whitecoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "WhiteRockCasino": {
@@ -14838,6 +14954,15 @@
     "url": "/currencies/xbtc",
     "tags": [
       "Token"
+    ]
+  },
+  "xDai": {
+    "name": "xDai",
+    "short": "STAKE",
+    "url": "/currencies/xdai",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "xscoin": {
