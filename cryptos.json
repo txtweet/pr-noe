@@ -136,6 +136,14 @@
       "Token"
     ]
   },
+  "3X Short Bitcoin Token": {
+    "name": "3X Short Bitcoin Token",
+    "short": "BEAR",
+    "url": "/currencies/3x-short-bitcoin-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
     "short": "LINKBEAR",
@@ -1140,6 +1148,14 @@
       "Token"
     ]
   },
+  "BEAT": {
+    "name": "BEAT",
+    "short": "BEAT",
+    "url": "/currencies/beat",
+    "tags": [
+      "Token"
+    ]
+  },
   "BERNcash": {
     "name": "BERNcash",
     "short": "BERN",
@@ -2057,6 +2073,14 @@
     "url": "/currencies/bitopro-exchange-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Bitradio": {
+    "name": "Bitradio",
+    "short": "BRO",
+    "url": "/currencies/bitradio",
+    "tags": [
+      "Coin"
     ]
   },
   "Bitsdaq": {
@@ -3049,6 +3073,16 @@
       "Medium of Exchange"
     ]
   },
+  "CloakCoin": {
+    "name": "CloakCoin",
+    "short": "CLOAK",
+    "url": "/currencies/cloakcoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X13"
+    ]
+  },
   "ClubCoin": {
     "name": "ClubCoin",
     "short": "CLUB",
@@ -3304,6 +3338,14 @@
     "name": "Coni",
     "short": "CONI",
     "url": "/currencies/coni",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ConnectJob": {
+    "name": "ConnectJob",
+    "short": "CJT",
+    "url": "/currencies/connectjob",
     "tags": [
       "Token"
     ]
@@ -4049,6 +4091,14 @@
       "Coin"
     ]
   },
+  "DeFi Firefly": {
+    "name": "DeFi Firefly",
+    "short": "DFF",
+    "url": "/currencies/defi-firefly",
+    "tags": [
+      "Coin"
+    ]
+  },
   "DeFiChain": {
     "name": "DeFiChain",
     "short": "DFI",
@@ -4640,6 +4690,14 @@
       "Token"
     ]
   },
+  "EBCoin": {
+    "name": "EBCoin",
+    "short": "EBC",
+    "url": "/currencies/ebcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "ECOChain": {
     "name": "ECOChain",
     "short": "ECOC",
@@ -5171,6 +5229,21 @@
       "DAO"
     ]
   },
+  "Energy Web Token": {
+    "name": "Energy Web Token",
+    "short": "EWT",
+    "url": "/currencies/energy-web-token",
+    "tags": [
+      "Coin",
+      "Energy",
+      "Enterprise solutions",
+      "Identity",
+      "Substrate",
+      "Energy",
+      "Identity",
+      "Enterprise solutions"
+    ]
+  },
   "Energycoin": {
     "name": "Energycoin",
     "short": "ENRG",
@@ -5217,6 +5290,18 @@
     "url": "/currencies/entercoin",
     "tags": [
       "Token"
+    ]
+  },
+  "Ergo": {
+    "name": "Ergo",
+    "short": "ERG",
+    "url": "/currencies/ergo",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Platform",
+      "DApp"
     ]
   },
   "Eska": {
@@ -6961,6 +7046,14 @@
       "Decentralized exchange"
     ]
   },
+  "IDK": {
+    "name": "IDK",
+    "short": "IDK",
+    "url": "/currencies/idk",
+    "tags": [
+      "Token"
+    ]
+  },
   "IFX24": {
     "name": "IFX24",
     "short": "IFX24",
@@ -7770,6 +7863,15 @@
     "tags": [
       "Coin",
       "Smart Contracts",
+      "Substrate"
+    ]
+  },
+  "Kusama": {
+    "name": "Kusama",
+    "short": "KSM",
+    "url": "/currencies/kusama",
+    "tags": [
+      "Coin",
       "Substrate"
     ]
   },
@@ -9081,6 +9183,14 @@
       "Token"
     ]
   },
+  "NANJCOIN": {
+    "name": "NANJCOIN",
+    "short": "NANJ",
+    "url": "/currencies/nanjcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "NDN Link": {
     "name": "NDN Link",
     "short": "NDN",
@@ -9788,6 +9898,14 @@
     "name": "Orchid",
     "short": "OXT",
     "url": "/currencies/orchid",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Origin Dollar": {
+    "name": "Origin Dollar",
+    "short": "OUSD",
+    "url": "/currencies/origin-dollar",
     "tags": [
       "Token"
     ]
@@ -11452,6 +11570,14 @@
       "Scrypt",
       "Marketplace",
       "Staking"
+    ]
+  },
+  "Samurai": {
+    "name": "Samurai",
+    "short": "SAM",
+    "url": "/currencies/samurai",
+    "tags": [
+      "Token"
     ]
   },
   "Santiment Network Token": {
@@ -13694,6 +13820,14 @@
       "Token"
     ]
   },
+  "Value DeFi Protocol": {
+    "name": "Value DeFi Protocol",
+    "short": "VALUE",
+    "url": "/currencies/value-defi-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Vanywhere": {
     "name": "Vanywhere",
     "short": "VANY",
@@ -14081,6 +14215,16 @@
     "url": "/currencies/wesing-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "WeTrust": {
+    "name": "WeTrust",
+    "short": "TRST",
+    "url": "/currencies/trust",
+    "tags": [
+      "Token",
+      "Platform",
+      "Smart Contracts"
     ]
   },
   "Wenburn": {
@@ -15301,6 +15445,15 @@
       "Platform",
       "Discount token",
       "Smart Contracts"
+    ]
+  },
+  "vSlice": {
+    "name": "vSlice",
+    "short": "VSL",
+    "url": "/currencies/vslice",
+    "tags": [
+      "Token",
+      "Gambling"
     ]
   },
   "weBloc": {
