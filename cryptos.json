@@ -632,6 +632,14 @@
       "Token"
     ]
   },
+  "AfroDex": {
+    "name": "AfroDex",
+    "short": "AfroX",
+    "url": "/currencies/afrodex",
+    "tags": [
+      "Token"
+    ]
+  },
   "AgaveCoin": {
     "name": "AgaveCoin",
     "short": "AGVC",
@@ -2332,6 +2340,17 @@
     "url": "/currencies/blaze-network",
     "tags": [
       "Token"
+    ]
+  },
+  "BlazerCoin": {
+    "name": "BlazerCoin",
+    "short": "BLAZR",
+    "url": "/currencies/blazercoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Blocery": {
@@ -9989,6 +10008,15 @@
       "Token"
     ]
   },
+  "Multiplier": {
+    "name": "Multiplier",
+    "short": "MXX",
+    "url": "/currencies/multiplier",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "MyTVchain": {
     "name": "MyTVchain",
     "short": "MYTV",
@@ -11805,6 +11833,14 @@
     "tags": [
       "Token",
       "Technology"
+    ]
+  },
+  "QOOBER": {
+    "name": "QOOBER",
+    "short": "QOOB",
+    "url": "/currencies/qoober",
+    "tags": [
+      "Token"
     ]
   },
   "QUINADS": {
@@ -14872,6 +14908,14 @@
       "Marketplace",
       "Payments",
       "Smart Contracts"
+    ]
+  },
+  "UnityDAO": {
+    "name": "UnityDAO",
+    "short": "UTY",
+    "url": "/currencies/unitydao",
+    "tags": [
+      "Token"
     ]
   },
   "Universa": {
