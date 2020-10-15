@@ -323,6 +323,14 @@
       "Token"
     ]
   },
+  "ALP Coin": {
+    "name": "ALP Coin",
+    "short": "ALP",
+    "url": "/currencies/alp-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "ALQO": {
     "name": "ALQO",
     "short": "XLQ",
@@ -393,6 +401,14 @@
     "name": "ARCS",
     "short": "ARX",
     "url": "/currencies/arcs",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ARMTOKEN": {
+    "name": "ARMTOKEN",
+    "short": "TARM",
+    "url": "/currencies/armtoken",
     "tags": [
       "Token"
     ]
@@ -598,6 +614,14 @@
     "url": "/currencies/affil-coin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Afri Union Coin": {
+    "name": "Afri Union Coin",
+    "short": "AUC",
+    "url": "/currencies/afri-union-coin",
+    "tags": [
+      "Token"
     ]
   },
   "AgaveCoin": {
@@ -2319,6 +2343,14 @@
       "Token"
     ]
   },
+  "Blockstack": {
+    "name": "Blockstack",
+    "short": "STX",
+    "url": "/currencies/blockstack",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Blocktix": {
     "name": "Blocktix",
     "short": "TIX",
@@ -2716,6 +2748,14 @@
       "DAG"
     ]
   },
+  "COVA": {
+    "name": "COVA",
+    "short": "COVA",
+    "url": "/currencies/cova",
+    "tags": [
+      "Token"
+    ]
+  },
   "COVIR.IO": {
     "name": "COVIR.IO",
     "short": "CVR",
@@ -2857,6 +2897,14 @@
     "url": "/currencies/caluracoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Camouflage.eth": {
+    "name": "Camouflage.eth",
+    "short": "CAMO",
+    "url": "/currencies/camouflage-eth",
+    "tags": [
+      "Token"
     ]
   },
   "CannabisCoin": {
@@ -3979,6 +4027,14 @@
       "Gambling"
     ]
   },
+  "DAOFi": {
+    "name": "DAOFi",
+    "short": "DAOFI",
+    "url": "/currencies/daofi",
+    "tags": [
+      "Token"
+    ]
+  },
   "DAPS Coin": {
     "name": "DAPS Coin",
     "short": "DAPS",
@@ -4062,6 +4118,17 @@
     "url": "/currencies/dmd",
     "tags": [
       "Token"
+    ]
+  },
+  "DMarket": {
+    "name": "DMarket",
+    "short": "DMT",
+    "url": "/currencies/dmarket",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Entertainment",
+      "Payments"
     ]
   },
   "DNotes": {
@@ -7087,6 +7154,25 @@
       "Crowdfunding"
     ]
   },
+  "HiCoin": {
+    "name": "HiCoin",
+    "short": "XHI",
+    "url": "/currencies/hicoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "Scrypt"
+    ]
+  },
+  "Hiblocks": {
+    "name": "Hiblocks",
+    "short": "HIBS",
+    "url": "/currencies/hiblocks",
+    "tags": [
+      "Token"
+    ]
+  },
   "High Voltage": {
     "name": "High Voltage",
     "short": "HVCO",
@@ -7382,6 +7468,14 @@
       "Platform",
       "Enterprise solutions",
       "Interoperability"
+    ]
+  },
+  "IDCM Token": {
+    "name": "IDCM Token",
+    "short": "IT",
+    "url": "/currencies/idcm-token",
+    "tags": [
+      "Token"
     ]
   },
   "IDEX Membership": {
@@ -8658,6 +8752,14 @@
       "Technology"
     ]
   },
+  "London Football Exchange": {
+    "name": "London Football Exchange",
+    "short": "LFEC",
+    "url": "/currencies/london-football-exchange",
+    "tags": [
+      "Token"
+    ]
+  },
   "Loopring": {
     "name": "Loopring",
     "short": "LRC",
@@ -9091,6 +9193,14 @@
       "Platform",
       "Distributed Computing",
       "Staking"
+    ]
+  },
+  "Mazzuma": {
+    "name": "Mazzuma",
+    "short": "MAZ",
+    "url": "/currencies/mazzuma",
+    "tags": [
+      "Coin"
     ]
   },
   "Mchain": {
@@ -12633,6 +12743,16 @@
       "Filesharing"
     ]
   },
+  "SingularDTV": {
+    "name": "SingularDTV",
+    "short": "SNGLS",
+    "url": "/currencies/singulardtv",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation"
+    ]
+  },
   "SingularityNET": {
     "name": "SingularityNET",
     "short": "AGI",
@@ -13478,6 +13598,16 @@
     "url": "/currencies/tacos",
     "tags": [
       "Token"
+    ]
+  },
+  "Tael": {
+    "name": "Tael",
+    "short": "WABI",
+    "url": "/currencies/tael",
+    "tags": [
+      "Token",
+      "Logistics",
+      "Data Provenance"
     ]
   },
   "TagCoin": {
@@ -15673,6 +15803,14 @@
       "Token"
     ]
   },
+  "YieldWars": {
+    "name": "YieldWars",
+    "short": "WAR",
+    "url": "/currencies/yieldwars-com",
+    "tags": [
+      "Token"
+    ]
+  },
   "YoloCash": {
     "name": "YoloCash",
     "short": "YLC",
@@ -16015,6 +16153,14 @@
     "name": "dKargo",
     "short": "DKA",
     "url": "/currencies/dkargo",
+    "tags": [
+      "Token"
+    ]
+  },
+  "deCraft Finance": {
+    "name": "deCraft Finance",
+    "short": "CRAFT",
+    "url": "/currencies/decraft-finance",
     "tags": [
       "Token"
     ]
