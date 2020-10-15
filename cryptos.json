@@ -248,6 +248,17 @@
       "Token"
     ]
   },
+  "42-coin": {
+    "name": "42-coin",
+    "short": "42",
+    "url": "/currencies/42-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "4NEW": {
     "name": "4NEW",
     "short": "KWATT",
@@ -788,6 +799,14 @@
     "name": "Alpha Token",
     "short": "A",
     "url": "/currencies/alpha-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Alphacat": {
+    "name": "Alphacat",
+    "short": "ACAT",
+    "url": "/currencies/alphacat",
     "tags": [
       "Token"
     ]
@@ -5147,6 +5166,21 @@
       "Token"
     ]
   },
+  "Elastos": {
+    "name": "Elastos",
+    "short": "ELA",
+    "url": "/currencies/elastos",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "State channels",
+      "Cybersecurity",
+      "Technology"
+    ]
+  },
   "Electra": {
     "name": "Electra",
     "short": "ECA",
@@ -6086,6 +6120,14 @@
       "Scrypt"
     ]
   },
+  "Freight Trust & Clearing Network": {
+    "name": "Freight Trust & Clearing Network",
+    "short": "EDI",
+    "url": "/currencies/freight-trust-clearing-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Frens Community": {
     "name": "Frens Community",
     "short": "FRENS",
@@ -6794,6 +6836,15 @@
       "Marketplace",
       "Education",
       "PoA"
+    ]
+  },
+  "HalalChain": {
+    "name": "HalalChain",
+    "short": "HLC",
+    "url": "/currencies/halalchain",
+    "tags": [
+      "Token",
+      "Logistics"
     ]
   },
   "Halo Platform": {
@@ -8365,6 +8416,14 @@
       "Marketplace"
     ]
   },
+  "Litecash": {
+    "name": "Litecash",
+    "short": "CASH",
+    "url": "/currencies/litecash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Litecoin": {
     "name": "Litecoin",
     "short": "LTC",
@@ -9496,6 +9555,15 @@
     "url": "/currencies/noizchain",
     "tags": [
       "Token"
+    ]
+  },
+  "NOODLE Finance": {
+    "name": "NOODLE Finance",
+    "short": "NOODLE",
+    "url": "/currencies/noodle-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
     ]
   },
   "NOVA": {
@@ -10836,6 +10904,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "PointPay": {
+    "name": "PointPay",
+    "short": "PXP",
+    "url": "/currencies/pointpay",
+    "tags": [
+      "Token"
     ]
   },
   "Polis": {
@@ -14459,6 +14535,15 @@
       "Token"
     ]
   },
+  "VoteCoin": {
+    "name": "VoteCoin",
+    "short": "VOT",
+    "url": "/currencies/votecoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Voyager Token": {
     "name": "Voyager Token",
     "short": "VGX",
@@ -14616,6 +14701,21 @@
     "tags": [
       "Coin",
       "Platform"
+    ]
+  },
+  "WeOwn": {
+    "name": "WeOwn",
+    "short": "CHX",
+    "url": "/currencies/we-own",
+    "tags": [
+      "Coin",
+      "Asset management",
+      "Retail",
+      "Marketplace",
+      "Platform",
+      "Services",
+      "Smart Contracts",
+      "Staking"
     ]
   },
   "WePower": {
@@ -15125,6 +15225,14 @@
     "name": "YFMoonBeam",
     "short": "YFMB",
     "url": "/currencies/yfmoonbeam",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFMoonshot": {
+    "name": "YFMoonshot",
+    "short": "YFMS",
+    "url": "/currencies/yfmoonshot",
     "tags": [
       "Token"
     ]
@@ -15889,6 +15997,14 @@
     "name": "suterusu",
     "short": "SUTER",
     "url": "/currencies/suterusu",
+    "tags": [
+      "Token"
+    ]
+  },
+  "tomatos.finance": {
+    "name": "tomatos.finance",
+    "short": "TOMATOS",
+    "url": "/currencies/tomatos-finance",
     "tags": [
       "Token"
     ]
