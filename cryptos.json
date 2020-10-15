@@ -453,6 +453,14 @@
       "Coin"
     ]
   },
+  "AZBI CORE": {
+    "name": "AZBI CORE",
+    "short": "AZBI",
+    "url": "/currencies/azbi-core",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aave": {
     "name": "Aave",
     "short": "AAVE",
@@ -3956,6 +3964,18 @@
       "Scrypt"
     ]
   },
+  "DOC.COM": {
+    "name": "DOC.COM",
+    "short": "MTC",
+    "url": "/currencies/doc-com",
+    "tags": [
+      "Token",
+      "Health",
+      "Marketplace",
+      "AI & Big Data",
+      "Payments"
+    ]
+  },
   "DOGEFI": {
     "name": "DOGEFI",
     "short": "DOGEFI",
@@ -5756,6 +5776,14 @@
       "Coin"
     ]
   },
+  "FansTime": {
+    "name": "FansTime",
+    "short": "FTI",
+    "url": "/currencies/fanstime",
+    "tags": [
+      "Token"
+    ]
+  },
   "FarmaTrust": {
     "name": "FarmaTrust",
     "short": "FTT",
@@ -6675,6 +6703,14 @@
       "PoA"
     ]
   },
+  "Halo Platform": {
+    "name": "Halo Platform",
+    "short": "HALO",
+    "url": "/currencies/halo-platform",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Hamebi Token": {
     "name": "Hamebi Token",
     "short": "HMB",
@@ -6928,6 +6964,14 @@
       "Token",
       "Platform",
       "Content Creation"
+    ]
+  },
+  "Humanscape": {
+    "name": "Humanscape",
+    "short": "HUM",
+    "url": "/currencies/humanscape",
+    "tags": [
+      "Token"
     ]
   },
   "Huobi Pool Token": {
@@ -9685,6 +9729,17 @@
       "Coin"
     ]
   },
+  "ODE": {
+    "name": "ODE",
+    "short": "ODE",
+    "url": "/currencies/ode",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Payments",
+      "Derivatives"
+    ]
+  },
   "ODUWA": {
     "name": "ODUWA",
     "short": "OWC",
@@ -11736,6 +11791,20 @@
     "url": "/currencies/savetoken",
     "tags": [
       "Token"
+    ]
+  },
+  "ScPrime": {
+    "name": "ScPrime",
+    "short": "SCP",
+    "url": "/currencies/scprime",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Blake2b",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing"
     ]
   },
   "Scala": {
@@ -15517,6 +15586,14 @@
     "name": "sCEX",
     "short": "SCEX",
     "url": "/currencies/scex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sLINK": {
+    "name": "sLINK",
+    "short": "sLINK",
+    "url": "/currencies/slink",
     "tags": [
       "Token"
     ]
