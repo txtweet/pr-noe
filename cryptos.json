@@ -8449,6 +8449,14 @@
       "Token"
     ]
   },
+  "MGC Token": {
+    "name": "MGC Token",
+    "short": "MGC",
+    "url": "/currencies/mgc-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "MIB Coin": {
     "name": "MIB Coin",
     "short": "MIB",
@@ -9533,6 +9541,15 @@
     "url": "/currencies/newtonium",
     "tags": [
       "Token"
+    ]
+  },
+  "Nexty": {
+    "name": "Nexty",
+    "short": "NTY",
+    "url": "/currencies/nexty",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Nexxo": {
@@ -13879,6 +13896,24 @@
       "Token"
     ]
   },
+  "ValueChain": {
+    "name": "ValueChain",
+    "short": "VLC",
+    "url": "/currencies/valuechain",
+    "tags": [
+      "Token",
+      "Adult",
+      "Payments"
+    ]
+  },
+  "Vampire Protocol": {
+    "name": "Vampire Protocol",
+    "short": "VAMP",
+    "url": "/currencies/vampire-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Vanywhere": {
     "name": "Vanywhere",
     "short": "VANY",
@@ -15446,6 +15481,14 @@
     "name": "sXAG",
     "short": "SXAG",
     "url": "/currencies/sxag",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sXRP": {
+    "name": "sXRP",
+    "short": "SXRP",
+    "url": "/currencies/sxrp",
     "tags": [
       "Token"
     ]
