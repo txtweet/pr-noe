@@ -312,6 +312,15 @@
       "Token"
     ]
   },
+  "ALQO": {
+    "name": "ALQO",
+    "short": "XLQ",
+    "url": "/currencies/alqo",
+    "tags": [
+      "Coin",
+      "Masternodes"
+    ]
+  },
   "AMATEN": {
     "name": "AMATEN",
     "short": "AMA",
@@ -13808,6 +13817,17 @@
     "url": "/currencies/ulgen-hash-power",
     "tags": [
       "Token"
+    ]
+  },
+  "Ultimate Secure Cash": {
+    "name": "Ultimate Secure Cash",
+    "short": "USC",
+    "url": "/currencies/ultimate-secure-cash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "SHA-256"
     ]
   },
   "UltrAlpha": {
