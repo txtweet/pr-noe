@@ -1,4 +1,12 @@
 {
+  "999": {
+    "name": "999",
+    "short": "999",
+    "url": "/currencies/999-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "0xBitcoin": {
     "name": "0xBitcoin",
     "short": "0xBTC",
@@ -859,6 +867,14 @@
       "Token"
     ]
   },
+  "Amon": {
+    "name": "Amon",
+    "short": "AMN",
+    "url": "/currencies/amon",
+    "tags": [
+      "Token"
+    ]
+  },
   "AmonD": {
     "name": "AmonD",
     "short": "AMON",
@@ -964,6 +980,15 @@
       "DAO",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Aragon Court": {
+    "name": "Aragon Court",
+    "short": "ANJ",
+    "url": "/currencies/aragon-court",
+    "tags": [
+      "Token",
+      "DAO"
     ]
   },
   "Arbidex": {
@@ -4581,6 +4606,14 @@
       "Token"
     ]
   },
+  "Defi Shopping Stake": {
+    "name": "Defi Shopping Stake",
+    "short": "DSS",
+    "url": "/currencies/defi-shopping-stake",
+    "tags": [
+      "Token"
+    ]
+  },
   "Definitex": {
     "name": "Definitex",
     "short": "DFX",
@@ -7471,6 +7504,14 @@
       "Coin"
     ]
   },
+  "Hubi Token": {
+    "name": "Hubi Token",
+    "short": "HUB",
+    "url": "/currencies/hubi-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hubii Network": {
     "name": "Hubii Network",
     "short": "HBT",
@@ -10146,6 +10187,21 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Nash Exchange": {
+    "name": "Nash Exchange",
+    "short": "NEX",
+    "url": "/currencies/nash-exchange",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Decentralized exchange",
+      "DeFi",
+      "Decentralized exchange",
+      "DeFi",
+      "State channels",
+      "Liechtenstein"
     ]
   },
   "Natmin Pure Escrow": {
@@ -13128,6 +13184,15 @@
       "Coin"
     ]
   },
+  "SocialCoin": {
+    "name": "SocialCoin",
+    "short": "SOCC",
+    "url": "/currencies/socialcoin-socc",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "SocialGood": {
     "name": "SocialGood",
     "short": "SG",
@@ -14350,6 +14415,14 @@
       "X11"
     ]
   },
+  "TranslateMe Network Token": {
+    "name": "TranslateMe Network Token",
+    "short": "TMN",
+    "url": "/currencies/translateme-network-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Tratok": {
     "name": "Tratok",
     "short": "TRAT",
@@ -15475,6 +15548,17 @@
       "Token"
     ]
   },
+  "Wild Beast Block": {
+    "name": "Wild Beast Block",
+    "short": "WBB",
+    "url": "/currencies/wild-beast-block",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "WinCash": {
     "name": "WinCash",
     "short": "WCC",
@@ -16142,6 +16226,17 @@
       "Token"
     ]
   },
+  "ZB Token": {
+    "name": "ZB Token",
+    "short": "ZB",
+    "url": "/currencies/zb-token",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Discount token",
+      "Payments"
+    ]
+  },
   "ZCore": {
     "name": "ZCore",
     "short": "ZCR",
@@ -16416,6 +16511,16 @@
       "Token"
     ]
   },
+  "carVertical": {
+    "name": "carVertical",
+    "short": "CV",
+    "url": "/currencies/carvertical",
+    "tags": [
+      "Token",
+      "Transport",
+      "Data Provenance"
+    ]
+  },
   "dForce GOLDx": {
     "name": "dForce GOLDx",
     "short": "GOLDX",
@@ -16649,6 +16754,14 @@
     "name": "sCEX",
     "short": "SCEX",
     "url": "/currencies/scex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sDEFI": {
+    "name": "sDEFI",
+    "short": "SDEFI",
+    "url": "/currencies/sdefi",
     "tags": [
       "Token"
     ]
