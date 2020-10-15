@@ -739,6 +739,14 @@
       "Token"
     ]
   },
+  "Alchemint Standards": {
+    "name": "Alchemint Standards",
+    "short": "SDS",
+    "url": "/currencies/alchemint-standards",
+    "tags": [
+      "Token"
+    ]
+  },
   "Alchemy": {
     "name": "Alchemy",
     "short": "ACOIN",
@@ -1405,6 +1413,14 @@
       "Token"
     ]
   },
+  "Baer Chain": {
+    "name": "Baer Chain",
+    "short": "BRC",
+    "url": "/currencies/baer-chain",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Baguette Token": {
     "name": "Baguette Token",
     "short": "BGTT",
@@ -1750,6 +1766,16 @@
       "Coin",
       "Marketplace",
       "Payments"
+    ]
+  },
+  "Binance GBP Stable Coin": {
+    "name": "Binance GBP Stable Coin",
+    "short": "BGBP",
+    "url": "/currencies/binance-gbp-stable-coin",
+    "tags": [
+      "Token",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "Bintex Futures": {
@@ -2971,6 +2997,14 @@
       "Token"
     ]
   },
+  "Catex Token": {
+    "name": "Catex Token",
+    "short": "CATT",
+    "url": "/currencies/catex-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ccore": {
     "name": "Ccore",
     "short": "CCO",
@@ -3301,6 +3335,14 @@
     "name": "Cointorox",
     "short": "OROX",
     "url": "/currencies/cointorox",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Coinzo Token": {
+    "name": "Coinzo Token",
+    "short": "CNZ",
+    "url": "/currencies/coinzo-token",
     "tags": [
       "Token"
     ]
@@ -4223,6 +4265,14 @@
       "Coin"
     ]
   },
+  "DeFi Insurance Protocol": {
+    "name": "DeFi Insurance Protocol",
+    "short": "DFIP",
+    "url": "/currencies/defi-insurance-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "DeFiChain": {
     "name": "DeFiChain",
     "short": "DFI",
@@ -4370,6 +4420,14 @@
     "name": "Defis Network",
     "short": "DFS",
     "url": "/currencies/defis-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DegenVC": {
+    "name": "DegenVC",
+    "short": "DGVC",
+    "url": "/currencies/degenvc",
     "tags": [
       "Token"
     ]
@@ -5974,6 +6032,14 @@
       "Token"
     ]
   },
+  "Filenet": {
+    "name": "Filenet",
+    "short": "FN",
+    "url": "/currencies/filenet",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Finswap": {
     "name": "Finswap",
     "short": "FNSP",
@@ -5994,6 +6060,14 @@
     "name": "Fire Lotto",
     "short": "FLOT",
     "url": "/currencies/fire-lotto",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Fireball": {
+    "name": "Fireball",
+    "short": "FIRE",
+    "url": "/currencies/fireball",
     "tags": [
       "Token"
     ]
@@ -6443,6 +6517,15 @@
     "url": "/currencies/gene-source-code-chain",
     "tags": [
       "Token"
+    ]
+  },
+  "Gentarium": {
+    "name": "Gentarium",
+    "short": "GTM",
+    "url": "/currencies/gentarium",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "GeoCoin": {
@@ -7347,6 +7430,14 @@
       "IoT"
     ]
   },
+  "IONChain": {
+    "name": "IONChain",
+    "short": "IONC",
+    "url": "/currencies/ionchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "IOOX System": {
     "name": "IOOX System",
     "short": "IOOX",
@@ -7685,6 +7776,14 @@
       "Token"
     ]
   },
+  "Invictus Hyperion Fund": {
+    "name": "Invictus Hyperion Fund",
+    "short": "IHF",
+    "url": "/currencies/invictus-hyperion-fund",
+    "tags": [
+      "Token"
+    ]
+  },
   "IoT Chain": {
     "name": "IoT Chain",
     "short": "ITC",
@@ -7857,6 +7956,15 @@
       "Token"
     ]
   },
+  "KIMCHI.finance": {
+    "name": "KIMCHI.finance",
+    "short": "KIMCHI",
+    "url": "/currencies/kimchi-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
+    ]
+  },
   "KNOW": {
     "name": "KNOW",
     "short": "KNOW",
@@ -7923,6 +8031,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Kambria": {
+    "name": "Kambria",
+    "short": "KAT",
+    "url": "/currencies/kambria",
+    "tags": [
+      "Token"
     ]
   },
   "Kappi Network": {
@@ -9771,6 +9887,14 @@
       "Token"
     ]
   },
+  "Neutrino System Base Token": {
+    "name": "Neutrino System Base Token",
+    "short": "NSBT",
+    "url": "/currencies/neutrino-system-base-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "NevaCoin": {
     "name": "NevaCoin",
     "short": "NEVA",
@@ -10633,6 +10757,14 @@
       "Token"
     ]
   },
+  "Peculium": {
+    "name": "Peculium",
+    "short": "PCL",
+    "url": "/currencies/peculium",
+    "tags": [
+      "Token"
+    ]
+  },
   "PeerEx": {
     "name": "PeerEx",
     "short": "PERX",
@@ -11180,6 +11312,15 @@
       "Enterprise solutions"
     ]
   },
+  "ProxyNode": {
+    "name": "ProxyNode",
+    "short": "PRX",
+    "url": "/currencies/proxynode",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "PumaPay": {
     "name": "PumaPay",
     "short": "PMA",
@@ -11262,6 +11403,14 @@
     "name": "QURA GLOBAL",
     "short": "QURA",
     "url": "/currencies/qura-global",
+    "tags": [
+      "Token"
+    ]
+  },
+  "QUSD": {
+    "name": "QUSD",
+    "short": "QUSD",
+    "url": "/currencies/qusd",
     "tags": [
       "Token"
     ]
@@ -11405,6 +11554,14 @@
       "Marketplace"
     ]
   },
+  "RING X PLATFORM": {
+    "name": "RING X PLATFORM",
+    "short": "RINGX",
+    "url": "/currencies/ring-x-platform",
+    "tags": [
+      "Coin"
+    ]
+  },
   "ROIyal Coin": {
     "name": "ROIyal Coin",
     "short": "ROCO",
@@ -11430,6 +11587,15 @@
       "Token",
       "Services",
       "Payments"
+    ]
+  },
+  "RSK Smart Bitcoin": {
+    "name": "RSK Smart Bitcoin",
+    "short": "RBTC",
+    "url": "/currencies/rsk-smart-bitcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "RabbitCoin": {
@@ -11868,6 +12034,14 @@
     "name": "SIMBA Storage Token",
     "short": "SST",
     "url": "/currencies/simba-storage-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SINERGIA": {
+    "name": "SINERGIA",
+    "short": "SNG",
+    "url": "/currencies/sinergia",
     "tags": [
       "Token"
     ]
@@ -12618,6 +12792,14 @@
       "Scrypt"
     ]
   },
+  "SonoCoin": {
+    "name": "SonoCoin",
+    "short": "SONO",
+    "url": "/currencies/sonocoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "SophiaTX": {
     "name": "SophiaTX",
     "short": "SPHTX",
@@ -12652,6 +12834,14 @@
     "tags": [
       "Token",
       "Technology"
+    ]
+  },
+  "Spaceswap": {
+    "name": "Spaceswap",
+    "short": "MILK2",
+    "url": "/currencies/spaceswap",
+    "tags": [
+      "Token"
     ]
   },
   "Sparkle Loyalty": {
@@ -12741,6 +12931,14 @@
       "Mineable",
       "PoW",
       "X11"
+    ]
+  },
+  "Squirrel Finance": {
+    "name": "Squirrel Finance",
+    "short": "NUTS",
+    "url": "/currencies/squirrel-finance",
+    "tags": [
+      "Token"
     ]
   },
   "Stafi": {
@@ -13652,6 +13850,14 @@
       "Token"
     ]
   },
+  "Token CashPay": {
+    "name": "Token CashPay",
+    "short": "TCP",
+    "url": "/currencies/token-cashpay",
+    "tags": [
+      "Token"
+    ]
+  },
   "TokenBacon": {
     "name": "TokenBacon",
     "short": "BAK",
@@ -14118,6 +14324,14 @@
     "name": "UniPower",
     "short": "POWER",
     "url": "/currencies/unipower",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Unibomb": {
+    "name": "Unibomb",
+    "short": "UBOMB",
+    "url": "/currencies/unibomb",
     "tags": [
       "Token"
     ]
@@ -14915,6 +15129,14 @@
     "url": "/currencies/wowbit",
     "tags": [
       "Token"
+    ]
+  },
+  "Wownero": {
+    "name": "Wownero",
+    "short": "WOW",
+    "url": "/currencies/wownero",
+    "tags": [
+      "Coin"
     ]
   },
   "Wrapped Bitcoin": {
