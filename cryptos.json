@@ -3231,6 +3231,14 @@
       "Gambling"
     ]
   },
+  "CoinUs": {
+    "name": "CoinUs",
+    "short": "CNUS",
+    "url": "/currencies/coinus",
+    "tags": [
+      "Token"
+    ]
+  },
   "Coinlancer": {
     "name": "Coinlancer",
     "short": "CL",
@@ -6775,6 +6783,14 @@
       "Token"
     ]
   },
+  "Hathor": {
+    "name": "Hathor",
+    "short": "HTR",
+    "url": "/currencies/hathor",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Havy": {
     "name": "Havy",
     "short": "HAVY",
@@ -10228,6 +10244,14 @@
       "Mineable"
     ]
   },
+  "PEPS Coin": {
+    "name": "PEPS Coin",
+    "short": "PEPS",
+    "url": "/currencies/peps-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "PHILLIPS PAY COIN": {
     "name": "PHILLIPS PAY COIN",
     "short": "PPC",
@@ -10663,6 +10687,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Pixie Coin": {
+    "name": "Pixie Coin",
+    "short": "PXC",
+    "url": "/currencies/pixie-coin",
+    "tags": [
+      "Token"
     ]
   },
   "Plair": {
@@ -12803,6 +12835,14 @@
       "Token",
       "Asset management",
       "Staking"
+    ]
+  },
+  "Switch": {
+    "name": "Switch",
+    "short": "ESH",
+    "url": "/currencies/switch",
+    "tags": [
+      "Token"
     ]
   },
   "SymVerse": {
