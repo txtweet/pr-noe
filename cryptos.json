@@ -1641,6 +1641,14 @@
       "Token"
     ]
   },
+  "BetterBetting": {
+    "name": "BetterBetting",
+    "short": "BETR",
+    "url": "/currencies/betterbetting",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bezant": {
     "name": "Bezant",
     "short": "BZNT",
@@ -4683,6 +4691,14 @@
       "Token"
     ]
   },
+  "Dragon Ball": {
+    "name": "Dragon Ball",
+    "short": "DRAGON",
+    "url": "/currencies/dragon-ball",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dragon Option": {
     "name": "Dragon Option",
     "short": "DRAGON",
@@ -4891,6 +4907,14 @@
     "name": "ETF Dao",
     "short": "TFD",
     "url": "/currencies/etf-dao",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ETH AI Limit Loss": {
+    "name": "ETH AI Limit Loss",
+    "short": "ELL",
+    "url": "/currencies/eth-ai-limit-loss",
     "tags": [
       "Token"
     ]
@@ -6660,6 +6684,18 @@
       "Scrypt"
     ]
   },
+  "Gulden": {
+    "name": "Gulden",
+    "short": "NLG",
+    "url": "/currencies/gulden",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "SIGMA"
+    ]
+  },
   "HAPY Coin": {
     "name": "HAPY Coin",
     "short": "HAPY",
@@ -8294,6 +8330,14 @@
       "Token"
     ]
   },
+  "Lisk Machine Learning": {
+    "name": "Lisk Machine Learning",
+    "short": "LML",
+    "url": "/currencies/lisk-machine-learning",
+    "tags": [
+      "Token"
+    ]
+  },
   "Litbinex Coin": {
     "name": "Litbinex Coin",
     "short": "LTB",
@@ -8757,6 +8801,14 @@
       "Token",
       "Store of Value",
       "DeFi"
+    ]
+  },
+  "Mandi Token": {
+    "name": "Mandi Token",
+    "short": "MANDI",
+    "url": "/currencies/mandi-token",
+    "tags": [
+      "Token"
     ]
   },
   "MangoChain": {
@@ -9643,6 +9695,18 @@
       "Services"
     ]
   },
+  "NewYorkCoin": {
+    "name": "NewYorkCoin",
+    "short": "NYC",
+    "url": "/currencies/newyorkcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "Payments"
+    ]
+  },
   "Newscrypto": {
     "name": "Newscrypto",
     "short": "NWC",
@@ -9858,6 +9922,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "ORBYT Token": {
+    "name": "ORBYT Token",
+    "short": "ORBYT",
+    "url": "/currencies/orbyt-token",
+    "tags": [
+      "Token"
     ]
   },
   "OTCBTC Token": {
@@ -11128,6 +11200,16 @@
       "Smart Contracts"
     ]
   },
+  "Quant": {
+    "name": "Quant",
+    "short": "QNT",
+    "url": "/currencies/quant",
+    "tags": [
+      "Token",
+      "Platform",
+      "Interoperability"
+    ]
+  },
   "Quantis Network": {
     "name": "Quantis Network",
     "short": "QUAN",
@@ -11388,6 +11470,16 @@
       "Token",
       "Cybersecurity",
       "Identity"
+    ]
+  },
+  "Ren": {
+    "name": "Ren",
+    "short": "REN",
+    "url": "/currencies/ren",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "DeFi"
     ]
   },
   "Reserve Rights": {
@@ -15405,6 +15497,16 @@
     "url": "/currencies/zeusnetwork",
     "tags": [
       "Token"
+    ]
+  },
+  "Zeusshield": {
+    "name": "Zeusshield",
+    "short": "ZSC",
+    "url": "/currencies/zeusshield",
+    "tags": [
+      "Token",
+      "Asset management",
+      "AI & Big Data"
     ]
   },
   "ZeuxCoin": {
