@@ -3078,6 +3078,14 @@
       "Mineable"
     ]
   },
+  "Colu Local Network": {
+    "name": "Colu Local Network",
+    "short": "CLN",
+    "url": "/currencies/colu-local-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Comet": {
     "name": "Comet",
     "short": "CMT",
@@ -4168,6 +4176,15 @@
     "url": "/currencies/digital-gold",
     "tags": [
       "Token"
+    ]
+  },
+  "Digital Money Bits": {
+    "name": "Digital Money Bits",
+    "short": "DMB",
+    "url": "/currencies/digital-money-bits",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Digital Wallet": {
@@ -7753,6 +7770,19 @@
       "Binance Chain"
     ]
   },
+  "Litecoin Cash": {
+    "name": "Litecoin Cash",
+    "short": "LCC",
+    "url": "/currencies/litecoin-cash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "Medium of Exchange",
+      "Payments"
+    ]
+  },
   "Litecred": {
     "name": "Litecred",
     "short": "LTCR",
@@ -7827,6 +7857,14 @@
     "name": "Lua Token",
     "short": "LUA",
     "url": "/currencies/lua-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LuckySevenToken": {
+    "name": "LuckySevenToken",
+    "short": "LST",
+    "url": "/currencies/luckyseventoken",
     "tags": [
       "Token"
     ]
@@ -10592,7 +10630,7 @@
       "Jed McCaleb",
       "David Schwartz",
       "Chris Larsen"
-     ],
+    ],
     "depends": [
       "RipplePay.com"
     ]
