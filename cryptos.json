@@ -11836,6 +11836,17 @@
       "Payments"
     ]
   },
+  "SkinCoin": {
+    "name": "SkinCoin",
+    "short": "SKIN",
+    "url": "/currencies/skincoin",
+    "tags": [
+      "Token",
+      "Media",
+      "Gaming",
+      "Entertainment"
+    ]
+  },
   "Skrumble Network": {
     "name": "Skrumble Network",
     "short": "SKM",
@@ -13267,6 +13278,15 @@
     "url": "/currencies/trustverse",
     "tags": [
       "Token"
+    ]
+  },
+  "TurtleCoin": {
+    "name": "TurtleCoin",
+    "short": "TRTL",
+    "url": "/currencies/turtlecoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Tutor's Diary": {
