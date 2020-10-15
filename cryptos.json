@@ -4127,6 +4127,14 @@
       "Token"
     ]
   },
+  "Dfinity (IOU)": {
+    "name": "Dfinity (IOU)",
+    "short": "DFN",
+    "url": "/currencies/dfinity",
+    "tags": [
+      "Coin"
+    ]
+  },
   "DiFy.Finance": {
     "name": "DiFy.Finance",
     "short": "YFIII",
@@ -4591,6 +4599,16 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "EURBASE": {
+    "name": "EURBASE",
+    "short": "EBASE",
+    "url": "/currencies/eurbase",
+    "tags": [
+      "Token",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "EVOS": {
@@ -10751,6 +10769,16 @@
       "Mineable"
     ]
   },
+  "Rupiah Token": {
+    "name": "Rupiah Token",
+    "short": "IDRT",
+    "url": "/currencies/rupiah-token",
+    "tags": [
+      "Token",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "S4FE": {
     "name": "S4FE",
     "short": "S4F",
@@ -13911,6 +13939,14 @@
     "name": "YFUEL",
     "short": "YFUEL",
     "url": "/currencies/yfuel",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YMAX": {
+    "name": "YMAX",
+    "short": "YMAX",
+    "url": "/currencies/ymax",
     "tags": [
       "Token"
     ]
