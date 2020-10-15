@@ -10585,6 +10585,16 @@
     "url": "/currencies/ripple-alpha",
     "tags": [
       "Coin"
+    ],
+    "people": [
+      "Ryan Fugger",
+      "Jed McCaleb",
+      "Jed McCaleb",
+      "David Schwartz",
+      "Chris Larsen"
+     ],
+    "depends": [
+      "RipplePay.com"
     ]
   },
   "Ritocoin": {
