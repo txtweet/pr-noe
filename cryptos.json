@@ -950,6 +950,14 @@
       "IPFS"
     ]
   },
+  "Asac Coin": {
+    "name": "Asac Coin",
+    "short": "ASAC",
+    "url": "/currencies/asac-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Asch": {
     "name": "Asch",
     "short": "XAS",
@@ -2169,6 +2177,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Blockburn": {
+    "name": "Blockburn",
+    "short": "BURN",
+    "url": "/currencies/blockburn",
+    "tags": [
+      "Token"
     ]
   },
   "Blockchain Exchange Alliance": {
@@ -6354,6 +6370,15 @@
       "Yescript"
     ]
   },
+  "GlobalToken": {
+    "name": "GlobalToken",
+    "short": "GLT",
+    "url": "/currencies/globaltoken",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Globalvillage Ecosystem": {
     "name": "Globalvillage Ecosystem",
     "short": "GVE",
@@ -8037,6 +8062,14 @@
     "name": "Lendingblock",
     "short": "LND",
     "url": "/currencies/lendingblock",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Level Up Coin": {
+    "name": "Level Up Coin",
+    "short": "LUC",
+    "url": "/currencies/level-up",
     "tags": [
       "Token"
     ]
@@ -12077,6 +12110,16 @@
       "Token"
     ]
   },
+  "Sociall": {
+    "name": "Sociall",
+    "short": "SCL",
+    "url": "/currencies/sociall",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Entertainment"
+    ]
+  },
   "Solana": {
     "name": "Solana",
     "short": "SOL",
@@ -13386,6 +13429,14 @@
     "name": "Trust Wallet Token",
     "short": "TWT",
     "url": "/currencies/trust-wallet-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TrustDAO": {
+    "name": "TrustDAO",
+    "short": "TRUST",
+    "url": "/currencies/trustdao",
     "tags": [
       "Token"
     ]
@@ -15138,6 +15189,17 @@
     "url": "/currencies/vbzrx",
     "tags": [
       "Token"
+    ]
+  },
+  "bitJob": {
+    "name": "bitJob",
+    "short": "STU",
+    "url": "/currencies/bitjob",
+    "tags": [
+      "Token",
+      "Education",
+      "Jobs",
+      "Sharing Economy"
     ]
   },
   "cVault.finance": {
