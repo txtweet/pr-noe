@@ -429,6 +429,14 @@
       "Token"
     ]
   },
+  "AVCCOIN": {
+    "name": "AVCCOIN",
+    "short": "AVC",
+    "url": "/currencies/avccoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "AXEL": {
     "name": "AXEL",
     "short": "AXEL",
@@ -5994,6 +6002,16 @@
       "Coin"
     ]
   },
+  "Global Cryptocurrency": {
+    "name": "Global Cryptocurrency",
+    "short": "GCC",
+    "url": "/currencies/global-cryptocurrency",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Global Currency Reserve": {
     "name": "Global Currency Reserve",
     "short": "GCR",
@@ -6361,6 +6379,15 @@
     "url": "/currencies/havy",
     "tags": [
       "Token"
+    ]
+  },
+  "Hdac": {
+    "name": "Hdac",
+    "short": "HDAC",
+    "url": "/currencies/hdac",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "HeartBout": {
@@ -10008,6 +10035,14 @@
       "Token"
     ]
   },
+  "Playgroundz": {
+    "name": "Playgroundz",
+    "short": "IOG",
+    "url": "/currencies/playgroundz",
+    "tags": [
+      "Token"
+    ]
+  },
   "Playkey": {
     "name": "Playkey",
     "short": "PKT",
@@ -11594,6 +11629,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Sperax": {
+    "name": "Sperax",
+    "short": "SPA",
+    "url": "/currencies/sperax",
+    "tags": [
+      "Token"
     ]
   },
   "Sphere": {
@@ -13786,6 +13829,19 @@
       "Token"
     ]
   },
+  "XinFin Network": {
+    "name": "XinFin Network",
+    "short": "XDC",
+    "url": "/currencies/xinfin-network",
+    "tags": [
+      "Coin",
+      "DeFi",
+      "Smart Contracts",
+      "Masternodes",
+      "DPoS",
+      "PoS"
+    ]
+  },
   "Xplosive Ethereum": {
     "name": "Xplosive Ethereum",
     "short": "XETH",
@@ -13855,6 +13911,14 @@
       "Coin"
     ]
   },
+  "YFA Finance": {
+    "name": "YFA Finance",
+    "short": "YFA",
+    "url": "/currencies/yfa-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "YFDAI.FINANCE": {
     "name": "YFDAI.FINANCE",
     "short": "YF-DAI",
@@ -13893,6 +13957,14 @@
     "url": "/currencies/yfibusiness",
     "tags": [
       "Token"
+    ]
+  },
+  "YFIEXCHANGE.FINANCE": {
+    "name": "YFIEXCHANGE.FINANCE",
+    "short": "YFIE",
+    "url": "/currencies/yfiexchange-finance",
+    "tags": [
+      "Coin"
     ]
   },
   "YFIKING,FINANCE": {
