@@ -2343,6 +2343,14 @@
       "Crowdfunding"
     ]
   },
+  "Bone": {
+    "name": "Bone",
+    "short": "BONE",
+    "url": "/currencies/bone",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bonk": {
     "name": "Bonk",
     "short": "BONK",
@@ -3281,6 +3289,14 @@
       "Scrypt"
     ]
   },
+  "Commerce Data Connection": {
+    "name": "Commerce Data Connection",
+    "short": "CDC",
+    "url": "/currencies/commerce-data-connection",
+    "tags": [
+      "Token"
+    ]
+  },
   "Commercium": {
     "name": "Commercium",
     "short": "CMM",
@@ -4093,6 +4109,14 @@
       "Gaming",
       "Interoperability",
       "Substrate"
+    ]
+  },
+  "Datarius Credit": {
+    "name": "Datarius Credit",
+    "short": "DTRC",
+    "url": "/currencies/datarius-credit",
+    "tags": [
+      "Token"
     ]
   },
   "Datum": {
@@ -5241,6 +5265,14 @@
       "Token"
     ]
   },
+  "EncryptoTel [WAVES]": {
+    "name": "EncryptoTel [WAVES]",
+    "short": "ETT",
+    "url": "/currencies/encryptotel",
+    "tags": [
+      "Token"
+    ]
+  },
   "Endor Protocol": {
     "name": "Endor Protocol",
     "short": "EDR",
@@ -5349,6 +5381,14 @@
       "PoW",
       "Platform",
       "DApp"
+    ]
+  },
+  "Eristica": {
+    "name": "Eristica",
+    "short": "ERT",
+    "url": "/currencies/eristica",
+    "tags": [
+      "Token"
     ]
   },
   "Eska": {
@@ -7498,6 +7538,14 @@
       "Cybersecurity",
       "Technology",
       "Distributed Computing"
+    ]
+  },
+  "Inverse Bitcoin Volatility Token": {
+    "name": "Inverse Bitcoin Volatility Token",
+    "short": "IBVOL",
+    "url": "/currencies/inverse-bitcoin-volatility-token",
+    "tags": [
+      "Token"
     ]
   },
   "IoT Chain": {
@@ -10180,6 +10228,14 @@
       "Mineable"
     ]
   },
+  "PHILLIPS PAY COIN": {
+    "name": "PHILLIPS PAY COIN",
+    "short": "PPC",
+    "url": "/currencies/philips-pay-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "PIBBLE": {
     "name": "PIBBLE",
     "short": "PIB",
@@ -11510,6 +11566,15 @@
     "url": "/currencies/sbank",
     "tags": [
       "Token"
+    ]
+  },
+  "SCC DIGforIT": {
+    "name": "SCC DIGforIT",
+    "short": "SCC",
+    "url": "/currencies/scc-digforit",
+    "tags": [
+      "Token",
+      "Gaming"
     ]
   },
   "SEER": {
@@ -14618,6 +14683,15 @@
     "url": "/currencies/xfuel",
     "tags": [
       "Coin"
+    ]
+  },
+  "XGOX": {
+    "name": "XGOX",
+    "short": "XGOX",
+    "url": "/currencies/xgox",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "XIO": {
