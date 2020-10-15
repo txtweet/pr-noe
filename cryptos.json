@@ -3411,6 +3411,15 @@
       "DeFi"
     ]
   },
+  "Compound Ether": {
+    "name": "Compound Ether",
+    "short": "CETH",
+    "url": "/currencies/compound-ether",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Compound SAI": {
     "name": "Compound SAI",
     "short": "CSAI",
@@ -5446,6 +5455,14 @@
       "Token"
     ]
   },
+  "Equilibria": {
+    "name": "Equilibria",
+    "short": "XEQ",
+    "url": "/currencies/equilibria",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Ergo": {
     "name": "Ergo",
     "short": "ERG",
@@ -5920,6 +5937,14 @@
     "name": "Feellike",
     "short": "FLL",
     "url": "/currencies/feellike",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Fera": {
+    "name": "Fera",
+    "short": "FERA",
+    "url": "/currencies/fera",
     "tags": [
       "Token"
     ]
@@ -9123,6 +9148,16 @@
       "Token"
     ]
   },
+  "MicroMoney": {
+    "name": "MicroMoney",
+    "short": "AMM",
+    "url": "/currencies/micromoney",
+    "tags": [
+      "Token",
+      "Asset management",
+      "DApp"
+    ]
+  },
   "MidasProtocol": {
     "name": "MidasProtocol",
     "short": "MAS",
@@ -11631,6 +11666,14 @@
     "url": "/currencies/ritocoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Rivermount": {
+    "name": "Rivermount",
+    "short": "RM",
+    "url": "/currencies/rivermount",
+    "tags": [
+      "Token"
     ]
   },
   "Rivex": {
