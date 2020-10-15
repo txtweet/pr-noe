@@ -3752,6 +3752,14 @@
       "Token"
     ]
   },
+  "DMD": {
+    "name": "DMD",
+    "short": "DMD",
+    "url": "/currencies/dmd",
+    "tags": [
+      "Token"
+    ]
+  },
   "DNotes": {
     "name": "DNotes",
     "short": "NOTE",
@@ -13078,6 +13086,14 @@
       "Token"
     ]
   },
+  "UpToken": {
+    "name": "UpToken",
+    "short": "UP",
+    "url": "/currencies/uptoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Upper Dollar": {
     "name": "Upper Dollar",
     "short": "USDU",
@@ -14569,6 +14585,17 @@
     "url": "/currencies/ibtc-synthetix",
     "tags": [
       "Token"
+    ]
+  },
+  "iBank": {
+    "name": "iBank",
+    "short": "IBANK",
+    "url": "/currencies/ibank",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "iDeFi": {
