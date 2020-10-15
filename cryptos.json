@@ -2515,6 +2515,16 @@
       "Token"
     ]
   },
+  "COTI": {
+    "name": "COTI",
+    "short": "COTI",
+    "url": "/currencies/coti",
+    "tags": [
+      "Coin",
+      "DeFi",
+      "DAG"
+    ]
+  },
   "COVIR.IO": {
     "name": "COVIR.IO",
     "short": "CVR",
@@ -3243,6 +3253,14 @@
     "tags": [
       "Token",
       "Media"
+    ]
+  },
+  "Contribute": {
+    "name": "Contribute",
+    "short": "TRIB",
+    "url": "/currencies/contribute",
+    "tags": [
+      "Token"
     ]
   },
   "Convertible ACXT": {
@@ -5657,6 +5675,14 @@
       "Token"
     ]
   },
+  "Fox Trading": {
+    "name": "Fox Trading",
+    "short": "FOXT",
+    "url": "/currencies/fox-trading",
+    "tags": [
+      "Token"
+    ]
+  },
   "Francs": {
     "name": "Francs",
     "short": "FRN",
@@ -7097,6 +7123,21 @@
     "url": "/currencies/internationalcryptox",
     "tags": [
       "Token"
+    ]
+  },
+  "Internxt": {
+    "name": "Internxt",
+    "short": "INXT",
+    "url": "/currencies/internxt",
+    "tags": [
+      "Token",
+      "Distributed Computing",
+      "Filesharing",
+      "Sharding",
+      "Ethereum",
+      "Cybersecurity",
+      "Technology",
+      "Distributed Computing"
     ]
   },
   "IoT Chain": {
@@ -10830,6 +10871,14 @@
       "Token"
     ]
   },
+  "SAFE DEAL": {
+    "name": "SAFE DEAL",
+    "short": "SFD",
+    "url": "/currencies/safe-deal",
+    "tags": [
+      "Coin"
+    ]
+  },
   "SALT": {
     "name": "SALT",
     "short": "SALT",
@@ -11713,6 +11762,14 @@
     "url": "/currencies/starname",
     "tags": [
       "Coin"
+    ]
+  },
+  "Steaks Finance": {
+    "name": "Steaks Finance",
+    "short": "STEAK",
+    "url": "/currencies/steak-finance",
+    "tags": [
+      "Token"
     ]
   },
   "Stealth": {
@@ -13981,6 +14038,14 @@
     "url": "/currencies/yfiexchange-finance",
     "tags": [
       "Coin"
+    ]
+  },
+  "YFII Gold": {
+    "name": "YFII Gold",
+    "short": "YFIIG",
+    "url": "/currencies/yfii-gold",
+    "tags": [
+      "Token"
     ]
   },
   "YFIKING,FINANCE": {
