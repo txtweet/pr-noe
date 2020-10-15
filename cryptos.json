@@ -1488,6 +1488,17 @@
       "Mimble Wimble"
     ]
   },
+  "Bean Cash": {
+    "name": "Bean Cash",
+    "short": "BITB",
+    "url": "/currencies/bean-cash",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
+    ]
+  },
   "BeatzCoin": {
     "name": "BeatzCoin",
     "short": "BTZC",
@@ -8313,6 +8324,14 @@
       "Token"
     ]
   },
+  "Lukiu": {
+    "name": "Lukiu",
+    "short": "LKU",
+    "url": "/currencies/lukiu",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lukki Operating Token": {
     "name": "Lukki Operating Token",
     "short": "LOT",
@@ -9804,6 +9823,14 @@
       "DeFi"
     ]
   },
+  "Olive": {
+    "name": "Olive",
+    "short": "OLE",
+    "url": "/currencies/olive",
+    "tags": [
+      "Token"
+    ]
+  },
   "Omix": {
     "name": "Omix",
     "short": "OMX",
@@ -9820,6 +9847,15 @@
       "Coin",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Ondori": {
+    "name": "Ondori",
+    "short": "RSTR",
+    "url": "/currencies/ondori",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "OneRoot Network": {
@@ -10342,6 +10378,14 @@
       "Mineable"
     ]
   },
+  "Percent": {
+    "name": "Percent",
+    "short": "PCT",
+    "url": "/currencies/percent",
+    "tags": [
+      "Token"
+    ]
+  },
   "Perpetual Protocol": {
     "name": "Perpetual Protocol",
     "short": "PERP",
@@ -10658,6 +10702,17 @@
     "url": "/currencies/poseidon-network",
     "tags": [
       "Token"
+    ]
+  },
+  "PotCoin": {
+    "name": "PotCoin",
+    "short": "POT",
+    "url": "/currencies/potcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "PowerTrade Fuel": {
