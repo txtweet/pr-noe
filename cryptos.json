@@ -1174,6 +1174,14 @@
       "Marketing"
     ]
   },
+  "Atonomi": {
+    "name": "Atonomi",
+    "short": "ATMI",
+    "url": "/currencies/atonomi",
+    "tags": [
+      "Token"
+    ]
+  },
   "AtromG8": {
     "name": "AtromG8",
     "short": "AG8",
@@ -1527,6 +1535,14 @@
     "name": "BTS Coin",
     "short": "BTSC",
     "url": "/currencies/bts-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BTSE": {
+    "name": "BTSE",
+    "short": "BTSE",
+    "url": "/currencies/btse",
     "tags": [
       "Token"
     ]
@@ -2437,6 +2453,16 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
+    ]
+  },
+  "Bitstar": {
+    "name": "Bitstar",
+    "short": "BITS",
+    "url": "/currencies/bitstar",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "Bittwatt": {
@@ -3814,6 +3840,15 @@
       "DeFi"
     ]
   },
+  "Compound Basic Attention Token": {
+    "name": "Compound Basic Attention Token",
+    "short": "CBAT",
+    "url": "/currencies/compound-basic-attention-token",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Compound Coin": {
     "name": "Compound Coin",
     "short": "COMP",
@@ -3900,6 +3935,18 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Constellation": {
+    "name": "Constellation",
+    "short": "DAG",
+    "url": "/currencies/constellation",
+    "tags": [
+      "Coin",
+      "DAG",
+      "Platform",
+      "Payments",
+      "Smart Contracts"
     ]
   },
   "ContentBox": {
@@ -5570,6 +5617,14 @@
       "Token"
     ]
   },
+  "ETH RSI 60/40 Yield Set": {
+    "name": "ETH RSI 60/40 Yield Set",
+    "short": "ETHRSIAPY",
+    "url": "/currencies/eth-rsi-60-40-yield-set",
+    "tags": [
+      "Token"
+    ]
+  },
   "ETH/BTC RSI Ratio Trading Set": {
     "name": "ETH/BTC RSI Ratio Trading Set",
     "short": "ETHBTCRSI",
@@ -6467,6 +6522,14 @@
     "name": "FLEX",
     "short": "FLEX",
     "url": "/currencies/flex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "FLIP": {
+    "name": "FLIP",
+    "short": "FLP",
+    "url": "/currencies/flip",
     "tags": [
       "Token"
     ]
@@ -11550,6 +11613,14 @@
       "Token"
     ]
   },
+  "POPCHAIN": {
+    "name": "POPCHAIN",
+    "short": "PCH",
+    "url": "/currencies/popchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "PRASM": {
     "name": "PRASM",
     "short": "PSM",
@@ -11914,6 +11985,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "PieDAO DEFI Small Cap": {
+    "name": "PieDAO DEFI Small Cap",
+    "short": "DEFI+S",
+    "url": "/currencies/piedao-defi-small-cap",
+    "tags": [
+      "Token"
     ]
   },
   "PieDAO DOUGH v2": {
@@ -12869,6 +12948,17 @@
       "RipplePay.com"
     ]
   },
+  "Rise": {
+    "name": "Rise",
+    "short": "RISE",
+    "url": "/currencies/rise",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Platform",
+      "DApp"
+    ]
+  },
   "Ritocoin": {
     "name": "Ritocoin",
     "short": "RITO",
@@ -13001,6 +13091,15 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Ryo Currency": {
+    "name": "Ryo Currency",
+    "short": "RYO",
+    "url": "/currencies/ryo-currency",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "S4FE": {
@@ -13857,6 +13956,15 @@
     "tags": [
       "Token",
       "Marketing"
+    ]
+  },
+  "SnowGem": {
+    "name": "SnowGem",
+    "short": "XSG",
+    "url": "/currencies/snowgem",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "SoPay": {
@@ -16370,6 +16478,14 @@
       "Yield farming"
     ]
   },
+  "WinStars.live": {
+    "name": "WinStars.live",
+    "short": "WNL",
+    "url": "/currencies/winstars-live",
+    "tags": [
+      "Token"
+    ]
+  },
   "Winding Tree": {
     "name": "Winding Tree",
     "short": "LIF",
@@ -16463,6 +16579,14 @@
     "name": "Wrapped LEO",
     "short": "WLEO",
     "url": "/currencies/wrapped-leo",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Wrapped Origin Axie": {
+    "name": "Wrapped Origin Axie",
+    "short": "WOA",
+    "url": "/currencies/wrapped-origin-axie",
     "tags": [
       "Token"
     ]
