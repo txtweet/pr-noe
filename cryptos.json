@@ -1684,6 +1684,14 @@
       "Coin"
     ]
   },
+  "BetProtocol": {
+    "name": "BetProtocol",
+    "short": "BEPRO",
+    "url": "/currencies/betprotocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Betherchip": {
     "name": "Betherchip",
     "short": "BEC",
@@ -4244,6 +4252,15 @@
     "url": "/currencies/dapp-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Dark Energy Crystals": {
+    "name": "Dark Energy Crystals",
+    "short": "DEC",
+    "url": "/currencies/dark-energy-crystals",
+    "tags": [
+      "Token",
+      "Gaming"
     ]
   },
   "DarkPay": {
@@ -9724,6 +9741,16 @@
       "Coin"
     ]
   },
+  "Multi Channel Influencer Creater Cloud Funding Platform": {
+    "name": "Multi Channel Influencer Creater Cloud Funding Platform",
+    "short": "MCI",
+    "url": "/currencies/multi-channel-influencer-creater-cloud-funding-platform",
+    "tags": [
+      "Token",
+      "Content Creation",
+      "Crowdfunding"
+    ]
+  },
   "Multicoin": {
     "name": "Multicoin",
     "short": "MTCN",
@@ -12007,6 +12034,14 @@
     "url": "/currencies/rotten",
     "tags": [
       "Token"
+    ]
+  },
+  "Rowan Token": {
+    "name": "Rowan Token",
+    "short": "RWN",
+    "url": "/currencies/rowan-token",
+    "tags": [
+      "Coin"
     ]
   },
   "Rozeus": {
