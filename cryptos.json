@@ -1751,6 +1751,15 @@
       "Mineable"
     ]
   },
+  "BZEdge": {
+    "name": "BZEdge",
+    "short": "BZE",
+    "url": "/currencies/bzedge",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BaconSwap": {
     "name": "BaconSwap",
     "short": "BACON",
@@ -1871,6 +1880,14 @@
     "name": "Bast",
     "short": "BAST",
     "url": "/currencies/bast",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Baz Token": {
+    "name": "Baz Token",
+    "short": "BAZT",
+    "url": "/currencies/baz-token",
     "tags": [
       "Token"
     ]
@@ -2345,6 +2362,14 @@
       "Mineable"
     ]
   },
+  "BitScreener Token": {
+    "name": "BitScreener Token",
+    "short": "BITX",
+    "url": "/currencies/bitscreener-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "BitSend": {
     "name": "BitSend",
     "short": "BSD",
@@ -2607,6 +2632,14 @@
     "url": "/currencies/bitcoinpos",
     "tags": [
       "Coin"
+    ]
+  },
+  "BitcoinRegular": {
+    "name": "BitcoinRegular",
+    "short": "BTRL",
+    "url": "/currencies/bitcoinregular",
+    "tags": [
+      "Token"
     ]
   },
   "BitcoinV": {
@@ -2949,6 +2982,16 @@
     "url": "/currencies/blood",
     "tags": [
       "Token"
+    ]
+  },
+  "Bloom": {
+    "name": "Bloom",
+    "short": "BLT",
+    "url": "/currencies/bloomtoken",
+    "tags": [
+      "Token",
+      "Platform",
+      "Identity"
     ]
   },
   "Bloomzed Loyalty Club Ticket": {
@@ -3362,6 +3405,14 @@
     "name": "COMSA [ETH]",
     "short": "CMS",
     "url": "/currencies/comsa-eth",
+    "tags": [
+      "Token"
+    ]
+  },
+  "COMSA [XEM]": {
+    "name": "COMSA [XEM]",
+    "short": "CMS",
+    "url": "/currencies/comsa-xem",
     "tags": [
       "Token"
     ]
@@ -5253,6 +5304,14 @@
       "Coin"
     ]
   },
+  "Darwinia Commitment Token": {
+    "name": "Darwinia Commitment Token",
+    "short": "KTON",
+    "url": "/currencies/darwinia-commitment-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Darwinia Network": {
     "name": "Darwinia Network",
     "short": "RING",
@@ -6292,6 +6351,14 @@
       "Token"
     ]
   },
+  "ETHPlus": {
+    "name": "ETHPlus",
+    "short": "ETHP",
+    "url": "/currencies/ethplus",
+    "tags": [
+      "Token"
+    ]
+  },
   "ETHUP": {
     "name": "ETHUP",
     "short": "ETHUP",
@@ -7198,6 +7265,14 @@
       "E-commerce"
     ]
   },
+  "Exchange Payment Coin": {
+    "name": "Exchange Payment Coin",
+    "short": "EXP",
+    "url": "/currencies/exchange-payment-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Exchange Union": {
     "name": "Exchange Union",
     "short": "XUC",
@@ -7699,6 +7774,14 @@
       "Token"
     ]
   },
+  "FolgoryUSD": {
+    "name": "FolgoryUSD",
+    "short": "USDF",
+    "url": "/currencies/folgoryusd",
+    "tags": [
+      "Token"
+    ]
+  },
   "Footballcoin": {
     "name": "Footballcoin",
     "short": "XFC",
@@ -7748,6 +7831,14 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Freecash": {
+    "name": "Freecash",
+    "short": "FCH",
+    "url": "/currencies/freecash",
+    "tags": [
+      "Coin"
     ]
   },
   "Freight Trust & Clearing Network": {
@@ -8545,6 +8636,14 @@
       "Token"
     ]
   },
+  "HUNT": {
+    "name": "HUNT",
+    "short": "HUNT",
+    "url": "/currencies/hunt",
+    "tags": [
+      "Token"
+    ]
+  },
   "HUPAYX": {
     "name": "HUPAYX",
     "short": "HUP",
@@ -8645,6 +8744,14 @@
       "Coin"
     ]
   },
+  "HashBX ": {
+    "name": "HashBX ",
+    "short": "HBX",
+    "url": "/currencies/hashsbx",
+    "tags": [
+      "Token"
+    ]
+  },
   "HashCoin": {
     "name": "HashCoin",
     "short": "HSC",
@@ -8683,6 +8790,15 @@
     "url": "/currencies/hathor",
     "tags": [
       "Coin"
+    ]
+  },
+  "Haven Protocol": {
+    "name": "Haven Protocol",
+    "short": "XHV",
+    "url": "/currencies/haven-protocol",
+    "tags": [
+      "Coin",
+      "DeFi"
     ]
   },
   "Havy": {
@@ -9012,6 +9128,15 @@
       "Token",
       "Platform",
       "Content Creation"
+    ]
+  },
+  "Humaniq": {
+    "name": "Humaniq",
+    "short": "HMQ",
+    "url": "/currencies/humaniq",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "Humanscape": {
@@ -9857,6 +9982,14 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "Jinbi Token": {
+    "name": "Jinbi Token",
+    "short": "JNB",
+    "url": "/currencies/jinbi-token",
+    "tags": [
+      "Token"
     ]
   },
   "Joint Ventures": {
@@ -11132,6 +11265,14 @@
       "Coin"
     ]
   },
+  "Marshal Lion Group Coin": {
+    "name": "Marshal Lion Group Coin",
+    "short": "MLGC",
+    "url": "/currencies/marshal-lion-group-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "MarteXcoin": {
     "name": "MarteXcoin",
     "short": "MXT",
@@ -11366,6 +11507,16 @@
     "url": "/currencies/metacoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Metal": {
+    "name": "Metal",
+    "short": "MTL",
+    "url": "/currencies/metal",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "Metaprediction": {
@@ -11872,6 +12023,14 @@
       "Crowdfunding"
     ]
   },
+  "MultiCoinCasino": {
+    "name": "MultiCoinCasino",
+    "short": "MCC",
+    "url": "/currencies/multicoincasino",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Multicoin": {
     "name": "Multicoin",
     "short": "MTCN",
@@ -12054,6 +12213,14 @@
     "url": "/currencies/nova",
     "tags": [
       "Token"
+    ]
+  },
+  "NPCoin": {
+    "name": "NPCoin",
+    "short": "NPC",
+    "url": "/currencies/npcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "NULS": {
@@ -12429,6 +12596,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "NoLimitCoin": {
+    "name": "NoLimitCoin",
+    "short": "NLC2",
+    "url": "/currencies/nolimitcoin",
+    "tags": [
+      "Coin",
+      "PoS"
     ]
   },
   "Nobrainer Finance": {
@@ -13221,6 +13397,16 @@
       "Scrypt"
     ]
   },
+  "ParkByte": {
+    "name": "ParkByte",
+    "short": "PKB",
+    "url": "/currencies/parkbyte",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
+    ]
+  },
   "Parkgene": {
     "name": "Parkgene",
     "short": "GENE",
@@ -13844,6 +14030,14 @@
       "Token"
     ]
   },
+  "Precium": {
+    "name": "Precium",
+    "short": "PCM",
+    "url": "/currencies/precium",
+    "tags": [
+      "Token"
+    ]
+  },
   "Presearch": {
     "name": "Presearch",
     "short": "PRE",
@@ -13912,6 +14106,17 @@
       "Token",
       "Media",
       "Payments"
+    ]
+  },
+  "Project Pai": {
+    "name": "Project Pai",
+    "short": "PAI",
+    "url": "/currencies/project-pai",
+    "tags": [
+      "Coin",
+      "Services",
+      "AI & Big Data",
+      "Identity"
     ]
   },
   "Project WITH": {
@@ -14017,6 +14222,14 @@
     "tags": [
       "Coin",
       "PoS"
+    ]
+  },
+  "Puriever": {
+    "name": "Puriever",
+    "short": "PURE",
+    "url": "/currencies/puriever",
+    "tags": [
+      "Token"
     ]
   },
   "PutinCoin": {
@@ -15770,6 +15983,14 @@
       "Token"
     ]
   },
+  "Soft Link": {
+    "name": "Soft Link",
+    "short": "SLINK",
+    "url": "/currencies/softlink",
+    "tags": [
+      "Token"
+    ]
+  },
   "Solana": {
     "name": "Solana",
     "short": "SOL",
@@ -16230,6 +16451,15 @@
     "url": "/currencies/sumcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Sumokoin": {
+    "name": "Sumokoin",
+    "short": "SUMO",
+    "url": "/currencies/sumokoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Super Bitcoin": {
@@ -18695,6 +18925,16 @@
       "Crowdfunding"
     ]
   },
+  "Wirex Token": {
+    "name": "Wirex Token",
+    "short": "WXT",
+    "url": "/currencies/wirex-token",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Payments"
+    ]
+  },
   "Wisdom Chain": {
     "name": "Wisdom Chain",
     "short": "WDC",
@@ -19368,6 +19608,17 @@
       "Token"
     ]
   },
+  "Yocoin": {
+    "name": "Yocoin",
+    "short": "YOC",
+    "url": "/currencies/yocoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Yoink": {
     "name": "Yoink",
     "short": "YNK",
@@ -19626,6 +19877,14 @@
     "name": "ZenSports",
     "short": "SPORTS",
     "url": "/currencies/zensports",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Zenfuse": {
+    "name": "Zenfuse",
+    "short": "ZEFU",
+    "url": "/currencies/zenfuse",
     "tags": [
       "Token"
     ]
