@@ -6760,6 +6760,14 @@
       "Token"
     ]
   },
+  "Epanus": {
+    "name": "Epanus",
+    "short": "EPS",
+    "url": "/currencies/epanus",
+    "tags": [
+      "Token"
+    ]
+  },
   "Epic": {
     "name": "Epic",
     "short": "EPIC",
@@ -10748,6 +10756,14 @@
       "Token"
     ]
   },
+  "MERCI": {
+    "name": "MERCI",
+    "short": "MERCI",
+    "url": "/currencies/merci",
+    "tags": [
+      "Coin"
+    ]
+  },
   "MESG": {
     "name": "MESG",
     "short": "MESG",
@@ -12270,6 +12286,14 @@
     "name": "Nobrainer Finance",
     "short": "BRAIN",
     "url": "/currencies/nobrainer-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Nokencoin": {
+    "name": "Nokencoin",
+    "short": "NOKN",
+    "url": "/currencies/nokencoin",
     "tags": [
       "Token"
     ]
@@ -17219,6 +17243,14 @@
     "name": "Tutor's Diary",
     "short": "TUDA",
     "url": "/currencies/tutors-diary",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Twinkle": {
+    "name": "Twinkle",
+    "short": "TKT",
+    "url": "/currencies/twinkle",
     "tags": [
       "Token"
     ]
