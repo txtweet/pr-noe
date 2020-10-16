@@ -2107,6 +2107,19 @@
       "Mineable"
     ]
   },
+  "BitShares": {
+    "name": "BitShares",
+    "short": "BTS",
+    "url": "/currencies/bitshares",
+    "tags": [
+      "Coin",
+      "PoS",
+      "SHA-512",
+      "Marketplace",
+      "Decentralized exchange",
+      "DeFi"
+    ]
+  },
   "BitStash": {
     "name": "BitStash",
     "short": "STASH",
@@ -2245,6 +2258,14 @@
     "url": "/currencies/bitcoin-fast",
     "tags": [
       "Token"
+    ]
+  },
+  "Bitcoin File": {
+    "name": "Bitcoin File",
+    "short": "BIFI",
+    "url": "/currencies/bitcoin-file",
+    "tags": [
+      "Coin"
     ]
   },
   "Bitcoin God": {
@@ -2951,6 +2972,14 @@
     "url": "/currencies/cache-gold",
     "tags": [
       "Token"
+    ]
+  },
+  "CAPITAL X CELL": {
+    "name": "CAPITAL X CELL",
+    "short": "CXC",
+    "url": "/currencies/capital-x-cell",
+    "tags": [
+      "Coin"
     ]
   },
   "CAT.trade Protocol": {
@@ -4836,6 +4865,14 @@
       "Coin"
     ]
   },
+  "DeFi Bids": {
+    "name": "DeFi Bids",
+    "short": "BIDS",
+    "url": "/currencies/defi-bids",
+    "tags": [
+      "Token"
+    ]
+  },
   "DeFi Firefly": {
     "name": "DeFi Firefly",
     "short": "DFF",
@@ -5803,6 +5840,14 @@
       "Payments"
     ]
   },
+  "Ecoin": {
+    "name": "Ecoin",
+    "short": "ECOIN",
+    "url": "/currencies/ecoin-2",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ecoreal Estate": {
     "name": "Ecoreal Estate",
     "short": "ECOREAL",
@@ -5883,6 +5928,14 @@
       "State channels",
       "Cybersecurity",
       "Technology"
+    ]
+  },
+  "Elcoin": {
+    "name": "Elcoin",
+    "short": "EL",
+    "url": "/currencies/elcoin-el",
+    "tags": [
+      "Coin"
     ]
   },
   "Electra": {
@@ -9704,6 +9757,14 @@
       "Token"
     ]
   },
+  "MDtoken": {
+    "name": "MDtoken",
+    "short": "MDTK",
+    "url": "/currencies/mdtoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "MEET.ONE": {
     "name": "MEET.ONE",
     "short": "MEETONE",
@@ -10508,6 +10569,14 @@
     "name": "MoonSwap",
     "short": "MOON",
     "url": "/currencies/moonswap",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Moozicore": {
+    "name": "Moozicore",
+    "short": "MZG",
+    "url": "/currencies/moozicore",
     "tags": [
       "Token"
     ]
@@ -11827,6 +11896,14 @@
       "Mineable",
       "PoS",
       "SHA-256"
+    ]
+  },
+  "PayFrequent USD": {
+    "name": "PayFrequent USD",
+    "short": "PUSD",
+    "url": "/currencies/payfrequent-usd-2",
+    "tags": [
+      "Token"
     ]
   },
   "PayPie": {
@@ -14320,6 +14397,14 @@
       "Coin"
     ]
   },
+  "StarterCoin": {
+    "name": "StarterCoin",
+    "short": "STAC",
+    "url": "/currencies/startercoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Steaks Finance": {
     "name": "Steaks Finance",
     "short": "STEAK",
@@ -16064,6 +16149,21 @@
       "Mineable"
     ]
   },
+  "Velas": {
+    "name": "Velas",
+    "short": "VLX",
+    "url": "/currencies/velas",
+    "tags": [
+      "Coin",
+      "Technology",
+      "Platform",
+      "AI & Big Data",
+      "Atomic Swaps",
+      "Store of Value",
+      "Enterprise solutions",
+      "Communications & Social Media"
+    ]
+  },
   "Veles": {
     "name": "Veles",
     "short": "VLS",
@@ -17317,6 +17417,15 @@
     "url": "/currencies/zum-token",
     "tags": [
       "Token"
+    ]
+  },
+  "ZVCHAIN": {
+    "name": "ZVCHAIN",
+    "short": "ZVC",
+    "url": "/currencies/zvchain",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "ZYX": {
