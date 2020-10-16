@@ -519,6 +519,14 @@
       "Coin"
     ]
   },
+  "APEcoin": {
+    "name": "APEcoin",
+    "short": "APE",
+    "url": "/currencies/apecoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "APIX": {
     "name": "APIX",
     "short": "APIX",
@@ -1104,6 +1112,15 @@
     "url": "/currencies/animalgo",
     "tags": [
       "Token"
+    ]
+  },
+  "Animation Vision Cash": {
+    "name": "Animation Vision Cash",
+    "short": "AVH",
+    "url": "/currencies/animation-vision-cash",
+    "tags": [
+      "Token",
+      "Adult"
     ]
   },
   "Ankr": {
@@ -2705,6 +2722,14 @@
     "url": "/currencies/bitradio",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bitscoin": {
+    "name": "Bitscoin",
+    "short": "BTCX",
+    "url": "/currencies/bitscoin",
+    "tags": [
+      "Token"
     ]
   },
   "Bitsdaq": {
@@ -5737,6 +5762,14 @@
       "Mineable"
     ]
   },
+  "Digital Rand": {
+    "name": "Digital Rand",
+    "short": "DZAR",
+    "url": "/currencies/digital-rand",
+    "tags": [
+      "Token"
+    ]
+  },
   "Digital Wallet": {
     "name": "Digital Wallet",
     "short": "DWC",
@@ -5839,6 +5872,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Dionpay": {
+    "name": "Dionpay",
+    "short": "DION",
+    "url": "/currencies/dionpay",
+    "tags": [
+      "Token"
     ]
   },
   "Diplexcoin": {
@@ -6454,6 +6495,14 @@
     "name": "EduCoin",
     "short": "EDU",
     "url": "/currencies/edu-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Effect.AI": {
+    "name": "Effect.AI",
+    "short": "EFX",
+    "url": "/currencies/effect-ai",
     "tags": [
       "Token"
     ]
@@ -7137,6 +7186,16 @@
     "url": "/currencies/everitoken",
     "tags": [
       "Coin"
+    ]
+  },
+  "Everus": {
+    "name": "Everus",
+    "short": "EVR",
+    "url": "/currencies/everus",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "E-commerce"
     ]
   },
   "Exchange Union": {
@@ -9181,6 +9240,14 @@
       "Token",
       "Medium of Exchange",
       "Crowdfunding"
+    ]
+  },
+  "INRToken": {
+    "name": "INRToken",
+    "short": "INRT",
+    "url": "/currencies/inrtoken",
+    "tags": [
+      "Token"
     ]
   },
   "INT": {
@@ -12885,6 +12952,15 @@
       "Smart Contracts"
     ]
   },
+  "Orion Protocol": {
+    "name": "Orion Protocol",
+    "short": "ORN",
+    "url": "/currencies/orion-protocol",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Ormeus Coin": {
     "name": "Ormeus Coin",
     "short": "ORMEUS",
@@ -13777,6 +13853,15 @@
       "Platform",
       "Crowdsourcing",
       "Search Engine"
+    ]
+  },
+  "Primalbase Token": {
+    "name": "Primalbase Token",
+    "short": "PBT",
+    "url": "/currencies/primalbase",
+    "tags": [
+      "Token",
+      "Real Estate"
     ]
   },
   "Primecoin": {
@@ -15561,6 +15646,16 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "SmartMesh": {
+    "name": "SmartMesh",
+    "short": "SMT",
+    "url": "/currencies/smartmesh",
+    "tags": [
+      "Token",
+      "Technology",
+      "IoT"
     ]
   },
   "Smartshare": {
