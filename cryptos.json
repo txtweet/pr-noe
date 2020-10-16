@@ -9296,6 +9296,15 @@
       "Token"
     ]
   },
+  "JUST": {
+    "name": "JUST",
+    "short": "JST",
+    "url": "/currencies/just",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Jack Token": {
     "name": "Jack Token",
     "short": "JACK",
@@ -12441,6 +12450,14 @@
       "Token"
     ]
   },
+  "PLANET": {
+    "name": "PLANET",
+    "short": "PLA",
+    "url": "/currencies/planet",
+    "tags": [
+      "Token"
+    ]
+  },
   "PLNcoin": {
     "name": "PLNcoin",
     "short": "PLNC",
@@ -15337,6 +15354,18 @@
       "Token"
     ]
   },
+  "Storj": {
+    "name": "Storj",
+    "short": "STORJ",
+    "url": "/currencies/storj",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "IPFS"
+    ]
+  },
   "StormX": {
     "name": "StormX",
     "short": "STMX",
@@ -16441,6 +16470,14 @@
       "Platform",
       "Payments",
       "State channels"
+    ]
+  },
+  "Trittium": {
+    "name": "Trittium",
+    "short": "TRTT",
+    "url": "/currencies/trittium",
+    "tags": [
+      "Coin"
     ]
   },
   "TronEuropeRewardCoin": {
