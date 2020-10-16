@@ -8792,6 +8792,15 @@
       "Token"
     ]
   },
+  "Ignition": {
+    "name": "Ignition",
+    "short": "IC",
+    "url": "/currencies/ignition",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "ImageCash": {
     "name": "ImageCash",
     "short": "IMGC",
@@ -13245,6 +13254,19 @@
       "Mineable"
     ]
   },
+  "Quantum Resistant Ledger": {
+    "name": "Quantum Resistant Ledger",
+    "short": "QRL",
+    "url": "/currencies/quantum-resistant-ledger",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Platform",
+      "Distributed Computing",
+      "Quantum-Resistant"
+    ]
+  },
   "QuarkChain": {
     "name": "QuarkChain",
     "short": "QKC",
@@ -14055,6 +14077,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "SUKU": {
+    "name": "SUKU",
+    "short": "SUKU",
+    "url": "/currencies/suku",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "SUN": {
@@ -17186,6 +17217,14 @@
       "Collectibles & NFTs"
     ]
   },
+  "Waletoken": {
+    "name": "Waletoken",
+    "short": "WTN",
+    "url": "/currencies/waletoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wallabee": {
     "name": "Wallabee",
     "short": "WLB",
@@ -17547,6 +17586,17 @@
       "Token"
     ]
   },
+  "XMax": {
+    "name": "XMax",
+    "short": "XMX",
+    "url": "/currencies/xmax",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation",
+      "Gaming"
+    ]
+  },
   "XPA": {
     "name": "XPA",
     "short": "XPA",
@@ -17708,6 +17758,15 @@
       "Token",
       "DeFi",
       "Memes",
+      "Yield farming"
+    ]
+  },
+  "YAM v3": {
+    "name": "YAM v3",
+    "short": "YAM",
+    "url": "/currencies/yamv3",
+    "tags": [
+      "Token",
       "Yield farming"
     ]
   },
@@ -18386,6 +18445,15 @@
     "url": "/currencies/zyro",
     "tags": [
       "Token"
+    ]
+  },
+  "adToken": {
+    "name": "adToken",
+    "short": "ADT",
+    "url": "/currencies/adtoken",
+    "tags": [
+      "Token",
+      "Marketing"
     ]
   },
   "adbank": {
