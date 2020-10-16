@@ -3476,6 +3476,14 @@
       "Substrate"
     ]
   },
+  "Celo": {
+    "name": "Celo",
+    "short": "CELO",
+    "url": "/currencies/celo",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Celo Dollar": {
     "name": "Celo Dollar",
     "short": "CUSD",
@@ -3756,6 +3764,16 @@
     "url": "/currencies/coinloan",
     "tags": [
       "Token"
+    ]
+  },
+  "CoinMeet": {
+    "name": "CoinMeet",
+    "short": "MEET",
+    "url": "/currencies/coinmeet",
+    "tags": [
+      "Token",
+      "Services",
+      "Wallet"
     ]
   },
   "CoinPoker": {
@@ -6033,6 +6051,14 @@
       "Payments"
     ]
   },
+  "Electric Vehicle Zone": {
+    "name": "Electric Vehicle Zone",
+    "short": "EVZ",
+    "url": "/currencies/electric-vehicle-zone",
+    "tags": [
+      "Token"
+    ]
+  },
   "Electronero": {
     "name": "Electronero",
     "short": "ETNX",
@@ -6768,6 +6794,14 @@
     "name": "Faceter",
     "short": "FACE",
     "url": "/currencies/faceter",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Falconswap": {
+    "name": "Falconswap",
+    "short": "FSW",
+    "url": "/currencies/fsw-token",
     "tags": [
       "Token"
     ]
@@ -7947,6 +7981,14 @@
       "Token"
     ]
   },
+  "HeartBout Pay": {
+    "name": "HeartBout Pay",
+    "short": "HP",
+    "url": "/currencies/heartbout-pay",
+    "tags": [
+      "Token"
+    ]
+  },
   "HebeBlock": {
     "name": "HebeBlock",
     "short": "HEBE",
@@ -8383,6 +8425,15 @@
     "url": "/currencies/idcm-token",
     "tags": [
       "Token"
+    ]
+  },
+  "IDEX": {
+    "name": "IDEX",
+    "short": "IDEX",
+    "url": "/currencies/idex",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "IDEX Membership": {
@@ -10879,6 +10930,14 @@
       "Token"
     ]
   },
+  "MyToken": {
+    "name": "MyToken",
+    "short": "MT",
+    "url": "/currencies/mytoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "NANJCOIN": {
     "name": "NANJCOIN",
     "short": "NANJ",
@@ -13089,6 +13148,21 @@
       "Token"
     ]
   },
+  "Ravencoin": {
+    "name": "Ravencoin",
+    "short": "RVN",
+    "url": "/currencies/ravencoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "Collectibles & NFTs",
+      "Crowdfunding",
+      "Asset management",
+      "Atomic Swaps",
+      "DeFi"
+    ]
+  },
   "Ravencoin Classic": {
     "name": "Ravencoin Classic",
     "short": "RVC",
@@ -13786,6 +13860,16 @@
       "Coin"
     ]
   },
+  "Sashimi": {
+    "name": "Sashimi",
+    "short": "SASHIMI",
+    "url": "/currencies/sashimi",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming"
+    ]
+  },
   "SatoExchange Token": {
     "name": "SatoExchange Token",
     "short": "SATX",
@@ -13971,6 +14055,14 @@
     "name": "Sentinel",
     "short": "SENT",
     "url": "/currencies/sentinel",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Sentinel Chain": {
+    "name": "Sentinel Chain",
+    "short": "SENC",
+    "url": "/currencies/sentinel-chain",
     "tags": [
       "Token"
     ]
@@ -17738,6 +17830,17 @@
       "Coin"
     ]
   },
+  "Zayedcoin": {
+    "name": "Zayedcoin",
+    "short": "ZYD",
+    "url": "/currencies/zayedcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
+    ]
+  },
   "Zcash": {
     "name": "Zcash",
     "short": "ZEC",
@@ -18120,6 +18223,14 @@
     "name": "hybrix",
     "short": "HY",
     "url": "/currencies/hybrix",
+    "tags": [
+      "Token"
+    ]
+  },
+  "iBTC": {
+    "name": "iBTC",
+    "short": "IBTC",
+    "url": "/currencies/ibtc",
     "tags": [
       "Token"
     ]
