@@ -339,6 +339,14 @@
       "Token"
     ]
   },
+  "4THPILLAR TECHNOLOGIES": {
+    "name": "4THPILLAR TECHNOLOGIES",
+    "short": "FOUR",
+    "url": "/currencies/4thpillar-technologies",
+    "tags": [
+      "Token"
+    ]
+  },
   "7Eleven": {
     "name": "7Eleven",
     "short": "7E",
@@ -409,6 +417,17 @@
       "Wallet",
       "Communications & Social Media",
       "Enterprise solutions"
+    ]
+  },
+  "AI Doctor": {
+    "name": "AI Doctor",
+    "short": "AIDOC",
+    "url": "/currencies/aidoc",
+    "tags": [
+      "Token",
+      "Health",
+      "AI & Big Data",
+      "Payments"
     ]
   },
   "AICON": {
@@ -1641,6 +1660,15 @@
       "Payments"
     ]
   },
+  "BROTHER": {
+    "name": "BROTHER",
+    "short": "BRAT",
+    "url": "/currencies/brat",
+    "tags": [
+      "Token",
+      "Philanthropy"
+    ]
+  },
   "BTC Lite": {
     "name": "BTC Lite",
     "short": "BTCL",
@@ -2290,6 +2318,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "BitSend": {
+    "name": "BitSend",
+    "short": "BSD",
+    "url": "/currencies/bitsend",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "BitShares": {
@@ -10978,6 +11017,14 @@
       "DeFi"
     ]
   },
+  "Maki Finance": {
+    "name": "Maki Finance",
+    "short": "MAKI",
+    "url": "/currencies/maki-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mandi Token": {
     "name": "Mandi Token",
     "short": "MANDI",
@@ -11029,6 +11076,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Master Coin Point": {
+    "name": "Master Coin Point",
+    "short": "MACPO",
+    "url": "/currencies/macpo",
+    "tags": [
+      "Token"
     ]
   },
   "Master Contract Token": {
@@ -11446,6 +11501,17 @@
     "url": "/currencies/mobile-crypto-pay-coin",
     "tags": [
       "Coin"
+    ]
+  },
+  "MobileGo": {
+    "name": "MobileGo",
+    "short": "MGO",
+    "url": "/currencies/mobilego",
+    "tags": [
+      "Token",
+      "Media",
+      "Gaming",
+      "Entertainment"
     ]
   },
   "Mobilian Coin": {
@@ -17714,6 +17780,14 @@
       "Smart Contracts"
     ]
   },
+  "VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM": {
+    "name": "VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM",
+    "short": "VAIP",
+    "url": "/currencies/vehicle-data-artificial-intelligence-platform",
+    "tags": [
+      "Token"
+    ]
+  },
   "VENA": {
     "name": "VENA",
     "short": "VENA",
@@ -17726,6 +17800,14 @@
     "name": "VENJOCOIN",
     "short": "VJC",
     "url": "/currencies/venjocoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "VIDY": {
+    "name": "VIDY",
+    "short": "VIDY",
+    "url": "/currencies/vidy",
     "tags": [
       "Token"
     ]
