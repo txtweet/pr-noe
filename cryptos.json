@@ -1787,6 +1787,14 @@
       "Medium of Exchange"
     ]
   },
+  "Behodler": {
+    "name": "Behodler",
+    "short": "EYE",
+    "url": "/currencies/beholder",
+    "tags": [
+      "Token"
+    ]
+  },
   "Beldex": {
     "name": "Beldex",
     "short": "BDX",
@@ -7462,6 +7470,17 @@
       "Token"
     ]
   },
+  "Goldcoin": {
+    "name": "Goldcoin",
+    "short": "GLC",
+    "url": "/currencies/goldcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Golden Token": {
     "name": "Golden Token",
     "short": "GOLD",
@@ -7759,6 +7778,14 @@
       "Coin"
     ]
   },
+  "HashCoin": {
+    "name": "HashCoin",
+    "short": "HSC",
+    "url": "/currencies/hashcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hashgard": {
     "name": "Hashgard",
     "short": "GARD",
@@ -7847,6 +7874,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "HelixNetwork": {
+    "name": "HelixNetwork",
+    "short": "MHLX",
+    "url": "/currencies/helixnetwork",
+    "tags": [
+      "Coin"
     ]
   },
   "Helper Search Token": {
@@ -10276,6 +10311,15 @@
     "url": "/currencies/mettalex",
     "tags": [
       "Token"
+    ]
+  },
+  "MiL.k": {
+    "name": "MiL.k",
+    "short": "MLK",
+    "url": "/currencies/milk-alliance",
+    "tags": [
+      "Token",
+      "Binance Smart Chain"
     ]
   },
   "MicroMoney": {
@@ -15199,6 +15243,14 @@
       "Token"
     ]
   },
+  "Thrive Token": {
+    "name": "Thrive Token",
+    "short": "THRT",
+    "url": "/currencies/thrive-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Tide Protocol": {
     "name": "Tide Protocol",
     "short": "TIDE",
@@ -15223,6 +15275,14 @@
       "Token",
       "Services",
       "Data Provenance"
+    ]
+  },
+  "TigerCash": {
+    "name": "TigerCash",
+    "short": "TCH",
+    "url": "/currencies/tigercash",
+    "tags": [
+      "Token"
     ]
   },
   "Time New Bank": {
@@ -16846,6 +16906,14 @@
       "Medium of Exchange",
       "Enterprise solutions",
       "Binance Chain"
+    ]
+  },
+  "XRPUP": {
+    "name": "XRPUP",
+    "short": "XRPUP",
+    "url": "/currencies/xrpup",
+    "tags": [
+      "Coin"
     ]
   },
   "XSwap": {
