@@ -5599,6 +5599,14 @@
       "Yield farming"
     ]
   },
+  "Diagon": {
+    "name": "Diagon",
+    "short": "DGN",
+    "url": "/currencies/diagon",
+    "tags": [
+      "Token"
+    ]
+  },
   "Diamond": {
     "name": "Diamond",
     "short": "DMD",
@@ -9745,6 +9753,20 @@
       "Token"
     ]
   },
+  "Jupiter": {
+    "name": "Jupiter",
+    "short": "JUP",
+    "url": "/currencies/jupiter",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Enterprise solutions",
+      "Enterprise solutions",
+      "Communications & Social Media",
+      "Payments",
+      "DeFi"
+    ]
+  },
   "KEY": {
     "name": "KEY",
     "short": "KEY",
@@ -12344,6 +12366,14 @@
       "Coin",
       "Mineable",
       "Marketplace"
+    ]
+  },
+  "OFIN Token": {
+    "name": "OFIN Token",
+    "short": "ON",
+    "url": "/currencies/ofin-token",
+    "tags": [
+      "Token"
     ]
   },
   "OKB": {
