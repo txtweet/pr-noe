@@ -312,6 +312,14 @@
       "Token"
     ]
   },
+  "3x Short Litecoin Token": {
+    "name": "3x Short Litecoin Token",
+    "short": "LTCBEAR",
+    "url": "/currencies/3x-short-litecoin-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
     "short": "XTZBEAR",
@@ -1500,6 +1508,14 @@
     "name": "BEAT",
     "short": "BEAT",
     "url": "/currencies/beat",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BELIEVER": {
+    "name": "BELIEVER",
+    "short": "BLVR",
+    "url": "/currencies/believer",
     "tags": [
       "Token"
     ]
@@ -7956,6 +7972,16 @@
       "Token"
     ]
   },
+  "GAPS": {
+    "name": "GAPS",
+    "short": "GAP",
+    "url": "/currencies/gaps",
+    "tags": [
+      "Token",
+      "Services",
+      "Prediction Markets"
+    ]
+  },
   "GCN Coin": {
     "name": "GCN Coin",
     "short": "GCN",
@@ -9992,6 +10018,14 @@
       "Token"
     ]
   },
+  "Jingtum Tech": {
+    "name": "Jingtum Tech",
+    "short": "SWTC",
+    "url": "/currencies/jingtum-tech",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Joint Ventures": {
     "name": "Joint Ventures",
     "short": "JOINT",
@@ -10014,6 +10048,14 @@
     "url": "/currencies/juggernaut",
     "tags": [
       "Token"
+    ]
+  },
+  "Junsonmingchncoin": {
+    "name": "Junsonmingchncoin",
+    "short": "JMC",
+    "url": "/currencies/junsonmingchncoin",
+    "tags": [
+      "Coin"
     ]
   },
   "Jupiter": {
@@ -13505,6 +13547,14 @@
       "Token"
     ]
   },
+  "Payship": {
+    "name": "Payship",
+    "short": "PSHP",
+    "url": "/currencies/payship",
+    "tags": [
+      "Token"
+    ]
+  },
   "Paytomat": {
     "name": "Paytomat",
     "short": "PTI",
@@ -14969,6 +15019,14 @@
       "Stablecoin - Asset-Backed"
     ]
   },
+  "Ruze Finance": {
+    "name": "Ruze Finance",
+    "short": "RUZE",
+    "url": "/currencies/ruze-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ryo Currency": {
     "name": "Ryo Currency",
     "short": "RYO",
@@ -16093,6 +16151,16 @@
       "Token"
     ]
   },
+  "Spaghetti": {
+    "name": "Spaghetti",
+    "short": "PASTA",
+    "url": "/currencies/spaghetti",
+    "tags": [
+      "Token",
+      "Memes",
+      "Yield farming"
+    ]
+  },
   "Sparkle Loyalty": {
     "name": "Sparkle Loyalty",
     "short": "SPRKL",
@@ -16912,6 +16980,14 @@
     "name": "Tcbcoin",
     "short": "TCFX",
     "url": "/currencies/tcbcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Tchain": {
+    "name": "Tchain",
+    "short": "TCH",
+    "url": "/currencies/tchain",
     "tags": [
       "Token"
     ]
@@ -18215,6 +18291,14 @@
       "Coin"
     ]
   },
+  "VN Token": {
+    "name": "VN Token",
+    "short": "VN",
+    "url": "/currencies/vn-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "VNDC": {
     "name": "VNDC",
     "short": "VNDC",
@@ -19289,6 +19373,15 @@
       "Token"
     ]
   },
+  "YENTEN": {
+    "name": "YENTEN",
+    "short": "YTN",
+    "url": "/currencies/yenten",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "YEP COIN": {
     "name": "YEP COIN",
     "short": "YEP",
@@ -19426,6 +19519,14 @@
     "name": "YFOS.finance",
     "short": "YFOS",
     "url": "/currencies/yfos-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFOX FINANCE": {
+    "name": "YFOX FINANCE",
+    "short": "YFOX",
+    "url": "/currencies/yfox-finance",
     "tags": [
       "Token"
     ]
