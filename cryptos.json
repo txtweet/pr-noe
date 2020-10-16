@@ -356,6 +356,21 @@
       "Marketing"
     ]
   },
+  "ADAMANT Messenger": {
+    "name": "ADAMANT Messenger",
+    "short": "ADM",
+    "url": "/currencies/adamant-messenger",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Asset management",
+      "Technology",
+      "Privacy",
+      "Wallet",
+      "Communications & Social Media",
+      "Enterprise solutions"
+    ]
+  },
   "AICON": {
     "name": "AICON",
     "short": "AICO",
@@ -2579,6 +2594,17 @@
       "Coin"
     ]
   },
+  "Bitzeny": {
+    "name": "Bitzeny",
+    "short": "ZNY",
+    "url": "/currencies/bitzeny",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Blackmoon": {
     "name": "Blackmoon",
     "short": "BMC",
@@ -2586,6 +2612,14 @@
     "tags": [
       "Token",
       "Services"
+    ]
+  },
+  "Blacknet": {
+    "name": "Blacknet",
+    "short": "BLN",
+    "url": "/currencies/blacknet",
+    "tags": [
+      "Coin"
     ]
   },
   "Blaze Network": {
@@ -3623,6 +3657,14 @@
       "Token"
     ]
   },
+  "Chi Gastoken": {
+    "name": "Chi Gastoken",
+    "short": "CHI",
+    "url": "/currencies/chi-gastoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Chiliz": {
     "name": "Chiliz",
     "short": "CHZ",
@@ -4062,6 +4104,14 @@
     "name": "Consensus Cell Network",
     "short": "ECELL",
     "url": "/currencies/consensus-cell-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Consentium": {
+    "name": "Consentium",
+    "short": "CSM",
+    "url": "/currencies/consentium",
     "tags": [
       "Token"
     ]
@@ -5465,6 +5515,15 @@
       "Platform"
     ]
   },
+  "Dinastycoin": {
+    "name": "Dinastycoin",
+    "short": "DCY",
+    "url": "/currencies/dinastycoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Dinero": {
     "name": "Dinero",
     "short": "DIN",
@@ -6416,6 +6475,14 @@
       "Token"
     ]
   },
+  "Epic": {
+    "name": "Epic",
+    "short": "EPIC",
+    "url": "/currencies/epic",
+    "tags": [
+      "Token"
+    ]
+  },
   "Equilibria": {
     "name": "Equilibria",
     "short": "XEQ",
@@ -6485,6 +6552,14 @@
     "name": "Eterbase Utility Token",
     "short": "XBASE",
     "url": "/currencies/eterbase-utility-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ether Kingdoms Token": {
+    "name": "Ether Kingdoms Token",
+    "short": "IMP",
+    "url": "/currencies/ether-kingdoms-token",
     "tags": [
       "Token"
     ]
@@ -7005,6 +7080,16 @@
       "Token"
     ]
   },
+  "Fetch.ai": {
+    "name": "Fetch.ai",
+    "short": "FET",
+    "url": "/currencies/fetch",
+    "tags": [
+      "Token",
+      "Technology",
+      "AI & Big Data"
+    ]
+  },
   "FidexToken": {
     "name": "FidexToken",
     "short": "FEX",
@@ -7375,6 +7460,14 @@
     "name": "GLOBEX",
     "short": "GEX",
     "url": "/currencies/globex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "GM Holding": {
+    "name": "GM Holding",
+    "short": "GM",
+    "url": "/currencies/gm-holding",
     "tags": [
       "Token"
     ]
@@ -8977,6 +9070,16 @@
       "Mineable"
     ]
   },
+  "Insight Chain": {
+    "name": "Insight Chain",
+    "short": "INB",
+    "url": "/currencies/insight-chain",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Distributed Computing"
+    ]
+  },
   "Insight Protocol": {
     "name": "Insight Protocol",
     "short": "INX",
@@ -9142,6 +9245,14 @@
     "url": "/currencies/jboxcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "JD Coin": {
+    "name": "JD Coin",
+    "short": "JDC",
+    "url": "/currencies/jd-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "JET8": {
@@ -10376,6 +10487,14 @@
       "Token"
     ]
   },
+  "Mafia.Network": {
+    "name": "Mafia.Network",
+    "short": "MAFI",
+    "url": "/currencies/mafia-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Magic Cube Coin": {
     "name": "Magic Cube Coin",
     "short": "MCC",
@@ -11572,6 +11691,14 @@
       "Token"
     ]
   },
+  "Newsolution": {
+    "name": "Newsolution",
+    "short": "NST",
+    "url": "/currencies/newsolution",
+    "tags": [
+      "Token"
+    ]
+  },
   "Newton": {
     "name": "Newton",
     "short": "NEW",
@@ -11864,6 +11991,14 @@
     "name": "OWNDATA",
     "short": "OWN",
     "url": "/currencies/owndata",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Obee Network": {
+    "name": "Obee Network",
+    "short": "OBEE",
+    "url": "/currencies/obee-network",
     "tags": [
       "Token"
     ]
@@ -12636,6 +12771,14 @@
       "Content Creation"
     ]
   },
+  "Phantasma Energy": {
+    "name": "Phantasma Energy",
+    "short": "KCAL",
+    "url": "/currencies/phantasma-energy",
+    "tags": [
+      "Token"
+    ]
+  },
   "Phantomx": {
     "name": "Phantomx",
     "short": "PNX",
@@ -12672,6 +12815,15 @@
       "Mineable",
       "PoW",
       "BLAKE256"
+    ]
+  },
+  "Pickle Finance": {
+    "name": "Pickle Finance",
+    "short": "PICKLE",
+    "url": "/currencies/pickle-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
     ]
   },
   "PieDAO BTC++": {
@@ -14959,6 +15111,15 @@
       "Token"
     ]
   },
+  "Spectre.ai Utility Token": {
+    "name": "Spectre.ai Utility Token",
+    "short": "SXUT",
+    "url": "/currencies/spectre-utility",
+    "tags": [
+      "Token",
+      "Marketplace"
+    ]
+  },
   "SpectrumCash": {
     "name": "SpectrumCash",
     "short": "XSM",
@@ -15107,6 +15268,17 @@
       "X13",
       "Medium of Exchange",
       "Privacy"
+    ]
+  },
+  "Steem Dollars": {
+    "name": "Steem Dollars",
+    "short": "SBD",
+    "url": "/currencies/steem-dollars",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation",
+      "Stablecoin"
     ]
   },
   "Stobox Token": {
@@ -15312,6 +15484,15 @@
     "tags": [
       "Token",
       "Marketplace"
+    ]
+  },
+  "Swerve": {
+    "name": "Swerve",
+    "short": "SWRV",
+    "url": "/currencies/swerve",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "SwftCoin": {
@@ -16466,6 +16647,15 @@
       "Token"
     ]
   },
+  "Ultiledger": {
+    "name": "Ultiledger",
+    "short": "ULT",
+    "url": "/currencies/ultiledger",
+    "tags": [
+      "Token",
+      "Services"
+    ]
+  },
   "Ultimate Secure Cash": {
     "name": "Ultimate Secure Cash",
     "short": "USC",
@@ -16693,6 +16883,15 @@
     "url": "/currencies/unknown-fair-object",
     "tags": [
       "Coin"
+    ]
+  },
+  "UnlimitedIP": {
+    "name": "UnlimitedIP",
+    "short": "UIP",
+    "url": "/currencies/unlimitedip",
+    "tags": [
+      "Token",
+      "Marketplace"
     ]
   },
   "Unochain": {
@@ -16971,6 +17170,18 @@
     "url": "/currencies/veraone",
     "tags": [
       "Token"
+    ]
+  },
+  "Verge": {
+    "name": "Verge",
+    "short": "XVG",
+    "url": "/currencies/verge",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Multiple",
+      "Medium of Exchange",
+      "Privacy"
     ]
   },
   "VeriCoin": {
@@ -17614,6 +17825,14 @@
     "name": "XIO",
     "short": "XIO",
     "url": "/currencies/xio",
+    "tags": [
+      "Token"
+    ]
+  },
+  "XMCT": {
+    "name": "XMCT",
+    "short": "XMCT",
+    "url": "/currencies/xmct",
     "tags": [
       "Token"
     ]
@@ -18441,6 +18660,23 @@
     "url": "/currencies/zik-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Zipper": {
+    "name": "Zipper",
+    "short": "ZIP",
+    "url": "/currencies/zip",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ZrCoin": {
+    "name": "ZrCoin",
+    "short": "ZRC",
+    "url": "/currencies/zrcoin",
+    "tags": [
+      "Token",
+      "Services"
     ]
   },
   "Zuflo Coin": {
