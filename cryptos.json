@@ -7766,6 +7766,14 @@
       "Token"
     ]
   },
+  "GoldenPyrex": {
+    "name": "GoldenPyrex",
+    "short": "GPYX",
+    "url": "/currencies/goldenpyrex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Golem": {
     "name": "Golem",
     "short": "GNT",
@@ -11771,6 +11779,14 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS"
+    ]
+  },
+  "OLXA": {
+    "name": "OLXA",
+    "short": "OLXA",
+    "url": "/currencies/olxa",
+    "tags": [
+      "Token"
     ]
   },
   "OMG Network": {
@@ -16745,6 +16761,14 @@
       "Smart Contracts"
     ]
   },
+  "VENA": {
+    "name": "VENA",
+    "short": "VENA",
+    "url": "/currencies/vena",
+    "tags": [
+      "Token"
+    ]
+  },
   "VENJOCOIN": {
     "name": "VENJOCOIN",
     "short": "VJC",
@@ -17522,6 +17546,14 @@
     "name": "Wrapped Origin Axie",
     "short": "WOA",
     "url": "/currencies/wrapped-origin-axie",
+    "tags": [
+      "Token"
+    ]
+  },
+  "X-Block": {
+    "name": "X-Block",
+    "short": "IX",
+    "url": "/currencies/x-block",
     "tags": [
       "Token"
     ]
