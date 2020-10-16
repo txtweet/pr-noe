@@ -7,6 +7,14 @@
       "Token"
     ]
   },
+  "0cash": {
+    "name": "0cash",
+    "short": "ZCH",
+    "url": "/currencies/0cash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "0xBitcoin": {
     "name": "0xBitcoin",
     "short": "0xBTC",
@@ -635,6 +643,17 @@
       "Token"
     ]
   },
+  "Acoin": {
+    "name": "Acoin",
+    "short": "ACOIN",
+    "url": "/currencies/acoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
+    ]
+  },
   "Acute Angle Cloud": {
     "name": "Acute Angle Cloud",
     "short": "AAC",
@@ -1108,6 +1127,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "Aquila Protocol": {
+    "name": "Aquila Protocol",
+    "short": "AUX",
+    "url": "/currencies/aquila-protocol",
+    "tags": [
+      "Token"
     ]
   },
   "Aragon": {
@@ -2308,6 +2335,16 @@
       "Loyalty"
     ]
   },
+  "Bitcloud": {
+    "name": "Bitcloud",
+    "short": "BTDX",
+    "url": "/currencies/bitcloud",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Quark"
+    ]
+  },
   "Bitcloud Pro": {
     "name": "Bitcloud Pro",
     "short": "BPRO",
@@ -3447,6 +3484,15 @@
       "Token"
     ]
   },
+  "Cannation": {
+    "name": "Cannation",
+    "short": "CNNC",
+    "url": "/currencies/cannation",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Cappasity": {
     "name": "Cappasity",
     "short": "CAPP",
@@ -3894,6 +3940,15 @@
       "DApp",
       "Stablecoin - Asset-Backed",
       "Payments"
+    ]
+  },
+  "Coin Artist": {
+    "name": "Coin Artist",
+    "short": "COIN",
+    "url": "/currencies/coin-artist",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "Coin Controller Cash": {
@@ -4478,6 +4533,14 @@
     "name": "Crypto Accept",
     "short": "ACPT",
     "url": "/currencies/crypto-accept",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Crypto Holding Frank Token": {
+    "name": "Crypto Holding Frank Token",
+    "short": "CHFT",
+    "url": "/currencies/crypto-holding-frank-token",
     "tags": [
       "Token"
     ]
@@ -5520,6 +5583,17 @@
       "Yield farming"
     ]
   },
+  "Diamond": {
+    "name": "Diamond",
+    "short": "DMD",
+    "url": "/currencies/diamond",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Groestl"
+    ]
+  },
   "DigiDinar": {
     "name": "DigiDinar",
     "short": "DDR",
@@ -6168,6 +6242,14 @@
       "Smart Contracts"
     ]
   },
+  "EYES Protocol": {
+    "name": "EYES Protocol",
+    "short": "EYES",
+    "url": "/currencies/eyes-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "EagleX": {
     "name": "EagleX",
     "short": "EGX",
@@ -6267,6 +6349,14 @@
       "Token",
       "Real Estate",
       "Smart Contracts"
+    ]
+  },
+  "Eden": {
+    "name": "Eden",
+    "short": "EDN",
+    "url": "/currencies/eden",
+    "tags": [
+      "Token"
     ]
   },
   "Edge": {
@@ -6844,6 +6934,14 @@
     "name": "Ethereum Meta",
     "short": "ETHM",
     "url": "/currencies/ethereum-meta",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ethereum Vault": {
+    "name": "Ethereum Vault",
+    "short": "ETHV",
+    "url": "/currencies/ethereum-vault",
     "tags": [
       "Token"
     ]
@@ -11007,6 +11105,14 @@
       "Token"
     ]
   },
+  "Melecoin": {
+    "name": "Melecoin",
+    "short": "MELE",
+    "url": "/currencies/melecoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Membrana": {
     "name": "Membrana",
     "short": "MBN",
@@ -11288,6 +11394,14 @@
       "Coin"
     ]
   },
+  "Mobilian Coin": {
+    "name": "Mobilian Coin",
+    "short": "MBN",
+    "url": "/currencies/mobilian-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mochimo": {
     "name": "Mochimo",
     "short": "MCM",
@@ -11308,6 +11422,14 @@
     "name": "Modex",
     "short": "MODEX",
     "url": "/currencies/modex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ModiHost": {
+    "name": "ModiHost",
+    "short": "AIM",
+    "url": "/currencies/modihost",
     "tags": [
       "Token"
     ]
@@ -11597,6 +11719,16 @@
     "url": "/currencies/mytoken",
     "tags": [
       "Token"
+    ]
+  },
+  "NAGA": {
+    "name": "NAGA",
+    "short": "NGC",
+    "url": "/currencies/naga",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange"
     ]
   },
   "NANJCOIN": {
@@ -12474,6 +12606,14 @@
     "name": "Opus",
     "short": "OPT",
     "url": "/currencies/opus",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Oracle System": {
+    "name": "Oracle System",
+    "short": "ORC",
+    "url": "/currencies/oracle-system",
     "tags": [
       "Token"
     ]
@@ -13866,6 +14006,14 @@
     "url": "/currencies/ring-x-platform",
     "tags": [
       "Coin"
+    ]
+  },
+  "ROAD": {
+    "name": "ROAD",
+    "short": "ROAD",
+    "url": "/currencies/road",
+    "tags": [
+      "Token"
     ]
   },
   "ROIyal Coin": {
@@ -15324,6 +15472,14 @@
       "Entertainment"
     ]
   },
+  "Soda Coin": {
+    "name": "Soda Coin",
+    "short": "SOC",
+    "url": "/currencies/soda-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Solana": {
     "name": "Solana",
     "short": "SOL",
@@ -16268,6 +16424,15 @@
       "Enterprise solutions"
     ]
   },
+  "Teloscoin": {
+    "name": "Teloscoin",
+    "short": "TELOS",
+    "url": "/currencies/teloscoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Temtum": {
     "name": "Temtum",
     "short": "TEM",
@@ -16429,6 +16594,14 @@
     "name": "The Hash Speed",
     "short": "THS",
     "url": "/currencies/the-hash-speed",
+    "tags": [
+      "Token"
+    ]
+  },
+  "The Hustle App": {
+    "name": "The Hustle App",
+    "short": "HUSL",
+    "url": "/currencies/the-hustle-app",
     "tags": [
       "Token"
     ]
@@ -16625,6 +16798,15 @@
       "Privacy",
       "Payments",
       "Interoperability"
+    ]
+  },
+  "ToaCoin": {
+    "name": "ToaCoin",
+    "short": "TOA",
+    "url": "/currencies/toacoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Toast.finance": {
@@ -17759,6 +17941,14 @@
       "Token",
       "Platform",
       "Smart Contracts"
+    ]
+  },
+  "Vesta Protocol": {
+    "name": "Vesta Protocol",
+    "short": "VESTA",
+    "url": "/currencies/vesta-protocol",
+    "tags": [
+      "Token"
     ]
   },
   "Vexanium": {
@@ -19757,6 +19947,14 @@
     "url": "/currencies/wys-token",
     "tags": [
       "Token"
+    ]
+  },
+  "x42 Protocol": {
+    "name": "x42 Protocol",
+    "short": "X42",
+    "url": "/currencies/x42-protocol",
+    "tags": [
+      "Coin"
     ]
   },
   "xBTC": {
