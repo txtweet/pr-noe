@@ -4705,6 +4705,14 @@
       "Token"
     ]
   },
+  "Custody Token": {
+    "name": "Custody Token",
+    "short": "CUST",
+    "url": "/currencies/custody-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cyber Movie Chain": {
     "name": "Cyber Movie Chain",
     "short": "CMCT",
@@ -5016,6 +5024,15 @@
     "url": "/currencies/dws",
     "tags": [
       "Token"
+    ]
+  },
+  "DXdao": {
+    "name": "DXdao",
+    "short": "DXD",
+    "url": "/currencies/dxdao",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "Dai": {
@@ -6621,6 +6638,14 @@
       "Token"
     ]
   },
+  "Entherfound": {
+    "name": "Entherfound",
+    "short": "ETF",
+    "url": "/currencies/entherfound",
+    "tags": [
+      "Token"
+    ]
+  },
   "Epic": {
     "name": "Epic",
     "short": "EPIC",
@@ -7217,6 +7242,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Fee Active Collateral Token": {
+    "name": "Fee Active Collateral Token",
+    "short": "FACT",
+    "url": "/currencies/fee-active-collateral-token",
+    "tags": [
+      "Token"
     ]
   },
   "Feellike": {
@@ -8781,6 +8814,14 @@
       "Mineable",
       "PoW",
       "Equihash"
+    ]
+  },
+  "Hxro": {
+    "name": "Hxro",
+    "short": "HXRO",
+    "url": "/currencies/hxro",
+    "tags": [
+      "Token"
     ]
   },
   "Hydro": {
@@ -14186,6 +14227,14 @@
       "Token"
     ]
   },
+  "RoboCalls": {
+    "name": "RoboCalls",
+    "short": "RC20",
+    "url": "/currencies/robocalls",
+    "tags": [
+      "Token"
+    ]
+  },
   "Robonomics.network": {
     "name": "Robonomics.network",
     "short": "XRT",
@@ -16209,6 +16258,16 @@
       "Oracles"
     ]
   },
+  "Telos": {
+    "name": "Telos",
+    "short": "TLOS",
+    "url": "/currencies/telos",
+    "tags": [
+      "Token",
+      "Services",
+      "Enterprise solutions"
+    ]
+  },
   "Temtum": {
     "name": "Temtum",
     "short": "TEM",
@@ -17131,6 +17190,14 @@
     "name": "Unibomb",
     "short": "UBOMB",
     "url": "/currencies/unibomb",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Unibright": {
+    "name": "Unibright",
+    "short": "UBT",
+    "url": "/currencies/unibright",
     "tags": [
       "Token"
     ]
@@ -18948,6 +19015,15 @@
       "Medium of Exchange",
       "Zero Knowledge Proofs",
       "Binance Chain"
+    ]
+  },
+  "Zealium": {
+    "name": "Zealium",
+    "short": "NZL",
+    "url": "/currencies/zealium",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Zebi Token": {
