@@ -1108,6 +1108,17 @@
       "Token"
     ]
   },
+  "Argus": {
+    "name": "Argus",
+    "short": "ARGUS",
+    "url": "/currencies/argus",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "Arion": {
     "name": "Arion",
     "short": "ARION",
@@ -1975,6 +1986,15 @@
     "url": "/currencies/bilaxy-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Billionaire Token": {
+    "name": "Billionaire Token",
+    "short": "XBL",
+    "url": "/currencies/billionaire-token",
+    "tags": [
+      "Token",
+      "Gambling"
     ]
   },
   "Binance Coin": {
@@ -4912,6 +4932,16 @@
       "Token"
     ]
   },
+  "Datawallet": {
+    "name": "Datawallet",
+    "short": "DXT",
+    "url": "/currencies/datawallet",
+    "tags": [
+      "Token",
+      "Services",
+      "Wallet"
+    ]
+  },
   "Datum": {
     "name": "Datum",
     "short": "DAT",
@@ -5490,6 +5520,15 @@
     "url": "/currencies/dogz",
     "tags": [
       "Coin"
+    ]
+  },
+  "Dollar International": {
+    "name": "Dollar International",
+    "short": "DOLLAR",
+    "url": "/currencies/dollar-international",
+    "tags": [
+      "Token",
+      "Mineable"
     ]
   },
   "Dollars": {
@@ -6921,6 +6960,14 @@
     "name": "Finswap",
     "short": "FNSP",
     "url": "/currencies/finswap",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Fintab": {
+    "name": "Fintab",
+    "short": "FNTB",
+    "url": "/currencies/fintab",
     "tags": [
       "Token"
     ]
@@ -11531,6 +11578,17 @@
       "Hybrid - PoW & PoS"
     ]
   },
+  "OMG Network": {
+    "name": "OMG Network",
+    "short": "OMG",
+    "url": "/currencies/omg",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments",
+      "State channels"
+    ]
+  },
   "ONOToken": {
     "name": "ONOToken",
     "short": "ONOT",
@@ -12195,6 +12253,14 @@
       "Token",
       "Marketplace",
       "Smart Contracts"
+    ]
+  },
+  "Paymon": {
+    "name": "Paymon",
+    "short": "PMNT",
+    "url": "/currencies/paymon",
+    "tags": [
+      "Token"
     ]
   },
   "Paypex": {
@@ -13785,6 +13851,14 @@
     "name": "SUN",
     "short": "SUN",
     "url": "/currencies/sun",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SWAG Finance": {
+    "name": "SWAG Finance",
+    "short": "SWAG",
+    "url": "/currencies/swag-finance",
     "tags": [
       "Token"
     ]
@@ -17258,6 +17332,14 @@
       "Binance Chain"
     ]
   },
+  "XRPDOWN": {
+    "name": "XRPDOWN",
+    "short": "XRPDOWN",
+    "url": "/currencies/xrpdown",
+    "tags": [
+      "Coin"
+    ]
+  },
   "XRPUP": {
     "name": "XRPUP",
     "short": "XRPUP",
@@ -17960,6 +18042,16 @@
       "Token"
     ]
   },
+  "Zennies": {
+    "name": "Zennies",
+    "short": "ZENI",
+    "url": "/currencies/zennies",
+    "tags": [
+      "Coin",
+      "PoS",
+      "Scrypt"
+    ]
+  },
   "Zenon": {
     "name": "Zenon",
     "short": "ZNN",
@@ -18363,6 +18455,21 @@
     "url": "/currencies/junca-cash",
     "tags": [
       "Token"
+    ]
+  },
+  "onLEXpa": {
+    "name": "onLEXpa",
+    "short": "onLEXpa",
+    "url": "/currencies/onlexpa",
+    "tags": [
+      "Token",
+      "Services",
+      "Smart Contracts",
+      "Entertainment",
+      "Stablecoin - Asset-Backed",
+      "Payments",
+      "Marketing",
+      "Education"
     ]
   },
   "pEOS": {
