@@ -6757,6 +6757,14 @@
       "Token"
     ]
   },
+  "FREE Coin": {
+    "name": "FREE Coin",
+    "short": "FREE",
+    "url": "/currencies/free-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "FSBT API Token": {
     "name": "FSBT API Token",
     "short": "FSBT",
@@ -11151,6 +11159,14 @@
     "url": "/currencies/natmin-pure-escrow",
     "tags": [
       "Token"
+    ]
+  },
+  "Ndau": {
+    "name": "Ndau",
+    "short": "NDAU",
+    "url": "/currencies/ndau",
+    "tags": [
+      "Coin"
     ]
   },
   "Nebula AI": {
@@ -17607,6 +17623,14 @@
     "name": "Yearn Finance Farm",
     "short": "YFF",
     "url": "/currencies/yearn-finance-farm",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn Finance Passive Income": {
+    "name": "Yearn Finance Passive Income",
+    "short": "YFPI",
+    "url": "/currencies/yearn-finance-passive-income",
     "tags": [
       "Token"
     ]
