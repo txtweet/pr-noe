@@ -200,6 +200,14 @@
       "Token"
     ]
   },
+  "3X Short Cardano Token": {
+    "name": "3X Short Cardano Token",
+    "short": "ADABEAR",
+    "url": "/currencies/3x-short-cardano-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
     "short": "LINKBEAR",
@@ -1631,6 +1639,14 @@
       "Token",
       "Marketplace",
       "Payments"
+    ]
+  },
+  "BTC Lite": {
+    "name": "BTC Lite",
+    "short": "BTCL",
+    "url": "/currencies/btc-lite",
+    "tags": [
+      "Token"
     ]
   },
   "BTC Network Demand Set II": {
@@ -13396,6 +13412,14 @@
       "Token"
     ]
   },
+  "PlatonCoin": {
+    "name": "PlatonCoin",
+    "short": "PLTC",
+    "url": "/currencies/platoncoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Play Royal": {
     "name": "Play Royal",
     "short": "PLAY",
@@ -15189,6 +15213,14 @@
     "name": "Shivers",
     "short": "SHVR",
     "url": "/currencies/shivers",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ShowHand": {
+    "name": "ShowHand",
+    "short": "HAND",
+    "url": "/currencies/showhand",
     "tags": [
       "Token"
     ]
@@ -19923,6 +19955,14 @@
     "tags": [
       "Token",
       "Gambling"
+    ]
+  },
+  "vSportCoin": {
+    "name": "vSportCoin",
+    "short": "VSC",
+    "url": "/currencies/vsportcoin",
+    "tags": [
+      "Token"
     ]
   },
   "wave edu coin": {
