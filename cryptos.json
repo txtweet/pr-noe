@@ -6491,6 +6491,14 @@
       "Coin"
     ]
   },
+  "Equus Mining Token": {
+    "name": "Equus Mining Token",
+    "short": "EQMT",
+    "url": "/currencies/equus-mining-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ergo": {
     "name": "Ergo",
     "short": "ERG",
@@ -7488,6 +7496,14 @@
       "Token"
     ]
   },
+  "GRAP": {
+    "name": "GRAP",
+    "short": "GRAP",
+    "url": "/currencies/grap",
+    "tags": [
+      "Token"
+    ]
+  },
   "GXChain": {
     "name": "GXChain",
     "short": "GXC",
@@ -7727,6 +7743,14 @@
     "name": "Global Rental Token",
     "short": "GRT",
     "url": "/currencies/global-rental-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Global Reserve System": {
+    "name": "Global Reserve System",
+    "short": "GLOB",
+    "url": "/currencies/global-reserve-system",
     "tags": [
       "Token"
     ]
@@ -10084,6 +10108,14 @@
     "name": "Lition",
     "short": "LIT",
     "url": "/currencies/lition",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LivenPay": {
+    "name": "LivenPay",
+    "short": "LVN",
+    "url": "/currencies/livenpay",
     "tags": [
       "Token"
     ]
