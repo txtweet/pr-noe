@@ -16,6 +16,14 @@
       "Mineable"
     ]
   },
+  "1World": {
+    "name": "1World",
+    "short": "1WO",
+    "url": "/currencies/1world",
+    "tags": [
+      "Token"
+    ]
+  },
   "1X Short Ethereum Token": {
     "name": "1X Short Ethereum Token",
     "short": "ETHHEDGE",
@@ -112,6 +120,14 @@
       "Token"
     ]
   },
+  "3X Long Huobi Token Token": {
+    "name": "3X Long Huobi Token Token",
+    "short": "HTBULL",
+    "url": "/currencies/3x-long-huobi-token-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Long Matic Token": {
     "name": "3X Long Matic Token",
     "short": "MATICBULL",
@@ -124,6 +140,14 @@
     "name": "3X Long OKB Token",
     "short": "OKBBULL",
     "url": "/currencies/3x-long-okb-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "3X Long Sushi Token": {
+    "name": "3X Long Sushi Token",
+    "short": "SUSHIBULL",
+    "url": "/currencies/3x-long-sushi-token",
     "tags": [
       "Token"
     ]
@@ -2657,6 +2681,14 @@
       "Token"
     ]
   },
+  "Blocktrade Token": {
+    "name": "Blocktrade Token",
+    "short": "BTT",
+    "url": "/currencies/blocktrade-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Blood": {
     "name": "Blood",
     "short": "BLOOD",
@@ -3522,6 +3554,14 @@
       "Coin"
     ]
   },
+  "ChartEx": {
+    "name": "ChartEx",
+    "short": "CHART",
+    "url": "/currencies/chartex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cherry Token": {
     "name": "Cherry Token",
     "short": "YT",
@@ -3777,6 +3817,14 @@
     "name": "Coinzo Token",
     "short": "CNZ",
     "url": "/currencies/coinzo-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Color Platform": {
+    "name": "Color Platform",
+    "short": "CLR",
+    "url": "/currencies/color-platform",
     "tags": [
       "Token"
     ]
@@ -4230,6 +4278,17 @@
     "url": "/currencies/crypto-village-accelerator",
     "tags": [
       "Token"
+    ]
+  },
+  "Crypto.com Coin": {
+    "name": "Crypto.com Coin",
+    "short": "CRO",
+    "url": "/currencies/crypto-com-coin",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Mobile",
+      "Payments"
     ]
   },
   "CryptoBharatCoin": {
@@ -4724,6 +4783,14 @@
       "Token"
     ]
   },
+  "DWS": {
+    "name": "DWS",
+    "short": "DWS",
+    "url": "/currencies/dws",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dai": {
     "name": "Dai",
     "short": "DAI",
@@ -4971,6 +5038,14 @@
     "tags": [
       "Token",
       "Gambling"
+    ]
+  },
+  "Decentrahub Coin": {
+    "name": "Decentrahub Coin",
+    "short": "DCNTR",
+    "url": "/currencies/decentrahub-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Decentralized Crypto Token": {
@@ -6664,6 +6739,14 @@
       "Token"
     ]
   },
+  "FUTURAX": {
+    "name": "FUTURAX",
+    "short": "FTXT",
+    "url": "/currencies/futurax",
+    "tags": [
+      "Token"
+    ]
+  },
   "FUTUREXCRYPTO": {
     "name": "FUTUREXCRYPTO",
     "short": "FXC",
@@ -6711,6 +6794,19 @@
     "url": "/currencies/farmatrust",
     "tags": [
       "Token"
+    ]
+  },
+  "Feathercoin": {
+    "name": "Feathercoin",
+    "short": "FTC",
+    "url": "/currencies/feathercoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "NeoScrypt",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "FedoraCoin": {
@@ -7662,6 +7758,14 @@
       "Coin"
     ]
   },
+  "HOMIHELP": {
+    "name": "HOMIHELP",
+    "short": "HOMI",
+    "url": "/currencies/homihelp",
+    "tags": [
+      "Token"
+    ]
+  },
   "HOMT": {
     "name": "HOMT",
     "short": "HOMT",
@@ -8307,6 +8411,15 @@
       "Token"
     ]
   },
+  "INDINODE": {
+    "name": "INDINODE",
+    "short": "XIND",
+    "url": "/currencies/indinode",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "INMAX": {
     "name": "INMAX",
     "short": "INX",
@@ -8420,6 +8533,14 @@
     "name": "IXT",
     "short": "IXT",
     "url": "/currencies/ixledger",
+    "tags": [
+      "Token"
+    ]
+  },
+  "IZE": {
+    "name": "IZE",
+    "short": "IZE",
+    "url": "/currencies/ize",
     "tags": [
       "Token"
     ]
@@ -8818,6 +8939,14 @@
       "Data Provenance"
     ]
   },
+  "Jarvis+": {
+    "name": "Jarvis+",
+    "short": "JAR",
+    "url": "/currencies/jarvis",
+    "tags": [
+      "Token"
+    ]
+  },
   "JavaScript Token": {
     "name": "JavaScript Token",
     "short": "JS",
@@ -8969,6 +9098,14 @@
     "name": "Kambria",
     "short": "KAT",
     "url": "/currencies/kambria",
+    "tags": [
+      "Token"
+    ]
+  },
+  "KanadeCoin": {
+    "name": "KanadeCoin",
+    "short": "KNDC",
+    "url": "/currencies/kanadecoin",
     "tags": [
       "Token"
     ]
@@ -11172,6 +11309,15 @@
       "Mineable"
     ]
   },
+  "Niobio Cash": {
+    "name": "Niobio Cash",
+    "short": "NBR",
+    "url": "/currencies/niobio-cash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Nobrainer Finance": {
     "name": "Nobrainer Finance",
     "short": "BRAIN",
@@ -12398,6 +12544,14 @@
       "Logistics"
     ]
   },
+  "Porkchop": {
+    "name": "Porkchop",
+    "short": "CHOP",
+    "url": "/currencies/porkchop",
+    "tags": [
+      "Token"
+    ]
+  },
   "Port of DeFi Network": {
     "name": "Port of DeFi Network",
     "short": "PDF",
@@ -13157,6 +13311,16 @@
       "Token"
     ]
   },
+  "Rivetz": {
+    "name": "Rivetz",
+    "short": "RVT",
+    "url": "/currencies/rivetz",
+    "tags": [
+      "Token",
+      "Hardware",
+      "Payments"
+    ]
+  },
   "Rivex": {
     "name": "Rivex",
     "short": "RVX",
@@ -13896,6 +14060,17 @@
       "Token"
     ]
   },
+  "Shift": {
+    "name": "Shift",
+    "short": "SHIFT",
+    "url": "/currencies/shift",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Distributed Computing",
+      "Filesharing"
+    ]
+  },
   "Shill & Win": {
     "name": "Shill & Win",
     "short": "PoSH",
@@ -14571,6 +14746,15 @@
       "Coin"
     ]
   },
+  "Super Bitcoin": {
+    "name": "Super Bitcoin",
+    "short": "SBTC",
+    "url": "/currencies/super-bitcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Super Zero Protocol": {
     "name": "Super Zero Protocol",
     "short": "SERO",
@@ -14735,6 +14919,17 @@
     "url": "/currencies/symverse",
     "tags": [
       "Token"
+    ]
+  },
+  "Synthetix Network Token": {
+    "name": "Synthetix Network Token",
+    "short": "SNX",
+    "url": "/currencies/synthetix-network-token",
+    "tags": [
+      "Token",
+      "Services",
+      "DeFi",
+      "Yield farming"
     ]
   },
   "T.OS": {
@@ -15126,6 +15321,15 @@
       "Token"
     ]
   },
+  "The ChampCoin": {
+    "name": "The ChampCoin",
+    "short": "TCC",
+    "url": "/currencies/the-champcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "The Currency Analytics": {
     "name": "The Currency Analytics",
     "short": "TCAT",
@@ -15233,6 +15437,28 @@
     "url": "/currencies/thore-cash",
     "tags": [
       "Token"
+    ]
+  },
+  "ThoreCoin": {
+    "name": "ThoreCoin",
+    "short": "THR",
+    "url": "/currencies/thorecoin",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Centralized exchange",
+      "Ethereum",
+      "Waves"
+    ]
+  },
+  "ThoreNext": {
+    "name": "ThoreNext",
+    "short": "THX",
+    "url": "/currencies/thorenext",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "ThreeFold Token": {
@@ -17550,6 +17776,14 @@
       "Filesharing"
     ]
   },
+  "ZelaaPayAE": {
+    "name": "ZelaaPayAE",
+    "short": "ZPAE",
+    "url": "/currencies/zelaapayae",
+    "tags": [
+      "Token"
+    ]
+  },
   "Zelerius": {
     "name": "Zelerius",
     "short": "ZLS",
@@ -17671,6 +17905,15 @@
     "url": "/currencies/zyro",
     "tags": [
       "Token"
+    ]
+  },
+  "adbank": {
+    "name": "adbank",
+    "short": "ADB",
+    "url": "/currencies/adbank",
+    "tags": [
+      "Token",
+      "Marketing"
     ]
   },
   "aelf": {
@@ -17814,6 +18057,14 @@
     "url": "/currencies/eboostcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "eToro Euro": {
+    "name": "eToro Euro",
+    "short": "EURX",
+    "url": "/currencies/etoro-euro",
+    "tags": [
+      "Token"
     ]
   },
   "eToro New Zealand Dollar": {
