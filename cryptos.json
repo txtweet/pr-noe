@@ -1896,6 +1896,14 @@
       "Token"
     ]
   },
+  "Becaz": {
+    "name": "Becaz",
+    "short": "BCZ",
+    "url": "/currencies/becaz",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bee Token": {
     "name": "Bee Token",
     "short": "BEE",
@@ -3329,6 +3337,14 @@
     "name": "COMSA [ETH]",
     "short": "CMS",
     "url": "/currencies/comsa-eth",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CORN": {
+    "name": "CORN",
+    "short": "CORN",
+    "url": "/currencies/corn",
     "tags": [
       "Token"
     ]
@@ -12364,6 +12380,14 @@
       "Token"
     ]
   },
+  "Noku": {
+    "name": "Noku",
+    "short": "NOKU",
+    "url": "/currencies/noku",
+    "tags": [
+      "Token"
+    ]
+  },
   "Novacoin": {
     "name": "Novacoin",
     "short": "NVC",
@@ -13636,6 +13660,16 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "PolySwarm": {
+    "name": "PolySwarm",
+    "short": "NCT",
+    "url": "/currencies/polyswarm",
+    "tags": [
+      "Token",
+      "Cybersecurity",
+      "Smart Contracts"
     ]
   },
   "Polybius": {
@@ -14939,6 +14973,15 @@
       "Coin"
     ]
   },
+  "Safex Cash": {
+    "name": "Safex Cash",
+    "short": "SFX",
+    "url": "/currencies/safex-cash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "SalPay": {
     "name": "SalPay",
     "short": "SAL",
@@ -16145,6 +16188,17 @@
     "tags": [
       "Token",
       "Asset management"
+    ]
+  },
+  "SushiSwap": {
+    "name": "SushiSwap",
+    "short": "SUSHI",
+    "url": "/currencies/sushiswap",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Memes",
+      "Yield farming"
     ]
   },
   "Swap": {
@@ -17550,6 +17604,14 @@
     "url": "/currencies/unification",
     "tags": [
       "Token"
+    ]
+  },
+  "Unify": {
+    "name": "Unify",
+    "short": "UNIFY",
+    "url": "/currencies/unify",
+    "tags": [
+      "Coin"
     ]
   },
   "Unikoin Gold": {
@@ -19159,6 +19221,14 @@
     "name": "Yfscience",
     "short": "YFSI",
     "url": "/currencies/yfscience",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yield Breeder DAO": {
+    "name": "Yield Breeder DAO",
+    "short": "YBREE",
+    "url": "/currencies/yield-breeder-dao",
     "tags": [
       "Token"
     ]
