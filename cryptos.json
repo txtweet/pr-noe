@@ -2630,6 +2630,14 @@
       "Coin"
     ]
   },
+  "Bitcoin Confidential": {
+    "name": "Bitcoin Confidential",
+    "short": "BC",
+    "url": "/currencies/bitcoin-confidential",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bitcoin Diamond": {
     "name": "Bitcoin Diamond",
     "short": "BCD",
@@ -4078,6 +4086,14 @@
     "name": "Chi Gastoken",
     "short": "CHI",
     "url": "/currencies/chi-gastoken",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Chicken": {
+    "name": "Chicken",
+    "short": "KFC",
+    "url": "/currencies/chicken",
     "tags": [
       "Token"
     ]
@@ -6185,6 +6201,14 @@
     "name": "Distributed Energy Coin",
     "short": "DEC",
     "url": "/currencies/distributed-energy-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DoDreamChain": {
+    "name": "DoDreamChain",
+    "short": "DRM",
+    "url": "/currencies/dodreamchain",
     "tags": [
       "Token"
     ]
@@ -10122,6 +10146,14 @@
     "name": "Insureum",
     "short": "ISR",
     "url": "/currencies/insureum",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Intelligent Investment Chain": {
+    "name": "Intelligent Investment Chain",
+    "short": "IIC",
+    "url": "/currencies/intelligent-investment-chain",
     "tags": [
       "Token"
     ]
@@ -14726,6 +14758,14 @@
       "Scrypt"
     ]
   },
+  "PowerBalt": {
+    "name": "PowerBalt",
+    "short": "PWRB",
+    "url": "/currencies/powerbalt",
+    "tags": [
+      "Coin"
+    ]
+  },
   "PowerTrade Fuel": {
     "name": "PowerTrade Fuel",
     "short": "PTF",
@@ -15055,6 +15095,14 @@
       "Coin",
       "Platform",
       "Smart Contracts"
+    ]
+  },
+  "QuadrantProtocol": {
+    "name": "QuadrantProtocol",
+    "short": "EQUAD",
+    "url": "/currencies/quadrantprotocol",
+    "tags": [
+      "Token"
     ]
   },
   "Quant": {
@@ -18996,6 +19044,14 @@
       "Marketplace",
       "Medium of Exchange",
       "Services"
+    ]
+  },
+  "Uranus": {
+    "name": "Uranus",
+    "short": "URAC",
+    "url": "/currencies/uranus",
+    "tags": [
+      "Token"
     ]
   },
   "Utrum": {
