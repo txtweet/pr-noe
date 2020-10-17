@@ -2383,6 +2383,15 @@
       "Privacy"
     ]
   },
+  "Bella Protocol": {
+    "name": "Bella Protocol",
+    "short": "BEL",
+    "url": "/currencies/bella-protocol",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Bellevue Network": {
     "name": "Bellevue Network",
     "short": "BLV",
@@ -5901,6 +5910,17 @@
       "Token"
     ]
   },
+  "DFI.Money": {
+    "name": "DFI.Money",
+    "short": "YFII",
+    "url": "/currencies/yearn-finance-ii",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming",
+      "Binance Chain"
+    ]
+  },
   "DFOhub": {
     "name": "DFOhub",
     "short": "BUIDL",
@@ -6896,6 +6916,18 @@
     "url": "/currencies/distributed-energy-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "Divi": {
+    "name": "Divi",
+    "short": "DIVI",
+    "url": "/currencies/divi",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Asset management",
+      "Masternodes",
+      "Wallet"
     ]
   },
   "DoDreamChain": {
@@ -14209,6 +14241,14 @@
       "X13"
     ]
   },
+  "Naviaddress": {
+    "name": "Naviaddress",
+    "short": "NAVI",
+    "url": "/currencies/naviaddress",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ndau": {
     "name": "Ndau",
     "short": "NDAU",
@@ -14448,6 +14488,16 @@
     "url": "/currencies/newtonium",
     "tags": [
       "Token"
+    ]
+  },
+  "Nexo": {
+    "name": "Nexo",
+    "short": "NEXO",
+    "url": "/currencies/nexo",
+    "tags": [
+      "Token",
+      "Services",
+      "Payments"
     ]
   },
   "NextDAO": {
@@ -17585,6 +17635,16 @@
       "Token"
     ]
   },
+  "Safe": {
+    "name": "Safe",
+    "short": "SAFE",
+    "url": "/currencies/safe",
+    "tags": [
+      "Coin",
+      "Medium of Exchange",
+      "Masternodes"
+    ]
+  },
   "SafeCapital": {
     "name": "SafeCapital",
     "short": "SCAP",
@@ -20143,6 +20203,14 @@
       "Token"
     ]
   },
+  "Treecle": {
+    "name": "Treecle",
+    "short": "TRCL",
+    "url": "/currencies/treecle",
+    "tags": [
+      "Token"
+    ]
+  },
   "Treelion": {
     "name": "Treelion",
     "short": "TRN",
@@ -21048,6 +21116,14 @@
       "Mineable",
       "PoW",
       "Dagger-Hashimoto"
+    ]
+  },
+  "Vectorspace AI": {
+    "name": "Vectorspace AI",
+    "short": "VXV",
+    "url": "/currencies/vectorspace-ai",
+    "tags": [
+      "Token"
     ]
   },
   "Veil": {
@@ -23303,6 +23379,15 @@
     "url": "/currencies/peos",
     "tags": [
       "Token"
+    ]
+  },
+  "pTokens BTC": {
+    "name": "pTokens BTC",
+    "short": "PBTC",
+    "url": "/currencies/ptokens-btc",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "qiibee": {
