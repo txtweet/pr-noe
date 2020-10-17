@@ -1871,6 +1871,14 @@
       "Token"
     ]
   },
+  "BUMO": {
+    "name": "BUMO",
+    "short": "BU",
+    "url": "/currencies/bumo",
+    "tags": [
+      "Coin"
+    ]
+  },
   "BUZZCoin": {
     "name": "BUZZCoin",
     "short": "BUZZ",
@@ -5229,6 +5237,14 @@
       "Token"
     ]
   },
+  "DACSEE": {
+    "name": "DACSEE",
+    "short": "DACS",
+    "url": "/currencies/dacsee",
+    "tags": [
+      "Token"
+    ]
+  },
   "DAEX": {
     "name": "DAEX",
     "short": "DAX",
@@ -5322,6 +5338,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "DEEX": {
+    "name": "DEEX",
+    "short": "DEEX",
+    "url": "/currencies/deex",
+    "tags": [
+      "Coin"
     ]
   },
   "DEONEX COIN": {
@@ -13666,6 +13690,14 @@
       "Token"
     ]
   },
+  "Omega Protocol Money": {
+    "name": "Omega Protocol Money",
+    "short": "OPM",
+    "url": "/currencies/omega-protocol-money",
+    "tags": [
+      "Token"
+    ]
+  },
   "Omix": {
     "name": "Omix",
     "short": "OMX",
@@ -15927,6 +15959,14 @@
       "Coin"
     ]
   },
+  "SAFE2": {
+    "name": "SAFE2",
+    "short": "SAFE2",
+    "url": "/currencies/safe2",
+    "tags": [
+      "Token"
+    ]
+  },
   "SALT": {
     "name": "SALT",
     "short": "SALT",
@@ -16525,6 +16565,14 @@
       "Derivatives",
       "Smart Contracts",
       "Staking"
+    ]
+  },
+  "Sesameseed": {
+    "name": "Sesameseed",
+    "short": "SEED",
+    "url": "/currencies/sesameseed",
+    "tags": [
+      "Token"
     ]
   },
   "Sexcoin": {
@@ -20302,6 +20350,14 @@
       "Token"
     ]
   },
+  "Xeonbit": {
+    "name": "Xeonbit",
+    "short": "XNB",
+    "url": "/currencies/xeonbit",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Xfinance": {
     "name": "Xfinance",
     "short": "XFI",
@@ -20734,6 +20790,14 @@
     "name": "YieldWars",
     "short": "WAR",
     "url": "/currencies/yieldwars-com",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yobit Token": {
+    "name": "Yobit Token",
+    "short": "YO",
+    "url": "/currencies/yobit-token",
     "tags": [
       "Token"
     ]
