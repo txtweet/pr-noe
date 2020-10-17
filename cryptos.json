@@ -1467,6 +1467,14 @@
       "Token"
     ]
   },
+  "AurusGOLD": {
+    "name": "AurusGOLD",
+    "short": "AWG",
+    "url": "/currencies/aurusgold",
+    "tags": [
+      "Token"
+    ]
+  },
   "Autonio": {
     "name": "Autonio",
     "short": "NIOX",
@@ -7516,6 +7524,14 @@
       "E-commerce"
     ]
   },
+  "EveryCoin ": {
+    "name": "EveryCoin ",
+    "short": "EVY",
+    "url": "/currencies/everycoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Exchange Payment Coin": {
     "name": "Exchange Payment Coin",
     "short": "EXP",
@@ -10019,6 +10035,16 @@
       "Token",
       "Services",
       "Identity"
+    ]
+  },
+  "Ink Protocol": {
+    "name": "Ink Protocol",
+    "short": "XNK",
+    "url": "/currencies/ink-protocol",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Reputation"
     ]
   },
   "InnovaMinex": {
@@ -15853,6 +15879,14 @@
       "Token"
     ]
   },
+  "SONDER": {
+    "name": "SONDER",
+    "short": "SNR",
+    "url": "/currencies/sonder",
+    "tags": [
+      "Token"
+    ]
+  },
   "SONO": {
     "name": "SONO",
     "short": "SONO",
@@ -18223,6 +18257,14 @@
       "Token"
     ]
   },
+  "Traceability Chain": {
+    "name": "Traceability Chain",
+    "short": "TAC",
+    "url": "/currencies/traceability-chain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trade Token X": {
     "name": "Trade Token X",
     "short": "TIOX",
@@ -19875,6 +19917,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256"
+    ]
+  },
+  "X12 Coin": {
+    "name": "X12 Coin",
+    "short": "X12",
+    "url": "/currencies/x12-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "XDAG": {
