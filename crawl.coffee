@@ -23,8 +23,13 @@ request()
     crypto.tags = []
     cryptos.push crypto
 
+  i = 0
+  testCrypto = cryptos.slice(i, 2)
+  while sauve[testCrypto[0].name]? # Si le premier est connu alors on saute
+    testCrypto = cryptos.slice(++i, i+1)
+
   # Boucle sur les cryptos, on mélange le tableau et on coupe à 3 éléments
-  Promise.each (_.shuffle cryptos).slice(0, 2), (crypto) ->
+  Promise.each testCrypto, (crypto) ->
   # Promise.each (cryptos).slice(1, 3), (crypto) ->
     unless sauve[crypto.name]?
       request
