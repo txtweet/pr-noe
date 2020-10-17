@@ -463,6 +463,14 @@
       "Payments"
     ]
   },
+  "AICHAIN": {
+    "name": "AICHAIN",
+    "short": "AIT",
+    "url": "/currencies/aichain",
+    "tags": [
+      "Token"
+    ]
+  },
   "AICON": {
     "name": "AICON",
     "short": "AICO",
@@ -1153,6 +1161,14 @@
     "name": "Amun Ether 3x Daily Long",
     "short": "ETH3L",
     "url": "/currencies/amun-ether-3x-daily-long",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Amun Ether 3x Daily Short": {
+    "name": "Amun Ether 3x Daily Short",
+    "short": "ETH3S",
+    "url": "/currencies/amun-ether-3x-daily-short",
     "tags": [
       "Token"
     ]
@@ -2156,6 +2172,14 @@
       "Coin"
     ]
   },
+  "Beowulf": {
+    "name": "Beowulf",
+    "short": "BWF",
+    "url": "/currencies/beowulf",
+    "tags": [
+      "Token"
+    ]
+  },
   "BetProtocol": {
     "name": "BetProtocol",
     "short": "BEPRO",
@@ -2747,6 +2771,15 @@
       "Discount token",
       "Smart Contracts",
       "Ethereum"
+    ]
+  },
+  "Bitcoin Vault": {
+    "name": "Bitcoin Vault",
+    "short": "BTCV",
+    "url": "/currencies/bitcoin-vault",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "BitcoinPoS": {
@@ -4335,6 +4368,14 @@
     "name": "CoinUs",
     "short": "CNUS",
     "url": "/currencies/coinus",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Coineal Token": {
+    "name": "Coineal Token",
+    "short": "NEAL",
+    "url": "/currencies/coineal-token",
     "tags": [
       "Token"
     ]
@@ -7222,6 +7263,14 @@
       "Token"
     ]
   },
+  "Equal": {
+    "name": "Equal",
+    "short": "EQL",
+    "url": "/currencies/equal",
+    "tags": [
+      "Token"
+    ]
+  },
   "Equilibria": {
     "name": "Equilibria",
     "short": "XEQ",
@@ -7512,6 +7561,14 @@
       "Token"
     ]
   },
+  "Evan": {
+    "name": "Evan",
+    "short": "EVAN",
+    "url": "/currencies/evan",
+    "tags": [
+      "Token"
+    ]
+  },
   "EvenCoin": {
     "name": "EvenCoin",
     "short": "EVN",
@@ -7770,6 +7827,14 @@
       "Derivatives"
     ]
   },
+  "FUD.finance": {
+    "name": "FUD.finance",
+    "short": "FUD",
+    "url": "/currencies/fudfinance",
+    "tags": [
+      "Token"
+    ]
+  },
   "FUTURAX": {
     "name": "FUTURAX",
     "short": "FTXT",
@@ -7857,6 +7922,14 @@
     "url": "/currencies/farmatrust",
     "tags": [
       "Token"
+    ]
+  },
+  "Fashion Coin": {
+    "name": "Fashion Coin",
+    "short": "FSHN",
+    "url": "/currencies/fashion-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Feathercoin": {
@@ -10761,6 +10834,14 @@
       "Token"
     ]
   },
+  "Korbot": {
+    "name": "Korbot",
+    "short": "KBOT",
+    "url": "/currencies/korbot",
+    "tags": [
+      "Token"
+    ]
+  },
   "Krosscoin": {
     "name": "Krosscoin",
     "short": "KSS",
@@ -12035,6 +12116,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Meridian Network": {
+    "name": "Meridian Network",
+    "short": "LOCK",
+    "url": "/currencies/meridian-network",
+    "tags": [
+      "Token"
     ]
   },
   "MesChain": {
@@ -13849,6 +13938,21 @@
     "url": "/currencies/p2p",
     "tags": [
       "Token"
+    ]
+  },
+  "PAC Global": {
+    "name": "PAC Global",
+    "short": "PAC",
+    "url": "/currencies/pac-global",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "POS 3.0",
+      "Filesharing",
+      "Masternodes",
+      "IPFS",
+      "Masternodes"
     ]
   },
   "PAL Network": {
@@ -16624,6 +16728,15 @@
       "Token"
     ]
   },
+  "SkyHub Coin": {
+    "name": "SkyHub Coin",
+    "short": "SHB",
+    "url": "/currencies/skyhub-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Skychain": {
     "name": "Skychain",
     "short": "SKCH",
@@ -18257,6 +18370,16 @@
     "url": "/currencies/tokens-of-babel",
     "tags": [
       "Token"
+    ]
+  },
+  "Tokes": {
+    "name": "Tokes",
+    "short": "TKS",
+    "url": "/currencies/tokes",
+    "tags": [
+      "Token",
+      "Health",
+      "Payments"
     ]
   },
   "TomoChain": {
@@ -21337,6 +21460,14 @@
     "name": "junca Cash",
     "short": "JCC",
     "url": "/currencies/junca-cash",
+    "tags": [
+      "Token"
+    ]
+  },
+  "nDEX": {
+    "name": "nDEX",
+    "short": "NDX",
+    "url": "/currencies/ndex",
     "tags": [
       "Token"
     ]
