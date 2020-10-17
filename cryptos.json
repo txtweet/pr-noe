@@ -1341,6 +1341,14 @@
       "Mineable"
     ]
   },
+  "Arqma": {
+    "name": "Arqma",
+    "short": "ARQ",
+    "url": "/currencies/arqma",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Arweave": {
     "name": "Arweave",
     "short": "AR",
@@ -2218,6 +2226,16 @@
     "url": "/currencies/bezant",
     "tags": [
       "Token"
+    ]
+  },
+  "Bezop": {
+    "name": "Bezop",
+    "short": "BEZ",
+    "url": "/currencies/bezop",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "E-commerce"
     ]
   },
   "Bfine": {
@@ -15676,6 +15694,15 @@
       "Coin",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Ripio Credit Network": {
+    "name": "Ripio Credit Network",
+    "short": "RCN",
+    "url": "/currencies/ripio-credit-network",
+    "tags": [
+      "Token",
+      "Services"
     ]
   },
   "Ripple Alpha": {
