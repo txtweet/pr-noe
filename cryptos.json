@@ -257,6 +257,14 @@
       "Token"
     ]
   },
+  "3X Short Algorand Token": {
+    "name": "3X Short Algorand Token",
+    "short": "ALGOBEAR",
+    "url": "/currencies/3x-short-algorand-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short BNB Token": {
     "name": "3X Short BNB Token",
     "short": "BNBBEAR",
@@ -514,6 +522,14 @@
       "Wallet",
       "Communications & Social Media",
       "Enterprise solutions"
+    ]
+  },
+  "ADAUP": {
+    "name": "ADAUP",
+    "short": "ADAUP",
+    "url": "/currencies/adaup",
+    "tags": [
+      "Coin"
     ]
   },
   "AI Doctor": {
@@ -1187,6 +1203,16 @@
       "Coin",
       "PoS",
       "Scrypt"
+    ]
+  },
+  "Alpha Finance Lab": {
+    "name": "Alpha Finance Lab",
+    "short": "ALPHA",
+    "url": "/currencies/alpha-finance-lab",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Binance Smart Chain"
     ]
   },
   "Alpha Token": {
@@ -2229,6 +2255,14 @@
       "Coin"
     ]
   },
+  "BarterTrade": {
+    "name": "BarterTrade",
+    "short": "BART",
+    "url": "/currencies/bartertrade",
+    "tags": [
+      "Token"
+    ]
+  },
   "Basic Attention Token": {
     "name": "Basic Attention Token",
     "short": "BAT",
@@ -2672,6 +2706,14 @@
       "Token"
     ]
   },
+  "Bit Financial": {
+    "name": "Bit Financial",
+    "short": "BFC",
+    "url": "/currencies/bit-financial",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bit World Token": {
     "name": "Bit World Token",
     "short": "BWB",
@@ -2833,6 +2875,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "BitRewards": {
+    "name": "BitRewards",
+    "short": "BIT",
+    "url": "/currencies/bitrewards",
+    "tags": [
+      "Token"
     ]
   },
   "BitScreener Token": {
@@ -4606,6 +4656,17 @@
     "url": "/currencies/chainpay",
     "tags": [
       "Token"
+    ]
+  },
+  "Change": {
+    "name": "Change",
+    "short": "CAG",
+    "url": "/currencies/change",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Payments",
+      "Wallet"
     ]
   },
   "Charg Coin": {
@@ -9736,6 +9797,14 @@
       "PoS"
     ]
   },
+  "Global Game Coin": {
+    "name": "Global Game Coin",
+    "short": "GGC",
+    "url": "/currencies/global-game-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Global Gaming": {
     "name": "Global Gaming",
     "short": "GMNG",
@@ -10322,6 +10391,14 @@
     "url": "/currencies/hathor",
     "tags": [
       "Coin"
+    ]
+  },
+  "Hauteclere Shards": {
+    "name": "Hauteclere Shards",
+    "short": "HAUT",
+    "url": "/currencies/hauteclere-shards",
+    "tags": [
+      "Token"
     ]
   },
   "Haven Protocol": {
@@ -10965,6 +11042,14 @@
       "Coin",
       "Platform",
       "IoT"
+    ]
+  },
+  "IOEX": {
+    "name": "IOEX",
+    "short": "IOEX",
+    "url": "/currencies/ioex",
+    "tags": [
+      "Coin"
     ]
   },
   "IONChain": {
@@ -11882,6 +11967,15 @@
     "url": "/currencies/katana-finance",
     "tags": [
       "Token"
+    ]
+  },
+  "Kava.io": {
+    "name": "Kava.io",
+    "short": "KAVA",
+    "url": "/currencies/kava",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "Kcash": {
@@ -13217,6 +13311,16 @@
     "url": "/currencies/markaccy",
     "tags": [
       "Coin"
+    ]
+  },
+  "Maro": {
+    "name": "Maro",
+    "short": "MARO",
+    "url": "/currencies/maro",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation"
     ]
   },
   "Marshal Lion Group Coin": {
@@ -16740,6 +16844,14 @@
       "Scrypt"
     ]
   },
+  "Pyrk": {
+    "name": "Pyrk",
+    "short": "PYRK",
+    "url": "/currencies/pyrk",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Pyrrhos Gold": {
     "name": "Pyrrhos Gold",
     "short": "PGOLD",
@@ -17001,6 +17113,14 @@
       "Platform",
       "Distributed Computing",
       "Smart Contracts"
+    ]
+  },
+  "REBIT": {
+    "name": "REBIT",
+    "short": "KEYT",
+    "url": "/currencies/rebit",
+    "tags": [
+      "Token"
     ]
   },
   "RED": {
@@ -18034,6 +18154,14 @@
       "Ethereum",
       "Entertainment",
       "Technology"
+    ]
+  },
+  "SappChain": {
+    "name": "SappChain",
+    "short": "SAPP",
+    "url": "/currencies/sappchain",
+    "tags": [
+      "Token"
     ]
   },
   "Sapphire": {
@@ -20225,6 +20353,14 @@
       "Payments"
     ]
   },
+  "Thorium": {
+    "name": "Thorium",
+    "short": "TORM",
+    "url": "/currencies/thorium",
+    "tags": [
+      "Token"
+    ]
+  },
   "ThreeFold Token": {
     "name": "ThreeFold Token",
     "short": "TFT",
@@ -20312,6 +20448,15 @@
       "Token"
     ]
   },
+  "Titan Coin": {
+    "name": "Titan Coin",
+    "short": "TTN",
+    "url": "/currencies/titan-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "TitanSwap": {
     "name": "TitanSwap",
     "short": "TITAN",
@@ -20382,6 +20527,15 @@
     "url": "/currencies/tokendesk",
     "tags": [
       "Token"
+    ]
+  },
+  "Tokenomy": {
+    "name": "Tokenomy",
+    "short": "TEN",
+    "url": "/currencies/tokenomy",
+    "tags": [
+      "Token",
+      "Marketplace"
     ]
   },
   "Tokens of Babel": {
@@ -21406,6 +21560,15 @@
       "Token",
       "Adult",
       "Payments"
+    ]
+  },
+  "Valuto": {
+    "name": "Valuto",
+    "short": "VLU",
+    "url": "/currencies/valuto",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Vampire Protocol": {
@@ -22996,6 +23159,14 @@
     "url": "/currencies/zenzo",
     "tags": [
       "Coin"
+    ]
+  },
+  "ZEON": {
+    "name": "ZEON",
+    "short": "ZEON",
+    "url": "/currencies/zeon",
+    "tags": [
+      "Token"
     ]
   },
   "ZMINE": {
