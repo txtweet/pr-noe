@@ -12897,6 +12897,18 @@
       "Mineable"
     ]
   },
+  "Nexus": {
+    "name": "Nexus",
+    "short": "NXS",
+    "url": "/currencies/nexus",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & nPoS",
+      "Platform",
+      "Staking"
+    ]
+  },
   "Nexxo": {
     "name": "Nexxo",
     "short": "NEXXO",
@@ -18165,6 +18177,14 @@
     "name": "TrueVett",
     "short": "VME",
     "url": "/currencies/truevett",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Trump Loses Token": {
+    "name": "Trump Loses Token",
+    "short": "TRUMPLOSE",
+    "url": "/currencies/trump-loses-token",
     "tags": [
       "Token"
     ]
