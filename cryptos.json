@@ -86,6 +86,14 @@
       "Services"
     ]
   },
+  "1x Long Bitcoin Implied Volatility Token": {
+    "name": "1x Long Bitcoin Implied Volatility Token",
+    "short": "BVOL",
+    "url": "/currencies/1x-long-bitcoin-implied-volatility-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "1x Short Bitcoin Token": {
     "name": "1x Short Bitcoin Token",
     "short": "HEDGE",
@@ -5989,6 +5997,16 @@
       "Mineable"
     ]
   },
+  "Destiny Success": {
+    "name": "Destiny Success",
+    "short": "DXTS",
+    "url": "/currencies/destiny-success",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Services"
+    ]
+  },
   "Dether": {
     "name": "Dether",
     "short": "DTH",
@@ -6537,6 +6555,14 @@
     "name": "ECOChain",
     "short": "ECOC",
     "url": "/currencies/ecochain",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "EDC Blockchain": {
+    "name": "EDC Blockchain",
+    "short": "EDC",
+    "url": "/currencies/edc-blockchain",
     "tags": [
       "Coin"
     ]
@@ -12329,6 +12355,14 @@
       "Token"
     ]
   },
+  "MiniSwap": {
+    "name": "MiniSwap",
+    "short": "MINI",
+    "url": "/currencies/miniswap",
+    "tags": [
+      "Token"
+    ]
+  },
   "MintCoin": {
     "name": "MintCoin",
     "short": "MINT",
@@ -14219,6 +14253,14 @@
       "Token"
     ]
   },
+  "Pamp Network": {
+    "name": "Pamp Network",
+    "short": "PAMP",
+    "url": "/currencies/pamp-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Paparazzi": {
     "name": "Paparazzi",
     "short": "PAZZI",
@@ -15178,6 +15220,14 @@
     "name": "QOOBER",
     "short": "QOOB",
     "url": "/currencies/qoober",
+    "tags": [
+      "Token"
+    ]
+  },
+  "QPay": {
+    "name": "QPay",
+    "short": "QPY",
+    "url": "/currencies/qpay",
     "tags": [
       "Token"
     ]
@@ -16761,6 +16811,14 @@
       "Coin",
       "Distributed Computing",
       "Filesharing"
+    ]
+  },
+  "SimpleChain": {
+    "name": "SimpleChain",
+    "short": "SIMPLE",
+    "url": "/currencies/simplechain",
+    "tags": [
+      "Coin"
     ]
   },
   "SingularDTV": {
@@ -19248,6 +19306,14 @@
     "name": "Uranus",
     "short": "URAC",
     "url": "/currencies/uranus",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Usechain Token": {
+    "name": "Usechain Token",
+    "short": "USE",
+    "url": "/currencies/usechain-token",
     "tags": [
       "Token"
     ]
