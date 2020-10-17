@@ -9695,6 +9695,14 @@
       "Token"
     ]
   },
+  "IG Gold": {
+    "name": "IG Gold",
+    "short": "IGG",
+    "url": "/currencies/ig-gold",
+    "tags": [
+      "Token"
+    ]
+  },
   "INDINODE": {
     "name": "INDINODE",
     "short": "XIND",
@@ -12577,6 +12585,17 @@
     "url": "/currencies/mytoken",
     "tags": [
       "Token"
+    ]
+  },
+  "Myriad": {
+    "name": "Myriad",
+    "short": "XMY",
+    "url": "/currencies/myriad",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Multiple"
     ]
   },
   "NAGA": {
@@ -15751,6 +15770,14 @@
     "name": "SENSO",
     "short": "SENSO",
     "url": "/currencies/senso",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SHAKE": {
+    "name": "SHAKE",
+    "short": "SHAKE",
+    "url": "/currencies/shake",
     "tags": [
       "Token"
     ]
