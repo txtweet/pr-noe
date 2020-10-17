@@ -50,7 +50,7 @@ request()
         console.warn "Déjà indexée : ", crypto.name
         Promise.resolve()
   else
-    console.log "Dernière Crypto indexée page #{page}"
+    console.warns "Dernière Crypto indexée page #{page}"
     Promise.resolve()
 .then () ->
   # # tri du tableau
