@@ -337,6 +337,14 @@
       "Token"
     ]
   },
+  "3X Short Tether Gold Token": {
+    "name": "3X Short Tether Gold Token",
+    "short": "XAUTBEAR",
+    "url": "/currencies/3x-short-tether-gold-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short TomoChain Token": {
     "name": "3X Short TomoChain Token",
     "short": "TOMOBEAR",
@@ -834,6 +842,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Acuity Token": {
+    "name": "Acuity Token",
+    "short": "ACU",
+    "url": "/currencies/acuity-token",
+    "tags": [
+      "Token"
     ]
   },
   "Acute Angle Cloud": {
@@ -3786,6 +3802,17 @@
       "Token"
     ]
   },
+  "BowsCoin": {
+    "name": "BowsCoin",
+    "short": "BSC",
+    "url": "/currencies/bowscoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X11"
+    ]
+  },
   "Brazilian Digital Token": {
     "name": "Brazilian Digital Token",
     "short": "BRZ",
@@ -3822,6 +3849,14 @@
     "name": "Brickblock",
     "short": "BBK",
     "url": "/currencies/brickblock",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bridge Oracle": {
+    "name": "Bridge Oracle",
+    "short": "BRG",
+    "url": "/currencies/bridge-oracle",
     "tags": [
       "Token"
     ]
@@ -6715,6 +6750,15 @@
       "Token"
     ]
   },
+  "Dego Finance": {
+    "name": "Dego Finance",
+    "short": "DEGO",
+    "url": "/currencies/dego-finance",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
+    ]
+  },
   "DeltaChain": {
     "name": "DeltaChain",
     "short": "DELTA",
@@ -8562,6 +8606,16 @@
       "Token"
     ]
   },
+  "EventChain": {
+    "name": "EventChain",
+    "short": "EVC",
+    "url": "/currencies/eventchain",
+    "tags": [
+      "Token",
+      "Events",
+      "Entertainment"
+    ]
+  },
   "Everex": {
     "name": "Everex",
     "short": "EVX",
@@ -9106,6 +9160,15 @@
     "url": "/currencies/fireball",
     "tags": [
       "Token"
+    ]
+  },
+  "First Bitcoin": {
+    "name": "First Bitcoin",
+    "short": "BIT",
+    "url": "/currencies/first-bitcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "FirstBlood": {
@@ -12197,6 +12260,14 @@
       "Token"
     ]
   },
+  "Kublaicoin": {
+    "name": "Kublaicoin",
+    "short": "KUB",
+    "url": "/currencies/kublaicoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Kulupu": {
     "name": "Kulupu",
     "short": "KLP",
@@ -12955,6 +13026,14 @@
       "Token"
     ]
   },
+  "MASTERNET": {
+    "name": "MASTERNET",
+    "short": "MASH",
+    "url": "/currencies/masternet",
+    "tags": [
+      "Token"
+    ]
+  },
   "MAX Exchange Token": {
     "name": "MAX Exchange Token",
     "short": "MAX",
@@ -13468,6 +13547,15 @@
     "url": "/currencies/mazzuma",
     "tags": [
       "Coin"
+    ]
+  },
+  "Mcashchain": {
+    "name": "Mcashchain",
+    "short": "MCASH",
+    "url": "/currencies/mcashchain",
+    "tags": [
+      "Token",
+      "Mineable"
     ]
   },
   "Mchain": {
@@ -14955,6 +15043,14 @@
     "name": "Noku",
     "short": "NOKU",
     "url": "/currencies/noku",
+    "tags": [
+      "Token"
+    ]
+  },
+  "NovaDeFi": {
+    "name": "NovaDeFi",
+    "short": "NMT",
+    "url": "/currencies/novadefi",
     "tags": [
       "Token"
     ]
@@ -16912,6 +17008,14 @@
       "Token"
     ]
   },
+  "QUEENBEE": {
+    "name": "QUEENBEE",
+    "short": "QBZ",
+    "url": "/currencies/queenbee",
+    "tags": [
+      "Token"
+    ]
+  },
   "QUINADS": {
     "name": "QUINADS",
     "short": "QUIN",
@@ -17155,6 +17259,14 @@
     "url": "/currencies/ring-x-platform",
     "tags": [
       "Coin"
+    ]
+  },
+  "RMPL": {
+    "name": "RMPL",
+    "short": "RMPL",
+    "url": "/currencies/rmpl",
+    "tags": [
+      "Token"
     ]
   },
   "ROAD": {
@@ -20529,6 +20641,14 @@
       "Token"
     ]
   },
+  "TokenPocket": {
+    "name": "TokenPocket",
+    "short": "TPT",
+    "url": "/currencies/tokenpocket",
+    "tags": [
+      "Token"
+    ]
+  },
   "Tokenomy": {
     "name": "Tokenomy",
     "short": "TEN",
@@ -21870,12 +21990,32 @@
       "Token"
     ]
   },
+  "VinDax Coin": {
+    "name": "VinDax Coin",
+    "short": "VD",
+    "url": "/currencies/vindax-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Vinci": {
     "name": "Vinci",
     "short": "VINCI",
     "url": "/currencies/vinci",
     "tags": [
       "Token"
+    ]
+  },
+  "Vitae": {
+    "name": "Vitae",
+    "short": "VITAE",
+    "url": "/currencies/vitae",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "Medium of Exchange",
+      "Masternodes"
     ]
   },
   "Vodi X": {
