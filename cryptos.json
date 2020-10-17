@@ -7,6 +7,14 @@
       "Token"
     ]
   },
+  "01coin": {
+    "name": "01coin",
+    "short": "ZOC",
+    "url": "/currencies/01coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "0cash": {
     "name": "0cash",
     "short": "ZCH",
@@ -22,6 +30,15 @@
     "tags": [
       "Token",
       "Mineable"
+    ]
+  },
+  "0xcert": {
+    "name": "0xcert",
+    "short": "ZXC",
+    "url": "/currencies/0xcert",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "1World": {
@@ -1432,6 +1449,14 @@
     "url": "/currencies/aunite",
     "tags": [
       "Coin"
+    ]
+  },
+  "Aureus Nummus Gold": {
+    "name": "Aureus Nummus Gold",
+    "short": "ANG",
+    "url": "/currencies/aureus-nummus-gold",
+    "tags": [
+      "Token"
     ]
   },
   "AurusCOIN": {
@@ -2911,6 +2936,14 @@
       "Scrypt"
     ]
   },
+  "BlackPearl Token": {
+    "name": "BlackPearl Token",
+    "short": "BPLC",
+    "url": "/currencies/blackpearl-chain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Blackmoon": {
     "name": "Blackmoon",
     "short": "BMC",
@@ -3519,6 +3552,14 @@
     "name": "CORN",
     "short": "CORN",
     "url": "/currencies/corn",
+    "tags": [
+      "Token"
+    ]
+  },
+  "COST COIN+": {
+    "name": "COST COIN+",
+    "short": "AKM",
+    "url": "/currencies/cost-coin",
     "tags": [
       "Token"
     ]
@@ -7054,6 +7095,14 @@
       "DAO"
     ]
   },
+  "EnergiToken": {
+    "name": "EnergiToken",
+    "short": "ETK",
+    "url": "/currencies/energitoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Energy Web Token": {
     "name": "Energy Web Token",
     "short": "EWT",
@@ -7153,6 +7202,14 @@
     "name": "Equus Mining Token",
     "short": "EQMT",
     "url": "/currencies/equus-mining-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ErcauX": {
+    "name": "ErcauX",
+    "short": "RAUX",
+    "url": "/currencies/ercaux",
     "tags": [
       "Token"
     ]
@@ -7483,6 +7540,15 @@
       "Coin",
       "Mineable",
       "PoS"
+    ]
+  },
+  "Exosis": {
+    "name": "Exosis",
+    "short": "EXO",
+    "url": "/currencies/exosis",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Expanse": {
@@ -9763,6 +9829,14 @@
       "Token"
     ]
   },
+  "IYF.finance": {
+    "name": "IYF.finance",
+    "short": "IYF",
+    "url": "/currencies/iyf-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "IZE": {
     "name": "IZE",
     "short": "IZE",
@@ -10700,6 +10774,17 @@
       "Asset management"
     ]
   },
+  "LBRY Credits": {
+    "name": "LBRY Credits",
+    "short": "LBC",
+    "url": "/currencies/library-credit",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Marketplace",
+      "Content Creation"
+    ]
+  },
   "LCX": {
     "name": "LCX",
     "short": "LCX",
@@ -10847,6 +10932,16 @@
     "url": "/currencies/latamcash",
     "tags": [
       "Token"
+    ]
+  },
+  "Leadcoin": {
+    "name": "Leadcoin",
+    "short": "LDC",
+    "url": "/currencies/leadcoin",
+    "tags": [
+      "Token",
+      "Marketing",
+      "AI & Big Data"
     ]
   },
   "LegalBlock": {
@@ -11370,6 +11465,16 @@
     "url": "/currencies/mex",
     "tags": [
       "Token"
+    ]
+  },
+  "MEXC Token": {
+    "name": "MEXC Token",
+    "short": "MEXC",
+    "url": "/currencies/mexc-token",
+    "tags": [
+      "Token",
+      "Hardware",
+      "Research"
     ]
   },
   "MGC Token": {
@@ -12129,6 +12234,16 @@
       "Token"
     ]
   },
+  "Mobius": {
+    "name": "Mobius",
+    "short": "MOBI",
+    "url": "/currencies/mobius",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments"
+    ]
+  },
   "Mochimo": {
     "name": "Mochimo",
     "short": "MCM",
@@ -12402,6 +12517,14 @@
     "url": "/currencies/multicoincasino",
     "tags": [
       "Coin"
+    ]
+  },
+  "MultiVAC": {
+    "name": "MultiVAC",
+    "short": "MTV",
+    "url": "/currencies/multivac",
+    "tags": [
+      "Token"
     ]
   },
   "Multicoin": {
@@ -12715,6 +12838,16 @@
       "Token"
     ]
   },
+  "NavCoin": {
+    "name": "NavCoin",
+    "short": "NAV",
+    "url": "/currencies/nav-coin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X13"
+    ]
+  },
   "Ndau": {
     "name": "Ndau",
     "short": "NDAU",
@@ -12874,6 +13007,14 @@
       "PoW",
       "Scrypt",
       "Payments"
+    ]
+  },
+  "NewsToken": {
+    "name": "NewsToken",
+    "short": "NEWOS",
+    "url": "/currencies/newstoken",
+    "tags": [
+      "Token"
     ]
   },
   "Newscrypto": {
