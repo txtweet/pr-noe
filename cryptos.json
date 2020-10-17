@@ -1286,6 +1286,14 @@
       "Token"
     ]
   },
+  "Amun Bitcoin 3x Daily Short": {
+    "name": "Amun Bitcoin 3x Daily Short",
+    "short": "BTC3S",
+    "url": "/currencies/amun-bitcoin-3x-daily-short",
+    "tags": [
+      "Token"
+    ]
+  },
   "Amun Ether 3x Daily Long": {
     "name": "Amun Ether 3x Daily Long",
     "short": "ETH3L",
@@ -1868,6 +1876,14 @@
     "name": "BIZKEY",
     "short": "BZKY",
     "url": "/currencies/bizkey",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BKEX Token": {
+    "name": "BKEX Token",
+    "short": "BKK",
+    "url": "/currencies/bkex-token",
     "tags": [
       "Token"
     ]
@@ -3730,6 +3746,14 @@
     "name": "Buccaneer V2",
     "short": "BUCC",
     "url": "/currencies/buccaneer-v2",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BuckHathCoin": {
+    "name": "BuckHathCoin",
+    "short": "BHIG",
+    "url": "/currencies/buck-hath-coin",
     "tags": [
       "Token"
     ]
@@ -9909,6 +9933,17 @@
       "Token"
     ]
   },
+  "HTMLCOIN": {
+    "name": "HTMLCOIN",
+    "short": "HTML",
+    "url": "/currencies/html-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "DApp"
+    ]
+  },
   "HUDDL": {
     "name": "HUDDL",
     "short": "HUDDL",
@@ -11803,6 +11838,14 @@
     "name": "Kryll",
     "short": "KRL",
     "url": "/currencies/kryll",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Krypton Galaxy Coin": {
+    "name": "Krypton Galaxy Coin",
+    "short": "KGC",
+    "url": "/currencies/krypton-galaxy-coin",
     "tags": [
       "Token"
     ]
@@ -19953,6 +19996,14 @@
       "Token",
       "Health",
       "Payments"
+    ]
+  },
+  "Tokoin": {
+    "name": "Tokoin",
+    "short": "TOKO",
+    "url": "/currencies/tokoin",
+    "tags": [
+      "Token"
     ]
   },
   "TomoChain": {
