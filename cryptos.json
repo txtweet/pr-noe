@@ -1263,6 +1263,17 @@
       "Coin"
     ]
   },
+  "Ambrosus": {
+    "name": "Ambrosus",
+    "short": "AMB",
+    "url": "/currencies/amber",
+    "tags": [
+      "Coin",
+      "Logistics",
+      "AI & Big Data",
+      "Enterprise solutions"
+    ]
+  },
   "AmericanHorror.Finance": {
     "name": "AmericanHorror.Finance",
     "short": "AHF",
@@ -10535,6 +10546,14 @@
       "Token"
     ]
   },
+  "HashNet BitEco": {
+    "name": "HashNet BitEco",
+    "short": "HNB",
+    "url": "/currencies/hashnet-biteco",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hashgard": {
     "name": "Hashgard",
     "short": "GARD",
@@ -15966,6 +15985,15 @@
     "url": "/currencies/pax-gold",
     "tags": [
       "Token"
+    ]
+  },
+  "PAXEX": {
+    "name": "PAXEX",
+    "short": "PAXEX",
+    "url": "/currencies/paxex",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "PAYCENT": {
