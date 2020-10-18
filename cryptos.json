@@ -1931,6 +1931,14 @@
       "Token"
     ]
   },
+  "BIZZCOIN": {
+    "name": "BIZZCOIN",
+    "short": "BIZZ",
+    "url": "/currencies/bizzcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "BKEX Token": {
     "name": "BKEX Token",
     "short": "BKK",
@@ -2165,6 +2173,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "BaaSid": {
+    "name": "BaaSid",
+    "short": "BAAS",
+    "url": "/currencies/baasid",
+    "tags": [
+      "Token"
     ]
   },
   "BaconSwap": {
@@ -3559,6 +3575,14 @@
     "name": "Blockburn",
     "short": "BURN",
     "url": "/currencies/blockburn",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Blockchain Certified Data Token": {
+    "name": "Blockchain Certified Data Token",
+    "short": "BCDT",
+    "url": "/currencies/blockchain-certified-data-token",
     "tags": [
       "Token"
     ]
@@ -10079,6 +10103,14 @@
       "Token"
     ]
   },
+  "GoldMint": {
+    "name": "GoldMint",
+    "short": "MNTP",
+    "url": "/currencies/goldmint",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Goldcoin": {
     "name": "Goldcoin",
     "short": "GLC",
@@ -12271,6 +12303,20 @@
       "X15"
     ]
   },
+  "Komodo": {
+    "name": "Komodo",
+    "short": "KMD",
+    "url": "/currencies/komodo",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - dPoW & PoW",
+      "Equihash",
+      "Platform",
+      "Atomic Swaps",
+      "Enterprise solutions"
+    ]
+  },
   "Kompass": {
     "name": "Kompass",
     "short": "KOMP",
@@ -14304,6 +14350,17 @@
     "url": "/currencies/moontools",
     "tags": [
       "Token"
+    ]
+  },
+  "Mooncoin": {
+    "name": "Mooncoin",
+    "short": "MOON",
+    "url": "/currencies/mooncoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Moozicore": {
@@ -19739,6 +19796,15 @@
       "Mineable"
     ]
   },
+  "SunContract": {
+    "name": "SunContract",
+    "short": "SNC",
+    "url": "/currencies/suncontract",
+    "tags": [
+      "Token",
+      "Energy"
+    ]
+  },
   "Super Bitcoin": {
     "name": "Super Bitcoin",
     "short": "SBTC",
@@ -19944,6 +20010,15 @@
     "url": "/currencies/switch",
     "tags": [
       "Token"
+    ]
+  },
+  "Switcheo": {
+    "name": "Switcheo",
+    "short": "SWTH",
+    "url": "/currencies/switcheo",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "SymVerse": {
