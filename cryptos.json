@@ -1620,6 +1620,14 @@
       "Token"
     ]
   },
+  "Askobar Network": {
+    "name": "Askobar Network",
+    "short": "ASKO",
+    "url": "/currencies/askobar-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aston": {
     "name": "Aston",
     "short": "ATX",
@@ -14604,6 +14612,14 @@
       "Token"
     ]
   },
+  "MyWish": {
+    "name": "MyWish",
+    "short": "WISH",
+    "url": "/currencies/mywish",
+    "tags": [
+      "Token"
+    ]
+  },
   "Myriad": {
     "name": "Myriad",
     "short": "XMY",
@@ -21240,6 +21256,17 @@
       "Coin"
     ]
   },
+  "Trollcoin": {
+    "name": "Trollcoin",
+    "short": "TROLL",
+    "url": "/currencies/trollcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "TronEuropeRewardCoin": {
     "name": "TronEuropeRewardCoin",
     "short": "TERC",
@@ -23776,6 +23803,20 @@
     "url": "/currencies/zano",
     "tags": [
       "Coin"
+    ]
+  },
+  "Zap": {
+    "name": "Zap",
+    "short": "ZAP",
+    "url": "/currencies/zap",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Oracles",
+      "DeFi",
+      "Oracles",
+      "Smart Contracts",
+      "DApp"
     ]
   },
   "Zayedcoin": {
