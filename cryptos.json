@@ -5005,6 +5005,14 @@
       "Research"
     ]
   },
+  "CoinHe Token": {
+    "name": "CoinHe Token",
+    "short": "CHT",
+    "url": "/currencies/coinhe-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "CoinLoan": {
     "name": "CoinLoan",
     "short": "CLT",
@@ -22201,6 +22209,15 @@
       "PoS",
       "Medium of Exchange",
       "Masternodes"
+    ]
+  },
+  "Vites": {
+    "name": "Vites",
+    "short": "VITES",
+    "url": "/currencies/vites",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Vodi X": {
