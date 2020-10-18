@@ -7966,6 +7966,15 @@
       "Token"
     ]
   },
+  "Education Ecosystem": {
+    "name": "Education Ecosystem",
+    "short": "LEDU",
+    "url": "/currencies/education-ecosystem",
+    "tags": [
+      "Token",
+      "Education"
+    ]
+  },
   "Effect.AI": {
     "name": "Effect.AI",
     "short": "EFX",
@@ -13823,6 +13832,17 @@
     "tags": [
       "Coin",
       "Health"
+    ]
+  },
+  "MedicCoin": {
+    "name": "MedicCoin",
+    "short": "MEDIC",
+    "url": "/currencies/mediccoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "Medicalchain": {
