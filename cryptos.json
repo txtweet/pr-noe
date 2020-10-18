@@ -5318,6 +5318,15 @@
       "DeFi"
     ]
   },
+  "Compound USD Coin": {
+    "name": "Compound USD Coin",
+    "short": "CUSDC",
+    "url": "/currencies/compound-usd-coin",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Compound USDT": {
     "name": "Compound USDT",
     "short": "CUSDT",
@@ -7408,6 +7417,14 @@
     "name": "Dragon Option",
     "short": "DRAGON",
     "url": "/currencies/dragon-option",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Dragon Token": {
+    "name": "Dragon Token",
+    "short": "DT",
+    "url": "/currencies/dragon-token",
     "tags": [
       "Token"
     ]
@@ -20558,6 +20575,15 @@
       "Coin"
     ]
   },
+  "TerraNova": {
+    "name": "TerraNova",
+    "short": "TER",
+    "url": "/currencies/terranova",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Tesra": {
     "name": "Tesra",
     "short": "TSR",
@@ -22786,6 +22812,14 @@
       "Token",
       "Asset management",
       "Crowdfunding"
+    ]
+  },
+  "Wink": {
+    "name": "Wink",
+    "short": "WINK",
+    "url": "/currencies/wink",
+    "tags": [
+      "Coin"
     ]
   },
   "Wirex Token": {
