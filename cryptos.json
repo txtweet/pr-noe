@@ -13858,6 +13858,14 @@
       "Token"
     ]
   },
+  "MetaMorph": {
+    "name": "MetaMorph",
+    "short": "METM",
+    "url": "/currencies/metamorph",
+    "tags": [
+      "Token"
+    ]
+  },
   "Metacoin": {
     "name": "Metacoin",
     "short": "MTC",
@@ -20272,6 +20280,14 @@
     "name": "TV-TWO",
     "short": "TTV",
     "url": "/currencies/tv-two",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TW Token": {
+    "name": "TW Token",
+    "short": "TW",
+    "url": "/currencies/tw-token",
     "tags": [
       "Token"
     ]
