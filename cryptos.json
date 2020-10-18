@@ -9617,6 +9617,14 @@
       "Decentralized exchange"
     ]
   },
+  "Gala": {
+    "name": "Gala",
+    "short": "GALA",
+    "url": "/currencies/gala",
+    "tags": [
+      "Token"
+    ]
+  },
   "Galaxy Wallet": {
     "name": "Galaxy Wallet",
     "short": "GC",
@@ -18062,6 +18070,14 @@
     "name": "SPIN Protocol",
     "short": "SPIN",
     "url": "/currencies/spin-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SPINDLE": {
+    "name": "SPINDLE",
+    "short": "SPD",
+    "url": "/currencies/spindle",
     "tags": [
       "Token"
     ]
