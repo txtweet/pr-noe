@@ -3037,6 +3037,15 @@
       "Mineable"
     ]
   },
+  "Bitcoiin": {
+    "name": "Bitcoiin",
+    "short": "B2G",
+    "url": "/currencies/bitcoiin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoin": {
     "name": "Bitcoin",
     "short": "BTC",
@@ -11014,6 +11023,14 @@
       "Token"
     ]
   },
+  "IBStoken": {
+    "name": "IBStoken",
+    "short": "IBS",
+    "url": "/currencies/ibstoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "ICE ROCK MINING": {
     "name": "ICE ROCK MINING",
     "short": "ROCK2",
@@ -12708,6 +12725,14 @@
       "Interoperability"
     ]
   },
+  "Liquidity Dividends Protocol": {
+    "name": "Liquidity Dividends Protocol",
+    "short": "LID",
+    "url": "/currencies/liquidity-dividends-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Liquidity Network": {
     "name": "Liquidity Network",
     "short": "LQD",
@@ -13515,6 +13540,17 @@
     "url": "/currencies/matrexcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "Matrix AI Network": {
+    "name": "Matrix AI Network",
+    "short": "MAN",
+    "url": "/currencies/matrix-ai-network",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "AI & Big Data"
     ]
   },
   "Matryx": {
@@ -20722,6 +20758,15 @@
     "url": "/currencies/tokenpocket",
     "tags": [
       "Token"
+    ]
+  },
+  "Tokenize Xchange": {
+    "name": "Tokenize Xchange",
+    "short": "TKX",
+    "url": "/currencies/tokenize-xchange",
+    "tags": [
+      "Token",
+      "Centralized exchange"
     ]
   },
   "Tokenomy": {
