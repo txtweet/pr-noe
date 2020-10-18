@@ -13123,6 +13123,15 @@
       "Token"
     ]
   },
+  "Lympo": {
+    "name": "Lympo",
+    "short": "LYM",
+    "url": "/currencies/lympo",
+    "tags": [
+      "Token",
+      "Health"
+    ]
+  },
   "MACH Project": {
     "name": "MACH Project",
     "short": "MACH",
@@ -13346,6 +13355,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "MOAC": {
+    "name": "MOAC",
+    "short": "MOAC",
+    "url": "/currencies/moac",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Platform",
+      "Smart Contracts"
     ]
   },
   "MODEL-X-coin": {
@@ -17099,6 +17119,14 @@
     "tags": [
       "Token",
       "Ethereum"
+    ]
+  },
+  "Pundi X NEM": {
+    "name": "Pundi X NEM",
+    "short": "NPXSXEM",
+    "url": "/currencies/pundi-x-nem",
+    "tags": [
+      "Token"
     ]
   },
   "PureVidz": {
