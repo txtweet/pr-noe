@@ -10567,6 +10567,14 @@
       "Mineable"
     ]
   },
+  "Helix": {
+    "name": "Helix",
+    "short": "HLIX",
+    "url": "/currencies/helix",
+    "tags": [
+      "Coin"
+    ]
+  },
   "HelixNetwork": {
     "name": "HelixNetwork",
     "short": "MHLX",
@@ -18326,6 +18334,14 @@
       "Token"
     ]
   },
+  "Satoshivisioncoin": {
+    "name": "Satoshivisioncoin",
+    "short": "SVC",
+    "url": "/currencies/satoshivisioncoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Save and Gain": {
     "name": "Save and Gain",
     "short": "SANDG",
@@ -21347,6 +21363,16 @@
     "url": "/currencies/uniris",
     "tags": [
       "Token"
+    ]
+  },
+  "Uniswap": {
+    "name": "Uniswap",
+    "short": "UNI",
+    "url": "/currencies/uniswap",
+    "tags": [
+      "Token",
+      "DeFi",
+      "AMM"
     ]
   },
   "Unit Protocol": {
