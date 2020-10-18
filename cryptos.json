@@ -1309,6 +1309,15 @@
       "Token"
     ]
   },
+  "Ampleforth": {
+    "name": "Ampleforth",
+    "short": "AMPL",
+    "url": "/currencies/ampleforth",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "AmsterdamCoin": {
     "name": "AmsterdamCoin",
     "short": "AMS",
@@ -23285,6 +23294,14 @@
     "name": "Yearn Land",
     "short": "YLAND",
     "url": "/currencies/yearn-land",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn4 Finance": {
+    "name": "Yearn4 Finance",
+    "short": "YF4",
+    "url": "/currencies/yearn4-finance",
     "tags": [
       "Token"
     ]
