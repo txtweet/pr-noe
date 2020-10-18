@@ -3200,6 +3200,18 @@
       "Payments"
     ]
   },
+  "Bitcoin Rhodium": {
+    "name": "Bitcoin Rhodium",
+    "short": "XRC",
+    "url": "/currencies/bitcoin-rhodium",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X13",
+      "Medium of Exchange"
+    ]
+  },
   "Bitcoin SV": {
     "name": "Bitcoin SV",
     "short": "BSV",
@@ -9557,6 +9569,14 @@
       "PoS",
       "Privacy",
       "RingCT"
+    ]
+  },
+  "GHOSTPRISM": {
+    "name": "GHOSTPRISM",
+    "short": "GHOST",
+    "url": "/currencies/ghostprism",
+    "tags": [
+      "Coin"
     ]
   },
   "GINcoin": {
@@ -18301,6 +18321,14 @@
       "Coin"
     ]
   },
+  "SakeToken": {
+    "name": "SakeToken",
+    "short": "SAKE",
+    "url": "/currencies/sake-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "SalPay": {
     "name": "SalPay",
     "short": "SAL",
@@ -21196,6 +21224,16 @@
       "Token",
       "Platform",
       "Distributed Computing"
+    ]
+  },
+  "UMA": {
+    "name": "UMA",
+    "short": "UMA",
+    "url": "/currencies/uma",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Oracles"
     ]
   },
   "UNIFI DeFi": {
@@ -24439,6 +24477,16 @@
     "url": "/currencies/ytsla-finance",
     "tags": [
       "Token"
+    ]
+  },
+  "yearn.finance": {
+    "name": "yearn.finance",
+    "short": "YFI",
+    "url": "/currencies/yearn-finance",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming"
     ]
   },
   "yfBeta": {
