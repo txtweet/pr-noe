@@ -7005,6 +7005,14 @@
       "Token"
     ]
   },
+  "Digital Insurance Token": {
+    "name": "Digital Insurance Token",
+    "short": "DIT",
+    "url": "/currencies/digital-insurance-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Digital Money Bits": {
     "name": "Digital Money Bits",
     "short": "DMB",
@@ -14665,6 +14673,17 @@
       "Token"
     ]
   },
+  "NativeCoin": {
+    "name": "NativeCoin",
+    "short": "N8V",
+    "url": "/currencies/native-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "Natmin Pure Escrow": {
     "name": "Natmin Pure Escrow",
     "short": "NAT",
@@ -19614,6 +19633,14 @@
       "Sharing Economy"
     ]
   },
+  "Sudan Gold Coin": {
+    "name": "Sudan Gold Coin",
+    "short": "SGC",
+    "url": "/currencies/sudan-gold-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Sumcoin": {
     "name": "Sumcoin",
     "short": "SUM",
@@ -20774,6 +20801,14 @@
     "name": "Touch Social",
     "short": "TST",
     "url": "/currencies/touch-social",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TouchCon": {
+    "name": "TouchCon",
+    "short": "TOC",
+    "url": "/currencies/touchcon",
     "tags": [
       "Token"
     ]
