@@ -9735,6 +9735,15 @@
       "Token"
     ]
   },
+  "Game.com": {
+    "name": "Game.com",
+    "short": "GTC",
+    "url": "/currencies/game",
+    "tags": [
+      "Token",
+      "Media"
+    ]
+  },
   "GameCredits": {
     "name": "GameCredits",
     "short": "GAME",
@@ -18623,6 +18632,17 @@
     "url": "/currencies/scorum-coins",
     "tags": [
       "Coin"
+    ]
+  },
+  "Scry.info": {
+    "name": "Scry.info",
+    "short": "DDD",
+    "url": "/currencies/scryinfo",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Smart Contracts"
     ]
   },
   "SeChain": {
