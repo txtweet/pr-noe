@@ -1953,6 +1953,14 @@
       "Token"
     ]
   },
+  "BBSCoin": {
+    "name": "BBSCoin",
+    "short": "BBS",
+    "url": "/currencies/bbscoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "BDCC Bitica COIN": {
     "name": "BDCC Bitica COIN",
     "short": "BDCC",
@@ -2427,6 +2435,16 @@
     "url": "/currencies/bartertrade",
     "tags": [
       "Token"
+    ]
+  },
+  "Based Money": {
+    "name": "Based Money",
+    "short": "$BASED",
+    "url": "/currencies/based-money",
+    "tags": [
+      "Token",
+      "Memes",
+      "Yield farming"
     ]
   },
   "Basic Attention Token": {
@@ -11448,6 +11466,14 @@
     "name": "Humanscape",
     "short": "HUM",
     "url": "/currencies/humanscape",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Huobi BTC": {
+    "name": "Huobi BTC",
+    "short": "HBTC",
+    "url": "/currencies/huobi-btc",
     "tags": [
       "Token"
     ]
@@ -23418,6 +23444,14 @@
     "name": "Vinci",
     "short": "VINCI",
     "url": "/currencies/vinci",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Vision Network": {
+    "name": "Vision Network",
+    "short": "VSN",
+    "url": "/currencies/vision-network",
     "tags": [
       "Token"
     ]
