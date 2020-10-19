@@ -1356,6 +1356,14 @@
       "Scrypt"
     ]
   },
+  "Alpha Coin": {
+    "name": "Alpha Coin",
+    "short": "APC",
+    "url": "/currencies/alpha-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Alpha Finance Lab": {
     "name": "Alpha Finance Lab",
     "short": "ALPHA",
@@ -9981,6 +9989,18 @@
       "Token"
     ]
   },
+  "Fantom": {
+    "name": "Fantom",
+    "short": "FTM",
+    "url": "/currencies/fantom",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions",
+      "Research",
+      "Smart Contracts"
+    ]
+  },
   "Farm House Finance": {
     "name": "Farm House Finance",
     "short": "FHSE",
@@ -11373,6 +11393,14 @@
       "Token"
     ]
   },
+  "HEROcoin": {
+    "name": "HEROcoin",
+    "short": "PLAY",
+    "url": "/currencies/herocoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "HEX": {
     "name": "HEX",
     "short": "HEX",
@@ -12348,6 +12376,15 @@
       "Coin"
     ]
   },
+  "ION": {
+    "name": "ION",
+    "short": "ION",
+    "url": "/currencies/ion",
+    "tags": [
+      "Coin",
+      "PoS"
+    ]
+  },
   "IONChain": {
     "name": "IONChain",
     "short": "IONC",
@@ -12419,6 +12456,14 @@
       "Token",
       "Gaming",
       "Platform"
+    ]
+  },
+  "IRISnet": {
+    "name": "IRISnet",
+    "short": "IRIS",
+    "url": "/currencies/irisnet",
+    "tags": [
+      "Coin"
     ]
   },
   "ISTARDUST": {
@@ -18061,6 +18106,15 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "PetroDollar": {
+    "name": "PetroDollar",
+    "short": "XPD",
+    "url": "/currencies/petrodollar",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Phala.Network": {
