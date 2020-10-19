@@ -6073,6 +6073,14 @@
       "Token"
     ]
   },
+  "Crypto Cricket Club": {
+    "name": "Crypto Cricket Club",
+    "short": "3Cs",
+    "url": "/currencies/crypto-cricket-club",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crypto Holding Frank Token": {
     "name": "Crypto Holding Frank Token",
     "short": "CHFT",
@@ -7830,6 +7838,20 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Dogecoin": {
+    "name": "Dogecoin",
+    "short": "DOGE",
+    "url": "/currencies/dogecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "Medium of Exchange",
+      "Memes",
+      "Payments"
     ]
   },
   "Dogz": {
@@ -20183,6 +20205,14 @@
     "name": "Shill & Win",
     "short": "PoSH",
     "url": "/currencies/shill-win",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ShineChain": {
+    "name": "ShineChain",
+    "short": "SHE",
+    "url": "/currencies/shinechain",
     "tags": [
       "Token"
     ]
