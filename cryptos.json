@@ -4455,6 +4455,14 @@
       "Token"
     ]
   },
+  "CENTERCOIN": {
+    "name": "CENTERCOIN",
+    "short": "CENT",
+    "url": "/currencies/centercoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "CFun": {
     "name": "CFun",
     "short": "CFUN",
@@ -4503,6 +4511,15 @@
     "url": "/currencies/cnns",
     "tags": [
       "Token"
+    ]
+  },
+  "COIL": {
+    "name": "COIL",
+    "short": "COIL",
+    "url": "/currencies/coil",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "COMSA [ETH]": {
@@ -5573,6 +5590,16 @@
     "url": "/currencies/compendia",
     "tags": [
       "Token"
+    ]
+  },
+  "Compound": {
+    "name": "Compound",
+    "short": "COMP",
+    "url": "/currencies/compound",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming"
     ]
   },
   "Compound 0x": {
@@ -24217,6 +24244,14 @@
       "Token",
       "Platform",
       "Smart Contracts"
+    ]
+  },
+  "Web Coin Pay": {
+    "name": "Web Coin Pay",
+    "short": "WEC",
+    "url": "/currencies/web-coin-pay",
+    "tags": [
+      "Coin"
     ]
   },
   "Webcoin": {
