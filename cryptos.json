@@ -121,6 +121,14 @@
       "Scrypt"
     ]
   },
+  "3X Long Algorand Token": {
+    "name": "3X Long Algorand Token",
+    "short": "ALGOBULL",
+    "url": "/currencies/3x-long-algorand-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Long Altcoin Index Token": {
     "name": "3X Long Altcoin Index Token",
     "short": "ALTBULL",
@@ -490,6 +498,18 @@
     "url": "/currencies/8x8-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "ABBC Coin": {
+    "name": "ABBC Coin",
+    "short": "ABBC",
+    "url": "/currencies/abbc-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "DPoS",
+      "Platform",
+      "Payments"
     ]
   },
   "ABCC Token": {
@@ -1279,6 +1299,14 @@
       "Coin"
     ]
   },
+  "Aludra Network": {
+    "name": "Aludra Network",
+    "short": "ALD",
+    "url": "/currencies/aludra-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ambrosus": {
     "name": "Ambrosus",
     "short": "AMB",
@@ -1545,6 +1573,15 @@
       "State channels"
     ]
   },
+  "Arepacoin": {
+    "name": "Arepacoin",
+    "short": "AREPA",
+    "url": "/currencies/arepacoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Argus": {
     "name": "Argus",
     "short": "ARGUS",
@@ -1590,6 +1627,15 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS"
+    ]
+  },
+  "Aryacoin": {
+    "name": "Aryacoin",
+    "short": "AYA",
+    "url": "/currencies/aryacoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Asac Coin": {
@@ -2014,6 +2060,14 @@
     "url": "/currencies/blockidcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "BLOCKMAX": {
+    "name": "BLOCKMAX",
+    "short": "OCB",
+    "url": "/currencies/blockmax",
+    "tags": [
+      "Token"
     ]
   },
   "BLOCKv": {
@@ -5653,6 +5707,15 @@
     "url": "/currencies/coupon-chain",
     "tags": [
       "Token"
+    ]
+  },
+  "Covesting": {
+    "name": "Covesting",
+    "short": "COV",
+    "url": "/currencies/covesting",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "Cream": {
@@ -11082,6 +11145,14 @@
       "Token"
     ]
   },
+  "Hermez Network": {
+    "name": "Hermez Network",
+    "short": "HEZ",
+    "url": "/currencies/hermez-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hey Bitcoin": {
     "name": "Hey Bitcoin",
     "short": "HYBN",
@@ -12893,6 +12964,17 @@
       "Asset management"
     ]
   },
+  "LATOKEN": {
+    "name": "LATOKEN",
+    "short": "LA",
+    "url": "/currencies/latoken",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange",
+      "Payments"
+    ]
+  },
   "LBRY Credits": {
     "name": "LBRY Credits",
     "short": "LBC",
@@ -13847,6 +13929,14 @@
     "name": "MODEL-X-coin",
     "short": "MODX",
     "url": "/currencies/model-x-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MONEY PARTY": {
+    "name": "MONEY PARTY",
+    "short": "PARTY",
+    "url": "/currencies/money-party",
     "tags": [
       "Token"
     ]
@@ -16151,6 +16241,14 @@
       "Coin",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "On.Live": {
+    "name": "On.Live",
+    "short": "ONL",
+    "url": "/currencies/on-live",
+    "tags": [
+      "Token"
     ]
   },
   "Ondori": {
@@ -22067,6 +22165,14 @@
       "Token"
     ]
   },
+  "Truegame": {
+    "name": "Truegame",
+    "short": "TGAME",
+    "url": "/currencies/tgame",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trump Loses Token": {
     "name": "Trump Loses Token",
     "short": "TRUMPLOSE",
@@ -25359,6 +25465,14 @@
     "name": "sBCH",
     "short": "SBCH",
     "url": "/currencies/sbch",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sBNB": {
+    "name": "sBNB",
+    "short": "SBNB",
+    "url": "/currencies/sbnb",
     "tags": [
       "Token"
     ]
