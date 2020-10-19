@@ -11955,6 +11955,14 @@
       "Wallet"
     ]
   },
+  "Instantily": {
+    "name": "Instantily",
+    "short": "TILY",
+    "url": "/currencies/instantily",
+    "tags": [
+      "Token"
+    ]
+  },
   "Insureum": {
     "name": "Insureum",
     "short": "ISR",
@@ -12620,6 +12628,14 @@
     "url": "/currencies/klaytn",
     "tags": [
       "Coin"
+    ]
+  },
+  "Kleros": {
+    "name": "Kleros",
+    "short": "PNK",
+    "url": "/currencies/kleros",
+    "tags": [
+      "Token"
     ]
   },
   "Klimatas": {
@@ -13372,6 +13388,16 @@
     "url": "/currencies/london-football-exchange",
     "tags": [
       "Token"
+    ]
+  },
+  "Loom Network": {
+    "name": "Loom Network",
+    "short": "LOOM",
+    "url": "/currencies/loom-network",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
     ]
   },
   "Loopring": {
@@ -15927,6 +15953,14 @@
       "Token"
     ]
   },
+  "Obyte": {
+    "name": "Obyte",
+    "short": "GBYTE",
+    "url": "/currencies/obyte",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Ocean Protocol": {
     "name": "Ocean Protocol",
     "short": "OCEAN",
@@ -16628,6 +16662,14 @@
       "Token",
       "Yield farming",
       "Binance Chain"
+    ]
+  },
+  "Pantos": {
+    "name": "Pantos",
+    "short": "PAN",
+    "url": "/currencies/pantos",
+    "tags": [
+      "Token"
     ]
   },
   "Paparazzi": {
@@ -17965,6 +18007,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "RI Token": {
+    "name": "RI Token",
+    "short": "RI",
+    "url": "/currencies/ri-token",
+    "tags": [
+      "Token"
     ]
   },
   "RING X PLATFORM": {
@@ -20713,6 +20763,16 @@
       "Mineable"
     ]
   },
+  "TE-FOOD": {
+    "name": "TE-FOOD",
+    "short": "TFD",
+    "url": "/currencies/te-food",
+    "tags": [
+      "Token",
+      "Logistics",
+      "Data Provenance"
+    ]
+  },
   "TEAM (TokenStars)": {
     "name": "TEAM (TokenStars)",
     "short": "TEAM",
@@ -22058,6 +22118,14 @@
       "Medium of Exchange",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "USDA": {
+    "name": "USDA",
+    "short": "USDA",
+    "url": "/currencies/usda",
+    "tags": [
+      "Token"
     ]
   },
   "USDK": {
@@ -23723,6 +23791,15 @@
     "url": "/currencies/xaya",
     "tags": [
       "Coin"
+    ]
+  },
+  "XcelToken Plus": {
+    "name": "XcelToken Plus",
+    "short": "XLAB",
+    "url": "/currencies/xceltoken-plus",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
     ]
   },
   "XeniosCoin": {
