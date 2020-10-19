@@ -5589,6 +5589,14 @@
       "NIST5"
     ]
   },
+  "Coinsbit Token": {
+    "name": "Coinsbit Token",
+    "short": "CNB",
+    "url": "/currencies/coinsbit-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Coinsto": {
     "name": "Coinsto",
     "short": "CSO",
@@ -8054,6 +8062,17 @@
       "Collectibles & NFTs"
     ]
   },
+  "Donu": {
+    "name": "Donu",
+    "short": "DONU",
+    "url": "/currencies/donu",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoS",
+      "SHA-256"
+    ]
+  },
   "Donut": {
     "name": "Donut",
     "short": "DONUT",
@@ -9033,6 +9052,15 @@
       "Token"
     ]
   },
+  "Energo": {
+    "name": "Energo",
+    "short": "TSL",
+    "url": "/currencies/energo",
+    "tags": [
+      "Token",
+      "Energy"
+    ]
+  },
   "Energy Web Token": {
     "name": "Energy Web Token",
     "short": "EWT",
@@ -9482,6 +9510,14 @@
     "name": "Evan",
     "short": "EVAN",
     "url": "/currencies/evan",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Evedo": {
+    "name": "Evedo",
+    "short": "EVED",
+    "url": "/currencies/evedo",
     "tags": [
       "Token"
     ]
@@ -11784,6 +11820,14 @@
       "Coin"
     ]
   },
+  "Hive Dollar": {
+    "name": "Hive Dollar",
+    "short": "HBD",
+    "url": "/currencies/hive-dollar",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Hiveterminal Token": {
     "name": "Hiveterminal Token",
     "short": "HVN",
@@ -13399,6 +13443,15 @@
     "url": "/currencies/kleros",
     "tags": [
       "Token"
+    ]
+  },
+  "Klever": {
+    "name": "Klever",
+    "short": "KLV",
+    "url": "/currencies/klever",
+    "tags": [
+      "Token",
+      "Wallet"
     ]
   },
   "Klimatas": {
@@ -15590,6 +15643,14 @@
     "name": "Moon Juice",
     "short": "JUICE",
     "url": "/currencies/moon-juice",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Moon YFI": {
+    "name": "Moon YFI",
+    "short": "MYFI",
+    "url": "/currencies/moon-yfi",
     "tags": [
       "Token"
     ]
@@ -22069,6 +22130,14 @@
       "Token"
     ]
   },
+  "TOPBTC Token": {
+    "name": "TOPBTC Token",
+    "short": "TOPB",
+    "url": "/currencies/topb",
+    "tags": [
+      "Token"
+    ]
+  },
   "TRAXIA": {
     "name": "TRAXIA",
     "short": "TM2",
@@ -23586,6 +23655,14 @@
     "name": "Unicore",
     "short": "UNICORE",
     "url": "/currencies/unicore",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Unicrypt": {
+    "name": "Unicrypt",
+    "short": "UNC",
+    "url": "/currencies/unicrypt",
     "tags": [
       "Token"
     ]
