@@ -83,6 +83,14 @@
       "Token"
     ]
   },
+  "1SG": {
+    "name": "1SG",
+    "short": "1SG",
+    "url": "/currencies/1sg",
+    "tags": [
+      "Token"
+    ]
+  },
   "1World": {
     "name": "1World",
     "short": "1WO",
@@ -616,6 +624,14 @@
     "url": "/currencies/adaup",
     "tags": [
       "Coin"
+    ]
+  },
+  "AEN Smart Token": {
+    "name": "AEN Smart Token",
+    "short": "AENS",
+    "url": "/currencies/aen-smart-token",
+    "tags": [
+      "Token"
     ]
   },
   "AI Crypto": {
@@ -2464,6 +2480,16 @@
       "Token"
     ]
   },
+  "BTU Protocol": {
+    "name": "BTU Protocol",
+    "short": "BTU",
+    "url": "/currencies/btu-protocol",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Enterprise solutions"
+    ]
+  },
   "BUMO": {
     "name": "BUMO",
     "short": "BU",
@@ -2504,6 +2530,14 @@
     "url": "/currencies/baasid",
     "tags": [
       "Token"
+    ]
+  },
+  "BackPacker Coin": {
+    "name": "BackPacker Coin",
+    "short": "BPC",
+    "url": "/currencies/backpacker-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "BaconSwap": {
@@ -2812,6 +2846,16 @@
     "url": "/currencies/beholder",
     "tags": [
       "Token"
+    ]
+  },
+  "Bela": {
+    "name": "Bela",
+    "short": "BELA",
+    "url": "/currencies/belacoin",
+    "tags": [
+      "Token",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Beldex": {
@@ -5191,6 +5235,14 @@
     "name": "Cashpayz Token",
     "short": "CPC",
     "url": "/currencies/cashpayz-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Casino Betting Coin": {
+    "name": "Casino Betting Coin",
+    "short": "CBC",
+    "url": "/currencies/casino-betting-coin",
     "tags": [
       "Token"
     ]
@@ -10060,6 +10112,14 @@
       "AI & Big Data"
     ]
   },
+  "FOCV": {
+    "name": "FOCV",
+    "short": "FOCV",
+    "url": "/currencies/focv",
+    "tags": [
+      "Token"
+    ]
+  },
   "FREE Coin": {
     "name": "FREE Coin",
     "short": "FREE",
@@ -14302,6 +14362,14 @@
       "Token"
     ]
   },
+  "Lead Wallet": {
+    "name": "Lead Wallet",
+    "short": "LEAD",
+    "url": "/currencies/lead-wallet",
+    "tags": [
+      "Token"
+    ]
+  },
   "Leadcoin": {
     "name": "Leadcoin",
     "short": "LDC",
@@ -14897,6 +14965,14 @@
       "Token"
     ]
   },
+  "MATH": {
+    "name": "MATH",
+    "short": "MATH",
+    "url": "/currencies/math",
+    "tags": [
+      "Token"
+    ]
+  },
   "MAX Exchange Token": {
     "name": "MAX Exchange Token",
     "short": "MAX",
@@ -15263,6 +15339,14 @@
     "name": "Maki Finance",
     "short": "MAKI",
     "url": "/currencies/maki-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Mallcoin": {
+    "name": "Mallcoin",
+    "short": "MLC",
+    "url": "/currencies/mallcoin",
     "tags": [
       "Token"
     ]
@@ -17138,6 +17222,14 @@
       "Token"
     ]
   },
+  "Non-Fungible Yearn": {
+    "name": "Non-Fungible Yearn",
+    "short": "NFY",
+    "url": "/currencies/non-fungible-yearn",
+    "tags": [
+      "Token"
+    ]
+  },
   "NovaDeFi": {
     "name": "NovaDeFi",
     "short": "NMT",
@@ -17518,6 +17610,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Okschain": {
+    "name": "Okschain",
+    "short": "OKS",
+    "url": "/currencies/okschain",
+    "tags": [
+      "Token"
     ]
   },
   "Olive": {
@@ -18410,6 +18510,14 @@
       "Token"
     ]
   },
+  "PeepCoin": {
+    "name": "PeepCoin",
+    "short": "PCN",
+    "url": "/currencies/peepcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "PeerEx": {
     "name": "PeerEx",
     "short": "PERX",
@@ -19242,6 +19350,14 @@
       "Real Estate",
       "Escrow",
       "Smart Contracts"
+    ]
+  },
+  "Proton": {
+    "name": "Proton",
+    "short": "XPR",
+    "url": "/currencies/proton",
+    "tags": [
+      "Token"
     ]
   },
   "Proton Token": {
@@ -21583,6 +21699,16 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "SoMee.Social": {
+    "name": "SoMee.Social",
+    "short": "ONG",
+    "url": "/currencies/ongsocial",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation"
     ]
   },
   "SoPay": {
@@ -25940,6 +26066,14 @@
       "PoSign"
     ]
   },
+  "XTRM COIN": {
+    "name": "XTRM COIN",
+    "short": "XTRM",
+    "url": "/currencies/xtrm-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "XTZUP": {
     "name": "XTZUP",
     "short": "XTZUP",
@@ -27302,6 +27436,14 @@
     "name": "hybrix",
     "short": "HY",
     "url": "/currencies/hybrix",
+    "tags": [
+      "Token"
+    ]
+  },
+  "i9 Coin": {
+    "name": "i9 Coin",
+    "short": "I9C",
+    "url": "/currencies/i9-coin",
     "tags": [
       "Token"
     ]
