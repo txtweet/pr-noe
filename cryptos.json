@@ -1379,6 +1379,20 @@
       "Scrypt"
     ]
   },
+  "AllianceBlock": {
+    "name": "AllianceBlock",
+    "short": "ALBT",
+    "url": "/currencies/allianceblock",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Enterprise solutions",
+      "AI & Big Data",
+      "Ethereum",
+      "Omni",
+      "Netherlands"
+    ]
+  },
   "Alpha Coin": {
     "name": "Alpha Coin",
     "short": "APC",
@@ -3146,6 +3160,16 @@
       "Platform"
     ]
   },
+  "BitClave": {
+    "name": "BitClave",
+    "short": "CAT",
+    "url": "/currencies/bitclave",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data"
+    ]
+  },
   "BitCoal": {
     "name": "BitCoal",
     "short": "COAL",
@@ -3237,6 +3261,15 @@
     "url": "/currencies/bitmax-token",
     "tags": [
       "Token"
+    ]
+  },
+  "BitMoney": {
+    "name": "BitMoney",
+    "short": "BIT",
+    "url": "/currencies/bitmoney",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "BitNautic Token": {
@@ -6121,6 +6154,15 @@
       "Asset management"
     ]
   },
+  "Cowboy.Finance": {
+    "name": "Cowboy.Finance",
+    "short": "COW",
+    "url": "/currencies/cowboy-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
+    ]
+  },
   "Cream": {
     "name": "Cream",
     "short": "CRM",
@@ -7450,6 +7492,21 @@
     "url": "/currencies/decentralized-vulnerability-platform",
     "tags": [
       "Token"
+    ]
+  },
+  "Decred": {
+    "name": "Decred",
+    "short": "DCR",
+    "url": "/currencies/decred",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "BLAKE256",
+      "Medium of Exchange",
+      "Store of Value",
+      "Privacy",
+      "DAO"
     ]
   },
   "Decurian": {
@@ -11529,6 +11586,18 @@
       "Coin"
     ]
   },
+  "HUSD": {
+    "name": "HUSD",
+    "short": "HUSD",
+    "url": "/currencies/husd",
+    "tags": [
+      "Token",
+      "PoW",
+      "Medium of Exchange",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "HXY Money": {
     "name": "HXY Money",
     "short": "HXY",
@@ -13906,6 +13975,21 @@
       "Philanthropy"
     ]
   },
+  "LINA": {
+    "name": "LINA",
+    "short": "LINA",
+    "url": "/currencies/lina",
+    "tags": [
+      "Token",
+      "Services",
+      "Enterprise solutions",
+      "Viet Nam",
+      "Ethereum",
+      "Agriculture",
+      "Health",
+      "Media"
+    ]
+  },
   "LINK": {
     "name": "LINK",
     "short": "LN",
@@ -14292,6 +14376,16 @@
       "Coin",
       "Mineable",
       "Marketplace"
+    ]
+  },
+  "LiteDoge": {
+    "name": "LiteDoge",
+    "short": "LDOGE",
+    "url": "/currencies/litedoge",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "Litecash": {
@@ -14841,6 +14935,14 @@
     "name": "MONEY PARTY",
     "short": "PARTY",
     "url": "/currencies/money-party",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MONNOS": {
+    "name": "MONNOS",
+    "short": "MNS",
+    "url": "/currencies/monnos",
     "tags": [
       "Token"
     ]
@@ -16701,6 +16803,14 @@
       "Token"
     ]
   },
+  "Nexalt": {
+    "name": "Nexalt",
+    "short": "XLT",
+    "url": "/currencies/nexalt",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Nexo": {
     "name": "Nexo",
     "short": "NEXO",
@@ -16952,6 +17062,16 @@
     "url": "/currencies/obic",
     "tags": [
       "Token"
+    ]
+  },
+  "OBITS": {
+    "name": "OBITS",
+    "short": "OBITS",
+    "url": "/currencies/obits",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange"
     ]
   },
   "OC Protocol": {
@@ -18439,6 +18559,17 @@
       "Token"
     ]
   },
+  "PlatinumBAR": {
+    "name": "PlatinumBAR",
+    "short": "XPTX",
+    "url": "/currencies/platinumbar",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Quark"
+    ]
+  },
   "PlatonCoin": {
     "name": "PlatonCoin",
     "short": "PLTC",
@@ -19536,6 +19667,15 @@
     "url": "/currencies/ravencoin-classic",
     "tags": [
       "Coin"
+    ]
+  },
+  "ReFork": {
+    "name": "ReFork",
+    "short": "EFK",
+    "url": "/currencies/refork",
+    "tags": [
+      "Token",
+      "Manufacturing"
     ]
   },
   "Realio Network": {
@@ -23731,6 +23871,14 @@
       "Payments"
     ]
   },
+  "UOS Network": {
+    "name": "UOS Network",
+    "short": "UOS",
+    "url": "/currencies/uos-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "USD Coin": {
     "name": "USD Coin",
     "short": "USDC",
@@ -24332,6 +24480,17 @@
       "Coin"
     ]
   },
+  "VITE": {
+    "name": "VITE",
+    "short": "VITE",
+    "url": "/currencies/vite",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Enterprise solutions",
+      "Scaling"
+    ]
+  },
   "VN Token": {
     "name": "VN Token",
     "short": "VN",
@@ -24815,6 +24974,14 @@
     "name": "Voltz",
     "short": "VOLTZ",
     "url": "/currencies/voltz",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Volume Network": {
+    "name": "Volume Network",
+    "short": "VOL",
+    "url": "/currencies/volume-network",
     "tags": [
       "Token"
     ]
@@ -25489,6 +25656,15 @@
       "Coin"
     ]
   },
+  "XTRABYTES": {
+    "name": "XTRABYTES",
+    "short": "XBY",
+    "url": "/currencies/xtrabytes",
+    "tags": [
+      "Coin",
+      "PoSign"
+    ]
+  },
   "XTZUP": {
     "name": "XTZUP",
     "short": "XTZUP",
@@ -25536,6 +25712,14 @@
     "url": "/currencies/xenioscoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Xenon": {
+    "name": "Xenon",
+    "short": "XEN",
+    "url": "/currencies/xenon-xen",
+    "tags": [
+      "Token"
     ]
   },
   "Xenoverse": {
