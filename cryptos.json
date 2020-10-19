@@ -584,6 +584,14 @@
       "Coin"
     ]
   },
+  "AI Crypto": {
+    "name": "AI Crypto",
+    "short": "AIC",
+    "url": "/currencies/ai-crypto",
+    "tags": [
+      "Token"
+    ]
+  },
   "AI Doctor": {
     "name": "AI Doctor",
     "short": "AIDOC",
@@ -977,6 +985,15 @@
     "url": "/currencies/aditus",
     "tags": [
       "Token"
+    ]
+  },
+  "Adshares": {
+    "name": "Adshares",
+    "short": "ADS",
+    "url": "/currencies/adshares",
+    "tags": [
+      "Coin",
+      "Marketing"
     ]
   },
   "Advanced Internet Blocks": {
@@ -5384,6 +5401,14 @@
       "Token"
     ]
   },
+  "CoinDeal Token": {
+    "name": "CoinDeal Token",
+    "short": "CDL",
+    "url": "/currencies/coindeal-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "CoinEx Token": {
     "name": "CoinEx Token",
     "short": "CET",
@@ -5716,6 +5741,15 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Conceal": {
+    "name": "Conceal",
+    "short": "CCX",
+    "url": "/currencies/conceal",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Coni": {
@@ -11414,6 +11448,14 @@
       "Token"
     ]
   },
+  "Helex": {
+    "name": "Helex",
+    "short": "HLX",
+    "url": "/currencies/helex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Helium": {
     "name": "Helium",
     "short": "HNT",
@@ -15446,6 +15488,16 @@
       "Enterprise solutions"
     ]
   },
+  "Morpheus.Network": {
+    "name": "Morpheus.Network",
+    "short": "MRPH",
+    "url": "/currencies/morpheus-network",
+    "tags": [
+      "Token",
+      "Logistics",
+      "Payments"
+    ]
+  },
   "Moss Coin": {
     "name": "Moss Coin",
     "short": "MOC",
@@ -18126,6 +18178,14 @@
       "Token"
     ]
   },
+  "Predix Network": {
+    "name": "Predix Network",
+    "short": "PRDX",
+    "url": "/currencies/predix-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Presearch": {
     "name": "Presearch",
     "short": "PRE",
@@ -19692,6 +19752,14 @@
       "Token"
     ]
   },
+  "Safari": {
+    "name": "Safari",
+    "short": "SFR",
+    "url": "/currencies/safari",
+    "tags": [
+      "Token"
+    ]
+  },
   "Safe": {
     "name": "Safe",
     "short": "SAFE",
@@ -19756,6 +19824,14 @@
     "name": "SakeToken",
     "short": "SAKE",
     "url": "/currencies/sake-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Sakura Bloom": {
+    "name": "Sakura Bloom",
+    "short": "SKB",
+    "url": "/currencies/sakura-bloom",
     "tags": [
       "Token"
     ]
@@ -23222,6 +23298,14 @@
       "Token"
     ]
   },
+  "Unicore": {
+    "name": "Unicore",
+    "short": "UNICORE",
+    "url": "/currencies/unicore",
+    "tags": [
+      "Token"
+    ]
+  },
   "Unification": {
     "name": "Unification",
     "short": "FUND",
@@ -25425,6 +25509,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "ZCore Token": {
+    "name": "ZCore Token",
+    "short": "ZCRT",
+    "url": "/currencies/zcore-token",
+    "tags": [
+      "Token"
     ]
   },
   "ZENZO": {
