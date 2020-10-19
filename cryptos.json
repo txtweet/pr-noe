@@ -1564,6 +1564,14 @@
       "Token"
     ]
   },
+  "ArbitrageCT": {
+    "name": "ArbitrageCT",
+    "short": "ARCT",
+    "url": "/currencies/arbitragect",
+    "tags": [
+      "Token"
+    ]
+  },
   "Arcona": {
     "name": "Arcona",
     "short": "ARCONA",
@@ -3075,6 +3083,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "BitRent": {
+    "name": "BitRent",
+    "short": "RNTB",
+    "url": "/currencies/bitrent",
+    "tags": [
+      "Token"
     ]
   },
   "BitRewards": {
@@ -16083,6 +16099,14 @@
       "Token"
     ]
   },
+  "OG Fan Token": {
+    "name": "OG Fan Token",
+    "short": "OG",
+    "url": "/currencies/og-fan-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "OKB": {
     "name": "OKB",
     "short": "OKB",
@@ -18024,6 +18048,14 @@
     "name": "QChi",
     "short": "QCH",
     "url": "/currencies/qchi",
+    "tags": [
+      "Token"
+    ]
+  },
+  "QChi Chain": {
+    "name": "QChi Chain",
+    "short": "QHC",
+    "url": "/currencies/qchi-chain",
     "tags": [
       "Token"
     ]
@@ -20370,6 +20402,14 @@
       "Mineable"
     ]
   },
+  "Spectrum": {
+    "name": "Spectrum",
+    "short": "SPT",
+    "url": "/currencies/spectrum",
+    "tags": [
+      "Token"
+    ]
+  },
   "SpectrumCash": {
     "name": "SpectrumCash",
     "short": "XSM",
@@ -21121,6 +21161,14 @@
     "name": "TEAM (TokenStars)",
     "short": "TEAM",
     "url": "/currencies/tokenstars",
+    "tags": [
+      "Token"
+    ]
+  },
+  "TENA": {
+    "name": "TENA",
+    "short": "TENA",
+    "url": "/currencies/tena",
     "tags": [
       "Token"
     ]
