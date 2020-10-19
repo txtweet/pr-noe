@@ -1084,6 +1084,16 @@
       "Smart Contracts"
     ]
   },
+  "Aeron": {
+    "name": "Aeron",
+    "short": "ARNX",
+    "url": "/currencies/aeron",
+    "tags": [
+      "Token",
+      "Transport",
+      "Data Provenance"
+    ]
+  },
   "Aerotoken": {
     "name": "Aerotoken",
     "short": "AET",
@@ -15526,6 +15536,17 @@
       "Coin"
     ]
   },
+  "MineBee": {
+    "name": "MineBee",
+    "short": "MB",
+    "url": "/currencies/minebee",
+    "tags": [
+      "Token",
+      "Services",
+      "AI & Big Data",
+      "Research"
+    ]
+  },
   "Mineral": {
     "name": "Mineral",
     "short": "MNR",
@@ -18991,6 +19012,15 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
+    ]
+  },
+  "Pylon Network": {
+    "name": "Pylon Network",
+    "short": "PYLNT",
+    "url": "/currencies/pylon-network",
+    "tags": [
+      "Token",
+      "Energy"
     ]
   },
   "Pyrk": {
