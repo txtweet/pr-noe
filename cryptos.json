@@ -793,6 +793,16 @@
       "Real Estate"
     ]
   },
+  "ATMChain": {
+    "name": "ATMChain",
+    "short": "ATM",
+    "url": "/currencies/attention-token-of-media",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments"
+    ]
+  },
   "ATN": {
     "name": "ATN",
     "short": "ATN",
@@ -2452,6 +2462,14 @@
     "url": "/currencies/baz-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Beacon": {
+    "name": "Beacon",
+    "short": "BECN",
+    "url": "/currencies/beacon",
+    "tags": [
+      "Coin"
     ]
   },
   "Beam": {
@@ -16545,6 +16563,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Ormeus Cash": {
+    "name": "Ormeus Cash",
+    "short": "OMC",
+    "url": "/currencies/ormeus-cash",
+    "tags": [
+      "Token"
     ]
   },
   "Ormeus Coin": {
