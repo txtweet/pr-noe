@@ -1152,6 +1152,14 @@
       "Philanthropy"
     ]
   },
+  "Aidos Kuneen": {
+    "name": "Aidos Kuneen",
+    "short": "ADK",
+    "url": "/currencies/aidos-kuneen",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Aigang": {
     "name": "Aigang",
     "short": "AIX",
@@ -1816,6 +1824,14 @@
     "tags": [
       "Token",
       "Marketing"
+    ]
+  },
+  "Atletico De Madrid Fan Token": {
+    "name": "Atletico De Madrid Fan Token",
+    "short": "ATM",
+    "url": "/currencies/atletico-de-madrid-fan-token",
+    "tags": [
+      "Token"
     ]
   },
   "Atomic Wallet Coin": {
@@ -4312,6 +4328,14 @@
     "tags": [
       "Token",
       "Transport"
+    ]
+  },
+  "Building Cities Beyond Blockchain": {
+    "name": "Building Cities Beyond Blockchain",
+    "short": "BCB",
+    "url": "/currencies/building-cities-beyond-blockchain",
+    "tags": [
+      "Coin"
     ]
   },
   "Bulleon": {
@@ -10848,6 +10872,14 @@
       "Token"
     ]
   },
+  "GoalTime N": {
+    "name": "GoalTime N",
+    "short": "GTX",
+    "url": "/currencies/goaltime-n",
+    "tags": [
+      "Token"
+    ]
+  },
   "Gold Poker": {
     "name": "Gold Poker",
     "short": "GPKR",
@@ -14046,6 +14078,14 @@
     "name": "Lottonation",
     "short": "LNT",
     "url": "/currencies/lottonation",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LoveHearts": {
+    "name": "LoveHearts",
+    "short": "LVH",
+    "url": "/currencies/lovehearts",
     "tags": [
       "Token"
     ]
@@ -17597,6 +17637,19 @@
       "DApp"
     ]
   },
+  "Peercoin": {
+    "name": "Peercoin",
+    "short": "PPC",
+    "url": "/currencies/peercoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "SHA-256",
+      "Medium of Exchange",
+      "Payments"
+    ]
+  },
   "Peerguess": {
     "name": "Peerguess",
     "short": "GUESS",
@@ -19235,6 +19288,14 @@
     "name": "RoboCalls",
     "short": "RC20",
     "url": "/currencies/robocalls",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Robonomics Web Services": {
+    "name": "Robonomics Web Services",
+    "short": "RWS",
+    "url": "/currencies/robonomics-web-services",
     "tags": [
       "Token"
     ]
@@ -22826,6 +22887,14 @@
     "url": "/currencies/trittium",
     "tags": [
       "Coin"
+    ]
+  },
+  "TriumphX": {
+    "name": "TriumphX",
+    "short": "TRIX",
+    "url": "/currencies/triumphx",
+    "tags": [
+      "Token"
     ]
   },
   "Trollcoin": {
