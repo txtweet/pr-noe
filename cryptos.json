@@ -776,6 +776,15 @@
       "Token"
     ]
   },
+  "ATBCoin": {
+    "name": "ATBCoin",
+    "short": "ATB",
+    "url": "/currencies/atbcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "ATC Coin": {
     "name": "ATC Coin",
     "short": "ATCC",
@@ -1155,6 +1164,14 @@
     "name": "Airbloc",
     "short": "ABL",
     "url": "/currencies/airbloc",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Aitheon": {
+    "name": "Aitheon",
+    "short": "ACU",
+    "url": "/currencies/aitheon",
     "tags": [
       "Token"
     ]
@@ -4041,6 +4058,14 @@
       "Collectibles & NFTs"
     ]
   },
+  "Bonorum": {
+    "name": "Bonorum",
+    "short": "BONO",
+    "url": "/currencies/bonorum",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bonpay": {
     "name": "Bonpay",
     "short": "BON",
@@ -6557,6 +6582,14 @@
       "DeFi"
     ]
   },
+  "DMScript": {
+    "name": "DMScript",
+    "short": "DMST",
+    "url": "/currencies/dmscript",
+    "tags": [
+      "Token"
+    ]
+  },
   "DMarket": {
     "name": "DMarket",
     "short": "DMT",
@@ -6829,6 +6862,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Datacoin": {
+    "name": "Datacoin",
+    "short": "DTC",
+    "url": "/currencies/datacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Multiple"
     ]
   },
   "Datarius Credit": {
@@ -8262,6 +8306,14 @@
     "url": "/currencies/ecodollar",
     "tags": [
       "Coin"
+    ]
+  },
+  "EcoG9coin": {
+    "name": "EcoG9coin",
+    "short": "EGC",
+    "url": "/currencies/ecog9coin",
+    "tags": [
+      "Token"
     ]
   },
   "Ecobit": {
@@ -10143,6 +10195,16 @@
       "Token"
     ]
   },
+  "GNY": {
+    "name": "GNY",
+    "short": "GNY",
+    "url": "/currencies/gny",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
+    ]
+  },
   "GOD KIMCHI": {
     "name": "GOD KIMCHI",
     "short": "gKIMCHI",
@@ -10320,6 +10382,17 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Gems ": {
+    "name": "Gems ",
+    "short": "GEM",
+    "url": "/currencies/gems-protocol",
+    "tags": [
+      "Token",
+      "Platform",
+      "Jobs",
+      "Sharing Economy"
     ]
   },
   "Genaro Network": {
@@ -10641,6 +10714,14 @@
     "name": "GoldenPyrex",
     "short": "GPYX",
     "url": "/currencies/goldenpyrex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "GolderGames": {
+    "name": "GolderGames",
+    "short": "GLDR",
+    "url": "/currencies/goldergames",
     "tags": [
       "Token"
     ]
@@ -12277,6 +12358,14 @@
       "Token"
     ]
   },
+  "InvestDigital": {
+    "name": "InvestDigital",
+    "short": "IDT",
+    "url": "/currencies/investdigital",
+    "tags": [
+      "Token"
+    ]
+  },
   "InvestFeed": {
     "name": "InvestFeed",
     "short": "IFT",
@@ -12483,6 +12572,16 @@
       "Marketplace",
       "Crowdsourcing",
       "Jobs"
+    ]
+  },
+  "Jetcoin": {
+    "name": "Jetcoin",
+    "short": "JET",
+    "url": "/currencies/jetcoin",
+    "tags": [
+      "Token",
+      "Marketing",
+      "Entertainment"
     ]
   },
   "Jewel": {
@@ -13627,6 +13726,14 @@
     "name": "Livenodes Token",
     "short": "LNOT",
     "url": "/currencies/livenodes-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Livepeer": {
+    "name": "Livepeer",
+    "short": "LPT",
+    "url": "/currencies/livepeer",
     "tags": [
       "Token"
     ]
@@ -15745,6 +15852,19 @@
       "Token"
     ]
   },
+  "Neutrino USD": {
+    "name": "Neutrino USD",
+    "short": "USDN",
+    "url": "/currencies/neutrino-usd",
+    "tags": [
+      "Token",
+      "Waves",
+      "LPoS",
+      "DeFi",
+      "Stablecoin - Algorithmically-Stabilized",
+      "Staking"
+    ]
+  },
   "Neutron": {
     "name": "Neutron",
     "short": "NTRN",
@@ -16437,6 +16557,15 @@
     "url": "/currencies/onigiriswap",
     "tags": [
       "Token"
+    ]
+  },
+  "Onix": {
+    "name": "Onix",
+    "short": "ONX",
+    "url": "/currencies/onix",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Ontology": {
@@ -19243,6 +19372,14 @@
       "Token"
     ]
   },
+  "STABLE ASSET": {
+    "name": "STABLE ASSET",
+    "short": "STA",
+    "url": "/currencies/stable-asset",
+    "tags": [
+      "Token"
+    ]
+  },
   "STASIS EURO": {
     "name": "STASIS EURO",
     "short": "EURS",
@@ -21519,6 +21656,21 @@
       "Token"
     ]
   },
+  "Tap": {
+    "name": "Tap",
+    "short": "XTP",
+    "url": "/currencies/tap",
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Technology",
+      "Medium of Exchange",
+      "Wallet",
+      "Payments",
+      "Mobile",
+      "Discount token"
+    ]
+  },
   "Tcbcoin": {
     "name": "Tcbcoin",
     "short": "TCFX",
@@ -22774,6 +22926,14 @@
       "Token"
     ]
   },
+  "UniLend": {
+    "name": "UniLend",
+    "short": "UFT",
+    "url": "/currencies/unilend",
+    "tags": [
+      "Token"
+    ]
+  },
   "UniPower": {
     "name": "UniPower",
     "short": "POWER",
@@ -23083,6 +23243,14 @@
     "url": "/currencies/v-dimension",
     "tags": [
       "Coin"
+    ]
+  },
+  "VARC": {
+    "name": "VARC",
+    "short": "VARC",
+    "url": "/currencies/varc",
+    "tags": [
+      "Token"
     ]
   },
   "VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM": {
@@ -23696,6 +23864,15 @@
       "Token"
     ]
   },
+  "WINCOIN": {
+    "name": "WINCOIN",
+    "short": "WC",
+    "url": "/currencies/win-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "WINk": {
     "name": "WINk",
     "short": "WIN",
@@ -23703,6 +23880,14 @@
     "tags": [
       "Token",
       "Gambling"
+    ]
+  },
+  "WITChain": {
+    "name": "WITChain",
+    "short": "WIT",
+    "url": "/currencies/witchain",
+    "tags": [
+      "Token"
     ]
   },
   "WIZBL": {
