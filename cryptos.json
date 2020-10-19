@@ -1891,6 +1891,14 @@
       "Mineable"
     ]
   },
+  "Atlantis Token": {
+    "name": "Atlantis Token",
+    "short": "ATIS",
+    "url": "/currencies/atlantis-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Atlas Protocol": {
     "name": "Atlas Protocol",
     "short": "ATP",
@@ -3613,6 +3621,17 @@
       "Coin"
     ]
   },
+  "Bitcoin Gold": {
+    "name": "Bitcoin Gold",
+    "short": "BTG",
+    "url": "/currencies/bitcoin-gold",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Payments"
+    ]
+  },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
     "short": "XBI",
@@ -3743,6 +3762,15 @@
       "Token"
     ]
   },
+  "BitcoinSoV": {
+    "name": "BitcoinSoV",
+    "short": "BSOV",
+    "url": "/currencies/bitcoinsov",
+    "tags": [
+      "Token",
+      "Mineable"
+    ]
+  },
   "BitcoinV": {
     "name": "BitcoinV",
     "short": "BTCV",
@@ -3798,6 +3826,14 @@
     "name": "Bitex Global XBX Coin",
     "short": "XBX",
     "url": "/currencies/bitex-global-xbx-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bitfex": {
+    "name": "Bitfex",
+    "short": "BFX",
+    "url": "/currencies/bitfex",
     "tags": [
       "Token"
     ]
@@ -4233,6 +4269,14 @@
       "Token",
       "Services",
       "Crowdfunding"
+    ]
+  },
+  "BoatPilot Token": {
+    "name": "BoatPilot Token",
+    "short": "NAVY",
+    "url": "/currencies/boat-pilot-token",
+    "tags": [
+      "Token"
     ]
   },
   "Bob's Repair": {
@@ -5985,6 +6029,14 @@
       "Token"
     ]
   },
+  "Connectome": {
+    "name": "Connectome",
+    "short": "CNTM",
+    "url": "/currencies/connectome",
+    "tags": [
+      "Token"
+    ]
+  },
   "Consensus Cell Network": {
     "name": "Consensus Cell Network",
     "short": "ECELL",
@@ -7350,6 +7402,14 @@
       "Token"
     ]
   },
+  "DeFi Pulse Index": {
+    "name": "DeFi Pulse Index",
+    "short": "DPI",
+    "url": "/currencies/defi-pulse-index",
+    "tags": [
+      "Token"
+    ]
+  },
   "DeFiChain": {
     "name": "DeFiChain",
     "short": "DFI",
@@ -8457,6 +8517,14 @@
       "Token"
     ]
   },
+  "ELTCOIN": {
+    "name": "ELTCOIN",
+    "short": "ELTCOIN",
+    "url": "/currencies/eltcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "ELYSIA": {
     "name": "ELYSIA",
     "short": "EL",
@@ -8623,6 +8691,14 @@
     "url": "/currencies/eth-link-price-action-candlestick-set",
     "tags": [
       "Token"
+    ]
+  },
+  "ETHDOWN": {
+    "name": "ETHDOWN",
+    "short": "ETHDOWN",
+    "url": "/currencies/ethdown",
+    "tags": [
+      "Coin"
     ]
   },
   "ETHPlus": {
@@ -10261,6 +10337,14 @@
       "Token"
     ]
   },
+  "FinexboxToken": {
+    "name": "FinexboxToken",
+    "short": "FNB",
+    "url": "/currencies/finexboxtoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Finswap": {
     "name": "Finswap",
     "short": "FNSP",
@@ -11077,6 +11161,14 @@
     "tags": [
       "Coin",
       "PoS"
+    ]
+  },
+  "Global Digital Content": {
+    "name": "Global Digital Content",
+    "short": "GDC",
+    "url": "/currencies/global-digital-content",
+    "tags": [
+      "Token"
     ]
   },
   "Global Game Coin": {
@@ -11944,6 +12036,14 @@
     "name": "Hermez Network",
     "short": "HEZ",
     "url": "/currencies/hermez-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "HeroNode": {
+    "name": "HeroNode",
+    "short": "HER",
+    "url": "/currencies/heronode",
     "tags": [
       "Token"
     ]
@@ -14081,12 +14181,29 @@
       "Token"
     ]
   },
+  "LUCY": {
+    "name": "LUCY",
+    "short": "LUCY",
+    "url": "/currencies/lucy",
+    "tags": [
+      "Token"
+    ]
+  },
   "LUKSO": {
     "name": "LUKSO",
     "short": "LYXe",
     "url": "/currencies/lukso",
     "tags": [
       "Token"
+    ]
+  },
+  "LUXCoin": {
+    "name": "LUXCoin",
+    "short": "LUX",
+    "url": "/currencies/luxcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "LYNC Network": {
@@ -14343,6 +14460,18 @@
       "Token"
     ]
   },
+  "Lisk": {
+    "name": "Lisk",
+    "short": "LSK",
+    "url": "/currencies/lisk",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Platform",
+      "Enterprise solutions",
+      "Smart Contracts"
+    ]
+  },
   "Lisk Machine Learning": {
     "name": "Lisk Machine Learning",
     "short": "LML",
@@ -14515,6 +14644,16 @@
     "url": "/currencies/local-coin-swap",
     "tags": [
       "Token"
+    ]
+  },
+  "LockTrip": {
+    "name": "LockTrip",
+    "short": "LOC",
+    "url": "/currencies/lockchain",
+    "tags": [
+      "Token",
+      "Hospitality",
+      "Sharing Economy"
     ]
   },
   "Loki": {
@@ -14753,6 +14892,15 @@
     "url": "/currencies/mcdex",
     "tags": [
       "Token"
+    ]
+  },
+  "MCO": {
+    "name": "MCO",
+    "short": "MCO",
+    "url": "/currencies/crypto-com",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
     ]
   },
   "MDUKEY": {
@@ -15388,6 +15536,14 @@
       "Health"
     ]
   },
+  "Medium": {
+    "name": "Medium",
+    "short": "MDM",
+    "url": "/currencies/medium",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mega Lottery Services Global": {
     "name": "Mega Lottery Services Global",
     "short": "MLR",
@@ -15574,6 +15730,18 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Metronome": {
+    "name": "Metronome",
+    "short": "MET",
+    "url": "/currencies/metronome",
+    "tags": [
+      "Token",
+      "Platform",
+      "DeFi",
+      "Payments",
+      "Wallet"
     ]
   },
   "Mettalex": {
@@ -21186,6 +21354,14 @@
       "Payments"
     ]
   },
+  "Skillchain": {
+    "name": "Skillchain",
+    "short": "SKI",
+    "url": "/currencies/skillchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "SkinCoin": {
     "name": "SkinCoin",
     "short": "SKIN",
@@ -23441,6 +23617,14 @@
       "Token"
     ]
   },
+  "TraDove B2BCoin": {
+    "name": "TraDove B2BCoin",
+    "short": "BBC",
+    "url": "/currencies/b2bcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Traceability Chain": {
     "name": "Traceability Chain",
     "short": "TAC",
@@ -23574,6 +23758,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Tribute": {
+    "name": "Tribute",
+    "short": "TRBT",
+    "url": "/currencies/tribute",
+    "tags": [
+      "Token"
     ]
   },
   "Trinity Network Credit": {
@@ -25027,6 +25219,17 @@
     "url": "/currencies/wabnetwork",
     "tags": [
       "Token"
+    ]
+  },
+  "WAX": {
+    "name": "WAX",
+    "short": "WAXP",
+    "url": "/currencies/wax",
+    "tags": [
+      "Coin",
+      "Media",
+      "Collectibles & NFTs",
+      "Payments"
     ]
   },
   "WEBN token": {
@@ -26714,6 +26917,14 @@
     "name": "Zipper",
     "short": "ZIP",
     "url": "/currencies/zip",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Zippie": {
+    "name": "Zippie",
+    "short": "ZIPT",
+    "url": "/currencies/zippie",
     "tags": [
       "Token"
     ]
