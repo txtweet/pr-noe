@@ -3955,6 +3955,17 @@
       "Yield farming"
     ]
   },
+  "Bottos": {
+    "name": "Bottos",
+    "short": "BTO",
+    "url": "/currencies/bottos",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "AI & Big Data",
+      "Distributed Computing"
+    ]
+  },
   "Bounce Token": {
     "name": "Bounce Token",
     "short": "BOT",
@@ -8574,6 +8585,16 @@
       "Token"
     ]
   },
+  "Envion": {
+    "name": "Envion",
+    "short": "EVN",
+    "url": "/currencies/envion",
+    "tags": [
+      "Token",
+      "Hardware",
+      "Smart Contracts"
+    ]
+  },
   "Epanus": {
     "name": "Epanus",
     "short": "EPS",
@@ -10524,6 +10545,14 @@
       "Lyra2RE"
     ]
   },
+  "GreenPower": {
+    "name": "GreenPower",
+    "short": "GRN",
+    "url": "/currencies/greenpower",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Gric Coin": {
     "name": "Gric Coin",
     "short": "GC",
@@ -12112,6 +12141,15 @@
       "Stablecoin"
     ]
   },
+  "Italo": {
+    "name": "Italo",
+    "short": "XTA",
+    "url": "/currencies/italo",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Ivy": {
     "name": "Ivy",
     "short": "IVY",
@@ -12297,6 +12335,14 @@
     "name": "Joule",
     "short": "JUL",
     "url": "/currencies/joule",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Joys Digital": {
+    "name": "Joys Digital",
+    "short": "JOYS",
+    "url": "/currencies/joys-digital",
     "tags": [
       "Coin"
     ]
@@ -16541,6 +16587,16 @@
     "url": "/currencies/planet",
     "tags": [
       "Token"
+    ]
+  },
+  "PLATINCOIN": {
+    "name": "PLATINCOIN",
+    "short": "PLC",
+    "url": "/currencies/platincoin",
+    "tags": [
+      "Coin",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "PLNcoin": {
@@ -20992,6 +21048,14 @@
       "Token"
     ]
   },
+  "TYCOON69": {
+    "name": "TYCOON69",
+    "short": "T69",
+    "url": "/currencies/tycoon69",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Tachyon Protocol": {
     "name": "Tachyon Protocol",
     "short": "IPX",
@@ -25135,6 +25199,14 @@
       "Token"
     ]
   },
+  "iOWN Token": {
+    "name": "iOWN Token",
+    "short": "iOWN",
+    "url": "/currencies/iown-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "imbrex": {
     "name": "imbrex",
     "short": "REX",
@@ -25283,6 +25355,14 @@
       "Token"
     ]
   },
+  "sTRX": {
+    "name": "sTRX",
+    "short": "sTRX",
+    "url": "/currencies/strx",
+    "tags": [
+      "Token"
+    ]
+  },
   "sUSD": {
     "name": "sUSD",
     "short": "SUSD",
@@ -25298,6 +25378,14 @@
     "name": "sXAG",
     "short": "SXAG",
     "url": "/currencies/sxag",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sXAU": {
+    "name": "sXAU",
+    "short": "SXAU",
+    "url": "/currencies/sxau",
     "tags": [
       "Token"
     ]
