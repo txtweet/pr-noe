@@ -11169,6 +11169,14 @@
       "Token"
     ]
   },
+  "Hive": {
+    "name": "Hive",
+    "short": "HIVE",
+    "url": "/currencies/hive-blockchain",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Hiveterminal Token": {
     "name": "Hiveterminal Token",
     "short": "HVN",
@@ -15445,6 +15453,14 @@
     "name": "Nestree",
     "short": "EGG",
     "url": "/currencies/nestree",
+    "tags": [
+      "Token"
+    ]
+  },
+  "NetKoin": {
+    "name": "NetKoin",
+    "short": "NTK",
+    "url": "/currencies/netkoin",
     "tags": [
       "Token"
     ]
