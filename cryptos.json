@@ -6952,6 +6952,14 @@
       "Token"
     ]
   },
+  "DEXA COIN": {
+    "name": "DEXA COIN",
+    "short": "DEXA",
+    "url": "/currencies/dexa-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "DEXTools": {
     "name": "DEXTools",
     "short": "DEXT",
@@ -12083,6 +12091,18 @@
     "url": "/currencies/hiblocks",
     "tags": [
       "Token"
+    ]
+  },
+  "High Performance Blockchain": {
+    "name": "High Performance Blockchain",
+    "short": "HPB",
+    "url": "/currencies/high-performance-blockchain",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Hardware",
+      "Enterprise solutions",
+      "Smart Contracts"
     ]
   },
   "High Voltage": {
@@ -19523,6 +19543,17 @@
       "Quantum-Resistant"
     ]
   },
+  "Quark": {
+    "name": "Quark",
+    "short": "QRK",
+    "url": "/currencies/quark",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Multiple"
+    ]
+  },
   "QuarkChain": {
     "name": "QuarkChain",
     "short": "QKC",
@@ -20041,6 +20072,14 @@
       "Asset management",
       "Asset management",
       "DeFi"
+    ]
+  },
+  "Rimbit": {
+    "name": "Rimbit",
+    "short": "RBT",
+    "url": "/currencies/rimbit",
+    "tags": [
+      "Coin"
     ]
   },
   "Rio DeFi": {
@@ -21254,6 +21293,20 @@
     "url": "/currencies/siacashcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "Siacoin": {
+    "name": "Siacoin",
+    "short": "SC",
+    "url": "/currencies/siacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Blake2b",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing"
     ]
   },
   "Sierracoin": {
@@ -23249,6 +23302,17 @@
       "Mineable"
     ]
   },
+  "Theta Fuel": {
+    "name": "Theta Fuel",
+    "short": "TFUEL",
+    "url": "/currencies/theta-fuel",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation",
+      "Payments"
+    ]
+  },
   "ThingsOperatingSystem": {
     "name": "ThingsOperatingSystem",
     "short": "TOS",
@@ -24086,6 +24150,14 @@
     "name": "USDA",
     "short": "USDA",
     "url": "/currencies/usda",
+    "tags": [
+      "Token"
+    ]
+  },
+  "USDJ": {
+    "name": "USDJ",
+    "short": "USDJ",
+    "url": "/currencies/usdj",
     "tags": [
       "Token"
     ]
