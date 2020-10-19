@@ -377,6 +377,14 @@
       "Token"
     ]
   },
+  "3x Long XRP Token": {
+    "name": "3x Long XRP Token",
+    "short": "XRPBULL",
+    "url": "/currencies/3x-long-xrp-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3x Short Bitcoin Cash Token": {
     "name": "3x Short Bitcoin Cash Token",
     "short": "BCHBEAR",
@@ -2194,6 +2202,14 @@
       "Coin"
     ]
   },
+  "BUX Platform Token": {
+    "name": "BUX Platform Token",
+    "short": "BPT",
+    "url": "/currencies/bux-platform-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "BUZZCoin": {
     "name": "BUZZCoin",
     "short": "BUZZ",
@@ -2767,6 +2783,14 @@
       "Coin"
     ]
   },
+  "Birdchain": {
+    "name": "Birdchain",
+    "short": "BIRD",
+    "url": "/currencies/birdchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bismuth": {
     "name": "Bismuth",
     "short": "BIS",
@@ -3173,6 +3197,15 @@
       "Coin"
     ]
   },
+  "Bitcoin Atom": {
+    "name": "Bitcoin Atom",
+    "short": "BCA",
+    "url": "/currencies/bitcoin-atom",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Bitcoin CZ": {
     "name": "Bitcoin CZ",
     "short": "BCZ",
@@ -3533,6 +3566,19 @@
     "tags": [
       "Token",
       "Centralized exchange"
+    ]
+  },
+  "Bitsum.money": {
+    "name": "Bitsum.money",
+    "short": "BSM",
+    "url": "/currencies/bitsum-money",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Privacy",
+      "Payments",
+      "Staking"
     ]
   },
   "Bittwatt": {
@@ -6299,6 +6345,14 @@
       "Token"
     ]
   },
+  "DEXTools": {
+    "name": "DEXTools",
+    "short": "DEXT",
+    "url": "/currencies/dextools",
+    "tags": [
+      "Token"
+    ]
+  },
   "DFI.Money": {
     "name": "DFI.Money",
     "short": "YFII",
@@ -7290,6 +7344,20 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Digix Gold Token": {
+    "name": "Digix Gold Token",
+    "short": "DGX",
+    "url": "/currencies/digix-gold-token",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed",
+      "DAO",
+      "Substrate",
+      "Polkadot"
     ]
   },
   "DigixDAO": {
@@ -8347,6 +8415,17 @@
     "url": "/currencies/enceladus-network",
     "tags": [
       "Token"
+    ]
+  },
+  "EncrypGen": {
+    "name": "EncrypGen",
+    "short": "DNA",
+    "url": "/currencies/encrypgen",
+    "tags": [
+      "Token",
+      "Health",
+      "AI & Big Data",
+      "Research"
     ]
   },
   "EncryptoTel [ETH]": {
@@ -12101,6 +12180,14 @@
       "Token"
     ]
   },
+  "JackPool.finance": {
+    "name": "JackPool.finance",
+    "short": "JFI",
+    "url": "/currencies/jackpool-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Jade Currency": {
     "name": "Jade Currency",
     "short": "JADE",
@@ -12904,6 +12991,14 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS"
+    ]
+  },
+  "Lapis Chain": {
+    "name": "Lapis Chain",
+    "short": "LPS",
+    "url": "/currencies/lapis-chain",
+    "tags": [
+      "Token"
     ]
   },
   "Largo Coin": {
@@ -16596,6 +16691,15 @@
       "Token"
     ]
   },
+  "Pascal": {
+    "name": "Pascal",
+    "short": "PASC",
+    "url": "/currencies/pascal",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Patientory": {
     "name": "Patientory",
     "short": "PTOY",
@@ -17096,6 +17200,15 @@
     "name": "PluraCoin",
     "short": "PLURA",
     "url": "/currencies/pluracoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "PlusOneCoin": {
+    "name": "PlusOneCoin",
+    "short": "PLUS1",
+    "url": "/currencies/plusonecoin",
     "tags": [
       "Coin",
       "Mineable"
@@ -17923,6 +18036,15 @@
       "Mineable"
     ]
   },
+  "Radium": {
+    "name": "Radium",
+    "short": "RADS",
+    "url": "/currencies/radium",
+    "tags": [
+      "Coin",
+      "PoS"
+    ]
+  },
   "Ragnarok": {
     "name": "Ragnarok",
     "short": "RAGNA",
@@ -18547,6 +18669,15 @@
       "Token"
     ]
   },
+  "SHIBA INU": {
+    "name": "SHIBA INU",
+    "short": "SHIB",
+    "url": "/currencies/shiba-inu",
+    "tags": [
+      "Token",
+      "Memes"
+    ]
+  },
   "SHPING": {
     "name": "SHPING",
     "short": "SHPING",
@@ -18744,6 +18875,14 @@
     "name": "SUN",
     "short": "SUN",
     "url": "/currencies/sun",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SUP": {
+    "name": "SUP",
+    "short": "SUP",
+    "url": "/currencies/sup",
     "tags": [
       "Token"
     ]
@@ -19081,6 +19220,14 @@
     "url": "/currencies/seigniorage-shares",
     "tags": [
       "Token"
+    ]
+  },
+  "SelfSell": {
+    "name": "SelfSell",
+    "short": "SSC",
+    "url": "/currencies/selfsell",
+    "tags": [
+      "Coin"
     ]
   },
   "Selfkey": {
@@ -19705,6 +19852,14 @@
       "DeFi"
     ]
   },
+  "Sombe": {
+    "name": "Sombe",
+    "short": "SBE",
+    "url": "/currencies/sombe",
+    "tags": [
+      "Coin"
+    ]
+  },
   "SongCoin": {
     "name": "SongCoin",
     "short": "SONG",
@@ -19900,6 +20055,14 @@
     "url": "/currencies/spice",
     "tags": [
       "Coin"
+    ]
+  },
+  "Spiking": {
+    "name": "Spiking",
+    "short": "SPIKE",
+    "url": "/currencies/spiking",
+    "tags": [
+      "Token"
     ]
   },
   "Spockchain Network": {
@@ -20923,6 +21086,14 @@
       "Token"
     ]
   },
+  "Ternio-ERC20": {
+    "name": "Ternio-ERC20",
+    "short": "TERN",
+    "url": "/currencies/ternio-erc20",
+    "tags": [
+      "Token"
+    ]
+  },
   "Terra": {
     "name": "Terra",
     "short": "LUNA",
@@ -21374,6 +21545,14 @@
       "Token"
     ]
   },
+  "TokenPay": {
+    "name": "TokenPay",
+    "short": "TPAY",
+    "url": "/currencies/tokenpay",
+    "tags": [
+      "Coin"
+    ]
+  },
   "TokenPocket": {
     "name": "TokenPocket",
     "short": "TPT",
@@ -21536,6 +21715,16 @@
     "url": "/currencies/translateme-network-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Tratin": {
+    "name": "Tratin",
+    "short": "TRAT",
+    "url": "/currencies/tratin",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments"
     ]
   },
   "Tratok": {
@@ -22102,6 +22291,15 @@
     "url": "/currencies/uniris",
     "tags": [
       "Token"
+    ]
+  },
+  "Unisocks": {
+    "name": "Unisocks",
+    "short": "SOCKS",
+    "url": "/currencies/unisocks",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "Uniswap": {
@@ -22752,6 +22950,17 @@
       "Coin"
     ]
   },
+  "Viacoin": {
+    "name": "Viacoin",
+    "short": "VIA",
+    "url": "/currencies/viacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "VideoCoin": {
     "name": "VideoCoin",
     "short": "VID",
@@ -22937,6 +23146,14 @@
     "name": "WOLLO",
     "short": "WLO",
     "url": "/currencies/wollo",
+    "tags": [
+      "Token"
+    ]
+  },
+  "WPP TOKEN": {
+    "name": "WPP TOKEN",
+    "short": "WPP",
+    "url": "/currencies/wpp-token",
     "tags": [
       "Token"
     ]
