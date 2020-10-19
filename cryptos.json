@@ -3311,6 +3311,14 @@
       "Coin"
     ]
   },
+  "Bitcoin Adult": {
+    "name": "Bitcoin Adult",
+    "short": "BTAD",
+    "url": "/currencies/bitcoin-adult",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bitcoin Atom": {
     "name": "Bitcoin Atom",
     "short": "BCA",
@@ -5980,6 +5988,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Crypto User Base": {
+    "name": "Crypto User Base",
+    "short": "CUB",
+    "url": "/currencies/crypto-user-base",
+    "tags": [
+      "Token"
     ]
   },
   "Crypto Village Accelerator": {
@@ -19120,6 +19136,14 @@
       "Payments"
     ]
   },
+  "SKINCHAIN": {
+    "name": "SKINCHAIN",
+    "short": "SKC",
+    "url": "/currencies/skinchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "SOLBIT": {
     "name": "SOLBIT",
     "short": "SBT",
@@ -25583,6 +25607,14 @@
       "Token"
     ]
   },
+  "iTicoin": {
+    "name": "iTicoin",
+    "short": "ITI",
+    "url": "/currencies/iticoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "imbrex": {
     "name": "imbrex",
     "short": "REX",
@@ -25729,6 +25761,15 @@
     "url": "/currencies/sdefi",
     "tags": [
       "Token"
+    ]
+  },
+  "sETH": {
+    "name": "sETH",
+    "short": "SETH",
+    "url": "/currencies/seth",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "sLINK": {
