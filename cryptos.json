@@ -12924,6 +12924,15 @@
       "Data Provenance"
     ]
   },
+  "Jarvis Network": {
+    "name": "Jarvis Network",
+    "short": "JRT",
+    "url": "/currencies/jarvis-network",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Jarvis+": {
     "name": "Jarvis+",
     "short": "JAR",
@@ -13018,6 +13027,14 @@
     "url": "/currencies/joys-digital",
     "tags": [
       "Coin"
+    ]
+  },
+  "Jubi Token": {
+    "name": "Jubi Token",
+    "short": "JT",
+    "url": "/currencies/jubi-token",
+    "tags": [
+      "Token"
     ]
   },
   "Juggernaut": {
@@ -21933,6 +21950,14 @@
       "Mineable"
     ]
   },
+  "THC": {
+    "name": "THC",
+    "short": "THC",
+    "url": "/currencies/thc",
+    "tags": [
+      "Coin"
+    ]
+  },
   "THECASH": {
     "name": "THECASH",
     "short": "TCH",
@@ -23422,6 +23447,14 @@
     "url": "/currencies/ulgen-hash-power",
     "tags": [
       "Token"
+    ]
+  },
+  "Ulord": {
+    "name": "Ulord",
+    "short": "UT",
+    "url": "/currencies/ulord",
+    "tags": [
+      "Coin"
     ]
   },
   "Ultiledger": {
