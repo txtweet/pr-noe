@@ -1565,6 +1565,14 @@
       "Token"
     ]
   },
+  "Apex": {
+    "name": "Apex",
+    "short": "CPX",
+    "url": "/currencies/apex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Apollo Currency": {
     "name": "Apollo Currency",
     "short": "APL",
@@ -2308,6 +2316,14 @@
     "tags": [
       "Token",
       "Philanthropy"
+    ]
+  },
+  "BSYS": {
+    "name": "BSYS",
+    "short": "BSYS",
+    "url": "/currencies/bsys",
+    "tags": [
+      "Token"
     ]
   },
   "BTC Lite": {
@@ -5837,6 +5853,14 @@
       "Platform",
       "Payments",
       "Smart Contracts"
+    ]
+  },
+  "Content Neutrality Network": {
+    "name": "Content Neutrality Network",
+    "short": "CNN",
+    "url": "/currencies/content-neutrality-network",
+    "tags": [
+      "Token"
     ]
   },
   "Content Value Network": {
@@ -16444,6 +16468,15 @@
       "Token"
     ]
   },
+  "NuShares": {
+    "name": "NuShares",
+    "short": "NSR",
+    "url": "/currencies/nushares",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
+    ]
+  },
   "Nuggets": {
     "name": "Nuggets",
     "short": "NUG",
@@ -23052,6 +23085,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "TurtleNetwork": {
+    "name": "TurtleNetwork",
+    "short": "TN",
+    "url": "/currencies/turtlenetwork",
+    "tags": [
+      "Coin"
     ]
   },
   "Tutor's Diary": {
