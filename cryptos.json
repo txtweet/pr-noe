@@ -2208,6 +2208,14 @@
       "Token"
     ]
   },
+  "BOSCore": {
+    "name": "BOSCore",
+    "short": "BOS",
+    "url": "/currencies/boscore",
+    "tags": [
+      "Token"
+    ]
+  },
   "BOScoin": {
     "name": "BOScoin",
     "short": "BOS",
@@ -4331,6 +4339,20 @@
     "url": "/currencies/buzzshow",
     "tags": [
       "Token"
+    ]
+  },
+  "Bytecoin": {
+    "name": "Bytecoin",
+    "short": "BCN",
+    "url": "/currencies/bytecoin-bcn",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "CryptoNight",
+      "Medium of Exchange",
+      "Privacy",
+      "Payments"
     ]
   },
   "Bytom": {
@@ -9072,6 +9094,14 @@
       "Token"
     ]
   },
+  "Ethereum Message Search": {
+    "name": "Ethereum Message Search",
+    "short": "EMS",
+    "url": "/currencies/ethereum-message-search",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ethereum Meta": {
     "name": "Ethereum Meta",
     "short": "ETHM",
@@ -11809,6 +11839,14 @@
       "Token"
     ]
   },
+  "IGToken": {
+    "name": "IGToken",
+    "short": "IG",
+    "url": "/currencies/igtoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "ILCOIN": {
     "name": "ILCOIN",
     "short": "ILC",
@@ -12751,6 +12789,14 @@
     "name": "KWHCoin",
     "short": "KWH",
     "url": "/currencies/kwhcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "KYSC Token": {
+    "name": "KYSC Token",
+    "short": "KYSC",
+    "url": "/currencies/kysc-token",
     "tags": [
       "Token"
     ]
@@ -15554,6 +15600,16 @@
     "url": "/currencies/nova",
     "tags": [
       "Token"
+    ]
+  },
+  "NOW Token": {
+    "name": "NOW Token",
+    "short": "NOW",
+    "url": "/currencies/now-token",
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Binance Chain"
     ]
   },
   "NPCoin": {
@@ -19484,6 +19540,14 @@
       "Token"
     ]
   },
+  "SaTT": {
+    "name": "SaTT",
+    "short": "SATT",
+    "url": "/currencies/satt",
+    "tags": [
+      "Token"
+    ]
+  },
   "Safe": {
     "name": "Safe",
     "short": "SAFE",
@@ -22076,6 +22140,14 @@
       "Token"
     ]
   },
+  "Ti-Value": {
+    "name": "Ti-Value",
+    "short": "TV",
+    "url": "/currencies/ti-value",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Tide Protocol": {
     "name": "Tide Protocol",
     "short": "TIDE",
@@ -22459,6 +22531,14 @@
       "Token"
     ]
   },
+  "Trendering": {
+    "name": "Trendering",
+    "short": "TRND",
+    "url": "/currencies/trendering",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trexcoin": {
     "name": "Trexcoin",
     "short": "TREX",
@@ -22733,6 +22813,14 @@
     "name": "UNIFI DeFi",
     "short": "UNIFI",
     "url": "/currencies/unifi-defi",
+    "tags": [
+      "Token"
+    ]
+  },
+  "UNII Finance": {
+    "name": "UNII Finance",
+    "short": "UNII",
+    "url": "/currencies/unii-finance",
     "tags": [
       "Token"
     ]
@@ -23175,6 +23263,14 @@
     "name": "Upper Dollar",
     "short": "USDU",
     "url": "/currencies/upper-dollar",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Upper Euro": {
+    "name": "Upper Euro",
+    "short": "EURU",
+    "url": "/currencies/upper-euro",
     "tags": [
       "Token"
     ]
@@ -24603,6 +24699,14 @@
       "Token",
       "Memes",
       "Yield farming"
+    ]
+  },
+  "YAS": {
+    "name": "YAS",
+    "short": "YAS",
+    "url": "/currencies/yas",
+    "tags": [
+      "Token"
     ]
   },
   "YEARN2.FINANCE": {
@@ -26245,6 +26349,15 @@
     "url": "/currencies/yieldfarming-insure",
     "tags": [
       "Token"
+    ]
+  },
+  "zzz.finance": {
+    "name": "zzz.finance",
+    "short": "ZZZ",
+    "url": "/currencies/zzz-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
     ]
   }
 }
