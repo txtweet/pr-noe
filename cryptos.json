@@ -49,6 +49,14 @@
       "Token"
     ]
   },
+  "1Million Token": {
+    "name": "1Million Token",
+    "short": "1MT",
+    "url": "/currencies/1million-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "1World": {
     "name": "1World",
     "short": "1WO",
@@ -4758,6 +4766,15 @@
       "Platform"
     ]
   },
+  "Cashbery Coin": {
+    "name": "Cashbery Coin",
+    "short": "CBC",
+    "url": "/currencies/cashbery-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Cashhand": {
     "name": "Cashhand",
     "short": "CHND",
@@ -8783,6 +8800,14 @@
     "name": "Esports Token",
     "short": "EST",
     "url": "/currencies/esports-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Essek Tov": {
+    "name": "Essek Tov",
+    "short": "ETO",
+    "url": "/currencies/essek-tov",
     "tags": [
       "Token"
     ]
@@ -17278,6 +17303,15 @@
       "DAO"
     ]
   },
+  "Pigeoncoin": {
+    "name": "Pigeoncoin",
+    "short": "PGN",
+    "url": "/currencies/pigeoncoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Pillar": {
     "name": "Pillar",
     "short": "PLR",
@@ -18975,6 +19009,16 @@
       "Mineable"
     ]
   },
+  "SIRIN LABS Token": {
+    "name": "SIRIN LABS Token",
+    "short": "SRN",
+    "url": "/currencies/sirin-labs-token",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing"
+    ]
+  },
   "SIX": {
     "name": "SIX",
     "short": "SIX",
@@ -20370,6 +20414,17 @@
       "Token"
     ]
   },
+  "StableUSD": {
+    "name": "StableUSD",
+    "short": "USDS",
+    "url": "/currencies/stableusd",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "Stafi": {
     "name": "Stafi",
     "short": "FIS",
@@ -20782,6 +20837,14 @@
     "name": "SwapShip",
     "short": "SWSH",
     "url": "/currencies/swapship",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Swapcoinz": {
+    "name": "Swapcoinz",
+    "short": "SPAZ",
+    "url": "/currencies/swapcoinz",
     "tags": [
       "Token"
     ]
@@ -22245,6 +22308,14 @@
     "name": "Tutor's Diary",
     "short": "TUDA",
     "url": "/currencies/tutors-diary",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Tweebaa": {
+    "name": "Tweebaa",
+    "short": "TWEE",
+    "url": "/currencies/tweebaa",
     "tags": [
       "Token"
     ]
@@ -24229,6 +24300,14 @@
       "Decentralized exchange",
       "Yield farming",
       "DeFi"
+    ]
+  },
+  "YFIA": {
+    "name": "YFIA",
+    "short": "YFIA",
+    "url": "/currencies/yfia",
+    "tags": [
+      "Token"
     ]
   },
   "YFIBusiness": {
