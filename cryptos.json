@@ -23,6 +23,19 @@
       "Coin"
     ]
   },
+  "0x": {
+    "name": "0x",
+    "short": "ZRX",
+    "url": "/currencies/0x",
+    "tags": [
+      "Token",
+      "Platform",
+      "Decentralized exchange",
+      "DeFi",
+      "Substrate",
+      "Polkadot"
+    ]
+  },
   "0xBitcoin": {
     "name": "0xBitcoin",
     "short": "0xBTC",
@@ -333,6 +346,14 @@
     "name": "3X Short Ethereum Classic Token",
     "short": "ETCBEAR",
     "url": "/currencies/3x-short-ethereum-classic-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "3X Short Matic Token": {
+    "name": "3X Short Matic Token",
+    "short": "MATICBEAR",
+    "url": "/currencies/3x-short-matic-token",
     "tags": [
       "Token"
     ]
@@ -2511,6 +2532,17 @@
     "url": "/currencies/bankcoin-reserve",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bankera": {
+    "name": "Bankera",
+    "short": "BNK",
+    "url": "/currencies/bankera",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Payments",
+      "Smart Contracts"
     ]
   },
   "Bankroll Network": {
@@ -5096,6 +5128,14 @@
       "Token"
     ]
   },
+  "Celsius": {
+    "name": "Celsius",
+    "short": "CEL",
+    "url": "/currencies/celsius",
+    "tags": [
+      "Token"
+    ]
+  },
   "Centaur": {
     "name": "Centaur",
     "short": "CNTR",
@@ -6316,6 +6356,16 @@
     "url": "/currencies/cryptocean",
     "tags": [
       "Coin"
+    ]
+  },
+  "Cryptoindex.com 100": {
+    "name": "Cryptoindex.com 100",
+    "short": "CIX100",
+    "url": "/currencies/cryptoindex-com-100",
+    "tags": [
+      "Token",
+      "Services",
+      "AI & Big Data"
     ]
   },
   "Crypton": {
@@ -7615,6 +7665,20 @@
       "Token"
     ]
   },
+  "DigiByte": {
+    "name": "DigiByte",
+    "short": "DGB",
+    "url": "/currencies/digibyte",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Multiple",
+      "Medium of Exchange",
+      "Privacy",
+      "Payments"
+    ]
+  },
   "DigiDinar": {
     "name": "DigiDinar",
     "short": "DDR",
@@ -8708,6 +8772,15 @@
       "Token"
     ]
   },
+  "Electrify.Asia": {
+    "name": "Electrify.Asia",
+    "short": "ELEC",
+    "url": "/currencies/electrifyasia",
+    "tags": [
+      "Token",
+      "Energy"
+    ]
+  },
   "Electronero": {
     "name": "Electronero",
     "short": "ETNX",
@@ -9528,6 +9601,14 @@
       "Ethash"
     ]
   },
+  "Experience Token": {
+    "name": "Experience Token",
+    "short": "EXT",
+    "url": "/currencies/experience-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Experty": {
     "name": "Experty",
     "short": "EXY",
@@ -10236,6 +10317,14 @@
     "name": "Fridn",
     "short": "EFAR",
     "url": "/currencies/fridn",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Friendz": {
+    "name": "Friendz",
+    "short": "FDZ",
+    "url": "/currencies/friends",
     "tags": [
       "Token"
     ]
@@ -16562,6 +16651,16 @@
       "Derivatives"
     ]
   },
+  "ODEM": {
+    "name": "ODEM",
+    "short": "ODE",
+    "url": "/currencies/odem",
+    "tags": [
+      "Token",
+      "Education",
+      "Smart Contracts"
+    ]
+  },
   "ODUWA": {
     "name": "ODUWA",
     "short": "OWC",
@@ -16990,6 +17089,14 @@
       "DPoS",
       "Platform",
       "Oracles"
+    ]
+  },
+  "Oracolxor": {
+    "name": "Oracolxor",
+    "short": "XOR",
+    "url": "/currencies/oracolxor",
+    "tags": [
+      "Coin"
     ]
   },
   "Orbicular": {
@@ -18071,6 +18178,16 @@
       "Mineable"
     ]
   },
+  "Pluton": {
+    "name": "Pluton",
+    "short": "PLU",
+    "url": "/currencies/pluton",
+    "tags": [
+      "Token",
+      "Services",
+      "Payments"
+    ]
+  },
   "PoSW Coin": {
     "name": "PoSW Coin",
     "short": "POSW",
@@ -18832,6 +18949,14 @@
       "Platform",
       "Distributed Computing",
       "Smart Contracts"
+    ]
+  },
+  "REAL": {
+    "name": "REAL",
+    "short": "REAL",
+    "url": "/currencies/real",
+    "tags": [
+      "Token"
     ]
   },
   "REBIT": {
@@ -20571,6 +20696,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "SkyMap": {
+    "name": "SkyMap",
+    "short": "SKYM",
+    "url": "/currencies/skymap",
+    "tags": [
+      "Token"
     ]
   },
   "Skychain": {
@@ -24217,6 +24350,14 @@
       "Token"
     ]
   },
+  "Vipstar Coin": {
+    "name": "Vipstar Coin",
+    "short": "VIPS",
+    "url": "/currencies/vipstar-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Vision Network": {
     "name": "Vision Network",
     "short": "VSN",
@@ -24563,6 +24704,15 @@
     "url": "/currencies/web-coin-pay",
     "tags": [
       "Coin"
+    ]
+  },
+  "WebDollar": {
+    "name": "WebDollar",
+    "short": "WEBD",
+    "url": "/currencies/webdollar",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Webcoin": {
@@ -25141,6 +25291,14 @@
     "name": "YFA Finance",
     "short": "YFA",
     "url": "/currencies/yfa-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YFARM Token": {
+    "name": "YFARM Token",
+    "short": "YFARM",
+    "url": "/currencies/yfarm-token",
     "tags": [
       "Token"
     ]
