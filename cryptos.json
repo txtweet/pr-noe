@@ -7705,6 +7705,14 @@
       "Marketplace"
     ]
   },
+  "Dynamite": {
+    "name": "Dynamite",
+    "short": "DYNMT",
+    "url": "/currencies/dynamite",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dystem": {
     "name": "Dystem",
     "short": "DTEM",
@@ -22618,6 +22626,14 @@
     "name": "VENJOCOIN",
     "short": "VJC",
     "url": "/currencies/venjocoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "VERA": {
+    "name": "VERA",
+    "short": "VERA",
+    "url": "/currencies/vera",
     "tags": [
       "Token"
     ]
