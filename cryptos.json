@@ -3013,6 +3013,14 @@
       "IPFS"
     ]
   },
+  "BitUP Token": {
+    "name": "BitUP Token",
+    "short": "BUT",
+    "url": "/currencies/bitup-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bitalgo": {
     "name": "Bitalgo",
     "short": "ALG",
@@ -6306,6 +6314,14 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
+    ]
+  },
+  "DOTDOWN": {
+    "name": "DOTDOWN",
+    "short": "DOTDOWN",
+    "url": "/currencies/dotdown",
+    "tags": [
+      "Coin"
     ]
   },
   "DOTUP": {
@@ -16101,6 +16117,14 @@
       "Coin"
     ]
   },
+  "PHI Token": {
+    "name": "PHI Token",
+    "short": "PHI",
+    "url": "/currencies/phi-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "PHILLIPS PAY COIN": {
     "name": "PHILLIPS PAY COIN",
     "short": "PPC",
@@ -19363,6 +19387,20 @@
     "url": "/currencies/softlink",
     "tags": [
       "Token"
+    ]
+  },
+  "Sogur": {
+    "name": "Sogur",
+    "short": "SGR",
+    "url": "/currencies/sogur",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "DeFi",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed",
+      "Stablecoin - Algorithmically-Stabilized",
+      "Ethereum"
     ]
   },
   "Solana": {
