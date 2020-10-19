@@ -740,6 +740,14 @@
       "Token"
     ]
   },
+  "ATC Coin": {
+    "name": "ATC Coin",
+    "short": "ATCC",
+    "url": "/currencies/atc-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "ATLANT": {
     "name": "ATLANT",
     "short": "ATL",
@@ -1745,6 +1753,16 @@
     "url": "/currencies/aurusgold",
     "tags": [
       "Token"
+    ]
+  },
+  "Authorship": {
+    "name": "Authorship",
+    "short": "ATS",
+    "url": "/currencies/authorship",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation"
     ]
   },
   "Autonio": {
@@ -3013,12 +3031,30 @@
       "IPFS"
     ]
   },
+  "BitTube": {
+    "name": "BitTube",
+    "short": "TUBE",
+    "url": "/currencies/bit-tube",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BitUP Token": {
     "name": "BitUP Token",
     "short": "BUT",
     "url": "/currencies/bitup-token",
     "tags": [
       "Token"
+    ]
+  },
+  "BitWhite": {
+    "name": "BitWhite",
+    "short": "BTW",
+    "url": "/currencies/bitwhite",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Bitalgo": {
@@ -3109,6 +3145,14 @@
       "SHA-256",
       "Store of Value",
       "State channels"
+    ]
+  },
+  "Bitcoin & Company Network": {
+    "name": "Bitcoin & Company Network",
+    "short": "BITN",
+    "url": "/currencies/bitcoin-and-company-network",
+    "tags": [
+      "Token"
     ]
   },
   "Bitcoin 2": {
@@ -3272,6 +3316,14 @@
       "Coin",
       "Mineable",
       "Medium of Exchange"
+    ]
+  },
+  "Bitcoin Token": {
+    "name": "Bitcoin Token",
+    "short": "BTCT",
+    "url": "/currencies/bitcoin-token",
+    "tags": [
+      "Coin"
     ]
   },
   "Bitcoin True": {
@@ -5821,6 +5873,14 @@
       "AI & Big Data"
     ]
   },
+  "CryptoSoul": {
+    "name": "CryptoSoul",
+    "short": "SOUL",
+    "url": "/currencies/cryptosoul",
+    "tags": [
+      "Token"
+    ]
+  },
   "CryptoVerificationCoin": {
     "name": "CryptoVerificationCoin",
     "short": "CVCC",
@@ -5880,6 +5940,17 @@
       "Medium of Exchange",
       "Centralized exchange",
       "Smart Contracts"
+    ]
+  },
+  "Cryptonite": {
+    "name": "Cryptonite",
+    "short": "XCN",
+    "url": "/currencies/cryptonite",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "M7 POW"
     ]
   },
   "Cryptopay": {
@@ -5969,6 +6040,14 @@
     "name": "Custody Token",
     "short": "CUST",
     "url": "/currencies/custody-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CustomContractNetwork": {
+    "name": "CustomContractNetwork",
+    "short": "CCN",
+    "url": "/currencies/customcontractnetwork",
     "tags": [
       "Token"
     ]
@@ -6965,6 +7044,14 @@
     "name": "Dev Protocol",
     "short": "DEV",
     "url": "/currencies/dev-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Devery": {
+    "name": "Devery",
+    "short": "EVE",
+    "url": "/currencies/devery",
     "tags": [
       "Token"
     ]
@@ -8513,6 +8600,14 @@
       "Token"
     ]
   },
+  "Essentia": {
+    "name": "Essentia",
+    "short": "ESS",
+    "url": "/currencies/essentia",
+    "tags": [
+      "Token"
+    ]
+  },
   "Eterbase Utility Token": {
     "name": "Eterbase Utility Token",
     "short": "XBASE",
@@ -8608,6 +8703,16 @@
       "Ethash",
       "Platform",
       "Smart Contracts"
+    ]
+  },
+  "Ethereum Gold": {
+    "name": "Ethereum Gold",
+    "short": "ETG",
+    "url": "/currencies/ethereum-gold",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "Ethereum Gold Project": {
@@ -9270,6 +9375,14 @@
       "Coin"
     ]
   },
+  "FinNexus": {
+    "name": "FinNexus",
+    "short": "FNX",
+    "url": "/currencies/finnexus",
+    "tags": [
+      "Token"
+    ]
+  },
   "Finswap": {
     "name": "Finswap",
     "short": "FNSP",
@@ -9567,6 +9680,16 @@
       "Mineable",
       "PoW",
       "Scrypt-n"
+    ]
+  },
+  "FunFair": {
+    "name": "FunFair",
+    "short": "FUN",
+    "url": "/currencies/funfair",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Payments"
     ]
   },
   "FunKeyPay": {
@@ -10289,6 +10412,15 @@
     "name": "Graviocoin",
     "short": "GIO",
     "url": "/currencies/graviocoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Gravity": {
+    "name": "Gravity",
+    "short": "GZRO",
+    "url": "/currencies/gravity",
     "tags": [
       "Coin",
       "Mineable"
@@ -11275,6 +11407,18 @@
       "Token"
     ]
   },
+  "ILCOIN": {
+    "name": "ILCOIN",
+    "short": "ILC",
+    "url": "/currencies/ilcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange",
+      "Filesharing",
+      "Quantum-Resistant"
+    ]
+  },
   "INDINODE": {
     "name": "INDINODE",
     "short": "XIND",
@@ -12142,6 +12286,14 @@
       "Coin"
     ]
   },
+  "KVI": {
+    "name": "KVI",
+    "short": "KVI",
+    "url": "/currencies/kvi",
+    "tags": [
+      "Token"
+    ]
+  },
   "KWHCoin": {
     "name": "KWHCoin",
     "short": "KWH",
@@ -12227,6 +12379,18 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Karbo": {
+    "name": "Karbo",
+    "short": "KRB",
+    "url": "/currencies/karbo",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "CryptoNight",
+      "Marketplace"
     ]
   },
   "KardiaChain": {
@@ -12375,6 +12539,15 @@
     "name": "Klimatas",
     "short": "KTS",
     "url": "/currencies/klimatas",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Know Your Developer": {
+    "name": "Know Your Developer",
+    "short": "KYDC",
+    "url": "/currencies/know-your-developer",
     "tags": [
       "Coin",
       "Mineable"
@@ -12779,6 +12952,14 @@
     "name": "Level Up Coin",
     "short": "LUC",
     "url": "/currencies/level-up",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Level01": {
+    "name": "Level01",
+    "short": "LVX",
+    "url": "/currencies/level01",
     "tags": [
       "Token"
     ]
@@ -13495,6 +13676,14 @@
       "Token"
     ]
   },
+  "MSD": {
+    "name": "MSD",
+    "short": "MSD",
+    "url": "/currencies/msd",
+    "tags": [
+      "Coin"
+    ]
+  },
   "MTC Mesh Network": {
     "name": "MTC Mesh Network",
     "short": "MTC",
@@ -13692,6 +13881,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Massnet": {
+    "name": "Massnet",
+    "short": "MASS",
+    "url": "/currencies/massnet",
+    "tags": [
+      "Coin"
     ]
   },
   "Master Coin Point": {
@@ -14873,6 +15070,14 @@
       "Smart Contracts"
     ]
   },
+  "NairaX": {
+    "name": "NairaX",
+    "short": "NIRX",
+    "url": "/currencies/nairax",
+    "tags": [
+      "Token"
+    ]
+  },
   "Naka Bodhi Token": {
     "name": "Naka Bodhi Token",
     "short": "NBOT",
@@ -15387,6 +15592,18 @@
     "url": "/currencies/novo",
     "tags": [
       "Coin"
+    ]
+  },
+  "NuBits": {
+    "name": "NuBits",
+    "short": "USNBT",
+    "url": "/currencies/nubits",
+    "tags": [
+      "Coin",
+      "PoS",
+      "SHA-256",
+      "Stablecoin",
+      "Stablecoin - Algorithmically-Stabilized"
     ]
   },
   "NuCypher": {
@@ -16308,6 +16525,16 @@
       "Token"
     ]
   },
+  "PancakeSwap": {
+    "name": "PancakeSwap",
+    "short": "CAKE",
+    "url": "/currencies/pancakeswap",
+    "tags": [
+      "Token",
+      "Yield farming",
+      "Binance Chain"
+    ]
+  },
   "Paparazzi": {
     "name": "Paparazzi",
     "short": "PAZZI",
@@ -16569,6 +16796,14 @@
     "url": "/currencies/percent",
     "tags": [
       "Token"
+    ]
+  },
+  "Permission Coin": {
+    "name": "Permission Coin",
+    "short": "ASK",
+    "url": "/currencies/permission-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Perpetual Protocol": {
@@ -17085,6 +17320,16 @@
     "tags": [
       "Token",
       "Real Estate"
+    ]
+  },
+  "Primas": {
+    "name": "Primas",
+    "short": "PST",
+    "url": "/currencies/primas",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation"
     ]
   },
   "Primecoin": {
@@ -19697,6 +19942,14 @@
     "name": "Squirrel Finance",
     "short": "NUTS",
     "url": "/currencies/squirrel-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Stabilize": {
+    "name": "Stabilize",
+    "short": "STBZ",
+    "url": "/currencies/stabilize",
     "tags": [
       "Token"
     ]
@@ -22483,6 +22736,14 @@
       "Token"
     ]
   },
+  "Vetri": {
+    "name": "Vetri",
+    "short": "VLD",
+    "url": "/currencies/vetri",
+    "tags": [
+      "Token"
+    ]
+  },
   "Vexanium": {
     "name": "Vexanium",
     "short": "VEX",
@@ -22500,6 +22761,14 @@
       "Media",
       "Content Creation",
       "Video"
+    ]
+  },
+  "Vidulum": {
+    "name": "Vidulum",
+    "short": "VDL",
+    "url": "/currencies/vidulum",
+    "tags": [
+      "Coin"
     ]
   },
   "Vidya": {
@@ -22980,6 +23249,16 @@
     "url": "/currencies/wisdom-chain",
     "tags": [
       "Coin"
+    ]
+  },
+  "Wixlar": {
+    "name": "Wixlar",
+    "short": "WIX",
+    "url": "/currencies/wixlar",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "Wolfs Group": {
@@ -23822,6 +24101,14 @@
       "Marketplace",
       "Discount token",
       "Payments"
+    ]
+  },
+  "ZBG Token": {
+    "name": "ZBG Token",
+    "short": "ZT",
+    "url": "/currencies/zbg-token",
+    "tags": [
+      "Token"
     ]
   },
   "ZClassic": {
