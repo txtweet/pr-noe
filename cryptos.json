@@ -20566,6 +20566,16 @@
       "Privacy"
     ]
   },
+  "Steem": {
+    "name": "Steem",
+    "short": "STEEM",
+    "url": "/currencies/steem",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation"
+    ]
+  },
   "Steem Dollars": {
     "name": "Steem Dollars",
     "short": "SBD",
@@ -20975,6 +20985,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "Sylo": {
+    "name": "Sylo",
+    "short": "SYLO",
+    "url": "/currencies/sylo",
+    "tags": [
+      "Token"
     ]
   },
   "SymVerse": {
@@ -24533,6 +24551,14 @@
     "name": "Yearn Land",
     "short": "YLAND",
     "url": "/currencies/yearn-land",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn-finance Infrastructure Labs": {
+    "name": "Yearn-finance Infrastructure Labs",
+    "short": "YLAB",
+    "url": "/currencies/yearn-finance-infrastructure-labs",
     "tags": [
       "Token"
     ]
