@@ -15,6 +15,19 @@
       "Coin"
     ]
   },
+  "0Chain": {
+    "name": "0Chain",
+    "short": "ZCN",
+    "url": "/currencies/0chain",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Distributed Computing",
+      "Filesharing",
+      "IoT"
+    ]
+  },
   "0cash": {
     "name": "0cash",
     "short": "ZCH",
@@ -4919,6 +4932,18 @@
       "Token"
     ]
   },
+  "CanYaCoin": {
+    "name": "CanYaCoin",
+    "short": "CAN",
+    "url": "/currencies/canyacoin",
+    "tags": [
+      "Token",
+      "Platform",
+      "Crowdsourcing",
+      "Sharing Economy",
+      "Binance Chain"
+    ]
+  },
   "CannabisCoin": {
     "name": "CannabisCoin",
     "short": "CANN",
@@ -5579,6 +5604,14 @@
       "Wallet"
     ]
   },
+  "CoinMetro Token": {
+    "name": "CoinMetro Token",
+    "short": "XCM",
+    "url": "/currencies/coinmetro-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "CoinPoker": {
     "name": "CoinPoker",
     "short": "CHP",
@@ -6120,6 +6153,16 @@
     "tags": [
       "Coin",
       "DeFi"
+    ]
+  },
+  "Credits": {
+    "name": "Credits",
+    "short": "CS",
+    "url": "/currencies/credits",
+    "tags": [
+      "Token",
+      "Services",
+      "IoT"
     ]
   },
   "Credo": {
@@ -11691,6 +11734,18 @@
       "Coin"
     ]
   },
+  "Hedera Hashgraph": {
+    "name": "Hedera Hashgraph",
+    "short": "HBAR",
+    "url": "/currencies/hedera-hashgraph",
+    "tags": [
+      "Coin",
+      "DAG",
+      "Marketplace",
+      "Enterprise solutions",
+      "Payments"
+    ]
+  },
   "HedgeTrade": {
     "name": "HedgeTrade",
     "short": "HEDG",
@@ -12833,6 +12888,14 @@
       "Token"
     ]
   },
+  "Intelligent Ratio Set": {
+    "name": "Intelligent Ratio Set",
+    "short": "INTRATIO",
+    "url": "/currencies/intelligent-ratio-set",
+    "tags": [
+      "Token"
+    ]
+  },
   "Intelligent Trading Foundation": {
     "name": "Intelligent Trading Foundation",
     "short": "ITT",
@@ -13746,6 +13809,17 @@
     "url": "/currencies/kuverit",
     "tags": [
       "Token"
+    ]
+  },
+  "Kyber Network": {
+    "name": "Kyber Network",
+    "short": "KNC",
+    "url": "/currencies/kyber-network",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Decentralized exchange",
+      "DeFi"
     ]
   },
   "LALA World": {
@@ -16465,6 +16539,17 @@
       "Token"
     ]
   },
+  "Neurotoken": {
+    "name": "Neurotoken",
+    "short": "NTK",
+    "url": "/currencies/neurotoken",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Distributed Computing"
+    ]
+  },
   "Neutrino System Base Token": {
     "name": "Neutrino System Base Token",
     "short": "NSBT",
@@ -17847,6 +17932,14 @@
     "url": "/currencies/parkingo",
     "tags": [
       "Token"
+    ]
+  },
+  "Particl": {
+    "name": "Particl",
+    "short": "PART",
+    "url": "/currencies/particl",
+    "tags": [
+      "Coin"
     ]
   },
   "Pascal": {
