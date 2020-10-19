@@ -990,6 +990,16 @@
       "Scrypt"
     ]
   },
+  "Advanced Technology Coin": {
+    "name": "Advanced Technology Coin",
+    "short": "ARC",
+    "url": "/currencies/arcticcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW"
+    ]
+  },
   "Adzcoin": {
     "name": "Adzcoin",
     "short": "ADZ",
@@ -1365,6 +1375,14 @@
     "name": "AmericanHorror.Finance",
     "short": "AHF",
     "url": "/currencies/americanhorror-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Amino Network": {
+    "name": "Amino Network",
+    "short": "AMIO",
+    "url": "/currencies/amino-network",
     "tags": [
       "Token"
     ]
@@ -3813,6 +3831,14 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "BlitzPredict": {
+    "name": "BlitzPredict",
+    "short": "XBP",
+    "url": "/currencies/blitzpredict",
+    "tags": [
+      "Token"
     ]
   },
   "Blocery": {
@@ -7180,6 +7206,14 @@
       "Token"
     ]
   },
+  "Decurian": {
+    "name": "Decurian",
+    "short": "ECU",
+    "url": "/currencies/decurian",
+    "tags": [
+      "Token"
+    ]
+  },
   "DeepBrain Chain": {
     "name": "DeepBrain Chain",
     "short": "DBC",
@@ -7400,6 +7434,14 @@
     "name": "Dexter G",
     "short": "DXG",
     "url": "/currencies/dexter-g",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Dextoken": {
+    "name": "Dextoken",
+    "short": "DEXG",
+    "url": "/currencies/dextoken",
     "tags": [
       "Token"
     ]
@@ -8055,6 +8097,16 @@
       "SHA-256"
     ]
   },
+  "EDUCare": {
+    "name": "EDUCare",
+    "short": "EKT",
+    "url": "/currencies/educare",
+    "tags": [
+      "Token",
+      "Education",
+      "Smart Contracts"
+    ]
+  },
   "EIDOS": {
     "name": "EIDOS",
     "short": "EIDOS",
@@ -8708,6 +8760,14 @@
     "url": "/currencies/emrals",
     "tags": [
       "Coin"
+    ]
+  },
+  "En-Tan-Mo": {
+    "name": "En-Tan-Mo",
+    "short": "ETM",
+    "url": "/currencies/en-tan-mo",
+    "tags": [
+      "Token"
     ]
   },
   "Enceladus Network": {
@@ -10903,6 +10963,17 @@
     "tags": [
       "Token",
       "Energy"
+    ]
+  },
+  "GridCoin": {
+    "name": "GridCoin",
+    "short": "GRC",
+    "url": "/currencies/gridcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "DPoR",
+      "Scrypt"
     ]
   },
   "Grimm": {
@@ -21802,6 +21873,14 @@
       "Discount token"
     ]
   },
+  "Tavittcoin": {
+    "name": "Tavittcoin",
+    "short": "TAVITT",
+    "url": "/currencies/tavittcoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Tcbcoin": {
     "name": "Tcbcoin",
     "short": "TCFX",
@@ -26389,6 +26468,14 @@
     "url": "/currencies/xscoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "yRise Finance": {
+    "name": "yRise Finance",
+    "short": "YRISE",
+    "url": "/currencies/yrise-finance",
+    "tags": [
+      "Token"
     ]
   },
   "yTSLA Finance": {
