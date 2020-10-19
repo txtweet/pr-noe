@@ -2014,6 +2014,14 @@
       "Token"
     ]
   },
+  "Axis DeFi": {
+    "name": "Axis DeFi",
+    "short": "AXIS",
+    "url": "/currencies/axis-defi",
+    "tags": [
+      "Token"
+    ]
+  },
   "Azbit": {
     "name": "Azbit",
     "short": "AZ",
@@ -3460,6 +3468,15 @@
       "Mineable"
     ]
   },
+  "Bitcoin BEP2": {
+    "name": "Bitcoin BEP2",
+    "short": "BTCB",
+    "url": "/currencies/bitcoin-bep2",
+    "tags": [
+      "Token",
+      "Binance Chain"
+    ]
+  },
   "Bitcoin CZ": {
     "name": "Bitcoin CZ",
     "short": "BCZ",
@@ -3635,6 +3652,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "BitcoinHD": {
+    "name": "BitcoinHD",
+    "short": "BHD",
+    "url": "/currencies/bitcoinhd",
+    "tags": [
+      "Coin",
+      "Medium of Exchange"
     ]
   },
   "BitcoinPoS": {
@@ -4770,6 +4796,17 @@
     "url": "/currencies/cutcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "CVCoin": {
+    "name": "CVCoin",
+    "short": "CVN",
+    "url": "/currencies/cvcoin",
+    "tags": [
+      "Token",
+      "DPoS",
+      "Platform",
+      "Privacy"
     ]
   },
   "CWV Chain": {
@@ -8394,6 +8431,30 @@
     "name": "ETF Dao",
     "short": "TFD",
     "url": "/currencies/etf-dao",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ETH 20 Day MA Crossover Set": {
+    "name": "ETH 20 Day MA Crossover Set",
+    "short": "ETH20SMACO",
+    "url": "/currencies/eth-20-day-ma-crossover-set",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ETH 20 Day MA Crossover Yield Set": {
+    "name": "ETH 20 Day MA Crossover Yield Set",
+    "short": "ETHMACOAPY",
+    "url": "/currencies/eth-20-day-ma-crossover-yield-set",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ETH 26 EMA Crossover Yield II": {
+    "name": "ETH 26 EMA Crossover Yield II",
+    "short": "ETHEMAAPY",
+    "url": "/currencies/eth-26-ma-crossover-yield-ii",
     "tags": [
       "Token"
     ]
@@ -12433,6 +12494,18 @@
       "Token"
     ]
   },
+  "Idena": {
+    "name": "Idena",
+    "short": "IDNA",
+    "url": "/currencies/idena",
+    "tags": [
+      "Coin",
+      "Identity",
+      "Oracles",
+      "Sharding",
+      "Smart Contracts"
+    ]
+  },
   "Ifoods Chain": {
     "name": "Ifoods Chain",
     "short": "IFOOD",
@@ -13768,6 +13841,17 @@
       "Token"
     ]
   },
+  "LOCIcoin": {
+    "name": "LOCIcoin",
+    "short": "LOCI",
+    "url": "/currencies/locicoin",
+    "tags": [
+      "Token",
+      "Platform",
+      "Content Creation",
+      "Data Provenance"
+    ]
+  },
   "LP-yCurve": {
     "name": "LP-yCurve",
     "short": "YDAI+YUSDC+YUSDT+YTUSD",
@@ -14806,6 +14890,15 @@
     "url": "/currencies/manna",
     "tags": [
       "Coin"
+    ]
+  },
+  "Marblecoin": {
+    "name": "Marblecoin",
+    "short": "MBC",
+    "url": "/currencies/marblecoin",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "Markaccy": {
@@ -18274,6 +18367,14 @@
       "Coin"
     ]
   },
+  "PocketNode": {
+    "name": "PocketNode",
+    "short": "NODE",
+    "url": "/currencies/pocketnode",
+    "tags": [
+      "Token"
+    ]
+  },
   "PointPay": {
     "name": "PointPay",
     "short": "PXP",
@@ -18380,6 +18481,17 @@
     "tags": [
       "Token",
       "Memes"
+    ]
+  },
+  "PopularCoin": {
+    "name": "PopularCoin",
+    "short": "POP",
+    "url": "/currencies/popularcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Populous": {
@@ -19796,6 +19908,15 @@
     "tags": [
       "Token",
       "Memes"
+    ]
+  },
+  "SHIELD": {
+    "name": "SHIELD",
+    "short": "XSH",
+    "url": "/currencies/shield-xsh",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "SHPING": {
@@ -26160,6 +26281,14 @@
     "name": "Zero Utility Token",
     "short": "ZUT",
     "url": "/currencies/zero-utility-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ZeroSwap": {
+    "name": "ZeroSwap",
+    "short": "ZEE",
+    "url": "/currencies/zeroswap",
     "tags": [
       "Token"
     ]
