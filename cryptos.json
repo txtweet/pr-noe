@@ -8402,6 +8402,21 @@
       "Token"
     ]
   },
+  "DigiDinar Token": {
+    "name": "DigiDinar Token",
+    "short": "DDRT",
+    "url": "/currencies/digidinar-token",
+    "tags": [
+      "Token",
+      "Marketing",
+      "Cybersecurity",
+      "Commodities",
+      "Asset management",
+      "Education",
+      "Events",
+      "Retail"
+    ]
+  },
   "DigiFinexToken": {
     "name": "DigiFinexToken",
     "short": "DFT",
@@ -16830,6 +16845,14 @@
       "Coin",
       "PoS",
       "Scrypt"
+    ]
+  },
+  "Minter Network": {
+    "name": "Minter Network",
+    "short": "BIP",
+    "url": "/currencies/minter-network",
+    "tags": [
+      "Coin"
     ]
   },
   "Mirai": {
@@ -25628,6 +25651,14 @@
       "DApp"
     ]
   },
+  "Ubique Chain Of Things": {
+    "name": "Ubique Chain Of Things",
+    "short": "UCT",
+    "url": "/currencies/ubique-chain-of-things",
+    "tags": [
+      "Token"
+    ]
+  },
   "Ubricoin": {
     "name": "Ubricoin",
     "short": "UBN",
@@ -27961,6 +27992,14 @@
     "name": "YeaFinance",
     "short": "YEA",
     "url": "/currencies/yeafinance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yearn Finance DOT": {
+    "name": "Yearn Finance DOT",
+    "short": "YFDOT",
+    "url": "/currencies/yearn-finance-dot",
     "tags": [
       "Token"
     ]
