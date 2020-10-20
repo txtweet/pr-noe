@@ -2977,6 +2977,17 @@
       "Token"
     ]
   },
+  "BenjiRolls": {
+    "name": "BenjiRolls",
+    "short": "BENJI",
+    "url": "/currencies/benjirolls",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Benz": {
     "name": "Benz",
     "short": "BENZ",
@@ -3284,6 +3295,17 @@
       "E-commerce",
       "Marketplace",
       "Services"
+    ]
+  },
+  "BitBar": {
+    "name": "BitBar",
+    "short": "BTB",
+    "url": "/currencies/bitbar",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "BitCapitalVendor": {
@@ -5269,6 +5291,14 @@
     "name": "CanonChain",
     "short": "CZR",
     "url": "/currencies/cononchain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CapdaxToken": {
+    "name": "CapdaxToken",
+    "short": "XCD",
+    "url": "/currencies/capdaxtoken",
     "tags": [
       "Token"
     ]
@@ -7665,6 +7695,14 @@
     "name": "DeFi Insurance Protocol",
     "short": "DFIP",
     "url": "/currencies/defi-insurance-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DeFi Nation Signals DAO": {
+    "name": "DeFi Nation Signals DAO",
+    "short": "DSD",
+    "url": "/currencies/defi-nation-signals-dao",
     "tags": [
       "Token"
     ]
@@ -12045,6 +12083,14 @@
       "Token"
     ]
   },
+  "HBTC Captain Token": {
+    "name": "HBTC Captain Token",
+    "short": "HBC",
+    "url": "/currencies/hbtc-token",
+    "tags": [
+      "Coin"
+    ]
+  },
   "HEAT": {
     "name": "HEAT",
     "short": "HEAT",
@@ -13579,6 +13625,14 @@
       "Token"
     ]
   },
+  "IntelliShare": {
+    "name": "IntelliShare",
+    "short": "INE",
+    "url": "/currencies/intellishare",
+    "tags": [
+      "Token"
+    ]
+  },
   "Intelligent Investment Chain": {
     "name": "Intelligent Investment Chain",
     "short": "IIC",
@@ -14250,6 +14304,14 @@
       "Interoperability",
       "Substrate",
       "Polkadot"
+    ]
+  },
+  "Keystone of Opportunity & Knowledge": {
+    "name": "Keystone of Opportunity & Knowledge",
+    "short": "KOK",
+    "url": "/currencies/keystone-of-opportunity-knowledge",
+    "tags": [
+      "Token"
     ]
   },
   "Khipu Token": {
@@ -14968,6 +15030,16 @@
     "url": "/currencies/limitswap",
     "tags": [
       "Token"
+    ]
+  },
+  "Limitless VIP": {
+    "name": "Limitless VIP",
+    "short": "VIP",
+    "url": "/currencies/limitless-vip",
+    "tags": [
+      "Coin",
+      "PoW",
+      "Scrypt"
     ]
   },
   "Linear": {
@@ -16135,6 +16207,14 @@
     "name": "Medalte",
     "short": "MDTL",
     "url": "/currencies/medalte",
+    "tags": [
+      "Token"
+    ]
+  },
+  "MediBit": {
+    "name": "MediBit",
+    "short": "MEDIBIT",
+    "url": "/currencies/medibit",
     "tags": [
       "Token"
     ]
@@ -19541,6 +19621,14 @@
       "Mineable"
     ]
   },
+  "Plus-Coin": {
+    "name": "Plus-Coin",
+    "short": "NPLC",
+    "url": "/currencies/plus-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "PlusOneCoin": {
     "name": "PlusOneCoin",
     "short": "PLUS1",
@@ -20206,6 +20294,15 @@
     "tags": [
       "Token",
       "Marketplace"
+    ]
+  },
+  "Qbic": {
+    "name": "Qbic",
+    "short": "QBIC",
+    "url": "/currencies/qbic",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Qcash": {
@@ -22848,6 +22945,14 @@
       "Masternodes"
     ]
   },
+  "Staker": {
+    "name": "Staker",
+    "short": "STR",
+    "url": "/currencies/staker",
+    "tags": [
+      "Token"
+    ]
+  },
   "Stakinglab": {
     "name": "Stakinglab",
     "short": "LABX",
@@ -24335,6 +24440,17 @@
     "url": "/currencies/titanswap",
     "tags": [
       "Token"
+    ]
+  },
+  "Titcoin": {
+    "name": "Titcoin",
+    "short": "TIT",
+    "url": "/currencies/titcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
     ]
   },
   "Tixl [NEW]": {
