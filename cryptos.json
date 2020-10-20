@@ -1477,6 +1477,14 @@
       "Token"
     ]
   },
+  "Alt.Estate token": {
+    "name": "Alt.Estate token",
+    "short": "ALT",
+    "url": "/currencies/alt-estate-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Altbet": {
     "name": "Altbet",
     "short": "ABET",
@@ -1708,6 +1716,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "AppCoins": {
+    "name": "AppCoins",
+    "short": "APPC",
+    "url": "/currencies/appcoins",
+    "tags": [
+      "Token",
+      "Platform",
+      "Mobile",
+      "DApp"
     ]
   },
   "AquariusCoin": {
@@ -1969,6 +1988,14 @@
     "tags": [
       "Token",
       "Marketing"
+    ]
+  },
+  "Atlas Token": {
+    "name": "Atlas Token",
+    "short": "ATLS",
+    "url": "/currencies/atlas-token",
+    "tags": [
+      "Token"
     ]
   },
   "Atletico De Madrid Fan Token": {
@@ -8686,6 +8713,16 @@
       "Token"
     ]
   },
+  "Dragon Coins": {
+    "name": "Dragon Coins",
+    "short": "DRG",
+    "url": "/currencies/dragon-coins",
+    "tags": [
+      "Token",
+      "Media",
+      "Payments"
+    ]
+  },
   "Dragon Option": {
     "name": "Dragon Option",
     "short": "DRAGON",
@@ -11583,6 +11620,15 @@
       "Mineable"
     ]
   },
+  "Giant": {
+    "name": "Giant",
+    "short": "GIC",
+    "url": "/currencies/giant-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Gire Token": {
     "name": "Gire Token",
     "short": "GET",
@@ -11790,6 +11836,17 @@
     "url": "/currencies/gold-poker",
     "tags": [
       "Coin"
+    ]
+  },
+  "GoldBlocks": {
+    "name": "GoldBlocks",
+    "short": "GB",
+    "url": "/currencies/goldblocks",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "GoldFund": {
@@ -12408,6 +12465,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Heart Number": {
+    "name": "Heart Number",
+    "short": "HTN",
+    "url": "/currencies/heartnumber",
+    "tags": [
+      "Token"
     ]
   },
   "HeartBout": {
@@ -14072,6 +14137,14 @@
       "Token"
     ]
   },
+  "KAASO": {
+    "name": "KAASO",
+    "short": "KAASO",
+    "url": "/currencies/kaaso",
+    "tags": [
+      "Token"
+    ]
+  },
   "KEY": {
     "name": "KEY",
     "short": "KEY",
@@ -14983,6 +15056,14 @@
       "Token"
     ]
   },
+  "Libertas Token": {
+    "name": "Libertas Token",
+    "short": "LIBERTAS",
+    "url": "/currencies/libertas-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Libfx": {
     "name": "Libfx",
     "short": "LIBFX",
@@ -15234,6 +15315,14 @@
     "url": "/currencies/litecoinpos",
     "tags": [
       "Coin"
+    ]
+  },
+  "LitecoinToken": {
+    "name": "LitecoinToken",
+    "short": "LTK",
+    "url": "/currencies/litecoin-token",
+    "tags": [
+      "Token"
     ]
   },
   "Litecred": {
@@ -17664,6 +17753,14 @@
       "Payments"
     ]
   },
+  "Nework": {
+    "name": "Nework",
+    "short": "NKC",
+    "url": "/currencies/nework",
+    "tags": [
+      "Token"
+    ]
+  },
   "NewsToken": {
     "name": "NewsToken",
     "short": "NEWOS",
@@ -17769,6 +17866,14 @@
     "url": "/currencies/nexxo",
     "tags": [
       "Token"
+    ]
+  },
+  "Nibble": {
+    "name": "Nibble",
+    "short": "NBXC",
+    "url": "/currencies/nibble",
+    "tags": [
+      "Coin"
     ]
   },
   "NiftyMoji": {
@@ -20586,6 +20691,15 @@
       "Token"
     ]
   },
+  "RPICoin": {
+    "name": "RPICoin",
+    "short": "RPI",
+    "url": "/currencies/rpicoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "RSK Infrastructure Framework": {
     "name": "RSK Infrastructure Framework",
     "short": "RIF",
@@ -21575,6 +21689,18 @@
       "Token"
     ]
   },
+  "SYB Coin": {
+    "name": "SYB Coin",
+    "short": "SYBC",
+    "url": "/currencies/syb-coin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Media",
+      "Real Estate",
+      "Services"
+    ]
+  },
   "SaTT": {
     "name": "SaTT",
     "short": "SATT",
@@ -21843,6 +21969,14 @@
     "url": "/currencies/schain-wallet",
     "tags": [
       "Token"
+    ]
+  },
+  "Schilling-Coin": {
+    "name": "Schilling-Coin",
+    "short": "SCH",
+    "url": "/currencies/schilling-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Scopuly Coin": {
@@ -23074,6 +23208,15 @@
       "Stablecoin"
     ]
   },
+  "SteepCoin": {
+    "name": "SteepCoin",
+    "short": "STEEP",
+    "url": "/currencies/steepcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Stellar": {
     "name": "Stellar",
     "short": "XLM",
@@ -24007,6 +24150,14 @@
     "tags": [
       "Token",
       "Memes"
+    ]
+  },
+  "Tepleton": {
+    "name": "Tepleton",
+    "short": "TEP",
+    "url": "/currencies/tepleton",
+    "tags": [
+      "Token"
     ]
   },
   "Ternio": {
@@ -26408,6 +26559,14 @@
       "Token"
     ]
   },
+  "WOM Protocol": {
+    "name": "WOM Protocol",
+    "short": "WOM",
+    "url": "/currencies/wom-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "WPP TOKEN": {
     "name": "WPP TOKEN",
     "short": "WPP",
@@ -27441,6 +27600,14 @@
       "Token"
     ]
   },
+  "YFi Management": {
+    "name": "YFi Management",
+    "short": "YEFIM",
+    "url": "/currencies/yfi-management",
+    "tags": [
+      "Token"
+    ]
+  },
   "YMAX": {
     "name": "YMAX",
     "short": "YMAX",
@@ -28242,6 +28409,14 @@
       "Token"
     ]
   },
+  "bitCEO": {
+    "name": "bitCEO",
+    "short": "BCEO",
+    "url": "/currencies/bitceo",
+    "tags": [
+      "Token"
+    ]
+  },
   "bitJob": {
     "name": "bitJob",
     "short": "STU",
@@ -28411,6 +28586,14 @@
     "name": "eosBLACK",
     "short": "BLACK",
     "url": "/currencies/eosblack",
+    "tags": [
+      "Token"
+    ]
+  },
+  "eosDAC": {
+    "name": "eosDAC",
+    "short": "EOSDAC",
+    "url": "/currencies/eosdac",
     "tags": [
       "Token"
     ]
