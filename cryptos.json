@@ -1923,6 +1923,17 @@
       "Coin"
     ]
   },
+  "Artfinity": {
+    "name": "Artfinity",
+    "short": "AT",
+    "url": "/currencies/artfinity",
+    "tags": [
+      "Token",
+      "Art",
+      "Collectibles & NFTs",
+      "Data Provenance"
+    ]
+  },
   "Artis Turba": {
     "name": "Artis Turba",
     "short": "ARTIS",
@@ -4363,6 +4374,16 @@
       "Token"
     ]
   },
+  "BlackCoin": {
+    "name": "BlackCoin",
+    "short": "BLK",
+    "url": "/currencies/blackcoin",
+    "tags": [
+      "Coin",
+      "PoS",
+      "Scrypt"
+    ]
+  },
   "BlackPearl Token": {
     "name": "BlackPearl Token",
     "short": "BPLC",
@@ -4585,6 +4606,16 @@
     "url": "/currencies/bloomzed-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Blox": {
+    "name": "Blox",
+    "short": "CDT",
+    "url": "/currencies/blox",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Smart Contracts"
     ]
   },
   "Blue Baikal": {
@@ -11332,6 +11363,14 @@
       "Binance Chain"
     ]
   },
+  "Flash": {
+    "name": "Flash",
+    "short": "FLASH",
+    "url": "/currencies/flash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "FlashSwap": {
     "name": "FlashSwap",
     "short": "FSP",
@@ -16944,6 +16983,15 @@
       "Health"
     ]
   },
+  "MediShares": {
+    "name": "MediShares",
+    "short": "MDS",
+    "url": "/currencies/medishares",
+    "tags": [
+      "Token",
+      "Health"
+    ]
+  },
   "MedicCoin": {
     "name": "MedicCoin",
     "short": "MEDIC",
@@ -17207,6 +17255,16 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
+    ]
+  },
+  "MicroBitcoin": {
+    "name": "MicroBitcoin",
+    "short": "MBC",
+    "url": "/currencies/microbitcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Medium of Exchange"
     ]
   },
   "MicroMoney": {
@@ -18758,6 +18816,16 @@
     "tags": [
       "Token",
       "Medium of Exchange"
+    ]
+  },
+  "Nucleus Vision": {
+    "name": "Nucleus Vision",
+    "short": "NCASH",
+    "url": "/currencies/nucleus-vision",
+    "tags": [
+      "Token",
+      "Retail",
+      "IoT"
     ]
   },
   "Nuco.cloud": {
@@ -27155,6 +27223,15 @@
       "Multiple",
       "Medium of Exchange",
       "Privacy"
+    ]
+  },
+  "VeriBlock": {
+    "name": "VeriBlock",
+    "short": "VBK",
+    "url": "/currencies/veriblock",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "VeriCoin": {
