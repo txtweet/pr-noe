@@ -4417,6 +4417,14 @@
       "Token"
     ]
   },
+  "BlockMesh": {
+    "name": "BlockMesh",
+    "short": "BMH",
+    "url": "/currencies/blockmesh",
+    "tags": [
+      "Token"
+    ]
+  },
   "BlockStamp": {
     "name": "BlockStamp",
     "short": "BST",
@@ -5053,6 +5061,14 @@
     "name": "CCUniverse",
     "short": "UVU",
     "url": "/currencies/ccuniverse",
+    "tags": [
+      "Token"
+    ]
+  },
+  "CDX Network": {
+    "name": "CDX Network",
+    "short": "CDX",
+    "url": "/currencies/cdx-network",
     "tags": [
       "Token"
     ]
@@ -17212,6 +17228,15 @@
       "Wallet"
     ]
   },
+  "MktCoin": {
+    "name": "MktCoin",
+    "short": "MLM",
+    "url": "/currencies/mktcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "MoCo Token": {
     "name": "MoCo Token",
     "short": "MoCo",
@@ -18817,6 +18842,14 @@
     "name": "ORS Group",
     "short": "ORS",
     "url": "/currencies/ors-group",
+    "tags": [
+      "Token"
+    ]
+  },
+  "OSA Token": {
+    "name": "OSA Token",
+    "short": "OSA",
+    "url": "/currencies/osa-token",
     "tags": [
       "Token"
     ]
@@ -28170,6 +28203,15 @@
     "url": "/currencies/xtock",
     "tags": [
       "Token"
+    ]
+  },
+  "Xuez": {
+    "name": "Xuez",
+    "short": "XUEZ",
+    "url": "/currencies/xuez",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "YAM v1": {
