@@ -826,6 +826,14 @@
       "Hybrid - PoW & PoS"
     ]
   },
+  "AS Roma Fan Token": {
+    "name": "AS Roma Fan Token",
+    "short": "ASR",
+    "url": "/currencies/as-roma-fan-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "ASTA": {
     "name": "ASTA",
     "short": "ASTA",
@@ -1964,6 +1972,15 @@
       "Token"
     ]
   },
+  "Auctus": {
+    "name": "Auctus",
+    "short": "AUC",
+    "url": "/currencies/auctus",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Augur": {
     "name": "Augur",
     "short": "REP",
@@ -2387,6 +2404,14 @@
     "url": "/currencies/boscoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "BOX Token": {
+    "name": "BOX Token",
+    "short": "BOX",
+    "url": "/currencies/box-token",
+    "tags": [
+      "Token"
     ]
   },
   "BPOP": {
@@ -4013,6 +4038,16 @@
       "Staking"
     ]
   },
+  "Bitswift": {
+    "name": "Bitswift",
+    "short": "BITS",
+    "url": "/currencies/bitswift",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
+    ]
+  },
   "Bittwatt": {
     "name": "Bittwatt",
     "short": "BWT",
@@ -4046,6 +4081,14 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Black Diamond Rating": {
+    "name": "Black Diamond Rating",
+    "short": "HZT",
+    "url": "/currencies/black-diamond-rating",
+    "tags": [
+      "Token"
     ]
   },
   "BlackPearl Token": {
@@ -8521,6 +8564,17 @@
       "Payments"
     ]
   },
+  "Dynamic": {
+    "name": "Dynamic",
+    "short": "DYN",
+    "url": "/currencies/dynamic",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Argon2"
+    ]
+  },
   "Dynamic Trading Rights": {
     "name": "Dynamic Trading Rights",
     "short": "DTR",
@@ -9210,6 +9264,15 @@
     "url": "/currencies/elitium",
     "tags": [
       "Token"
+    ]
+  },
+  "Ellaism": {
+    "name": "Ellaism",
+    "short": "ELLA",
+    "url": "/currencies/ellaism",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Elrond": {
@@ -10525,6 +10588,15 @@
       "Gaming"
     ]
   },
+  "Fiscus.fyi": {
+    "name": "Fiscus.fyi",
+    "short": "FFYI",
+    "url": "/currencies/fiscus-fyi",
+    "tags": [
+      "Token",
+      "Yield farming"
+    ]
+  },
   "Five Star Coin": {
     "name": "Five Star Coin",
     "short": "FSC",
@@ -11020,6 +11092,14 @@
       "Coin"
     ]
   },
+  "Gallery Finance": {
+    "name": "Gallery Finance",
+    "short": "GLF",
+    "url": "/currencies/gallery-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Game Ark": {
     "name": "Game Ark",
     "short": "GARK",
@@ -11416,6 +11496,15 @@
       "Token"
     ]
   },
+  "GoWithMi": {
+    "name": "GoWithMi",
+    "short": "GMAT",
+    "url": "/currencies/gowithmi",
+    "tags": [
+      "Token",
+      "Platform"
+    ]
+  },
   "GoalTime N": {
     "name": "GoalTime N",
     "short": "GTX",
@@ -11652,6 +11741,14 @@
       "Coin"
     ]
   },
+  "Guapcoin": {
+    "name": "Guapcoin",
+    "short": "GUAP",
+    "url": "/currencies/guapcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Guaranteed Ethurance Token Extra": {
     "name": "Guaranteed Ethurance Token Extra",
     "short": "GETX",
@@ -11747,6 +11844,14 @@
       "Coin"
     ]
   },
+  "HOLD": {
+    "name": "HOLD",
+    "short": "HOLD",
+    "url": "/currencies/hold",
+    "tags": [
+      "Token"
+    ]
+  },
   "HOMIHELP": {
     "name": "HOMIHELP",
     "short": "HOMI",
@@ -11759,6 +11864,14 @@
     "name": "HOMT",
     "short": "HOMT",
     "url": "/currencies/homt",
+    "tags": [
+      "Token"
+    ]
+  },
+  "HOQU": {
+    "name": "HOQU",
+    "short": "HQX",
+    "url": "/currencies/hoqu",
     "tags": [
       "Token"
     ]
@@ -13843,6 +13956,14 @@
       "Coin"
     ]
   },
+  "Kemacoin": {
+    "name": "Kemacoin",
+    "short": "KEMA",
+    "url": "/currencies/kemacoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Kepler Network": {
     "name": "Kepler Network",
     "short": "KMW",
@@ -14193,6 +14314,14 @@
     "name": "LEVELG",
     "short": "LEVELG",
     "url": "/currencies/levelg",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LGCY Network": {
+    "name": "LGCY Network",
+    "short": "LGCY",
+    "url": "/currencies/lgcy-network",
     "tags": [
       "Token"
     ]
@@ -16660,6 +16789,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "NFX Coin": {
+    "name": "NFX Coin",
+    "short": "NFXC",
+    "url": "/currencies/nfx-coin",
+    "tags": [
+      "Token"
     ]
   },
   "NIX": {
@@ -20159,6 +20296,14 @@
       "AI & Big Data"
     ]
   },
+  "Relevant": {
+    "name": "Relevant",
+    "short": "REL",
+    "url": "/currencies/relevant",
+    "tags": [
+      "Token"
+    ]
+  },
   "Relex": {
     "name": "Relex",
     "short": "RLX",
@@ -22807,6 +22952,15 @@
     "url": "/currencies/symverse",
     "tags": [
       "Token"
+    ]
+  },
+  "SyncFab": {
+    "name": "SyncFab",
+    "short": "MFG",
+    "url": "/currencies/syncfab",
+    "tags": [
+      "Token",
+      "Payments"
     ]
   },
   "SynchroBitcoin": {
