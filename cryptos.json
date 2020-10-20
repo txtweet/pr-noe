@@ -3430,6 +3430,14 @@
       "Token"
     ]
   },
+  "BitKAM": {
+    "name": "BitKAM",
+    "short": "KAM",
+    "url": "/currencies/bitkam",
+    "tags": [
+      "Token"
+    ]
+  },
   "BitKan": {
     "name": "BitKan",
     "short": "KAN",
@@ -4581,6 +4589,14 @@
       "Yield farming"
     ]
   },
+  "Botton": {
+    "name": "Botton",
+    "short": "BOC",
+    "url": "/currencies/botton",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bottos": {
     "name": "Bottos",
     "short": "BTO",
@@ -4746,6 +4762,14 @@
     "name": "Bulleon",
     "short": "BUL",
     "url": "/currencies/bulleon",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BunnyToken": {
+    "name": "BunnyToken",
+    "short": "BUNNY",
+    "url": "/currencies/bunnytoken",
     "tags": [
       "Token"
     ]
@@ -6519,6 +6543,16 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Cream Finance": {
+    "name": "Cream Finance",
+    "short": "CREAM",
+    "url": "/currencies/cream-finance",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Binance Chain"
     ]
   },
   "Creatanium": {
@@ -8300,6 +8334,14 @@
       "Cybersecurity"
     ]
   },
+  "DigiDinar Stable Token": {
+    "name": "DigiDinar Stable Token",
+    "short": "DDRST",
+    "url": "/currencies/digidinar-stable-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "DigiFinexToken": {
     "name": "DigiFinexToken",
     "short": "DFT",
@@ -9827,6 +9869,14 @@
       "Token",
       "Hardware",
       "Smart Contracts"
+    ]
+  },
+  "Enzo": {
+    "name": "Enzo",
+    "short": "NZO",
+    "url": "/currencies/enzo",
+    "tags": [
+      "Token"
     ]
   },
   "Epanus": {
@@ -18983,6 +19033,17 @@
       "IoT"
     ]
   },
+  "PROUD Money": {
+    "name": "PROUD Money",
+    "short": "PROUD",
+    "url": "/currencies/proud-money",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "PROXI": {
     "name": "PROXI",
     "short": "CREDIT",
@@ -19753,6 +19814,15 @@
       "Payments"
     ]
   },
+  "Po.et": {
+    "name": "Po.et",
+    "short": "POE",
+    "url": "/currencies/poet",
+    "tags": [
+      "Token",
+      "Media"
+    ]
+  },
   "PoSW Coin": {
     "name": "PoSW Coin",
     "short": "POSW",
@@ -19765,6 +19835,14 @@
     "name": "PocketNode",
     "short": "NODE",
     "url": "/currencies/pocketnode",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Pofid Dao": {
+    "name": "Pofid Dao",
+    "short": "PFID",
+    "url": "/currencies/pofid-dao",
     "tags": [
       "Token"
     ]
@@ -23227,6 +23305,14 @@
       "Enterprise solutions",
       "Decentralized exchange",
       "Smart Contracts"
+    ]
+  },
+  "Stellar Classic": {
+    "name": "Stellar Classic",
+    "short": "XLMX",
+    "url": "/currencies/stellar-classic",
+    "tags": [
+      "Token"
     ]
   },
   "StellarPayGlobal": {
@@ -27958,6 +28044,14 @@
       "Token"
     ]
   },
+  "ZINC": {
+    "name": "ZINC",
+    "short": "ZINC",
+    "url": "/currencies/zinc",
+    "tags": [
+      "Token"
+    ]
+  },
   "ZMINE": {
     "name": "ZMINE",
     "short": "ZMN",
@@ -28598,6 +28692,14 @@
       "Token"
     ]
   },
+  "extraDNA": {
+    "name": "extraDNA",
+    "short": "XDNA",
+    "url": "/currencies/extradna",
+    "tags": [
+      "Token"
+    ]
+  },
   "happy birthday coin": {
     "name": "happy birthday coin",
     "short": "HBDC",
@@ -28661,6 +28763,14 @@
     "name": "iDeFi",
     "short": "IDEFI",
     "url": "/currencies/idefi",
+    "tags": [
+      "Token"
+    ]
+  },
+  "iETH": {
+    "name": "iETH",
+    "short": "IETH",
+    "url": "/currencies/ieth",
     "tags": [
       "Token"
     ]
