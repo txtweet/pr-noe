@@ -3657,6 +3657,14 @@
       "Coin"
     ]
   },
+  "Bitcoin Free Cash": {
+    "name": "Bitcoin Free Cash",
+    "short": "BFC",
+    "url": "/currencies/bitcoin-free-cash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bitcoin God": {
     "name": "Bitcoin God",
     "short": "GOD",
@@ -6586,6 +6594,14 @@
       "Privacy"
     ]
   },
+  "CryptoWater": {
+    "name": "CryptoWater",
+    "short": "C2O",
+    "url": "/currencies/cryptowater",
+    "tags": [
+      "Token"
+    ]
+  },
   "CryptoWorldNews": {
     "name": "CryptoWorldNews",
     "short": "CWN",
@@ -7757,6 +7773,15 @@
       "Token"
     ]
   },
+  "Denarius": {
+    "name": "Denarius",
+    "short": "D",
+    "url": "/currencies/denarius-d",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Dentacoin": {
     "name": "Dentacoin",
     "short": "DCN",
@@ -8374,6 +8399,14 @@
       "Token"
     ]
   },
+  "Dracula Token": {
+    "name": "Dracula Token",
+    "short": "DRC",
+    "url": "/currencies/dracula-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Dragon Ball": {
     "name": "Dragon Ball",
     "short": "DRAGON",
@@ -8464,6 +8497,17 @@
     "url": "/currencies/dune-network",
     "tags": [
       "Coin"
+    ]
+  },
+  "Dusk Network": {
+    "name": "Dusk Network",
+    "short": "DUSK",
+    "url": "/currencies/dusk-network",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Privacy",
+      "Smart Contracts"
     ]
   },
   "DxChain Token": {
@@ -11474,6 +11518,14 @@
       "Coin"
     ]
   },
+  "Gomics": {
+    "name": "Gomics",
+    "short": "GOM",
+    "url": "/currencies/gomics",
+    "tags": [
+      "Token"
+    ]
+  },
   "Gossip Coin": {
     "name": "Gossip Coin",
     "short": "GOSS",
@@ -12450,6 +12502,14 @@
     "name": "Hxro",
     "short": "HXRO",
     "url": "/currencies/hxro",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Hybrid Bank Cash": {
+    "name": "Hybrid Bank Cash",
+    "short": "HBC",
+    "url": "/currencies/hybrid-bank-cash",
     "tags": [
       "Token"
     ]
@@ -14251,6 +14311,14 @@
       "Platform",
       "Content Creation",
       "Data Provenance"
+    ]
+  },
+  "LOLTOKEN": {
+    "name": "LOLTOKEN",
+    "short": "LOL",
+    "url": "/currencies/loltoken",
+    "tags": [
+      "Token"
     ]
   },
   "LP-yCurve": {
@@ -21022,6 +21090,14 @@
       "Token"
     ]
   },
+  "Save Environment Token": {
+    "name": "Save Environment Token",
+    "short": "SET",
+    "url": "/currencies/save-environment-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Save and Gain": {
     "name": "Save and Gain",
     "short": "SANDG",
@@ -25446,6 +25522,14 @@
       "Token"
     ]
   },
+  "WETH": {
+    "name": "WETH",
+    "short": "WETH",
+    "url": "/currencies/weth",
+    "tags": [
+      "Token"
+    ]
+  },
   "WHALE": {
     "name": "WHALE",
     "short": "WHALE",
@@ -25571,6 +25655,16 @@
       "Token",
       "Logistics",
       "IoT"
+    ]
+  },
+  "WandX": {
+    "name": "WandX",
+    "short": "WAND",
+    "url": "/currencies/wandx",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Decentralized exchange"
     ]
   },
   "Waves": {
@@ -25942,6 +26036,14 @@
     "url": "/currencies/x12-coin",
     "tags": [
       "Coin"
+    ]
+  },
+  "X8X Token": {
+    "name": "X8X Token",
+    "short": "X8X",
+    "url": "/currencies/x8x-token",
+    "tags": [
+      "Token"
     ]
   },
   "XDAG": {
@@ -26676,6 +26778,14 @@
     "name": "YieldWars",
     "short": "WAR",
     "url": "/currencies/yieldwars-com",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Ymen.Finance": {
+    "name": "Ymen.Finance",
+    "short": "YMEN",
+    "url": "/currencies/ymen-finance",
     "tags": [
       "Token"
     ]
