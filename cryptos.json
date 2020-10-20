@@ -16734,6 +16734,17 @@
       "Token"
     ]
   },
+  "Megacoin": {
+    "name": "Megacoin",
+    "short": "MEC",
+    "url": "/currencies/megacoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Melecoin": {
     "name": "Melecoin",
     "short": "MELE",
