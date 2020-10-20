@@ -2882,6 +2882,17 @@
       "Token"
     ]
   },
+  "Bata": {
+    "name": "Bata",
+    "short": "BTA",
+    "url": "/currencies/bata",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Baz Token": {
     "name": "Baz Token",
     "short": "BAZT",
@@ -5886,6 +5897,16 @@
       "Token"
     ]
   },
+  "ChessCoin": {
+    "name": "ChessCoin",
+    "short": "CHESS",
+    "url": "/currencies/chesscoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
+    ]
+  },
   "Chi Gastoken": {
     "name": "Chi Gastoken",
     "short": "CHI",
@@ -7079,6 +7100,17 @@
       "Token",
       "Services",
       "AI & Big Data"
+    ]
+  },
+  "Cryptojacks": {
+    "name": "Cryptojacks",
+    "short": "CJ",
+    "url": "/currencies/cryptojacks",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X13"
     ]
   },
   "Crypton": {
@@ -9793,6 +9825,14 @@
       "Token"
     ]
   },
+  "Elementeum": {
+    "name": "Elementeum",
+    "short": "ELET",
+    "url": "/currencies/elementeum",
+    "tags": [
+      "Token"
+    ]
+  },
   "Elementrem": {
     "name": "Elementrem",
     "short": "ELE",
@@ -10254,6 +10294,17 @@
       "Token"
     ]
   },
+  "Eternity": {
+    "name": "Eternity",
+    "short": "ENT",
+    "url": "/currencies/eternity",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "Ether Kingdoms Token": {
     "name": "Ether Kingdoms Token",
     "short": "IMP",
@@ -10294,6 +10345,15 @@
     "name": "EtherGem",
     "short": "EGEM",
     "url": "/currencies/ethergem",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "EtherInc": {
+    "name": "EtherInc",
+    "short": "ETI",
+    "url": "/currencies/etherinc",
     "tags": [
       "Coin",
       "Mineable"
@@ -14940,6 +15000,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Knekted": {
+    "name": "Knekted",
+    "short": "KNT",
+    "url": "/currencies/knekted",
+    "tags": [
+      "Token"
     ]
   },
   "Know Your Developer": {
@@ -21865,6 +21933,14 @@
       "Token"
     ]
   },
+  "RoBET": {
+    "name": "RoBET",
+    "short": "ROBET",
+    "url": "/currencies/robet",
+    "tags": [
+      "Token"
+    ]
+  },
   "RoboCalls": {
     "name": "RoboCalls",
     "short": "RC20",
@@ -26086,6 +26162,14 @@
     "tags": [
       "Token",
       "Medium of Exchange"
+    ]
+  },
+  "UNICORN Token": {
+    "name": "UNICORN Token",
+    "short": "UNI",
+    "url": "/currencies/unicorn-token",
+    "tags": [
+      "Token"
     ]
   },
   "UNIFI DeFi": {
