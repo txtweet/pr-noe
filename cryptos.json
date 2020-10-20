@@ -5950,6 +5950,14 @@
       "Token"
     ]
   },
+  "ChronoCoin": {
+    "name": "ChronoCoin",
+    "short": "CRN",
+    "url": "/currencies/chronocoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Chronologic": {
     "name": "Chronologic",
     "short": "DAY",
@@ -6030,6 +6038,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13"
+    ]
+  },
+  "Cloudbric": {
+    "name": "Cloudbric",
+    "short": "CLB",
+    "url": "/currencies/cloudbric",
+    "tags": [
+      "Token"
     ]
   },
   "ClubCoin": {
@@ -9174,6 +9190,16 @@
     "url": "/currencies/ebcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "ECC": {
+    "name": "ECC",
+    "short": "ECC",
+    "url": "/currencies/eccoin",
+    "tags": [
+      "Coin",
+      "PoS",
+      "Scrypt"
     ]
   },
   "ECOChain": {
@@ -15083,6 +15109,14 @@
       "Coin"
     ]
   },
+  "Krios": {
+    "name": "Krios",
+    "short": "GIG",
+    "url": "/currencies/krios",
+    "tags": [
+      "Token"
+    ]
+  },
   "Krosscoin": {
     "name": "Krosscoin",
     "short": "KSS",
@@ -17019,6 +17053,15 @@
     "url": "/currencies/meschain",
     "tags": [
       "Token"
+    ]
+  },
+  "Meta": {
+    "name": "Meta",
+    "short": "MTA",
+    "url": "/currencies/meta",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "MetaMorph": {
