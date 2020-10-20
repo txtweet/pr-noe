@@ -4882,6 +4882,14 @@
       "Token"
     ]
   },
+  "CONUN": {
+    "name": "CONUN",
+    "short": "CON",
+    "url": "/currencies/conun",
+    "tags": [
+      "Token"
+    ]
+  },
   "CORN": {
     "name": "CORN",
     "short": "CORN",
@@ -4967,6 +4975,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "CRYPTO20": {
+    "name": "CRYPTO20",
+    "short": "C20",
+    "url": "/currencies/c20",
+    "tags": [
+      "Token",
+      "Services"
     ]
   },
   "CRYPTOBUCKS": {
@@ -12833,6 +12850,15 @@
       "Token"
     ]
   },
+  "IHT Real Estate Protocol": {
+    "name": "IHT Real Estate Protocol",
+    "short": "IHT",
+    "url": "/currencies/iht-real-estate-protocol",
+    "tags": [
+      "Token",
+      "Real Estate"
+    ]
+  },
   "ILCOIN": {
     "name": "ILCOIN",
     "short": "ILC",
@@ -14728,6 +14754,14 @@
       "Token"
     ]
   },
+  "Linfinity": {
+    "name": "Linfinity",
+    "short": "LFC",
+    "url": "/currencies/linfinity",
+    "tags": [
+      "Token"
+    ]
+  },
   "LinkArt": {
     "name": "LinkArt",
     "short": "LAR",
@@ -15288,6 +15322,14 @@
     "url": "/currencies/merci",
     "tags": [
       "Coin"
+    ]
+  },
+  "MESEFA": {
+    "name": "MESEFA",
+    "short": "SEFA",
+    "url": "/currencies/mesefa",
+    "tags": [
+      "Token"
     ]
   },
   "MESG": {
@@ -16981,6 +17023,14 @@
       "Payments"
     ]
   },
+  "Narrative": {
+    "name": "Narrative",
+    "short": "NRVE",
+    "url": "/currencies/narrative",
+    "tags": [
+      "Token"
+    ]
+  },
   "Nasdacoin": {
     "name": "Nasdacoin",
     "short": "NSD",
@@ -17708,6 +17758,14 @@
     "name": "ONOToken",
     "short": "ONOT",
     "url": "/currencies/onotoken",
+    "tags": [
+      "Token"
+    ]
+  },
+  "OOOBTC TOKEN": {
+    "name": "OOOBTC TOKEN",
+    "short": "OBX",
+    "url": "/currencies/ooobtc-token",
     "tags": [
       "Token"
     ]
@@ -18454,6 +18512,16 @@
     "url": "/currencies/prasm",
     "tags": [
       "Token"
+    ]
+  },
+  "PRIZM": {
+    "name": "PRIZM",
+    "short": "PZM",
+    "url": "/currencies/prizm",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "IoT"
     ]
   },
   "PROXI": {
@@ -24128,6 +24196,14 @@
       "Token"
     ]
   },
+  "Transcodium": {
+    "name": "Transcodium",
+    "short": "TNS",
+    "url": "/currencies/transcodium",
+    "tags": [
+      "Token"
+    ]
+  },
   "TransferCoin": {
     "name": "TransferCoin",
     "short": "TX",
@@ -24505,6 +24581,15 @@
       "Token",
       "DeFi",
       "Oracles"
+    ]
+  },
+  "UNI COIN": {
+    "name": "UNI COIN",
+    "short": "UNI",
+    "url": "/currencies/uni-coin",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
     ]
   },
   "UNIFI DeFi": {
@@ -25642,6 +25727,17 @@
       "Token"
     ]
   },
+  "Voise": {
+    "name": "Voise",
+    "short": "VOISE",
+    "url": "/currencies/voisecom",
+    "tags": [
+      "Token",
+      "Media",
+      "Entertainment",
+      "Music"
+    ]
+  },
   "Volt": {
     "name": "Volt",
     "short": "ACDC",
@@ -26681,6 +26777,12 @@
       "Token"
     ]
   },
+  "YFIDOWN": {
+    "name": "YFIDOWN",
+    "short": "YFIDOWN",
+    "url": "/currencies/yfidown",
+    "tags": []
+  },
   "YFIEXCHANGE.FINANCE": {
     "name": "YFIEXCHANGE.FINANCE",
     "short": "YFIE",
@@ -26712,6 +26814,12 @@
     "tags": [
       "Token"
     ]
+  },
+  "YFIUP": {
+    "name": "YFIUP",
+    "short": "YFIUP",
+    "url": "/currencies/yfiup",
+    "tags": []
   },
   "YFIVE FINANCE": {
     "name": "YFIVE FINANCE",
