@@ -1860,6 +1860,21 @@
       "Mineable"
     ]
   },
+  "Ark": {
+    "name": "Ark",
+    "short": "ARK",
+    "url": "/currencies/ark",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Marketplace",
+      "Payments",
+      "State channels",
+      "DPoS",
+      "Platform",
+      "Marketplace"
+    ]
+  },
   "Arqma": {
     "name": "Arqma",
     "short": "ARQ",
@@ -11155,6 +11170,14 @@
       "Scrypt"
     ]
   },
+  "Free Tool Box Coin": {
+    "name": "Free Tool Box Coin",
+    "short": "FTB",
+    "url": "/currencies/free-tool-box-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Freecash": {
     "name": "Freecash",
     "short": "FCH",
@@ -11377,6 +11400,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "GIVLY Coin": {
+    "name": "GIVLY Coin",
+    "short": "GIV",
+    "url": "/currencies/givly-coin",
+    "tags": [
+      "Token"
     ]
   },
   "GLOBALTRUSTFUND TOKEN": {
@@ -15120,6 +15151,14 @@
     "name": "Level01",
     "short": "LVX",
     "url": "/currencies/level01",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LevelApp Token": {
+    "name": "LevelApp Token",
+    "short": "LVL",
+    "url": "/currencies/levelapp-token",
     "tags": [
       "Token"
     ]
@@ -19789,6 +19828,17 @@
     "tags": [
       "Token",
       "Gambling"
+    ]
+  },
+  "PlayChip": {
+    "name": "PlayChip",
+    "short": "PLA",
+    "url": "/currencies/playchip",
+    "tags": [
+      "Token",
+      "Gambling",
+      "Centralized exchange",
+      "Gaming"
     ]
   },
   "PlayFuel": {
@@ -28585,6 +28635,17 @@
     "url": "/currencies/bitceo",
     "tags": [
       "Token"
+    ]
+  },
+  "bitCNY": {
+    "name": "bitCNY",
+    "short": "BITCNY",
+    "url": "/currencies/bitcny",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "DeFi",
+      "Stablecoin"
     ]
   },
   "bitJob": {
