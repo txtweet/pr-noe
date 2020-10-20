@@ -1,3 +1,4 @@
+[object Object]
 {
   "999": {
     "name": "999",
@@ -12685,6 +12686,15 @@
       "Coin",
       "Distributed Computing",
       "IPFS"
+    ]
+  },
+  "HarmonyCoin": {
+    "name": "HarmonyCoin",
+    "short": "HMC",
+    "url": "/currencies/harmonycoin-hmc",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Harvest Finance": {
