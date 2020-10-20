@@ -24383,6 +24383,14 @@
       "Token"
     ]
   },
+  "TEMCO": {
+    "name": "TEMCO",
+    "short": "TEMCO",
+    "url": "/currencies/temco",
+    "tags": [
+      "Token"
+    ]
+  },
   "TENA": {
     "name": "TENA",
     "short": "TENA",
@@ -25849,6 +25857,17 @@
     "url": "/currencies/typerium",
     "tags": [
       "Token"
+    ]
+  },
+  "U Network": {
+    "name": "U Network",
+    "short": "UUU",
+    "url": "/currencies/u-network",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation",
+      "Smart Contracts"
     ]
   },
   "UBU": {
