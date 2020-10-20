@@ -968,6 +968,14 @@
       "Token"
     ]
   },
+  "AceD": {
+    "name": "AceD",
+    "short": "ACED",
+    "url": "/currencies/aced",
+    "tags": [
+      "Token"
+    ]
+  },
   "Aces": {
     "name": "Aces",
     "short": "ACES",
@@ -3161,6 +3169,17 @@
       "Token"
     ]
   },
+  "BiblePay": {
+    "name": "BiblePay",
+    "short": "BBP",
+    "url": "/currencies/biblepay",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Philanthropy",
+      "Payments"
+    ]
+  },
   "Bibox Token": {
     "name": "Bibox Token",
     "short": "BIX",
@@ -4150,6 +4169,14 @@
     "name": "BitherCash",
     "short": "BICAS",
     "url": "/currencies/bithercash",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bitnation": {
+    "name": "Bitnation",
+    "short": "XPAT",
+    "url": "/currencies/bitnation",
     "tags": [
       "Token"
     ]
@@ -11464,6 +11491,14 @@
       "Hardware"
     ]
   },
+  "FundRequest": {
+    "name": "FundRequest",
+    "short": "FND",
+    "url": "/currencies/fundrequest",
+    "tags": [
+      "Token"
+    ]
+  },
   "Fusion": {
     "name": "Fusion",
     "short": "FSN",
@@ -12114,6 +12149,15 @@
       "Coin"
     ]
   },
+  "GoNetwork": {
+    "name": "GoNetwork",
+    "short": "GOT",
+    "url": "/currencies/gonetwork",
+    "tags": [
+      "Token",
+      "Marketplace"
+    ]
+  },
   "GoPower": {
     "name": "GoPower",
     "short": "GPT",
@@ -12137,6 +12181,21 @@
     "url": "/currencies/goaltime-n",
     "tags": [
       "Token"
+    ]
+  },
+  "GokuMarket Credit": {
+    "name": "GokuMarket Credit",
+    "short": "GMC",
+    "url": "/currencies/gokumarket-credit",
+    "tags": [
+      "Token",
+      "E-commerce",
+      "Discount token",
+      "Marketplace",
+      "Jobs",
+      "Staking",
+      "Centralized exchange",
+      "Ethereum"
     ]
   },
   "Gold Poker": {
@@ -12925,6 +12984,17 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "HelloGold": {
+    "name": "HelloGold",
+    "short": "HGT",
+    "url": "/currencies/hellogold",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "Helper Search Token": {
@@ -14984,6 +15054,14 @@
     "name": "Kublaicoin",
     "short": "KUB",
     "url": "/currencies/kublaicoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Kuende": {
+    "name": "Kuende",
+    "short": "KUE",
+    "url": "/currencies/kuende",
     "tags": [
       "Token"
     ]
@@ -17574,6 +17652,16 @@
       "Token"
     ]
   },
+  "MyBit": {
+    "name": "MyBit",
+    "short": "MYB",
+    "url": "/currencies/mybit",
+    "tags": [
+      "Token",
+      "Asset management",
+      "IoT"
+    ]
+  },
   "MyDexPay": {
     "name": "MyDexPay",
     "short": "XMD",
@@ -18038,6 +18126,15 @@
     "url": "/currencies/neoworld-cash",
     "tags": [
       "Token"
+    ]
+  },
+  "Nerva": {
+    "name": "Nerva",
+    "short": "XNV",
+    "url": "/currencies/nerva",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "NerveNetwork": {
@@ -21542,6 +21639,14 @@
       "DeFi"
     ]
   },
+  "Rentberry": {
+    "name": "Rentberry",
+    "short": "BERRY",
+    "url": "/currencies/rentberry",
+    "tags": [
+      "Token"
+    ]
+  },
   "Request": {
     "name": "Request",
     "short": "REQ",
@@ -21614,6 +21719,14 @@
     "name": "Rewardiqa",
     "short": "REW",
     "url": "/currencies/rewardiqa",
+    "tags": [
+      "Token"
+    ]
+  },
+  "RightMesh": {
+    "name": "RightMesh",
+    "short": "RMESH",
+    "url": "/currencies/rightmesh",
     "tags": [
       "Token"
     ]
@@ -25193,6 +25306,17 @@
       "Data Provenance"
     ]
   },
+  "Ties.DB": {
+    "name": "Ties.DB",
+    "short": "TIE",
+    "url": "/currencies/tiesdb",
+    "tags": [
+      "Token",
+      "Platform",
+      "AI & Big Data",
+      "Distributed Computing"
+    ]
+  },
   "TigerCash": {
     "name": "TigerCash",
     "short": "TCH",
@@ -28422,6 +28546,14 @@
       "Token"
     ]
   },
+  "Yearn Finance Bit": {
+    "name": "Yearn Finance Bit",
+    "short": "YFBT",
+    "url": "/currencies/yearn-finance-bit",
+    "tags": [
+      "Token"
+    ]
+  },
   "Yearn Finance DOT": {
     "name": "Yearn Finance DOT",
     "short": "YFDOT",
@@ -29457,6 +29589,15 @@
     "url": "/currencies/idefi",
     "tags": [
       "Token"
+    ]
+  },
+  "iDealCash": {
+    "name": "iDealCash",
+    "short": "DEAL",
+    "url": "/currencies/idealcash",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "iETH": {
