@@ -5240,6 +5240,21 @@
       "Loyalty"
     ]
   },
+  "Cartesi": {
+    "name": "Cartesi",
+    "short": "CTSI",
+    "url": "/currencies/cartesi",
+    "tags": [
+      "Token",
+      "Smart Contracts",
+      "Staking",
+      "DApp",
+      "Ethereum",
+      "PoS",
+      "Singapore",
+      "Platform"
+    ]
+  },
   "Cash Global Coin": {
     "name": "Cash Global Coin",
     "short": "CGC",
@@ -7982,6 +7997,17 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Groestl"
+    ]
+  },
+  "Diamond Platform Token": {
+    "name": "Diamond Platform Token",
+    "short": "DPT",
+    "url": "/currencies/diamond-platform-token",
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
     ]
   },
   "Diamond Voucher": {
@@ -11630,6 +11656,15 @@
     "url": "/currencies/grafsound",
     "tags": [
       "Token"
+    ]
+  },
+  "Graft": {
+    "name": "Graft",
+    "short": "GRFT",
+    "url": "/currencies/graft",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "GramGold Coin": {
