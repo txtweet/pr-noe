@@ -4502,6 +4502,14 @@
       "Token"
     ]
   },
+  "Blur": {
+    "name": "Blur",
+    "short": "BLUR",
+    "url": "/currencies/blur",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bluzelle": {
     "name": "Bluzelle",
     "short": "BLZ",
@@ -6820,6 +6828,14 @@
       "Payments"
     ]
   },
+  "CryptoAds Marketplace": {
+    "name": "CryptoAds Marketplace",
+    "short": "CRAD",
+    "url": "/currencies/cryptoads-marketplace",
+    "tags": [
+      "Token"
+    ]
+  },
   "CryptoBharatCoin": {
     "name": "CryptoBharatCoin",
     "short": "CBC",
@@ -9103,6 +9119,16 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "ERC20": {
+    "name": "ERC20",
+    "short": "ERC20",
+    "url": "/currencies/erc20",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments"
     ]
   },
   "ESBC": {
@@ -14756,6 +14782,17 @@
       "Substrate"
     ]
   },
+  "Kurrent": {
+    "name": "Kurrent",
+    "short": "KURT",
+    "url": "/currencies/kurrent",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "X11"
+    ]
+  },
   "Kusama": {
     "name": "Kusama",
     "short": "KSM",
@@ -15137,6 +15174,15 @@
     "url": "/currencies/lendingblock",
     "tags": [
       "Token"
+    ]
+  },
+  "Lethean": {
+    "name": "Lethean",
+    "short": "LTHN",
+    "url": "/currencies/lethean",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Level Up Coin": {
@@ -16996,7 +17042,7 @@
       "Coin"
     ]
   },
-  "MoneroV ": {
+  "MoneroV": {
     "name": "MoneroV ",
     "short": "XMV",
     "url": "/currencies/monero-v",
@@ -17432,6 +17478,21 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "NKN": {
+    "name": "NKN",
+    "short": "NKN",
+    "url": "/currencies/nkn",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Platform",
+      "Enterprise solutions",
+      "Distributed Computing",
+      "IoT",
+      "Communications & Social Media",
+      "IoT"
     ]
   },
   "NNB Token": {
@@ -27836,6 +27897,16 @@
       "Token"
     ]
   },
+  "YOU COIN": {
+    "name": "YOU COIN",
+    "short": "YOU",
+    "url": "/currencies/you-coin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Content Creation"
+    ]
+  },
   "YOUengine": {
     "name": "YOUengine",
     "short": "YOUC",
@@ -29320,6 +29391,14 @@
     "url": "/currencies/xscoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "yAxis": {
+    "name": "yAxis",
+    "short": "YAX",
+    "url": "/currencies/yaxis",
+    "tags": [
+      "Token"
     ]
   },
   "yRise Finance": {
