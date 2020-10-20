@@ -67,6 +67,14 @@
       "Collectibles & NFTs"
     ]
   },
+  "12Ships": {
+    "name": "12Ships",
+    "short": "TSHP",
+    "url": "/currencies/12ships",
+    "tags": [
+      "Token"
+    ]
+  },
   "1AI Token": {
     "name": "1AI Token",
     "short": "1AI",
@@ -3472,6 +3480,14 @@
       "Token"
     ]
   },
+  "Biotron": {
+    "name": "Biotron",
+    "short": "BTRN",
+    "url": "/currencies/biotron",
+    "tags": [
+      "Token"
+    ]
+  },
   "Birake": {
     "name": "Birake",
     "short": "BIR",
@@ -4926,6 +4942,14 @@
     "name": "Bone",
     "short": "BONE",
     "url": "/currencies/bone",
+    "tags": [
+      "Token"
+    ]
+  },
+  "BonezYard": {
+    "name": "BonezYard",
+    "short": "BNZ",
+    "url": "/currencies/bonezyard",
     "tags": [
       "Token"
     ]
@@ -9981,6 +10005,14 @@
       "Token"
     ]
   },
+  "EZOOW": {
+    "name": "EZOOW",
+    "short": "EZW",
+    "url": "/currencies/ezoow",
+    "tags": [
+      "Token"
+    ]
+  },
   "EagleX": {
     "name": "EagleX",
     "short": "EGX",
@@ -14509,6 +14541,17 @@
       "Token"
     ]
   },
+  "Ignis": {
+    "name": "Ignis",
+    "short": "IGNIS",
+    "url": "/currencies/ignis",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments",
+      "State channels"
+    ]
+  },
   "Ignition": {
     "name": "Ignition",
     "short": "IC",
@@ -15741,6 +15784,14 @@
     "name": "Kublaicoin",
     "short": "KUB",
     "url": "/currencies/kublaicoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "KuboCoin": {
+    "name": "KuboCoin",
+    "short": "KUBO",
+    "url": "/currencies/kubocoin",
     "tags": [
       "Token"
     ]
@@ -18103,6 +18154,15 @@
     "tags": [
       "Coin",
       "PoS"
+    ]
+  },
+  "Molecular Future": {
+    "name": "Molecular Future",
+    "short": "MOF",
+    "url": "/currencies/molecular-future",
+    "tags": [
+      "Token",
+      "Technology"
     ]
   },
   "Momentum": {
@@ -20725,6 +20785,14 @@
       "Token"
     ]
   },
+  "Payou Finance": {
+    "name": "Payou Finance",
+    "short": "PAYOU",
+    "url": "/currencies/payou-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "Paypex": {
     "name": "Paypex",
     "short": "PAYX",
@@ -21436,6 +21504,15 @@
     "url": "/currencies/posscoin",
     "tags": [
       "Token"
+    ]
+  },
+  "PostCoin": {
+    "name": "PostCoin",
+    "short": "POST",
+    "url": "/currencies/postcoin",
+    "tags": [
+      "Coin",
+      "PoS"
     ]
   },
   "PotCoin": {
@@ -25000,6 +25077,17 @@
       "X13",
       "Platform",
       "Enterprise solutions"
+    ]
+  },
+  "Streamit Coin": {
+    "name": "Streamit Coin",
+    "short": "STREAM",
+    "url": "/currencies/streamit-coin",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation",
+      "Video"
     ]
   },
   "Streamity": {
