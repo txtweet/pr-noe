@@ -6721,6 +6721,14 @@
       "Token"
     ]
   },
+  "Crowdholding": {
+    "name": "Crowdholding",
+    "short": "YUP",
+    "url": "/currencies/crowdholding",
+    "tags": [
+      "Token"
+    ]
+  },
   "Crown": {
     "name": "Crown",
     "short": "CRW",
@@ -8099,6 +8107,14 @@
       "Token"
     ]
   },
+  "DefiBox": {
+    "name": "DefiBox",
+    "short": "BOX",
+    "url": "/currencies/defibox",
+    "tags": [
+      "Token"
+    ]
+  },
   "Definitex": {
     "name": "Definitex",
     "short": "DFX",
@@ -8726,6 +8742,21 @@
     "url": "/currencies/doctors-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "Documentchain": {
+    "name": "Documentchain",
+    "short": "DMS",
+    "url": "/currencies/documentchain",
+    "tags": [
+      "Coin",
+      "Masternodes",
+      "Enterprise solutions",
+      "Wallet",
+      "Payments",
+      "Timestamping",
+      "PoW",
+      "Yescript"
     ]
   },
   "DogeCash": {
@@ -10284,6 +10315,14 @@
       "Token"
     ]
   },
+  "EthereumX": {
+    "name": "EthereumX",
+    "short": "ETX",
+    "url": "/currencies/ethereumx",
+    "tags": [
+      "Token"
+    ]
+  },
   "Etherisc DIP Token": {
     "name": "Etherisc DIP Token",
     "short": "DIP",
@@ -11039,6 +11078,17 @@
       "Media",
       "Loyalty",
       "Gaming"
+    ]
+  },
+  "FirstCoin": {
+    "name": "FirstCoin",
+    "short": "FRST",
+    "url": "/currencies/firstcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "Fiscus.fyi": {
@@ -12555,6 +12605,14 @@
       "Coin"
     ]
   },
+  "Hands of Steel": {
+    "name": "Hands of Steel",
+    "short": "STEEL",
+    "url": "/currencies/hands-of-steel",
+    "tags": [
+      "Token"
+    ]
+  },
   "Harvest Finance": {
     "name": "Harvest Finance",
     "short": "FARM",
@@ -13540,6 +13598,14 @@
     "url": "/currencies/itam-games",
     "tags": [
       "Coin"
+    ]
+  },
+  "ITEN": {
+    "name": "ITEN",
+    "short": "ITEN",
+    "url": "/currencies/iten",
+    "tags": [
+      "Token"
     ]
   },
   "IXT": {
@@ -17805,6 +17871,18 @@
       "Search Engine"
     ]
   },
+  "Nectar": {
+    "name": "Nectar",
+    "short": "NEC",
+    "url": "/currencies/nectar",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "DeFi",
+      "Payments",
+      "Smart Contracts"
+    ]
+  },
   "Nekonium": {
     "name": "Nekonium",
     "short": "NUKO",
@@ -20333,6 +20411,14 @@
       "Content Creation"
     ]
   },
+  "Prime DAI": {
+    "name": "Prime DAI",
+    "short": "pDAI",
+    "url": "/currencies/prime-dai",
+    "tags": [
+      "Token"
+    ]
+  },
   "Prime-XI": {
     "name": "Prime-XI",
     "short": "PXI",
@@ -22350,6 +22436,14 @@
       "Token"
     ]
   },
+  "Seal Network": {
+    "name": "Seal Network",
+    "short": "SEAL",
+    "url": "/currencies/seal-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "Secret": {
     "name": "Secret",
     "short": "SCRT",
@@ -24034,6 +24128,20 @@
       "Services",
       "DeFi",
       "Yield farming"
+    ]
+  },
+  "Syscoin": {
+    "name": "Syscoin",
+    "short": "SYS",
+    "url": "/currencies/syscoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "Platform",
+      "Enterprise solutions",
+      "Scaling"
     ]
   },
   "T.OS": {
@@ -27666,6 +27774,14 @@
       "Token"
     ]
   },
+  "Xriba": {
+    "name": "Xriba",
+    "short": "XRA",
+    "url": "/currencies/xriba",
+    "tags": [
+      "Token"
+    ]
+  },
   "Xrpalike Gene": {
     "name": "Xrpalike Gene",
     "short": "XAG",
@@ -29183,6 +29299,15 @@
     "url": "/currencies/junca-cash",
     "tags": [
       "Token"
+    ]
+  },
+  "mStable USD": {
+    "name": "mStable USD",
+    "short": "MUSD",
+    "url": "/currencies/mstable-usd",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "nDEX": {
