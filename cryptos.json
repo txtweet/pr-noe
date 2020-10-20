@@ -3420,6 +3420,14 @@
       "Token"
     ]
   },
+  "Bit Trust System": {
+    "name": "Bit Trust System",
+    "short": "BIUT",
+    "url": "/currencies/bit-trust-system",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Bit World Token": {
     "name": "Bit World Token",
     "short": "BWB",
@@ -5812,6 +5820,14 @@
       "Substrate"
     ]
   },
+  "Celeum": {
+    "name": "Celeum",
+    "short": "CLX",
+    "url": "/currencies/celeum",
+    "tags": [
+      "Token"
+    ]
+  },
   "Celo": {
     "name": "Celo",
     "short": "CELO",
@@ -5943,6 +5959,15 @@
     "url": "/currencies/chartex",
     "tags": [
       "Token"
+    ]
+  },
+  "Cheesecoin": {
+    "name": "Cheesecoin",
+    "short": "CHEESE",
+    "url": "/currencies/cheesecoin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Cherry Token": {
@@ -7312,6 +7337,16 @@
     "url": "/currencies/curio",
     "tags": [
       "Token"
+    ]
+  },
+  "Curve DAO Token": {
+    "name": "Curve DAO Token",
+    "short": "CRV",
+    "url": "/currencies/curve-dao-token",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming"
     ]
   },
   "Custody Token": {
@@ -10263,6 +10298,15 @@
       "Token"
     ]
   },
+  "Epic Cash": {
+    "name": "Epic Cash",
+    "short": "EPIC",
+    "url": "/currencies/epic-cash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Equal": {
     "name": "Equal",
     "short": "EQL",
@@ -10313,6 +10357,16 @@
     "url": "/currencies/eristica",
     "tags": [
       "Token"
+    ]
+  },
+  "Eroscoin": {
+    "name": "Eroscoin",
+    "short": "ERO",
+    "url": "/currencies/eroscoin",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments"
     ]
   },
   "Escroco Emerald": {
@@ -16228,6 +16282,17 @@
       "Token"
     ]
   },
+  "Lykke": {
+    "name": "Lykke",
+    "short": "LKK",
+    "url": "/currencies/lykke",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "Centralized exchange",
+      "Payments"
+    ]
+  },
   "Lympo": {
     "name": "Lympo",
     "short": "LYM",
@@ -19777,6 +19842,15 @@
       "Scrypt"
     ]
   },
+  "POA": {
+    "name": "POA",
+    "short": "POA",
+    "url": "/currencies/poa",
+    "tags": [
+      "Coin",
+      "Platform"
+    ]
+  },
   "POP Network Token": {
     "name": "POP Network Token",
     "short": "POP",
@@ -21116,6 +21190,15 @@
       "Ethereum"
     ]
   },
+  "Pundi X": {
+    "name": "Pundi X",
+    "short": "NPXS",
+    "url": "/currencies/pundi-x",
+    "tags": [
+      "Token",
+      "Medium of Exchange"
+    ]
+  },
   "Pundi X NEM": {
     "name": "Pundi X NEM",
     "short": "NPXSXEM",
@@ -21688,6 +21771,15 @@
     "url": "/currencies/rapids",
     "tags": [
       "Coin"
+    ]
+  },
+  "Rarible": {
+    "name": "Rarible",
+    "short": "RARI",
+    "url": "/currencies/rarible",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "Rate3": {
@@ -29680,6 +29772,15 @@
       "Token",
       "Transport",
       "Data Provenance"
+    ]
+  },
+  "dForce": {
+    "name": "dForce",
+    "short": "DF",
+    "url": "/currencies/dforce",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "dForce GOLDx": {
