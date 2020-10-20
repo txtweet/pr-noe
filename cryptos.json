@@ -4291,6 +4291,17 @@
       "Coin"
     ]
   },
+  "Blakecoin": {
+    "name": "Blakecoin",
+    "short": "BLC",
+    "url": "/currencies/blakecoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Blake"
+    ]
+  },
   "Blaze Network": {
     "name": "Blaze Network",
     "short": "BLZN",
@@ -13379,6 +13390,14 @@
     "url": "/currencies/inmax",
     "tags": [
       "Token"
+    ]
+  },
+  "INMAXCOIN": {
+    "name": "INMAXCOIN",
+    "short": "INXC",
+    "url": "/currencies/inmaxcoin",
+    "tags": [
+      "Coin"
     ]
   },
   "INO COIN": {
@@ -23767,6 +23786,14 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
+    ]
+  },
+  "SuperEdge": {
+    "name": "SuperEdge",
+    "short": "ECT",
+    "url": "/currencies/superedge",
+    "tags": [
+      "Token"
     ]
   },
   "SuperSkynet": {
