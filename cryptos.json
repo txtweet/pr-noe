@@ -2798,6 +2798,14 @@
       "Token"
     ]
   },
+  "Bananatok": {
+    "name": "Bananatok",
+    "short": "BNA",
+    "url": "/currencies/bananatok",
+    "tags": [
+      "Token"
+    ]
+  },
   "Banano": {
     "name": "Banano",
     "short": "BAN",
@@ -3392,6 +3400,14 @@
     "url": "/currencies/biocoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Bionic": {
+    "name": "Bionic",
+    "short": "BNC",
+    "url": "/currencies/bionic",
+    "tags": [
+      "Token"
     ]
   },
   "Birake": {
@@ -4499,6 +4515,14 @@
       "Enterprise solutions"
     ]
   },
+  "Block-Chain.com": {
+    "name": "Block-Chain.com",
+    "short": "BC",
+    "url": "/currencies/block-chain-com",
+    "tags": [
+      "Token"
+    ]
+  },
   "Block-Logic": {
     "name": "Block-Logic",
     "short": "BLTG",
@@ -5079,6 +5103,14 @@
     "name": "Business Credit Alliance Chain",
     "short": "BCAC",
     "url": "/currencies/business-credit-alliance-chain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Business Credit Substitute": {
+    "name": "Business Credit Substitute",
+    "short": "BCS",
+    "url": "/currencies/business-credit-substitute",
     "tags": [
       "Token"
     ]
@@ -11182,6 +11214,17 @@
     "url": "/currencies/faceter",
     "tags": [
       "Token"
+    ]
+  },
+  "Factom": {
+    "name": "Factom",
+    "short": "FCT",
+    "url": "/currencies/factom",
+    "tags": [
+      "Coin",
+      "Services",
+      "Enterprise solutions",
+      "Data Provenance"
     ]
   },
   "FairGame": {
@@ -17759,6 +17802,14 @@
     ]
   },
   "MoneroV": {
+    "name": "MoneroV ",
+    "short": "XMV",
+    "url": "/currencies/monero-v",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "MoneroV ": {
     "name": "MoneroV ",
     "short": "XMV",
     "url": "/currencies/monero-v",
@@ -25639,6 +25690,22 @@
       "Japan"
     ]
   },
+  "The global index chain": {
+    "name": "The global index chain",
+    "short": "TGIC",
+    "url": "/currencies/the-global-index-chain",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Themis": {
+    "name": "Themis",
+    "short": "GET",
+    "url": "/currencies/themis",
+    "tags": [
+      "Token"
+    ]
+  },
   "Theresa May Coin": {
     "name": "Theresa May Coin",
     "short": "MAY",
@@ -26017,6 +26084,14 @@
       "Platform",
       "DeFi",
       "Decentralized exchange"
+    ]
+  },
+  "TopChain": {
+    "name": "TopChain",
+    "short": "TOPC",
+    "url": "/currencies/topchain",
+    "tags": [
+      "Token"
     ]
   },
   "TopCoinFX": {
@@ -26893,6 +26968,14 @@
     "name": "Union Fair Coin",
     "short": "UFC",
     "url": "/currencies/union-fair-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Unipump": {
+    "name": "Unipump",
+    "short": "UPP",
+    "url": "/currencies/unipump",
     "tags": [
       "Token"
     ]
