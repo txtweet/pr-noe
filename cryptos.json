@@ -379,6 +379,14 @@
       "Token"
     ]
   },
+  "3X Short Ethereum Token": {
+    "name": "3X Short Ethereum Token",
+    "short": "ETHBEAR",
+    "url": "/currencies/3x-short-ethereum-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "3X Short Matic Token": {
     "name": "3X Short Matic Token",
     "short": "MATICBEAR",
@@ -26008,6 +26016,14 @@
       "Token"
     ]
   },
+  "TriipMiles": {
+    "name": "TriipMiles",
+    "short": "TIIM",
+    "url": "/currencies/triipmiles",
+    "tags": [
+      "Token"
+    ]
+  },
   "Trinity Network Credit": {
     "name": "Trinity Network Credit",
     "short": "TNC",
@@ -26949,6 +26965,16 @@
       "Token"
     ]
   },
+  "VIBE": {
+    "name": "VIBE",
+    "short": "VIBE",
+    "url": "/currencies/vibe",
+    "tags": [
+      "Token",
+      "VR/AR",
+      "Gaming"
+    ]
+  },
   "VIDT Datalink": {
     "name": "VIDT Datalink",
     "short": "VIDT",
@@ -27321,6 +27347,14 @@
       "Medium of Exchange",
       "Privacy",
       "Payments"
+    ]
+  },
+  "VerusCoin": {
+    "name": "VerusCoin",
+    "short": "VRSC",
+    "url": "/currencies/veruscoin",
+    "tags": [
+      "Coin"
     ]
   },
   "VestChain": {
