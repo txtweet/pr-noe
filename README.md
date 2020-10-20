@@ -16,4 +16,6 @@ Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
 
 
 ## Forkdrop : https://www.forkdrop.io/json/index.json
-
+Charger et sauver le fichier dans forkdropio.json
+Ajout d'un script d'injection des données de forkdrop dans cryptos.json
+`coffee insertForksInCryptos.coffee`

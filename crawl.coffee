@@ -3,6 +3,9 @@ cheerio = require 'cheerio'
 
 # Choisir la page d'indexation de coinmarketcap
 page = Math.floor(Math.random() * 37) + 1
+while page in [7, 8, 16, 31, 36]
+  page = Math.floor(Math.random() * 37) + 1
+
 # page = 8
 request = require('request-promise').defaults
   url: 'https://coinmarketcap.com/'+page
