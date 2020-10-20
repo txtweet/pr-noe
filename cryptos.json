@@ -3392,6 +3392,15 @@
       "Asset management"
     ]
   },
+  "BitCash": {
+    "name": "BitCash",
+    "short": "BITC",
+    "url": "/currencies/bitcash",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BitCherry": {
     "name": "BitCherry",
     "short": "BCHC",
@@ -11287,6 +11296,16 @@
       "Token"
     ]
   },
+  "Fortuna": {
+    "name": "Fortuna",
+    "short": "FOTA",
+    "url": "/currencies/fortuna",
+    "tags": [
+      "Token",
+      "Platform",
+      "Payments"
+    ]
+  },
   "Fountain": {
     "name": "Fountain",
     "short": "FTN",
@@ -16414,6 +16433,16 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
+    ]
+  },
+  "MargiX": {
+    "name": "MargiX",
+    "short": "MGX",
+    "url": "/currencies/margix",
+    "tags": [
+      "Token",
+      "DeFi",
+      "DApp"
     ]
   },
   "Markaccy": {
@@ -25729,6 +25758,14 @@
     "name": "Two Prime FF1 Token",
     "short": "FF1",
     "url": "/currencies/two-prime-ff1-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Typerium": {
+    "name": "Typerium",
+    "short": "TYPE",
+    "url": "/currencies/typerium",
     "tags": [
       "Token"
     ]
