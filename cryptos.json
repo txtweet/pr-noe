@@ -3305,6 +3305,15 @@
       "Coin"
     ]
   },
+  "Birake": {
+    "name": "Birake",
+    "short": "BIR",
+    "url": "/currencies/birake",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Birdchain": {
     "name": "Birdchain",
     "short": "BIRD",
@@ -28749,6 +28758,17 @@
     "url": "/currencies/zeedex",
     "tags": [
       "Token"
+    ]
+  },
+  "Zeepin": {
+    "name": "Zeepin",
+    "short": "ZPT",
+    "url": "/currencies/zeepin",
+    "tags": [
+      "Coin",
+      "Media",
+      "Content Creation",
+      "Data Provenance"
     ]
   },
   "Zeitcoin": {
