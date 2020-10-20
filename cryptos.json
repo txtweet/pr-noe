@@ -7525,6 +7525,15 @@
       "Token"
     ]
   },
+  "DODO": {
+    "name": "DODO",
+    "short": "DODO",
+    "url": "/currencies/dodo",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "DOGEFI": {
     "name": "DOGEFI",
     "short": "DOGEFI",
@@ -21708,6 +21717,14 @@
       "IoT"
     ]
   },
+  "Rug": {
+    "name": "Rug",
+    "short": "RUG",
+    "url": "/currencies/rug",
+    "tags": [
+      "Token"
+    ]
+  },
   "Rupaya": {
     "name": "Rupaya",
     "short": "RUPX",
@@ -27148,6 +27165,15 @@
       "Token"
     ]
   },
+  "Walnut.finance": {
+    "name": "Walnut.finance",
+    "short": "WTF",
+    "url": "/currencies/walnut-finance",
+    "tags": [
+      "Token",
+      "Yield farming"
+    ]
+  },
   "Waltonchain": {
     "name": "Waltonchain",
     "short": "WTC",
@@ -27381,6 +27407,14 @@
     "name": "WinStars.live",
     "short": "WNL",
     "url": "/currencies/winstars-live",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Winco": {
+    "name": "Winco",
+    "short": "WCO",
+    "url": "/currencies/winco",
     "tags": [
       "Token"
     ]
