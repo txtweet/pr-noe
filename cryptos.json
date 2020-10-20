@@ -658,6 +658,14 @@
       "Token"
     ]
   },
+  "AGA Token": {
+    "name": "AGA Token",
+    "short": "AGA",
+    "url": "/currencies/aga",
+    "tags": [
+      "Token"
+    ]
+  },
   "AI Crypto": {
     "name": "AI Crypto",
     "short": "AIC",
@@ -3362,6 +3370,14 @@
       "Binance Chain"
     ]
   },
+  "Bincentive": {
+    "name": "Bincentive",
+    "short": "BCNT",
+    "url": "/currencies/bincentive",
+    "tags": [
+      "Token"
+    ]
+  },
   "Bintex Futures": {
     "name": "Bintex Futures",
     "short": "BNTX",
@@ -4086,6 +4102,15 @@
       "Mineable"
     ]
   },
+  "Bitcoin Zero": {
+    "name": "Bitcoin Zero",
+    "short": "BZX",
+    "url": "/currencies/bitcoin-zero",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "BitcoinHD": {
     "name": "BitcoinHD",
     "short": "BHD",
@@ -4498,6 +4523,14 @@
       "Token"
     ]
   },
+  "BlockNoteX": {
+    "name": "BlockNoteX",
+    "short": "BNOX",
+    "url": "/currencies/blocknotex",
+    "tags": [
+      "Token"
+    ]
+  },
   "BlockStamp": {
     "name": "BlockStamp",
     "short": "BST",
@@ -4535,6 +4568,14 @@
     "name": "Blockchain Quotations Index Token",
     "short": "BQT",
     "url": "/currencies/blockchain-quotations-index-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Blocklancer": {
+    "name": "Blocklancer",
+    "short": "LNC",
+    "url": "/currencies/blocklancer",
     "tags": [
       "Token"
     ]
@@ -5878,6 +5919,17 @@
       "Token"
     ]
   },
+  "Centurion": {
+    "name": "Centurion",
+    "short": "CNT",
+    "url": "/currencies/centurion",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "Chad Link Set": {
     "name": "Chad Link Set",
     "short": "CHADLINK",
@@ -5961,6 +6013,14 @@
       "Token"
     ]
   },
+  "ChatCoin": {
+    "name": "ChatCoin",
+    "short": "CHAT",
+    "url": "/currencies/chatcoin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Cheesecoin": {
     "name": "Cheesecoin",
     "short": "CHEESE",
@@ -6037,6 +6097,20 @@
     "url": "/currencies/chromia",
     "tags": [
       "Token"
+    ]
+  },
+  "Chrono.tech": {
+    "name": "Chrono.tech",
+    "short": "TIME",
+    "url": "/currencies/chrono-tech",
+    "tags": [
+      "Token",
+      "Australia",
+      "Ethereum",
+      "Jobs",
+      "Marketplace",
+      "Jobs",
+      "Marketplace"
     ]
   },
   "ChronoCoin": {
@@ -6230,6 +6304,16 @@
     "url": "/currencies/coin-lion",
     "tags": [
       "Token"
+    ]
+  },
+  "Coin2.1": {
+    "name": "Coin2.1",
+    "short": "C2",
+    "url": "/currencies/coin2-1",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "CoinDeal Token": {
@@ -10782,6 +10866,14 @@
     "name": "EveryCoin ",
     "short": "EVY",
     "url": "/currencies/everycoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ExNetwork Token": {
+    "name": "ExNetwork Token",
+    "short": "EXNT",
+    "url": "/currencies/exnetwork-token",
     "tags": [
       "Token"
     ]
@@ -21145,6 +21237,14 @@
       "Token"
     ]
   },
+  "Provoco Token": {
+    "name": "Provoco Token",
+    "short": "VOCO",
+    "url": "/currencies/provoco-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Proxeus": {
     "name": "Proxeus",
     "short": "XES",
@@ -21925,6 +22025,15 @@
       "Gaming"
     ]
   },
+  "Regalcoin": {
+    "name": "Regalcoin",
+    "short": "REC",
+    "url": "/currencies/regalcoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Release Project": {
     "name": "Release Project",
     "short": "REL",
@@ -22621,6 +22730,14 @@
     "name": "SRCOIN",
     "short": "SRCOIN",
     "url": "/currencies/srcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SSS Finance": {
+    "name": "SSS Finance",
+    "short": "SSS",
+    "url": "/currencies/sss-finance",
     "tags": [
       "Token"
     ]
@@ -24769,6 +24886,16 @@
       "Token"
     ]
   },
+  "Synergy": {
+    "name": "Synergy",
+    "short": "SNRG",
+    "url": "/currencies/synergy",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "Synthetix Network Token": {
     "name": "Synthetix Network Token",
     "short": "SNX",
@@ -26375,6 +26502,21 @@
       "Coin"
     ]
   },
+  "UCROWDME": {
+    "name": "UCROWDME",
+    "short": "UCM",
+    "url": "/currencies/ucrowdme",
+    "tags": [
+      "Coin",
+      "Technology",
+      "Platform",
+      "AI & Big Data",
+      "Ethereum",
+      "Australia",
+      "United Kingdom",
+      "United States of America"
+    ]
+  },
   "UCX FOUNDATION": {
     "name": "UCX FOUNDATION",
     "short": "UCX",
@@ -26912,6 +27054,14 @@
     "name": "Unochain",
     "short": "UNOC",
     "url": "/currencies/unochain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "UpBots": {
+    "name": "UpBots",
+    "short": "UBXT",
+    "url": "/currencies/upbots",
     "tags": [
       "Token"
     ]
@@ -28194,6 +28344,14 @@
     "name": "Wolfs Group",
     "short": "WLF",
     "url": "/currencies/wolfs-group",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Work Force Coin": {
+    "name": "Work Force Coin",
+    "short": "WFC",
+    "url": "/currencies/work-force-coin",
     "tags": [
       "Token"
     ]
