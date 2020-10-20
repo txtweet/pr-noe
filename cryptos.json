@@ -3910,8 +3910,13 @@
     "url": "/currencies/bitcoin-atom",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "505888",
+      "date": "2018-01-24"
+    }
   },
   "Bitcoin BEP2": {
     "name": "Bitcoin BEP2",
@@ -3940,8 +3945,13 @@
       "Mineable",
       "Marketplace",
       "Enterprise solutions",
-      "Binance Chain"
-    ]
+      "Binance Chain",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "478558",
+      "date": "2017-08-01"
+    }
   },
   "Bitcoin Classic": {
     "name": "Bitcoin Classic",
@@ -3967,8 +3977,13 @@
       "Coin",
       "Mineable",
       "Medium of Exchange",
-      "Payments"
-    ]
+      "Payments",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "495866",
+      "date": "2017-11-24"
+    }
   },
   "Bitcoin Fast": {
     "name": "Bitcoin Fast",
@@ -3999,8 +4014,13 @@
     "short": "GOD",
     "url": "/currencies/bitcoin-god",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "501225",
+      "date": "2017-12-27"
+    }
   },
   "Bitcoin Gold": {
     "name": "Bitcoin Gold",
@@ -4010,8 +4030,13 @@
       "Coin",
       "Mineable",
       "Medium of Exchange",
-      "Payments"
-    ]
+      "Payments",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "491407",
+      "date": "2017-10-24"
+    }
   },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
@@ -4028,8 +4053,13 @@
     "url": "/currencies/bitcoin-interest",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "505083",
+      "date": "2018-01-20"
+    }
   },
   "Bitcoin Plus": {
     "name": "Bitcoin Plus",
@@ -4083,8 +4113,13 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Medium of Exchange"
-    ]
+      "Medium of Exchange",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "478558",
+      "date": "2017-08-01"
+    }
   },
   "Bitcoin Token": {
     "name": "Bitcoin Token",
@@ -4176,8 +4211,13 @@
     "url": "/currencies/bitcoinx",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "498888",
+      "date": "2017-12-12"
+    }
   },
   "BitcoinZ": {
     "name": "BitcoinZ",
@@ -4202,8 +4242,13 @@
     "url": "/currencies/bitcore",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "492820",
+      "date": "2017-11-02"
+    }
   },
   "Bitcurate": {
     "name": "Bitcurate",
@@ -5583,8 +5628,14 @@
       "PoW",
       "Cybersecurity",
       "DeFi",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "5500000",
+      "date": "2018-03-04",
+      "forked_from": "Ethereum Classic"
+    }
   },
   "CaluraCoin": {
     "name": "CaluraCoin",
@@ -6214,8 +6265,13 @@
     "tags": [
       "Coin",
       "PoW",
-      "Medium of Exchange"
-    ]
+      "Medium of Exchange",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "300377",
+      "date": "2014-05-12"
+    }
   },
   "ClearPoll": {
     "name": "ClearPoll",
@@ -10579,8 +10635,14 @@
     "url": "/currencies/ether-zero",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "4936270",
+      "date": "2018-01-20",
+      "forked_from": "Ethereum"
+    }
   },
   "Ether-1": {
     "name": "Ether-1",
@@ -10616,8 +10678,14 @@
     "url": "/currencies/etherinc",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "5078585",
+      "date": "2018-02-12",
+      "forked_from": "Ethereum"
+    }
   },
   "EtherSportz": {
     "name": "EtherSportz",
@@ -10660,8 +10728,14 @@
       "PoW",
       "Ethash",
       "Platform",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "1920000",
+      "date": "2016-07-20",
+      "forked_from": "Ethereum"
+    }
   },
   "Ethereum Gold": {
     "name": "Ethereum Gold",
@@ -10670,8 +10744,14 @@
     "tags": [
       "Token",
       "Medium of Exchange",
-      "Payments"
-    ]
+      "Payments",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "4730666",
+      "date": "2017-12-15",
+      "forked_from": "Ethereum"
+    }
   },
   "Ethereum Gold Project": {
     "name": "Ethereum Gold Project",
@@ -16140,8 +16220,14 @@
       "PoW",
       "SHA-256",
       "Medium of Exchange",
-      "Payments"
-    ]
+      "Payments",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "1371111",
+      "date": "2018-02-18",
+      "forked_from": "Litecoin"
+    }
   },
   "Litecoin Plus": {
     "name": "Litecoin Plus",
@@ -17472,8 +17558,13 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Medium of Exchange"
-    ]
+      "Medium of Exchange",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "525000",
+      "date": "2018-05-28"
+    }
   },
   "MicroMoney": {
     "name": "MicroMoney",
@@ -17798,16 +17889,28 @@
     "short": "XMC",
     "url": "/currencies/monero-classic",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "1546000",
+      "date": "2018-04-06",
+      "forked_from": "Monero"
+    }
   },
   "MoneroV": {
     "name": "MoneroV ",
     "short": "XMV",
     "url": "/currencies/monero-v",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "1564965",
+      "date": "2018-04-30",
+      "forked_from": "Monero"
+    }
   },
   "MoneroV ": {
     "name": "MoneroV ",
@@ -19540,8 +19643,14 @@
       "Marketplace",
       "Enterprise solutions",
       "Identity",
-      "Binance Chain"
-    ]
+      "Binance Chain",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "1974823",
+      "date": "2018-03-01",
+      "forked_from": "NEO"
+    }
   },
   "Ontology Gas": {
     "name": "Ontology Gas",
@@ -22948,8 +23057,14 @@
     "tags": [
       "Coin",
       "Medium of Exchange",
-      "Masternodes"
-    ]
+      "Masternodes",
+      "forked_altcoin"
+    ],
+    "forked_data": {
+      "block": "807085",
+      "date": "2018-01-20",
+      "forked_from": "Dash"
+    }
   },
   "SafeCapital": {
     "name": "SafeCapital",
@@ -24670,8 +24785,13 @@
     "url": "/currencies/super-bitcoin",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "498888",
+      "date": "2017-12-12"
+    }
   },
   "Super Running Coin": {
     "name": "Super Running Coin",
@@ -27021,8 +27141,13 @@
     "url": "/currencies/united-bitcoin",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "forked_bitcoin"
+    ],
+    "forked_data": {
+      "block": "N/A",
+      "date": "N/A"
+    }
   },
   "United Traders Token": {
     "name": "United Traders Token",
