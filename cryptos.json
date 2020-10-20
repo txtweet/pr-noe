@@ -1219,6 +1219,14 @@
       "Payments"
     ]
   },
+  "Agrocoin": {
+    "name": "Agrocoin",
+    "short": "AGRO",
+    "url": "/currencies/agrocoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Agrolot": {
     "name": "Agrolot",
     "short": "AGLT",
@@ -4110,6 +4118,15 @@
     "url": "/currencies/bitcoinus",
     "tags": [
       "Token"
+    ]
+  },
+  "Bitcore": {
+    "name": "Bitcore",
+    "short": "BTX",
+    "url": "/currencies/bitcore",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Bitcurate": {
@@ -22385,6 +22402,18 @@
     "url": "/currencies/sonder",
     "tags": [
       "Token"
+    ]
+  },
+  "SONM": {
+    "name": "SONM",
+    "short": "SNM",
+    "url": "/currencies/sonm",
+    "tags": [
+      "Token",
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "Payments"
     ]
   },
   "SONO": {
