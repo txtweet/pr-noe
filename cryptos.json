@@ -1729,6 +1729,14 @@
       "DApp"
     ]
   },
+  "Apple Network": {
+    "name": "Apple Network",
+    "short": "ANK",
+    "url": "/currencies/apple-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "AquariusCoin": {
     "name": "AquariusCoin",
     "short": "ARCO",
@@ -2366,6 +2374,15 @@
     "url": "/currencies/bkex-token",
     "tags": [
       "Token"
+    ]
+  },
+  "BLAST": {
+    "name": "BLAST",
+    "short": "BLAST",
+    "url": "/currencies/blast",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "BLOC.MONEY": {
@@ -18515,6 +18532,14 @@
       "Token"
     ]
   },
+  "Oath Protocol": {
+    "name": "Oath Protocol",
+    "short": "OATH",
+    "url": "/currencies/oath-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "Obee Network": {
     "name": "Obee Network",
     "short": "OBEE",
@@ -20951,12 +20976,28 @@
       "Mineable"
     ]
   },
+  "ROMToken": {
+    "name": "ROMToken",
+    "short": "ROM",
+    "url": "/currencies/romtoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "ROONEX": {
     "name": "ROONEX",
     "short": "RNX",
     "url": "/currencies/roonex",
     "tags": [
       "Token"
+    ]
+  },
+  "ROS Coin": {
+    "name": "ROS Coin",
+    "short": "ROS",
+    "url": "/currencies/ros-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "RPICoin": {
@@ -29411,6 +29452,14 @@
     "name": "xBTC",
     "short": "xBTC",
     "url": "/currencies/xbtc",
+    "tags": [
+      "Token"
+    ]
+  },
+  "xCrypt Token": {
+    "name": "xCrypt Token",
+    "short": "XCT",
+    "url": "/currencies/xcrypt-token",
     "tags": [
       "Token"
     ]
