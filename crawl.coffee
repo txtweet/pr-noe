@@ -26,10 +26,13 @@ request()
 
   i = 0
   testCrypto = cryptos.slice(i, 2)
-  while sauve[testCrypto[0].name]? # Si le premier est connu alors on saute
-    testCrypto = cryptos.slice(++i, i+3)
+  if testCrypto[0]?
+    while sauve[testCrypto[0].name]? # Si le premier est connu alors on saute
+      unless testCrypto[0]?
+        break;
+      testCrypto = cryptos.slice(++i, i+3)
 
-  if testCrypto[0].url?
+  if testCrypto[0]?
     Promise.each testCrypto, (crypto) ->
     # Promise.each (cryptos).slice(1, 3), (crypto) ->
       unless sauve[crypto.name]?

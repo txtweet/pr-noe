@@ -1,6 +1,6 @@
 # pr-noe
+## Coinmarket : http://www.coinmarketcap.com
 npm install coffee bluebird cheerio request request-promise lodash
-
 
 Le script charge le fichier cryptos.json
 
@@ -13,3 +13,7 @@ Le script charge le fichier cryptos.json
 Un script shell : `lance.sh` automatise l'appel au crawler.
 
 Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
+
+
+## Forkdrop : https://www.forkdrop.io/json/index.json
+
