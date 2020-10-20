@@ -611,6 +611,14 @@
       "Marketing"
     ]
   },
+  "ADADOWN": {
+    "name": "ADADOWN",
+    "short": "ADADOWN",
+    "url": "/currencies/adadown",
+    "tags": [
+      "Coin"
+    ]
+  },
   "ADAMANT Messenger": {
     "name": "ADAMANT Messenger",
     "short": "ADM",
@@ -10558,6 +10566,14 @@
       "Token"
     ]
   },
+  "ExtStock Token": {
+    "name": "ExtStock Token",
+    "short": "XT",
+    "url": "/currencies/extstock-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "EzyStayz": {
     "name": "EzyStayz",
     "short": "EZY",
@@ -12611,6 +12627,16 @@
     "url": "/currencies/hands-of-steel",
     "tags": [
       "Token"
+    ]
+  },
+  "Handshake ": {
+    "name": "Handshake ",
+    "short": "HNS",
+    "url": "/currencies/handshake",
+    "tags": [
+      "Coin",
+      "Distributed Computing",
+      "IPFS"
     ]
   },
   "Harvest Finance": {
@@ -19362,6 +19388,14 @@
     "name": "PUBLISH",
     "short": "NEWS",
     "url": "/currencies/publish",
+    "tags": [
+      "Token"
+    ]
+  },
+  "PUBLYTO Token": {
+    "name": "PUBLYTO Token",
+    "short": "PUB",
+    "url": "/currencies/publyto-token",
     "tags": [
       "Token"
     ]
