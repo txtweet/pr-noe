@@ -13373,6 +13373,14 @@
       "State channels"
     ]
   },
+  "HyperDAO": {
+    "name": "HyperDAO",
+    "short": "HDAO",
+    "url": "/currencies/hyperdao",
+    "tags": [
+      "Token"
+    ]
+  },
   "HyperQuant": {
     "name": "HyperQuant",
     "short": "HQT",
@@ -18075,6 +18083,15 @@
       "Staking"
     ]
   },
+  "Netko": {
+    "name": "Netko",
+    "short": "NETKO",
+    "url": "/currencies/netko",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Netrum": {
     "name": "Netrum",
     "short": "NTR",
@@ -18903,6 +18920,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "One DEX": {
+    "name": "One DEX",
+    "short": "ODEX",
+    "url": "/currencies/one-dex",
+    "tags": [
+      "Token"
     ]
   },
   "OneLedger": {
@@ -21379,6 +21404,16 @@
     "tags": [
       "Token",
       "Manufacturing"
+    ]
+  },
+  "RealTract": {
+    "name": "RealTract",
+    "short": "RET",
+    "url": "/currencies/realtract",
+    "tags": [
+      "Token",
+      "Platform",
+      "Smart Contracts"
     ]
   },
   "Realio Network": {
@@ -25266,6 +25301,15 @@
     "url": "/currencies/tokenbacon",
     "tags": [
       "Token"
+    ]
+  },
+  "TokenClub": {
+    "name": "TokenClub",
+    "short": "TCT",
+    "url": "/currencies/tokenclub",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "TokenDesk": {
