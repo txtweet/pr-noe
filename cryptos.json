@@ -1793,6 +1793,17 @@
       "Scrypt"
     ]
   },
+  "Aricoin": {
+    "name": "Aricoin",
+    "short": "ARI",
+    "url": "/currencies/aricoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "Arion": {
     "name": "Arion",
     "short": "ARION",
@@ -5132,6 +5143,15 @@
     "url": "/currencies/caixapay",
     "tags": [
       "Coin"
+    ]
+  },
+  "Cajutel": {
+    "name": "Cajutel",
+    "short": "CAJ",
+    "url": "/currencies/cajutel",
+    "tags": [
+      "Token",
+      "Platform"
     ]
   },
   "Californium": {
@@ -11693,6 +11713,14 @@
     "name": "Golden Ratio Coin",
     "short": "GOLDR",
     "url": "/currencies/golden-ratio-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Golden Ratio Token": {
+    "name": "Golden Ratio Token",
+    "short": "GRT",
+    "url": "/currencies/golden-ratio-token",
     "tags": [
       "Token"
     ]
@@ -22901,6 +22929,18 @@
       "Prediction Markets"
     ]
   },
+  "Stratis": {
+    "name": "Stratis",
+    "short": "STRAT",
+    "url": "/currencies/stratis",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X13",
+      "Platform",
+      "Enterprise solutions"
+    ]
+  },
   "Streamity": {
     "name": "Streamity",
     "short": "STM",
@@ -23798,6 +23838,17 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Terracoin": {
+    "name": "Terracoin",
+    "short": "TRC",
+    "url": "/currencies/terracoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
     ]
   },
   "Tesra": {
@@ -26176,6 +26227,19 @@
       "IoT"
     ]
   },
+  "Wanchain": {
+    "name": "Wanchain",
+    "short": "WAN",
+    "url": "/currencies/wanchain",
+    "tags": [
+      "Coin",
+      "Marketplace",
+      "Enterprise solutions",
+      "DeFi",
+      "Interoperability",
+      "DeFi"
+    ]
+  },
   "WandX": {
     "name": "WandX",
     "short": "WAND",
@@ -27556,6 +27620,18 @@
       "Medium of Exchange",
       "Zero Knowledge Proofs",
       "Binance Chain"
+    ]
+  },
+  "Zcoin": {
+    "name": "Zcoin",
+    "short": "XZC",
+    "url": "/currencies/zcoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Medium of Exchange",
+      "Privacy"
     ]
   },
   "Zealium": {
