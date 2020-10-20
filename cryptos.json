@@ -16933,6 +16933,14 @@
       "Token"
     ]
   },
+  "NerveNetwork": {
+    "name": "NerveNetwork",
+    "short": "NVT",
+    "url": "/currencies/nervenetwork",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Nervos Network": {
     "name": "Nervos Network",
     "short": "CKB",
@@ -25423,6 +25431,15 @@
     "name": "Vites",
     "short": "VITES",
     "url": "/currencies/vites",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
+  "Vivid Coin": {
+    "name": "Vivid Coin",
+    "short": "VIVID",
+    "url": "/currencies/vivid-coin",
     "tags": [
       "Coin",
       "Mineable"
