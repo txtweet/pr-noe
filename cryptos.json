@@ -11330,6 +11330,17 @@
       "Coin"
     ]
   },
+  "Freicoin": {
+    "name": "Freicoin",
+    "short": "FRC",
+    "url": "/currencies/freicoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "SHA-256"
+    ]
+  },
   "Freight Trust & Clearing Network": {
     "name": "Freight Trust & Clearing Network",
     "short": "EDI",
@@ -16982,6 +16993,15 @@
       "Coin",
       "PoS",
       "Scrypt"
+    ]
+  },
+  "MintMe.com Coin": {
+    "name": "MintMe.com Coin",
+    "short": "MINTME",
+    "url": "/currencies/mintme-com-coin",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Minter Network": {
@@ -23604,6 +23624,14 @@
       "Coin"
     ]
   },
+  "StarCurve": {
+    "name": "StarCurve",
+    "short": "XSTAR",
+    "url": "/currencies/starcurve",
+    "tags": [
+      "Token"
+    ]
+  },
   "Starbase": {
     "name": "Starbase",
     "short": "STAR",
@@ -26968,6 +26996,15 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "VouchForMe": {
+    "name": "VouchForMe",
+    "short": "IPL",
+    "url": "/currencies/insurepal",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "Voyager Token": {
