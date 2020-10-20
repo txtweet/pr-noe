@@ -1322,6 +1322,16 @@
       "Substrate"
     ]
   },
+  "Aladdin": {
+    "name": "Aladdin",
+    "short": "ADN",
+    "url": "/currencies/aladdin",
+    "tags": [
+      "Token",
+      "Platform",
+      "Content Creation"
+    ]
+  },
   "AladiEx": {
     "name": "AladiEx",
     "short": "ALA",
@@ -1661,6 +1671,16 @@
     "url": "/currencies/antiample",
     "tags": [
       "Token"
+    ]
+  },
+  "Anyswap": {
+    "name": "Anyswap",
+    "short": "ANY",
+    "url": "/currencies/anyswap",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Binance Smart Chain"
     ]
   },
   "Apex": {
@@ -4027,6 +4047,16 @@
       "Coin"
     ]
   },
+  "Bitrue Coin": {
+    "name": "Bitrue Coin",
+    "short": "BTR",
+    "url": "/currencies/bitrue-coin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Centralized exchange"
+    ]
+  },
   "Bitscoin": {
     "name": "Bitscoin",
     "short": "BTCX",
@@ -5251,6 +5281,16 @@
       "Token",
       "VR/AR",
       "Entertainment"
+    ]
+  },
+  "Capricoin+": {
+    "name": "Capricoin+",
+    "short": "CPS",
+    "url": "/currencies/capricoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "Carboncoin": {
@@ -7249,6 +7289,14 @@
       "Marketplace",
       "Entertainment",
       "Payments"
+    ]
+  },
+  "DMme": {
+    "name": "DMme",
+    "short": "DMME",
+    "url": "/currencies/dmme",
+    "tags": [
+      "Token"
     ]
   },
   "DNotes": {
@@ -10062,6 +10110,14 @@
       "SHA-256"
     ]
   },
+  "EurocoinToken": {
+    "name": "EurocoinToken",
+    "short": "ECTE",
+    "url": "/currencies/eurocoin-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Eva Cash": {
     "name": "Eva Cash",
     "short": "EVC",
@@ -11087,6 +11143,14 @@
       "Token"
     ]
   },
+  "GALAXY NETWORK": {
+    "name": "GALAXY NETWORK",
+    "short": "GNC",
+    "url": "/currencies/galaxy-network",
+    "tags": [
+      "Coin"
+    ]
+  },
   "GAMB": {
     "name": "GAMB",
     "short": "GMB",
@@ -11173,6 +11237,14 @@
     "name": "GM Holding",
     "short": "GM",
     "url": "/currencies/gm-holding",
+    "tags": [
+      "Token"
+    ]
+  },
+  "GMB": {
+    "name": "GMB",
+    "short": "GMB",
+    "url": "/currencies/gmb",
     "tags": [
       "Token"
     ]
@@ -13665,6 +13737,16 @@
       "Mineable"
     ]
   },
+  "Iungo": {
+    "name": "Iungo",
+    "short": "ING",
+    "url": "/currencies/iungo",
+    "tags": [
+      "Token",
+      "Technology",
+      "Distributed Computing"
+    ]
+  },
   "Ivy": {
     "name": "Ivy",
     "short": "IVY",
@@ -14637,6 +14719,14 @@
       "Token"
     ]
   },
+  "LOOPREX": {
+    "name": "LOOPREX",
+    "short": "LOOP",
+    "url": "/currencies/looprex",
+    "tags": [
+      "Token"
+    ]
+  },
   "LP-yCurve": {
     "name": "LP-yCurve",
     "short": "YDAI+YUSDC+YUSDT+YTUSD",
@@ -14835,6 +14925,14 @@
     "name": "Libfx",
     "short": "LIBFX",
     "url": "/currencies/libfx",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Lien": {
+    "name": "Lien",
+    "short": "LIEN",
+    "url": "/currencies/lien",
     "tags": [
       "Token"
     ]
@@ -15734,6 +15832,17 @@
     "url": "/currencies/maincoin",
     "tags": [
       "Token"
+    ]
+  },
+  "Mainframe": {
+    "name": "Mainframe",
+    "short": "MFT",
+    "url": "/currencies/mainframe",
+    "tags": [
+      "Token",
+      "Platform",
+      "Content Creation",
+      "Smart Contracts"
     ]
   },
   "Mainstream For The Underground": {
@@ -18730,6 +18839,14 @@
       "Mineable"
     ]
   },
+  "PYRO Network": {
+    "name": "PYRO Network",
+    "short": "PYRO",
+    "url": "/currencies/pyro-network",
+    "tags": [
+      "Token"
+    ]
+  },
   "PYRO Network (TRON)": {
     "name": "PYRO Network (TRON)",
     "short": "PYRO",
@@ -21291,6 +21408,14 @@
     "name": "STK Coin",
     "short": "STK",
     "url": "/currencies/stk-coin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "STONK": {
+    "name": "STONK",
+    "short": "STONK",
+    "url": "/currencies/stonk",
     "tags": [
       "Token"
     ]
@@ -25949,6 +26074,14 @@
       "Coin"
     ]
   },
+  "Vision": {
+    "name": "Vision",
+    "short": "VSN",
+    "url": "/currencies/vision",
+    "tags": [
+      "Token"
+    ]
+  },
   "Vision Network": {
     "name": "Vision Network",
     "short": "VSN",
@@ -26165,6 +26298,15 @@
     "url": "/currencies/wpp-token",
     "tags": [
       "Token"
+    ]
+  },
+  "WXCOINS": {
+    "name": "WXCOINS",
+    "short": "WXC",
+    "url": "/currencies/wxcoins",
+    "tags": [
+      "Token",
+      "Mineable"
     ]
   },
   "Wagerr": {
@@ -27187,6 +27329,14 @@
     "name": "YMAX",
     "short": "YMAX",
     "url": "/currencies/ymax",
+    "tags": [
+      "Token"
+    ]
+  },
+  "YMPL": {
+    "name": "YMPL",
+    "short": "YMPL",
+    "url": "/currencies/ympl",
     "tags": [
       "Token"
     ]
