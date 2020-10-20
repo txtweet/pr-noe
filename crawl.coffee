@@ -1,6 +1,9 @@
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
-page = Math.floor(Math.random() * 37) + 1
+
+# Choisir la page d'indexation de coinmarketcap
+# page = Math.floor(Math.random() * 37) + 1
+page = 8
 request = require('request-promise').defaults
   url: 'https://coinmarketcap.com/'+page
 _ = require 'lodash'
@@ -27,7 +30,7 @@ request()
   i = 0
   testCrypto = cryptos.slice(i, 2)
   if testCrypto[0]?
-    while sauve[testCrypto[0].name]? # Si le premier est connu alors on saute
+    while sauve[testCrypto[0]?.name]? # Si le premier est connu alors on saute
       unless testCrypto[0]?
         break;
       testCrypto = cryptos.slice(++i, i+3)
@@ -53,7 +56,7 @@ request()
         console.warn "Déjà indexée : ", crypto.name
         Promise.resolve()
   else
-    console.warns "Dernière Crypto indexée page #{page}"
+    console.warn "Dernière Crypto indexée page #{page}"
     Promise.resolve()
 .then () ->
   # # tri du tableau
