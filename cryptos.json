@@ -6631,7 +6631,15 @@
     "url": "/currencies/bitscreener-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xff2b...a7ce007"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitSend": {
     "name": "BitSend",
@@ -6663,7 +6671,15 @@
     "url": "/currencies/bitstash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x965f...4381652"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitStation": {
     "name": "BitStation",
