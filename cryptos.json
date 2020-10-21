@@ -8758,7 +8758,15 @@
     "url": "/currencies/buccaneer-v2",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd5a7...f50c855"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BuckHathCoin": {
     "name": "BuckHathCoin",
@@ -8766,7 +8774,15 @@
     "url": "/currencies/buck-hath-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9962...2def5C6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Budbo": {
     "name": "Budbo",
@@ -8774,7 +8790,15 @@
     "url": "/currencies/budbo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xccbf...01f54a2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Buggyra Coin Zero": {
     "name": "Buggyra Coin Zero",
@@ -8783,7 +8807,15 @@
     "tags": [
       "Token",
       "Transport"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd452...dfa0c64"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Building Cities Beyond Blockchain": {
     "name": "Building Cities Beyond Blockchain",
@@ -8799,7 +8831,15 @@
     "url": "/currencies/bulleon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0775...1f00279"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BunnyToken": {
     "name": "BunnyToken",
@@ -8807,7 +8847,15 @@
     "url": "/currencies/bunnytoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x755e...75b9fF4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Burency": {
     "name": "Burency",
@@ -8815,7 +8863,15 @@
     "url": "/currencies/burency",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc559...7983e6a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Burger Swap": {
     "name": "Burger Swap",
@@ -8824,7 +8880,11 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Burger money": {
     "name": "Burger money",
@@ -8835,7 +8895,15 @@
       "Ethereum",
       "Yield farming",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xeeb9...1df13a3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Burst": {
     "name": "Burst",
@@ -8853,7 +8921,15 @@
     "url": "/currencies/business-credit-alliance-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1abd...6ec61ce"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Business Credit Substitute": {
     "name": "Business Credit Substitute",
@@ -8861,7 +8937,15 @@
     "url": "/currencies/business-credit-substitute",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3127...5160fc3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Buxcoin": {
     "name": "Buxcoin",
@@ -8885,7 +8969,15 @@
     "url": "/currencies/buzzshow",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5942...ccbd45f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bytecoin": {
     "name": "Bytecoin",
