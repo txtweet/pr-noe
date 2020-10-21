@@ -161,7 +161,15 @@
     "url": "/currencies/1sg",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0f72...1292a17"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1World": {
     "name": "1World",
@@ -169,7 +177,15 @@
     "url": "/currencies/1world",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfdbc...1c22b23"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1X Short Ethereum Token": {
     "name": "1X Short Ethereum Token",
@@ -177,7 +193,15 @@
     "url": "/currencies/1x-short-ethereum-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x10e1...15a622b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1X2 COIN": {
     "name": "1X2 COIN",
@@ -197,7 +221,15 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xda41...e5a8872"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1irstcoin": {
     "name": "1irstcoin",
@@ -206,7 +238,15 @@
     "tags": [
       "Token",
       "Services"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x310c...62089cd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1x Long Bitcoin Implied Volatility Token": {
     "name": "1x Long Bitcoin Implied Volatility Token",
@@ -214,7 +254,15 @@
     "url": "/currencies/1x-long-bitcoin-implied-volatility-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8182...1d298cd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1x Short Bitcoin Token": {
     "name": "1x Short Bitcoin Token",
@@ -8110,6 +8158,16 @@
     "url": "/currencies/dfohub",
     "tags": [
       "Token"
+    ]
+  },
+  "DIA": {
+    "name": "DIA",
+    "short": "DIA",
+    "url": "/currencies/dia",
+    "tags": [
+      "Token",
+      "DeFi",
+      "Oracles"
     ]
   },
   "DIMCOIN": {
@@ -21893,6 +21951,16 @@
       "Scrypt"
     ]
   },
+  "Power Ledger": {
+    "name": "Power Ledger",
+    "short": "POWR",
+    "url": "/currencies/power-ledger",
+    "tags": [
+      "Token",
+      "Energy",
+      "Sharing Economy"
+    ]
+  },
   "PowerBalt": {
     "name": "PowerBalt",
     "short": "PWRB",
@@ -24744,6 +24812,14 @@
     "name": "Social Activity Token",
     "short": "SAT",
     "url": "/currencies/social-activity-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Social Lending Token": {
+    "name": "Social Lending Token",
+    "short": "SLT",
+    "url": "/currencies/social-lending-token",
     "tags": [
       "Token"
     ]
