@@ -3390,7 +3390,15 @@
     "tags": [
       "Token",
       "DAO"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcD62...780b184"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Arbidex": {
     "name": "Arbidex",
@@ -3398,7 +3406,15 @@
     "url": "/currencies/arbidex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9a79...20da00e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ArbitrageCT": {
     "name": "ArbitrageCT",
@@ -3406,7 +3422,15 @@
     "url": "/currencies/arbitragect",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1245...21b31d8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Arcblock": {
     "name": "Arcblock",
@@ -3416,7 +3440,15 @@
       "Token",
       "Marketplace",
       "Interoperability"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb98d...a0be986"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Arcona": {
     "name": "Arcona",
@@ -3424,7 +3456,15 @@
     "url": "/currencies/arcona",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0f71...5f052b3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ArdCoin": {
     "name": "ArdCoin",
@@ -30008,6 +30048,14 @@
     "name": "United Bull Traders",
     "short": "UNB",
     "url": "/currencies/united-bull-traders",
+    "tags": [
+      "Token"
+    ]
+  },
+  "United Token": {
+    "name": "United Token",
+    "short": "UTED",
+    "url": "/currencies/united-token",
     "tags": [
       "Token"
     ]
