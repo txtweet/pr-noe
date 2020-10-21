@@ -5086,7 +5086,15 @@
       "Token",
       "DeFi",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba10...a424e3D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bali Coin": {
     "name": "Bali Coin",
@@ -5094,7 +5102,15 @@
     "url": "/currencies/bali-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x013a...255176b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Balloon-X": {
     "name": "Balloon-X",
@@ -5102,7 +5118,15 @@
     "url": "/currencies/balloon-x",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x48fa...27999B9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bananatok": {
     "name": "Bananatok",
@@ -5110,7 +5134,15 @@
     "url": "/currencies/bananatok",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2091...14ac2b8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Banano": {
     "name": "Banano",
@@ -5126,7 +5158,15 @@
     "url": "/currencies/banca",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x998b...5acb8bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bancacy": {
     "name": "Bancacy",
@@ -5134,7 +5174,15 @@
     "url": "/currencies/bancacy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8614...619bb29"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bancor": {
     "name": "Bancor",
@@ -5146,7 +5194,15 @@
       "Decentralized exchange",
       "DeFi",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1f57...9a7ff1c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Band Protocol": {
     "name": "Band Protocol",
@@ -20486,6 +20542,14 @@
     "name": "Menlo One",
     "short": "ONE",
     "url": "/currencies/menlo-one",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Merculet": {
+    "name": "Merculet",
+    "short": "MVP",
+    "url": "/currencies/merculet",
     "tags": [
       "Token"
     ]
