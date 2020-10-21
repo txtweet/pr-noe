@@ -2310,6 +2310,17 @@
       "PoS"
     ]
   },
+  "Aventus": {
+    "name": "Aventus",
+    "short": "AVT",
+    "url": "/currencies/aventus",
+    "tags": [
+      "Token",
+      "Events",
+      "Enterprise solutions",
+      "Loyalty"
+    ]
+  },
   "Axe": {
     "name": "Axe",
     "short": "AXE",
@@ -6221,6 +6232,14 @@
       "Coin"
     ]
   },
+  "Charged Finance": {
+    "name": "Charged Finance",
+    "short": "CHARGED",
+    "url": "/currencies/charged",
+    "tags": [
+      "Token"
+    ]
+  },
   "ChartEx": {
     "name": "ChartEx",
     "short": "CHART",
@@ -6361,6 +6380,14 @@
       "Token",
       "Services",
       "AI & Big Data"
+    ]
+  },
+  "Cipher Core Token": {
+    "name": "Cipher Core Token",
+    "short": "CIPHC",
+    "url": "/currencies/cipher-core-token",
+    "tags": [
+      "Token"
     ]
   },
   "Circuits of Value": {
@@ -14224,6 +14251,14 @@
       "Token"
     ]
   },
+  "HyperExchange": {
+    "name": "HyperExchange",
+    "short": "HX",
+    "url": "/currencies/hyperexchange",
+    "tags": [
+      "Coin"
+    ]
+  },
   "HyperQuant": {
     "name": "HyperQuant",
     "short": "HQT",
@@ -14984,6 +15019,17 @@
     "url": "/currencies/internationalcryptox",
     "tags": [
       "Token"
+    ]
+  },
+  "Internet of People": {
+    "name": "Internet of People",
+    "short": "IOP",
+    "url": "/currencies/internet-of-people",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "SHA-256"
     ]
   },
   "Internxt": {
