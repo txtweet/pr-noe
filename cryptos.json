@@ -2350,7 +2350,15 @@
       "Platform",
       "AI & Big Data",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x07e3...bFB606f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Agrocoin": {
     "name": "Agrocoin",
@@ -2358,7 +2366,15 @@
     "url": "/currencies/agrocoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fd2...e7bcd6a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Agrolot": {
     "name": "Agrolot",
@@ -2366,7 +2382,15 @@
     "url": "/currencies/agrolot",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x72c9...18baadf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AiLink Token": {
     "name": "AiLink Token",
@@ -18303,6 +18327,17 @@
     "url": "/currencies/lung-protocol",
     "tags": [
       "Token"
+    ]
+  },
+  "Lunyr": {
+    "name": "Lunyr",
+    "short": "LUN",
+    "url": "/currencies/lunyr",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation",
+      "Crowdsourcing"
     ]
   },
   "Lux Bio Cell": {
