@@ -590,6 +590,14 @@
       "Token"
     ]
   },
+  "AAX Token": {
+    "name": "AAX Token",
+    "short": "AAB",
+    "url": "/currencies/aax-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "ABBC Coin": {
     "name": "ABBC Coin",
     "short": "ABBC",
@@ -10299,6 +10307,18 @@
       "Token"
     ]
   },
+  "Einsteinium": {
+    "name": "Einsteinium",
+    "short": "EMC2",
+    "url": "/currencies/einsteinium",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Technology",
+      "Crowdfunding",
+      "Research"
+    ]
+  },
   "Elamachain": {
     "name": "Elamachain",
     "short": "ELAMA",
@@ -14721,6 +14741,16 @@
     "url": "/currencies/imsmart",
     "tags": [
       "Token"
+    ]
+  },
+  "Incent": {
+    "name": "Incent",
+    "short": "INCNT",
+    "url": "/currencies/incent",
+    "tags": [
+      "Token",
+      "Platform",
+      "Loyalty"
     ]
   },
   "Independent Money System": {
@@ -21131,6 +21161,14 @@
     "name": "Percent",
     "short": "PCT",
     "url": "/currencies/percent",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Perlin": {
+    "name": "Perlin",
+    "short": "PERL",
+    "url": "/currencies/perlin",
     "tags": [
       "Token"
     ]
@@ -31262,6 +31300,15 @@
     "url": "/currencies/peos",
     "tags": [
       "Token"
+    ]
+  },
+  "pNetwork": {
+    "name": "pNetwork",
+    "short": "PNT",
+    "url": "/currencies/pnetwork",
+    "tags": [
+      "Token",
+      "DeFi"
     ]
   },
   "pTokens BTC": {
