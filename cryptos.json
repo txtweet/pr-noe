@@ -1622,7 +1622,15 @@
     "url": "/currencies/armtoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcDd0...f09ecE6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ARPA Chain": {
     "name": "ARPA Chain",
@@ -1630,7 +1638,15 @@
     "url": "/currencies/arpa-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba50...6b0b71a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ARbit": {
     "name": "ARbit",
