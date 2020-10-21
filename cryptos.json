@@ -8573,7 +8573,15 @@
       "Token",
       "Services",
       "Crowdsourcing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd2d6...4359de3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BoutsPro": {
     "name": "BoutsPro",
@@ -8581,7 +8589,15 @@
     "url": "/currencies/boutspro",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x139d...30d62e3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BowsCoin": {
     "name": "BowsCoin",
@@ -8600,7 +8616,15 @@
     "url": "/currencies/brz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4204...9be2e2b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Braziliex Token": {
     "name": "Braziliex Token",
@@ -8608,7 +8632,15 @@
     "url": "/currencies/braziliexs-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xda51...2dcdcd4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bread": {
     "name": "Bread",
@@ -8618,7 +8650,15 @@
       "Token",
       "Services",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x558e...3de9ad6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Breezecoin": {
     "name": "Breezecoin",
@@ -8626,7 +8666,15 @@
     "url": "/currencies/breezecoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x77c0...e4e7170"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BriaCoin": {
     "name": "BriaCoin",
@@ -8642,7 +8690,15 @@
     "url": "/currencies/brickblock",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4a60...7559fc9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bridge Oracle": {
     "name": "Bridge Oracle",
@@ -8650,7 +8706,11 @@
     "url": "/currencies/bridge-oracle",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Bridge Protocol": {
     "name": "Bridge Protocol",
@@ -8658,7 +8718,15 @@
     "url": "/currencies/bridge-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "bac0d1...2614971"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Brr": {
     "name": "Brr",
@@ -8666,7 +8734,15 @@
     "url": "/currencies/brr",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x49f9...c5e7196"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bubble": {
     "name": "Bubble",
