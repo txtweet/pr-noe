@@ -6343,7 +6343,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1014...b99d7b1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitCash": {
     "name": "BitCash",
@@ -6362,7 +6370,15 @@
       "Token",
       "SHA-256",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ab0...d8bee99"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitClave": {
     "name": "BitClave",
@@ -6372,7 +6388,15 @@
       "Token",
       "Platform",
       "AI & Big Data"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1234...3d51c93"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitCoal": {
     "name": "BitCoal",
@@ -6401,7 +6425,11 @@
       "Media",
       "Gaming",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "BitDegree": {
     "name": "BitDegree",
@@ -6410,7 +6438,15 @@
     "tags": [
       "Token",
       "Education"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1961...38b6dee"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitForex Token": {
     "name": "BitForex Token",
@@ -6421,7 +6457,15 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5b71...80217f5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitGreen": {
     "name": "BitGreen",
@@ -6438,7 +6482,15 @@
     "url": "/currencies/bitguild-plat",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TG37mU...n1yHztb"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "BitKAM": {
     "name": "BitKAM",
@@ -6446,7 +6498,15 @@
     "url": "/currencies/bitkam",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbdbb...c8b858e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitKan": {
     "name": "BitKan",
@@ -6456,7 +6516,15 @@
       "Token",
       "Services",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1410...20f8f4a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitMart Token": {
     "name": "BitMart Token",
@@ -6465,7 +6533,15 @@
     "tags": [
       "Token",
       "Marketplace"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x986E...BeA35d8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitMax Token": {
     "name": "BitMax Token",
@@ -6473,7 +6549,15 @@
     "url": "/currencies/bitmax-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcca0...fdf61ca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitMoney": {
     "name": "BitMoney",
@@ -6490,7 +6574,15 @@
     "url": "/currencies/bitnautic-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc45d...8d6ccd0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitNewChain": {
     "name": "BitNewChain",
@@ -6507,7 +6599,15 @@
     "url": "/currencies/bitrent",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fe7...aa52686"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitRewards": {
     "name": "BitRewards",
@@ -6515,7 +6615,15 @@
     "url": "/currencies/bitrewards",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x47da...42909c1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitScreener Token": {
     "name": "BitScreener Token",
