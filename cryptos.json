@@ -899,6 +899,22 @@
       ]
     }
   },
+  "3x Long Litecoin Token": {
+    "name": "3x Long Litecoin Token",
+    "short": "LTCBULL",
+    "url": "/currencies/3x-long-litecoin-token",
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0xDB61...a8DAad3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
+  },
   "3x Long Tezos Token": {
     "name": "3x Long Tezos Token",
     "short": "XTZBULL",
@@ -3037,7 +3053,15 @@
     "url": "/currencies/amun-ether-3x-daily-long",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x239B...45f6720"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amun Ether 3x Daily Short": {
     "name": "Amun Ether 3x Daily Short",
@@ -3045,7 +3069,15 @@
     "url": "/currencies/amun-ether-3x-daily-short",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xEF9c...F0e5c78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Anatha": {
     "name": "Anatha",
@@ -3053,7 +3085,15 @@
     "url": "/currencies/anatha",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3383...8E4bA20"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Anchor": {
     "name": "Anchor",
@@ -3061,7 +3101,15 @@
     "url": "/currencies/anchor",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5456...f57c3b5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Anchor Neural World": {
     "name": "Anchor Neural World",
@@ -3069,7 +3117,15 @@
     "url": "/currencies/anchor-neural-world",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7dbd...8af32b0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AnimalGo": {
     "name": "AnimalGo",
@@ -3077,7 +3133,15 @@
     "url": "/currencies/animalgo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4878...5DfbcD7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Animation Vision Cash": {
     "name": "Animation Vision Cash",
@@ -3086,7 +3150,15 @@
     "tags": [
       "Token",
       "Adult"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd7cd...d7c14a8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ankr": {
     "name": "Ankr",
@@ -3098,7 +3170,17 @@
       "Enterprise solutions",
       "Substrate",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ANKR-E97",
+        "0x8290...8f3edd4"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Anoncoin": {
     "name": "Anoncoin",
@@ -3116,7 +3198,15 @@
     "url": "/currencies/antiample",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf911...5851c27"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AntiscamToken": {
     "name": "AntiscamToken",
@@ -3140,6 +3230,14 @@
     "name": "Apex",
     "short": "CPX",
     "url": "/currencies/apex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Apiary Fund Coin": {
+    "name": "Apiary Fund Coin",
+    "short": "AFC",
+    "url": "/currencies/apiary-fund-coin",
     "tags": [
       "Token"
     ]
@@ -11566,6 +11664,14 @@
       "Coin"
     ]
   },
+  "EarnBet": {
+    "name": "EarnBet",
+    "short": "BET",
+    "url": "/currencies/earnbet",
+    "tags": [
+      "Token"
+    ]
+  },
   "Earneo": {
     "name": "Earneo",
     "short": "RNO",
@@ -13997,6 +14103,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Galatasaray Fan Token": {
+    "name": "Galatasaray Fan Token",
+    "short": "GAL",
+    "url": "/currencies/galatasaray-fan-token",
+    "tags": [
+      "Token"
     ]
   },
   "Galaxy Pool Coin": {
@@ -31635,6 +31749,14 @@
       "Masternodes",
       "DPoS",
       "PoS"
+    ]
+  },
+  "Xiotri": {
+    "name": "Xiotri",
+    "short": "XIOT",
+    "url": "/currencies/xiotri",
+    "tags": [
+      "Token"
     ]
   },
   "Xplosive Ethereum": {
