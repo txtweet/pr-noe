@@ -3883,7 +3883,15 @@
     "url": "/currencies/atonomi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x97ae...9d329f5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AtromG8": {
     "name": "AtromG8",
@@ -3899,7 +3907,15 @@
     "url": "/currencies/attila",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x89Fb...f14A11C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Auctus": {
     "name": "Auctus",
@@ -11707,6 +11723,14 @@
       "Token",
       "Medium of Exchange",
       "Payments"
+    ]
+  },
+  "ESAX Token": {
+    "name": "ESAX Token",
+    "short": "ESAX",
+    "url": "/currencies/esax-token",
+    "tags": [
+      "Token"
     ]
   },
   "ESBC": {
