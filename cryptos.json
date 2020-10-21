@@ -1016,6 +1016,16 @@
       "Token"
     ]
   },
+  "Abyss": {
+    "name": "Abyss",
+    "short": "ABYSS",
+    "url": "/currencies/abyss",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Collectibles & NFTs"
+    ]
+  },
   "AceD": {
     "name": "AceD",
     "short": "ACED",
@@ -11097,6 +11107,14 @@
       "Token"
     ]
   },
+  "Eureka Coin": {
+    "name": "Eureka Coin",
+    "short": "ERK",
+    "url": "/currencies/eureka-coin",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Eurocoin": {
     "name": "Eurocoin",
     "short": "EUC",
@@ -15379,6 +15397,14 @@
     "name": "KNOW",
     "short": "KNOW",
     "url": "/currencies/know",
+    "tags": [
+      "Token"
+    ]
+  },
+  "KORE Vault": {
+    "name": "KORE Vault",
+    "short": "KORE",
+    "url": "/currencies/kvaultfinance",
     "tags": [
       "Token"
     ]
@@ -26737,6 +26763,14 @@
     "name": "Tokoin",
     "short": "TOKO",
     "url": "/currencies/tokoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Tolar": {
+    "name": "Tolar",
+    "short": "TOL",
+    "url": "/currencies/tolar",
     "tags": [
       "Token"
     ]
