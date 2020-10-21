@@ -4490,7 +4490,15 @@
     "url": "/currencies/bizkey",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd28c...718ab7e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BIZZCOIN": {
     "name": "BIZZCOIN",
@@ -4498,7 +4506,15 @@
     "url": "/currencies/bizzcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7a8c...605ecfe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BKEX Token": {
     "name": "BKEX Token",
@@ -4506,7 +4522,15 @@
     "url": "/currencies/bkex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd0bd...1c3d75c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BLAST": {
     "name": "BLAST",
@@ -4531,7 +4555,15 @@
     "url": "/currencies/blockclout",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa10a...7fc0a78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BLOCKIDCOIN": {
     "name": "BLOCKIDCOIN",
@@ -4892,6 +4924,14 @@
     "name": "Banca",
     "short": "BANCA",
     "url": "/currencies/banca",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bancacy": {
+    "name": "Bancacy",
+    "short": "BNY",
+    "url": "/currencies/bancacy",
     "tags": [
       "Token"
     ]
@@ -22657,6 +22697,14 @@
     "name": "Opennity",
     "short": "OPNN",
     "url": "/currencies/opennity",
+    "tags": [
+      "Token"
+    ]
+  },
+  "OptiToken": {
+    "name": "OptiToken",
+    "short": "OPTI",
+    "url": "/currencies/optitoken",
     "tags": [
       "Token"
     ]
