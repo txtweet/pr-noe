@@ -10157,7 +10157,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5601...17e7db3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Catex Token": {
     "name": "Catex Token",
@@ -10165,7 +10173,15 @@
     "url": "/currencies/catex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6e60...f9380bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ccore": {
     "name": "Ccore",
@@ -10173,7 +10189,15 @@
     "url": "/currencies/ccore",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x679b...a18fc46"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CelCoin": {
     "name": "CelCoin",
@@ -10181,7 +10205,15 @@
     "url": "/currencies/celcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x19b5...6e8ce9e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Celer Network": {
     "name": "Celer Network",
@@ -10194,7 +10226,15 @@
       "Scaling",
       "State channels",
       "Substrate"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4f92...a81c667"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Celeum": {
     "name": "Celeum",
@@ -10202,7 +10242,15 @@
     "url": "/currencies/celeum",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9f8f...eb4706f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Celo": {
     "name": "Celo",
@@ -10218,7 +10266,11 @@
     "url": "/currencies/celo-dollar",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Celsius": {
     "name": "Celsius",
@@ -10226,7 +10278,15 @@
     "url": "/currencies/celsius",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaaae...d09d42d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Centaur": {
     "name": "Centaur",
@@ -10242,7 +10302,15 @@
     "url": "/currencies/centaure",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5301...a3e3420"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Centrality": {
     "name": "Centrality",
@@ -10252,7 +10320,15 @@
       "Token",
       "Marketplace",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1122...3855c1f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Centric Cash": {
     "name": "Centric Cash",
