@@ -7146,7 +7146,15 @@
       "Token",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6aac...9909e11"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcoin Rhodium": {
     "name": "Bitcoin Rhodium",
@@ -7196,7 +7204,15 @@
       "Discount token",
       "Smart Contracts",
       "Ethereum"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x820a...cac3705"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcoin Vault": {
     "name": "Bitcoin Vault",
@@ -7239,7 +7255,15 @@
     "url": "/currencies/bitcoinregular",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x388f...1c7c00c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitcoinSoV": {
     "name": "BitcoinSoV",
@@ -7248,7 +7272,15 @@
     "tags": [
       "Token",
       "Mineable"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2694...82c9eb1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitcoinV": {
     "name": "BitcoinV",
@@ -7288,7 +7320,15 @@
     "url": "/currencies/bitcoinus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc38f...2cb7527"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcore": {
     "name": "Bitcore",
@@ -7310,7 +7350,15 @@
     "url": "/currencies/bitcurate",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0371...3fffcca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitether": {
     "name": "Bitether",
