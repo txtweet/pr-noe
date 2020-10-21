@@ -1407,7 +1407,15 @@
     "url": "/currencies/ala",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbcc7...946279c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ALAX": {
     "name": "ALAX",
@@ -1859,7 +1867,15 @@
     "url": "/currencies/aave",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7Fc6...E2DDaE9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aavegotchi": {
     "name": "Aavegotchi",
@@ -1868,7 +1884,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3F38...2791550"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Abitshadow Token": {
     "name": "Abitshadow Token",
@@ -18561,6 +18585,14 @@
     "url": "/currencies/mallcoin",
     "tags": [
       "Token"
+    ]
+  },
+  "MalwareChain": {
+    "name": "MalwareChain",
+    "short": "MALW",
+    "url": "/currencies/malwarechain",
+    "tags": [
+      "Coin"
     ]
   },
   "Mandi Token": {
