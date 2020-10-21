@@ -1692,7 +1692,15 @@
     "url": "/currencies/asyagro",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x017b...4527b0b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ATBCoin": {
     "name": "ATBCoin",
@@ -1709,7 +1717,15 @@
     "url": "/currencies/atc-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xddaa...fc344be"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ATLANT": {
     "name": "ATLANT",
