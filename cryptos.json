@@ -5005,7 +5005,15 @@
     "url": "/currencies/baasid",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3e65...32262f8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BackPacker Coin": {
     "name": "BackPacker Coin",
@@ -5021,7 +5029,15 @@
     "url": "/currencies/baconswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x175a...cf51046"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Baer Chain": {
     "name": "Baer Chain",
