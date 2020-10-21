@@ -1734,7 +1734,15 @@
     "tags": [
       "Token",
       "Real Estate"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x78b7...7fa8a05"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ATMChain": {
     "name": "ATMChain",
@@ -1744,7 +1752,15 @@
       "Token",
       "Platform",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9B11...5d74139"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ATN": {
     "name": "ATN",
@@ -1753,7 +1769,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4617...cf22546"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ATTN": {
     "name": "ATTN",
@@ -1761,7 +1785,15 @@
     "url": "/currencies/attn",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdF3A...16EFB89"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AVCCOIN": {
     "name": "AVCCOIN",
@@ -6000,6 +6032,16 @@
     "url": "/currencies/braziliexs-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Bread": {
+    "name": "Bread",
+    "short": "BRD",
+    "url": "/currencies/bread",
+    "tags": [
+      "Token",
+      "Services",
+      "Wallet"
     ]
   },
   "Breezecoin": {
@@ -23661,6 +23703,14 @@
       "Token"
     ]
   },
+  "ROOBEE": {
+    "name": "ROOBEE",
+    "short": "ROOBEE",
+    "url": "/currencies/roobee",
+    "tags": [
+      "Token"
+    ]
+  },
   "ROONEX": {
     "name": "ROONEX",
     "short": "RNX",
@@ -23764,6 +23814,14 @@
     "url": "/currencies/rapids",
     "tags": [
       "Coin"
+    ]
+  },
+  "Rapidz": {
+    "name": "Rapidz",
+    "short": "RPZX",
+    "url": "/currencies/rapidz",
+    "tags": [
+      "Token"
     ]
   },
   "Rarible": {
