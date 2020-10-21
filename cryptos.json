@@ -2273,7 +2273,15 @@
     "url": "/currencies/afri-union-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbeea...03b5a99"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AfroDex": {
     "name": "AfroDex",
@@ -2281,7 +2289,15 @@
     "url": "/currencies/afrodex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0813...525621C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AgaveCoin": {
     "name": "AgaveCoin",
@@ -2291,7 +2307,15 @@
       "Token",
       "Commodities",
       "Discount token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8b79...ca305C4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Agora": {
     "name": "Agora",
@@ -2299,7 +2323,11 @@
     "url": "/currencies/agora",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Agoras Tokens": {
     "name": "Agoras Tokens",
@@ -2307,7 +2335,11 @@
     "url": "/currencies/agoras-tokens",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Agrello": {
     "name": "Agrello",
@@ -14885,6 +14917,14 @@
       "Mineable"
     ]
   },
+  "Healing Plus": {
+    "name": "Healing Plus",
+    "short": "HP",
+    "url": "/currencies/healing-plus",
+    "tags": [
+      "Token"
+    ]
+  },
   "Heart Number": {
     "name": "Heart Number",
     "short": "HTN",
@@ -16610,6 +16650,14 @@
       "Coin"
     ]
   },
+  "Jobchain": {
+    "name": "Jobchain",
+    "short": "JOB",
+    "url": "/currencies/jobchain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Joint Ventures": {
     "name": "Joint Ventures",
     "short": "JOINT",
@@ -17318,6 +17366,14 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
+    ]
+  },
+  "LBK": {
+    "name": "LBK",
+    "short": "LBK",
+    "url": "/currencies/lbk",
+    "tags": [
+      "Token"
     ]
   },
   "LBRY Credits": {
