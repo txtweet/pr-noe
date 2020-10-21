@@ -6963,7 +6963,15 @@
     "tags": [
       "Token",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BTCB-1DE"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Bitcoin CZ": {
     "name": "Bitcoin CZ",
@@ -7029,7 +7037,15 @@
     "url": "/currencies/bitcoin-fast",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2259...9f839bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcoin File": {
     "name": "Bitcoin File",
