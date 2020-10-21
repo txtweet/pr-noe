@@ -34,7 +34,15 @@
       "Distributed Computing",
       "Filesharing",
       "IoT"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb9ef...38f3b78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "0cash": {
     "name": "0cash",

@@ -5,10 +5,9 @@ cryptos = require './cryptos.json'
 request = require 'request-promise'
 
 crypto = _.find cryptos, (crypt) ->
+  not crypt.forked_data? and
   "Token" in crypt.tags and
-    not ("forked_altcoin" in crypt.tags or "forked_bitcoin" in crypt.tags)
-
-console.warn "Token #{JSON.stringify crypto, null, 2}"
+  not ("forked_altcoin" in crypt.tags or "forked_bitcoin" in crypt.tags)
 
 request
   url : 'https://coinmarketcap.com'+crypto.url
@@ -30,4 +29,5 @@ request
     forked_from: forked_from
 
 .then () ->
+  console.warn "Token #{JSON.stringify crypto, null, 2}"
   console.log JSON.stringify cryptos, null, 2

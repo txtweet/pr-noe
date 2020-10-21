@@ -8,6 +8,7 @@ while true; do
   echo "Token"
   coffee ./crawlTokens.coffee > tokens.json
   cp ./tokens.json cryptos.json
+
   echo "Token2"
   coffee ./crawlTokens.coffee > tokens.json
   cp ./tokens.json cryptos.json
