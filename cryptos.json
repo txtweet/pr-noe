@@ -1664,7 +1664,11 @@
     "url": "/currencies/as-roma-fan-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "ASTA": {
     "name": "ASTA",
@@ -1672,7 +1676,15 @@
     "url": "/currencies/asta",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "astacoinbank"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "ASYAGRO": {
     "name": "ASYAGRO",
@@ -15224,6 +15236,16 @@
     "url": "/currencies/hyprr",
     "tags": [
       "Token"
+    ]
+  },
+  "I/O Coin": {
+    "name": "I/O Coin",
+    "short": "IOC",
+    "url": "/currencies/iocoin",
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "X11"
     ]
   },
   "IBStoken": {
@@ -30510,6 +30532,14 @@
     "name": "Wrapped Origin Axie",
     "short": "WOA",
     "url": "/currencies/wrapped-origin-axie",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Wrapped Virgin Gen-0 CryptoKitties": {
+    "name": "Wrapped Virgin Gen-0 CryptoKitties",
+    "short": "WVG0",
+    "url": "/currencies/wrapped-virgin-gen-0-cryptokitties",
     "tags": [
       "Token"
     ]
