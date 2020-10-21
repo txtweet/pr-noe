@@ -9307,7 +9307,15 @@
     "url": "/currencies/comsa-eth",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf833...2f8465a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "COMSA [XEM]": {
     "name": "COMSA [XEM]",
@@ -9315,7 +9323,11 @@
     "url": "/currencies/comsa-xem",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CONTRACOIN": {
     "name": "CONTRACOIN",
@@ -9323,7 +9335,15 @@
     "url": "/currencies/contracoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfd6c...c271fd8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CONUN": {
     "name": "CONUN",
@@ -9331,7 +9351,15 @@
     "url": "/currencies/conun",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4Dd6...617C8fB"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CORN": {
     "name": "CORN",
@@ -9339,7 +9367,15 @@
     "url": "/currencies/corn",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TDAcEg...TZQVMM5"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "COST COIN+": {
     "name": "COST COIN+",
@@ -9347,7 +9383,15 @@
     "url": "/currencies/cost-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5f02...808Dd9b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "COTI": {
     "name": "COTI",
@@ -9365,7 +9409,15 @@
     "url": "/currencies/cova",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb37a...7cd3b00"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "COVIR.IO": {
     "name": "COVIR.IO",
@@ -9373,7 +9425,11 @@
     "url": "/currencies/covir-io",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CPChain": {
     "name": "CPChain",
@@ -9384,7 +9440,17 @@
       "Platform",
       "AI & Big Data",
       "IoT"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "CPC-FED",
+        "0xfae4...7d7c090"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "CPUchain": {
     "name": "CPUchain",
@@ -9400,7 +9466,15 @@
     "url": "/currencies/crdt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xDaab...0618e52"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CREA": {
     "name": "CREA",
@@ -9427,7 +9501,15 @@
     "tags": [
       "Token",
       "Services"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x26e7...112f317"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CRYPTOBUCKS": {
     "name": "CRYPTOBUCKS",
@@ -9435,7 +9517,15 @@
     "url": "/currencies/cryptobucks",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0d2B...022bd8e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CRYPTOFOREX": {
     "name": "CRYPTOFOREX",
@@ -9443,7 +9533,15 @@
     "url": "/currencies/cryptoforex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x226f...cc1a293"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CSPC": {
     "name": "CSPC",
@@ -9470,7 +9568,11 @@
       "DPoS",
       "Platform",
       "Privacy"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CWV Chain": {
     "name": "CWV Chain",
