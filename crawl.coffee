@@ -3,7 +3,8 @@ cheerio = require 'cheerio'
 
 # Choisir la page d'indexation de coinmarketcap
 page = Math.floor(Math.random() * 37) + 1
-while page in [3, 7, 8, 16, 17, 19, 22, 31, 36]
+# Exclure la page d'une sous liste
+while page in [1, 3, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 36, 37]
   page = Math.floor(Math.random() * 37) + 1
 
 # page = 8

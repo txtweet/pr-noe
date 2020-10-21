@@ -14151,6 +14151,14 @@
       "Token"
     ]
   },
+  "Hybrid Block": {
+    "name": "Hybrid Block",
+    "short": "HYB",
+    "url": "/currencies/hybrid-block",
+    "tags": [
+      "Token"
+    ]
+  },
   "Hydro": {
     "name": "Hydro",
     "short": "HYDRO",
@@ -24781,6 +24789,15 @@
     "url": "/currencies/sparkster",
     "tags": [
       "Token"
+    ]
+  },
+  "Spartan Protocol": {
+    "name": "Spartan Protocol",
+    "short": "SPARTA",
+    "url": "/currencies/spartan-protocol",
+    "tags": [
+      "Token",
+      "Binance Chain"
     ]
   },
   "Spectiv": {
