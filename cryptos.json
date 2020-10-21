@@ -629,7 +629,15 @@
     "url": "/currencies/3x-short-bnb-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6feb...ef44795"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Bitcoin Token": {
     "name": "3X Short Bitcoin Token",
@@ -637,7 +645,15 @@
     "url": "/currencies/3x-short-bitcoin-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BEAR-14C"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "3X Short Cardano Token": {
     "name": "3X Short Cardano Token",
@@ -645,7 +661,15 @@
     "url": "/currencies/3x-short-cardano-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb329...f77d23f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
@@ -653,7 +677,15 @@
     "url": "/currencies/3x-short-chainlink-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa209...8A362Bc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Cosmos Token": {
     "name": "3X Short Cosmos Token",
@@ -661,7 +693,15 @@
     "url": "/currencies/3x-short-cosmos-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3B83...A4418d0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Dogecoin Token": {
     "name": "3X Short Dogecoin Token",
@@ -669,7 +709,15 @@
     "url": "/currencies/3x-short-dogecoin-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF1d3...79A47f3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Ethereum Classic Token": {
     "name": "3X Short Ethereum Classic Token",
@@ -677,7 +725,15 @@
     "url": "/currencies/3x-short-ethereum-classic-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xA340...160F0b6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Ethereum Token": {
     "name": "3X Short Ethereum Token",
@@ -685,7 +741,15 @@
     "url": "/currencies/3x-short-ethereum-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ETHBEAR-B2B"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "3X Short Matic Token": {
     "name": "3X Short Matic Token",
@@ -6434,6 +6498,14 @@
     "url": "/currencies/centaur",
     "tags": [
       "Coin"
+    ]
+  },
+  "Centaure": {
+    "name": "Centaure",
+    "short": "CEN",
+    "url": "/currencies/centaure",
+    "tags": [
+      "Token"
     ]
   },
   "Centrality": {
@@ -26156,6 +26228,14 @@
       "Wallet"
     ]
   },
+  "Swirge": {
+    "name": "Swirge",
+    "short": "SWG",
+    "url": "/currencies/swirge",
+    "tags": [
+      "Token"
+    ]
+  },
   "SwissBorg": {
     "name": "SwissBorg",
     "short": "CHSB",
@@ -30539,6 +30619,14 @@
     "name": "YUNo.finance",
     "short": "YUNO",
     "url": "/currencies/yuno-finance",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Yakuza DFO": {
+    "name": "Yakuza DFO",
+    "short": "YKZ",
+    "url": "/currencies/yakuza-dfo",
     "tags": [
       "Token"
     ]
