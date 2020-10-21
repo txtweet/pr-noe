@@ -3967,7 +3967,15 @@
       "Prediction Markets",
       "Reputation",
       "IPFS"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1985...445E862"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aunite": {
     "name": "Aunite",
@@ -3983,7 +3991,15 @@
     "url": "/currencies/aureus-nummus-gold",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1309...6b576fa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aurora": {
     "name": "Aurora",
@@ -3993,7 +4009,15 @@
       "Token",
       "Platform",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9ab1...1305e5a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Auroracoin": {
     "name": "Auroracoin",
@@ -4012,7 +4036,15 @@
     "url": "/currencies/auruscoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x54E4...5cA3dFb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AurusGOLD": {
     "name": "AurusGOLD",
@@ -4020,7 +4052,15 @@
     "url": "/currencies/aurusgold",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x696a...7c9a402"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Authorship": {
     "name": "Authorship",
@@ -4030,7 +4070,15 @@
       "Token",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2dAE...853583A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Autonio": {
     "name": "Autonio",
@@ -4041,7 +4089,15 @@
       "Asset management",
       "Payments",
       "DAO"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc813...9b01740"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Auxilium": {
     "name": "Auxilium",
@@ -4077,7 +4133,15 @@
       "Events",
       "Enterprise solutions",
       "Loyalty"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0d88...71e824f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axe": {
     "name": "Axe",
@@ -4095,7 +4159,15 @@
     "url": "/currencies/axial-entertainment-digital-asset",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4fac...1f6f25e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axiom": {
     "name": "Axiom",
@@ -4113,7 +4185,15 @@
     "url": "/currencies/axioms",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x73ee...ec7c39a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axis DeFi": {
     "name": "Axis DeFi",
@@ -4121,7 +4201,15 @@
     "url": "/currencies/axis-defi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xecc0...6384389"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Azbit": {
     "name": "Azbit",
@@ -4129,7 +4217,15 @@
     "url": "/currencies/azbit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaaaa...9836d99"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "B ONE PAYMENT": {
     "name": "B ONE PAYMENT",
@@ -4137,7 +4233,15 @@
     "url": "/currencies/b-one-payment",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4b74...78dbc24"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "B2BX": {
     "name": "B2BX",
@@ -4147,7 +4251,15 @@
       "Token",
       "Marketplace",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d51...bcc5393"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "B91": {
     "name": "B91",
@@ -4155,7 +4267,15 @@
     "url": "/currencies/b91",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1519...af09580"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BABB": {
     "name": "BABB",
@@ -24526,6 +24646,14 @@
       "Stablecoin"
     ]
   },
+  "Qitmeer": {
+    "name": "Qitmeer",
+    "short": "PMEER",
+    "url": "/currencies/qitmeer",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Qredit": {
     "name": "Qredit",
     "short": "XQR",
@@ -27348,6 +27476,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Spendcoin": {
+    "name": "Spendcoin",
+    "short": "SPND",
+    "url": "/currencies/spendcoin",
+    "tags": [
+      "Token"
     ]
   },
   "Sperax": {
@@ -30330,6 +30466,14 @@
       "Marketplace",
       "Payments",
       "Smart Contracts"
+    ]
+  },
+  "Unitrade": {
+    "name": "Unitrade",
+    "short": "TRADE",
+    "url": "/currencies/unitrade",
+    "tags": [
+      "Token"
     ]
   },
   "UnityDAO": {
