@@ -2734,7 +2734,15 @@
       "Ethereum",
       "Omni",
       "Netherlands"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x00a8...12f0Eb0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Alpha Coin": {
     "name": "Alpha Coin",
@@ -2742,7 +2750,15 @@
     "url": "/currencies/alpha-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x15bd...0dbc829"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Alpha Finance Lab": {
     "name": "Alpha Finance Lab",
@@ -2752,7 +2768,15 @@
       "Token",
       "DeFi",
       "Binance Smart Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa1fa...3b40975"
+      ],
+      "forked_from": [
+        "Binance Smart Chain Contract"
+      ]
+    }
   },
   "Alpha Token": {
     "name": "Alpha Token",
@@ -2760,7 +2784,15 @@
     "url": "/currencies/alpha-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xffc6...221acf0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AlphaLink": {
     "name": "AlphaLink",
@@ -2768,7 +2800,15 @@
     "url": "/currencies/alphalink",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TCsxTt...UjzL574"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Alphacat": {
     "name": "Alphacat",
@@ -2776,7 +2816,15 @@
     "url": "/currencies/alphacat",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "7f86d6...2ad9a7a"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Alt.Estate token": {
     "name": "Alt.Estate token",
@@ -2784,7 +2832,15 @@
     "url": "/currencies/alt-estate-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x419b...a4efb97"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Altbet": {
     "name": "Altbet",
@@ -2800,7 +2856,15 @@
     "url": "/currencies/aludra-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb339...ff7B881"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ambrosus": {
     "name": "Ambrosus",
@@ -2819,7 +2883,15 @@
     "url": "/currencies/americanhorror-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xD6d3...da86d9c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amino Network": {
     "name": "Amino Network",
@@ -2827,7 +2899,15 @@
     "url": "/currencies/amino-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2e68...5d9970a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amon": {
     "name": "Amon",
@@ -14145,6 +14225,20 @@
       "Mineable"
     ]
   },
+  "Gifto": {
+    "name": "Gifto",
+    "short": "GTO",
+    "url": "/currencies/gifto",
+    "tags": [
+      "Token",
+      "Media",
+      "Loyalty",
+      "Content Creation",
+      "Media",
+      "Loyalty",
+      "Content Creation"
+    ]
+  },
   "Gire Token": {
     "name": "Gire Token",
     "short": "GET",
@@ -22268,6 +22362,14 @@
       "Token"
     ]
   },
+  "PRIA": {
+    "name": "PRIA",
+    "short": "PRIA",
+    "url": "/currencies/pria",
+    "tags": [
+      "Token"
+    ]
+  },
   "PRIZM": {
     "name": "PRIZM",
     "short": "PZM",
@@ -25927,6 +26029,14 @@
     "name": "Sharpay",
     "short": "S",
     "url": "/currencies/sharpay",
+    "tags": [
+      "Token"
+    ]
+  },
+  "SherLOCK Security": {
+    "name": "SherLOCK Security",
+    "short": "LOCK",
+    "url": "/currencies/sherlock-security",
     "tags": [
       "Token"
     ]
@@ -31359,6 +31469,17 @@
       "Token"
     ]
   },
+  "Xaurum": {
+    "name": "Xaurum",
+    "short": "XAUR",
+    "url": "/currencies/xaurum",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed"
+    ]
+  },
   "Xaya": {
     "name": "Xaya",
     "short": "CHI",
@@ -32553,6 +32674,14 @@
     "name": "Zippie",
     "short": "ZIPT",
     "url": "/currencies/zippie",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Zoom Protocol": {
+    "name": "Zoom Protocol",
+    "short": "ZOM",
+    "url": "/currencies/zoom-protocol",
     "tags": [
       "Token"
     ]
