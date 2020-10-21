@@ -1900,7 +1900,15 @@
     "url": "/currencies/abitshadow-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa0b2...de14ded"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Abulaba": {
     "name": "Abulaba",
