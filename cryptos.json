@@ -4325,7 +4325,15 @@
     "url": "/currencies/bdcc-bitica-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc87f...9a10456"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BEAR Coin": {
     "name": "BEAR Coin",
@@ -4341,7 +4349,15 @@
     "url": "/currencies/beat",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2fb1...2425690"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BELIEVER": {
     "name": "BELIEVER",
