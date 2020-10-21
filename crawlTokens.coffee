@@ -4,6 +4,7 @@ cheerio = require 'cheerio'
 cryptos = require './cryptos.json'
 request = require 'request-promise'
 
+# TODO : tester les cas avec crypto qui ont déjà des token
 crypto = _.find cryptos, (crypt) ->
   not crypt.forked_data? and
   "Token" in crypt.tags and
