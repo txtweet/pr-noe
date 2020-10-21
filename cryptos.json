@@ -1819,7 +1819,15 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdD00...546f91A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AZBI CORE": {
     "name": "AZBI CORE",
@@ -1827,7 +1835,15 @@
     "url": "/currencies/azbi-core",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x82f3...2009199"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aave": {
     "name": "Aave",
