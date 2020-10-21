@@ -9583,7 +9583,15 @@
       "Platform",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xed49...b15c5c2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CXN Network": {
     "name": "CXN Network",
@@ -9591,7 +9599,15 @@
     "url": "/currencies/cxn-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb48E...874ab28"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CY Finance": {
     "name": "CY Finance",
@@ -9599,7 +9615,15 @@
     "url": "/currencies/cy-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdB33...77B3Bb8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CYBR Token": {
     "name": "CYBR Token",
@@ -9607,7 +9631,15 @@
     "url": "/currencies/cybr-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaeaa...fd7b2e0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CYCLEAN": {
     "name": "CYCLEAN",
@@ -9615,7 +9647,15 @@
     "url": "/currencies/cyclean",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x749f...35d700e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cabbage": {
     "name": "Cabbage",
@@ -9641,7 +9681,15 @@
     "tags": [
       "Token",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3c6a...8aca40e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Californium": {
     "name": "Californium",
@@ -9689,7 +9737,15 @@
     "url": "/currencies/camouflage-eth",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0bb7...213768c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Camp": {
     "name": "Camp",
@@ -9698,7 +9754,15 @@
     "tags": [
       "Token",
       "Ethereum"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xE9E7...8834d37"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CanYaCoin": {
     "name": "CanYaCoin",
@@ -9710,7 +9774,17 @@
       "Crowdsourcing",
       "Sharing Economy",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "CAN-677",
+        "0x1d46...f8cd7c0"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "CannabisCoin": {
     "name": "CannabisCoin",
@@ -9728,7 +9802,15 @@
     "url": "/currencies/cannadrix",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x91E8...3c20CF2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cannation": {
     "name": "Cannation",
@@ -9745,7 +9827,15 @@
     "url": "/currencies/cononchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0223...e147fae"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CapdaxToken": {
     "name": "CapdaxToken",
@@ -9753,7 +9843,15 @@
     "url": "/currencies/capdaxtoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xca00...3cc5501"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cappasity": {
     "name": "Cappasity",
