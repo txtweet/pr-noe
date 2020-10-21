@@ -5055,7 +5055,15 @@
       "Token",
       "Memes",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7a54...2535F11"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BakeryToken": {
     "name": "BakeryToken",
@@ -5064,7 +5072,11 @@
     "tags": [
       "Token",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Balancer": {
     "name": "Balancer",
