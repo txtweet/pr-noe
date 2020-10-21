@@ -2398,7 +2398,15 @@
     "url": "/currencies/ailink-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4289...d853912"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AidCoin": {
     "name": "AidCoin",
