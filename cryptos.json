@@ -21120,6 +21120,14 @@
       "Coin"
     ]
   },
+  "PayUSD": {
+    "name": "PayUSD",
+    "short": "PUSD",
+    "url": "/currencies/payusd",
+    "tags": [
+      "Token"
+    ]
+  },
   "Payfair": {
     "name": "Payfair",
     "short": "PFR",
