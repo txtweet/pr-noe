@@ -6687,7 +6687,15 @@
     "url": "/currencies/bitstation",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2f84...f52f8d7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitTiger": {
     "name": "BitTiger",
@@ -6695,7 +6703,15 @@
     "url": "/currencies/bittiger",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x594e...e7c4742"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitTorrent": {
     "name": "BitTorrent",
@@ -6707,7 +6723,15 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "1002000"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "BitTube": {
     "name": "BitTube",
@@ -6724,7 +6748,15 @@
     "url": "/currencies/bitup-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb2e2...cd6afcd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitWhite": {
     "name": "BitWhite",
@@ -6756,7 +6788,15 @@
       "Store of Value",
       "Services",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x73c9...1eb033f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitblocks": {
     "name": "Bitblocks",
@@ -6775,7 +6815,15 @@
       "Token",
       "Gambling",
       "Loyalty"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xeb69...9d66a1b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcloud": {
     "name": "Bitcloud",
@@ -6793,7 +6841,17 @@
     "url": "/currencies/bitcloud-pro",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BPRO-5A6",
+        "0x197e...d2954b0"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcoffeen": {
     "name": "Bitcoffeen",
@@ -6801,7 +6859,15 @@
     "url": "/currencies/bitcoffeen",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x708a...452eB39"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitcoiNote": {
     "name": "BitcoiNote",
@@ -6840,7 +6906,15 @@
     "url": "/currencies/bitcoin-and-company-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x41ad...58eaae3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcoin 2": {
     "name": "Bitcoin 2",
