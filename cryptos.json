@@ -15,6 +15,14 @@
       ]
     }
   },
+  "#MetaHash": {
+    "name": "#MetaHash",
+    "short": "MHC",
+    "url": "/currencies/metahash",
+    "tags": [
+      "Coin"
+    ]
+  },
   "01coin": {
     "name": "01coin",
     "short": "ZOC",
@@ -1084,7 +1092,15 @@
     "url": "/currencies/888tron",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TLvDJc...acmtQU3"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "8X8 PROTOCOL": {
     "name": "8X8 PROTOCOL",
@@ -1092,7 +1108,15 @@
     "url": "/currencies/8x8-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x412d...74b3e7d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AAX Token": {
     "name": "AAX Token",
@@ -1100,7 +1124,15 @@
     "url": "/currencies/aax-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x686c...952bd5d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ABBC Coin": {
     "name": "ABBC Coin",
@@ -1120,7 +1152,15 @@
     "url": "/currencies/abcc-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbf8f...ebc0657"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AC3": {
     "name": "AC3",
@@ -1128,7 +1168,11 @@
     "url": "/currencies/ac3",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "ACE": {
     "name": "ACE",
@@ -1136,7 +1180,15 @@
     "url": "/currencies/ace-entertainment",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "acedeveloper"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "ACE (TokenStars)": {
     "name": "ACE (TokenStars)",
@@ -5362,6 +5414,14 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Marketplace"
+    ]
+  },
+  "Blockparty (BOXX Token)": {
+    "name": "Blockparty (BOXX Token)",
+    "short": "BOXX",
+    "url": "/currencies/blockparty-boxx-token",
+    "tags": [
+      "Token"
     ]
   },
   "Blockpass": {
@@ -18951,6 +19011,14 @@
       "Token"
     ]
   },
+  "MobilinkToken": {
+    "name": "MobilinkToken",
+    "short": "MOLK",
+    "url": "/currencies/mobilinktoken",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mobius": {
     "name": "Mobius",
     "short": "MOBI",
@@ -24636,6 +24704,15 @@
       "Mineable",
       "PoW",
       "SHA-256"
+    ]
+  },
+  "SaveNode": {
+    "name": "SaveNode",
+    "short": "SNO",
+    "url": "/currencies/savenode",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "SaveToken": {
