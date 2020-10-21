@@ -849,7 +849,15 @@
     "url": "/currencies/3x-long-bitcoin-sv-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6e13...0e247bf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Long EOS Token": {
     "name": "3x Long EOS Token",
@@ -857,7 +865,15 @@
     "url": "/currencies/3x-long-eos-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "EOSBULL-F0D"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "3x Long Tezos Token": {
     "name": "3x Long Tezos Token",
@@ -865,7 +881,15 @@
     "url": "/currencies/3x-long-tezos-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8AF1...9b3E554"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Long XRP Token": {
     "name": "3x Long XRP Token",
@@ -873,7 +897,15 @@
     "url": "/currencies/3x-long-xrp-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "XRPBULL-E7C"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "3x Short Bitcoin Cash Token": {
     "name": "3x Short Bitcoin Cash Token",
@@ -881,7 +913,15 @@
     "url": "/currencies/3x-short-bitcoin-cash-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa9fC...C52C690"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Short Bitcoin SV Token": {
     "name": "3x Short Bitcoin SV Token",
@@ -889,7 +929,15 @@
     "url": "/currencies/3x-short-bitcoin-sv-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xCe49...bF12B89"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Short EOS Token": {
     "name": "3x Short EOS Token",
@@ -897,7 +945,15 @@
     "url": "/currencies/3x-short-eos-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "EOSBEAR-721"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "3x Short Litecoin Token": {
     "name": "3x Short Litecoin Token",
@@ -905,7 +961,15 @@
     "url": "/currencies/3x-short-litecoin-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xB422...144438B"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
@@ -1153,6 +1217,14 @@
     "name": "ALL BEST ICO",
     "short": "ALLBI",
     "url": "/currencies/all-best-ico",
+    "tags": [
+      "Token"
+    ]
+  },
+  "ALLY": {
+    "name": "ALLY",
+    "short": "ALY",
+    "url": "/currencies/ally",
     "tags": [
       "Token"
     ]
@@ -2926,6 +2998,14 @@
       "Token"
     ]
   },
+  "BITTO": {
+    "name": "BITTO",
+    "short": "BITTO",
+    "url": "/currencies/bitto",
+    "tags": [
+      "Token"
+    ]
+  },
   "BIZKEY": {
     "name": "BIZKEY",
     "short": "BZKY",
@@ -3849,6 +3929,15 @@
     "url": "/currencies/bilaxy-token",
     "tags": [
       "Token"
+    ]
+  },
+  "BillionHappiness": {
+    "name": "BillionHappiness",
+    "short": "BHC",
+    "url": "/currencies/billionhappiness",
+    "tags": [
+      "Token",
+      "Binance Chain"
     ]
   },
   "Billionaire Token": {
@@ -20477,6 +20566,15 @@
       "Token"
     ]
   },
+  "Observer": {
+    "name": "Observer",
+    "short": "OBSR",
+    "url": "/currencies/observer",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "Obyte": {
     "name": "Obyte",
     "short": "GBYTE",
@@ -21922,6 +22020,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Pivot Token": {
+    "name": "Pivot Token",
+    "short": "PVT",
+    "url": "/currencies/pivot-token",
+    "tags": [
+      "Token"
     ]
   },
   "Pixie Coin": {
