@@ -2915,7 +2915,15 @@
     "url": "/currencies/amon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x737f...3e40a4c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AmonD": {
     "name": "AmonD",
@@ -2924,7 +2932,15 @@
     "tags": [
       "Token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0005...fe307b6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amoveo": {
     "name": "Amoveo",
@@ -2945,7 +2961,15 @@
     "url": "/currencies/amp",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xff20...11095c2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ampleforth": {
     "name": "Ampleforth",
@@ -2954,7 +2978,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd46b...039a161"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AmsterdamCoin": {
     "name": "AmsterdamCoin",
@@ -25487,6 +25519,21 @@
       "date": "2018-01-20",
       "forked_from": "Dash"
     }
+  },
+  "Safe Haven": {
+    "name": "Safe Haven",
+    "short": "SHA",
+    "url": "/currencies/safe-haven",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Technology",
+      "Store of Value",
+      "Cybersecurity",
+      "Hardware",
+      "Marketplace",
+      "Platform"
+    ]
   },
   "SafeCapital": {
     "name": "SafeCapital",
