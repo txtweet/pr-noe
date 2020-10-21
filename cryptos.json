@@ -5392,7 +5392,15 @@
     "url": "/currencies/baz-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb020...86178f9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Beacon": {
     "name": "Beacon",
@@ -5430,7 +5438,15 @@
     "url": "/currencies/beatzcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "1002413"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Beaxy": {
     "name": "Beaxy",
@@ -5438,7 +5454,15 @@
     "url": "/currencies/beaxy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x827d...a085e86"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Becaz": {
     "name": "Becaz",
@@ -5446,7 +5470,15 @@
     "url": "/currencies/becaz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0839...C8c6FCb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bee Token": {
     "name": "Bee Token",
@@ -5456,7 +5488,15 @@
       "Token",
       "Real Estate",
       "Sharing Economy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4d8f...d996fbf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BeeEx": {
     "name": "BeeEx",
@@ -5464,7 +5504,15 @@
     "url": "/currencies/beeex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1763...2a345b1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BeeKan": {
     "name": "BeeKan",
@@ -5472,7 +5520,15 @@
     "url": "/currencies/beekan",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6a27...b0ca698"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BeeStore": {
     "name": "BeeStore",
@@ -5480,7 +5536,15 @@
     "url": "/currencies/beestore",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa4fb...d1bf6e8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Beefy.Finance": {
     "name": "Beefy.Finance",
@@ -5488,7 +5552,15 @@
     "url": "/currencies/beefy-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xCa3F...0A5190A"
+      ],
+      "forked_from": [
+        "Binance Smart Chain Contract"
+      ]
+    }
   },
   "Beer Money": {
     "name": "Beer Money",
@@ -5503,7 +5575,11 @@
       "Payments",
       "Wallet",
       "NEM"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Beetle Coin": {
     "name": "Beetle Coin",
@@ -5523,7 +5599,15 @@
     "url": "/currencies/beholder",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x155f...b751c65"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bela": {
     "name": "Bela",
@@ -5533,7 +5617,15 @@
       "Token",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2e98...400b224"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Beldex": {
     "name": "Beldex",
@@ -5554,7 +5646,11 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Bellevue Network": {
     "name": "Bellevue Network",
@@ -5562,7 +5658,15 @@
     "url": "/currencies/bellevue-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8DA2...e864436"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
@@ -5570,7 +5674,15 @@
     "url": "/currencies/benepit-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd27d...d22ebf4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BenjiRolls": {
     "name": "BenjiRolls",
@@ -5597,7 +5709,15 @@
     "url": "/currencies/beowulf",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF7E0...87FEa48"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bestay": {
     "name": "Bestay",
@@ -5605,7 +5725,15 @@
     "url": "/currencies/bestay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7a64...4bb5dd5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BetProtocol": {
     "name": "BetProtocol",
@@ -5613,7 +5741,15 @@
     "url": "/currencies/betprotocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcf3c...c03d36a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Betherchip": {
     "name": "Betherchip",
@@ -5621,7 +5757,11 @@
     "url": "/currencies/betherchip",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Bethereum": {
     "name": "Bethereum",
@@ -5629,7 +5769,15 @@
     "url": "/currencies/bethereum",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x14c9...eff1905"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BetterBetting": {
     "name": "BetterBetting",
@@ -5637,7 +5785,15 @@
     "url": "/currencies/betterbetting",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7631...febc6a9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bezant": {
     "name": "Bezant",
@@ -5645,7 +5801,15 @@
     "url": "/currencies/bezant",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe1ae...16bee62"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bezop": {
     "name": "Bezop",
@@ -5655,7 +5819,15 @@
       "Token",
       "Marketplace",
       "E-commerce"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8a1e...3a65b55"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bfine": {
     "name": "Bfine",
@@ -5671,7 +5843,15 @@
     "url": "/currencies/bgogo-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xea54...925e3b5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BiblePay": {
     "name": "BiblePay",
@@ -5693,7 +5873,15 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb310...2f67069"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bidao": {
     "name": "Bidao",
@@ -5701,7 +5889,15 @@
     "url": "/currencies/bidao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x25e1...D7802fa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bidesk": {
     "name": "Bidesk",
@@ -5709,7 +5905,15 @@
     "url": "/currencies/bidesk",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbfc1...a73c8f6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BidiPass": {
     "name": "BidiPass",
@@ -5717,7 +5921,15 @@
     "url": "/currencies/bidipass",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5931...2172b8c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Big Bang Game Coin": {
     "name": "Big Bang Game Coin",
@@ -5725,7 +5937,15 @@
     "url": "/currencies/big-bang-game-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4FBb...5b35836"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BigBang Core": {
     "name": "BigBang Core",
@@ -5741,7 +5961,15 @@
     "url": "/currencies/biggame",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "bgbgbg...bgbg/BG"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "BigONE Token": {
     "name": "BigONE Token",
@@ -5751,7 +5979,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9465...6d8c475"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bigbom": {
     "name": "Bigbom",
@@ -5759,7 +5995,15 @@
     "url": "/currencies/bigbom",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x84f7...2cc602f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BigdataCash": {
     "name": "BigdataCash",
@@ -5775,7 +6019,15 @@
     "url": "/currencies/bilaxy-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x40d5...4685f4e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BillionHappiness": {
     "name": "BillionHappiness",
@@ -5784,7 +6036,11 @@
     "tags": [
       "Token",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Billionaire Token": {
     "name": "Billionaire Token",
@@ -5793,7 +6049,11 @@
     "tags": [
       "Token",
       "Gambling"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Binance Coin": {
     "name": "Binance Coin",
@@ -5813,7 +6073,17 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BGBP-CF3",
+        "0xc9a2...04112ec"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Binance KRW": {
     "name": "Binance KRW",
@@ -5823,7 +6093,15 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BKRW-AB7"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Binance USD": {
     "name": "Binance USD",
@@ -5835,7 +6113,17 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BUSD-BD1",
+        "0x4Fab...23C7C53"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bincentive": {
     "name": "Bincentive",
@@ -5843,7 +6131,15 @@
     "url": "/currencies/bincentive",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9669...2652cd9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bintex Futures": {
     "name": "Bintex Futures",
@@ -5851,7 +6147,15 @@
     "url": "/currencies/bintex-futures",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x499f...B31D4f2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BioCoin": {
     "name": "BioCoin",
@@ -5867,7 +6171,15 @@
     "url": "/currencies/bionic",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xef51...b67ea18"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Biotron": {
     "name": "Biotron",
@@ -5875,7 +6187,15 @@
     "url": "/currencies/biotron",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x03c7...945b125"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Birake": {
     "name": "Birake",
@@ -5892,7 +6212,15 @@
     "url": "/currencies/birdchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x026e...9665e0d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bismuth": {
     "name": "Bismuth",
@@ -5909,7 +6237,15 @@
     "url": "/currencies/bispex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2AA4...23C6222"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bit Financial": {
     "name": "Bit Financial",
@@ -5917,7 +6253,15 @@
     "url": "/currencies/bit-financial",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4d31...960f74d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bit Trust System": {
     "name": "Bit Trust System",
@@ -5933,7 +6277,11 @@
     "url": "/currencies/bw-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Bit-Z Token": {
     "name": "Bit-Z Token",
@@ -5944,7 +6292,15 @@
       "Marketplace",
       "Discount token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4375...20e0063"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitBall": {
     "name": "BitBall",
@@ -5959,7 +6315,15 @@
       "E-commerce",
       "Marketplace",
       "Services"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x06e0...ec6bcdf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitBar": {
     "name": "BitBar",
@@ -8197,6 +8561,15 @@
     "url": "/currencies/camouflage-eth",
     "tags": [
       "Token"
+    ]
+  },
+  "Camp": {
+    "name": "Camp",
+    "short": "CAMP",
+    "url": "/currencies/camp",
+    "tags": [
+      "Token",
+      "Ethereum"
     ]
   },
   "CanYaCoin": {
@@ -10616,6 +10989,14 @@
     "name": "DOWCOIN",
     "short": "DOW",
     "url": "/currencies/dowcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DPRating": {
+    "name": "DPRating",
+    "short": "RATING",
+    "url": "/currencies/dprating",
     "tags": [
       "Token"
     ]
@@ -13742,6 +14123,17 @@
       "Entertainment"
     ]
   },
+  "EverGreenCoin": {
+    "name": "EverGreenCoin",
+    "short": "EGC",
+    "url": "/currencies/evergreencoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X15"
+    ]
+  },
   "Everex": {
     "name": "Everex",
     "short": "EVX",
@@ -14244,6 +14636,16 @@
     "url": "/currencies/fast-access-blockchain",
     "tags": [
       "Coin"
+    ]
+  },
+  "Fatcoin": {
+    "name": "Fatcoin",
+    "short": "FAT",
+    "url": "/currencies/fatcoin",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Payments"
     ]
   },
   "Feathercoin": {
@@ -30285,6 +30687,15 @@
       "Platform",
       "Payments",
       "State channels"
+    ]
+  },
+  "Tripio": {
+    "name": "Tripio",
+    "short": "TRIO",
+    "url": "/currencies/tripio",
+    "tags": [
+      "Token",
+      "Hospitality"
     ]
   },
   "Trittium": {
