@@ -2842,6 +2842,15 @@
       "Yield farming"
     ]
   },
+  "BakeryToken": {
+    "name": "BakeryToken",
+    "short": "BAKE",
+    "url": "/currencies/bakerytoken",
+    "tags": [
+      "Token",
+      "Binance Chain"
+    ]
+  },
   "Balancer": {
     "name": "Balancer",
     "short": "BAL",
@@ -11200,6 +11209,17 @@
       "Token"
     ]
   },
+  "Evil Coin": {
+    "name": "Evil Coin",
+    "short": "EVIL",
+    "url": "/currencies/evil-coin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11"
+    ]
+  },
   "ExNetwork Token": {
     "name": "ExNetwork Token",
     "short": "EXNT",
@@ -14728,6 +14748,15 @@
       "X11"
     ]
   },
+  "Injective Protocol": {
+    "name": "Injective Protocol",
+    "short": "INJ",
+    "url": "/currencies/injective-protocol",
+    "tags": [
+      "Token",
+      "DeFi"
+    ]
+  },
   "Ink": {
     "name": "Ink",
     "short": "INK",
@@ -15108,6 +15137,14 @@
     "tags": [
       "Token",
       "DeFi"
+    ]
+  },
+  "JUST NETWORK": {
+    "name": "JUST NETWORK",
+    "short": "JUS",
+    "url": "/currencies/just-network",
+    "tags": [
+      "Token"
     ]
   },
   "Jack Token": {
@@ -16850,6 +16887,15 @@
       "Health"
     ]
   },
+  "Lynx": {
+    "name": "Lynx",
+    "short": "LYNX",
+    "url": "/currencies/lynx",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "MACH Project": {
     "name": "MACH Project",
     "short": "MACH",
@@ -17378,6 +17424,15 @@
       "Coin"
     ]
   },
+  "MarketPeak": {
+    "name": "MarketPeak",
+    "short": "PEAK",
+    "url": "/currencies/marketpeak",
+    "tags": [
+      "Token",
+      "Ethereum"
+    ]
+  },
   "Maro": {
     "name": "Maro",
     "short": "MARO",
@@ -17829,6 +17884,16 @@
       "Smart Contracts"
     ]
   },
+  "Meter Governance": {
+    "name": "Meter Governance",
+    "short": "MTRG",
+    "url": "/currencies/meter-governance",
+    "tags": [
+      "Coin",
+      "DeFi",
+      "Interoperability"
+    ]
+  },
   "Meter Governance mapped by Meter.io": {
     "name": "Meter Governance mapped by Meter.io",
     "short": "eMTRG",
@@ -17927,6 +17992,14 @@
     "url": "/currencies/micromines",
     "tags": [
       "Token"
+    ]
+  },
+  "Midas": {
+    "name": "Midas",
+    "short": "MIDAS",
+    "url": "/currencies/midas",
+    "tags": [
+      "Coin"
     ]
   },
   "MidasProtocol": {
@@ -20191,6 +20264,14 @@
       "Marketplace",
       "Platform",
       "Ethereum"
+    ]
+  },
+  "Origin Sport": {
+    "name": "Origin Sport",
+    "short": "ORS",
+    "url": "/currencies/origin-sport",
+    "tags": [
+      "Token"
     ]
   },
   "OriginTrail": {
@@ -22504,6 +22585,16 @@
     "tags": [
       "Token",
       "Manufacturing"
+    ]
+  },
+  "RealChain": {
+    "name": "RealChain",
+    "short": "RCT",
+    "url": "/currencies/realchain",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
     ]
   },
   "RealTract": {
@@ -28913,6 +29004,14 @@
       "Token"
     ]
   },
+  "Wiki Token": {
+    "name": "Wiki Token",
+    "short": "WIKI",
+    "url": "/currencies/wiki-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Wild Beast Block": {
     "name": "Wild Beast Block",
     "short": "WBB",
@@ -30119,6 +30218,14 @@
       "Token"
     ]
   },
+  "ZIMBOCASH": {
+    "name": "ZIMBOCASH",
+    "short": "ZASH",
+    "url": "/currencies/zimbocash",
+    "tags": [
+      "Token"
+    ]
+  },
   "ZINC": {
     "name": "ZINC",
     "short": "ZINC",
@@ -30444,6 +30551,17 @@
     "url": "/currencies/zik-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Zilla": {
+    "name": "Zilla",
+    "short": "ZLA",
+    "url": "/currencies/zilla",
+    "tags": [
+      "Token",
+      "Platform",
+      "Crowdfunding",
+      "Wallet"
     ]
   },
   "Zilliqa": {
