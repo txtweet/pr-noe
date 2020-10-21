@@ -1548,7 +1548,15 @@
     "url": "/currencies/apecoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x209c...3923fcc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "APIX": {
     "name": "APIX",
@@ -1557,7 +1565,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf51E...4d62D78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "APR Coin": {
     "name": "APR Coin",
@@ -1574,7 +1590,15 @@
     "url": "/currencies/araw",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3068...eb87e7f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ARCS": {
     "name": "ARCS",
@@ -1582,7 +1606,15 @@
     "url": "/currencies/arcs",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x20b1...1622779"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ARMTOKEN": {
     "name": "ARMTOKEN",
@@ -5232,6 +5264,14 @@
     "name": "BitoPro Exchange Token",
     "short": "BITO",
     "url": "/currencies/bitopro-exchange-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Bitpanda Ecosystem Token": {
+    "name": "Bitpanda Ecosystem Token",
+    "short": "BEST",
+    "url": "/currencies/bitpanda-ecosystem-token",
     "tags": [
       "Token"
     ]
