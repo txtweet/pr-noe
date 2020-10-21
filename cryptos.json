@@ -3472,7 +3472,15 @@
     "url": "/currencies/ardcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb8e2...9910647"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ardor": {
     "name": "Ardor",
@@ -3565,7 +3573,15 @@
       "Art",
       "Collectibles & NFTs",
       "Data Provenance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe54b...287c294"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Artis Turba": {
     "name": "Artis Turba",
@@ -3573,7 +3589,15 @@
     "url": "/currencies/artis-turba",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x082e...5a1a669"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Arweave": {
     "name": "Arweave",
@@ -3601,7 +3625,15 @@
     "url": "/currencies/asac-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6913...704d332"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Asch": {
     "name": "Asch",
@@ -3621,7 +3653,15 @@
     "url": "/currencies/asian-dragon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf6db...830914f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Asian Fintech": {
     "name": "Asian Fintech",
@@ -3629,7 +3669,15 @@
     "url": "/currencies/asian-fintech",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xee9e...3f67a72"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Asian-African Capital Chain": {
     "name": "Asian-African Capital Chain",
@@ -3637,7 +3685,15 @@
     "url": "/currencies/asian-african-capital-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "accissuer123"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Askobar Network": {
     "name": "Askobar Network",
@@ -3645,7 +3701,15 @@
     "url": "/currencies/askobar-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xeEEE...0588603"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Assemble Protocol": {
     "name": "Assemble Protocol",
@@ -3653,7 +3717,15 @@
     "url": "/currencies/assemble-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2565...1b69982"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aston": {
     "name": "Aston",
@@ -3661,7 +3733,15 @@
     "url": "/currencies/aston",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1a0f...a64b94c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AstroTools": {
     "name": "AstroTools",
@@ -3669,7 +3749,15 @@
     "url": "/currencies/astrotools",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcbd5...8b969ff"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Asura Coin": {
     "name": "Asura Coin",
@@ -3677,7 +3765,15 @@
     "url": "/currencies/asura-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "a58b56...68ef71d"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Atheios": {
     "name": "Atheios",
@@ -3694,7 +3790,15 @@
     "url": "/currencies/atlantis-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8211...90d4637"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Atlas Protocol": {
     "name": "Atlas Protocol",
@@ -3703,7 +3807,15 @@
     "tags": [
       "Token",
       "Marketing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ATP-38C"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Atlas Token": {
     "name": "Atlas Token",
@@ -3711,7 +3823,15 @@
     "url": "/currencies/atlas-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd36e...dfe88e4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Atletico De Madrid Fan Token": {
     "name": "Atletico De Madrid Fan Token",
@@ -3719,7 +3839,11 @@
     "url": "/currencies/atletico-de-madrid-fan-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Atomic Wallet Coin": {
     "name": "Atomic Wallet Coin",
@@ -15329,6 +15453,17 @@
       "Coin"
     ]
   },
+  "Harmony": {
+    "name": "Harmony",
+    "short": "ONE",
+    "url": "/currencies/harmony",
+    "tags": [
+      "Coin",
+      "Platform",
+      "Enterprise solutions",
+      "Scaling"
+    ]
+  },
   "HarmonyCoin": {
     "name": "HarmonyCoin",
     "short": "HMC",
@@ -17379,6 +17514,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Kaleido": {
+    "name": "Kaleido",
+    "short": "KAL",
+    "url": "/currencies/kaleido",
+    "tags": [
+      "Coin"
     ]
   },
   "Kalkulus": {
@@ -20263,6 +20406,14 @@
     "tags": [
       "Token",
       "Services"
+    ]
+  },
+  "Mogu": {
+    "name": "Mogu",
+    "short": "MOGX",
+    "url": "/currencies/mogu",
+    "tags": [
+      "Token"
     ]
   },
   "Moin": {
@@ -24710,6 +24861,14 @@
       "Token"
     ]
   },
+  "Rally": {
+    "name": "Rally",
+    "short": "RALLY",
+    "url": "/currencies/rally",
+    "tags": [
+      "Token"
+    ]
+  },
   "Rapids": {
     "name": "Rapids",
     "short": "RPD",
@@ -26095,6 +26254,14 @@
       "Platform",
       "AI & Big Data",
       "Smart Contracts"
+    ]
+  },
+  "Scrypta": {
+    "name": "Scrypta",
+    "short": "LYRA",
+    "url": "/currencies/scrypta",
+    "tags": [
+      "Coin"
     ]
   },
   "SeChain": {
@@ -27535,6 +27702,17 @@
       "Binance Smart Chain"
     ]
   },
+  "Streamr": {
+    "name": "Streamr",
+    "short": "DATA",
+    "url": "/currencies/streamr",
+    "tags": [
+      "Token",
+      "Media",
+      "Content Creation",
+      "Payments"
+    ]
+  },
   "Strong": {
     "name": "Strong",
     "short": "STRONG",
@@ -28339,6 +28517,14 @@
     "name": "Tchain",
     "short": "TCH",
     "url": "/currencies/tchain",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Team Finance": {
+    "name": "Team Finance",
+    "short": "TEAM",
+    "url": "/currencies/team-finance",
     "tags": [
       "Token"
     ]
@@ -30882,6 +31068,14 @@
       "PoS",
       "Medium of Exchange",
       "Masternodes"
+    ]
+  },
+  "ViteX Coin": {
+    "name": "ViteX Coin",
+    "short": "VX",
+    "url": "/currencies/vitex-coin",
+    "tags": [
+      "Token"
     ]
   },
   "Vites": {
