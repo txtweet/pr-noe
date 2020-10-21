@@ -3095,6 +3095,22 @@
       ]
     }
   },
+  "Amun Short Bitcoin Token": {
+    "name": "Amun Short Bitcoin Token",
+    "short": "BTCSHORT",
+    "url": "/currencies/amun-short-bitcoin-token",
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0xcbe7...d1edec9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
+  },
   "Anatha": {
     "name": "Anatha",
     "short": "wANATHA",
@@ -3851,7 +3867,15 @@
     "url": "/currencies/atomic-wallet-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xad22...70513f4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Atonomi": {
     "name": "Atonomi",
@@ -21809,6 +21833,14 @@
     "name": "Nyerium",
     "short": "NYEX",
     "url": "/currencies/nyerium",
+    "tags": [
+      "Coin"
+    ]
+  },
+  "Nyzo": {
+    "name": "Nyzo",
+    "short": "NYZO",
+    "url": "/currencies/nyzo",
     "tags": [
       "Coin"
     ]
