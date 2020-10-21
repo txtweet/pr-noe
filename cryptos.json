@@ -3331,6 +3331,14 @@
       "Token"
     ]
   },
+  "Bidesk": {
+    "name": "Bidesk",
+    "short": "BDK",
+    "url": "/currencies/bidesk",
+    "tags": [
+      "Token"
+    ]
+  },
   "BidiPass": {
     "name": "BidiPass",
     "short": "BDP",
@@ -7036,6 +7044,14 @@
       "Platform",
       "IoT",
       "Smart Contracts"
+    ]
+  },
+  "Cosmo Coin": {
+    "name": "Cosmo Coin",
+    "short": "COSM",
+    "url": "/currencies/cosmo-coin",
+    "tags": [
+      "Token"
     ]
   },
   "Cosmos": {
@@ -12399,6 +12415,14 @@
       "Mineable"
     ]
   },
+  "Galaxy Pool Coin": {
+    "name": "Galaxy Pool Coin",
+    "short": "GPO",
+    "url": "/currencies/galaxy-pool-coin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Galaxy Wallet": {
     "name": "Galaxy Wallet",
     "short": "GC",
@@ -13423,6 +13447,14 @@
       "Coin",
       "Distributed Computing",
       "IPFS"
+    ]
+  },
+  "Harcomia": {
+    "name": "Harcomia",
+    "short": "HCA",
+    "url": "/currencies/harcomia",
+    "tags": [
+      "Coin"
     ]
   },
   "HarmonyCoin": {
@@ -22175,6 +22207,15 @@
       "Scrypt"
     ]
   },
+  "Qwertycoin": {
+    "name": "Qwertycoin",
+    "short": "QWC",
+    "url": "/currencies/qwertycoin",
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
+  },
   "RAKSUR": {
     "name": "RAKSUR",
     "short": "RAS",
@@ -27265,6 +27306,14 @@
       "Stablecoin - Asset-Backed"
     ]
   },
+  "USDX [Lighthouse]": {
+    "name": "USDX [Lighthouse]",
+    "short": "USDX",
+    "url": "/currencies/usdx-lighthouse",
+    "tags": [
+      "Coin"
+    ]
+  },
   "UTEMIS": {
     "name": "UTEMIS",
     "short": "UTS",
@@ -28818,6 +28867,14 @@
     "name": "Webcoin",
     "short": "WEB",
     "url": "/currencies/webcoin",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Webflix Token": {
+    "name": "Webflix Token",
+    "short": "WFX",
+    "url": "/currencies/webflix-token",
     "tags": [
       "Token"
     ]
