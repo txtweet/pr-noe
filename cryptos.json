@@ -63,7 +63,15 @@
       "DeFi",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe41d...699f498"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "0xBitcoin": {
     "name": "0xBitcoin",
@@ -72,7 +80,15 @@
     "tags": [
       "Token",
       "Mineable"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb6ed...b405b31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "0xcert": {
     "name": "0xcert",
@@ -81,7 +97,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x83e2...a5653f5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "12Ships": {
     "name": "12Ships",
@@ -89,7 +113,15 @@
     "url": "/currencies/12ships",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5257...c052804"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1AI Token": {
     "name": "1AI Token",
@@ -97,7 +129,15 @@
     "url": "/currencies/1ai-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x208b...4EbAa51"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1Million Token": {
     "name": "1Million Token",
@@ -105,7 +145,15 @@
     "url": "/currencies/1million-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0bc...770e1ce"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "1SG": {
     "name": "1SG",
@@ -657,6 +705,14 @@
     "tags": [
       "Token",
       "Marketing"
+    ]
+  },
+  "ACoconut": {
+    "name": "ACoconut",
+    "short": "AC",
+    "url": "/currencies/acoconut",
+    "tags": [
+      "Token"
     ]
   },
   "ADADOWN": {
@@ -15748,6 +15804,21 @@
     "url": "/currencies/khipu-token",
     "tags": [
       "Token"
+    ]
+  },
+  "KickToken": {
+    "name": "KickToken",
+    "short": "KICK",
+    "url": "/currencies/kick-token",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Crowdfunding",
+      "DeFi",
+      "Wallet",
+      "Smart Contracts",
+      "Payments",
+      "Crowdfunding"
     ]
   },
   "Kids Cash": {
@@ -31475,6 +31546,14 @@
     "name": "sXAU",
     "short": "SXAU",
     "url": "/currencies/sxau",
+    "tags": [
+      "Token"
+    ]
+  },
+  "sXMR": {
+    "name": "sXMR",
+    "short": "SXMR",
+    "url": "/currencies/sxmr",
     "tags": [
       "Token"
     ]
