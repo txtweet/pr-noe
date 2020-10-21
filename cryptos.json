@@ -571,6 +571,22 @@
       ]
     }
   },
+  "3X Long Shitcoin Index Token": {
+    "name": "3X Long Shitcoin Index Token",
+    "short": "BULLSHIT",
+    "url": "/currencies/3x-long-shitcoin-index-token",
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0xd06b...6ff55a0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
+  },
   "3X Long Sushi Token": {
     "name": "3X Long Sushi Token",
     "short": "SUSHIBULL",
@@ -3214,7 +3230,15 @@
     "url": "/currencies/antiscamtoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa872...ec4e32e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Anyswap": {
     "name": "Anyswap",
@@ -3224,7 +3248,11 @@
       "Token",
       "DeFi",
       "Binance Smart Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Apex": {
     "name": "Apex",
@@ -3232,7 +3260,15 @@
     "url": "/currencies/apex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "45d493...4ca5885"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Apiary Fund Coin": {
     "name": "Apiary Fund Coin",
@@ -3240,7 +3276,15 @@
     "url": "/currencies/apiary-fund-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf576...965985f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Apollo Currency": {
     "name": "Apollo Currency",
@@ -6537,6 +6581,14 @@
       "Token"
     ]
   },
+  "Boogle": {
+    "name": "Boogle",
+    "short": "BOO",
+    "url": "/currencies/boogle",
+    "tags": [
+      "Coin"
+    ]
+  },
   "Boolberry": {
     "name": "Boolberry",
     "short": "BBR",
@@ -7954,6 +8006,14 @@
     "url": "/currencies/citios",
     "tags": [
       "Token"
+    ]
+  },
+  "City Coin": {
+    "name": "City Coin",
+    "short": "CITY",
+    "url": "/currencies/city-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "Civic": {
@@ -17940,6 +18000,14 @@
     "name": "LOOPREX",
     "short": "LOOP",
     "url": "/currencies/looprex",
+    "tags": [
+      "Token"
+    ]
+  },
+  "LORI": {
+    "name": "LORI",
+    "short": "LORI",
+    "url": "/currencies/lori",
     "tags": [
       "Token"
     ]
@@ -31212,6 +31280,14 @@
     "name": "Whole Network",
     "short": "NODE",
     "url": "/currencies/whole-network",
+    "tags": [
+      "Token"
+    ]
+  },
+  "WiBX": {
+    "name": "WiBX",
+    "short": "WBX",
+    "url": "/currencies/wibx",
     "tags": [
       "Token"
     ]
