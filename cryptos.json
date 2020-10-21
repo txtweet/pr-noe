@@ -1451,7 +1451,15 @@
     "url": "/currencies/alp-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x37d6...ed2db35"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ALQO": {
     "name": "ALQO",
@@ -1468,7 +1476,15 @@
     "url": "/currencies/amaten",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1830...ac382b2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
@@ -1484,7 +1500,15 @@
     "url": "/currencies/amlt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xca0e...55c0f2f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AMO Coin": {
     "name": "AMO Coin",
@@ -1492,7 +1516,15 @@
     "url": "/currencies/amo-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x38c8...a972169"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ANON": {
     "name": "ANON",
@@ -13392,6 +13424,17 @@
       "Mineable"
     ]
   },
+  "Gas": {
+    "name": "Gas",
+    "short": "GAS",
+    "url": "/currencies/gas",
+    "tags": [
+      "Token",
+      "Medium of Exchange",
+      "Payments",
+      "Smart Contracts"
+    ]
+  },
   "GateToken": {
     "name": "GateToken",
     "short": "GT",
@@ -23061,6 +23104,14 @@
     "name": "Pyrrhos Gold",
     "short": "PGOLD",
     "url": "/currencies/pyrrhos-gold",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Q DAO Governance token v1.0": {
+    "name": "Q DAO Governance token v1.0",
+    "short": "QDAO",
+    "url": "/currencies/q-dao-governance-token",
     "tags": [
       "Token"
     ]
