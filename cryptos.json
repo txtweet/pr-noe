@@ -2686,7 +2686,15 @@
     "tags": [
       "Token",
       "Sports"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2d0e...70eb9d3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "All.me": {
     "name": "All.me",
@@ -2694,7 +2702,15 @@
     "url": "/currencies/all-me",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7657...038da85"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AllSafe": {
     "name": "AllSafe",
