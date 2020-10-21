@@ -1856,7 +1856,7 @@
   "Aave": {
     "name": "Aave",
     "short": "AAVE",
-    "url": "/currencies/aave-new",
+    "url": "/currencies/aave",
     "tags": [
       "Token"
     ]
@@ -29143,6 +29143,14 @@
       "date": "N/A"
     }
   },
+  "United Bull Traders": {
+    "name": "United Bull Traders",
+    "short": "UNB",
+    "url": "/currencies/united-bull-traders",
+    "tags": [
+      "Token"
+    ]
+  },
   "United Traders Token": {
     "name": "United Traders Token",
     "short": "UTT",
@@ -32351,6 +32359,14 @@
     "url": "/currencies/eboostcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "eToro Australian Dollar": {
+    "name": "eToro Australian Dollar",
+    "short": "AUDX",
+    "url": "/currencies/etoro-australian-dollar",
+    "tags": [
+      "Token"
     ]
   },
   "eToro Euro": {
