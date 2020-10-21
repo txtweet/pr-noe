@@ -7366,7 +7366,15 @@
     "url": "/currencies/bitether",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x499a...1617024"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitex Global XBX Coin": {
     "name": "Bitex Global XBX Coin",
@@ -7374,7 +7382,15 @@
     "url": "/currencies/bitex-global-xbx-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x57C0...5c46a08"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitfex": {
     "name": "Bitfex",
@@ -7382,7 +7398,15 @@
     "url": "/currencies/bitfex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdb09...470013c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitfinex Bitcoin Dominance Perps": {
     "name": "Bitfinex Bitcoin Dominance Perps",
@@ -7398,7 +7422,15 @@
     "url": "/currencies/bitgear",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b98...7B6F5a9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitgesell": {
     "name": "Bitgesell",
@@ -7422,7 +7454,15 @@
     "url": "/currencies/bithercash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa7d1...eba4b86"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitnation": {
     "name": "Bitnation",
@@ -7430,7 +7470,15 @@
     "url": "/currencies/bitnation",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xBB1f...A976a82"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitoPro Exchange Token": {
     "name": "BitoPro Exchange Token",
@@ -7438,7 +7486,15 @@
     "url": "/currencies/bitopro-exchange-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x93b1...2344932"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitpanda Ecosystem Token": {
     "name": "Bitpanda Ecosystem Token",
@@ -7446,7 +7502,15 @@
     "url": "/currencies/bitpanda-ecosystem-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b07...fa1ec6f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitpayer Token": {
     "name": "Bitpayer Token",
@@ -7454,7 +7518,15 @@
     "url": "/currencies/bitpayer-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2836...c18e5d8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitradio": {
     "name": "Bitradio",
@@ -7472,7 +7544,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd433...ea6Aaa5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitscoin": {
     "name": "Bitscoin",
@@ -7480,7 +7560,15 @@
     "url": "/currencies/bitscoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9388...ccea4df"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitsdaq": {
     "name": "Bitsdaq",
@@ -7491,7 +7579,15 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b80...bbe1890"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitsonic": {
     "name": "Bitsonic",
