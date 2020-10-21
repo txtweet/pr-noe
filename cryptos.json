@@ -7595,7 +7595,15 @@
     "url": "/currencies/bitsonic",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe541...a1956c7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitstar": {
     "name": "Bitstar",
@@ -7614,7 +7622,15 @@
     "tags": [
       "Token",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd4f6...a7f5d80"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitsum.money": {
     "name": "Bitsum.money",
@@ -7637,7 +7653,11 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Bittwatt": {
     "name": "Bittwatt",
@@ -7645,7 +7665,15 @@
     "url": "/currencies/bittwatt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf53c...8528f4b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitvolt": {
     "name": "Bitvolt",
@@ -7680,7 +7708,15 @@
     "url": "/currencies/black-diamond-rating",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x78a5...da931c3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BlackCoin": {
     "name": "BlackCoin",
@@ -7698,7 +7734,15 @@
     "url": "/currencies/blackpearl-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x426f...67b21b4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Blackmoon": {
     "name": "Blackmoon",
