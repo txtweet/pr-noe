@@ -1401,6 +1401,14 @@
       ]
     }
   },
+  "ALA": {
+    "name": "ALA",
+    "short": "ALA",
+    "url": "/currencies/ala",
+    "tags": [
+      "Token"
+    ]
+  },
   "ALAX": {
     "name": "ALAX",
     "short": "ALX",
@@ -11902,6 +11910,14 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
+    ]
+  },
+  "Ethash Miner": {
+    "name": "Ethash Miner",
+    "short": "HETM",
+    "url": "/currencies/ethash-miner",
+    "tags": [
+      "Token"
     ]
   },
   "Ether Kingdoms Token": {
