@@ -4,33 +4,30 @@ cheerio = require 'cheerio'
 cryptos = require './cryptos.json'
 request = require 'request-promise'
 
-Promise.each _.values(cryptos), (crypto) ->
-  if "Token" in crypto.tags
-    console.log "Token #{crypto.name}"
-    request
-      url : 'https://coinmarketcap.com'+crypto.url
-      method: 'GET'
-    .then (body) ->
-      $ = cheerio.load(body)
+crypto = _.find cryptos, (crypt) ->
+  "Token" in crypt.tags and
+    not ("forked_altcoin" in crypt.tags or "forked_bitcoin" in crypt.tags)
+
+console.warn "Token #{JSON.stringify crypto, null, 2}"
+
+request
+  url : 'https://coinmarketcap.com'+crypto.url
+  method: 'GET'
+.then (body) ->
+  $ = cheerio.load(body)
 
 #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-details-contract-lists > div.cmc-details-contract-lists__container > span
-      from =[]
-      $('div.cmc-details-contract-lists__container > span').each () ->
-        from.push($(@).text())
-      id = []
-      $('span.cmc-details-contract-lists__item').each () ->
-        id.push($(@).text())
+  forked_from =[]
+  $('div.cmc-details-contract-lists__container > span').each () ->
+    forked_from.push($(@).text())
 
-      cryptos[crypto.name].forked_data =
-        block: id
-        forked_from: from
+  bloc = []
+  $('span.cmc-details-contract-lists__item').each () ->
+    bloc.push($(@).text())
 
-      console.error "->", JSON.stringify crypto, null, 2
-    .then () ->
-      Promise.delay(Math.floor(Math.random() * 10000) + 30000)
-  else
-    # console.log "Non #{crypto.name}"
-    Promise.resolve()
+  crypto.forked_data =
+    block: bloc
+    forked_from: forked_from
 
 .then () ->
-  console.log 'Terminé'
+  console.log JSON.stringify cryptos, null, 2

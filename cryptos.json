@@ -5,7 +5,15 @@
     "url": "/currencies/999-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbf05...9dee626"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "01coin": {
     "name": "01coin",

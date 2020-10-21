@@ -4,4 +4,13 @@ while true; do
   cp ./cryptos2.json cryptos.json
   # git add cryptos.json
   sleep 60
+
+  echo "Token"
+  coffee ./crawlTokens.coffee > tokens.json
+  cp ./tokens.json cryptos.json
+  echo "Token2"
+  coffee ./crawlTokens.coffee > tokens.json
+  cp ./tokens.json cryptos.json
+  sleep 60
+
 done
