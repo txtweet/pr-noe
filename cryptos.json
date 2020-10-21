@@ -2001,6 +2001,17 @@
       "PoS"
     ]
   },
+  "Achain": {
+    "name": "Achain",
+    "short": "ACT",
+    "url": "/currencies/achain",
+    "tags": [
+      "Coin",
+      "DPoS",
+      "Platform",
+      "Smart Contracts"
+    ]
+  },
   "Acoin": {
     "name": "Acoin",
     "short": "ACOIN",
@@ -3924,7 +3935,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc12d...58f5663"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AudioCoin": {
     "name": "AudioCoin",
