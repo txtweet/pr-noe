@@ -5213,7 +5213,15 @@
       "DeFi",
       "Oracles",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba11...86d7f55"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bankcoin Reserve": {
     "name": "Bankcoin Reserve",
@@ -5232,7 +5240,15 @@
       "Marketplace",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc80c...77810c5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bankroll Network": {
     "name": "Bankroll Network",
@@ -5240,7 +5256,15 @@
     "url": "/currencies/bankroll-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TNo59K...bc8CqNK"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Bankroll Vault": {
     "name": "Bankroll Vault",
@@ -5248,7 +5272,15 @@
     "url": "/currencies/bankroll-vault",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6b78...fb84d11"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Barkis Network": {
     "name": "Barkis Network",
@@ -5264,7 +5296,15 @@
     "url": "/currencies/bartertrade",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x54c9...d5063ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Based Money": {
     "name": "Based Money",
@@ -5274,7 +5314,15 @@
       "Token",
       "Memes",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2942...6994edc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Basic Attention Token": {
     "name": "Basic Attention Token",
@@ -5285,7 +5333,15 @@
       "Marketing",
       "Content Creation",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0d87...d2887ef"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Basid Coin": {
     "name": "Basid Coin",
@@ -5293,7 +5349,15 @@
     "url": "/currencies/basid-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe33f...44347D8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bast": {
     "name": "Bast",
@@ -5301,7 +5365,15 @@
     "url": "/currencies/bast",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x47eb...2c873cf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bata": {
     "name": "Bata",
@@ -10149,6 +10221,14 @@
       "Poland"
     ]
   },
+  "Cybereits": {
+    "name": "Cybereits",
+    "short": "CRE",
+    "url": "/currencies/cybereits",
+    "tags": [
+      "Token"
+    ]
+  },
   "Cyclops Treasure": {
     "name": "Cyclops Treasure",
     "short": "CYTR",
@@ -10747,6 +10827,16 @@
       "Mineable",
       "PoW",
       "Multiple"
+    ]
+  },
+  "Datamine": {
+    "name": "Datamine",
+    "short": "DAM",
+    "url": "/currencies/datamine",
+    "tags": [
+      "Token",
+      "DeFi",
+      "DeFi"
     ]
   },
   "Datarius Credit": {
@@ -22638,6 +22728,14 @@
       "Mineable",
       "PoS",
       "Medium of Exchange"
+    ]
+  },
+  "OVCODE": {
+    "name": "OVCODE",
+    "short": "OVC",
+    "url": "/currencies/ovcode",
+    "tags": [
+      "Token"
     ]
   },
   "OWL": {
