@@ -3314,7 +3314,11 @@
       "Platform",
       "Mobile",
       "DApp"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Apple Network": {
     "name": "Apple Network",
@@ -3322,7 +3326,15 @@
     "url": "/currencies/apple-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3c45...c99a0e5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AquariusCoin": {
     "name": "AquariusCoin",
@@ -3340,7 +3352,15 @@
     "url": "/currencies/aquila-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x423f...ce1f722"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aragon": {
     "name": "Aragon",
@@ -3353,7 +3373,15 @@
       "DAO",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x960b...7b288c0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aragon Court": {
     "name": "Aragon Court",
@@ -29804,6 +29832,14 @@
       "Token"
     ]
   },
+  "UniFi Protocol": {
+    "name": "UniFi Protocol",
+    "short": "UP",
+    "url": "/currencies/unifi-protocol",
+    "tags": [
+      "Token"
+    ]
+  },
   "UniGraph": {
     "name": "UniGraph",
     "short": "GRAPH",
@@ -30307,6 +30343,14 @@
     "name": "VNDC",
     "short": "VNDC",
     "url": "/currencies/vndc",
+    "tags": [
+      "Token"
+    ]
+  },
+  "VNT Chain": {
+    "name": "VNT Chain",
+    "short": "VNT",
+    "url": "/currencies/vnt-chain",
     "tags": [
       "Token"
     ]
