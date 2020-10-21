@@ -4579,7 +4579,15 @@
     "url": "/currencies/blockmax",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4669...7441449"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BLOCKv": {
     "name": "BLOCKv",
@@ -4590,7 +4598,15 @@
       "Media",
       "Enterprise solutions",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x340d...60613b7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BNBDOWN": {
     "name": "BNBDOWN",
@@ -28706,6 +28722,14 @@
       "Coin",
       "Media",
       "Payments"
+    ]
+  },
+  "TRONCLASSIC": {
+    "name": "TRONCLASSIC",
+    "short": "TRXC",
+    "url": "/currencies/tronclassic",
+    "tags": [
+      "Token"
     ]
   },
   "TRONbetDice": {
