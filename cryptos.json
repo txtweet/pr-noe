@@ -299,6 +299,22 @@
       "Scrypt"
     ]
   },
+  "2key.network": {
+    "name": "2key.network",
+    "short": "2KEY",
+    "url": "/currencies/2key-network",
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe489...77fa2c0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
+  },
   "3X Long Algorand Token": {
     "name": "3X Long Algorand Token",
     "short": "ALGOBULL",
@@ -1260,7 +1276,15 @@
     "url": "/currencies/aen-smart-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xD38d...87c23A7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AGA Token": {
     "name": "AGA Token",
@@ -1268,7 +1292,15 @@
     "url": "/currencies/aga",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2d80...ec94e20"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AI Crypto": {
     "name": "AI Crypto",
@@ -1276,7 +1308,15 @@
     "url": "/currencies/ai-crypto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa7a5...b53d7a2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AI Doctor": {
     "name": "AI Doctor",
@@ -1569,6 +1609,16 @@
     "url": "/currencies/axel",
     "tags": [
       "Coin"
+    ]
+  },
+  "AXPR": {
+    "name": "AXPR",
+    "short": "AXPR",
+    "url": "/currencies/axpr-token",
+    "tags": [
+      "Token",
+      "Platform",
+      "Enterprise solutions"
     ]
   },
   "AZBI CORE": {
@@ -28378,6 +28428,16 @@
       "Token"
     ]
   },
+  "UNIVERSAL CASH": {
+    "name": "UNIVERSAL CASH",
+    "short": "UCASH",
+    "url": "/currencies/ucash",
+    "tags": [
+      "Token",
+      "Services",
+      "Payments"
+    ]
+  },
   "UNUS SED LEO": {
     "name": "UNUS SED LEO",
     "short": "LEO",
@@ -30980,6 +31040,14 @@
     "url": "/currencies/yap-stone",
     "tags": [
       "Token"
+    ]
+  },
+  "Ycash": {
+    "name": "Ycash",
+    "short": "YEC",
+    "url": "/currencies/ycash",
+    "tags": [
+      "Coin"
     ]
   },
   "YeaFinance": {
