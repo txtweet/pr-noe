@@ -4285,7 +4285,15 @@
       "Token",
       "Platform",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9a02...9f8fbcb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BASIC": {
     "name": "BASIC",
@@ -4293,7 +4301,15 @@
     "url": "/currencies/basic",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf25c...b0193a7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BBSCoin": {
     "name": "BBSCoin",
@@ -18698,6 +18714,14 @@
       "Coin"
     ]
   },
+  "LikeCoin": {
+    "name": "LikeCoin",
+    "short": "LIKE",
+    "url": "/currencies/likecoin",
+    "tags": [
+      "Token"
+    ]
+  },
   "Limestone Network": {
     "name": "Limestone Network",
     "short": "LIMEX",
@@ -24794,6 +24818,14 @@
     "url": "/currencies/quish-coin",
     "tags": [
       "Coin"
+    ]
+  },
+  "Quiztok": {
+    "name": "Quiztok",
+    "short": "QTCON",
+    "url": "/currencies/quiztok",
+    "tags": [
+      "Token"
     ]
   },
   "QunQun": {
