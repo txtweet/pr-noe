@@ -757,7 +757,15 @@
     "url": "/currencies/3x-short-matic-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbE89...FF09237"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Sushi Token": {
     "name": "3X Short Sushi Token",
@@ -765,7 +773,11 @@
     "url": "/currencies/3x-short-sushi-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "3X Short TRX Token": {
     "name": "3X Short TRX Token",
