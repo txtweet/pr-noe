@@ -4800,7 +4800,15 @@
       "Token",
       "Marketplace",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9d8b...91e5a1a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BROTHER": {
     "name": "BROTHER",
@@ -4809,7 +4817,15 @@
     "tags": [
       "Token",
       "Philanthropy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9e77...80bd891"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BSYS": {
     "name": "BSYS",
@@ -4817,7 +4833,15 @@
     "url": "/currencies/bsys",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3004...f37b8d5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTC Lite": {
     "name": "BTC Lite",
@@ -4825,7 +4849,15 @@
     "url": "/currencies/btc-lite",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5acd...d8d1e50"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTC Network Demand Set II": {
     "name": "BTC Network Demand Set II",
@@ -4833,7 +4865,15 @@
     "url": "/currencies/btc-network-demand-set-ii",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xac8e...8cfdc8e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTCDOWN": {
     "name": "BTCDOWN",
@@ -4849,7 +4889,15 @@
     "url": "/currencies/btcmoon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa9aa...d8467bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTCUP": {
     "name": "BTCUP",
@@ -4865,7 +4913,15 @@
     "url": "/currencies/bts-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba9e...418925e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTSE": {
     "name": "BTSE",
@@ -4873,7 +4929,15 @@
     "url": "/currencies/btse",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x666d...00432ef"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BTU Protocol": {
     "name": "BTU Protocol",
@@ -4883,7 +4947,15 @@
       "Token",
       "Marketplace",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb683...371cc9f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BUMO": {
     "name": "BUMO",
@@ -4899,7 +4971,15 @@
     "url": "/currencies/bux-platform-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3276...75a7ca8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BUZZCoin": {
     "name": "BUZZCoin",
@@ -6032,6 +6112,15 @@
       "Store of Value",
       "Services",
       "DeFi"
+    ]
+  },
+  "Bitblocks": {
+    "name": "Bitblocks",
+    "short": "BBK",
+    "url": "/currencies/bitblocks",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "Bitbook Gambling": {
@@ -19179,6 +19268,14 @@
       "QuBit"
     ]
   },
+  "Litex": {
+    "name": "Litex",
+    "short": "LXT",
+    "url": "/currencies/litex",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lition": {
     "name": "Lition",
     "short": "LIT",
@@ -31494,6 +31591,14 @@
       "Token",
       "Media",
       "Music"
+    ]
+  },
+  "Vid": {
+    "name": "Vid",
+    "short": "VI",
+    "url": "/currencies/vid",
+    "tags": [
+      "Token"
     ]
   },
   "VideoCoin": {
