@@ -977,7 +977,15 @@
     "url": "/currencies/3x-short-tezos-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbc41...4E3aC1d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3x Short XRP Token": {
     "name": "3x Short XRP Token",
@@ -985,7 +993,15 @@
     "url": "/currencies/3x-short-xrp-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "XRPBEAR-00B"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "42-coin": {
     "name": "42-coin",
@@ -1004,7 +1020,15 @@
     "url": "/currencies/4artechnologies",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xff44...c9e7d73"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "4NEW": {
     "name": "4NEW",
@@ -1012,7 +1036,15 @@
     "url": "/currencies/4new",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x241b...a84a324"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "4THPILLAR TECHNOLOGIES": {
     "name": "4THPILLAR TECHNOLOGIES",
@@ -1020,7 +1052,15 @@
     "url": "/currencies/4thpillar-technologies",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4730...f37f4d0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "7Eleven": {
     "name": "7Eleven",
@@ -1028,7 +1068,15 @@
     "url": "/currencies/7eleven",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x186a...e463665"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "888tron": {
     "name": "888tron",
@@ -2919,6 +2967,14 @@
     "url": "/currencies/bdcc-bitica-coin",
     "tags": [
       "Token"
+    ]
+  },
+  "BEAR Coin": {
+    "name": "BEAR Coin",
+    "short": "BEAR",
+    "url": "/currencies/voytek-bear-coin",
+    "tags": [
+      "Coin"
     ]
   },
   "BEAT": {
@@ -19562,6 +19618,14 @@
     "url": "/currencies/npcoin",
     "tags": [
       "Coin"
+    ]
+  },
+  "NSS Coin": {
+    "name": "NSS Coin",
+    "short": "NSS",
+    "url": "/currencies/nss-coin",
+    "tags": [
+      "Token"
     ]
   },
   "NULS": {
