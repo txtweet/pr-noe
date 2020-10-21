@@ -17339,6 +17339,14 @@
       "Token"
     ]
   },
+  "Lendroid Support Token": {
+    "name": "Lendroid Support Token",
+    "short": "LST",
+    "url": "/currencies/lendroid-support-token",
+    "tags": [
+      "Token"
+    ]
+  },
   "Lethean": {
     "name": "Lethean",
     "short": "LTHN",
@@ -21488,6 +21496,16 @@
     "url": "/currencies/pantheon-x",
     "tags": [
       "Token"
+    ]
+  },
+  "PARETO Rewards": {
+    "name": "PARETO Rewards",
+    "short": "PARETO",
+    "url": "/currencies/pareto-rewards",
+    "tags": [
+      "Token",
+      "Asset management",
+      "Content Creation"
     ]
   },
   "PARSIQ": {
