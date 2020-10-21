@@ -15188,6 +15188,14 @@
       "Masternodes"
     ]
   },
+  "GoChain": {
+    "name": "GoChain",
+    "short": "GO",
+    "url": "/currencies/gochain",
+    "tags": [
+      "Coin"
+    ]
+  },
   "GoCrypto Token": {
     "name": "GoCrypto Token",
     "short": "GOC",
@@ -31084,6 +31092,15 @@
     "url": "/currencies/valobit",
     "tags": [
       "Token"
+    ]
+  },
+  "Valor Token": {
+    "name": "Valor Token",
+    "short": "VALOR",
+    "url": "/currencies/valor-token",
+    "tags": [
+      "Token",
+      "Asset management"
     ]
   },
   "Value DeFi Protocol": {
