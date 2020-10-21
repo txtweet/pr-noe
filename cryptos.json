@@ -270,7 +270,15 @@
     "url": "/currencies/1x-short-bitcoin-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1FA3...0a68814"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "2GIVE": {
     "name": "2GIVE",
@@ -289,7 +297,15 @@
     "url": "/currencies/3x-long-algorand-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5849...3814dad"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Long Altcoin Index Token": {
     "name": "3X Long Altcoin Index Token",
@@ -22552,6 +22568,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "Qube": {
+    "name": "Qube",
+    "short": "QUBE",
+    "url": "/currencies/qube",
+    "tags": [
+      "Token"
     ]
   },
   "Qubitica": {
