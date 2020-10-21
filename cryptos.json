@@ -9011,7 +9011,15 @@
     "url": "/currencies/bytus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x87f1...8ed6fcd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CACHE Gold": {
     "name": "CACHE Gold",
@@ -9019,7 +9027,11 @@
     "url": "/currencies/cache-gold",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CAPITAL X CELL": {
     "name": "CAPITAL X CELL",
