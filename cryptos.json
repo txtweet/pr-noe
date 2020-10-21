@@ -9861,7 +9861,15 @@
       "Token",
       "VR/AR",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x04f2...8ff0329"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Capricoin+": {
     "name": "Capricoin+",
@@ -9890,7 +9898,15 @@
     "url": "/currencies/carboneum-c8-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd42d...63a4a5d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cardano": {
     "name": "Cardano",
@@ -9922,7 +9938,15 @@
     "tags": [
       "Token",
       "Logistics"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb6ee...8097143"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Carrot": {
     "name": "Carrot",
@@ -9930,7 +9954,15 @@
     "url": "/currencies/carrot",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TZ7Evo...yFwRAS3"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Carry": {
     "name": "Carry",
