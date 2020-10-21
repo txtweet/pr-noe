@@ -785,7 +785,15 @@
     "url": "/currencies/3x-short-trx-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8680...79646eA"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short Tether Gold Token": {
     "name": "3X Short Tether Gold Token",
@@ -793,7 +801,15 @@
     "url": "/currencies/3x-short-tether-gold-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x31cb...d28ce47"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "3X Short TomoChain Token": {
     "name": "3X Short TomoChain Token",
@@ -29912,6 +29928,14 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
+    ]
+  },
+  "Wrapped Gen-0 CryptoKitties": {
+    "name": "Wrapped Gen-0 CryptoKitties",
+    "short": "WG0",
+    "url": "/currencies/wrapped-gen-0-cryptokitties",
+    "tags": [
+      "Token"
     ]
   },
   "Wrapped LEO": {
