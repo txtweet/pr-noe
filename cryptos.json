@@ -2415,7 +2415,15 @@
     "tags": [
       "Token",
       "Philanthropy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x37e8...6b91289"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aidos Kuneen": {
     "name": "Aidos Kuneen",
@@ -2431,7 +2439,15 @@
     "url": "/currencies/aigang",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1063...89ce988"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aion": {
     "name": "Aion",
@@ -2457,7 +2473,11 @@
       "Oracles",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "AirWire": {
     "name": "AirWire",
@@ -2474,7 +2494,15 @@
     "url": "/currencies/airbloc",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf8b3...14b79ea"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aitheon": {
     "name": "Aitheon",
@@ -2482,7 +2510,15 @@
     "url": "/currencies/aitheon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd536...2fa35a6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aitra": {
     "name": "Aitra",
@@ -2490,7 +2526,11 @@
     "url": "/currencies/aitra",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Akash Network": {
     "name": "Akash Network",
@@ -2517,7 +2557,15 @@
       "Token",
       "DeFi",
       "Substrate"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8ab7...ec853d7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aladdin": {
     "name": "Aladdin",
@@ -2527,7 +2575,15 @@
       "Token",
       "Platform",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x95a4...8379C18"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AladiEx": {
     "name": "AladiEx",
@@ -2535,7 +2591,15 @@
     "url": "/currencies/aladiex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x564f...6d6e4e8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Alchemint Standards": {
     "name": "Alchemint Standards",
@@ -2543,7 +2607,15 @@
     "url": "/currencies/alchemint-standards",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "6fad54...c217705"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Alchemy": {
     "name": "Alchemy",
@@ -2551,7 +2623,15 @@
     "url": "/currencies/alchemy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfd25...01df187"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Alchemy Pay": {
     "name": "Alchemy Pay",
@@ -2567,7 +2647,15 @@
     "url": "/currencies/aleph-im",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2770...84ef628"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Algorand": {
     "name": "Algorand",
@@ -18782,6 +18870,17 @@
       "Token"
     ]
   },
+  "Maggie": {
+    "name": "Maggie",
+    "short": "MAG",
+    "url": "/currencies/maggie",
+    "tags": [
+      "Token",
+      "Media",
+      "Entertainment",
+      "Payments"
+    ]
+  },
   "Magic Cube Coin": {
     "name": "Magic Cube Coin",
     "short": "MCC",
@@ -21394,6 +21493,14 @@
       "Token"
     ]
   },
+  "Obitan Chain": {
+    "name": "Obitan Chain",
+    "short": "OBTC",
+    "url": "/currencies/obitan-chain",
+    "tags": [
+      "Token"
+    ]
+  },
   "Observer": {
     "name": "Observer",
     "short": "OBSR",
@@ -22982,6 +23089,14 @@
       "Token"
     ]
   },
+  "PlotX": {
+    "name": "PlotX",
+    "short": "PLOT",
+    "url": "/currencies/plotx",
+    "tags": [
+      "Token"
+    ]
+  },
   "PluraCoin": {
     "name": "PluraCoin",
     "short": "PLURA",
@@ -24116,6 +24231,14 @@
     "tags": [
       "Coin",
       "Mineable"
+    ]
+  },
+  "RUSH": {
+    "name": "RUSH",
+    "short": "RUC",
+    "url": "/currencies/rush",
+    "tags": [
+      "Token"
     ]
   },
   "RabbitCoin": {
@@ -30183,6 +30306,16 @@
       "Mineable",
       "PoW",
       "Scrypt"
+    ]
+  },
+  "Viberate": {
+    "name": "Viberate",
+    "short": "VIB",
+    "url": "/currencies/viberate",
+    "tags": [
+      "Token",
+      "Media",
+      "Music"
     ]
   },
   "VideoCoin": {
