@@ -4365,7 +4365,15 @@
     "url": "/currencies/believer",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd1ef...62cef33"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BERNcash": {
     "name": "BERNcash",
@@ -4387,7 +4395,15 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfc29...042f434"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BHPCoin": {
     "name": "BHPCoin",
@@ -4404,7 +4420,15 @@
     "url": "/currencies/binance-idr",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BIDR-0E9"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "BIKI": {
     "name": "BIKI",
@@ -4412,7 +4436,15 @@
     "url": "/currencies/biki",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x70de...6e46930"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BITCOINHEDGE": {
     "name": "BITCOINHEDGE",
@@ -4426,7 +4458,15 @@
     "url": "/currencies/bitfxt-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x24d7...4a2317b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BITTO": {
     "name": "BITTO",
@@ -4434,7 +4474,15 @@
     "url": "/currencies/bitto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x55a2...da60456"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BIZKEY": {
     "name": "BIZKEY",
@@ -9840,6 +9888,14 @@
     "name": "DACSEE",
     "short": "DACS",
     "url": "/currencies/dacsee",
+    "tags": [
+      "Token"
+    ]
+  },
+  "DAD": {
+    "name": "DAD",
+    "short": "DAD",
+    "url": "/currencies/dad",
     "tags": [
       "Token"
     ]
@@ -29221,6 +29277,15 @@
     "url": "/currencies/thrive-token",
     "tags": [
       "Token"
+    ]
+  },
+  "Thunder Token": {
+    "name": "Thunder Token",
+    "short": "TT",
+    "url": "/currencies/thunder-token",
+    "tags": [
+      "Coin",
+      "Platform"
     ]
   },
   "Ti-Value": {
