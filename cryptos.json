@@ -1197,7 +1197,15 @@
     "tags": [
       "Token",
       "Marketing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0614...51a9cc8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ACoconut": {
     "name": "ACoconut",
@@ -1205,7 +1213,15 @@
     "url": "/currencies/acoconut",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9a0a...02c6183"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ADADOWN": {
     "name": "ADADOWN",
@@ -2834,6 +2850,17 @@
       "Token",
       "Platform",
       "Smart Contracts"
+    ]
+  },
+  "Auroracoin": {
+    "name": "Auroracoin",
+    "short": "AUR",
+    "url": "/currencies/auroracoin",
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "Scrypt"
     ]
   },
   "AurusCOIN": {
@@ -6670,6 +6697,15 @@
     "url": "/currencies/castweet",
     "tags": [
       "Token"
+    ]
+  },
+  "Cat Token": {
+    "name": "Cat Token",
+    "short": "CAT",
+    "url": "/currencies/cat-token",
+    "tags": [
+      "Token",
+      "Collectibles & NFTs"
     ]
   },
   "Catex Token": {
