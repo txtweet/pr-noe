@@ -10,6 +10,8 @@ crypto = _.find cryptos, (crypt) ->
   "Token" in crypt.tags and
   not ("forked_altcoin" in crypt.tags or "forked_bitcoin" in crypt.tags)
 
+console.warn "Token #{JSON.stringify crypto, null, 2}"
+
 request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'

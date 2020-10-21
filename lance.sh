@@ -9,6 +9,8 @@ while true; do
   coffee ./crawlTokens.coffee > tokens.json
   cp ./tokens.json cryptos.json
 
+  sleep 15
+
   echo "Token2"
   coffee ./crawlTokens.coffee > tokens.json
   cp ./tokens.json cryptos.json

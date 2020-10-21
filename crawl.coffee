@@ -5,7 +5,7 @@ cheerio = require 'cheerio'
 page = Math.floor(Math.random() * 37) + 1
 # Exclure la page d'une sous liste
 #while page in [1, 3, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 36, 37]
-while page in [1, 3, 5, 7, 8, 16, 17, 18, 19, 21, 22, 23, 24, 33]
+while page in [1, 3, 4, 5, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 33, 37]
   page = Math.floor(Math.random() * 37) + 1
 
 # page = 8

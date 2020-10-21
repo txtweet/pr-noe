@@ -2238,7 +2238,15 @@
     "url": "/currencies/aeryus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xac4d...a42685e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aeternity": {
     "name": "Aeternity",
