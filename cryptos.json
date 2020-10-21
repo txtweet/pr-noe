@@ -4726,7 +4726,15 @@
     "url": "/currencies/bosagora",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x746d...f06489e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BOSCore": {
     "name": "BOSCore",
@@ -4734,7 +4742,15 @@
     "url": "/currencies/boscore",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BOS-eo...o.token"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "BOScoin": {
     "name": "BOScoin",
@@ -4750,7 +4766,15 @@
     "url": "/currencies/box-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe1A1...d9d96dD"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BPOP": {
     "name": "BPOP",
@@ -4758,7 +4782,15 @@
     "url": "/currencies/bpop",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0452...176E32A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BQT": {
     "name": "BQT",
@@ -28014,6 +28046,14 @@
     "name": "Stellar Classic",
     "short": "XLMX",
     "url": "/currencies/stellar-classic",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Stellar Gold": {
+    "name": "Stellar Gold",
+    "short": "XLMG",
+    "url": "/currencies/stellar-gold",
     "tags": [
       "Token"
     ]
