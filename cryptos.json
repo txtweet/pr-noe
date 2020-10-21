@@ -9047,7 +9047,15 @@
     "url": "/currencies/carat",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x19ea...e1c087c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CAT.trade Protocol": {
     "name": "CAT.trade Protocol",
@@ -9055,7 +9063,15 @@
     "url": "/currencies/cat-trade-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xC774...942099E"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CBDAO": {
     "name": "CBDAO",
@@ -9063,7 +9079,15 @@
     "url": "/currencies/cbdao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4639...B1C792F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CCUniverse": {
     "name": "CCUniverse",
@@ -9071,7 +9095,11 @@
     "url": "/currencies/ccuniverse",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CDX Network": {
     "name": "CDX Network",
@@ -9079,7 +9107,15 @@
     "url": "/currencies/cdx-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6fff...a22c96b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CEDARS": {
     "name": "CEDARS",
@@ -9087,7 +9123,15 @@
     "url": "/currencies/cedars",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf256...f518b38"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CEDEX Coin": {
     "name": "CEDEX Coin",
@@ -9095,7 +9139,15 @@
     "url": "/currencies/cedex-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf406...dc46bc9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CEEK VR": {
     "name": "CEEK VR",
@@ -9103,7 +9155,15 @@
     "url": "/currencies/ceek-vr",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb056...60655e1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CENTERCOIN": {
     "name": "CENTERCOIN",
@@ -9111,7 +9171,15 @@
     "url": "/currencies/centercoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x262b...ac37bd3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CFun": {
     "name": "CFun",
@@ -9121,7 +9189,11 @@
       "Token",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "CHADS VC": {
     "name": "CHADS VC",
