@@ -5,7 +5,7 @@ cheerio = require 'cheerio'
 page = Math.floor(Math.random() * 37) + 1
 # Exclure la page d'une sous liste
 #while page in [1, 3, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 36, 37]
-while page in [1, 3, 4, 5, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 33, 37]
+while page in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
   page = Math.floor(Math.random() * 37) + 1
 
 # page = 8
@@ -43,22 +43,26 @@ request()
   if testCrypto[0]?
     Promise.each testCrypto, (crypto) ->
     # Promise.each (cryptos).slice(1, 3), (crypto) ->
-      unless sauve[crypto.name]?
-        request
-          url : 'https://coinmarketcap.com'+crypto.url
-          method: 'GET'
-        .then (body) ->
-          $ = cheerio.load(body)
-          #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
-          $('li.cmc-detail-panel-tags > span').each () ->
-            crypto.tags.push($(@).text())
-          console.error "->", crypto
-          sauve[crypto.name] = crypto
-        # console.log "coucou", crypto.name
-        # Promise.resolve()
-        .delay(Math.floor(Math.random() * 10000) + 5000)
+      unless crypto.url is "/currencies/vox.finance"
+        unless sauve[crypto.name]?
+          request
+            url : 'https://coinmarketcap.com'+crypto.url
+            method: 'GET'
+          .then (body) ->
+            $ = cheerio.load(body)
+            #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
+            $('li.cmc-detail-panel-tags > span').each () ->
+              crypto.tags.push($(@).text())
+            console.error "->", crypto
+            sauve[crypto.name] = crypto
+          # console.log "coucou", crypto.name
+          # Promise.resolve()
+          .delay(Math.floor(Math.random() * 10000) + 5000)
+        else
+          console.warn "Déjà indexée : ", crypto.name
+          Promise.resolve()
       else
-        console.warn "Déjà indexée : ", crypto.name
+        console.warn "VOX Finance indexée : #{page}, #{JSON.stringify crypto, null, 2}"
         Promise.resolve()
   else
     console.warn "Dernière Crypto indexée page #{page}"
