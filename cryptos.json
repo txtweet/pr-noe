@@ -1916,7 +1916,15 @@
     "url": "/currencies/abulaba",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd938...8ff89c4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Abyss": {
     "name": "Abyss",
@@ -1926,7 +1934,15 @@
       "Token",
       "Marketplace",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0e8d...f728da6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AceD": {
     "name": "AceD",
@@ -1934,7 +1950,15 @@
     "url": "/currencies/aced",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4b3a...90bb4ca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aces": {
     "name": "Aces",
@@ -1971,7 +1995,11 @@
     "url": "/currencies/acuity-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Acute Angle Cloud": {
     "name": "Acute Angle Cloud",
@@ -1979,7 +2007,15 @@
     "url": "/currencies/acute-angle-cloud",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe75a...21bd864"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AdEx Network": {
     "name": "AdEx Network",
@@ -1991,7 +2027,15 @@
       "Smart Contracts",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xade0...d12b7c3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AdHive": {
     "name": "AdHive",
@@ -2002,7 +2046,15 @@
       "Marketing",
       "AI & Big Data",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe69a...7802d31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Add.xyz": {
     "name": "Add.xyz",
@@ -2011,7 +2063,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9fbf...80f9b65"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Adelphoi": {
     "name": "Adelphoi",
@@ -2019,7 +2079,15 @@
     "url": "/currencies/adelphoi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x660e...2b06e61"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aditus": {
     "name": "Aditus",
@@ -2027,7 +2095,17 @@
     "url": "/currencies/aditus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ADI-6BB",
+        "0x8810...c46484a"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "AdsByWiFi": {
     "name": "AdsByWiFi",
@@ -2035,7 +2113,15 @@
     "url": "/currencies/adsbywifi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x24b8...9a775c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Adshares": {
     "name": "Adshares",
@@ -2098,7 +2184,17 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "AERGO-46B",
+        "0x91af...97fd4e6"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aeron": {
     "name": "Aeron",
@@ -2108,7 +2204,17 @@
       "Token",
       "Transport",
       "Data Provenance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ARN-71B",
+        "0xBA5F...9A8AEB6"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aerotoken": {
     "name": "Aerotoken",
@@ -2116,7 +2222,15 @@
     "url": "/currencies/aerotoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8c9e...bf03784"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aeryus": {
     "name": "Aeryus",
@@ -2304,6 +2418,14 @@
     "url": "/currencies/aitra",
     "tags": [
       "Token"
+    ]
+  },
+  "Akash Network": {
+    "name": "Akash Network",
+    "short": "AKT",
+    "url": "/currencies/akash-network",
+    "tags": [
+      "Coin"
     ]
   },
   "Akroma": {
@@ -2810,6 +2932,16 @@
     "url": "/currencies/arbitragect",
     "tags": [
       "Token"
+    ]
+  },
+  "Arcblock": {
+    "name": "Arcblock",
+    "short": "ABT",
+    "url": "/currencies/arcblock",
+    "tags": [
+      "Token",
+      "Marketplace",
+      "Interoperability"
     ]
   },
   "Arcona": {
@@ -5726,6 +5858,14 @@
     "name": "Blockchain Quotations Index Token",
     "short": "BQT",
     "url": "/currencies/blockchain-quotations-index-token",
+    "tags": [
+      "Token"
+    ]
+  },
+  "Blockcloud": {
+    "name": "Blockcloud",
+    "short": "BLOC",
+    "url": "/currencies/blockcloud",
     "tags": [
       "Token"
     ]
@@ -12493,6 +12633,14 @@
       "Token"
     ]
   },
+  "FLETA": {
+    "name": "FLETA",
+    "short": "FLETA",
+    "url": "/currencies/fleta",
+    "tags": [
+      "Token"
+    ]
+  },
   "FLEX": {
     "name": "FLEX",
     "short": "FLEX",
@@ -17483,6 +17631,18 @@
       "AI & Big Data"
     ]
   },
+  "Leading Coin 4 Entrepreneurs": {
+    "name": "Leading Coin 4 Entrepreneurs",
+    "short": "LC4",
+    "url": "/currencies/leading-coin-4-entrepreneurs",
+    "tags": [
+      "Token",
+      "PoW",
+      "Scrypt",
+      "PoW",
+      "Scrypt"
+    ]
+  },
   "LegalBlock": {
     "name": "LegalBlock",
     "short": "LBK",
@@ -20972,6 +21132,14 @@
       "Token"
     ]
   },
+  "OIN Finance": {
+    "name": "OIN Finance",
+    "short": "OIN",
+    "url": "/currencies/oin-finance",
+    "tags": [
+      "Token"
+    ]
+  },
   "OKB": {
     "name": "OKB",
     "short": "OKB",
@@ -22654,6 +22822,14 @@
       "Gambling",
       "Centralized exchange",
       "Gaming"
+    ]
+  },
+  "PlayDapp": {
+    "name": "PlayDapp",
+    "short": "PLA",
+    "url": "/currencies/playdapp",
+    "tags": [
+      "Token"
     ]
   },
   "PlayFuel": {
@@ -30877,6 +31053,14 @@
     "tags": [
       "Coin",
       "PoSign"
+    ]
+  },
+  "XTRD": {
+    "name": "XTRD",
+    "short": "XTRD",
+    "url": "/currencies/xtrd",
+    "tags": [
+      "Token"
     ]
   },
   "XTRM COIN": {
