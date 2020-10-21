@@ -3005,7 +3005,15 @@
     "url": "/currencies/amun-bitcoin-3x-daily-long",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7e5F...1B15568"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amun Bitcoin 3x Daily Short": {
     "name": "Amun Bitcoin 3x Daily Short",
@@ -3013,7 +3021,15 @@
     "url": "/currencies/amun-bitcoin-3x-daily-short",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1148...dC75f2A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Amun Ether 3x Daily Long": {
     "name": "Amun Ether 3x Daily Long",
@@ -24997,6 +25013,14 @@
     "tags": [
       "Coin",
       "PoS"
+    ]
+  },
+  "Rublix": {
+    "name": "Rublix",
+    "short": "RBLX",
+    "url": "/currencies/rublix",
+    "tags": [
+      "Token"
     ]
   },
   "Rubycoin": {
