@@ -4631,7 +4631,15 @@
     "tags": [
       "Token",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd996...E9fAaBb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BNSD Finance": {
     "name": "BNSD Finance",
@@ -4639,7 +4647,15 @@
     "url": "/currencies/bnsd-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x668D...9380188"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BOLT": {
     "name": "BOLT",
@@ -4647,7 +4663,15 @@
     "url": "/currencies/bolt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9f23...7689bcb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BOMB": {
     "name": "BOMB",
@@ -4655,7 +4679,15 @@
     "url": "/currencies/bomb",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1C95...8606714"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BOOM": {
     "name": "BOOM",
@@ -4663,7 +4695,15 @@
     "url": "/currencies/boom",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdb7e...9fe13fd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BORA": {
     "name": "BORA",
@@ -4674,7 +4714,11 @@
       "Marketplace",
       "Gaming",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "BOSAGORA": {
     "name": "BOSAGORA",
@@ -20273,6 +20317,14 @@
       "Token"
     ]
   },
+  "Menlo One": {
+    "name": "Menlo One",
+    "short": "ONE",
+    "url": "/currencies/menlo-one",
+    "tags": [
+      "Token"
+    ]
+  },
   "Mercury": {
     "name": "Mercury",
     "short": "MER",
@@ -31119,6 +31171,14 @@
     "name": "Vectorspace AI",
     "short": "VXV",
     "url": "/currencies/vectorspace-ai",
+    "tags": [
+      "Token"
+    ]
+  },
+  "VegaWallet Token": {
+    "name": "VegaWallet Token",
+    "short": "VGW",
+    "url": "/currencies/vegawallet-token",
     "tags": [
       "Token"
     ]
