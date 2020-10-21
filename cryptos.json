@@ -1327,7 +1327,15 @@
       "Health",
       "AI & Big Data",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x584b...16df151"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AICHAIN": {
     "name": "AICHAIN",
@@ -1335,7 +1343,15 @@
     "url": "/currencies/aichain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7965...ce4936c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AICON": {
     "name": "AICON",
@@ -1343,7 +1359,15 @@
     "url": "/currencies/aicon",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xE7FB...7093da3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AIDUS TOKEN": {
     "name": "AIDUS TOKEN",
@@ -1351,7 +1375,15 @@
     "url": "/currencies/aidus-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa957...05d4670"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AK12": {
     "name": "AK12",
@@ -1359,7 +1391,15 @@
     "url": "/currencies/ak12",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "316b64...b131cbd"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "ALAX": {
     "name": "ALAX",
@@ -1367,7 +1407,11 @@
     "url": "/currencies/alax",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "ALL BEST ICO": {
     "name": "ALL BEST ICO",
@@ -1375,7 +1419,15 @@
     "url": "/currencies/all-best-ico",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x65Ac...23bFd55"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ALLY": {
     "name": "ALLY",
@@ -1383,7 +1435,15 @@
     "url": "/currencies/ally",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9d56...0e88763"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ALP Coin": {
     "name": "ALP Coin",
@@ -10306,6 +10366,14 @@
       "Token",
       "Platform",
       "Enterprise solutions"
+    ]
+  },
+  "DreamTeam Token": {
+    "name": "DreamTeam Token",
+    "short": "DREAM",
+    "url": "/currencies/dreamteam-token",
+    "tags": [
+      "Token"
     ]
   },
   "Dreamcoin": {
@@ -30327,6 +30395,15 @@
     "url": "/currencies/x-block",
     "tags": [
       "Token"
+    ]
+  },
+  "X-CASH": {
+    "name": "X-CASH",
+    "short": "XCASH",
+    "url": "/currencies/x-cash",
+    "tags": [
+      "Coin",
+      "Mineable"
     ]
   },
   "X-Coin": {
