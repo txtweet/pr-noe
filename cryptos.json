@@ -9972,7 +9972,15 @@
       "Token",
       "Retail",
       "Loyalty"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x115e...626478e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cartesi": {
     "name": "Cartesi",
@@ -9987,7 +9995,15 @@
       "PoS",
       "Singapore",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4916...dd06b5d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cash Global Coin": {
     "name": "Cash Global Coin",
@@ -10003,7 +10019,15 @@
     "url": "/currencies/cashbackpro",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6f4e...f918f47"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cashaa": {
     "name": "Cashaa",
@@ -10012,7 +10036,17 @@
     "tags": [
       "Token",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "CAS-167",
+        "0xe878...91462f7"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cashbery Coin": {
     "name": "Cashbery Coin",
@@ -10037,7 +10071,15 @@
     "url": "/currencies/cashpayz-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x28ea...433e00e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Casino Betting Coin": {
     "name": "Casino Betting Coin",
@@ -10045,7 +10087,15 @@
     "url": "/currencies/casino-betting-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x26DB...91bDB6b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CasinoCoin": {
     "name": "CasinoCoin",
@@ -10065,7 +10115,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa644...6cbaf45"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Castle": {
     "name": "Castle",
@@ -10082,7 +10140,15 @@
     "url": "/currencies/castweet",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1a47...2f7c235"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cat Token": {
     "name": "Cat Token",
