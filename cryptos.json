@@ -16575,7 +16575,11 @@
     "url": "/currencies/etf-dao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "ETG Finance": {
     "name": "ETG Finance",
@@ -16583,7 +16587,15 @@
     "url": "/currencies/etg-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7460...7BE1952"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH 20 Day MA Crossover Set": {
     "name": "ETH 20 Day MA Crossover Set",
