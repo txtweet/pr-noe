@@ -12261,7 +12261,15 @@
     "url": "/currencies/crowdwiz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2f9b...763fbe2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Crowdholding": {
     "name": "Crowdholding",
@@ -12269,7 +12277,15 @@
     "url": "/currencies/crowdholding",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd9a1...3a5353d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Crown": {
     "name": "Crown",
@@ -12301,7 +12317,15 @@
     "url": "/currencies/crycash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf41e...d150077"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CryptalDash": {
     "name": "CryptalDash",
@@ -12309,7 +12333,15 @@
     "url": "/currencies/cryptaldash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcaaa...fcc31cc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cryptaur": {
     "name": "Cryptaur",
