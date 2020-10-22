@@ -16603,7 +16603,15 @@
     "url": "/currencies/eth-20-day-ma-crossover-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9ea4...0DD951D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH 20 Day MA Crossover Yield Set": {
     "name": "ETH 20 Day MA Crossover Yield Set",
@@ -16611,7 +16619,15 @@
     "url": "/currencies/eth-20-day-ma-crossover-yield-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xeF0f...2D668f4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH 26 EMA Crossover Yield II": {
     "name": "ETH 26 EMA Crossover Yield II",
@@ -16619,7 +16635,15 @@
     "url": "/currencies/eth-26-ma-crossover-yield-ii",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x54e8...Ba8a6bE"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH AI Limit Loss": {
     "name": "ETH AI Limit Loss",
@@ -16627,7 +16651,15 @@
     "url": "/currencies/eth-ai-limit-loss",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7e4d...8cb5a51"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH Price Action Candlestick Set": {
     "name": "ETH Price Action Candlestick Set",
@@ -16635,7 +16667,15 @@
     "url": "/currencies/eth-price-action-candlestick-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x09e4...04f9b83"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH RSI 60/40 Crossover Set": {
     "name": "ETH RSI 60/40 Crossover Set",
@@ -16643,7 +16683,15 @@
     "url": "/currencies/eth-rsi-60-40-crossover-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x93E0...3dBbDdB"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH RSI 60/40 Yield Set": {
     "name": "ETH RSI 60/40 Yield Set",
@@ -16651,7 +16699,15 @@
     "url": "/currencies/eth-rsi-60-40-yield-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x136f...Fd9f00b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH/BTC RSI Ratio Trading Set": {
     "name": "ETH/BTC RSI Ratio Trading Set",
@@ -16659,7 +16715,15 @@
     "url": "/currencies/eth-btc-rsi-ratio-trading-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbf70...2E9Ab50"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETH/LINK Price Action Candlestick Set": {
     "name": "ETH/LINK Price Action Candlestick Set",
@@ -16667,7 +16731,15 @@
     "url": "/currencies/eth-link-price-action-candlestick-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5421...4e80a2c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETHDOWN": {
     "name": "ETHDOWN",
@@ -16683,7 +16755,15 @@
     "url": "/currencies/ethplus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xEED7...8c628e2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ETHUP": {
     "name": "ETHUP",
