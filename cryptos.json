@@ -17092,7 +17092,11 @@
       "PoS",
       "Logistics",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Ecoin": {
     "name": "Ecoin",
@@ -17100,7 +17104,11 @@
     "url": "/currencies/ecoin-2",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Ecoreal Estate": {
     "name": "Ecoreal Estate",
@@ -17110,7 +17118,15 @@
       "Token",
       "Real Estate",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb052...9f9f010"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Eden": {
     "name": "Eden",
@@ -17118,7 +17134,15 @@
     "url": "/currencies/eden",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0586...1c629ce"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Edge": {
     "name": "Edge",
