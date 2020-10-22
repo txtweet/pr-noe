@@ -18196,7 +18196,15 @@
     "url": "/currencies/esports-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x18f5...f180cc0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Essek Tov": {
     "name": "Essek Tov",
@@ -18204,7 +18212,15 @@
     "url": "/currencies/essek-tov",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4526...9Ff3328"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Essentia": {
     "name": "Essentia",
@@ -18212,7 +18228,11 @@
     "url": "/currencies/essentia",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Eterbase Utility Token": {
     "name": "Eterbase Utility Token",
@@ -18220,7 +18240,15 @@
     "url": "/currencies/eterbase-utility-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5bdC...fB94329"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Eternity": {
     "name": "Eternity",
@@ -18239,7 +18267,15 @@
     "url": "/currencies/ethash-miner",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7a5e...56afe2f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ether Kingdoms Token": {
     "name": "Ether Kingdoms Token",
@@ -18247,7 +18283,15 @@
     "url": "/currencies/ether-kingdoms-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x48ff...0c15d36"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ether Zero": {
     "name": "Ether Zero",
@@ -18281,7 +18325,15 @@
     "url": "/currencies/etherbone",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x96b5...5Fd2660"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EtherGem": {
     "name": "EtherGem",
@@ -18316,7 +18368,15 @@
       "Media",
       "Gaming",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe8a1...ecdfded"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum": {
     "name": "Ethereum",
@@ -18336,7 +18396,15 @@
     "url": "/currencies/ethereumcash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d21...da0db84"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum Classic": {
     "name": "Ethereum Classic",
@@ -18379,7 +18447,15 @@
     "url": "/currencies/ethereum-gold-project",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa96f...48abde4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum Lite": {
     "name": "Ethereum Lite",
