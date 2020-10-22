@@ -13365,7 +13365,15 @@
     "url": "/currencies/deapcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1a34...ab08163"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DECENT": {
     "name": "DECENT",
@@ -13407,7 +13415,15 @@
     "url": "/currencies/deonex-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x50Ae...6ad63BC"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DEX": {
     "name": "DEX",
@@ -13415,7 +13431,15 @@
     "url": "/currencies/dex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x497b...B448B56"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DEXA COIN": {
     "name": "DEXA COIN",
@@ -13423,7 +13447,15 @@
     "url": "/currencies/dexa-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7254...18231cb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DEXTools": {
     "name": "DEXTools",
@@ -13431,7 +13463,15 @@
     "url": "/currencies/dextools",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x26ce...5197166"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DFI.Money": {
     "name": "DFI.Money",
@@ -13442,7 +13482,15 @@
       "DeFi",
       "Yield farming",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa1d0...3CCaB83"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DFOhub": {
     "name": "DFOhub",
@@ -13450,7 +13498,15 @@
     "url": "/currencies/dfohub",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7b12...94163db"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DIA": {
     "name": "DIA",
@@ -13460,7 +13516,15 @@
       "Token",
       "DeFi",
       "Oracles"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x84ca...b3c9419"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DIMCOIN": {
     "name": "DIMCOIN",
@@ -13468,7 +13532,11 @@
     "url": "/currencies/dimcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "DMD": {
     "name": "DMD",
@@ -13476,7 +13544,15 @@
     "url": "/currencies/dmd",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "DMD-eo...dtokens"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "DMM: Governance": {
     "name": "DMM: Governance",
@@ -13486,7 +13562,15 @@
       "Token",
       "Asset management",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xEd91...cF87b14"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DMScript": {
     "name": "DMScript",
@@ -13494,7 +13578,15 @@
     "url": "/currencies/dmscript",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF299...73EaF85"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DMarket": {
     "name": "DMarket",
@@ -13505,7 +13597,15 @@
       "Marketplace",
       "Entertainment",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ccb...d1935e1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DMme": {
     "name": "DMme",
@@ -13513,7 +13613,15 @@
     "url": "/currencies/dmme",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9556...769425f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DNotes": {
     "name": "DNotes",
@@ -13536,7 +13644,15 @@
       "Marketplace",
       "AI & Big Data",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x905E...034e745"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DOCH COIN": {
     "name": "DOCH COIN",
@@ -13544,7 +13660,15 @@
     "url": "/currencies/doch-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4a73...011c8af"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DODO": {
     "name": "DODO",
