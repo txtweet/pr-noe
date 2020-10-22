@@ -17626,7 +17626,15 @@
     "url": "/currencies/emirex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbdbC...daB9774"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Emphy": {
     "name": "Emphy",
@@ -17636,7 +17644,15 @@
       "Token",
       "Hospitality",
       "Sharing Economy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x50ee...8fd590d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Empow": {
     "name": "Empow",
@@ -17660,7 +17676,15 @@
     "url": "/currencies/en-tan-mo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6020...d933eaa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Enceladus Network": {
     "name": "Enceladus Network",
@@ -17668,7 +17692,15 @@
     "url": "/currencies/enceladus-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2021...a420f16"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EncrypGen": {
     "name": "EncrypGen",
@@ -17679,7 +17711,15 @@
       "Health",
       "AI & Big Data",
       "Research"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x82b0...b6fda81"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EncryptoTel [ETH]": {
     "name": "EncryptoTel [ETH]",
@@ -17687,7 +17727,15 @@
     "url": "/currencies/encryptotel-eth",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe0c7...6488278"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EncryptoTel [WAVES]": {
     "name": "EncryptoTel [WAVES]",
@@ -17695,7 +17743,11 @@
     "url": "/currencies/encryptotel",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Endor Protocol": {
     "name": "Endor Protocol",
@@ -17703,7 +17755,15 @@
     "url": "/currencies/endor-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc528...5760a0f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Endorsit": {
     "name": "Endorsit",
