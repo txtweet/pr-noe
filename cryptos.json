@@ -11796,7 +11796,15 @@
     "url": "/currencies/consensus-cell-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9b62...eb66e7f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Consentium": {
     "name": "Consentium",
@@ -11804,7 +11812,15 @@
     "url": "/currencies/consentium",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd869...0b4b51c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Constant": {
     "name": "Constant",
@@ -11815,7 +11831,15 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4983...64ca1ac"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Constellation": {
     "name": "Constellation",
@@ -11835,7 +11859,15 @@
     "url": "/currencies/content-neutrality-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8713...9325343"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Content Value Network": {
     "name": "Content Value Network",
@@ -11845,7 +11877,15 @@
       "Token",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6400...1df09ce"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ContentBox": {
     "name": "ContentBox",
@@ -11853,7 +11893,15 @@
     "url": "/currencies/contentbox",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x63f5...33e007f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Contentos": {
     "name": "Contentos",
@@ -11862,7 +11910,15 @@
     "tags": [
       "Token",
       "Media"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "COS-2E4"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Contribute": {
     "name": "Contribute",
@@ -11870,7 +11926,15 @@
     "url": "/currencies/contribute",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe092...8555af0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Convertible ACXT": {
     "name": "Convertible ACXT",
@@ -11878,7 +11942,15 @@
     "url": "/currencies/convertible-acxt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe2b8...f9da2ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cortex": {
     "name": "Cortex",
@@ -11898,7 +11970,15 @@
     "url": "/currencies/cosmo-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd1e1...4c71443"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cosmos": {
     "name": "Cosmos",
@@ -11921,7 +12001,15 @@
     "url": "/currencies/couchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf091...f18f164"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Counos Coin": {
     "name": "Counos Coin",
@@ -11956,7 +12044,15 @@
     "url": "/currencies/coupon-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfc4b...46a62De"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Covesting": {
     "name": "Covesting",
@@ -11965,7 +12061,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe2fb...087d567"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cowboy.Finance": {
     "name": "Cowboy.Finance",
@@ -11974,7 +12078,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0be...e0a5dd3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cream": {
     "name": "Cream",
@@ -11993,7 +12105,15 @@
       "Token",
       "DeFi",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ba5...97cb200"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Creatanium": {
     "name": "Creatanium",
@@ -12001,7 +12121,15 @@
     "url": "/currencies/creatanium",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe541...b4e516e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cred": {
     "name": "Cred",
@@ -12010,7 +12138,15 @@
     "tags": [
       "Token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfe5f...7490657"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Credit Tag Chain": {
     "name": "Credit Tag Chain",
@@ -12038,7 +12174,15 @@
       "Token",
       "Services",
       "IoT"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x46b9...f699d31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Credo": {
     "name": "Credo",
@@ -12048,7 +12192,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4e06...12f64be"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Creed Finance": {
     "name": "Creed Finance",
@@ -12056,7 +12208,15 @@
     "url": "/currencies/creed-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x675e...7a6f0ad"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CrevaCoin": {
     "name": "CrevaCoin",
@@ -12073,7 +12233,11 @@
     "url": "/currencies/crex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Crowd Machine": {
     "name": "Crowd Machine",
@@ -12081,7 +12245,15 @@
     "url": "/currencies/crowd-machine",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x47bc...93a8cfb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CrowdWiz": {
     "name": "CrowdWiz",
