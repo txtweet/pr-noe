@@ -18910,7 +18910,15 @@
     "url": "/currencies/exchange-payment-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5330...c1c2442"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Exchange Union": {
     "name": "Exchange Union",
@@ -18918,7 +18926,15 @@
     "url": "/currencies/exchange-union",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc324...63287cb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ExclusiveCoin": {
     "name": "ExclusiveCoin",
@@ -18956,7 +18972,15 @@
     "url": "/currencies/experience-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "e8f984...e162e97"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Experty": {
     "name": "Experty",
@@ -18964,7 +18988,15 @@
     "url": "/currencies/experty",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5c74...1cf44f3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ExtStock Token": {
     "name": "ExtStock Token",
@@ -18972,7 +19004,15 @@
     "url": "/currencies/extstock-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xef65...1a19bba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EzyStayz": {
     "name": "EzyStayz",
@@ -18980,7 +19020,15 @@
     "url": "/currencies/ezystayz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xA6D5...5D4A58D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FABRK": {
     "name": "FABRK",
@@ -18990,7 +19038,15 @@
       "Token",
       "Platform",
       "AI & Big Data"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1268...b9d8a91"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FANBI TOKEN": {
     "name": "FANBI TOKEN",
@@ -18998,7 +19054,15 @@
     "url": "/currencies/fanbi-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7a97...4cc13db"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FANZY": {
     "name": "FANZY",
@@ -19006,7 +19070,15 @@
     "url": "/currencies/fanzy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xED0e...08BbB75"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FC Barcelona Fan Token": {
     "name": "FC Barcelona Fan Token",
@@ -19014,7 +19086,11 @@
     "url": "/currencies/fc-barcelona-fan-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "FEX Token": {
     "name": "FEX Token",
@@ -19022,7 +19098,15 @@
     "url": "/currencies/fex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2712...21646a1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FIBOS": {
     "name": "FIBOS",
@@ -19039,7 +19123,15 @@
     "url": "/currencies/financial-investment-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaf79...f821D89"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FIO Protocol": {
     "name": "FIO Protocol",
@@ -19055,7 +19147,15 @@
     "url": "/currencies/flama",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0f87...114f6C4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FLETA": {
     "name": "FLETA",
@@ -19063,7 +19163,15 @@
     "url": "/currencies/fleta",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7788...e068fc6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FLEX": {
     "name": "FLEX",
