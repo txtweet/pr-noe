@@ -17771,7 +17771,15 @@
     "url": "/currencies/endorsit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "81c089...f34b5c0"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Enecuum": {
     "name": "Enecuum",
@@ -17806,7 +17814,15 @@
     "url": "/currencies/energitoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3c4a...4d90fde"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Energo": {
     "name": "Energo",
@@ -17815,7 +17831,11 @@
     "tags": [
       "Token",
       "Energy"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Energy Web Token": {
     "name": "Energy Web Token",
@@ -17849,7 +17869,15 @@
     "url": "/currencies/engine",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaf8a...21813bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Enigma": {
     "name": "Enigma",
@@ -17859,7 +17887,15 @@
       "Token",
       "Platform",
       "Privacy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0ee...15a23e4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Enjin Coin": {
     "name": "Enjin Coin",
@@ -17870,7 +17906,11 @@
       "Media",
       "Collectibles & NFTs",
       "Gaming"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "EnterCoin": {
     "name": "EnterCoin",
@@ -17878,7 +17918,15 @@
     "url": "/currencies/entercoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd9d0...1fd0628"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Entherfound": {
     "name": "Entherfound",
