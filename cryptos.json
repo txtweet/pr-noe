@@ -19179,7 +19179,11 @@
     "url": "/currencies/flex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "FLIP": {
     "name": "FLIP",
@@ -19187,7 +19191,15 @@
     "url": "/currencies/flip",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3a1b...f79bcd3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FLO": {
     "name": "FLO",
@@ -19206,7 +19218,15 @@
     "url": "/currencies/flux",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x469e...15cb1d9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FME": {
     "name": "FME",
@@ -19214,7 +19234,15 @@
     "url": "/currencies/fme",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9479...5a525d0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FNB Protocol": {
     "name": "FNB Protocol",
@@ -19223,7 +19251,15 @@
     "tags": [
       "Token",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x47b2...4b35129"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FNKOS": {
     "name": "FNKOS",
@@ -19231,7 +19267,15 @@
     "url": "/currencies/fnkos",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0707...137b02e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FOAM": {
     "name": "FOAM",
