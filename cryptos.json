@@ -17012,7 +17012,15 @@
       "Token",
       "Education",
       "Jobs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa6a8...41156ee"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Echoin": {
     "name": "Echoin",
@@ -17020,7 +17028,15 @@
     "url": "/currencies/echoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x12fd...52d4d61"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Eco Value Coin": {
     "name": "Eco Value Coin",
@@ -17033,7 +17049,15 @@
       "Technology",
       "Medium of Exchange",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaa84...e333124"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EcoDollar": {
     "name": "EcoDollar",
@@ -17049,7 +17073,15 @@
     "url": "/currencies/ecog9coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc0ec...a21fd48"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ecobit": {
     "name": "Ecobit",
