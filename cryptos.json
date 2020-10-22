@@ -17199,7 +17199,15 @@
     "url": "/currencies/edu-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf263...a874b7c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Education Ecosystem": {
     "name": "Education Ecosystem",
@@ -17208,7 +17216,15 @@
     "tags": [
       "Token",
       "Education"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc741...3bda091"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Effect.AI": {
     "name": "Effect.AI",
@@ -17216,7 +17232,15 @@
     "url": "/currencies/effect-ai",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "effecttokens"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Egas": {
     "name": "Egas",
@@ -17224,7 +17248,11 @@
     "url": "/currencies/egas",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Egoras": {
     "name": "Egoras",
