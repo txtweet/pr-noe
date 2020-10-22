@@ -17154,7 +17154,15 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfb2f...4d96fba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Edgeless": {
     "name": "Edgeless",
@@ -17163,7 +17171,15 @@
     "tags": [
       "Token",
       "Gambling"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0871...7f8e39c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Edgeware": {
     "name": "Edgeware",
