@@ -16779,7 +16779,15 @@
     "url": "/currencies/ethplode",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe0c6...a93711c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EUNO": {
     "name": "EUNO",
@@ -16796,7 +16804,15 @@
     "url": "/currencies/eunomia",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0f61...0a27b16"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EURBASE": {
     "name": "EURBASE",
@@ -16806,7 +16822,15 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x86fa...232ba0f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EVOS": {
     "name": "EVOS",
@@ -16822,7 +16846,15 @@
     "url": "/currencies/exmo-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8386...88c0f62"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EXMR FDN": {
     "name": "EXMR FDN",
