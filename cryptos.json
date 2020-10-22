@@ -16862,7 +16862,15 @@
     "url": "/currencies/exmr-fdn",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x331f...c5ef529"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EXOR": {
     "name": "EXOR",
@@ -16881,7 +16889,15 @@
       "Platform",
       "Interoperability",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe469...c796e75"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EYES Protocol": {
     "name": "EYES Protocol",
@@ -16889,7 +16905,15 @@
     "url": "/currencies/eyes-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2dca...3bc0c30"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EZOOW": {
     "name": "EZOOW",
@@ -16897,7 +16921,15 @@
     "url": "/currencies/ezoow",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x78a2...106dcf2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EagleX": {
     "name": "EagleX",
@@ -16913,7 +16945,15 @@
     "url": "/currencies/earnbet",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "BET-wa...vidends"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Earneo": {
     "name": "Earneo",
@@ -16922,7 +16962,15 @@
     "tags": [
       "Token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "RNO-14E"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "EasyFi": {
     "name": "EasyFi",
@@ -16930,7 +16978,15 @@
     "url": "/currencies/easyfi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x913D...a4F0729"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EasySwap": {
     "name": "EasySwap",
@@ -16938,7 +16994,15 @@
     "url": "/currencies/easyswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa047...a8f0dab"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EchoLink": {
     "name": "EchoLink",
