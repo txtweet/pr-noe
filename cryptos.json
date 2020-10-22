@@ -13693,7 +13693,15 @@
     "url": "/currencies/dogefi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9b90...a26646d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DOS Network": {
     "name": "DOS Network",
@@ -13703,7 +13711,15 @@
       "Token",
       "Oracles",
       "Binance Smart Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0A91...2659cB7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DOTDOWN": {
     "name": "DOTDOWN",
