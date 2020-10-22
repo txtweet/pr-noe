@@ -16071,7 +16071,15 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x419c...9fda05e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DreamTeam Token": {
     "name": "DreamTeam Token",
@@ -16079,7 +16087,15 @@
     "url": "/currencies/dreamteam-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x82f4...fc16587"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dreamcoin": {
     "name": "Dreamcoin",
@@ -16097,7 +16113,15 @@
       "Token",
       "Marketplace",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4672...85a8a31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DubaiCoin": {
     "name": "DubaiCoin",
@@ -16116,7 +16140,15 @@
     "url": "/currencies/ducato-protocol-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa117...75C228d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DuckDaoDime": {
     "name": "DuckDaoDime",
@@ -16124,7 +16156,15 @@
     "url": "/currencies/duckdaodime",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfbee...4558e20"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dune Network": {
     "name": "Dune Network",
@@ -16143,7 +16183,17 @@
       "Marketplace",
       "Privacy",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "DUSK-45E",
+        "0x940a...a4aa551"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "DxChain Token": {
     "name": "DxChain Token",
@@ -16154,7 +16204,15 @@
       "Technology",
       "AI & Big Data",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x973e...27041A9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dynamic": {
     "name": "Dynamic",
@@ -16174,7 +16232,15 @@
     "tags": [
       "Token",
       "Marketplace"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd234...f18ccd7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dynamite": {
     "name": "Dynamite",
@@ -16182,7 +16248,15 @@
     "url": "/currencies/dynamite",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3b7f...4b069f7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dystem": {
     "name": "Dystem",
@@ -16199,7 +16273,11 @@
     "url": "/currencies/ea-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "EBCoin": {
     "name": "EBCoin",
@@ -16207,7 +16285,15 @@
     "url": "/currencies/ebcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x31f3...f3e13c5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ECC": {
     "name": "ECC",
@@ -16233,7 +16319,15 @@
     "url": "/currencies/ecosc",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8fc9...2B8C2e5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EDC Blockchain": {
     "name": "EDC Blockchain",
@@ -16275,7 +16369,15 @@
       "Token",
       "Education",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4ecd...27a5452"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EIDOS": {
     "name": "EIDOS",
@@ -16283,7 +16385,15 @@
     "url": "/currencies/eidos",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "EIDOS-...onecoin"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "ELTCOIN": {
     "name": "ELTCOIN",
@@ -16291,7 +16401,15 @@
     "url": "/currencies/eltcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4419...d56caaf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ELYSIA": {
     "name": "ELYSIA",
@@ -16299,7 +16417,15 @@
     "url": "/currencies/elysia",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2781...2877b16"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EMOGI Network": {
     "name": "EMOGI Network",
@@ -16307,7 +16433,11 @@
     "url": "/currencies/emogi-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "ENTONE": {
     "name": "ENTONE",
@@ -16315,7 +16445,15 @@
     "url": "/currencies/entone",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xEc1a...bb2b88C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EOS": {
     "name": "EOS",
@@ -16343,7 +16481,15 @@
     "url": "/currencies/eos-trust",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8721...dabcd55"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EOSDOWN": {
     "name": "EOSDOWN",
@@ -16362,7 +16508,15 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "eosdtsttoken"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "ERC20": {
     "name": "ERC20",
@@ -16372,7 +16526,15 @@
       "Token",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc376...3c4f9ea"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ESAX Token": {
     "name": "ESAX Token",
@@ -16380,7 +16542,15 @@
     "url": "/currencies/esax-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc205...C613658"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ESBC": {
     "name": "ESBC",
