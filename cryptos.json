@@ -36242,7 +36242,15 @@
     "url": "/currencies/precium",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6096...ad35123"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Predix Network": {
     "name": "Predix Network",
