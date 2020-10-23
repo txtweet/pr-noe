@@ -29114,7 +29114,15 @@
     "url": "/currencies/magic-liquidity-rainbow",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x33c2...d160699"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MaidSafeCoin": {
     "name": "MaidSafeCoin",
@@ -29125,7 +29133,11 @@
       "Platform",
       "Distributed Computing",
       "Filesharing"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Maincoin": {
     "name": "Maincoin",
@@ -29133,7 +29145,15 @@
     "url": "/currencies/maincoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9f0f...0e4d5bf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mainframe": {
     "name": "Mainframe",
@@ -29144,7 +29164,15 @@
       "Platform",
       "Content Creation",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdf2c...a4b7428"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mainstream For The Underground": {
     "name": "Mainstream For The Underground",
@@ -29152,7 +29180,15 @@
     "url": "/currencies/mainstream-for-the-underground",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x05d4...586d8e8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Maker": {
     "name": "Maker",
@@ -29162,7 +29198,15 @@
       "Token",
       "Store of Value",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9f8f...3a579a2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Maki Finance": {
     "name": "Maki Finance",
@@ -29170,7 +29214,15 @@
     "url": "/currencies/maki-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x270D...5e30a27"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mallcoin": {
     "name": "Mallcoin",
@@ -29178,7 +29230,15 @@
     "url": "/currencies/mallcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc72e...d338906"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MalwareChain": {
     "name": "MalwareChain",
