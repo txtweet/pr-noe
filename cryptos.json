@@ -29254,7 +29254,15 @@
     "url": "/currencies/mandi-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5aA4...3322764"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MangoChain": {
     "name": "MangoChain",
@@ -29262,7 +29270,11 @@
     "url": "/currencies/mangochain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Manna": {
     "name": "Manna",
@@ -29279,7 +29291,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8888...633c150"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MargiX": {
     "name": "MargiX",
@@ -29289,7 +29309,15 @@
       "Token",
       "DeFi",
       "DApp"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1412...B85F68A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Markaccy": {
     "name": "Markaccy",
@@ -29306,7 +29334,15 @@
     "tags": [
       "Token",
       "Ethereum"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x633e...f9Dee1d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Maro": {
     "name": "Maro",
@@ -29324,7 +29360,15 @@
     "url": "/currencies/marshal-lion-group-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4534...5b09f52"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MarteXcoin": {
     "name": "MarteXcoin",
