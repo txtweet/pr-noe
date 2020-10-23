@@ -28628,7 +28628,15 @@
       "Token",
       "Platform",
       "DApp"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MEETONE-031"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "MEETtoken": {
     "name": "MEETtoken",
@@ -28636,7 +28644,15 @@
     "url": "/currencies/meettoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe54b...fd9e99a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MERCI": {
     "name": "MERCI",
