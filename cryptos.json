@@ -29578,7 +29578,15 @@
       "Platform",
       "Distributed Computing",
       "Staking"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8e76...09b0439"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Maya Preferred 223": {
     "name": "Maya Preferred 223",
@@ -29586,7 +29594,11 @@
     "url": "/currencies/maya-preferred-223",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Mazzuma": {
     "name": "Mazzuma",
@@ -29603,7 +29615,15 @@
     "tags": [
       "Token",
       "Mineable"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MCASH-869"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Mchain": {
     "name": "Mchain",
@@ -29621,7 +29641,15 @@
       "Token",
       "Marketplace",
       "AI & Big Data"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x814e...cdf7d26"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MeconCash": {
     "name": "MeconCash",
