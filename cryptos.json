@@ -23584,7 +23584,11 @@
     "url": "/currencies/huobi-btc",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Huobi Pool Token": {
     "name": "Huobi Pool Token",
@@ -23592,7 +23596,15 @@
     "url": "/currencies/huobi-pool-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa66d...5f95213"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Huobi Token": {
     "name": "Huobi Token",
@@ -23603,7 +23615,15 @@
       "Marketplace",
       "Discount token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6f25...68aa161"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hurify": {
     "name": "Hurify",
@@ -23611,7 +23631,15 @@
     "url": "/currencies/hurify",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcdb7...4890a47"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hush": {
     "name": "Hush",
@@ -23630,7 +23658,15 @@
     "url": "/currencies/hxro",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4bd7...25438f3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hybrid Bank Cash": {
     "name": "Hybrid Bank Cash",
@@ -23638,7 +23674,15 @@
     "url": "/currencies/hybrid-bank-cash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xFb95...bD1555F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hybrid Block": {
     "name": "Hybrid Block",
@@ -23646,7 +23690,15 @@
     "url": "/currencies/hybrid-block",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6059...d837c90"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hydro": {
     "name": "Hydro",
@@ -23656,7 +23708,15 @@
       "Token",
       "Platform",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xebbd...24649bc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hydro Protocol": {
     "name": "Hydro Protocol",
@@ -23667,7 +23727,15 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9af8...55493a1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hyper Pay": {
     "name": "Hyper Pay",
@@ -23675,7 +23743,11 @@
     "url": "/currencies/hyper-pay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Hyper Speed Network": {
     "name": "Hyper Speed Network",
@@ -23683,7 +23755,15 @@
     "url": "/currencies/hyper-speed-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3655...c19c8fd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HyperCash": {
     "name": "HyperCash",
@@ -23703,7 +23783,15 @@
     "url": "/currencies/hyperdao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x74fa...7274ffd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HyperExchange": {
     "name": "HyperExchange",
@@ -23719,7 +23807,15 @@
     "url": "/currencies/hyperquant",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3e1d...12b1322"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hyperion": {
     "name": "Hyperion",
@@ -23729,7 +23825,15 @@
       "Token",
       "Platform",
       "Geospatial services"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe99a...7d2bc07"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hyprr (Howdoo)": {
     "name": "Hyprr (Howdoo)",
@@ -23737,7 +23841,15 @@
     "url": "/currencies/hyprr",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x12f6...5892ffb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "I/O Coin": {
     "name": "I/O Coin",
@@ -23755,7 +23867,15 @@
     "url": "/currencies/ibstoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0e6...49e00f4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ICE ROCK MINING": {
     "name": "ICE ROCK MINING",
@@ -23763,7 +23883,15 @@
     "url": "/currencies/ice-rock-mining",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xC16b...e357cA6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ICOBID": {
     "name": "ICOBID",
@@ -23781,7 +23909,15 @@
     "url": "/currencies/icocalendar-today",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2d71...a829ba9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ICON": {
     "name": "ICON",
@@ -23800,7 +23936,15 @@
     "url": "/currencies/idcm-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x73d7...80f7408"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "IDEX": {
     "name": "IDEX",
@@ -23809,7 +23953,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb705...cbdcfae"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "IDEX Membership": {
     "name": "IDEX Membership",
