@@ -22601,7 +22601,15 @@
     "url": "/currencies/hamebi-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xC3b2...81E4929"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hanacoin": {
     "name": "Hanacoin",
@@ -22617,7 +22625,15 @@
     "url": "/currencies/hands-of-steel",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6f02...101dfec"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Handshake ": {
     "name": "Handshake ",
