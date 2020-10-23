@@ -26678,7 +26678,15 @@
     "url": "/currencies/kuverit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf70d...db91170"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Kyber Network": {
     "name": "Kyber Network",
@@ -26689,7 +26697,15 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdd97...86bd200"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LALA World": {
     "name": "LALA World",
@@ -26698,7 +26714,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfd10...40fa8c9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LATOKEN": {
     "name": "LATOKEN",
@@ -26709,7 +26733,15 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe503...21bcddf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LBK": {
     "name": "LBK",
