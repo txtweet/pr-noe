@@ -35550,7 +35550,15 @@
     "url": "/currencies/pixie-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc27c...4b7b11f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pizza": {
     "name": "Pizza",
@@ -35558,7 +35566,15 @@
     "url": "/currencies/pizza",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "pizzatotoken"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Plair": {
     "name": "Plair",
@@ -35566,7 +35582,11 @@
     "url": "/currencies/plair",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "PlatinumBAR": {
     "name": "PlatinumBAR",
@@ -35585,7 +35605,15 @@
     "url": "/currencies/platoncoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x429D...070a07f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Play Royal": {
     "name": "Play Royal",
@@ -35594,7 +35622,15 @@
     "tags": [
       "Token",
       "Gambling"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TYbSzw...eNN6FkB"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "PlayChip": {
     "name": "PlayChip",
@@ -35605,7 +35641,15 @@
       "Gambling",
       "Centralized exchange",
       "Gaming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0198...0536CD5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PlayDapp": {
     "name": "PlayDapp",
@@ -35613,7 +35657,15 @@
     "url": "/currencies/playdapp",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3a4f...3fCb430"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PlayFuel": {
     "name": "PlayFuel",
@@ -35621,7 +35673,15 @@
     "url": "/currencies/playfuel",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaDA6...4FFd4Ef"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PlayGame": {
     "name": "PlayGame",
@@ -35629,7 +35689,15 @@
     "url": "/currencies/playgame",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x47e6...d47437e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Playgroundz": {
     "name": "Playgroundz",
@@ -35637,7 +35705,15 @@
     "url": "/currencies/playgroundz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1c4b...e712006"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Playkey": {
     "name": "Playkey",
@@ -35648,7 +35724,15 @@
       "Media",
       "Gaming",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2604...815e83f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pledge Coin": {
     "name": "Pledge Coin",
@@ -35656,7 +35740,17 @@
     "url": "/currencies/pledge-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "PLG-D8D",
+        "0x85ca...BD921bD"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "PlotX": {
     "name": "PlotX",
@@ -35664,7 +35758,15 @@
     "url": "/currencies/plotx",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x72f0...d0c66bb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PluraCoin": {
     "name": "PluraCoin",
@@ -35681,7 +35783,15 @@
     "url": "/currencies/plus-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x97fb...04f8a35"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PlusOneCoin": {
     "name": "PlusOneCoin",
@@ -35700,7 +35810,15 @@
       "Token",
       "Services",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd891...a12264e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Po.et": {
     "name": "Po.et",
@@ -35709,7 +35827,15 @@
     "tags": [
       "Token",
       "Media"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0e09...ec9b195"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PoSW Coin": {
     "name": "PoSW Coin",
@@ -35725,7 +35851,15 @@
     "url": "/currencies/pocketnode",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x435d...187b131"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pofid Dao": {
     "name": "Pofid Dao",
@@ -35733,7 +35867,15 @@
     "url": "/currencies/pofid-dao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x87c4...efabd0c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PointPay": {
     "name": "PointPay",
@@ -35741,7 +35883,15 @@
     "url": "/currencies/pointpay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8f17...2c46584"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Polis": {
     "name": "Polis",
@@ -35770,7 +35920,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x83e6...ac3d5aa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pollux Coin": {
     "name": "Pollux Coin",
