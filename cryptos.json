@@ -24551,7 +24551,11 @@
       "Token",
       "Platform",
       "Loyalty"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Independent Money System": {
     "name": "Independent Money System",
@@ -24584,7 +24588,15 @@
     "url": "/currencies/index-cooperative",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0954...8464cab"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Indorse Token": {
     "name": "Indorse Token",
