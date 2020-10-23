@@ -22870,7 +22870,15 @@
     "url": "/currencies/heartbout",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe249...bd84089"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HeartBout Pay": {
     "name": "HeartBout Pay",
@@ -22878,7 +22886,15 @@
     "url": "/currencies/heartbout-pay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5a4b...dd3e7c6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HebeBlock": {
     "name": "HebeBlock",
@@ -22909,7 +22925,15 @@
       "Asset management",
       "Marketplace",
       "Discount token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF129...2Cc654F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hedget": {
     "name": "Hedget",
@@ -22917,7 +22941,15 @@
     "url": "/currencies/hedget",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7968...0f35148"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hegic": {
     "name": "Hegic",
