@@ -31268,7 +31268,15 @@
     "url": "/currencies/mytvchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x45af...26d7978"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MyToken": {
     "name": "MyToken",
@@ -31276,7 +31284,15 @@
     "url": "/currencies/mytoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9b4e...71b37cc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MyWish": {
     "name": "MyWish",
@@ -31284,7 +31300,15 @@
     "url": "/currencies/mywish",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "WISH-2D5"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Myriad": {
     "name": "Myriad",
@@ -31305,7 +31329,15 @@
       "Token",
       "Platform",
       "Distributed Computing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa645...94B0A71"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NAGA": {
     "name": "NAGA",
@@ -31315,7 +31347,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x72dd...88cf131"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NANJCOIN": {
     "name": "NANJCOIN",
@@ -31323,7 +31363,15 @@
     "url": "/currencies/nanjcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xffe0...7b9e265"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NDN Link": {
     "name": "NDN Link",
@@ -31331,7 +31379,15 @@
     "url": "/currencies/ndn-link",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6ec4...ca35382"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NEAR Protocol": {
     "name": "NEAR Protocol",
@@ -31368,7 +31424,15 @@
     "tags": [
       "Token",
       "Oracles"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x04ab...4ddc74c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NEXT": {
     "name": "NEXT",
@@ -31378,7 +31442,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF292...D707548"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NEXT.coin": {
     "name": "NEXT.coin",
@@ -31395,7 +31467,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcB8d...7AF7042"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NFX Coin": {
     "name": "NFX Coin",
@@ -31403,7 +31483,15 @@
     "url": "/currencies/nfx-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2d39...86c3aee"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NIX": {
     "name": "NIX",
@@ -31435,7 +31523,15 @@
     "url": "/currencies/nnb-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb66a...03efb51"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NOIA Network": {
     "name": "NOIA Network",
@@ -31443,7 +31539,15 @@
     "url": "/currencies/noia-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa8c8...CD7b6ca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NOIZ": {
     "name": "NOIZ",
@@ -31451,7 +31555,15 @@
     "url": "/currencies/noizchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3615...38953c2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NOODLE Finance": {
     "name": "NOODLE Finance",
@@ -31460,7 +31572,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x420A...758458C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NOVA": {
     "name": "NOVA",
@@ -31468,7 +31588,15 @@
     "url": "/currencies/nova",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xB48B...CFc12f6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NOW Token": {
     "name": "NOW Token",
@@ -31478,7 +31606,17 @@
       "Token",
       "Ethereum",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "NOW-E68",
+        "0xe9a9...837693b"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "NPCoin": {
     "name": "NPCoin",
@@ -31494,7 +31632,15 @@
     "url": "/currencies/nss-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4e3b...ced5bc8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NULS": {
     "name": "NULS",
@@ -31515,7 +31661,15 @@
       "Token",
       "DeFi",
       "Insurance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd7c4...9d4cf3b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NaPoleonX": {
     "name": "NaPoleonX",
@@ -31525,7 +31679,15 @@
       "Token",
       "Asset management",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x28b5...f684a02"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NairaX": {
     "name": "NairaX",
@@ -31533,7 +31695,15 @@
     "url": "/currencies/nairax",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0cc...c7c6adb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Naka Bodhi Token": {
     "name": "Naka Bodhi Token",
@@ -31541,7 +31711,15 @@
     "url": "/currencies/naka-bodhi-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x09Cc...37138b8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Namecoin": {
     "name": "Namecoin",
@@ -31561,7 +31739,15 @@
     "url": "/currencies/nantrade",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb393...b8a0212"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nano": {
     "name": "Nano",
@@ -31581,7 +31767,15 @@
     "url": "/currencies/narrative",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "a721d5...0b5b1c2"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Nasdacoin": {
     "name": "Nasdacoin",
@@ -31605,7 +31799,15 @@
       "DeFi",
       "State channels",
       "Liechtenstein"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "3a4acd...a171129"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Native Utility Token": {
     "name": "Native Utility Token",
@@ -31613,7 +31815,15 @@
     "url": "/currencies/native-utility-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "eosdtnutoken"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "NativeCoin": {
     "name": "NativeCoin",
