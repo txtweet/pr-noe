@@ -33499,7 +33499,15 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xff60...8b02386"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OneSwap DAO Token": {
     "name": "OneSwap DAO Token",
@@ -33508,7 +33516,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0b34...a04d5a4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OnigiriSwap": {
     "name": "OnigiriSwap",
@@ -33516,7 +33532,15 @@
     "url": "/currencies/onigiriswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcf9c...E5330D0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Onix": {
     "name": "Onix",
@@ -33551,7 +33575,11 @@
     "url": "/currencies/ontology-gas",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Opacity": {
     "name": "Opacity",
@@ -33566,7 +33594,15 @@
       "IPFS",
       "Data Provenance",
       "Ethereum"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7759...11f1473"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Opal": {
     "name": "Opal",
@@ -33584,7 +33620,15 @@
     "url": "/currencies/open-platform",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9d86...0111340"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Open Predict Token": {
     "name": "Open Predict Token",
@@ -33592,7 +33636,15 @@
     "url": "/currencies/open-predict-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4FE5...737Ebda"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Open Trading Network": {
     "name": "Open Trading Network",
@@ -33602,7 +33654,15 @@
       "Token",
       "Asset management",
       "Interoperability"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x881e...d40d85c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OpenAlexa Protocol": {
     "name": "OpenAlexa Protocol",
