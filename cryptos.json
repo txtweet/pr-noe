@@ -26749,7 +26749,15 @@
     "url": "/currencies/lbk",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9cb1...62d37b6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LBRY Credits": {
     "name": "LBRY Credits",
@@ -26768,7 +26776,15 @@
     "url": "/currencies/lcg",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6e1a...b65e036"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LCX": {
     "name": "LCX",
@@ -26777,7 +26793,15 @@
     "tags": [
       "Token",
       "Liechtenstein"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x037a...585fe41"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LEVELG": {
     "name": "LEVELG",
@@ -26785,7 +26809,11 @@
     "url": "/currencies/levelg",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "LGCY Network": {
     "name": "LGCY Network",
@@ -26793,7 +26821,15 @@
     "url": "/currencies/lgcy-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xae69...2f98a0d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LGO Token": {
     "name": "LGO Token",
@@ -26801,7 +26837,15 @@
     "url": "/currencies/lgo-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0a50...ab629aa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LHT": {
     "name": "LHT",
@@ -26819,7 +26863,15 @@
     "tags": [
       "Token",
       "Philanthropy"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xff18...ba52f5f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LINA": {
     "name": "LINA",
@@ -26834,7 +26886,15 @@
       "Agriculture",
       "Health",
       "Media"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc05d...ce32b50"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LINK": {
     "name": "LINK",
@@ -26850,7 +26910,15 @@
     "url": "/currencies/link-profit-taker-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x78e2...17ebfde"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LINK/ETH RSI Ratio Trading Set": {
     "name": "LINK/ETH RSI Ratio Trading Set",
@@ -26858,7 +26926,15 @@
     "url": "/currencies/link-eth-rsi-ratio-trading-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8933...Ce814d2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LINKA": {
     "name": "LINKA",
