@@ -24604,7 +24604,15 @@
     "url": "/currencies/indorse-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf8e3...6e73705"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Inex Project": {
     "name": "Inex Project",
@@ -24612,7 +24620,15 @@
     "url": "/currencies/inex-project",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6a93...eFE2994"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Infinite Ricks": {
     "name": "Infinite Ricks",
