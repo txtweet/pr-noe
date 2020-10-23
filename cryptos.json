@@ -19285,7 +19285,15 @@
       "Token",
       "Platform",
       "AI & Big Data"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4946...44ac121"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FOCV": {
     "name": "FOCV",
@@ -19293,7 +19301,15 @@
     "url": "/currencies/focv",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbBa1...9548b06"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FREE Coin": {
     "name": "FREE Coin",
