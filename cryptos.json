@@ -28743,7 +28743,15 @@
     "url": "/currencies/mgc-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x174B...1461Ab9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MIB Coin": {
     "name": "MIB Coin",
@@ -28759,7 +28767,15 @@
     "url": "/currencies/miks-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xFbaf...C6c7cBF"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MILK2": {
     "name": "MILK2",
@@ -28767,7 +28783,15 @@
     "url": "/currencies/milk2",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x80c8...9ebc1de"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MINDOL": {
     "name": "MINDOL",
@@ -28775,7 +28799,15 @@
     "url": "/currencies/mindol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d64...ff3cf38"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MIR COIN": {
     "name": "MIR COIN",
@@ -28825,7 +28857,15 @@
     "url": "/currencies/model-x-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3c6D...8Af3762"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MONEY PARTY": {
     "name": "MONEY PARTY",
@@ -28833,7 +28873,15 @@
     "url": "/currencies/money-party",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x314b...3ff74d2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MONNOS": {
     "name": "MONNOS",
