@@ -35397,7 +35397,15 @@
     "url": "/currencies/piedao-defi-small-cap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xad6a...365ba9c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PieDAO DOUGH v2": {
     "name": "PieDAO DOUGH v2",
@@ -35407,7 +35415,15 @@
       "Token",
       "DeFi",
       "DAO"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xad32...E737b2D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pigeoncoin": {
     "name": "Pigeoncoin",
@@ -35427,7 +35443,15 @@
       "Platform",
       "Distributed Computing",
       "Identity"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe381...3149c17"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pilnette": {
     "name": "Pilnette",
@@ -35435,7 +35459,15 @@
     "url": "/currencies/pilnette",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6F0b...1D2acd9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pinkcoin": {
     "name": "Pinkcoin",
@@ -35456,7 +35488,15 @@
       "Token",
       "Platform",
       "Jobs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe645...477c1b4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pirate Chain": {
     "name": "Pirate Chain",
@@ -35494,7 +35534,15 @@
     "url": "/currencies/pivot-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "PVT-554"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Pixie Coin": {
     "name": "Pixie Coin",
