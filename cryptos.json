@@ -28244,7 +28244,15 @@
     "url": "/currencies/ludos",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe64b...b4975f5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lukiu": {
     "name": "Lukiu",
@@ -28252,7 +28260,15 @@
     "url": "/currencies/lukiu",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbaca...9cd743b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lukki Operating Token": {
     "name": "Lukki Operating Token",
@@ -28260,7 +28276,15 @@
     "url": "/currencies/lukki-operating-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6556...079800a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Luna Coin": {
     "name": "Luna Coin",
@@ -28277,7 +28301,15 @@
     "url": "/currencies/lunchmoney",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x66fd...0b4851f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lunes": {
     "name": "Lunes",
