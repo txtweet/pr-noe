@@ -26942,7 +26942,15 @@
     "url": "/currencies/linka",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x578b...f0a5036"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LINKDOWN": {
     "name": "LINKDOWN",
@@ -26966,7 +26974,15 @@
     "url": "/currencies/lnx-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5e38...266d3b8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LOA Protocol": {
     "name": "LOA Protocol",
@@ -26974,7 +26990,15 @@
     "url": "/currencies/loa-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7458...71A006F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LOCIcoin": {
     "name": "LOCIcoin",
@@ -26985,7 +27009,15 @@
       "Platform",
       "Content Creation",
       "Data Provenance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9c23...8a747c2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LOLTOKEN": {
     "name": "LOLTOKEN",
@@ -26993,7 +27025,15 @@
     "url": "/currencies/loltoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5978...BbD5171"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LOOPREX": {
     "name": "LOOPREX",
@@ -27001,7 +27041,15 @@
     "url": "/currencies/looprex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TVN3Es...8izYzTX"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "LORI": {
     "name": "LORI",
@@ -27009,7 +27057,15 @@
     "url": "/currencies/lori",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8cd5...22D5ADa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LP-yCurve": {
     "name": "LP-yCurve",
@@ -27017,7 +27073,15 @@
     "url": "/currencies/curve-fi-ydai-yusdc-yusdt-ytusd",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdf5e...2d806a8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LTO Network": {
     "name": "LTO Network",
@@ -27025,7 +27089,17 @@
     "url": "/currencies/lto-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "LTO-BDF",
+        "0x3db6...abf294d"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "LUCY": {
     "name": "LUCY",
@@ -27033,7 +27107,11 @@
     "url": "/currencies/lucy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "LUKSO": {
     "name": "LUKSO",
@@ -27041,7 +27119,15 @@
     "url": "/currencies/lukso",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xA8b9...ec0be6D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LUXCoin": {
     "name": "LUXCoin",
@@ -27058,7 +27144,15 @@
     "url": "/currencies/lyfe",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "LYFE-6AB"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "LYNC Network": {
     "name": "LYNC Network",
@@ -27066,7 +27160,15 @@
     "url": "/currencies/lync-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8f87...8e574cf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ladder Network Token": {
     "name": "Ladder Network Token",
@@ -27077,7 +27179,15 @@
       "Services",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4129...1af1d6a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lambda": {
     "name": "Lambda",
@@ -27089,7 +27199,15 @@
       "AI & Big Data",
       "Distributed Computing",
       "Filesharing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "LAMB-46C"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Lamden": {
     "name": "Lamden",
@@ -27100,7 +27218,15 @@
       "Platform",
       "Atomic Swaps",
       "Interoperability"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc27a...8356501"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LanaCoin": {
     "name": "LanaCoin",
