@@ -36258,7 +36258,15 @@
     "url": "/currencies/predix-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5561...8F55Ba7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Presearch": {
     "name": "Presearch",
@@ -36269,7 +36277,15 @@
       "Platform",
       "Crowdsourcing",
       "Search Engine"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x88a3...6cb84fa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PressOne": {
     "name": "PressOne",
