@@ -30000,7 +30000,15 @@
     "url": "/currencies/metamorph",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfef3...3c94da6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Metacoin": {
     "name": "Metacoin",
@@ -30028,7 +30036,15 @@
       "Token",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xF433...F30355e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Metaprediction": {
     "name": "Metaprediction",
@@ -30036,7 +30052,15 @@
     "url": "/currencies/metaprediction",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x108d...6c7a4eb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Metaverse Dualchain Network Architecture": {
     "name": "Metaverse Dualchain Network Architecture",
@@ -30074,7 +30098,15 @@
     "tags": [
       "Token",
       "Interoperability"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xBd29...D988A9F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Meter Stable": {
     "name": "Meter Stable",
@@ -30094,7 +30126,15 @@
     "url": "/currencies/metric",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xefc1...e5914ac"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Metrix Coin": {
     "name": "Metrix Coin",
@@ -30115,7 +30155,15 @@
       "DeFi",
       "Payments",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa3d5...f0ece4e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mettalex": {
     "name": "Mettalex",
@@ -30123,7 +30171,11 @@
     "url": "/currencies/mettalex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "MiL.k": {
     "name": "MiL.k",
@@ -30132,7 +30184,11 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "MicroBitcoin": {
     "name": "MicroBitcoin",
@@ -30157,7 +30213,15 @@
       "Token",
       "Asset management",
       "DApp"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8b1f...d13c349"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Micromines": {
     "name": "Micromines",
@@ -30165,7 +30229,15 @@
     "url": "/currencies/micromines",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbe6c...45fee6d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Midas": {
     "name": "Midas",
@@ -30181,7 +30253,15 @@
     "url": "/currencies/midasprotocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x23cc...f832430"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MiloCoin": {
     "name": "MiloCoin",
@@ -30211,7 +30291,15 @@
       "Services",
       "AI & Big Data",
       "Research"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8d81...ed4ba58"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mineral": {
     "name": "Mineral",
@@ -30219,7 +30307,15 @@
     "url": "/currencies/mineral",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TGj1Ej...6GTWg2U"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Minereum": {
     "name": "Minereum",
@@ -30227,7 +30323,15 @@
     "url": "/currencies/minereum",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x426c...6e3d0e0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MiniSwap": {
     "name": "MiniSwap",
@@ -30235,7 +30339,15 @@
     "url": "/currencies/miniswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4d95...7db44ec"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MintCoin": {
     "name": "MintCoin",
@@ -30282,7 +30394,17 @@
       "Media",
       "Content Creation",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MITH-C76",
+        "0x3893...78310bb"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "MixMarvel": {
     "name": "MixMarvel",
@@ -30290,7 +30412,15 @@
     "url": "/currencies/mixmarvel",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d28...a4d0429"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MixTrust": {
     "name": "MixTrust",
@@ -30299,7 +30429,15 @@
     "tags": [
       "Token",
       "SHA-256"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6251...890b929"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mixin": {
     "name": "Mixin",
@@ -30310,7 +30448,11 @@
       "Marketplace",
       "Content Creation",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "MktCoin": {
     "name": "MktCoin",
@@ -30327,7 +30469,15 @@
     "url": "/currencies/moco-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x06a8...8f485e9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MoX": {
     "name": "MoX",
@@ -30355,7 +30505,15 @@
       "Media",
       "Gaming",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4039...557F212"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mobilian Coin": {
     "name": "Mobilian Coin",
@@ -30363,7 +30521,15 @@
     "url": "/currencies/mobilian-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaf80...856d3e6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MobilinkToken": {
     "name": "MobilinkToken",
@@ -30371,7 +30537,15 @@
     "url": "/currencies/mobilinktoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x97cb...dbe41a2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mobius": {
     "name": "Mobius",
@@ -30381,7 +30555,11 @@
       "Token",
       "Platform",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Mochimo": {
     "name": "Mochimo",
@@ -30405,7 +30583,15 @@
     "url": "/currencies/modex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4bce...21d7438"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ModiHost": {
     "name": "ModiHost",
@@ -30413,7 +30599,15 @@
     "url": "/currencies/modihost",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "aim"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Moeda Loyalty Points": {
     "name": "Moeda Loyalty Points",
@@ -30422,7 +30616,15 @@
     "tags": [
       "Token",
       "Services"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x51db...c8415bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mogu": {
     "name": "Mogu",
@@ -30430,7 +30632,15 @@
     "url": "/currencies/mogu",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbdec...26d5087"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moin": {
     "name": "Moin",
@@ -30457,7 +30667,15 @@
     "tags": [
       "Token",
       "Technology"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6534...ab8ac0d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Momentum": {
     "name": "Momentum",
@@ -30465,7 +30683,15 @@
     "url": "/currencies/momentum",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9a7a...35069b4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MonaCoin": {
     "name": "MonaCoin",
@@ -30486,7 +30712,15 @@
     "url": "/currencies/monarch",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4442...01b6fc8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Monero": {
     "name": "Monero",
@@ -30556,7 +30790,15 @@
       "Marketplace",
       "Reputation",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaf4d...0631f16"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Money Plant Token": {
     "name": "Money Plant Token",
@@ -30564,7 +30806,15 @@
     "url": "/currencies/money-plant-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2cC1...ad5270c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Money Token": {
     "name": "Money Token",
@@ -30572,7 +30822,15 @@
     "url": "/currencies/money-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x310d...267e71e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moneynet": {
     "name": "Moneynet",
@@ -30580,7 +30838,15 @@
     "url": "/currencies/moneynet",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbac7...23f4b31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moneytoken": {
     "name": "Moneytoken",
@@ -30588,7 +30854,15 @@
     "url": "/currencies/moneytoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1311...375d9e6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Monkey Project": {
     "name": "Monkey Project",
@@ -30607,7 +30881,15 @@
       "Token",
       "Services",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaaaf...977e73a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moon Juice": {
     "name": "Moon Juice",
@@ -30615,7 +30897,15 @@
     "url": "/currencies/moon-juice",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x889e...1407f64"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moon YFI": {
     "name": "Moon YFI",
@@ -30623,7 +30913,15 @@
     "url": "/currencies/moon-yfi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1Efb...45e972b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MoonSwap": {
     "name": "MoonSwap",
@@ -30631,7 +30929,15 @@
     "url": "/currencies/moonswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x68a3...D3D4824"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MoonTools": {
     "name": "MoonTools",
