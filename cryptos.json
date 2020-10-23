@@ -30945,7 +30945,15 @@
     "url": "/currencies/moontools",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x260e...cf56a56"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mooncoin": {
     "name": "Mooncoin",
@@ -30964,7 +30972,15 @@
     "url": "/currencies/moozicore",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfe44...89826cd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MorCrypto Coin": {
     "name": "MorCrypto Coin",
@@ -30972,7 +30988,15 @@
     "url": "/currencies/morcrypto-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xae74...b866572"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "More Coin": {
     "name": "More Coin",
@@ -30983,7 +31007,15 @@
       "Events",
       "Loyalty",
       "Entertainment"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x305D...4BFbA22"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Morpher": {
     "name": "Morpher",
@@ -30991,7 +31023,15 @@
     "url": "/currencies/morpher",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6369...dd4aa38"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Morpheus Labs": {
     "name": "Morpheus Labs",
@@ -31001,7 +31041,15 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4a52...58d1db6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Morpheus.Network": {
     "name": "Morpheus.Network",
@@ -31011,7 +31059,15 @@
       "Token",
       "Logistics",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7b0c...44056c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moss Coin": {
     "name": "Moss Coin",
@@ -31019,7 +31075,15 @@
     "url": "/currencies/moss-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x865e...d034e68"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Motocoin": {
     "name": "Motocoin",
@@ -31040,7 +31104,15 @@
       "Media",
       "Content Creation",
       "Video"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MBL-2D2"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Moving Cloud Coin": {
     "name": "Moving Cloud Coin",
@@ -31058,7 +31130,15 @@
       "Token",
       "Content Creation",
       "Crowdfunding"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3b58...d603e5f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MultiCoinCasino": {
     "name": "MultiCoinCasino",
@@ -31074,7 +31154,17 @@
     "url": "/currencies/multivac",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MTV-4C6",
+        "0x8aa6...5D97eF1"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Multicoin": {
     "name": "Multicoin",
@@ -31082,7 +31172,15 @@
     "url": "/currencies/multicoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf611...3399cb5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Multiplier": {
     "name": "Multiplier",
@@ -31091,7 +31189,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8a6f...a7e7018"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MustangCoin": {
     "name": "MustangCoin",
@@ -31110,7 +31216,17 @@
     "url": "/currencies/muzika",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "MZK-2C7",
+        "0x1f35...8a1b829"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "MyBit": {
     "name": "MyBit",
@@ -31120,7 +31236,15 @@
       "Token",
       "Asset management",
       "IoT"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d60...135e0bc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MyDexPay": {
     "name": "MyDexPay",
@@ -31128,7 +31252,15 @@
     "url": "/currencies/mydexpay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xA8b0...B53055e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MyTVchain": {
     "name": "MyTVchain",
