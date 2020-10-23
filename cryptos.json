@@ -29413,7 +29413,15 @@
     "url": "/currencies/macpo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x63bf...b36537b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Master Contract Token": {
     "name": "Master Contract Token",
@@ -29421,7 +29429,15 @@
     "url": "/currencies/master-contract-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "a87cc2...c60bc3f"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Matchpool": {
     "name": "Matchpool",
@@ -29432,7 +29448,15 @@
       "DPoS",
       "Scrypt",
       "Platform"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf7b0...792894c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Matic Network": {
     "name": "Matic Network",
@@ -29443,7 +29467,15 @@
       "Platform",
       "Enterprise solutions",
       "State channels"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7D1A...aCfeBB0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Matrexcoin": {
     "name": "Matrexcoin",
@@ -29451,7 +29483,15 @@
     "url": "/currencies/matrexcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc3e2...ed58af5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Matrix AI Network": {
     "name": "Matrix AI Network",
@@ -29472,7 +29512,15 @@
       "Token",
       "Education",
       "Research"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0af4...a8f0c6a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Maverick Chain": {
     "name": "Maverick Chain",
