@@ -32901,7 +32901,11 @@
     "url": "/currencies/og-fan-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "OIN Finance": {
     "name": "OIN Finance",
@@ -32909,7 +32913,15 @@
     "url": "/currencies/oin-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9aeB...8c01259"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OKB": {
     "name": "OKB",
