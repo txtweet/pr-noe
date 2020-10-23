@@ -29775,7 +29775,15 @@
     "url": "/currencies/mega-lottery-services-global",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf268...e96c5cb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Megacoin": {
     "name": "Megacoin",
@@ -29794,7 +29802,15 @@
     "url": "/currencies/melecoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4c9a...316fF5a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Melon": {
     "name": "Melon",
