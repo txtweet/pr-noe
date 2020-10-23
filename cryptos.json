@@ -21492,7 +21492,15 @@
     "url": "/currencies/global-digital-content",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x301C...E63aF31"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Global Game Coin": {
     "name": "Global Game Coin",
@@ -21500,7 +21508,15 @@
     "url": "/currencies/global-game-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7f96...ca2fbf8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Global Gaming": {
     "name": "Global Gaming",
