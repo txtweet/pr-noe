@@ -28668,7 +28668,15 @@
     "url": "/currencies/mesefa",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2720...723A2f3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MESG": {
     "name": "MESG",
@@ -28676,7 +28684,15 @@
     "url": "/currencies/mesg",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4201...9ab85d2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MEX": {
     "name": "MEX",
@@ -28684,7 +28700,15 @@
     "url": "/currencies/mex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ba6...7da5fd8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MEXC Token": {
     "name": "MEXC Token",
@@ -28694,7 +28718,15 @@
       "Token",
       "Hardware",
       "Research"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7de2...7bde276"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MFCoin": {
     "name": "MFCoin",
