@@ -19317,7 +19317,19 @@
     "url": "/currencies/free-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2f14...a49e4fd",
+        "0x12e3...fdad739",
+        "1003134"
+      ],
+      "forked_from": [
+        "Ethereum Contract",
+        "Binance Smart Chain Contract",
+        "Tron Contract"
+      ]
+    }
   },
   "FSBT API Token": {
     "name": "FSBT API Token",
@@ -19325,7 +19337,15 @@
     "url": "/currencies/fsbt-api-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1ed7...81d50c0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FTX Token": {
     "name": "FTX Token",
@@ -19335,7 +19355,17 @@
       "Token",
       "Marketplace",
       "Derivatives"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "FTT-F11",
+        "0x50d1...355a4c9"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "FUD.finance": {
     "name": "FUD.finance",
@@ -19343,7 +19373,15 @@
     "url": "/currencies/fudfinance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2688...8E17ECc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FUTURAX": {
     "name": "FUTURAX",
@@ -19351,7 +19389,15 @@
     "url": "/currencies/futurax",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4187...4642c32"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FUTUREXCRYPTO": {
     "name": "FUTUREXCRYPTO",
@@ -19359,7 +19405,15 @@
     "url": "/currencies/futurexcrypto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1e60...db69ec7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FUZE Token": {
     "name": "FUZE Token",
@@ -19367,7 +19421,15 @@
     "url": "/currencies/fuze-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x187d...63ead85"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FYDcoin": {
     "name": "FYDcoin",
@@ -19384,7 +19446,15 @@
     "url": "/currencies/faceter",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1cca...e1b1672"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Factom": {
     "name": "Factom",
@@ -19403,7 +19473,15 @@
     "url": "/currencies/fairgame",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9b20...eb1990a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Falcon Project": {
     "name": "Falcon Project",
@@ -19411,7 +19489,15 @@
     "url": "/currencies/falcon-project",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdc58...97d9d59"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Falconswap": {
     "name": "Falconswap",
@@ -19419,7 +19505,15 @@
     "url": "/currencies/fsw-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xffff...45126db"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fame": {
     "name": "Fame",
@@ -19427,7 +19521,15 @@
     "url": "/currencies/fame",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf2da...1cbd487"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fanaticos Cash": {
     "name": "Fanaticos Cash",
@@ -19443,7 +19545,15 @@
     "url": "/currencies/fanstime",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x943e...42de4c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fantasy Sports": {
     "name": "Fantasy Sports",
@@ -19451,7 +19561,15 @@
     "url": "/currencies/fantasy-sports",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcec3...4a24f3e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FantasyGold": {
     "name": "FantasyGold",
@@ -19472,7 +19590,17 @@
       "Enterprise solutions",
       "Research",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "FTM-A64",
+        "0x4e15...3717870"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Farm House Finance": {
     "name": "Farm House Finance",
@@ -19480,7 +19608,15 @@
     "url": "/currencies/farm-house-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5f8a...77df7fd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FarmaTrust": {
     "name": "FarmaTrust",
@@ -19488,7 +19624,15 @@
     "url": "/currencies/farmatrust",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2aec...df4c0dc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fashion Coin": {
     "name": "Fashion Coin",
@@ -19514,7 +19658,15 @@
       "Token",
       "Marketplace",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ec9...0ed314c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Feathercoin": {
     "name": "Feathercoin",
@@ -19544,7 +19696,15 @@
     "url": "/currencies/fee-active-collateral-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x23aE...c8a1C92"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Feellike": {
     "name": "Feellike",
@@ -19552,7 +19712,15 @@
     "url": "/currencies/feellike",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9235...55b212f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fera": {
     "name": "Fera",
@@ -19560,7 +19728,15 @@
     "url": "/currencies/fera",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x539f...cbd16fa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ferrum Network": {
     "name": "Ferrum Network",
@@ -19569,7 +19745,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe5ca...43ca68c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fesschain": {
     "name": "Fesschain",
@@ -19577,7 +19761,15 @@
     "url": "/currencies/fesschain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe093...a1ba2e1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fetch.ai": {
     "name": "Fetch.ai",
@@ -19587,7 +19779,15 @@
       "Token",
       "Technology",
       "AI & Big Data"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaea4...F41Ad85"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FidexToken": {
     "name": "FidexToken",
@@ -19595,7 +19795,15 @@
     "url": "/currencies/fidex-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1c1c...8ebfd47"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fiii": {
     "name": "Fiii",
@@ -19632,7 +19840,11 @@
     "url": "/currencies/finnexus",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "FinexboxToken": {
     "name": "FinexboxToken",
@@ -19640,7 +19852,15 @@
     "url": "/currencies/finexboxtoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe6d2...2a6ee74"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Finswap": {
     "name": "Finswap",
@@ -19648,7 +19868,15 @@
     "url": "/currencies/finswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3B78...5A22749"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fintab": {
     "name": "Fintab",
@@ -19656,7 +19884,15 @@
     "url": "/currencies/fintab",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbD4B...8f9677A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FintruX Network": {
     "name": "FintruX Network",
@@ -19664,7 +19900,15 @@
     "url": "/currencies/fintrux-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd559...2596a61"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fire Lotto": {
     "name": "Fire Lotto",
@@ -19672,7 +19916,15 @@
     "url": "/currencies/fire-lotto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0493...722285f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fireball": {
     "name": "Fireball",
@@ -19680,7 +19932,15 @@
     "url": "/currencies/fireball",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3F8A...588DEA2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FirmaChain": {
     "name": "FirmaChain",
@@ -19688,7 +19948,15 @@
     "url": "/currencies/firmachain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe1ba...e32471b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "First Bitcoin": {
     "name": "First Bitcoin",
@@ -19708,7 +19976,15 @@
       "Media",
       "Loyalty",
       "Gaming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaf30...6f15bc7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FirstCoin": {
     "name": "FirstCoin",
@@ -19728,7 +20004,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xca76...c70bb47"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Five Star Coin": {
     "name": "Five Star Coin",
@@ -19755,7 +20039,11 @@
       "DAO",
       "Yield farming",
       "Binance Chain"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Flash": {
     "name": "Flash",
@@ -19771,7 +20059,15 @@
     "url": "/currencies/flashswap",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0128...5397a94"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FlashX Advance": {
     "name": "FlashX Advance",
@@ -19779,7 +20075,15 @@
     "url": "/currencies/flashx-advance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0B0...94a2e3D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FlexETH/BTC Set": {
     "name": "FlexETH/BTC Set",
@@ -19787,7 +20091,15 @@
     "url": "/currencies/flexeth-btc-set",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdbf5...6c9d302"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Flexacoin": {
     "name": "Flexacoin",
@@ -19797,7 +20109,15 @@
       "Token",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4a57...6adebde"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Flit Token": {
     "name": "Flit Token",
@@ -19805,7 +20125,15 @@
     "url": "/currencies/flit-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb351...6b4a8d5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Flits": {
     "name": "Flits",
@@ -19824,7 +20152,15 @@
       "Media",
       "Entertainment",
       "Video"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf04a...136b0be"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Flow Protocol": {
     "name": "Flow Protocol",
@@ -19832,7 +20168,15 @@
     "url": "/currencies/flow-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc6e6...28d1bf9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Flowchain": {
     "name": "Flowchain",
@@ -19840,7 +20184,15 @@
     "url": "/currencies/flowchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x32C4...4F364F1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FlypMe": {
     "name": "FlypMe",
@@ -19850,7 +20202,15 @@
       "Token",
       "Marketplace",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8f09...4882c10"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Folgory Coin": {
     "name": "Folgory Coin",
@@ -19858,7 +20218,15 @@
     "url": "/currencies/folgory-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5e04...ae0e965"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FolgoryUSD": {
     "name": "FolgoryUSD",
@@ -19866,7 +20234,15 @@
     "url": "/currencies/folgoryusd",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0462...f05ab2b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Footballcoin": {
     "name": "Footballcoin",
@@ -19882,7 +20258,15 @@
     "url": "/currencies/force-for-fast",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x22f0...98CEF92"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Foresight": {
     "name": "Foresight",
@@ -19890,7 +20274,15 @@
     "url": "/currencies/foresight",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb1EC...b494215"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FortKnoxster": {
     "name": "FortKnoxster",
@@ -19898,7 +20290,15 @@
     "url": "/currencies/fortknoxster",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x009e...a5aad33"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fortuna": {
     "name": "Fortuna",
@@ -19908,7 +20308,15 @@
       "Token",
       "Platform",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4270...7c06d3c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fountain": {
     "name": "Fountain",
@@ -19916,7 +20324,15 @@
     "url": "/currencies/fountain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5632...86cc9df"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fox Trading": {
     "name": "Fox Trading",
@@ -19924,7 +20340,15 @@
     "url": "/currencies/fox-trading",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfbe8...c44bc12"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Francs": {
     "name": "Francs",
@@ -19943,7 +20367,15 @@
     "url": "/currencies/free-tool-box-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1E71...6f91311"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Freecash": {
     "name": "Freecash",
@@ -19970,7 +20402,15 @@
     "url": "/currencies/freight-trust-clearing-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x79c5...8c84a1e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Frens Community": {
     "name": "Frens Community",
@@ -19978,7 +20418,15 @@
     "url": "/currencies/frens-community",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x907c...432ebe7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Freyrchain": {
     "name": "Freyrchain",
@@ -19986,7 +20434,15 @@
     "url": "/currencies/freyrchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x17e6...7a7bb64"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fridn": {
     "name": "Fridn",
@@ -19994,7 +20450,15 @@
     "url": "/currencies/fridn",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe143...852e4a4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Friendz": {
     "name": "Friendz",
@@ -20002,7 +20466,15 @@
     "url": "/currencies/friends",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2335...58aded9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Frontier": {
     "name": "Frontier",
@@ -20011,7 +20483,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf8C3...7B7793f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FujiCoin": {
     "name": "FujiCoin",
@@ -20032,7 +20512,15 @@
       "Token",
       "Marketplace",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x419d...90e711b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FunKeyPay": {
     "name": "FunKeyPay",
@@ -20040,7 +20528,15 @@
     "url": "/currencies/funkeypay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0640...1cfd0e6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Function X": {
     "name": "Function X",
@@ -20049,7 +20545,15 @@
     "tags": [
       "Token",
       "Hardware"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8c15...ad25057"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FundRequest": {
     "name": "FundRequest",
@@ -20057,7 +20561,15 @@
     "url": "/currencies/fundrequest",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4df4...493953b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fusion": {
     "name": "Fusion",
@@ -20076,7 +20588,15 @@
     "url": "/currencies/future1coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb0a0...4f49fbc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FuturoCoin": {
     "name": "FuturoCoin",
@@ -20093,7 +20613,15 @@
     "url": "/currencies/fuzex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1829...6e01782"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FuzzBalls": {
     "name": "FuzzBalls",
@@ -20112,7 +20640,15 @@
     "url": "/currencies/fyooz",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6BFf...8BB0312"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GALAXY NETWORK": {
     "name": "GALAXY NETWORK",
@@ -20128,7 +20664,15 @@
     "url": "/currencies/gamb",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa000...27791ee"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GAPS": {
     "name": "GAPS",
@@ -20138,7 +20682,15 @@
       "Token",
       "Services",
       "Prediction Markets"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcd85...1b21fcc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GCN Coin": {
     "name": "GCN Coin",
@@ -20158,7 +20710,15 @@
     "tags": [
       "Token",
       "Events"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8a85...30c6a1b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GHOST": {
     "name": "GHOST",
@@ -20194,7 +20754,15 @@
     "url": "/currencies/givly-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "GIV-94E"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "GLOBALTRUSTFUND TOKEN": {
     "name": "GLOBALTRUSTFUND TOKEN",
@@ -20202,7 +20770,15 @@
     "url": "/currencies/globaltrustfund-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x40f8...04cf0ce"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GLOBEX": {
     "name": "GLOBEX",
@@ -20210,7 +20786,15 @@
     "url": "/currencies/globex",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6614...6a24c2a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GM Holding": {
     "name": "GM Holding",
@@ -20218,7 +20802,11 @@
     "url": "/currencies/gm-holding",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "GMB": {
     "name": "GMB",
@@ -20226,7 +20814,15 @@
     "url": "/currencies/gmb",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1d46...b07008f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GNY": {
     "name": "GNY",
@@ -20236,7 +20832,15 @@
       "Token",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2475...d9bc87e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GOD KIMCHI": {
     "name": "GOD KIMCHI",
