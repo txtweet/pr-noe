@@ -29657,7 +29657,15 @@
     "url": "/currencies/meconcash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa5e2...4637e78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Medalte": {
     "name": "Medalte",
@@ -29665,7 +29673,15 @@
     "url": "/currencies/medalte",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6256...616f494"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MediBit": {
     "name": "MediBit",
@@ -29673,7 +29689,15 @@
     "url": "/currencies/medibit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x737f...5f9c947"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MediBloc": {
     "name": "MediBloc",
@@ -29691,7 +29715,15 @@
     "tags": [
       "Token",
       "Health"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6618...0563dbE"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MedicCoin": {
     "name": "MedicCoin",
@@ -29711,7 +29743,15 @@
     "tags": [
       "Token",
       "Health"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x41db...2754de3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Medium": {
     "name": "Medium",
@@ -29719,7 +29759,15 @@
     "url": "/currencies/medium",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd24D...5743d87"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mega Lottery Services Global": {
     "name": "Mega Lottery Services Global",
