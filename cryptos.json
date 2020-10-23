@@ -22366,7 +22366,15 @@
     "url": "/currencies/homihelp",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xCa20...67c0078"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HOMT": {
     "name": "HOMT",
@@ -22374,7 +22382,15 @@
     "url": "/currencies/homt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xeF7A...7288711"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HOQU": {
     "name": "HOQU",
@@ -22382,7 +22398,15 @@
     "url": "/currencies/hoqu",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b95...a0cecfa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HTMLCOIN": {
     "name": "HTMLCOIN",
@@ -22401,7 +22425,15 @@
     "url": "/currencies/huddl",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5137...625d801"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HUNT": {
     "name": "HUNT",
@@ -22409,7 +22441,15 @@
     "url": "/currencies/hunt",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9aab...ca26fa5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HUPAYX": {
     "name": "HUPAYX",
@@ -22429,7 +22469,15 @@
       "Medium of Exchange",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdf57...11d87e1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HXY Money": {
     "name": "HXY Money",
@@ -22437,7 +22485,15 @@
     "url": "/currencies/hxy-money",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf3a2...53842b9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HYCON": {
     "name": "HYCON",
@@ -22457,7 +22513,15 @@
     "url": "/currencies/hypnoxys",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd358...9d6ef5a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hacken Token": {
     "name": "Hacken Token",
@@ -22472,7 +22536,11 @@
       "Marketplace",
       "Education",
       "PoA"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Hakka.Finance": {
     "name": "Hakka.Finance",
@@ -22480,7 +22548,15 @@
     "url": "/currencies/hakka-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0e29...7de3bcd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HalalChain": {
     "name": "HalalChain",
@@ -22489,7 +22565,15 @@
     "tags": [
       "Token",
       "Logistics"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x58c6...843c69b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Halo Platform": {
     "name": "Halo Platform",
@@ -22505,7 +22589,11 @@
     "url": "/currencies/halving-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Hamebi Token": {
     "name": "Hamebi Token",
