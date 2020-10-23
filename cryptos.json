@@ -31842,7 +31842,15 @@
     "url": "/currencies/natmin-pure-escrow",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x90d4...1a49cb0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NavCoin": {
     "name": "NavCoin",
@@ -31860,7 +31868,15 @@
     "url": "/currencies/naviaddress",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5880...555c623"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ndau": {
     "name": "Ndau",
@@ -31908,7 +31924,15 @@
       "DeFi",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcc80...eb97a5e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nekonium": {
     "name": "Nekonium",
@@ -31936,7 +31960,15 @@
     "url": "/currencies/neoworld-cash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4b94...6383b75"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nerva": {
     "name": "Nerva",
@@ -31969,7 +32001,15 @@
     "url": "/currencies/nestree",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x65cc...3ca6a0c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NetKoin": {
     "name": "NetKoin",
@@ -31977,7 +32017,15 @@
     "url": "/currencies/netkoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d4d...f05073c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Netbox Coin": {
     "name": "Netbox Coin",
