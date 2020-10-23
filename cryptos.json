@@ -32063,7 +32063,15 @@
       "Token",
       "Asset management",
       "Crowdfunding"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa823...e6b8e32"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Neural Protocol": {
     "name": "Neural Protocol",
@@ -32071,7 +32079,15 @@
     "url": "/currencies/neural-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3918...5a306b5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NeuroChain": {
     "name": "NeuroChain",
@@ -32079,7 +32095,15 @@
     "url": "/currencies/neurochain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d48...8bd4725"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Neuromorphic.io": {
     "name": "Neuromorphic.io",
@@ -32087,7 +32111,15 @@
     "url": "/currencies/neuromorphic-io",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4D6b...851EAAb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Neurotoken": {
     "name": "Neurotoken",
