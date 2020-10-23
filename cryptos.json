@@ -28148,7 +28148,15 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "06fa8b...f10895f"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Lottonation": {
     "name": "Lottonation",
@@ -28156,7 +28164,15 @@
     "url": "/currencies/lottonation",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3a73...1163644"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LoveHearts": {
     "name": "LoveHearts",
@@ -28164,7 +28180,15 @@
     "url": "/currencies/lovehearts",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "1000451"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "Lua Token": {
     "name": "Lua Token",
@@ -28172,7 +28196,15 @@
     "url": "/currencies/lua-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xB1f6...64121cC"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lucky Block Network": {
     "name": "Lucky Block Network",
@@ -28180,7 +28212,15 @@
     "url": "/currencies/lucky-block-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb984...5fe7c22"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LuckySevenToken": {
     "name": "LuckySevenToken",
@@ -28188,7 +28228,15 @@
     "url": "/currencies/luckyseventoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6b9F...efD1728"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ludos Protocol": {
     "name": "Ludos Protocol",
