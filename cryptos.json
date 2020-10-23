@@ -28573,7 +28573,15 @@
     "tags": [
       "Token",
       "Medium of Exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb63b...8d1d83d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MDUKEY": {
     "name": "MDUKEY",
@@ -28590,7 +28598,15 @@
     "tags": [
       "Token",
       "Health"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd326...4fcab4c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MDtoken": {
     "name": "MDtoken",
@@ -28598,7 +28614,11 @@
     "url": "/currencies/mdtoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "MEET.ONE": {
     "name": "MEET.ONE",
