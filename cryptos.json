@@ -29528,7 +29528,15 @@
     "url": "/currencies/maverick-chain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb17d...6d4d8a3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mavro": {
     "name": "Mavro",
@@ -29545,7 +29553,11 @@
     "url": "/currencies/max-property-group",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Maxcoin": {
     "name": "Maxcoin",
