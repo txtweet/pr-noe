@@ -29820,7 +29820,15 @@
       "Token",
       "Asset management",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xec67...7c91892"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Membrana": {
     "name": "Membrana",
@@ -29828,7 +29836,15 @@
     "url": "/currencies/membrana",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4eee...cb624c7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Meme": {
     "name": "Meme",
@@ -29837,7 +29853,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd552...6f0affe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Memetic / PepeCoin": {
     "name": "Memetic / PepeCoin",
@@ -29856,7 +29880,15 @@
     "url": "/currencies/menapay",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3810...8cecfca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Menlo One": {
     "name": "Menlo One",
@@ -29864,7 +29896,15 @@
     "url": "/currencies/menlo-one",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4d80...6e14392"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Merculet": {
     "name": "Merculet",
@@ -29872,7 +29912,15 @@
     "url": "/currencies/merculet",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8a77...869c86d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mercury": {
     "name": "Mercury",
@@ -29882,7 +29930,11 @@
       "Token",
       "Platform",
       "DApp"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Merebel": {
     "name": "Merebel",
@@ -29899,7 +29951,15 @@
     "url": "/currencies/meridian-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9517...981BD6F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MesChain": {
     "name": "MesChain",
@@ -29907,7 +29967,15 @@
     "url": "/currencies/meschain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x322f...2b83c1f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Meta": {
     "name": "Meta",
@@ -29916,7 +29984,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa3Be...5E9AcD2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MetaMorph": {
     "name": "MetaMorph",
