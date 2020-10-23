@@ -32130,7 +32130,15 @@
       "Platform",
       "AI & Big Data",
       "Distributed Computing"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x69be...9258263"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Neutrino System Base Token": {
     "name": "Neutrino System Base Token",
@@ -32138,7 +32146,11 @@
     "url": "/currencies/neutrino-system-base-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Neutrino USD": {
     "name": "Neutrino USD",
@@ -32151,7 +32163,11 @@
       "DeFi",
       "Stablecoin - Algorithmically-Stabilized",
       "Staking"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Neutron": {
     "name": "Neutron",
@@ -32179,7 +32195,11 @@
     "url": "/currencies/new-bitshares",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "New Year Bull": {
     "name": "New Year Bull",
@@ -32187,7 +32207,15 @@
     "url": "/currencies/new-year-bull",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x798A...8dcFD97"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NewYork Exchange": {
     "name": "NewYork Exchange",
@@ -32216,7 +32244,15 @@
     "url": "/currencies/nework",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5a1a...c876df6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NewsToken": {
     "name": "NewsToken",
@@ -32224,7 +32260,15 @@
     "url": "/currencies/newstoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2953...aca35ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Newscrypto": {
     "name": "Newscrypto",
@@ -32232,7 +32276,11 @@
     "url": "/currencies/newscrypto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Newsolution": {
     "name": "Newsolution",
@@ -32240,7 +32288,15 @@
     "url": "/currencies/newsolution",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd890...8520671"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Newton": {
     "name": "Newton",
@@ -32251,7 +32307,15 @@
       "Mineable",
       "Marketplace",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "NEW-09E"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "Newton Coin Project": {
     "name": "Newton Coin Project",
@@ -32260,7 +32324,11 @@
     "tags": [
       "Token",
       "Mineable"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Newtonium": {
     "name": "Newtonium",
@@ -32268,7 +32336,15 @@
     "url": "/currencies/newtonium",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xae9c...6318fd4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nexalt": {
     "name": "Nexalt",
@@ -32286,7 +32362,17 @@
       "Token",
       "Services",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "NEXO-A84",
+        "0xb621...d815206"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "NextDAO": {
     "name": "NextDAO",
@@ -32294,7 +32380,11 @@
     "url": "/currencies/nextdao",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Nexty": {
     "name": "Nexty",
@@ -32323,7 +32413,15 @@
     "url": "/currencies/nexxo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd98B...F733980"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nibble": {
     "name": "Nibble",
@@ -32339,7 +32437,15 @@
     "url": "/currencies/niftymoji",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xde20...e270f06"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nilu": {
     "name": "Nilu",
@@ -32373,7 +32479,15 @@
     "url": "/currencies/niobium-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9f19...72aaedc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "No BS Crypto": {
     "name": "No BS Crypto",
@@ -32381,7 +32495,15 @@
     "url": "/currencies/no-bs-crypto",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf4fa...f69982?"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NoLimitCoin": {
     "name": "NoLimitCoin",
@@ -32398,7 +32520,15 @@
     "url": "/currencies/nobrainer-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xea3c...dd04c2e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Noir": {
     "name": "Noir",
@@ -32415,7 +32545,11 @@
     "url": "/currencies/nokencoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Noku": {
     "name": "Noku",
@@ -32423,7 +32557,15 @@
     "url": "/currencies/noku",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fc5...00b3d27"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Non-Fungible Yearn": {
     "name": "Non-Fungible Yearn",
@@ -32431,7 +32573,15 @@
     "url": "/currencies/non-fungible-yearn",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1cbb...ab342bc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NovaDeFi": {
     "name": "NovaDeFi",
@@ -32439,7 +32589,15 @@
     "url": "/currencies/novadefi",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd9a6...dfe8df3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Novacoin": {
     "name": "Novacoin",
@@ -32478,7 +32636,15 @@
     "url": "/currencies/nucypher",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4fe8...113a4cc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NuShares": {
     "name": "NuShares",
@@ -32487,7 +32653,11 @@
     "tags": [
       "Token",
       "Medium of Exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Nucleus Vision": {
     "name": "Nucleus Vision",
@@ -32497,7 +32667,15 @@
       "Token",
       "Retail",
       "IoT"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8098...5cb3cca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nuco.cloud": {
     "name": "Nuco.cloud",
@@ -32505,7 +32683,15 @@
     "url": "/currencies/nuco-cloud",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe0c8...2b33c1b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nuggets": {
     "name": "Nuggets",
@@ -32513,7 +32699,15 @@
     "url": "/currencies/nuggets",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x245e...e8f1fd1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Numeraire": {
     "name": "Numeraire",
@@ -32525,7 +32719,15 @@
       "AI & Big Data",
       "DeFi",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1776...Cb46671"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nxt": {
     "name": "Nxt",
@@ -32547,7 +32749,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc9ce...ee882de"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nyerium": {
     "name": "Nyerium",
@@ -32574,7 +32784,15 @@
       "Marketplace",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x701c...b23fe1d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OBIC": {
     "name": "OBIC",
@@ -32582,7 +32800,15 @@
     "url": "/currencies/obic",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa8b6...74DEd8A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OBITS": {
     "name": "OBITS",
@@ -32592,7 +32818,11 @@
       "Token",
       "Marketplace",
       "Centralized exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "OC Protocol": {
     "name": "OC Protocol",
@@ -32611,7 +32841,15 @@
       "DeFi",
       "Payments",
       "Derivatives"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6f6d...0b57ffa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ODEM": {
     "name": "ODEM",
@@ -32621,7 +32859,15 @@
       "Token",
       "Education",
       "Smart Contracts"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbf52...e30406a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ODUWA": {
     "name": "ODUWA",
@@ -32639,7 +32885,15 @@
     "url": "/currencies/ofin-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3b4c...Ac30822"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OG Fan Token": {
     "name": "OG Fan Token",
