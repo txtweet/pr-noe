@@ -49408,7 +49408,15 @@
       "Asset management",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4DF8...98D2D81"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Xaya": {
     "name": "Xaya",
@@ -49425,7 +49433,15 @@
     "tags": [
       "Token",
       "Medium of Exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8c4e...3d34472"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XeniosCoin": {
     "name": "XeniosCoin",
