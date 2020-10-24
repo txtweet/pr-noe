@@ -50361,7 +50361,15 @@
     "url": "/currencies/yeafinance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x40b9...dD1a4EC"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Finance Bit": {
     "name": "Yearn Finance Bit",
@@ -50369,7 +50377,15 @@
     "url": "/currencies/yearn-finance-bit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf0a0...f6453ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Finance DOT": {
     "name": "Yearn Finance DOT",
