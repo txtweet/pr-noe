@@ -42582,7 +42582,17 @@
     "url": "/currencies/swapzilla",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "SWZL-E0C",
+        "0x946e...719a2ea"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Swarm": {
     "name": "Swarm",
@@ -42592,7 +42602,15 @@
       "Token",
       "Asset management",
       "Crowdfunding"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3505...645ca39"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Swarm City": {
     "name": "Swarm City",
@@ -42601,7 +42619,15 @@
     "tags": [
       "Token",
       "Marketplace"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb9e7...cdf2607"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Swerve": {
     "name": "Swerve",
@@ -42610,7 +42636,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb8ba...ecbd433"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SwftCoin": {
     "name": "SwftCoin",
@@ -42623,7 +42657,15 @@
       "Interoperability",
       "Payments",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0bb2...d0dfC1e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SwiftCash": {
     "name": "SwiftCash",
@@ -42655,7 +42697,11 @@
       "Marketplace",
       "Decentralized exchange",
       "PoS"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Swipe": {
     "name": "Swipe",
@@ -42667,7 +42713,15 @@
       "DeFi",
       "Payments",
       "Wallet"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8ce9...089b6a9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Swirge": {
     "name": "Swirge",
@@ -42675,7 +42729,15 @@
     "url": "/currencies/swirge",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x92ef...6549579"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SwissBorg": {
     "name": "SwissBorg",
@@ -42685,7 +42747,15 @@
       "Token",
       "Asset management",
       "Staking"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba9d...6f135ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Switch": {
     "name": "Switch",
@@ -42693,7 +42763,15 @@
     "url": "/currencies/switch",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd6a5...e5ff3bd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Switcheo": {
     "name": "Switcheo",
@@ -42702,7 +42780,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "ab3835...525e132"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Sylo": {
     "name": "Sylo",
@@ -42710,7 +42796,15 @@
     "url": "/currencies/sylo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf293...7e8dcd4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SymVerse": {
     "name": "SymVerse",
@@ -42718,7 +42812,15 @@
     "url": "/currencies/symverse",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x79b4...4A09dDa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SyncFab": {
     "name": "SyncFab",
@@ -42727,7 +42829,15 @@
     "tags": [
       "Token",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6710...a6c0312"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SynchroBitcoin": {
     "name": "SynchroBitcoin",
@@ -42735,7 +42845,15 @@
     "url": "/currencies/synchrobitcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x179e...4654b7b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Synergy": {
     "name": "Synergy",
@@ -42756,7 +42874,15 @@
       "Services",
       "DeFi",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc011...0af2a6f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Syscoin": {
     "name": "Syscoin",
@@ -42778,7 +42904,15 @@
     "url": "/currencies/t-os",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd506...0e4908b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TAGZ5": {
     "name": "TAGZ5",
@@ -42786,7 +42920,15 @@
     "url": "/currencies/tagz5",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4d04...cebc4dc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TAI": {
     "name": "TAI",
@@ -42794,7 +42936,15 @@
     "url": "/currencies/tai",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TRwS7a...ubUYZ8P"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "TCASH": {
     "name": "TCASH",
@@ -42802,7 +42952,15 @@
     "url": "/currencies/tcash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7051...290C681"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TCOIN": {
     "name": "TCOIN",
@@ -42821,7 +42979,15 @@
       "Token",
       "Logistics",
       "Data Provenance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe5f1...582c912"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TEAM (TokenStars)": {
     "name": "TEAM (TokenStars)",
@@ -42829,7 +42995,15 @@
     "url": "/currencies/tokenstars",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1c79...43e54E7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TEMCO": {
     "name": "TEMCO",
@@ -42837,7 +43011,15 @@
     "url": "/currencies/temco",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2fc2...9bdee5d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TENA": {
     "name": "TENA",
@@ -42845,7 +43027,15 @@
     "url": "/currencies/tena",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xE14A...D85C688"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TERA": {
     "name": "TERA",
@@ -42870,7 +43060,15 @@
     "url": "/currencies/thecash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcd47...0dc0c0b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "THEKEY": {
     "name": "THEKEY",
@@ -42880,7 +43078,15 @@
       "Token",
       "Platform",
       "Identity"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "132947...bc17f18"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "THENODE": {
     "name": "THENODE",
@@ -42888,7 +43094,15 @@
     "url": "/currencies/thenode",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb4a6...1ace357"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "THETA": {
     "name": "THETA",
@@ -42909,7 +43123,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "RUNE-B1A"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "TILWIKI": {
     "name": "TILWIKI",
@@ -42917,7 +43139,15 @@
     "url": "/currencies/tilwiki",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x06f3...4235753"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TKN Token": {
     "name": "TKN Token",
@@ -42925,7 +43155,15 @@
     "url": "/currencies/tkn-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xbce7...43a9f90"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TNC Coin": {
     "name": "TNC Coin",
@@ -42933,7 +43171,15 @@
     "url": "/currencies/tnc-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd59f...0d1dfE0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TOKOK": {
     "name": "TOKOK",
@@ -42941,7 +43187,15 @@
     "url": "/currencies/tokok",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9a49...8bf45e7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TOKPIE": {
     "name": "TOKPIE",
@@ -42949,7 +43203,15 @@
     "url": "/currencies/tokpie",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd316...5e6acac"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TOKYO": {
     "name": "TOKYO",
@@ -42965,7 +43227,15 @@
     "url": "/currencies/tontoken",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6a6c...b8c520a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TOP": {
     "name": "TOP",
@@ -42973,7 +43243,15 @@
     "url": "/currencies/top",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdcD8...aaFfE2b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TOPBTC Token": {
     "name": "TOPBTC Token",
@@ -42981,7 +43259,15 @@
     "url": "/currencies/topb",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf631...e19d9c6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TRAXIA": {
     "name": "TRAXIA",
@@ -42989,7 +43275,11 @@
     "url": "/currencies/traxia",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "TRON": {
     "name": "TRON",
@@ -43007,7 +43297,15 @@
     "url": "/currencies/tronclassic",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xad5f...a117d8e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TRONbetDice": {
     "name": "TRONbetDice",
@@ -43016,7 +43314,15 @@
     "tags": [
       "Token",
       "Gambling"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TKttnV...V94KpSd"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "TRONbetLive": {
     "name": "TRONbetLive",
@@ -43024,7 +43330,15 @@
     "url": "/currencies/tronbetlive",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TVgAYo...zrk8WVK"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "TROY": {
     "name": "TROY",
@@ -43032,7 +43346,15 @@
     "url": "/currencies/troy",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TROY-9B8"
+      ],
+      "forked_from": [
+        "Binance Chain Contract"
+      ]
+    }
   },
   "TRXDOWN": {
     "name": "TRXDOWN",
@@ -43056,7 +43378,15 @@
     "url": "/currencies/tune-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6b4e...6271f53"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TV-TWO": {
     "name": "TV-TWO",
@@ -43064,7 +43394,15 @@
     "url": "/currencies/tv-two",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa838...78f9a76"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TW Token": {
     "name": "TW Token",
@@ -43072,7 +43410,15 @@
     "url": "/currencies/tw-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "1003120"
+      ],
+      "forked_from": [
+        "Tron Contract"
+      ]
+    }
   },
   "TYCOON69": {
     "name": "TYCOON69",
@@ -43088,7 +43434,11 @@
     "url": "/currencies/tachyon-protocol",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Tacos": {
     "name": "Tacos",
@@ -43096,7 +43446,15 @@
     "url": "/currencies/tacos",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x00D1...F642557"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tael": {
     "name": "Tael",
@@ -43106,7 +43464,15 @@
       "Token",
       "Logistics",
       "Data Provenance"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x286b...5a609fe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TagCoin": {
     "name": "TagCoin",
@@ -43136,7 +43502,15 @@
     "url": "/currencies/taklimakan-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2c36...e78cb53"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tamy Token": {
     "name": "Tamy Token",
@@ -43144,7 +43518,15 @@
     "url": "/currencies/tamy-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb9cb...2b52f7b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tap": {
     "name": "Tap",
@@ -43159,7 +43541,15 @@
       "Payments",
       "Mobile",
       "Discount token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6368...b9250fc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tavittcoin": {
     "name": "Tavittcoin",
@@ -43167,7 +43557,15 @@
     "url": "/currencies/tavittcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdd69...2c1af56"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tcbcoin": {
     "name": "Tcbcoin",
@@ -43175,7 +43573,15 @@
     "url": "/currencies/tcbcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x36dC...2d0cBF7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tchain": {
     "name": "Tchain",
@@ -43183,7 +43589,15 @@
     "url": "/currencies/tchain",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x59c3...d22d623"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Team Finance": {
     "name": "Team Finance",
@@ -43191,7 +43605,15 @@
     "url": "/currencies/team-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb05A...7eD2741"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TeeCoin": {
     "name": "TeeCoin",
@@ -43209,7 +43631,15 @@
       "Token",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x85e0...74402b2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tellor": {
     "name": "Tellor",
@@ -43220,7 +43650,15 @@
       "Mineable",
       "DeFi",
       "Oracles"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0ba4...c95a2e5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Telos": {
     "name": "Telos",
@@ -43230,7 +43668,15 @@
       "Token",
       "Services",
       "Enterprise solutions"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "telosk...tchen18"
+      ],
+      "forked_from": [
+        "EOS Contract"
+      ]
+    }
   },
   "Teloscoin": {
     "name": "Teloscoin",
@@ -43256,7 +43702,15 @@
     "tags": [
       "Token",
       "Medium of Exchange"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb970...905b280"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tendies": {
     "name": "Tendies",
@@ -43265,7 +43719,15 @@
     "tags": [
       "Token",
       "Memes"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1453...317eaeb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tepleton": {
     "name": "Tepleton",
@@ -43273,7 +43735,15 @@
     "url": "/currencies/tepleton",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2e65...f183d1c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ternio": {
     "name": "Ternio",
@@ -43281,7 +43751,11 @@
     "url": "/currencies/ternio",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Ternio-ERC20": {
     "name": "Ternio-ERC20",
@@ -43289,7 +43763,15 @@
     "url": "/currencies/ternio-erc20",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2428...B2d9a51"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Terra": {
     "name": "Terra",
@@ -43353,7 +43835,15 @@
     "url": "/currencies/tesra",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5895...4cef438"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tether": {
     "name": "Tether",
@@ -43383,7 +43873,17 @@
       "Giancarlo Devasini",
       "Charlie lee",
       "JL Van der Velde"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xdac1...d831ec7",
+        "TR7NHq...zgjLj6t"
+      ],
+      "forked_from": [
+        "Ethereum Contract",
+        "Tron Contract"
+      ]
+    }
   },
   "Tether Gold": {
     "name": "Tether Gold",
@@ -43391,7 +43891,15 @@
     "url": "/currencies/tether-gold",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4922...32e4a2a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tezos": {
     "name": "Tezos",
@@ -43411,7 +43919,15 @@
     "url": "/currencies/thar-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7577...1FCf4E9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The ChampCoin": {
     "name": "The ChampCoin",
@@ -43428,7 +43944,15 @@
     "url": "/currencies/the-currency-analytics",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaff8...446fa14"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Force Protocol": {
     "name": "The Force Protocol",
@@ -43440,7 +43964,15 @@
       "Binance Smart Chain",
       "DeFi",
       "Singapore"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fcd...a5a672f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Forms": {
     "name": "The Forms",
@@ -43448,7 +43980,15 @@
     "url": "/currencies/the-forms",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8b80...cd550fb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Hash Speed": {
     "name": "The Hash Speed",
@@ -43456,7 +43996,15 @@
     "url": "/currencies/the-hash-speed",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xD0Df...8d15A4d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Hustle App": {
     "name": "The Hustle App",
