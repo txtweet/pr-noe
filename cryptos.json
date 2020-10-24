@@ -48832,7 +48832,11 @@
       "DAO",
       "DeFi",
       "Ontology"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "WingShop": {
     "name": "WingShop",
@@ -48840,7 +48844,15 @@
     "url": "/currencies/wingshop",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcb3d...fc39080"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wings": {
     "name": "Wings",
@@ -48850,7 +48862,15 @@
       "Token",
       "Asset management",
       "Crowdfunding"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6670...000d9aF"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wink": {
     "name": "Wink",
@@ -48868,7 +48888,11 @@
       "Token",
       "Asset management",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Wisdom Chain": {
     "name": "Wisdom Chain",
@@ -48886,7 +48910,15 @@
       "Token",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7ba1...e0b555e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wolfs Group": {
     "name": "Wolfs Group",
@@ -48894,7 +48926,15 @@
     "url": "/currencies/wolfs-group",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x02b1...d643f99"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Work Force Coin": {
     "name": "Work Force Coin",
@@ -48902,7 +48942,15 @@
     "url": "/currencies/work-force-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x3f03...d6a6df2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Worldcore": {
     "name": "Worldcore",
@@ -48910,7 +48958,15 @@
     "url": "/currencies/worldcore",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x72ad...5e4cb2d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "WowSecret": {
     "name": "WowSecret",
@@ -48918,7 +48974,15 @@
     "url": "/currencies/wowsecret",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x8431...49ad87f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wowbit": {
     "name": "Wowbit",
@@ -48926,7 +48990,15 @@
     "url": "/currencies/wowbit",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "40bb36...0e58448"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "Wownero": {
     "name": "Wownero",
@@ -48946,7 +49018,15 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2260...bc2c599"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped Gen-0 CryptoKitties": {
     "name": "Wrapped Gen-0 CryptoKitties",
@@ -48954,7 +49034,15 @@
     "url": "/currencies/wrapped-gen-0-cryptokitties",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa107...d27c057"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped LEO": {
     "name": "Wrapped LEO",
@@ -48962,7 +49050,15 @@
     "url": "/currencies/wrapped-leo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x352c...f61192b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped Origin Axie": {
     "name": "Wrapped Origin Axie",
@@ -48970,7 +49066,15 @@
     "url": "/currencies/wrapped-origin-axie",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xEC0A...133FDCf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped Virgin Gen-0 CryptoKitties": {
     "name": "Wrapped Virgin Gen-0 CryptoKitties",
@@ -48978,7 +49082,15 @@
     "url": "/currencies/wrapped-virgin-gen-0-cryptokitties",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x25c7...a38b611"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "X-Block": {
     "name": "X-Block",
@@ -48986,7 +49098,15 @@
     "url": "/currencies/x-block",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x53f0...7E534Cb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "X-CASH": {
     "name": "X-CASH",
@@ -49021,7 +49141,15 @@
     "url": "/currencies/x8x-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x910d...060fa4c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XDAG": {
     "name": "XDAG",
@@ -49071,7 +49199,17 @@
     "url": "/currencies/xio",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "XIO-B05",
+        "0x0f7F...79b5704"
+      ],
+      "forked_from": [
+        "Binance Chain Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "XMCT": {
     "name": "XMCT",
@@ -49079,7 +49217,15 @@
     "url": "/currencies/xmct",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4444...28391C8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XMax": {
     "name": "XMax",
@@ -49090,7 +49236,15 @@
       "Media",
       "Content Creation",
       "Gaming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0f8c...660209c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XOVBank": {
     "name": "XOVBank",
@@ -49098,7 +49252,15 @@
     "url": "/currencies/xovbank",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x153e...436a5f9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XPA": {
     "name": "XPA",
@@ -49107,7 +49269,15 @@
     "tags": [
       "Token",
       "Asset management"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9052...d643170"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XRP": {
     "name": "XRP",
@@ -49159,7 +49329,15 @@
     "url": "/currencies/xtrd",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9c79...ef43992"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XTRM COIN": {
     "name": "XTRM COIN",
@@ -49167,7 +49345,11 @@
     "url": "/currencies/xtrm-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "XTZDOWN": {
     "name": "XTZDOWN",
@@ -49191,7 +49373,15 @@
     "url": "/currencies/xyo",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5529...654e758"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Xank": {
     "name": "Xank",
@@ -49199,7 +49389,15 @@
     "url": "/currencies/xank",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0e7f...44b5b9a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Xaurum": {
     "name": "Xaurum",
