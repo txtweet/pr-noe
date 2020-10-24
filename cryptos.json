@@ -45591,7 +45591,15 @@
     "url": "/currencies/twinkle",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x13e9...6f0970c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Two Prime FF1 Token": {
     "name": "Two Prime FF1 Token",
@@ -45599,7 +45607,15 @@
     "url": "/currencies/two-prime-ff1-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x59af...c31278c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Typerium": {
     "name": "Typerium",
