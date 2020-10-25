@@ -52834,7 +52834,15 @@
     "url": "/currencies/suterusu",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xba8c...a5081eb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "tomatos.finance": {
     "name": "tomatos.finance",
@@ -52842,7 +52850,15 @@
     "url": "/currencies/tomatos-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2306...92b2BBf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "uPlexa": {
     "name": "uPlexa",
