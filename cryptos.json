@@ -50617,7 +50617,15 @@
     "url": "/currencies/yield-stake-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x03e4...4cc99ff"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yield-Farming": {
     "name": "Yield-Farming",
@@ -50625,7 +50633,15 @@
     "url": "/currencies/yield-farming",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6768...d0b45ad"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YieldWars": {
     "name": "YieldWars",
