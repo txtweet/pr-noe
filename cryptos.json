@@ -53015,7 +53015,15 @@
     "tags": [
       "Token",
       "DeFi"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0Ae0...1f195e6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "xscoin": {
     "name": "xscoin",
@@ -53031,7 +53039,15 @@
     "url": "/currencies/yaxis",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb1dc...053a289"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yRise Finance": {
     "name": "yRise Finance",
