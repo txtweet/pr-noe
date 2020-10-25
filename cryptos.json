@@ -52946,7 +52946,11 @@
     "url": "/currencies/webloc",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "wys Token": {
     "name": "wys Token",
@@ -52954,7 +52958,15 @@
     "url": "/currencies/wys-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd895...f3c711a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "x42 Protocol": {
     "name": "x42 Protocol",
@@ -52970,7 +52982,15 @@
     "url": "/currencies/xbtc",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xECbF...9715f7A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "xCrypt Token": {
     "name": "xCrypt Token",
@@ -52978,7 +52998,15 @@
     "url": "/currencies/xcrypt-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd2bb...ebd596b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "xDai": {
     "name": "xDai",
