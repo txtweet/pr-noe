@@ -50585,7 +50585,15 @@
     "url": "/currencies/yield-farming-known-as-ash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4086...ff6ec3e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yield Farming Token": {
     "name": "Yield Farming Token",
@@ -50593,7 +50601,15 @@
     "url": "/currencies/yield-farming-token",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x26B3...28dA702"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yield Stake Finance": {
     "name": "Yield Stake Finance",
