@@ -52874,7 +52874,15 @@
     "url": "/currencies/unibot-cash",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xd03B...a425c70"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "v.systems": {
     "name": "v.systems",
@@ -52894,7 +52902,15 @@
     "tags": [
       "Token",
       "Gambling"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5c54...fce5170"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "vSportCoin": {
     "name": "vSportCoin",
@@ -52902,7 +52918,15 @@
     "url": "/currencies/vsportcoin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x36b4...11a2548"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "wave edu coin": {
     "name": "wave edu coin",
@@ -52910,7 +52934,11 @@
     "url": "/currencies/wave-edu-coin",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "weBloc": {
     "name": "weBloc",
