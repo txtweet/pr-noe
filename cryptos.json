@@ -53055,7 +53055,15 @@
     "url": "/currencies/yrise-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6051...64768B8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yTSLA Finance": {
     "name": "yTSLA Finance",
@@ -53063,7 +53071,15 @@
     "url": "/currencies/ytsla-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5322...dcb1021"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yearn.finance": {
     "name": "yearn.finance",
@@ -53073,7 +53089,15 @@
       "Token",
       "DeFi",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x0bc5...f6ad93e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yfBeta": {
     "name": "yfBeta",
@@ -53081,7 +53105,15 @@
     "url": "/currencies/yfbeta",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x89ee...933c838"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yffc.finance": {
     "name": "yffc.finance",
@@ -53089,7 +53121,15 @@
     "url": "/currencies/yffc-finance",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xea00...7176cbd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yffi finance": {
     "name": "yffi finance",
@@ -53098,7 +53138,15 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xcee1...b9e1669"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yieldfarming.insure": {
     "name": "yieldfarming.insure",
@@ -53106,7 +53154,15 @@
     "url": "/currencies/yieldfarming-insure",
     "tags": [
       "Token"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x250a...89a2699"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "zzz.finance": {
     "name": "zzz.finance",
@@ -53115,6 +53171,14 @@
     "tags": [
       "Token",
       "Yield farming"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc75F...85e4CE0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   }
 }
