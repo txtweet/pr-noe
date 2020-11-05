@@ -1,6 +1,14 @@
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
+
+# Choisir la page d'indexation de coinmarketcap
 page = Math.floor(Math.random() * 37) + 1
+# Exclure la page d'une sous liste
+#while page in [1, 3, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 36, 37]
+while page in []
+  page = Math.floor(Math.random() * 37) + 1
+
+# page = 25
 request = require('request-promise').defaults
   url: 'https://coinmarketcap.com/'+page
 _ = require 'lodash'
@@ -26,13 +34,17 @@ request()
 
   i = 0
   testCrypto = cryptos.slice(i, 2)
-  while sauve[testCrypto[0].name]? # Si le premier est connu alors on saute
-    testCrypto = cryptos.slice(++i, i+3)
+  if testCrypto[0]?
+    while sauve[testCrypto[0]?.name]? # Si le premier est connu alors on saute
+      unless testCrypto[0]?
+        break;
+      testCrypto = cryptos.slice(++i, i+3)
 
-  if testCrypto[0].url?
+  if testCrypto[0]?
     Promise.each testCrypto, (crypto) ->
     # Promise.each (cryptos).slice(1, 3), (crypto) ->
-      unless sauve[crypto.name]?
+      # unless crypto.url is "/currencies/vox.finance"
+      unless sauve[crypto.name]? or crypto.url is "/currencies/vox.finance"
         request
           url : 'https://coinmarketcap.com'+crypto.url
           method: 'GET'
@@ -47,10 +59,16 @@ request()
         # Promise.resolve()
         .delay(Math.floor(Math.random() * 10000) + 5000)
       else
+        if crypto.url is "/currencies/vox.finance"
+          console.warn "VOX Finance indexée : #{page}, #{JSON.stringify crypto, null, 2}"
+          sauve[crypto.name] = crypto
         console.warn "Déjà indexée : ", crypto.name
         Promise.resolve()
+      # else
+      #   console.warn "VOX Finance indexée : #{page}, #{JSON.stringify crypto, null, 2}"
+      #   Promise.resolve()
   else
-    console.warns "Dernière Crypto indexée page #{page}"
+    console.warn "Dernière Crypto indexée page #{page}"
     Promise.resolve()
 .then () ->
   # # tri du tableau
