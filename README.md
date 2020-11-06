@@ -40,6 +40,12 @@ Il faut lancer un serveur minmal python pour charger les données.
 Puis ouvrir la page testD3.html
 >open http://localhost:8000/testD3.html
 
+### biblio et test d'aide
+> Un tutoriel rapide et simple avec un codepen à la fin
+https://medium.com/nightingale/making-hierarchy-layouts-with-d3-hierarchy-fdb36d0a9c56
+> La doc de d3-hierarchy, plus difficile à prendre en main, car ca passe par l'infrastructure observable
+https://observablehq.com/@d3/tidy-tree
+
 # Papiers
 https://www.sciencedirect.com/science/article/abs/pii/S0743731520303117?via%3Dihub - SocialBlock
 https://www.sciencedirect.com/science/article/abs/pii/S0140366420310252 - BSV-PAGS
