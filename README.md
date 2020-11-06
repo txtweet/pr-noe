@@ -31,6 +31,15 @@ Ajout d'un script d'injection des données de forkdrop dans cryptos.json
 > Script de navigation dans coinmarket pour chercher les monnaies de type token et y insérer les information de fork
 Navigue dans la liste cryptos.json pour trouver les forks
 
+## testD3.html
+Pour visualiser les données, on utilise d3-hierarchy.
+Il faut lancer un serveur minmal python pour charger les données.
+
+>python -m SimpleHTTPServer 8000
+
+Puis ouvrir la page testD3.html
+>open http://localhost:8000/testD3.html
+
 # Papiers
 https://www.sciencedirect.com/science/article/abs/pii/S0743731520303117?via%3Dihub - SocialBlock
 https://www.sciencedirect.com/science/article/abs/pii/S0140366420310252 - BSV-PAGS
