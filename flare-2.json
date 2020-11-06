@@ -1,14 +1,1014 @@
 {
   "name": "root",
   "children": [
-    {"name": "child #1"},
     {
-      "name": "child #2",
+      "name": "Binance Chain Contract",
       "children": [
-        {"name": "grandchild #1"},
-        {"name": "grandchild #2"},
-        {"name": "grandchild #3"}
+        {
+          "name": "3X Long Bitcoin Token"
+        },
+        {
+          "name": "3X Long Ethereum Token"
+        },
+        {
+          "name": "3X Short Bitcoin Token"
+        },
+        {
+          "name": "3X Short Ethereum Token"
+        },
+        {
+          "name": "3x Long EOS Token"
+        },
+        {
+          "name": "3x Long XRP Token"
+        },
+        {
+          "name": "3x Short EOS Token"
+        },
+        {
+          "name": "3x Short XRP Token"
+        },
+        {
+          "name": "Aditus"
+        },
+        {
+          "name": "Aergo"
+        },
+        {
+          "name": "Aeron"
+        },
+        {
+          "name": "Ankr"
+        },
+        {
+          "name": "Atlas Protocol"
+        },
+        {
+          "name": "BIDR"
+        },
+        {
+          "name": "Binance GBP Stable Coin"
+        },
+        {
+          "name": "Binance KRW"
+        },
+        {
+          "name": "Binance USD"
+        },
+        {
+          "name": "Bitcloud Pro"
+        },
+        {
+          "name": "Bitcoin BEP2"
+        },
+        {
+          "name": "Blockmason Credit Protocol"
+        },
+        {
+          "name": "Blockmason Link"
+        },
+        {
+          "name": "CPChain"
+        },
+        {
+          "name": "CanYaCoin"
+        },
+        {
+          "name": "Cashaa"
+        },
+        {
+          "name": "Chiliz"
+        },
+        {
+          "name": "Contentos"
+        },
+        {
+          "name": "CryptoBonusMiles"
+        },
+        {
+          "name": "Cubiex"
+        },
+        {
+          "name": "DREP"
+        },
+        {
+          "name": "Dusk Network"
+        },
+        {
+          "name": "Earneo"
+        },
+        {
+          "name": "Equal"
+        },
+        {
+          "name": "FTX Token"
+        },
+        {
+          "name": "Fantom"
+        },
+        {
+          "name": "GIVLY Coin"
+        },
+        {
+          "name": "Gifto"
+        },
+        {
+          "name": "GoWithMi"
+        },
+        {
+          "name": "Honest"
+        },
+        {
+          "name": "Kava.io"
+        },
+        {
+          "name": "LTO Network"
+        },
+        {
+          "name": "LYFE"
+        },
+        {
+          "name": "Lambda"
+        },
+        {
+          "name": "Lition"
+        },
+        {
+          "name": "MEET.ONE"
+        },
+        {
+          "name": "Mcashchain"
+        },
+        {
+          "name": "Mithril"
+        },
+        {
+          "name": "MovieBloc"
+        },
+        {
+          "name": "MultiVAC"
+        },
+        {
+          "name": "Muzika"
+        },
+        {
+          "name": "MyWish"
+        },
+        {
+          "name": "NOW Token"
+        },
+        {
+          "name": "Newton"
+        },
+        {
+          "name": "Nexo"
+        },
+        {
+          "name": "Ormeus Ecosystem"
+        },
+        {
+          "name": "PAYCENT"
+        },
+        {
+          "name": "Pivot Token"
+        },
+        {
+          "name": "Pledge Coin"
+        },
+        {
+          "name": "Pundi X NEM"
+        },
+        {
+          "name": "Raven Protocol"
+        },
+        {
+          "name": "Rupiah Token"
+        }
       ]
+    },
+    {
+      "name": "Binance Smart Chain Contract",
+      "children": [
+        {
+          "name": "Alpha Finance Lab"
+        },
+        {
+          "name": "Beefy.Finance"
+        },
+        {
+          "name": "FREE Coin"
+        },
+        {
+          "name": "PancakeSwap"
+        }
+      ]
+    },
+    {
+      "name": "Bitcoin",
+      "children": [
+        {
+          "name": "Bitcoin Atom"
+        },
+        {
+          "name": "Bitcoin Cash"
+        },
+        {
+          "name": "Bitcoin Diamond"
+        },
+        {
+          "name": "Bitcoin God"
+        },
+        {
+          "name": "Bitcoin Gold"
+        },
+        {
+          "name": "Bitcoin Interest"
+        },
+        {
+          "name": "Bitcoin SV"
+        },
+        {
+          "name": "BitcoinX"
+        },
+        {
+          "name": "Bitcore"
+        },
+        {
+          "name": "Clams"
+        },
+        {
+          "name": "MicroBitcoin"
+        },
+        {
+          "name": "Super Bitcoin"
+        },
+        {
+          "name": "United Bitcoin"
+        }
+      ]
+    },
+    {
+      "name": "Dash",
+      "children": [
+        {
+          "name": "Safe"
+        }
+      ]
+    },
+    {
+      "name": "Ethereum",
+      "children": [
+        {
+          "name": "Ether Zero"
+        },
+        {
+          "name": "EtherInc"
+        },
+        {
+          "name": "Ethereum Classic"
+        },
+        {
+          "name": "Ethereum Gold"
+        }
+      ]
+    },
+    {
+      "name": "Ethereum Classic",
+      "children": [
+        {
+          "name": "Callisto Network"
+        }
+      ]
+    },
+    {
+      "name": "Ethereum Contract",
+      "children": [
+        {
+          "name": "999"
+        },
+        {
+          "name": "0Chain"
+        },
+        {
+          "name": "0x"
+        },
+        {
+          "name": "0xBitcoin"
+        },
+        {
+          "name": "0xcert"
+        },
+        {
+          "name": "12Ships"
+        },
+        {
+          "name": "1AI Token"
+        },
+        {
+          "name": "1Million Token"
+        },
+        {
+          "name": "1SG"
+        },
+        {
+          "name": "1World"
+        },
+        {
+          "name": "1X Short Ethereum Token"
+        },
+        {
+          "name": "1irstGold"
+        },
+        {
+          "name": "1irstcoin"
+        },
+        {
+          "name": "1x Long Bitcoin Implied Volatility Token"
+        },
+        {
+          "name": "1x Short Bitcoin Token"
+        },
+        {
+          "name": "2key.network"
+        },
+        {
+          "name": "3X Long Algorand Token"
+        },
+        {
+          "name": "3X Long Altcoin Index Token"
+        },
+        {
+          "name": "3X Long BNB Token"
+        },
+        {
+          "name": "3X Long BitMax Token Token"
+        },
+        {
+          "name": "3X Long Cardano Token"
+        },
+        {
+          "name": "3X Long Chainlink Token"
+        },
+        {
+          "name": "3X Long Cosmos Token"
+        },
+        {
+          "name": "3X Long Dogecoin Token"
+        },
+        {
+          "name": "3X Long Dragon Index Token"
+        },
+        {
+          "name": "3X Long Ethereum Classic Token"
+        },
+        {
+          "name": "3X Long Huobi Token Token"
+        },
+        {
+          "name": "3X Long Matic Token"
+        },
+        {
+          "name": "3X Long Midcap Index Token"
+        },
+        {
+          "name": "3X Long OKB Token"
+        },
+        {
+          "name": "3X Long Shitcoin Index Token"
+        },
+        {
+          "name": "3X Long TRX Token"
+        },
+        {
+          "name": "3X Long Tether Gold Token"
+        },
+        {
+          "name": "3X Long TomoChain Token"
+        },
+        {
+          "name": "3X Short Algorand Token"
+        },
+        {
+          "name": "3X Short BNB Token"
+        },
+        {
+          "name": "3X Short Cardano Token"
+        },
+        {
+          "name": "3X Short Chainlink Token"
+        },
+        {
+          "name": "3X Short Cosmos Token"
+        },
+        {
+          "name": "3X Short Dogecoin Token"
+        },
+        {
+          "name": "3X Short Ethereum Classic Token"
+        },
+        {
+          "name": "3X Short Matic Token"
+        },
+        {
+          "name": "3X Short TRX Token"
+        },
+        {
+          "name": "3X Short Tether Gold Token"
+        },
+        {
+          "name": "3X Short TomoChain Token"
+        },
+        {
+          "name": "3x Long Bitcoin Cash Token"
+        },
+        {
+          "name": "3x Long Bitcoin SV Token"
+        },
+        {
+          "name": "3x Long Litecoin Token"
+        },
+        {
+          "name": "3x Long Tezos Token"
+        },
+        {
+          "name": "3x Short Bitcoin Cash Token"
+        },
+        {
+          "name": "3x Short Bitcoin SV Token"
+        },
+        {
+          "name": "3x Short Litecoin Token"
+        },
+        {
+          "name": "3x Short Tezos Token"
+        },
+        {
+          "name": "4ART Coin"
+        },
+        {
+          "name": "4NEW"
+        },
+        {
+          "name": "4THPILLAR TECHNOLOGIES"
+        },
+        {
+          "name": "7Eleven"
+        },
+        {
+          "name": "8X8 PROTOCOL"
+        },
+        {
+          "name": "AAX Token"
+        },
+        {
+          "name": "ABCC Token"
+        }
+      ]
+    },
+    {
+      "name": "EOS Contract",
+      "children": [
+        {
+          "name": "ACE"
+        },
+        {
+          "name": "ASTA"
+        },
+        {
+          "name": "Asian-African Capital Chain"
+        },
+        {
+          "name": "BOSCore"
+        },
+        {
+          "name": "BigGame"
+        },
+        {
+          "name": "DMD"
+        },
+        {
+          "name": "DefiBox"
+        },
+        {
+          "name": "Defis Network"
+        },
+        {
+          "name": "Dice"
+        },
+        {
+          "name": "Dionpay"
+        },
+        {
+          "name": "Dragon Option"
+        },
+        {
+          "name": "EIDOS"
+        },
+        {
+          "name": "EOSDT"
+        },
+        {
+          "name": "EarnBet"
+        },
+        {
+          "name": "Effect.AI"
+        },
+        {
+          "name": "Emanate"
+        },
+        {
+          "name": "Everipedia"
+        },
+        {
+          "name": "HorusPay"
+        },
+        {
+          "name": "KARMA"
+        },
+        {
+          "name": "LiquidApps"
+        },
+        {
+          "name": "ModiHost"
+        },
+        {
+          "name": "Native Utility Token"
+        },
+        {
+          "name": "PUBLISH"
+        },
+        {
+          "name": "PUBLYTO Token"
+        },
+        {
+          "name": "Paytomat"
+        },
+        {
+          "name": "Pizza"
+        },
+        {
+          "name": "Sense"
+        },
+        {
+          "name": "Telos"
+        },
+        {
+          "name": "VIG"
+        },
+        {
+          "name": "YAS"
+        },
+        {
+          "name": "eosBLACK"
+        },
+        {
+          "name": "pEOS"
+        }
+      ]
+    },
+    {
+      "name": "Litecoin",
+      "children": [
+        {
+          "name": "Litecoin Cash"
+        }
+      ]
+    },
+    {
+      "name": "Monero",
+      "children": [
+        {
+          "name": "Monero Classic"
+        },
+        {
+          "name": "MoneroV "
+        }
+      ]
+    },
+    {
+      "name": "NEO",
+      "children": [
+        {
+          "name": "Ontology"
+        }
+      ]
+    },
+    {
+      "name": "Neo Contract",
+      "children": [
+        {
+          "name": "AK12"
+        },
+        {
+          "name": "Alchemint Standards"
+        },
+        {
+          "name": "Alphacat"
+        },
+        {
+          "name": "Apex"
+        },
+        {
+          "name": "Asura Coin"
+        },
+        {
+          "name": "Bridge Protocol"
+        },
+        {
+          "name": "ChronoCoin"
+        },
+        {
+          "name": "Compendia"
+        },
+        {
+          "name": "DeepBrain Chain"
+        },
+        {
+          "name": "Endorsit"
+        },
+        {
+          "name": "Experience Token"
+        },
+        {
+          "name": "Gas"
+        },
+        {
+          "name": "Loopring [NEO]"
+        },
+        {
+          "name": "Master Contract Token"
+        },
+        {
+          "name": "Narrative"
+        },
+        {
+          "name": "Nash Exchange"
+        },
+        {
+          "name": "Phantasma"
+        },
+        {
+          "name": "QLC Chain"
+        },
+        {
+          "name": "Red Pulse Phoenix"
+        },
+        {
+          "name": "STEM CELL COIN"
+        },
+        {
+          "name": "Switcheo"
+        },
+        {
+          "name": "THEKEY"
+        },
+        {
+          "name": "TranslateMe Network Token"
+        },
+        {
+          "name": "Trinity Network Credit"
+        },
+        {
+          "name": "Wowbit"
+        }
+      ]
+    },
+    {
+      "name": "Tron Contract",
+      "children": [
+        {
+          "name": "888tron"
+        },
+        {
+          "name": "AlphaLink"
+        },
+        {
+          "name": "Bankroll Network"
+        },
+        {
+          "name": "BeatzCoin"
+        },
+        {
+          "name": "BitGuild PLAT"
+        },
+        {
+          "name": "BitTorrent"
+        },
+        {
+          "name": "CORN"
+        },
+        {
+          "name": "Carrot"
+        },
+        {
+          "name": "Centric Cash"
+        },
+        {
+          "name": "CryptoBharatCoin"
+        },
+        {
+          "name": "DACC2"
+        },
+        {
+          "name": "DApp Evolution"
+        },
+        {
+          "name": "Dark Energy Crystals"
+        },
+        {
+          "name": "DeFinition"
+        },
+        {
+          "name": "Diamond Voucher"
+        },
+        {
+          "name": "Dragon Ball"
+        },
+        {
+          "name": "FREE Coin"
+        },
+        {
+          "name": "GOT Token"
+        },
+        {
+          "name": "IG Gold"
+        },
+        {
+          "name": "INRToken"
+        },
+        {
+          "name": "JUST"
+        },
+        {
+          "name": "JackPool.finance"
+        },
+        {
+          "name": "Kingdom Game 4.0"
+        },
+        {
+          "name": "Klever"
+        },
+        {
+          "name": "LOOPREX"
+        },
+        {
+          "name": "LoveHearts"
+        },
+        {
+          "name": "Mineral"
+        },
+        {
+          "name": "Oikos"
+        },
+        {
+          "name": "PYRO Network (TRON)"
+        },
+        {
+          "name": "Pearl"
+        },
+        {
+          "name": "Play Royal"
+        },
+        {
+          "name": "Pollux Coin"
+        },
+        {
+          "name": "Proof Of Liquidity"
+        },
+        {
+          "name": "SalmonSwap"
+        },
+        {
+          "name": "Sesameseed"
+        },
+        {
+          "name": "SpokLottery"
+        },
+        {
+          "name": "TAI"
+        },
+        {
+          "name": "TRONbetDice"
+        },
+        {
+          "name": "TRONbetLive"
+        },
+        {
+          "name": "TW Token"
+        },
+        {
+          "name": "Tether"
+        },
+        {
+          "name": "Tide Protocol"
+        },
+        {
+          "name": "TronEuropeRewardCoin"
+        },
+        {
+          "name": "USDJ"
+        },
+        {
+          "name": "VENA"
+        },
+        {
+          "name": "VN Token"
+        },
+        {
+          "name": "WINk"
+        },
+        {
+          "name": "ZIMBOCASH"
+        }
+      ]
+    },
+    {
+      "name": "#MetaHash",
+      "children": []
+    },
+    {
+      "name": "01coin",
+      "children": []
+    },
+    {
+      "name": "0cash",
+      "children": []
+    },
+    {
+      "name": "1X2 COIN",
+      "children": []
+    },
+    {
+      "name": "2GIVE",
+      "children": []
+    },
+    {
+      "name": "42-coin",
+      "children": []
+    },
+    {
+      "name": "ABBC Coin",
+      "children": []
+    },
+    {
+      "name": "ADADOWN",
+      "children": []
+    },
+    {
+      "name": "ADAMANT Messenger",
+      "children": []
+    },
+    {
+      "name": "ADAUP",
+      "children": []
+    },
+    {
+      "name": "ALQO",
+      "children": []
+    },
+    {
+      "name": "AML Bitcoin",
+      "children": []
+    },
+    {
+      "name": "ANON",
+      "children": []
+    },
+    {
+      "name": "AOS",
+      "children": []
+    },
+    {
+      "name": "APR Coin",
+      "children": []
+    },
+    {
+      "name": "ARbit",
+      "children": []
+    },
+    {
+      "name": "ATBCoin",
+      "children": []
+    },
+    {
+      "name": "AVCCOIN",
+      "children": []
+    },
+    {
+      "name": "AXEL",
+      "children": []
+    },
+    {
+      "name": "Aces",
+      "children": []
+    },
+    {
+      "name": "Achain",
+      "children": []
+    },
+    {
+      "name": "Acoin",
+      "children": []
+    },
+    {
+      "name": "Actinium",
+      "children": []
+    },
+    {
+      "name": "Adshares",
+      "children": []
+    },
+    {
+      "name": "Advanced Internet Blocks",
+      "children": []
+    },
+    {
+      "name": "Advanced Technology Coin",
+      "children": []
+    },
+    {
+      "name": "Adzcoin",
+      "children": []
+    },
+    {
+      "name": "Aeon",
+      "children": []
+    },
+    {
+      "name": "Aeternity",
+      "children": []
+    },
+    {
+      "name": "Affil Coin",
+      "children": []
+    },
+    {
+      "name": "Aidos Kuneen",
+      "children": []
+    },
+    {
+      "name": "Aion",
+      "children": []
+    },
+    {
+      "name": "AirWire",
+      "children": []
+    },
+    {
+      "name": "Akash Network",
+      "children": []
+    },
+    {
+      "name": "Akroma",
+      "children": []
+    },
+    {
+      "name": "Alchemy Pay",
+      "children": []
+    },
+    {
+      "name": "Algorand",
+      "children": []
+    },
+    {
+      "name": "Alias",
+      "children": []
+    },
+    {
+      "name": "AllSafe",
+      "children": []
+    },
+    {
+      "name": "Altbet",
+      "children": []
+    },
+    {
+      "name": "Ambrosus",
+      "children": []
+    },
+    {
+      "name": "Amoveo",
+      "children": []
+    },
+    {
+      "name": "AmsterdamCoin",
+      "children": []
+    },
+    {
+      "name": "Anoncoin",
+      "children": []
+    },
+    {
+      "name": "Apollo Currency",
+      "children": []
+    },
+    {
+      "name": "Apollon",
+      "children": []
+    },
+    {
+      "name": "AquariusCoin",
+      "children": []
     }
   ]
 }
