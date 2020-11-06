@@ -6952,7 +6952,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "505888",
+      "block": [
+        "505888"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2018-01-24"
     }
   },
@@ -6995,7 +7000,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "478558",
+      "block": [
+        "478558"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-08-01"
     }
   },
@@ -7027,7 +7037,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "495866",
+      "block": [
+        "495866"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-11-24"
     }
   },
@@ -7072,7 +7087,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "501225",
+      "block": [
+        "501225"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-12-27"
     }
   },
@@ -7088,7 +7108,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "491407",
+      "block": [
+        "491407"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-10-24"
     }
   },
@@ -7111,7 +7136,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "505083",
+      "block": [
+        "505083"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2018-01-20"
     }
   },
@@ -7179,7 +7209,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "478558",
+      "block": [
+        "478558"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-08-01"
     }
   },
@@ -7301,7 +7336,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "498888",
+      "block": [
+        "498888"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-12-12"
     }
   },
@@ -7340,7 +7380,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "492820",
+      "block": [
+        "492820"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-11-02"
     }
   },
@@ -9718,9 +9763,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "5500000",
+      "block": [
+        "5500000"
+      ],
       "date": "2018-03-04",
-      "forked_from": "Ethereum Classic"
+      "forked_from": [
+        "Ethereum Classic"
+      ]
     }
   },
   "CaluraCoin": {
@@ -10839,7 +10888,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "300377",
+      "block": [
+        "300377"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2014-05-12"
     }
   },
@@ -18303,9 +18357,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "4936270",
+      "block": [
+        "4936270"
+      ],
       "date": "2018-01-20",
-      "forked_from": "Ethereum"
+      "forked_from": [
+        "Ethereum"
+      ]
     }
   },
   "Ether-1": {
@@ -18354,9 +18412,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "5078585",
+      "block": [
+        "5078585"
+      ],
       "date": "2018-02-12",
-      "forked_from": "Ethereum"
+      "forked_from": [
+        "Ethereum"
+      ]
     }
   },
   "EtherSportz": {
@@ -18420,9 +18482,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "1920000",
+      "block": [
+        "1920000"
+      ],
       "date": "2016-07-20",
-      "forked_from": "Ethereum"
+      "forked_from": [
+        "Ethereum"
+      ]
     }
   },
   "Ethereum Gold": {
@@ -18436,9 +18502,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "4730666",
+      "block": [
+        "4730666"
+      ],
       "date": "2017-12-15",
-      "forked_from": "Ethereum"
+      "forked_from": [
+        "Ethereum"
+      ]
     }
   },
   "Ethereum Gold Project": {
@@ -27871,9 +27941,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "1371111",
+      "block": [
+        "1371111"
+      ],
       "date": "2018-02-18",
-      "forked_from": "Litecoin"
+      "forked_from": [
+        "Litecoin"
+      ]
     }
   },
   "Litecoin Plus": {
@@ -30201,7 +30275,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "525000",
+      "block": [
+        "525000"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2018-05-28"
     }
   },
@@ -30743,9 +30822,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "1546000",
+      "block": [
+        "1546000"
+      ],
       "date": "2018-04-06",
-      "forked_from": "Monero"
+      "forked_from": [
+        "Monero"
+      ]
     }
   },
   "MoneroV": {
@@ -30757,9 +30840,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "1564965",
+      "block": [
+        "1564965"
+      ],
       "date": "2018-04-30",
-      "forked_from": "Monero"
+      "forked_from": [
+        "Monero"
+      ]
     }
   },
   "MoneroV ": {
@@ -33564,9 +33651,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "1974823",
+      "block": [
+        "1974823"
+      ],
       "date": "2018-03-01",
-      "forked_from": "NEO"
+      "forked_from": [
+        "NEO"
+      ]
     }
   },
   "Ontology Gas": {
@@ -39508,9 +39599,13 @@
       "forked_altcoin"
     ],
     "forked_data": {
-      "block": "807085",
+      "block": [
+        "807085"
+      ],
       "date": "2018-01-20",
-      "forked_from": "Dash"
+      "forked_from": [
+        "Dash"
+      ]
     }
   },
   "Safe Haven": {
@@ -42381,7 +42476,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "498888",
+      "block": [
+        "498888"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "2017-12-12"
     }
   },
@@ -46486,7 +46586,12 @@
       "forked_bitcoin"
     ],
     "forked_data": {
-      "block": "N/A",
+      "block": [
+        "N/A"
+      ],
+      "forked_from": [
+        "Bitcoin"
+      ],
       "date": "N/A"
     }
   },
