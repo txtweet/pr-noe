@@ -1,121 +1,174 @@
 "tags";"n"
-"1";"Token";656
-"2";"Coin";271
-"3";"Mineable";128
-"4";"Platform";57
-"5";"Marketplace";37
-"6";"PoW";35
-"7";"Payments";34
-"8";"DeFi";33
-"9";"Smart Contracts";25
-"10";"Medium of Exchange";21
-"11";"Scrypt";21
-"12";"Hybrid - PoW & PoS";20
-"13";"Asset management";19
-"14";"Services";14
-"15";"AI & Big Data";13
-"16";"Content Creation";13
-"17";"Enterprise solutions";13
-"18";"Media";13
-"19";"Distributed Computing";12
-"20";"Collectibles & NFTs";11
-"21";"Ethereum";11
-"22";"PoS";10
-"23";"Privacy";10
-"24";"Stablecoin";10
-"25";"Discount token";9
-"26";"SHA-256";9
-"27";"Stablecoin - Asset-Backed";9
-"28";"Store of Value";9
-"29";"Substrate";9
-"30";"DApp";8
-"31";"Filesharing";7
-"32";"Technology";7
-"33";"Crowdfunding";6
-"34";"Gaming";6
-"35";"Marketing";6
-"36";"Staking";6
-"37";"Binance Chain";5
-"38";"Binance Smart Chain";5
-"39";"Centralized exchange";5
-"40";"IoT";5
-"41";"Logistics";5
-"42";"Masternodes";5
-"43";"Polkadot";5
-"44";"Research";5
-"45";"Sharing Economy";5
-"46";"Wallet";5
-"47";"Yield farming";5
-"48";"DAO";4
-"49";"Ethash";4
-"50";"Identity";4
-"51";"Interoperability";4
-"52";"IPFS";4
-"53";"Oracles";4
-"54";"Quark";4
-"55";"Real Estate";4
-"56";"X11";4
-"57";"Commodities";3
-"58";"Data Provenance";3
-"59";"Decentralized exchange";3
-"60";"DPoS";3
-"61";"E-commerce";3
-"62";"Entertainment";3
-"63";"Gambling";3
-"64";"Memes";3
-"65";"Prediction Markets";3
-"66";"Reputation";3
-"67";"State channels";3
-"68";"Atomic Swaps";2
-"69";"Communications & Social Media";2
-"70";"Crowdsourcing";2
-"71";"Cybersecurity";2
-"72";"Energy";2
-"73";"Equihash";2
-"74";"Health";2
-"75";"Jobs";2
-"76";"Loyalty";2
-"77";"Transport";2
-"78";"Video";2
-"79";"X13";2
-"80";"Blake";1
-"81";"BLAKE256";1
-"82";"Blake2b";1
-"83";"China";1
-"84";"CryptoNight-Lite";1
-"85";"DAG";1
-"86";"Dagger-Hashimoto";1
-"87";"Derivatives";1
-"88";"Education";1
-"89";"Escrow";1
-"90";"Food & Beverage";1
-"91";"Geospatial services";1
-"92";"Hardware";1
-"93";"HMQ1725";1
-"94";"Hospitality";1
-"95";"Hybrid - PoS & PoP";1
-"96";"Insurance";1
-"97";"LPoS";1
-"98";"Lyra2RE";1
-"99";"Multiple";1
-"100";"NEM";1
-"101";"NeoScrypt";1
-"102";"NIST5";1
-"103";"Philanthropy";1
-"104";"PoA";1
-"105";"PoI";1
-"106";"POS 3.0";1
-"107";"PoST";1
-"108";"QuBit";1
-"109";"Retail";1
-"110";"RingCT";1
-"111";"Scaling";1
-"112";"Scrypt-n";1
-"113";"Search Engine";1
-"114";"Singapore";1
-"115";"Sports";1
-"116";"Stablecoin - Algorithmically-Stabilized";1
-"117";"Virgin Islands (British)";1
-"118";"X11GOST";1
-"119";"X14";1
-"120";"XEVAN";1
+"1";"Token";2247
+"2";"Coin";926
+"3";"Mineable";436
+"4";"Platform";169
+"5";"DeFi";131
+"6";"Payments";123
+"7";"Marketplace";115
+"8";"PoW";110
+"9";"Hybrid - PoW & PoS";81
+"10";"Smart Contracts";81
+"11";"Medium of Exchange";78
+"12";"Scrypt";78
+"13";"Enterprise solutions";62
+"14";"Services";50
+"15";"AI & Big Data";47
+"16";"Asset management";47
+"17";"Media";47
+"18";"PoS";44
+"19";"Distributed Computing";39
+"20";"Content Creation";38
+"21";"Yield farming";35
+"22";"Privacy";32
+"23";"SHA-256";32
+"24";"Stablecoin";32
+"25";"Collectibles & NFTs";26
+"26";"Stablecoin - Asset-Backed";26
+"27";"Substrate";26
+"28";"Ethereum";25
+"29";"Store of Value";24
+"30";"Binance Chain";23
+"31";"Centralized exchange";23
+"32";"Decentralized exchange";23
+"33";"Filesharing";23
+"34";"Gaming";23
+"35";"DApp";21
+"36";"X11";21
+"37";"Wallet";20
+"38";"Staking";19
+"39";"Discount token";18
+"40";"Masternodes";18
+"41";"Gambling";17
+"42";"Marketing";17
+"43";"Technology";17
+"44";"DPoS";16
+"45";"Interoperability";16
+"46";"IoT";16
+"47";"Entertainment";15
+"48";"Logistics";14
+"49";"Polkadot";14
+"50";"Health";13
+"51";"Oracles";13
+"52";"DAO";12
+"53";"Identity";12
+"54";"State channels";12
+"55";"Crowdfunding";11
+"56";"Memes";11
+"57";"Research";11
+"58";"Sharing Economy";11
+"59";"Cybersecurity";10
+"60";"Education";10
+"61";"Binance Smart Chain";9
+"62";"Data Provenance";9
+"63";"Energy";8
+"64";"IPFS";8
+"65";"Jobs";8
+"66";"Loyalty";8
+"67";"Quark";8
+"68";"Crowdsourcing";7
+"69";"Real Estate";7
+"70";"Scaling";7
+"71";"Commodities";6
+"72";"E-commerce";6
+"73";"Equihash";6
+"74";"Ethash";6
+"75";"Hardware";6
+"76";"Multiple";6
+"77";"Reputation";6
+"78";"X13";6
+"79";"Atomic Swaps";5
+"80";"Communications & Social Media";5
+"81";"DAG";5
+"82";"Derivatives";5
+"83";"Prediction Markets";5
+"84";"Stablecoin - Algorithmically-Stabilized";5
+"85";"Transport";5
+"86";"CryptoNight";4
+"87";"NeoScrypt";4
+"88";"POS 3.0";4
+"89";"Video";4
+"90";"Adult";3
+"91";"Blake2b";3
+"92";"Events";3
+"93";"Hospitality";3
+"94";"Mobile";3
+"95";"Philanthropy";3
+"96";"Agriculture";2
+"97";"BLAKE256";2
+"98";"Food & Beverage";2
+"99";"Groestl";2
+"100";"Kuwait";2
+"101";"Liechtenstein";2
+"102";"LPoS";2
+"103";"Lyra2RE";2
+"104";"PIVX";2
+"105";"PoA";2
+"106";"PoC";2
+"107";"Quantum-Resistant";2
+"108";"Retail";2
+"109";"RingCT";2
+"110";"Search Engine";2
+"111";"Sharding";2
+"112";"Singapore";2
+"113";"Sports";2
+"114";"TPoS";2
+"115";"Waves";2
+"116";"Zero Knowledge Proofs";2
+"117";"AMM";1
+"118";"Argon2";1
+"119";"Art";1
+"120";"Blake";1
+"121";"Blake2S";1
+"122";"China";1
+"123";"Cosmos";1
+"124";"CryptoNight-Lite";1
+"125";"Czechia";1
+"126";"Dagger-Hashimoto";1
+"127";"DBft";1
+"128";"DPoR";1
+"129";"EOS";1
+"130";"Escrow";1
+"131";"Geospatial services";1
+"132";"Germany";1
+"133";"Government";1
+"134";"HMQ1725";1
+"135";"Hybrid - dPoW & PoW";1
+"136";"Hybrid - PoS & LPoS";1
+"137";"Hybrid - PoS & PoP";1
+"138";"Hybrid - PoW & nPoS";1
+"139";"Insurance";1
+"140";"Japan";1
+"141";"M7 POW";1
+"142";"Manufacturing";1
+"143";"Mimble Wimble";1
+"144";"Mixer & Coinjoin";1
+"145";"NEM";1
+"146";"Netherlands";1
+"147";"NIST5";1
+"148";"Omni";1
+"149";"Ontology";1
+"150";"PoI";1
+"151";"Poland";1
+"152";"PoP";1
+"153";"PoSign";1
+"154";"PoST";1
+"155";"PoWT";1
+"156";"QuBit";1
+"157";"Scrypt-n";1
+"158";"SHA-512";1
+"159";"SIGMA";1
+"160";"Switzerland";1
+"161";"TRON";1
+"162";"United Arab Emirates";1
+"163";"United Kingdom";1
+"164";"United States of America";1
+"165";"Viet Nam";1
+"166";"Virgin Islands (British)";1
+"167";"VR/AR";1
+"168";"X11GOST";1
+"169";"X14";1
+"170";"X15";1
+"171";"X16R";1
+"172";"XEVAN";1
+"173";"Yescript";1

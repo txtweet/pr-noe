@@ -3,8 +3,8 @@
 <script src="https://d3js.org/d3-hierarchy.v2.min.js"></script>
 
 <script>
-  const myRequest = new Request('flare-2.json');
-
+  //const myRequest = new Request('flare-2.json');
+  const myRequest = new Request('extracted.json');
   fetch(myRequest)
     .then(response => response.json())
     .then(data => {
