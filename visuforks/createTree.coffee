@@ -6,7 +6,6 @@ tree =
   name: "root"
   children: [
     {'name' : 'Binance Chain Contract','children': []}
-    {'name' : 'Binance Smart Chain Contract','children': []}
     {'name' : 'Bitcoin', 'children':[]}
     {'name' : 'Dash','children': []}
     {'name' : 'Ethereum','children': []}
@@ -15,7 +14,6 @@ tree =
     {'name' : 'EOS Contract','children': []}
     {'name' : 'Litecoin','children': []}
     {'name' : 'Monero','children': []}
-    {'name' : 'NEO','children': []}
     {'name' : 'Neo Contract','children': []}
     {'name' : 'Tron Contract','children': []}
   ]

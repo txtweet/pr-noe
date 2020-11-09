@@ -67,10 +67,6 @@
       ]
     },
     {
-      "name": "Binance Smart Chain Contract",
-      "children": []
-    },
-    {
       "name": "Bitcoin",
       "children": [
         {
@@ -297,14 +293,6 @@
       ]
     },
     {
-      "name": "NEO",
-      "children": [
-        {
-          "name": "Ontology"
-        }
-      ]
-    },
-    {
       "name": "Neo Contract",
       "children": [
         {
@@ -356,6 +344,9 @@
           "name": "Nash Exchange"
         },
         {
+          "name": "Ontology"
+        },
+        {
           "name": "Phantasma"
         },
         {
@@ -363,9 +354,6 @@
         },
         {
           "name": "Red Pulse Phoenix"
-        },
-        {
-          "name": "STEM CELL COIN"
         }
       ]
     },
@@ -460,6 +448,14 @@
     },
     {
       "name": "ABBC Coin",
+      "children": []
+    },
+    {
+      "name": "ADADOWN",
+      "children": []
+    },
+    {
+      "name": "ADAMANT Messenger",
       "children": []
     }
   ]
