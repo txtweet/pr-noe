@@ -3,7 +3,7 @@ Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
 python -m SimpleHTTPServer 8000
 
 # Crawling tools
-Ils sont régroupés dans le dossiers crawler. 
+Ils sont régroupés dans le dossiers crawler.
 Le but est de travailler sur le fichier cryptos.json
 
 ## crawl.coffee : http://www.coinmarketcap.com
@@ -26,10 +26,10 @@ Un script shell : `lance.sh` automatise l'appel au crawler.
 ## InsertForkdropioInCryptos
 > Script d'insertion des informations de fork issues de fordrop.io dans le fichier de description des monnaies
 
-wget https://www.forkdrop.io/json/index.json
-Charger et sauver le fichier dans forkdropio.json
+wget https://www.forkdrop.io/json/index.json  
+Charger et sauver le fichier dans forkdropio.json  
 Ajout d'un script d'injection des données de forkdrop dans cryptos.json
-`coffee insertForksInCryptos.coffee`
+`coffee insertForksInCryptos.coffee`  
 
 ## crawlTokens
 > Script de navigation dans coinmarket pour chercher les monnaies de type token et y insérer les information de fork
