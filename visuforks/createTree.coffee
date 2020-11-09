@@ -1,5 +1,5 @@
 _ = require "lodash"
-cryptos = require "./cryptos.json"
+cryptos = require "../cryptos.json"
 MAX_CHILDREN = 60
 
 tree =

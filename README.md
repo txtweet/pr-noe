@@ -36,7 +36,7 @@ Ajout d'un script d'injection des données de forkdrop dans cryptos.json
 Navigue dans la liste cryptos.json pour trouver les forks
 
 # Display tools
-## createTree.coffee -> forked-cryptos.json -> visuForks.html
+## visufork : createTree.coffee -> forked-cryptos.json -> visuForks.html
 Création des forks
 > coffee ./createTree.coffee > forked-cryptos.json
 
