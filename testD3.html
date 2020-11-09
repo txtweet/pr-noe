@@ -1,16 +1,17 @@
-<svg></svg>
+<div id="dataviz_basicZoom"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-hierarchy.v2.min.js"></script>
 
 <script>
+
   const myRequest = new Request('flare-2.json');
 
   fetch(myRequest)
     .then(response => response.json())
     .then(data => {
-      var family = d3.hierarchy(data)
+      const width = 9000;
 
-      const width = 954;
+      var family = d3.hierarchy(data)
 
       const tree = data => {
         const root = data;
@@ -27,10 +28,16 @@
         if (d.x < x0) x0 = d.x;
       });
 
-      const svg = d3.select("svg")
+      const svg = d3.select("#dataviz_basicZoom")
+      .append("svg")
+      // .attr("width",  460)
+      // .attr("height",  460)
       .attr("viewBox", [0, 0, width, x1 - x0 + family.dx * 2])
       .append('g')
       .attr("transform", `translate(${family.dy / 3},${family.dx - x0})`)
+      .call(d3.zoom().on("zoom", function () {
+        svg.attr("transform", d3.event.transform)
+      }))
 
       console.log(family);
       console.log(x1 - x0 + family.dx * 2)

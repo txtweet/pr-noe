@@ -1,7 +1,10 @@
 # FAQ
 Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
 
-# Tools
+# Crawling tools
+Ils sont régroupés dans le dossiers crawler. 
+Le but est de travailler sur le fichier cryptos.json
+
 ## crawl.coffee : http://www.coinmarketcap.com
 > Ajoute de nouvelles cryptos au fichier cryptos.json, en se connectant au site coinmarketcap.
 
