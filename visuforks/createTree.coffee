@@ -1,6 +1,6 @@
 _ = require "lodash"
 cryptos = require "../cryptos.json"
-MAX_CHILDREN = 200000
+MAX_CHILDREN = 20
 
 tree =
   name: "root"
@@ -39,5 +39,18 @@ while not _.isEmpty currentCryptos
         process.exit(1)
 
   currentCryptos = _.clone unsolvedCrypt
+
+pruneChildren = (array) ->
+  childs = []
+  cpt = 0
+  array.forEach (elem) ->
+    if cpt < MAX_CHILDREN or not _.isEmpty elem.children
+      cpt++
+      if not _.isEmpty elem.children
+        elem.children = pruneChildren(elem.children)
+      childs.push elem
+  childs
+
+tree.children = pruneChildren(tree.children)
 
 console.log JSON.stringify tree, null, 2
