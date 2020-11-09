@@ -1,5 +1,6 @@
 # FAQ
-Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc
+Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc  
+python -m SimpleHTTPServer 8000
 
 # Crawling tools
 Ils sont régroupés dans le dossiers crawler. 
@@ -34,21 +35,25 @@ Ajout d'un script d'injection des données de forkdrop dans cryptos.json
 > Script de navigation dans coinmarket pour chercher les monnaies de type token et y insérer les information de fork
 Navigue dans la liste cryptos.json pour trouver les forks
 
-## testD3.html
-Pour visualiser les données, on utilise d3-hierarchy.
-Il faut lancer un serveur minmal python pour charger les données.
+# Display tools
+## createTree.coffee -> forked-cryptos.json -> visuForks.html
+Création des forks
+> coffee ./createTree.coffee > forked-cryptos.json
 
->python -m SimpleHTTPServer 8000
+Visualisation des données
+>open http://localhost:8000/visuForks.html.html
 
-Puis ouvrir la page testD3.html
->open http://localhost:8000/testD3.html
+## ???
+Chaine de traitement des tags
 
-### biblio et test d'aide
+
+# Biblio
+## biblio d3.js
 > Un tutoriel rapide et simple avec un codepen à la fin
 https://medium.com/nightingale/making-hierarchy-layouts-with-d3-hierarchy-fdb36d0a9c56
 > La doc de d3-hierarchy, plus difficile à prendre en main, car ca passe par l'infrastructure observable
 https://observablehq.com/@d3/tidy-tree
 
-# Papiers
+## Papiers
 https://www.sciencedirect.com/science/article/abs/pii/S0743731520303117?via%3Dihub - SocialBlock
 https://www.sciencedirect.com/science/article/abs/pii/S0140366420310252 - BSV-PAGS
