@@ -9,7 +9,7 @@
   fetch(myRequest)
     .then(response => response.json())
     .then(data => {
-      const width = 9000;
+      const width = 900;
 
       var family = d3.hierarchy(data)
 
@@ -34,13 +34,15 @@
       // .attr("height",  460)
       .attr("viewBox", [0, 0, width, x1 - x0 + family.dx * 2])
       .append('g')
-      .attr("transform", `translate(${family.dy / 3},${family.dx - x0})`)
-      .call(d3.zoom().on("zoom", function () {
-        svg.attr("transform", d3.event.transform)
-      }))
+      .attr("transform", `translate(40,${family.dx - x0})`)
+      // .attr("transform", `translate(${family.dy / 3},${family.dx - x0}) scale(0.7)`)
+      // .attr("transform", `translate(40,${family.dx - x0}) scale(0.7)`)
+      // .call(d3.zoom().on("zoom", function () {
+      //   svg.attr("transform", d3.event.transform)
+      // }))
 
       console.log(family);
-      console.log(x1 - x0 + family.dx * 2)
+      console.log(family.dy)
 
       const nodes = svg.append('g')
 
