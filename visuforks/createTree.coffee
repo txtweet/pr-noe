@@ -1,6 +1,6 @@
 _ = require "lodash"
 cryptos = require "../cryptos.json"
-MAX_CHILDREN = 50
+MAX_CHILDREN = 3
 
 tree =
   name: "root"
@@ -45,9 +45,10 @@ pruneChildren = (array) ->
   cpt = 0
   array.forEach (elem) ->
     if cpt < MAX_CHILDREN or not _.isEmpty elem.children
-      cpt++
       if not _.isEmpty elem.children
         elem.children = pruneChildren(elem.children)
+      else
+        cpt++
       childs.push elem
   childs
 
