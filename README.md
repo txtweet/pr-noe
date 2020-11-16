@@ -57,3 +57,9 @@ https://observablehq.com/@d3/tidy-tree
 ## Papiers
 https://www.sciencedirect.com/science/article/abs/pii/S0743731520303117?via%3Dihub - SocialBlock
 https://www.sciencedirect.com/science/article/abs/pii/S0140366420310252 - BSV-PAGS
+
+Articles sur le fonctionnement de bitcoin dans le détail :  
+
+http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html  
+http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html  
+
