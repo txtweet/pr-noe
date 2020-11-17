@@ -11,7 +11,7 @@ extract_data = (keyword, data) ->
     if data[crypto].tags.length is 0
       ret.children.push({
         'name': crypto
-        'value':100
+        'value':1
       })
       delete data[crypto]
 
