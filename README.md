@@ -57,3 +57,32 @@ https://observablehq.com/@d3/tidy-tree
 ## Papiers
 https://www.sciencedirect.com/science/article/abs/pii/S0743731520303117?via%3Dihub - SocialBlock
 https://www.sciencedirect.com/science/article/abs/pii/S0140366420310252 - BSV-PAGS
+
+Articles sur le fonctionnement de bitcoin dans le détail :  
+
+http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html  
+http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html  
+
+## Attaques 
+Attaque de surface? sur hyperledger  
+https://par.nsf.gov/servlets/purl/10083311.  
+
+## Sites
+sites de statistiques  
+https://www.blockchain.com/
+https://coinmarketcap.com/currencies/zcash/  
+https://blockchain.coinmarketcap.com/chain/bitcoin  
+https://explorer.viawallet.com/halving  
+
+## Consommation energétique
+https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/  
+https://www.iea.org/commentaries/bitcoin-energy-use-mined-the-gap  
+
+## Monnaies
+BlackCoin : https://blackcoin.org/blackcoin-pos-protocol-v2-whitepaper.pdf  
+Tether : https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf  
+
+## Cours
+https://gramoli.redbellyblockchain.io/web/doc/chapter2.pdf
+
+
