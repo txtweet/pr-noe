@@ -3,7 +3,9 @@
 <div id="dataviz_basicZoom"></div>
 </body>
 <style type="text/css">
-
+.nodecrypto {
+    text-decoration: underline red;
+}
 </style>
 
 <script src="https://d3js.org/d3.v6.min.js"></script>
@@ -87,6 +89,7 @@
                 node.append("text")
                     .attr("clip-path", d => d.clipUid)
                     .attr("font-weight", d => d === root ? "bold" : null)
+                    .attr("class", d=>{if("value" in d.data) return "nodecrypto"})
                     .selectAll("tspan")
                     .data(d =>d.data.name.split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
                     //.data(d => (d === root ? (d) : d.data.name).split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
