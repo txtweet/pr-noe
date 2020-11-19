@@ -4,7 +4,7 @@
 </body>
 <style type="text/css">
 .nodecrypto {
-    text-decoration: underline red;
+  fill: cornflowerblue;
 }
 </style>
 
@@ -91,7 +91,7 @@
                     .attr("font-weight", d => d === root ? "bold" : null)
                     .attr("class", d=>{if("value" in d.data) return "nodecrypto"})
                     .selectAll("tspan")
-                    .data(d =>d.data.name.split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
+                    .data(d =>d.data.name.split().concat(format(d.value)))
                     //.data(d => (d === root ? (d) : d.data.name).split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
                     .join("tspan")
                     .attr("x", 3)

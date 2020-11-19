@@ -1,12 +1,12 @@
 # Main pages
 Affiche une structuration des cryptos par mots-clés  
-https://txtweet.github.io/pr-noe/TreemapObservable.html  
+[CryptoStruct](https://txtweet.github.io/pr-noe/TreemapObservable.html)  
 
-Affiche des arborescences de cryptos élaguée
-https://txtweet.github.io/pr-noe/visuforks/visuForks2.html
+Affiche des arborescences de cryptos élaguée  
+[treePruned](https://txtweet.github.io/pr-noe/visuforks/visuForks2.html)  
 
-Affiche des arborescences de cryptos complète
-https://txtweet.github.io/pr-noe/visuforks/visuForks.html
+Affiche des arborescences de cryptos complète  
+[treeFull](https://txtweet.github.io/pr-noe/visuforks/visuForks.html)  
 
 # FAQ
 Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc  
