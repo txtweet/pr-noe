@@ -1,6 +1,6 @@
 # Main pages
 Affiche une structuration des cryptos par mots-clés  
-[CryptoStruct](https://txtweet.github.io/pr-noe/TreemapObservable.html)  
+[CryptoStruct](https://txtweet.github.io/pr-noe/treemap/TreemapObservable.html)  
 
 Affiche des arborescences de cryptos élaguée  
 [treePruned](https://txtweet.github.io/pr-noe/visuforks/visuForks2.html)  
