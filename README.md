@@ -1,3 +1,13 @@
+# Main pages
+Affiche une structuration des cryptos par mots-clés  
+https://txtweet.github.io/pr-noe/TreemapObservable.html  
+
+Affiche des arborescences de cryptos élaguée
+https://txtweet.github.io/pr-noe/visuforks/visuForks2.html
+
+Affiche des arborescences de cryptos complète
+https://txtweet.github.io/pr-noe/visuforks/visuForks.html
+
 # FAQ
 Pour connaître le nombre de cryptos : grep '  },' cryptos.json |wc  
 python -m SimpleHTTPServer 8000
@@ -44,7 +54,7 @@ Visualisation des données
 >open http://localhost:8000/visuForks.html.html
 
 ## Affichage du Treemap
-A partir du fichier `cryptos.json` on genere un treemap des maonnaies triées par catégories. 
+A partir du fichier `cryptos.json` on genere un treemap des maonnaies triées par catégories.
 Pour cela executer le script `cryptostoD3coffee.coffee` qui génère le fichier `arbre-tag.json`
 Ce fichier est utiliser par les scripts présent dans la page `TreemapObservable.html`
 
@@ -67,7 +77,7 @@ Articles sur le fonctionnement de bitcoin dans le détail :
 http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html  
 http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html  
 
-## Attaques 
+## Attaques
 Attaque de surface? sur hyperledger  
 https://par.nsf.gov/servlets/purl/10083311.  
 
@@ -88,5 +98,3 @@ Tether : https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
 
 ## Cours
 https://gramoli.redbellyblockchain.io/web/doc/chapter2.pdf
-
-
