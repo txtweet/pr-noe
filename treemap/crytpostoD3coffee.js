@@ -2,7 +2,7 @@
 (function() {
   var datas, extract_data, fs, jsonformat, jsontos, result;
 
-  datas = require('./cryptos.json');
+  datas = require('../cryptos.json');
 
   fs = require('fs');
 
@@ -20,6 +20,7 @@
       if (data[crypto].tags.length === 0) {
         ret.children.push({
           'name': crypto,
+          'url': data[crypto].url,
           'value': 1
         });
         delete data[crypto];
@@ -73,7 +74,7 @@
 
   jsontos = JSON.stringify(jsonformat, null, 2);
 
-  fs.writeFileSync("arbre-tag.json", jsontos);
+  fs.writeFileSync("treemap/arbre-tag.json", jsontos);
 
 }).call(this);
 
