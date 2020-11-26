@@ -4450,7 +4450,17 @@
     "name": "BITCOINHEDGE",
     "short": "BTCHG",
     "url": "/currencies/bitcoinhedge",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5547...9c5b16b"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "BITFXT COIN": {
     "name": "BITFXT COIN",
@@ -48129,7 +48139,17 @@
     "name": "Vox.Finance",
     "short": "VOX",
     "url": "/currencies/vox.finance",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0x12D1...537d0e1"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Voyager Token": {
     "name": "Voyager Token",
