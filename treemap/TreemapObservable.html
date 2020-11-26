@@ -74,17 +74,22 @@
                 node.append("title")
                     .text(d => `${name(d)}\n${format(d.value)}`);
 
-                node.append("rect")
+                node.append("a")
+                    .attr("href", d=>{if("url" in d.data){return "https://coinmarketcap.com/"+d.data.url;}})
+                    .append("rect")
                     .attr("id", d => (d.leafUid = DOM.uid("leaf")).id)
                     // .attr("fill", d => d === root ? "#fff" : d.children ? "#ccc" : "#ddd")
                     //.attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
-                    .attr("fill", d => {let val = tabkey.indexOf(d.data.name)/tabkey.length; console.log(val); return color(val) })
-                    .attr("stroke", "#fff");
+                    .attr("fill", d => {let val = tabkey.indexOf(d.data.name)/tabkey.length; return color(val) })
+                    .attr("stroke", "#fff")
+
 
                 node.append("clipPath")
                     .attr("id", d => (d.clipUid = DOM.uid("clip")).id)
                     .append("use")
                     .attr("xlink:href", d => d.leafUid.href);
+
+
 
                 node.append("text")
                     .attr("clip-path", d => d.clipUid)

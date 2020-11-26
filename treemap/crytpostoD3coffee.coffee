@@ -1,4 +1,4 @@
-datas = require './cryptos.json'
+datas = require '../cryptos.json'
 fs = require 'fs'
 
 result = {}
@@ -11,6 +11,7 @@ extract_data = (keyword, data) ->
     if data[crypto].tags.length is 0
       ret.children.push({
         'name': crypto
+        'url':data[crypto].url,
         'value':1
       })
       delete data[crypto]
@@ -45,4 +46,4 @@ extract_data = (keyword, data) ->
 jsonformat = extract_data("root",datas)
 console.log(jsonformat)
 jsontos = JSON.stringify(jsonformat, null,2)
-fs.writeFileSync("arbre-tag.json", jsontos)
+fs.writeFileSync("treemap/arbre-tag.json", jsontos)
