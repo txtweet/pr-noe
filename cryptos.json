@@ -1276,8 +1276,13 @@
     "short": "ADADOWN",
     "url": "/currencies/adadown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "ADAMANT Messenger": {
     "name": "ADAMANT Messenger",
@@ -1299,8 +1304,13 @@
     "short": "ADAUP",
     "url": "/currencies/adaup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "AEN Smart Token": {
     "name": "AEN Smart Token",
@@ -4450,7 +4460,17 @@
     "name": "BITCOINHEDGE",
     "short": "BTCHG",
     "url": "/currencies/bitcoinhedge",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5547...9c5b16b"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "BITFXT COIN": {
     "name": "BITFXT COIN",
@@ -4613,16 +4633,26 @@
     "short": "BNBDOWN",
     "url": "/currencies/bnbdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BNBUP": {
     "name": "BNBUP",
     "short": "BNBUP",
     "url": "/currencies/bnbup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BNS Token": {
     "name": "BNS Token",
@@ -4880,8 +4910,13 @@
     "short": "BTCDOWN",
     "url": "/currencies/btcdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BTCMoon": {
     "name": "BTCMoon",
@@ -4904,8 +4939,13 @@
     "short": "BTCUP",
     "url": "/currencies/btcup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BTS Coin": {
     "name": "BTS Coin",
@@ -13780,16 +13820,26 @@
     "short": "DOTDOWN",
     "url": "/currencies/dotdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "DOTUP": {
     "name": "DOTUP",
     "short": "DOTUP",
     "url": "/currencies/dotup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "DOWCOIN": {
     "name": "DOWCOIN",
@@ -16550,8 +16600,26 @@
     "short": "EOSDOWN",
     "url": "/currencies/eosdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
+  },
+  "EOSUP": {
+    "name": "EOSUP",
+    "short": "EOSUP",
+    "url": "/currencies/eosdown",
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "EOSDT": {
     "name": "EOSDT",
@@ -16800,8 +16868,13 @@
     "short": "ETHDOWN",
     "url": "/currencies/ethdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "ETHPlus": {
     "name": "ETHPlus",
@@ -16824,8 +16897,13 @@
     "short": "ETHUP",
     "url": "/currencies/ethup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "ETHplode": {
     "name": "ETHplode",
@@ -27027,16 +27105,26 @@
     "short": "LINKDOWN",
     "url": "/currencies/linkdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "LINKUP": {
     "name": "LINKUP",
     "short": "LINKUP",
     "url": "/currencies/linkup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "LNX Protocol": {
     "name": "LNX Protocol",
@@ -43453,16 +43541,26 @@
     "short": "TRXDOWN",
     "url": "/currencies/trxdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "TRXUP": {
     "name": "TRXUP",
     "short": "TRXUP",
     "url": "/currencies/trxup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "TUNE TOKEN": {
     "name": "TUNE TOKEN",
@@ -48129,7 +48227,17 @@
     "name": "Vox.Finance",
     "short": "VOX",
     "url": "/currencies/vox.finance",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0x12D1...537d0e1"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Voyager Token": {
     "name": "Voyager Token",
@@ -49392,16 +49500,26 @@
     "short": "XRPDOWN",
     "url": "/currencies/xrpdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "XRPUP": {
     "name": "XRPUP",
     "short": "XRPUP",
     "url": "/currencies/xrpup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "XSwap": {
     "name": "XSwap",
@@ -49453,16 +49571,26 @@
     "short": "XTZDOWN",
     "url": "/currencies/xtzdown",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "XTZUP": {
     "name": "XTZUP",
     "short": "XTZUP",
     "url": "/currencies/xtzup",
     "tags": [
-      "Coin"
-    ]
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "XYO": {
     "name": "XYO",
@@ -50035,7 +50163,14 @@
     "name": "YFIDOWN",
     "short": "YFIDOWN",
     "url": "/currencies/yfidown",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "YFIEXCHANGE.FINANCE": {
     "name": "YFIEXCHANGE.FINANCE",
@@ -50097,7 +50232,14 @@
     "name": "YFIUP",
     "short": "YFIUP",
     "url": "/currencies/yfiup",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "YFIVE FINANCE": {
     "name": "YFIVE FINANCE",

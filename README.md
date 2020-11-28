@@ -87,8 +87,9 @@ https://www.blockchain.com/
 https://coinmarketcap.com/currencies/zcash/  
 https://blockchain.coinmarketcap.com/chain/bitcoin  
 https://explorer.viawallet.com/halving  
+http://web-apix.coinmarketcap.com/v1/cryptocurrency/listings/latest?aux=circulating_supply,max_supply,total_supply&convert=USD&cryptocurrency_type=all&limit=5000&sort=market_cap&sort_dir=desc&start=1  
 
-## Consommation energétique
+## Consommation énergétique
 https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/  
 https://www.iea.org/commentaries/bitcoin-energy-use-mined-the-gap  
 
