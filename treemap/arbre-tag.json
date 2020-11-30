@@ -2,26 +2,6 @@
   "name": "root",
   "children": [
     {
-      "name": "BITCOINHEDGE",
-      "url": "/currencies/bitcoinhedge",
-      "value": 1
-    },
-    {
-      "name": "Vox.Finance",
-      "url": "/currencies/vox.finance",
-      "value": 1
-    },
-    {
-      "name": "YFIDOWN",
-      "url": "/currencies/yfidown",
-      "value": 1
-    },
-    {
-      "name": "YFIUP",
-      "url": "/currencies/yfiup",
-      "value": 1
-    },
-    {
       "name": "Token",
       "children": [
         {
@@ -362,6 +342,16 @@
         {
           "name": "ACoconut",
           "url": "/currencies/acoconut",
+          "value": 1
+        },
+        {
+          "name": "ADADOWN",
+          "url": "/currencies/adadown",
+          "value": 1
+        },
+        {
+          "name": "ADAUP",
+          "url": "/currencies/adaup",
           "value": 1
         },
         {
@@ -930,6 +920,11 @@
           "value": 1
         },
         {
+          "name": "BITCOINHEDGE",
+          "url": "/currencies/bitcoinhedge",
+          "value": 1
+        },
+        {
           "name": "BITFXT COIN",
           "url": "/currencies/bitfxt-coin",
           "value": 1
@@ -962,6 +957,16 @@
         {
           "name": "BLOCKMAX",
           "url": "/currencies/blockmax",
+          "value": 1
+        },
+        {
+          "name": "BNBDOWN",
+          "url": "/currencies/bnbdown",
+          "value": 1
+        },
+        {
+          "name": "BNBUP",
+          "url": "/currencies/bnbup",
           "value": 1
         },
         {
@@ -1020,8 +1025,18 @@
           "value": 1
         },
         {
+          "name": "BTCDOWN",
+          "url": "/currencies/btcdown",
+          "value": 1
+        },
+        {
           "name": "BTCMoon",
           "url": "/currencies/btcmoon",
+          "value": 1
+        },
+        {
+          "name": "BTCUP",
+          "url": "/currencies/btcup",
           "value": 1
         },
         {
@@ -2460,6 +2475,16 @@
           "value": 1
         },
         {
+          "name": "DOTDOWN",
+          "url": "/currencies/dotdown",
+          "value": 1
+        },
+        {
+          "name": "DOTUP",
+          "url": "/currencies/dotup",
+          "value": 1
+        },
+        {
           "name": "DOWCOIN",
           "url": "/currencies/dowcoin",
           "value": 1
@@ -2940,6 +2965,16 @@
           "value": 1
         },
         {
+          "name": "EOSDOWN",
+          "url": "/currencies/eosdown",
+          "value": 1
+        },
+        {
+          "name": "EOSUP",
+          "url": "/currencies/eosdown",
+          "value": 1
+        },
+        {
           "name": "ESAX Token",
           "url": "/currencies/esax-token",
           "value": 1
@@ -3000,8 +3035,18 @@
           "value": 1
         },
         {
+          "name": "ETHDOWN",
+          "url": "/currencies/ethdown",
+          "value": 1
+        },
+        {
           "name": "ETHPlus",
           "url": "/currencies/ethplus",
+          "value": 1
+        },
+        {
+          "name": "ETHUP",
+          "url": "/currencies/ethup",
           "value": 1
         },
         {
@@ -4857,6 +4902,16 @@
         {
           "name": "LINKA",
           "url": "/currencies/linka",
+          "value": 1
+        },
+        {
+          "name": "LINKDOWN",
+          "url": "/currencies/linkdown",
+          "value": 1
+        },
+        {
+          "name": "LINKUP",
+          "url": "/currencies/linkup",
           "value": 1
         },
         {
@@ -7560,6 +7615,16 @@
           "value": 1
         },
         {
+          "name": "TRXDOWN",
+          "url": "/currencies/trxdown",
+          "value": 1
+        },
+        {
+          "name": "TRXUP",
+          "url": "/currencies/trxup",
+          "value": 1
+        },
+        {
           "name": "TUNE TOKEN",
           "url": "/currencies/tune-token",
           "value": 1
@@ -8420,6 +8485,11 @@
           "value": 1
         },
         {
+          "name": "Vox.Finance",
+          "url": "/currencies/vox.finance",
+          "value": 1
+        },
+        {
           "name": "Vybe",
           "url": "/currencies/vybe",
           "value": 1
@@ -8630,6 +8700,16 @@
           "value": 1
         },
         {
+          "name": "XRPDOWN",
+          "url": "/currencies/xrpdown",
+          "value": 1
+        },
+        {
+          "name": "XRPUP",
+          "url": "/currencies/xrpup",
+          "value": 1
+        },
+        {
           "name": "XTRD",
           "url": "/currencies/xtrd",
           "value": 1
@@ -8637,6 +8717,16 @@
         {
           "name": "XTRM COIN",
           "url": "/currencies/xtrm-coin",
+          "value": 1
+        },
+        {
+          "name": "XTZDOWN",
+          "url": "/currencies/xtzdown",
+          "value": 1
+        },
+        {
+          "name": "XTZUP",
+          "url": "/currencies/xtzup",
           "value": 1
         },
         {
@@ -8755,6 +8845,11 @@
           "value": 1
         },
         {
+          "name": "YFIDOWN",
+          "url": "/currencies/yfidown",
+          "value": 1
+        },
+        {
           "name": "YFII Gold",
           "url": "/currencies/yfii-gold",
           "value": 1
@@ -8767,6 +8862,11 @@
         {
           "name": "YFISCURITY",
           "url": "/currencies/yfiscurity",
+          "value": 1
+        },
+        {
+          "name": "YFIUP",
+          "url": "/currencies/yfiup",
           "value": 1
         },
         {
@@ -16080,16 +16180,6 @@
           "value": 1
         },
         {
-          "name": "ADADOWN",
-          "url": "/currencies/adadown",
-          "value": 1
-        },
-        {
-          "name": "ADAUP",
-          "url": "/currencies/adaup",
-          "value": 1
-        },
-        {
           "name": "AML Bitcoin",
           "url": "/currencies/aml-bitcoin",
           "value": 1
@@ -16190,28 +16280,8 @@
           "value": 1
         },
         {
-          "name": "BNBDOWN",
-          "url": "/currencies/bnbdown",
-          "value": 1
-        },
-        {
-          "name": "BNBUP",
-          "url": "/currencies/bnbup",
-          "value": 1
-        },
-        {
           "name": "BOScoin",
           "url": "/currencies/boscoin",
-          "value": 1
-        },
-        {
-          "name": "BTCDOWN",
-          "url": "/currencies/btcdown",
-          "value": 1
-        },
-        {
-          "name": "BTCUP",
-          "url": "/currencies/btcup",
           "value": 1
         },
         {
@@ -16525,16 +16595,6 @@
           "value": 1
         },
         {
-          "name": "DOTDOWN",
-          "url": "/currencies/dotdown",
-          "value": 1
-        },
-        {
-          "name": "DOTUP",
-          "url": "/currencies/dotup",
-          "value": 1
-        },
-        {
           "name": "Daikicoin",
           "url": "/currencies/daikicoin",
           "value": 1
@@ -16625,23 +16685,8 @@
           "value": 1
         },
         {
-          "name": "EOSDOWN",
-          "url": "/currencies/eosdown",
-          "value": 1
-        },
-        {
           "name": "ESR Coin",
           "url": "/currencies/esr-coin",
-          "value": 1
-        },
-        {
-          "name": "ETHDOWN",
-          "url": "/currencies/ethdown",
-          "value": 1
-        },
-        {
-          "name": "ETHUP",
-          "url": "/currencies/ethup",
           "value": 1
         },
         {
@@ -17057,16 +17102,6 @@
         {
           "name": "LINK",
           "url": "/currencies/link",
-          "value": 1
-        },
-        {
-          "name": "LINKDOWN",
-          "url": "/currencies/linkdown",
-          "value": 1
-        },
-        {
-          "name": "LINKUP",
-          "url": "/currencies/linkup",
           "value": 1
         },
         {
@@ -17615,16 +17650,6 @@
           "value": 1
         },
         {
-          "name": "TRXDOWN",
-          "url": "/currencies/trxdown",
-          "value": 1
-        },
-        {
-          "name": "TRXUP",
-          "url": "/currencies/trxup",
-          "value": 1
-        },
-        {
           "name": "TYCOON69",
           "url": "/currencies/tycoon69",
           "value": 1
@@ -17820,28 +17845,8 @@
           "value": 1
         },
         {
-          "name": "XRPDOWN",
-          "url": "/currencies/xrpdown",
-          "value": 1
-        },
-        {
-          "name": "XRPUP",
-          "url": "/currencies/xrpup",
-          "value": 1
-        },
-        {
           "name": "XSwap",
           "url": "/currencies/xsp",
-          "value": 1
-        },
-        {
-          "name": "XTZDOWN",
-          "url": "/currencies/xtzdown",
-          "value": 1
-        },
-        {
-          "name": "XTZUP",
-          "url": "/currencies/xtzup",
           "value": 1
         },
         {

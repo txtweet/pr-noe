@@ -53,10 +53,9 @@ Création des forks
 Visualisation des données
 >open http://localhost:8000/visuForks.html.html
 
-## Affichage du Treemap
-A partir du fichier `cryptos.json` on genere un treemap des maonnaies triées par catégories.
-Pour cela executer le script `cryptostoD3coffee.coffee` qui génère le fichier `arbre-tag.json`
-Ce fichier est utiliser par les scripts présent dans la page `TreemapObservable.html`
+## Treemap : crytpostoD3coffee.coffee -> arbre-tag.json -> TreemapObservable.html
+Création de l'arbre des tags
+> cofee ./cryptostoD3coffee.coffee > arbre-tag.json
 
 Lancer un serveur web pour ouvrir cette page (ex : `python -m http.server` )
 `visuForksTreemap.html` est une version avec d3v4, l'affichage n'est pas fluide et peu lisible.
