@@ -9,11 +9,11 @@ _.forEach fresh.data, (crypto) ->
       "name": crypto.name
       "short": crypto.symbol
       "url": "/currencies/#{crypto.slug}"
-      "tags": ["New","30/11/2020"]
+      "tags": ["New","30112020"]
 
   if crypto.quote.USD.volume_24h is 0
     cryptos[crypto.name].tags.push("Dead")
-    cryptos[crypto.name].tags.push("30/11/2020")
+    cryptos[crypto.name].tags.push("30112020")
 
 
 ordered = {}
