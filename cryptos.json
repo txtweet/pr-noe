@@ -3194,7 +3194,6 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance Smart Chain",
       "Binance Coin"
     ],
     "forked_data": {
@@ -3644,7 +3643,6 @@
       "Platform",
       "Enterprise solutions",
       "Substrate",
-      "Binance Chain",
       "Binance Coin",
       "Ethereum"
     ],
@@ -3712,12 +3710,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance Smart Chain"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "Apex": {
     "name": "Apex",
@@ -5843,11 +5836,11 @@
     "url": "/currencies/bakerytoken",
     "tags": [
       "Token",
-      "Binance Chain"
+      "Binance Coin"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "block": ["0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"],
+      "forked_from": ["Binance Coin"]
     }
   },
   "Balancer": {
@@ -6004,15 +5997,17 @@
       "Token",
       "DeFi",
       "Oracles",
-      "Binance Chain",
-      "Ethereum"
+      "Ethereum",
+      "Binance Coin",
     ],
     "forked_data": {
       "block": [
-        "0xba11...86d7f55"
+        "0xba11...86d7f55",
+        "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
       ],
       "forked_from": [
-        "Ethereum"
+        "Ethereum",
+        "Binance Coin"
       ]
     }
   },
@@ -6937,13 +6932,13 @@
     "url": "/currencies/billionhappiness",
     "tags": [
       "Token",
-      "Binance Chain",
+      "Binance Coin",
       "Dead",
       "30/11/2020"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "block": ["0xa6381c6fd8f40a44721ef4f61edc1a8ccca7bf3d"],
+      "forked_from": ["Binance Coin"]
     }
   },
   "Billionaire Token": {
@@ -7019,7 +7014,6 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance Chain",
       "Binance Coin",
       "Ethereum"
     ],
@@ -7971,7 +7965,6 @@
     "url": "/currencies/bitcoin-bep2",
     "tags": [
       "Token",
-      "Binance Chain",
       "Binance Coin"
     ],
     "forked_data": {
@@ -8001,7 +7994,6 @@
       "Mineable",
       "Marketplace",
       "Enterprise solutions",
-      "Binance Chain",
       "forked_bitcoin",
       "Bitcoin"
     ],
@@ -10229,11 +10221,11 @@
     "url": "/currencies/burger-swap",
     "tags": [
       "Token",
-      "Binance Smart Chain"
+      "Binance Coin"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "block": ["0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"],
+      "forked_from": ["Binance Coin"]
     }
   },
   "Burger money": {
@@ -10244,7 +10236,6 @@
       "Token",
       "Ethereum",
       "Yield farming",
-      "Binance Chain"
     ],
     "forked_data": {
       "block": [
@@ -11203,7 +11194,6 @@
       "Platform",
       "Crowdsourcing",
       "Sharing Economy",
-      "Binance Chain",
       "Binance Coin",
       "Ethereum"
     ],
@@ -11381,7 +11371,6 @@
       "Platform",
       "Research",
       "Smart Contracts",
-      "Binance Chain",
       "Communications & Social Media"
     ]
   },
@@ -13785,7 +13774,6 @@
       "Platform",
       "Content Creation",
       "Interoperability",
-      "Binance Chain",
       "Cosmos",
       "Interoperability",
       "Scaling"
@@ -13906,14 +13894,16 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance Chain",
+      "Binance Coin",
       "Ethereum"
     ],
     "forked_data": {
       "block": [
+        "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
         "0x2ba5...97cb200"
       ],
       "forked_from": [
+        "Binance Coin",
         "Ethereum"
       ]
     }
@@ -14787,7 +14777,6 @@
     "url": "/currencies/cubiex",
     "tags": [
       "Token",
-      "Binance Smart Chain",
       "Binance Coin"
     ],
     "forked_data": {
@@ -15438,14 +15427,16 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Binance Chain",
+      "Binance Coin",
       "Ethereum"
     ],
     "forked_data": {
       "block": [
+        "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
         "0xa1d0...3CCaB83"
       ],
       "forked_from": [
+        "Binance Coin",
         "Ethereum"
       ]
     }
@@ -15694,7 +15685,6 @@
     "tags": [
       "Token",
       "Oracles",
-      "Binance Smart Chain",
       "Ethereum"
     ],
     "forked_data": {
@@ -18794,7 +18784,6 @@
       "Medium of Exchange",
       "Enterprise solutions",
       "Smart Contracts",
-      "Binance Chain"
     ]
   },
   "EOS Force": {
@@ -20990,7 +20979,6 @@
       "Mineable",
       "PoW",
       "Smart Contracts",
-      "Binance Chain"
     ]
   },
   "Ethereum Cash": {
@@ -22869,11 +22857,11 @@
       "Token",
       "DAO",
       "Yield farming",
-      "Binance Chain"
+      "Neo"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "block": ["4d9eab13620fe3569ba3b0e56e2877739e4145e3"],
+      "forked_from": ["Neo"]
     }
   },
   "Flash": {
@@ -28195,7 +28183,6 @@
     "url": "/currencies/innovative-bioresearch-coin",
     "tags": [
       "Token",
-      "Binance Smart Chain",
       "Ethereum"
     ],
     "forked_data": {
@@ -29226,14 +29213,16 @@
     "url": "/currencies/justliquidity",
     "tags": [
       "Token",
-      "Binance Chain",
+      "Binance Coin",
       "Ethereum"
     ],
     "forked_data": {
       "block": [
+        "0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d",
         "0x5580...F42E415"
       ],
       "forked_from": [
+        "Binance Coin",
         "Ethereum"
       ]
     }
@@ -31725,8 +31714,7 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Medium of Exchange",
-      "Binance Chain"
+      "Medium of Exchange"
     ]
   },
   "Litecoin Cash": {
@@ -34334,12 +34322,7 @@
     "url": "/currencies/milk-alliance",
     "tags": [
       "Token",
-      "Binance Smart Chain"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "MicroBitcoin": {
     "name": "MicroBitcoin",
@@ -35955,13 +35938,12 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Binance Chain",
       "Binance Coin"
     ],
     "forked_data": {
       "block": [
         "NOW-E68",
-        "0xe9a9...837693b"
+        "0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
       ],
       "forked_from": [
         "Binance Coin",
@@ -38156,7 +38138,6 @@
       "Marketplace",
       "Enterprise solutions",
       "Identity",
-      "Binance Chain",
       "forked_altcoin",
       "Neo"
     ],
@@ -39379,7 +39360,6 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Binance Chain",
       "Binance Coin"
     ],
     "forked_data": {
@@ -40794,7 +40774,6 @@
       "Coin",
       "Substrate",
       "Polkadot",
-      "Binance Chain"
     ]
   },
   "Polkastarter": {
@@ -41443,14 +41422,16 @@
     "url": "/currencies/prometeus",
     "tags": [
       "Token",
-      "Binance Chain",
+      "Binance Coin",
       "Ethereum"
     ],
     "forked_data": {
       "block": [
-        "0xfc82...b91b27d"
+        "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+        "0xfc82bb4ba86045af6f327323a46e80412b91b27d"
       ],
       "forked_from": [
+        "Binance Coin",
         "Ethereum"
       ]
     }
@@ -47031,11 +47012,11 @@
     "url": "/currencies/spartan-protocol",
     "tags": [
       "Token",
-      "Binance Chain"
+      "Binance Coin"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "block": ["0xe4ae305ebe1abe663f261bc00534067c80ad677c"],
+      "forked_from": ["Binance Coin"]
     }
   },
   "Spectiv": {
@@ -47888,14 +47869,9 @@
     "url": "/currencies/streamity",
     "tags": [
       "Token",
-      "Binance Smart Chain",
       "Dead",
       "30/11/2020"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "Streamix": {
     "name": "Streamix",
@@ -49829,8 +49805,7 @@
       "Coin",
       "Platform",
       "Enterprise solutions",
-      "Smart Contracts",
-      "Binance Chain"
+      "Smart Contracts"
     ]
   },
   "Thar Token": {
@@ -49887,7 +49862,6 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance Smart Chain",
       "Singapore",
       "Ethereum"
     ],
@@ -50284,7 +50258,6 @@
     "url:": "/currencies/thugs-fi/",
     "tags": [
       "Token",
-      "Binance Smart Chain",
       "Dead",
       "30/11/2020",
       "Binance Coin"
@@ -53918,11 +53891,7 @@
     "tags": [
       "Token",
       "Binance Smart Chain"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "VeraOne": {
     "name": "VeraOne",
@@ -56048,7 +56017,6 @@
       "Coin",
       "Medium of Exchange",
       "Enterprise solutions",
-      "Binance Chain"
     ]
   },
   "XRPDOWN": {
@@ -58154,7 +58122,6 @@
       "Equihash",
       "Medium of Exchange",
       "Zero Knowledge Proofs",
-      "Binance Chain"
     ]
   },
   "Zcoin": {
