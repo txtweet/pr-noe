@@ -4929,7 +4929,19 @@
     "name": "Audius",
     "short": "AUDIO",
     "url": "/currencies/audius",
-    "tags": []
+    "tags": [
+      "Token",
+      "Music",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x18aa...265b998"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Augur": {
     "name": "Augur",
@@ -5175,7 +5187,19 @@
     "name": "Axia Protocol",
     "short": "AXIA",
     "url": "/currencies/axia-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7937...a5E7546"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axial Entertainment Digital Asset": {
     "name": "Axial Entertainment Digital Asset",
