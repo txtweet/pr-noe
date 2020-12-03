@@ -3172,7 +3172,9 @@
     "name": "Akoin",
     "short": "AKN",
     "url": "/currencies/akoin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Akroma": {
     "name": "Akroma",
@@ -3192,7 +3194,20 @@
     "name": "Akropolis",
     "short": "AKRO",
     "url": "/currencies/akropolis",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Substrate",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8ab7...ec853d7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Akropolis ": {
     "name": "Akropolis ",
@@ -3221,7 +3236,19 @@
     "name": "Akropolis Delphi",
     "short": "ADEL",
     "url": "/currencies/akropolis-delphi",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x94d8...b3ba182"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Aladdin": {
     "name": "Aladdin",
@@ -3269,7 +3296,9 @@
     "name": "Alaya",
     "short": "ATP",
     "url": "/currencies/alaya",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Alchemint Standards": {
     "name": "Alchemint Standards",
