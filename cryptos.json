@@ -34,7 +34,18 @@
     "name": "$YEET",
     "short": "YEET",
     "url": "/currencies/yeet",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xaa62...1e49cca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "01coin": {
     "name": "01coin",
@@ -1349,7 +1360,18 @@
     "name": "88mph",
     "short": "MPH",
     "url": "/currencies/88mph",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8888...9e835c5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "8X8 PROTOCOL": {
     "name": "8X8 PROTOCOL",
@@ -10774,7 +10796,8 @@
     "short": "BUND",
     "url": "/currencies/bundles",
     "tags": [
-      "Ethereum", "Token"
+      "Ethereum",
+      "Token"
     ],
     "sawBirth": "01122020"
   },
@@ -47185,7 +47208,8 @@
     "short": "STV",
     "url": "/currencies/stvke-network",
     "tags": [
-      "Ethereum", "Token"
+      "Ethereum",
+      "Token"
     ],
     "sawBirth": "03122020"
   },
@@ -55644,7 +55668,8 @@
     "short": "UCAP",
     "url": "/currencies/unicap-finance",
     "tags": [
-      "Ethereum", "Token"
+      "Ethereum",
+      "Token"
     ],
     "sawBirth": "01122020"
   },
