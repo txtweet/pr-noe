@@ -34300,7 +34300,19 @@
     "name": "LeLeFoodChain",
     "short": "LELE",
     "url": "/currencies/lelefoodchain",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b6e...718c5d8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lead Wallet": {
     "name": "Lead Wallet",
@@ -34541,7 +34553,13 @@
     "name": "Leverj Gluon",
     "short": "L2",
     "url": "/currencies/leverj-gluon",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Levolution": {
     "name": "Levolution",
@@ -34564,7 +34582,19 @@
     "name": "Libartysharetoken",
     "short": "LST",
     "url": "/currencies/libartysharetoken",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3553...30c5270"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Libera": {
     "name": "Libera",
@@ -34625,7 +34655,18 @@
     "name": "LibreFreelencer",
     "short": "LIBREF",
     "url": "/currencies/librefreelencer",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x449e...cd4f9a3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lien": {
     "name": "Lien",
@@ -34648,13 +34689,26 @@
     "name": "LifetionCoin",
     "short": "LTP",
     "url": "/currencies/lifetioncoin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Light Coin Exchange Token": {
     "name": "Light Coin Exchange Token",
     "short": "LCT",
     "url": "/currencies/light-coin-exchange-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3477...2A58b98"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Lightning Bitcoin": {
     "name": "Lightning Bitcoin",
@@ -35198,7 +35252,19 @@
     "name": "Load Network",
     "short": "LOAD",
     "url": "/currencies/load-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa883...a5fe3c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Loanburst": {
     "name": "Loanburst",
@@ -35247,7 +35313,18 @@
     "name": "Lock3r Network",
     "short": "LK3R",
     "url": "/currencies/lk3r",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe3f3...c770d67"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LockTrip": {
     "name": "LockTrip",
