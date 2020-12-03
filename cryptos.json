@@ -55232,7 +55232,9 @@
     "name": "The Universal Settlement Coin",
     "short": "TUSC",
     "url": "/currencies/the-universal-settlement-coin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "The global index chain": {
     "name": "The global index chain",
@@ -55246,7 +55248,19 @@
     "name": "TheOvOrideA",
     "short": "OVOA",
     "url": "/currencies/theovoridea",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x96dd...69306f2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Themis": {
     "name": "Themis",
@@ -55427,7 +55441,11 @@
     "name": "ThreeFold",
     "short": "TFT",
     "url": "/currencies/threefold",
-    "tags": []
+    "tags": [
+      "Token",
+      "Distributed Computing",
+      "Filesharing"
+    ]
   },
   "ThreeFold Token": {
     "name": "ThreeFold Token",
@@ -56260,7 +56278,19 @@
     "name": "Trade.win",
     "short": "TWI",
     "url": "/currencies/trade-win",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xdad2...1c07b66"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tradebitpay": {
     "name": "Tradebitpay",
@@ -56950,7 +56980,19 @@
     "name": "TrustToken",
     "short": "TRU",
     "url": "/currencies/trusttoken",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4c19...6543784"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TrustVerse": {
     "name": "TrustVerse",
@@ -56973,7 +57015,18 @@
     "name": "Tsunami finance",
     "short": "NAMI",
     "url": "/currencies/tsunami",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7eb4...1267e28"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TurtleCoin": {
     "name": "TurtleCoin",
@@ -57116,7 +57169,19 @@
     "name": "UBIX.Network",
     "short": "UBX",
     "url": "/currencies/ubix-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf5b5...99f09f3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UBU": {
     "name": "UBU",
@@ -57234,7 +57299,18 @@
     "name": "UNCL",
     "short": "UNCL",
     "url": "/currencies/uncl",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2f4e...f33dd49"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UNI COIN": {
     "name": "UNI COIN",
@@ -57492,7 +57568,9 @@
     "name": "USDX [Kava]",
     "short": "USDX",
     "url": "/currencies/usdx-kava",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "USDX [Lighthouse]": {
     "name": "USDX [Lighthouse]",
@@ -57529,7 +57607,9 @@
     "name": "UTU Protocol",
     "short": "UTU",
     "url": "/currencies/utu-protocol",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Ubex": {
     "name": "Ubex",
@@ -57552,7 +57632,19 @@
     "name": "Ubiner",
     "short": "UBIN",
     "url": "/currencies/ubiner",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xb9Ec...43cBE8E"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ubiq": {
     "name": "Ubiq",
@@ -57745,7 +57837,18 @@
     "name": "UnFederalReserve",
     "short": "ERSDL",
     "url": "/currencies/unfederalreserve",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5218...9EfD3A6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UniCrypt": {
     "name": "UniCrypt",
