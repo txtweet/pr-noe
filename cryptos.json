@@ -1466,7 +1466,6 @@
     "short": "ACS",
     "url": "/currencies/acryptos",
     "tags": [
-      "New",
       "Dead"
     ],
     "sawBirth": "03122020",
@@ -2124,7 +2123,8 @@
       "Token",
       "Platform",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -2133,7 +2133,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "ATN": {
     "name": "ATN",
@@ -2738,7 +2741,8 @@
     "url": "/currencies/afri-union-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -2747,7 +2751,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "AfroDex": {
     "name": "AfroDex",
@@ -3078,7 +3085,8 @@
       "Token",
       "DeFi",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -3087,7 +3095,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Akropolis Delphi": {
     "name": "Akropolis Delphi",
@@ -3277,9 +3288,7 @@
     "name": "AllWin DeFi",
     "short": "ALLWIN",
     "url": "/currencies/allwin-defi",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "AllianceBlock": {
@@ -3691,7 +3700,8 @@
     "url": "/currencies/amun-short-bitcoin-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -3700,7 +3710,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Anatha": {
     "name": "Anatha",
@@ -3708,7 +3721,8 @@
     "url": "/currencies/anatha",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -3717,7 +3731,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Anchor": {
     "name": "Anchor",
@@ -4201,7 +4218,11 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Arion": {
@@ -4396,7 +4417,8 @@
     "url": "/currencies/askobar-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -4405,7 +4427,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Aspire": {
     "name": "Aspire",
@@ -4833,7 +4858,8 @@
       "Token",
       "Media",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -4842,7 +4868,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Autonio": {
     "name": "Autonio",
@@ -5768,7 +5797,8 @@
     "tags": [
       "Token",
       "Philanthropy",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -5777,7 +5807,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "BSC FARM": {
     "name": "BSC FARM",
@@ -5869,7 +5902,8 @@
     "url": "/currencies/btcmoon",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -5878,7 +5912,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "BTCUP": {
     "name": "BTCUP",
@@ -6035,7 +6072,8 @@
     "url": "/currencies/baconswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -6044,7 +6082,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Baer Chain": {
     "name": "Baer Chain",
@@ -6384,9 +6425,7 @@
     "name": "Base Protocol",
     "short": "BASE",
     "url": "/currencies/base-protocol",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Based Money": {
@@ -6672,7 +6711,8 @@
     "url": "/currencies/beefy-finance",
     "tags": [
       "Token",
-      "Binance Coin"
+      "Binance Coin",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -6681,7 +6721,10 @@
       "forked_from": [
         "Binance Coin"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Beer Money": {
     "name": "Beer Money",
@@ -7372,7 +7415,11 @@
     "short": "BIO",
     "url": "/currencies/biocoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Bionic": {
@@ -7634,7 +7681,8 @@
       "Token",
       "Platform",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -7643,7 +7691,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "BitCoal": {
     "name": "BitCoal",
@@ -7897,7 +7948,8 @@
     "url": "/currencies/bitrent",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -7906,7 +7958,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "BitRewards": {
     "name": "BitRewards",
@@ -8553,7 +8608,8 @@
       "Token",
       "Medium of Exchange",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -8562,7 +8618,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Bitcoin Rhodium": {
     "name": "Bitcoin Rhodium",
@@ -9688,7 +9747,8 @@
     "url": "/currencies/blockparty-boxx-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -9697,7 +9757,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Blockpass": {
     "name": "Blockpass",
@@ -9747,7 +9810,8 @@
     "url": "/currencies/blocktrade-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -9756,7 +9820,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Blood": {
     "name": "Blood",
@@ -10662,7 +10729,8 @@
     "url": "/currencies/bunnytoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -10671,7 +10739,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Burency": {
     "name": "Burency",
@@ -10714,7 +10785,8 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Yield farming"
+      "Yield farming",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -10723,7 +10795,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Burst": {
     "name": "Burst",
@@ -11071,7 +11146,8 @@
     "url": "/currencies/chex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11080,7 +11156,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "CITEX Token": {
     "name": "CITEX Token",
@@ -11181,7 +11260,8 @@
     "url": "/currencies/comsa-eth",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11190,19 +11270,26 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "COMSA [XEM]": {
     "name": "COMSA [XEM]",
     "short": "CMS",
     "url": "/currencies/comsa-xem",
     "tags": [
-      "Token"
+      "Token",
+      "Dead"
     ],
     "forked_data": {
       "block": [],
       "forked_from": []
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "CONTRACOIN": {
     "name": "CONTRACOIN",
@@ -11435,7 +11522,8 @@
     "url": "/currencies/cryptoforex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11444,7 +11532,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "CSP DAO": {
     "name": "CSP DAO",
@@ -11566,7 +11657,8 @@
     "url": "/currencies/cyclean",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11575,7 +11667,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cabbage": {
     "name": "Cabbage",
@@ -11830,7 +11925,8 @@
     "url": "/currencies/capdaxtoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11839,7 +11935,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cappasity": {
     "name": "Cappasity",
@@ -11900,7 +11999,8 @@
     "url": "/currencies/carboneum-c8-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -11909,7 +12009,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cardano": {
     "name": "Cardano",
@@ -12101,7 +12204,8 @@
     "url": "/currencies/cashpayz-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -12110,7 +12214,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Casino Betting Coin": {
     "name": "Casino Betting Coin",
@@ -13031,7 +13138,8 @@
     "url": "/currencies/clearpoll",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -13040,7 +13148,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "CloakCoin": {
     "name": "CloakCoin",
@@ -13284,7 +13395,8 @@
     "url": "/currencies/coin-lion",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -13293,7 +13405,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Coin2.1": {
     "name": "Coin2.1",
@@ -13628,7 +13743,8 @@
     "url": "/currencies/cointorox",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -13637,7 +13753,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Coinzo Token": {
     "name": "Coinzo Token",
@@ -13976,7 +14095,8 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -13985,7 +14105,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Compound SAI": {
     "name": "Compound SAI",
@@ -14141,7 +14264,8 @@
     "url": "/currencies/connectjob",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -14150,7 +14274,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Connectome": {
     "name": "Connectome",
@@ -14511,7 +14638,8 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -14520,7 +14648,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cream": {
     "name": "Cream",
@@ -14558,7 +14689,8 @@
     "url": "/currencies/creatanium",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -14567,7 +14699,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cred": {
     "name": "Cred",
@@ -14889,7 +15024,11 @@
     "url": "/currencies/crypticcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Crypto Accept": {
@@ -15050,9 +15189,7 @@
     "name": "CryptoBet",
     "short": "CBET",
     "url": "/currencies/cryptobet",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "CryptoBharatCoin": {
@@ -15259,7 +15396,8 @@
     "url": "/currencies/cryptoworldnews",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -15268,7 +15406,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Cryptobuyer": {
     "name": "Cryptobuyer",
@@ -15440,7 +15581,8 @@
       "Token",
       "Services",
       "Jobs",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -15449,7 +15591,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Crystal Token": {
     "name": "Crystal Token",
@@ -15899,7 +16044,8 @@
     "url": "/currencies/daofi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -15908,7 +16054,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "DAOstack": {
     "name": "DAOstack",
@@ -16680,7 +16829,8 @@
     "url": "/currencies/dalecoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -16689,7 +16839,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Dandy Dego": {
     "name": "Dandy Dego",
@@ -16750,7 +16903,8 @@
     "url": "/currencies/darcio-ecosystem-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -16759,7 +16913,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Dark Energy Crystals": {
     "name": "Dark Energy Crystals",
@@ -17705,7 +17862,8 @@
     "url": "/currencies/degenerate-platform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -17714,7 +17872,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Dego Finance": {
     "name": "Dego Finance",
@@ -17738,9 +17899,7 @@
     "name": "Degov",
     "short": "DEGOV",
     "url": "/currencies/degov",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Deipool": {
@@ -18166,7 +18325,8 @@
     "url": "/currencies/dice-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -18175,7 +18335,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Digex": {
     "name": "Digex",
@@ -18498,7 +18661,6 @@
     "short": "DGTX",
     "url": "/currencies/digitex-city",
     "tags": [
-      "New",
       "asset-management",
       "centralized-exchange",
       "derivatives"
@@ -18514,7 +18676,8 @@
       "Asset management",
       "Centralized exchange",
       "Derivatives",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -18523,7 +18686,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Digiwage": {
     "name": "Digiwage",
@@ -18664,7 +18830,11 @@
     "short": "DLX",
     "url": "/currencies/diplexcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Dipper Network": {
@@ -19497,7 +19667,11 @@
       "X11",
       "Platform",
       "Enterprise solutions",
-      "Masternodes"
+      "Masternodes",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "EDC Blockchain v1 [old]": {
@@ -19716,13 +19890,17 @@
     "url": "/currencies/eosdown",
     "tags": [
       "Token",
-      "Binance Coin"
+      "Binance Coin",
+      "Dead"
     ],
     "forked_data": {
       "forked_from": [
         "Binance Coin"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "ERC20": {
     "name": "ERC20",
@@ -19749,7 +19927,8 @@
     "url": "/currencies/esax-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -19758,7 +19937,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "ESBC": {
     "name": "ESBC",
@@ -20115,7 +20297,8 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -20124,7 +20307,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "EVOS": {
     "name": "EVOS",
@@ -20450,7 +20636,8 @@
       "PoS",
       "Logistics",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -20459,7 +20646,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ecoin": {
     "name": "Ecoin",
@@ -20902,7 +21092,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "PoW"
+      "PoW",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Elitium": {
@@ -21442,7 +21636,8 @@
       "Token",
       "Hardware",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -21451,7 +21646,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Enzo": {
     "name": "Enzo",
@@ -21995,7 +22193,8 @@
     "url": "/currencies/ethereumcash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -22004,7 +22203,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ethereum Classic": {
     "name": "Ethereum Classic",
@@ -22080,7 +22282,8 @@
     "url": "/currencies/ethereum-lite",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -22089,7 +22292,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ethereum Message Search": {
     "name": "Ethereum Message Search",
@@ -22285,7 +22491,8 @@
     "tags": [
       "Token",
       "Gambling",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -22294,7 +22501,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ethverse": {
     "name": "Ethverse",
@@ -22578,7 +22788,8 @@
     "url": "/currencies/exnetwork-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -22587,7 +22798,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Exchange Payment Coin": {
     "name": "Exchange Payment Coin",
@@ -23743,7 +23957,8 @@
     "url": "/currencies/fintab",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -23752,7 +23967,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "FintruX Network": {
     "name": "FintruX Network",
@@ -24095,7 +24313,8 @@
     "url": "/currencies/flow-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -24104,7 +24323,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Flowchain": {
     "name": "Flowchain",
@@ -24938,7 +25160,8 @@
     "url": "/currencies/grap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -24947,7 +25170,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "GSENetwork": {
     "name": "GSENetwork",
@@ -25118,7 +25344,8 @@
     "url": "/currencies/game-stars",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -25127,7 +25354,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Game.com": {
     "name": "Game.com",
@@ -25313,7 +25543,8 @@
     "url": "/currencies/gemswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -25322,7 +25553,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Gemini Dollar": {
     "name": "Gemini Dollar",
@@ -26151,7 +26385,8 @@
     "url": "/currencies/goldergames",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -26160,7 +26395,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Golem": {
     "name": "Golem",
@@ -26277,7 +26515,8 @@
     "url": "/currencies/gramgold-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -26286,7 +26525,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Graviocoin": {
     "name": "Graviocoin",
@@ -26802,7 +27044,8 @@
     "url": "/currencies/hxy-money",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -26811,7 +27054,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "HYCON": {
     "name": "HYCON",
@@ -27376,7 +27622,11 @@
     "url": "/currencies/helium-chain",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Helix": {
@@ -28007,7 +28257,11 @@
     "short": "pot",
     "url": "/currencies/hotpot-base-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "HubDao": {
@@ -28147,7 +28401,8 @@
     "url": "/currencies/hurify",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -28156,7 +28411,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Hush": {
     "name": "Hush",
@@ -29114,7 +29372,6 @@
     "short": "IDLE",
     "url": "/currencies/idle",
     "tags": [
-      "New",
       "asset-management",
       "defi",
       "dao"
@@ -29729,7 +29986,11 @@
     "url": "/currencies/intercrone",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "InterValue": {
@@ -29767,7 +30028,8 @@
     "url": "/currencies/internationalcryptox",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -29776,7 +30038,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Internet of People": {
     "name": "Internet of People",
@@ -29996,9 +30261,7 @@
     "name": "IterationSyndicate",
     "short": "ITS",
     "url": "/currencies/iterationsyndicate",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Iungo": {
@@ -30009,7 +30272,8 @@
       "Token",
       "Technology",
       "Distributed Computing",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -30018,7 +30282,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ivy": {
     "name": "Ivy",
@@ -30731,7 +30998,8 @@
     "url": "/currencies/kvaultfinance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -30740,7 +31008,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "KP2R.Network": {
     "name": "KP2R.Network",
@@ -31025,7 +31296,8 @@
     "url": "/currencies/katana-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -31034,7 +31306,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Kava.io": {
     "name": "Kava.io",
@@ -32682,7 +32957,8 @@
     "url": "/currencies/level-up",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -32691,7 +32967,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Level01": {
     "name": "Level01",
@@ -32716,7 +32995,8 @@
     "url": "/currencies/levelapp-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -32725,7 +33005,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Leverj": {
     "name": "Leverj",
@@ -33565,7 +33848,8 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi",
-      "Neo"
+      "Neo",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -33574,7 +33858,10 @@
       "forked_from": [
         "Neo"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Lottonation": {
     "name": "Lottonation",
@@ -34313,7 +34600,8 @@
     "url": "/currencies/milk2",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -34322,7 +34610,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "MINDOL": {
     "name": "MINDOL",
@@ -34462,7 +34753,8 @@
     "url": "/currencies/most-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -34471,7 +34763,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "MOTIV Protocol": {
     "name": "MOTIV Protocol",
@@ -34719,7 +35014,8 @@
     "url": "/currencies/magic-liquidity-rainbow",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -34728,7 +35024,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "MaidSafeCoin": {
     "name": "MaidSafeCoin",
@@ -34949,7 +35248,8 @@
       "Token",
       "DeFi",
       "DApp",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -34958,7 +35258,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Markaccy": {
     "name": "Markaccy",
@@ -34974,7 +35277,8 @@
     "url": "/currencies/marketpeak",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -34983,7 +35287,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Maro": {
     "name": "Maro",
@@ -34999,9 +35306,7 @@
     "name": "Mars Network",
     "short": "MARS",
     "url": "/currencies/mars-network",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Marshal Lion Group Coin": {
@@ -35357,7 +35662,8 @@
     "url": "/currencies/medalte",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -35366,7 +35672,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "MediBit": {
     "name": "MediBit",
@@ -36725,9 +37034,7 @@
     "name": "Money of Tommorow, Today",
     "short": "MTTCOIN",
     "url": "/currencies/money-of-tommorow-today",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Moneynet": {
@@ -37459,7 +37766,11 @@
     "short": "NEXT",
     "url": "/currencies/next-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "NFT": {
@@ -37469,7 +37780,8 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -37478,7 +37790,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "NFX Coin": {
     "name": "NFX Coin",
@@ -38115,7 +38430,8 @@
     "url": "/currencies/netkoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -38124,7 +38440,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Netbox Coin": {
     "name": "Netbox Coin",
@@ -38155,9 +38474,7 @@
     "name": "Netkoin",
     "short": "NTK",
     "url": "/currencies/netkoin",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Netrum": {
@@ -38272,12 +38589,16 @@
     "short": "NSBT",
     "url": "/currencies/neutrino-system-base-token",
     "tags": [
-      "Token"
+      "Token",
+      "Dead"
     ],
     "forked_data": {
       "block": [],
       "forked_from": []
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Neutrino Token": {
     "name": "Neutrino Token",
@@ -38597,7 +38918,8 @@
     "url": "/currencies/niftymoji",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -38606,7 +38928,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Nilu": {
     "name": "Nilu",
@@ -38683,7 +39008,8 @@
     "url": "/currencies/nobrainer-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -38692,7 +39018,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Noir": {
     "name": "Noir",
@@ -39289,7 +39618,11 @@
     "url": "/currencies/opcoinx",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "ORBYT Token": {
@@ -39619,7 +39952,11 @@
     "short": "OCC",
     "url": "/currencies/octoin-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Odyssey": {
@@ -39895,7 +40232,8 @@
     "url": "/currencies/onigiriswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -39904,7 +40242,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Onix": {
     "name": "Onix",
@@ -40040,7 +40381,8 @@
       "Token",
       "Asset management",
       "Interoperability",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -40049,7 +40391,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "OpenAlexa Protocol": {
     "name": "OpenAlexa Protocol",
@@ -40289,7 +40634,8 @@
     "url": "/currencies/origami",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -40298,7 +40644,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Origin Dollar": {
     "name": "Origin Dollar",
@@ -40592,7 +40941,8 @@
       "Token",
       "Asset management",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -40601,7 +40951,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "PARSIQ": {
     "name": "PARSIQ",
@@ -41126,7 +41479,8 @@
     "url": "/currencies/pyro-network-tron",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -41135,7 +41489,10 @@
       "forked_from": [
         "Tron"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Pajama.Finance": {
     "name": "Pajama.Finance",
@@ -41565,7 +41922,8 @@
     "url": "/currencies/paymon",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -41574,7 +41932,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Payou Finance": {
     "name": "Payou Finance",
@@ -41760,7 +42121,8 @@
       "Token",
       "Asset management",
       "Prediction Markets",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -41769,7 +42131,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Peerplays": {
     "name": "Peerplays",
@@ -41832,12 +42197,16 @@
     "short": "PCT",
     "url": "/currencies/percent",
     "tags": [
-      "Token"
+      "Token",
+      "Dead"
     ],
     "forked_data": {
       "block": [],
       "forked_from": []
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Perlin": {
     "name": "Perlin",
@@ -42062,9 +42431,7 @@
     "name": "PiSwap Token",
     "short": "PIS",
     "url": "/currencies/piswap-token",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "PicaArtMoney": {
@@ -42845,9 +43212,7 @@
     "name": "PoolStake",
     "short": "PSK",
     "url": "/currencies/poolstake",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "03122020"
   },
   "Popcorn": {
@@ -43199,7 +43564,8 @@
     "url": "/currencies/prime-dai",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -43208,7 +43574,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Prime-XI": {
     "name": "Prime-XI",
@@ -43601,7 +43970,8 @@
     "checked": true,
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -43610,7 +43980,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Pundi X": {
     "name": "Pundi X",
@@ -43696,7 +44069,8 @@
     "url": "/currencies/pylon-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -43705,7 +44079,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Pylon Network": {
     "name": "Pylon Network",
@@ -45029,7 +45406,8 @@
     "url": "/currencies/red-box-dapp-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -45038,7 +45416,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Red Pulse Phoenix": {
     "name": "Red Pulse Phoenix",
@@ -45048,7 +45429,8 @@
       "Token",
       "Services",
       "Research",
-      "Neo"
+      "Neo",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -45057,7 +45439,10 @@
       "forked_from": [
         "Neo"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "RedFOX Labs": {
     "name": "RedFOX Labs",
@@ -45081,7 +45466,11 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "Media",
-      "Content Creation"
+      "Content Creation",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "ReddCoin": {
@@ -45140,7 +45529,11 @@
     "url": "/currencies/regalcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Release Project": {
@@ -45613,7 +46006,8 @@
     "url": "/currencies/robet",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -45622,7 +46016,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "RoboCalls": {
     "name": "RoboCalls",
@@ -45881,7 +46278,8 @@
     "url": "/currencies/rug",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -45890,7 +46288,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Rupaya": {
     "name": "Rupaya",
@@ -45948,7 +46349,8 @@
     "url": "/currencies/ruze-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -45957,7 +46359,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Ryo Currency": {
     "name": "Ryo Currency",
@@ -46016,7 +46421,8 @@
     "url": "/currencies/safe2",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -46025,7 +46431,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "SALT": {
     "name": "SALT",
@@ -46409,7 +46818,8 @@
     "url": "/currencies/sonder",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -46418,7 +46828,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "SONM": {
     "name": "SONM",
@@ -46705,7 +47118,6 @@
     "short": "STV",
     "url": "/currencies/stvke-network",
     "tags": [
-      "New",
       "ethereum"
     ],
     "sawBirth": "03122020"
@@ -46714,7 +47126,12 @@
     "name": "STVKE.NETWORK",
     "short": "STV",
     "url": "/currencies/stvke-network",
-    "tags": []
+    "tags": [
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
+    ]
   },
   "SUKU": {
     "name": "SUKU",
@@ -47010,7 +47427,8 @@
     "url": "/currencies/sake-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -47019,7 +47437,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Sakura Bloom": {
     "name": "Sakura Bloom",
@@ -48120,7 +48541,8 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -48129,7 +48551,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Shroom.Finance": {
     "name": "Shroom.Finance",
@@ -48787,7 +49212,8 @@
     "url": "/currencies/social-activity-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -48796,7 +49222,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Social Finance": {
     "name": "Social Finance",
@@ -49119,7 +49548,11 @@
     "short": "XSD",
     "url": "/currencies/bitshares-music",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Soverain": {
@@ -49181,7 +49614,8 @@
       "Token",
       "Memes",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -49190,7 +49624,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "SpankChain": {
     "name": "SpankChain",
@@ -49612,7 +50049,8 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -49621,7 +50059,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "StableXSwap": {
     "name": "StableXSwap",
@@ -49776,7 +50217,8 @@
     "url": "/currencies/starcurve",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -49785,7 +50227,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "StarDEX": {
     "name": "StarDEX",
@@ -49881,7 +50326,8 @@
     "url": "/currencies/steak-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -49890,7 +50336,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Stealth": {
     "name": "Stealth",
@@ -50475,7 +50924,8 @@
     "url": "/currencies/superswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -50484,7 +50934,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Suretly": {
     "name": "Suretly",
@@ -50952,7 +51405,8 @@
       "Services",
       "DeFi",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -50961,7 +51415,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Syscoin": {
     "name": "Syscoin",
@@ -51000,7 +51457,8 @@
     "url": "/currencies/tagz5",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -51009,7 +51467,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TAI": {
     "name": "TAI",
@@ -51326,7 +51787,11 @@
     "short": "TOKC",
     "url": "/currencies/tokyo",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "TON Crystal": {
@@ -51347,7 +51812,8 @@
     "url": "/currencies/tontoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -51356,7 +51822,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TOP": {
     "name": "TOP",
@@ -51638,7 +52107,8 @@
       "Token",
       "Logistics",
       "Data Provenance",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -51647,7 +52117,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TagCoin": {
     "name": "TagCoin",
@@ -51836,7 +52309,11 @@
     "short": "TEC",
     "url": "/currencies/teecoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Telcoin": {
@@ -52234,7 +52711,8 @@
       "Token",
       "DeFi",
       "Singapore",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -52243,7 +52721,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "The Forms": {
     "name": "The Forms",
@@ -52593,12 +53074,16 @@
     "short": "TFT",
     "url": "/currencies/threefold-token",
     "tags": [
-      "Token"
+      "Token",
+      "Dead"
     ],
     "forked_data": {
       "block": [],
       "forked_from": []
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Thrive Token": {
     "name": "Thrive Token",
@@ -52743,7 +53228,8 @@
       "Platform",
       "AI & Big Data",
       "Distributed Computing",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -52752,7 +53238,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TigerCash": {
     "name": "TigerCash",
@@ -53039,7 +53528,8 @@
     "url": "/currencies/tokendesk",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -53048,7 +53538,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TokenPay": {
     "name": "TokenPay",
@@ -53561,7 +54054,8 @@
     "url": "/currencies/travel1click",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -53570,7 +54064,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "TravelNote": {
     "name": "TravelNote",
@@ -53612,7 +54109,8 @@
     "url": "/currencies/treelion",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -53621,7 +54119,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Trendering": {
     "name": "Trendering",
@@ -53795,7 +54296,11 @@
     "tags": [
       "Coin",
       "Media",
-      "Payments"
+      "Payments",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "TronEuropeRewardCoin": {
@@ -54147,7 +54652,8 @@
     "url": "/currencies/tweebaa",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -54156,7 +54662,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Twinkle": {
     "name": "Twinkle",
@@ -54459,7 +54968,8 @@
       "Token",
       "Services",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -54468,7 +54978,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "UNUS SED LEO": {
     "name": "UNUS SED LEO",
@@ -55009,7 +55522,8 @@
     "url": "/currencies/unibomb",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -55018,7 +55532,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Unibright": {
     "name": "Unibright",
@@ -55126,7 +55643,8 @@
       "Token",
       "Gambling",
       "Gaming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -55135,7 +55653,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Unimonitor": {
     "name": "Unimonitor",
@@ -55183,7 +55704,8 @@
     "url": "/currencies/unipump",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -55192,7 +55714,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Uniris": {
     "name": "Uniris",
@@ -55301,7 +55826,8 @@
     "url": "/currencies/united-bull-traders",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -55310,7 +55836,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "United Token": {
     "name": "United Token",
@@ -55422,7 +55951,8 @@
     "url": "/currencies/universal-liquidity-union",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -55431,7 +55961,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Universal Protocol Token": {
     "name": "Universal Protocol Token",
@@ -56148,7 +56681,8 @@
     "url": "/currencies/value-defi-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -56157,7 +56691,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Value Liquidity": {
     "name": "Value Liquidity",
@@ -56513,7 +57050,8 @@
       "Platform",
       "Identity",
       "Reputation",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -56522,7 +57060,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Veritaseum": {
     "name": "Veritaseum",
@@ -56653,7 +57194,8 @@
     "url": "/currencies/vether",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -56662,7 +57204,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Vetri": {
     "name": "Vetri",
@@ -57267,7 +57812,11 @@
     "url": "/currencies/win-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "WINk": {
@@ -57294,7 +57843,8 @@
     "url": "/currencies/witchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -57303,7 +57853,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "WIZBL": {
     "name": "WIZBL",
@@ -57960,7 +58513,8 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -57969,7 +58523,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "WinStars.live": {
     "name": "WinStars.live",
@@ -58092,7 +58649,11 @@
     "short": "WINK",
     "url": "/currencies/wink",
     "tags": [
-      "Coin"
+      "Coin",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Wirex Token": {
@@ -58217,7 +58778,8 @@
     "url": "/currencies/wowsecret",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -58226,7 +58788,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Wowbit": {
     "name": "Wowbit",
@@ -59038,7 +59603,8 @@
     "url": "/currencies/xtake",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -59047,7 +59613,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Xtock": {
     "name": "Xtock",
@@ -59688,7 +60257,8 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -59697,7 +60267,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "YFarmLand Token": {
     "name": "YFarmLand Token",
@@ -59818,7 +60391,8 @@
     "url": "/currencies/youengine",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -59827,7 +60401,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "YOYOW": {
     "name": "YOYOW",
@@ -59845,7 +60422,8 @@
     "url": "/currencies/yuge",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -59854,7 +60432,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "YUI Token": {
     "name": "YUI Token",
@@ -59891,7 +60472,8 @@
     "url": "/currencies/yuno-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -59900,7 +60482,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "YUSRA": {
     "name": "YUSRA",
@@ -60163,7 +60748,8 @@
     "url": "/currencies/yefam-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -60172,7 +60758,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "Yeld Finance": {
     "name": "Yeld Finance",
@@ -60718,7 +61307,11 @@
     "url": "/currencies/zvchain",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "ZYX": {
@@ -60797,7 +61390,11 @@
       "Mineable",
       "PoW",
       "Medium of Exchange",
-      "Privacy"
+      "Privacy",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Zealium": {
@@ -60859,7 +61456,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "PoS"
+      "PoS",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ]
   },
   "Zel": {
@@ -61490,7 +62091,8 @@
       "Education",
       "Jobs",
       "Sharing Economy",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -61499,7 +62101,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "botXcoin": {
     "name": "botXcoin",
@@ -61653,7 +62258,8 @@
     "url": "/currencies/dray",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -61662,7 +62268,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "dXIOT": {
     "name": "dXIOT",
@@ -61728,7 +62337,8 @@
     "url": "/currencies/e-chat",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -61737,7 +62347,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "e-Gulden": {
     "name": "e-Gulden",
@@ -62835,7 +63448,8 @@
     "url": "/currencies/sxmr",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -62844,7 +63458,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "sXRP": {
     "name": "sXRP",
@@ -62996,7 +63613,8 @@
     "url": "/currencies/tomatos-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -63005,7 +63623,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "uPlexa": {
     "name": "uPlexa",
@@ -63021,7 +63642,8 @@
     "url": "/currencies/unibot-cash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -63030,7 +63652,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "v.systems": {
     "name": "v.systems",
@@ -63356,7 +63981,8 @@
     "url": "/currencies/yieldfarming-insure",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
     ],
     "forked_data": {
       "block": [
@@ -63365,7 +63991,10 @@
       "forked_from": [
         "Ethereum"
       ]
-    }
+    },
+    "deaths": [
+      "01011970"
+    ]
   },
   "zHEGIC": {
     "name": "zHEGIC",

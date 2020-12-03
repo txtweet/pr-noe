@@ -12,6 +12,12 @@ newDeadCryptos = 1
 _.forEach cryptos, (crypto) ->
   crypto.tags = _.without crypto.tags, "New"
 
+  unless "Dead" in crypto.tags
+    unless _.find fresh.data, {"name": crypto.name}
+      console.error("Monnaie non trouvée #{crypto.name} #{crypto.url}")
+      process.exit(1)
+      crypto.tags.push("Dead")
+      crypto.deaths = ["01011970"]
 
 _.forEach fresh.data, (crypto) ->
   unless cryptos[crypto.name]?
