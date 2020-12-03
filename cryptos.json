@@ -1623,7 +1623,18 @@
     "name": "AGOV (ANSWER Governance)",
     "short": "AGOV",
     "url": "/currencies/agov-answer-governance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc1ad...0d2456b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AI Crypto": {
     "name": "AI Crypto",
@@ -1947,7 +1958,19 @@
     "name": "API3",
     "short": "API3",
     "url": "/currencies/api3",
-    "tags": []
+    "tags": [
+      "Token",
+      "Oracles",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0b38...731B88a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "APIX": {
     "name": "APIX",
@@ -1980,7 +2003,20 @@
     "name": "APY.Finance",
     "short": "APY",
     "url": "/currencies/apy-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x95a4...4446611"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ARAW": {
     "name": "ARAW",
@@ -2095,7 +2131,18 @@
     "name": "ASKO",
     "short": "ASKO",
     "url": "/currencies/askobar-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xeEEE...0588603"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ASTA": {
     "name": "ASTA",

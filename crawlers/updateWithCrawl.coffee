@@ -34,10 +34,11 @@ request
       block: bloc
       forked_from: forked_from
 
-  if "Ethereum Contract" in crypto.forked_data.forked_from
+  if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length === 1
     crypto.tags.push("Ethereum")
+    console.warn("OK pour #{crypto.name}")
   else
-    console.error("Forked a modifier #{JSON.stringify crypto, null, 2}")
+    console.error("Forked a corriger #{JSON.stringify crypto, null, 2}")
 
 .then () ->
   console.log JSON.stringify cryptos, null, 2
