@@ -64697,8 +64697,19 @@
     "name": "Zoracles",
     "short": "ZORA",
     "url": "/currencies/zoracles",
-    "tags": [],
-    "sawBirth": "01122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "01122020",
+    "forked_data": {
+      "block": [
+        "0xD8E3...0055ae6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ZrCoin": {
     "name": "ZrCoin",
@@ -64743,7 +64754,18 @@
     "name": "Zuplo",
     "short": "ZLP",
     "url": "/currencies/zuplo",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x94d8...44913e5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Zurcoin": {
     "name": "Zurcoin",
@@ -65442,7 +65464,9 @@
     "name": "gAsp",
     "short": "GASP",
     "url": "/currencies/gasp",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "happy birthday coin": {
     "name": "happy birthday coin",
@@ -65889,13 +65913,35 @@
     "name": "nYFI",
     "short": "N0031",
     "url": "/currencies/nyfi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0751...8f38fe2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "noob.finance": {
     "name": "noob.finance",
     "short": "$NOOB",
     "url": "/currencies/noob-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fc0...e256889"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "onLEXpa": {
     "name": "onLEXpa",
@@ -65978,7 +66024,18 @@
     "name": "pulltherug.finance",
     "short": "RUGZ",
     "url": "/currencies/rugz",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xedfb...16809ba"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "pxUSD Synthetic USD Expiring 1 April 2021": {
     "name": "pxUSD Synthetic USD Expiring 1 April 2021",
