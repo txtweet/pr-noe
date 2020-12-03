@@ -3434,8 +3434,19 @@
     "name": "AllWin DeFi",
     "short": "ALLWIN",
     "url": "/currencies/allwin-defi",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0xc635...56429c1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "AllianceBlock": {
     "name": "AllianceBlock",
@@ -3475,7 +3486,21 @@
     "name": "Alpaca City",
     "short": "ALPA",
     "url": "/currencies/alpaca-city",
-    "tags": []
+    "tags": [
+      "Token",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Gaming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7cA4...717514A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Alpha Coin": {
     "name": "Alpha Coin",
@@ -3516,7 +3541,9 @@
     "name": "Alpha Quark Token",
     "short": "AQT",
     "url": "/currencies/alpha-quark-token",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Alpha Token": {
     "name": "Alpha Token",
@@ -3920,7 +3947,9 @@
     "name": "Animal Friends United",
     "short": "AFU",
     "url": "/currencies/animal-friends-united",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "AnimalGo": {
     "name": "AnimalGo",
@@ -4102,7 +4131,19 @@
     "name": "Apollon Limassol",
     "short": "APL",
     "url": "/currencies/apollon-limassol",
-    "tags": []
+    "tags": [
+      "Token",
+      "Social Token",
+      "Chiliz Contract"
+    ],
+    "forked_data": {
+      "block": [
+        "0xad2b...a46bdcb"
+      ],
+      "forked_from": [
+        "Chiliz Contract"
+      ]
+    }
   },
   "AppCoins": {
     "name": "AppCoins",
@@ -4283,7 +4324,18 @@
     "name": "Archer DAO Governance Token",
     "short": "ARCH",
     "url": "/currencies/archer-dao-governance-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1f3f...c61f3af"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Arcona": {
     "name": "Arcona",
