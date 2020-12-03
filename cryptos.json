@@ -44039,7 +44039,25 @@
     "name": "Peet DeFi",
     "short": "PTE",
     "url": "/currencies/peet-defi",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Atomic Swaps",
+      "Interoperability",
+      "Smart Contracts",
+      "Staking",
+      "DAO",
+      "Yield farming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x51bb...7142b6b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PegNet": {
     "name": "PegNet",
@@ -44255,7 +44273,22 @@
     "name": "Phoenix Global",
     "short": "PHX",
     "url": "/currencies/phoenix-global",
-    "tags": []
+    "tags": [
+      "Token",
+      "Services",
+      "Enterprise solutions",
+      "DeFi",
+      "Research",
+      "Neo"
+    ],
+    "forked_data": {
+      "block": [
+        "157810...770d8c9"
+      ],
+      "forked_from": [
+        "Neo Contract"
+      ]
+    }
   },
   "PhoenixDAO": {
     "name": "PhoenixDAO",
@@ -44291,7 +44324,18 @@
     "name": "Phoneum",
     "short": "PHT",
     "url": "/currencies/phoneum",
-    "tags": []
+    "tags": [
+      "Token",
+      "Tron"
+    ],
+    "forked_data": {
+      "block": [
+        "1003095"
+      ],
+      "forked_from": [
+        "TRON Contract"
+      ]
+    }
   },
   "Phore": {
     "name": "Phore",
@@ -44322,8 +44366,19 @@
     "name": "PiSwap Token",
     "short": "PIS",
     "url": "/currencies/piswap-token",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0xce12...2761897"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PicaArtMoney": {
     "name": "PicaArtMoney",
