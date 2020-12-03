@@ -46,4 +46,4 @@ extract_data = (keyword, data) ->
 jsonformat = extract_data("root",datas)
 console.log(jsonformat)
 jsontos = JSON.stringify(jsonformat, null,2)
-fs.writeFileSync("./arbre-tag-03122020.json", jsontos)
+fs.writeFileSync("./arbre-tag.json", jsontos)
