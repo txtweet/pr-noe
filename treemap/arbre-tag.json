@@ -2713,6 +2713,11 @@
               "value": 1
             },
             {
+              "name": "Bundles Finance",
+              "url": "/currencies/bundles",
+              "value": 1
+            },
+            {
               "name": "Burency",
               "url": "/currencies/burency",
               "value": 1
@@ -5868,6 +5873,11 @@
               "value": 1
             },
             {
+              "name": "STVKE",
+              "url": "/currencies/stvke-network",
+              "value": 1
+            },
+            {
               "name": "SWAG Finance",
               "url": "/currencies/swag-finance",
               "value": 1
@@ -6565,6 +6575,11 @@
             {
               "name": "Unibright",
               "url": "/currencies/unibright",
+              "value": 1
+            },
+            {
+              "name": "Unicap.finance",
+              "url": "/currencies/unicap-finance",
               "value": 1
             },
             {
@@ -26647,26 +26662,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "ethereum",
-      "children": [
-        {
-          "name": "Bundles Finance",
-          "url": "/currencies/bundles",
-          "value": 1
-        },
-        {
-          "name": "STVKE",
-          "url": "/currencies/stvke-network",
-          "value": 1
-        },
-        {
-          "name": "Unicap.finance",
-          "url": "/currencies/unicap-finance",
-          "value": 1
         }
       ]
     },
