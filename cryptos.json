@@ -1366,13 +1366,19 @@
     "name": "AAVEDOWN",
     "short": "AAVEDOWN",
     "url": "/currencies/aave-down",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "AAVEUP": {
     "name": "AAVEUP",
     "short": "AAVEUP",
     "url": "/currencies/aave-up",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "AAX Token": {
     "name": "AAX Token",
@@ -5231,13 +5237,19 @@
     "name": "BCHDOWN",
     "short": "BCHDOWN",
     "url": "/currencies/bchdown",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "BCHUP": {
     "name": "BCHUP",
     "short": "BCHUP",
     "url": "/currencies/bchup",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "BDCC Bitica COIN": {
     "name": "BDCC Bitica COIN",
@@ -32607,13 +32619,19 @@
     "name": "LTCDOWN",
     "short": "LTCDOWN",
     "url": "/currencies/ltcdown",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "LTCUP": {
     "name": "LTCUP",
     "short": "LTCUP",
     "url": "/currencies/ltcup",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ]
   },
   "LTO Network": {
     "name": "LTO Network",
@@ -47260,13 +47278,19 @@
     "name": "SXPDOWN",
     "short": "SXPDOWN",
     "url": "/currencies/sxpdown",
-    "tags": []
+    "tags": [
+      "Binance Coin",
+      "Token"
+    ]
   },
   "SXPUP": {
     "name": "SXPUP",
     "short": "SXPUP",
     "url": "/currencies/sxpup",
-    "tags": []
+    "tags": [
+      "Binance Coin",
+      "Token"
+    ]
   },
   "SYB Coin": {
     "name": "SYB Coin",
