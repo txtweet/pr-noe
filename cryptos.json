@@ -47128,7 +47128,19 @@
     "name": "Radix",
     "short": "EXRD",
     "url": "/currencies/radix",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6468...Af59414"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ragnarok": {
     "name": "Ragnarok",
@@ -47185,7 +47197,18 @@
     "name": "Rake Finance",
     "short": "RAK",
     "url": "/currencies/rake-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa8b0...0a0be66"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Rakon": {
     "name": "Rakon",
@@ -47417,7 +47440,9 @@
     "name": "ReapChain",
     "short": "REAP",
     "url": "/currencies/reapchain",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Receive Access Ecosystem": {
     "name": "Receive Access Ecosystem",
@@ -47513,7 +47538,13 @@
     "name": "ReddCoin",
     "short": "RDD",
     "url": "/currencies/redd",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Hybrid - PoW & PoS",
+      "Scrypt",
+      "Media",
+      "Content Creation"
+    ]
   },
   "RefToken": {
     "name": "RefToken",
@@ -48587,7 +48618,18 @@
     "name": "SERGS",
     "short": "SERGS",
     "url": "/currencies/sergs",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x79BA...093E000"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SF Capital": {
     "name": "SF Capital",
@@ -48903,7 +48945,18 @@
     "name": "SPACE-iZ",
     "short": "SPIZ",
     "url": "/currencies/space-iz",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa7A5...f1C6c2d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SPIN Protocol": {
     "name": "SPIN Protocol",
@@ -49216,13 +49269,36 @@
     "name": "SUP8EME",
     "short": "SUP8EME",
     "url": "/currencies/sup8eme",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4793...2e30F5f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SURF Finance": {
     "name": "SURF Finance",
     "short": "SURF",
     "url": "/currencies/surf",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xea31...3ee976c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SWAG Finance": {
     "name": "SWAG Finance",
@@ -49301,7 +49377,19 @@
     "name": "SYNC Network",
     "short": "SYNC",
     "url": "/currencies/sync-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xB6ff...03eFD32"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SaTT": {
     "name": "SaTT",
@@ -49579,7 +49667,19 @@
     "name": "Sancoj",
     "short": "SANC",
     "url": "/currencies/sancoj",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x03ec...6d6735a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Santiment Network Token": {
     "name": "Santiment Network Token",
@@ -49739,7 +49839,18 @@
     "name": "Sav3Token",
     "short": "SAV3",
     "url": "/currencies/sav3token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6e10...7f01890"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Save Environment Token": {
     "name": "Save Environment Token",
@@ -50371,7 +50482,10 @@
     "name": "Shard",
     "short": "SHARD",
     "url": "/currencies/shard",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Mineable"
+    ]
   },
   "Sharder": {
     "name": "Sharder",
@@ -50413,7 +50527,18 @@
     "name": "ShareAt",
     "short": "XAT",
     "url": "/currencies/shareat",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x01c8...132946e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ShareToken": {
     "name": "ShareToken",
@@ -51033,7 +51158,18 @@
     "name": "SmartCredit Token",
     "short": "SMARTCREDIT",
     "url": "/currencies/smartcredit-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x72e9...f9ada13"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SmartMesh": {
     "name": "SmartMesh",
@@ -51143,7 +51279,18 @@
     "name": "Smpl foundation",
     "short": "SMPL",
     "url": "/currencies/smplfoundation",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8bf9...a470f6b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Snetwork": {
     "name": "Snetwork",
@@ -51312,7 +51459,18 @@
     "name": "Social Rocket",
     "short": "ROCKS",
     "url": "/currencies/social-rocket",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0829...72d9fb2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Social Send": {
     "name": "Social Send",
@@ -52125,13 +52283,38 @@
     "name": "Stably USD",
     "short": "USDS",
     "url": "/currencies/stableusd",
-    "tags": []
+    "tags": [
+      "Token",
+      "Store of Value",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa4bd...1112ebe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Stacy": {
     "name": "Stacy",
     "short": "STACY",
     "url": "/currencies/stacy",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf12E...FE1B327"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Stafi": {
     "name": "Stafi",
