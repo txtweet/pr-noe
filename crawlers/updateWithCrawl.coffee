@@ -37,7 +37,7 @@ request
       block: bloc
       forked_from: forked_from
 
-  if crypto.forked_data? and "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data?.forked_from.length is 1
+  if crypto.forked_data? and "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
     crypto.tags.push("Ethereum")
     console.warn("OK pour #{crypto.name}")
   else

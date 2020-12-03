@@ -4634,7 +4634,13 @@
     "name": "Aspire",
     "short": "ASP",
     "url": "/currencies/aspire",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Assemble Protocol": {
     "name": "Assemble Protocol",
@@ -4719,7 +4725,20 @@
     "name": "Atari Token",
     "short": "ATRI",
     "url": "/currencies/atari-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Gambling",
+      "Gaming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xdacd...780fb62"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Atheios": {
     "name": "Atheios",
