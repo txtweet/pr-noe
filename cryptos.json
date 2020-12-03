@@ -5439,7 +5439,18 @@
     "name": "BAEPAY",
     "short": "BAEPAY",
     "url": "/currencies/baepay",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6bff...6252449"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BASIC": {
     "name": "BASIC",
@@ -5638,7 +5649,18 @@
     "name": "BIOKKOIN",
     "short": "BKKG",
     "url": "/currencies/biokkoin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8AF2...2F4a6B0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BITCOINHEDGE": {
     "name": "BITCOINHEDGE",
@@ -5844,7 +5866,18 @@
     "name": "BMToken",
     "short": "BMT",
     "url": "/currencies/bmtoken",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc636...c543d40"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BNBDOWN": {
     "name": "BNBDOWN",
@@ -6675,19 +6708,53 @@
     "name": "BarnBridge",
     "short": "BOND",
     "url": "/currencies/barnbridge",
-    "tags": []
+    "tags": [
+      "Token",
+      "Yield farming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0391...337750f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Baroin": {
     "name": "Baroin",
     "short": "BRI",
     "url": "/currencies/baroin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4893...3882173"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Barter": {
     "name": "Barter",
     "short": "BRTR",
     "url": "/currencies/barter",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xF0AC...6454223"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BarterTrade": {
     "name": "BarterTrade",
