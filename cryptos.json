@@ -34555,11 +34555,7 @@
     "url": "/currencies/leverj-gluon",
     "tags": [
       "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "Levolution": {
     "name": "Levolution",
@@ -38313,11 +38309,7 @@
     "url": "/currencies/mobiepay",
     "tags": [
       "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "Mobile Crypto Pay Coin": {
     "name": "Mobile Crypto Pay Coin",
@@ -38730,11 +38722,7 @@
     "tags": [
       "Token"
     ],
-    "sawBirth": "03122020",
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "sawBirth": "03122020"
   },
   "Moneynet": {
     "name": "Moneynet",
@@ -39195,7 +39183,18 @@
     "name": "Muse",
     "short": "MUSE",
     "url": "/currencies/muse",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xb6ca...ef1fc81"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MustangCoin": {
     "name": "MustangCoin",
@@ -39543,7 +39542,19 @@
     "name": "NIX Bridge Token",
     "short": "NBT",
     "url": "/currencies/nix-bridge-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2e23...9C7C6A9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NKN": {
     "name": "NKN",
@@ -40049,13 +40060,26 @@
     "name": "Neeo",
     "short": "NEEO",
     "url": "/currencies/neeo",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Neeva Defi": {
     "name": "Neeva Defi",
     "short": "NVA",
     "url": "/currencies/neeva-defi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x38f7...d1d1db3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nekonium": {
     "name": "Nekonium",
