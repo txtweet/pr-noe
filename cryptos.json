@@ -66071,7 +66071,18 @@
     "name": "reflect.finance",
     "short": "RFI",
     "url": "/currencies/reflect-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa1af...88b0cd7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "renBTC": {
     "name": "renBTC",
@@ -66431,7 +66442,20 @@
     "name": "saffron.finance",
     "short": "SFI",
     "url": "/currencies/saffron-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xb753...e04902c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "savedroid": {
     "name": "savedroid",
