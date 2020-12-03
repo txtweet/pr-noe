@@ -13,11 +13,12 @@ _.forEach fresh.data, (crypto) ->
       "url": "/currencies/#{crypto.slug}"
       "tags": ["New"].concat(crypto.tags)
       "sawBirth": fileDate
-      "deaths": []
 
   if crypto.quote.USD.volume_24h is 0
     console.error "Dead #{JSON.stringify cryptos[crypto.name].name, null, 2}"
-    cryptos[crypto.name].deaths = [fileDate]
+    unless cryptos[crypto.name].deaths?
+      cryptos[crypto.name].deaths = []
+    cryptos[crypto.name].deaths.push(fileDate)
     if "Dead" not in cryptos[crypto.name].tags
       cryptos[crypto.name].tags.push("Dead")
 
