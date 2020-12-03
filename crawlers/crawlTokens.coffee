@@ -1,7 +1,7 @@
 _ = require 'lodash'
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
-cryptos = require './cryptos.json'
+cryptos = require '../cryptos.json'
 request = require 'request-promise'
 
 # TODO : tester les cas avec crypto qui ont déjà des token
