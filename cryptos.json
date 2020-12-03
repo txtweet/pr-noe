@@ -63511,13 +63511,40 @@
     "name": "Yearn Loans Finance",
     "short": "YLFI",
     "url": "/currencies/yearn-loans-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Yield farming",
+      "Staking",
+      "DeFi",
+      "Smart Contracts",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x186a...1163cc7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Secure": {
     "name": "Yearn Secure",
     "short": "YSEC",
     "url": "/currencies/yearn-secure",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xeea9...9c0aB96"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn-finance Infrastructure Labs": {
     "name": "Yearn-finance Infrastructure Labs",
@@ -63595,13 +63622,36 @@
     "name": "YfDFI Finance",
     "short": "YFD",
     "url": "/currencies/yfdfi-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4f4f...4e27ad9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yfi.mobi": {
     "name": "Yfi.mobi",
     "short": "YFIM",
     "url": "/currencies/yfi-mobi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2e2f...7e5de2c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yfscience": {
     "name": "Yfscience",
