@@ -58002,13 +58002,26 @@
     "name": "UniWhales",
     "short": "UWL",
     "url": "/currencies/uniwhales",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xdbdd...80b8df5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UniWorld": {
     "name": "UniWorld",
     "short": "UNW",
     "url": "/currencies/uniworld",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Unibomb": {
     "name": "Unibomb",
@@ -58102,7 +58115,22 @@
     "name": "Unifi Protocol DAO",
     "short": "UNFI",
     "url": "/currencies/unifi-protocol-dao",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Binance Coin",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x728C...b814d8B",
+        "0x4417...ee822c2"
+      ],
+      "forked_from": [
+        "Binance Coin Contract",
+        "Ethereum Contract"
+      ]
+    }
   },
   "Unification": {
     "name": "Unification",
@@ -58120,7 +58148,12 @@
     "name": "Uniform Fiscal Object",
     "short": "UFO",
     "url": "/currencies/uniform-fiscal-object",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "NeoScrypt"
+    ]
   },
   "Unify": {
     "name": "Unify",
@@ -58253,7 +58286,19 @@
     "name": "Unistake",
     "short": "UNISTAKE",
     "url": "/currencies/unistake",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x9ed8...ab64e5e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Uniswap": {
     "name": "Uniswap",
@@ -58535,7 +58580,18 @@
     "name": "UnoSwap",
     "short": "UNOS",
     "url": "/currencies/unoswap",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xd18A...83435Da"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Unobtanium": {
     "name": "Unobtanium",
@@ -58986,7 +59042,9 @@
     "name": "VKF Platform",
     "short": "VKF",
     "url": "/currencies/vkf-platform",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "VN Token": {
     "name": "VN Token",
@@ -59195,7 +59253,19 @@
     "name": "Value Liquidity",
     "short": "VALUE",
     "url": "/currencies/value-defi-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x49e8...9218e5c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ValueChain": {
     "name": "ValueChain",
@@ -59246,7 +59316,18 @@
     "name": "Vanilla Network",
     "short": "VNLA",
     "url": "/currencies/vanilla-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xB97F...084a988"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Vanta Network": {
     "name": "Vanta Network",
@@ -60057,7 +60138,19 @@
     "name": "Volts.Finance",
     "short": "VOLTS",
     "url": "/currencies/volts-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x14d1...01a6631"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Voltz": {
     "name": "Voltz",
@@ -60247,7 +60340,9 @@
     "name": "WEMIX",
     "short": "WEMIX",
     "url": "/currencies/wemix",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "WETH": {
     "name": "WETH",
@@ -60443,7 +60538,21 @@
     "name": "Wabi",
     "short": "WABI",
     "url": "/currencies/tael",
-    "tags": []
+    "tags": [
+      "Token",
+      "Marketing",
+      "Logistics",
+      "Payments",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x286b...5a609fe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wagerr": {
     "name": "Wagerr",
