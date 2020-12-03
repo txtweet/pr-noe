@@ -14578,7 +14578,13 @@
     "name": "Combo",
     "short": "COMB",
     "url": "/currencies/combo",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Comet": {
     "name": "Comet",
@@ -14897,7 +14903,19 @@
     "name": "Compounder",
     "short": "CP3R",
     "url": "/currencies/compounder",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7ef1...dbbcc8c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Conceal": {
     "name": "Conceal",
@@ -14927,7 +14945,9 @@
     "name": "Conflux Network",
     "short": "CFX",
     "url": "/currencies/conflux-network",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Coni": {
     "name": "Coni",
@@ -15188,25 +15208,62 @@
     "name": "Coral Swap",
     "short": "CORAL",
     "url": "/currencies/coral-swap",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Cord DeFi": {
     "name": "Cord DeFi",
     "short": "CORD",
     "url": "/currencies/cord-defi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Yield farming",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x74fb...00dade1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CorionX": {
     "name": "CorionX",
     "short": "CORX",
     "url": "/currencies/corionx",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x26a6...2A4CF97"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cornichon": {
     "name": "Cornichon",
     "short": "CORN",
     "url": "/currencies/cornichon",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa456...c2fea5e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cortex": {
     "name": "Cortex",
@@ -15894,8 +15951,19 @@
     "name": "CryptoBet",
     "short": "CBET",
     "url": "/currencies/cryptobet",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x35dd...fae62f6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CryptoBharatCoin": {
     "name": "CryptoBharatCoin",
@@ -16145,7 +16213,18 @@
     "name": "Cryptochrome",
     "short": "CHM",
     "url": "/currencies/cryptochrome",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x538a...9ea06d0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cryptoindex.com 100": {
     "name": "Cryptoindex.com 100",
@@ -16500,7 +16579,18 @@
     "name": "CyberFi Token",
     "short": "CFi",
     "url": "/currencies/cyberfi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x63b4...ccd1ef4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CyberMiles": {
     "name": "CyberMiles",
@@ -17277,7 +17367,18 @@
     "name": "DOOS TOKEN",
     "short": "DOOS",
     "url": "/currencies/doos-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x45cd...abfcc21"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DOS Network": {
     "name": "DOS Network",
@@ -17937,7 +18038,19 @@
     "name": "DeCash",
     "short": "DESH",
     "url": "/currencies/decash",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x95ba...6d18878"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DeFi Bids": {
     "name": "DeFi Bids",
@@ -17968,7 +18081,18 @@
     "name": "DeFi Gold",
     "short": "DFGL",
     "url": "/currencies/defi-gold",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xE3a6...21a7daD"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DeFi Insurance Protocol": {
     "name": "DeFi Insurance Protocol",
@@ -18047,7 +18171,18 @@
     "name": "DeFi of Thrones",
     "short": "DOTX",
     "url": "/currencies/deli-of-thrones",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xFAb5...D56eF0a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DeFiChain": {
     "name": "DeFiChain",
@@ -18426,7 +18561,18 @@
     "name": "DefHold",
     "short": "DEFO",
     "url": "/currencies/defhold",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe481...a25ddd3"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Defi": {
     "name": "Defi",
@@ -18483,7 +18629,18 @@
     "name": "DefiCliq",
     "short": "CLIQ",
     "url": "/currencies/deficliq",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0Def...5826767"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DefiDollar": {
     "name": "DefiDollar",
