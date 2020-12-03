@@ -54623,7 +54623,9 @@
     "name": "TecraCoin",
     "short": "TCR",
     "url": "/currencies/tecracoin",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "TeeCoin": {
     "name": "TeeCoin",
@@ -54729,7 +54731,9 @@
     "name": "TenUp",
     "short": "TUP",
     "url": "/currencies/tenup",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "TenX": {
     "name": "TenX",
@@ -54866,7 +54870,9 @@
     "name": "TerraUSD",
     "short": "UST",
     "url": "/currencies/terrausd",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Terracoin": {
     "name": "Terracoin",
@@ -54900,7 +54906,18 @@
     "name": "Tessla Coin",
     "short": "TSLA",
     "url": "/currencies/tessla-coin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x110F...ED0B9CC"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tether": {
     "name": "Tether",
@@ -55107,13 +55124,35 @@
     "name": "The LoveChain",
     "short": "LOV",
     "url": "/currencies/the-lovechain",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe3c8...97e2bd1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Luxury Coin": {
     "name": "The Luxury Coin",
     "short": "TLB",
     "url": "/currencies/the-luxury-coin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8ab0...ecaec01"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "The Midas Touch Gold": {
     "name": "The Midas Touch Gold",
