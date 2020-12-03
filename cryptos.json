@@ -44384,7 +44384,19 @@
     "name": "PicaArtMoney",
     "short": "PICA",
     "url": "/currencies/picaartmoney",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xA7E0...5962106"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Pickle Finance": {
     "name": "Pickle Finance",
@@ -44426,7 +44438,18 @@
     "name": "PieDAO DEFI Large Cap",
     "short": "DEFI+L",
     "url": "/currencies/piedao-defi-large-cap",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x78f2...fe8eb78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PieDAO DEFI Small Cap": {
     "name": "PieDAO DEFI Small Cap",
@@ -45152,14 +45175,36 @@
     "name": "Pool of Stake",
     "short": "PSK",
     "url": "/currencies/pool-of-stake",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1c5f...8d69858"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PoolStake": {
     "name": "PoolStake",
     "short": "PSK",
     "url": "/currencies/poolstake",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x3f84...1cb03c9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Popcorn": {
     "name": "Popcorn",
@@ -45380,7 +45425,19 @@
     "name": "PowerPool",
     "short": "CVP",
     "url": "/currencies/powerpool",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x38e4...be7dca1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PowerTrade Fuel": {
     "name": "PowerTrade Fuel",
@@ -45746,7 +45803,18 @@
     "name": "Prophet",
     "short": "PROPHET",
     "url": "/currencies/prophet",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8d5d...d9da587"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Props Token": {
     "name": "Props Token",
@@ -45890,7 +45958,18 @@
     "name": "Pteria",
     "short": "PTERIA",
     "url": "/currencies/pteria",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x02ec...b70259b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PumaPay": {
     "name": "PumaPay",
@@ -46611,7 +46690,18 @@
     "name": "QuiverX",
     "short": "QRX",
     "url": "/currencies/quiverx",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6e0d...70b14d8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Quiztok": {
     "name": "Quiztok",
