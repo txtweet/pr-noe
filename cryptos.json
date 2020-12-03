@@ -12665,7 +12665,9 @@
     "name": "Cardstack",
     "short": "CARD",
     "url": "/currencies/cardstack",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Carebit": {
     "name": "Carebit",
@@ -13175,7 +13177,15 @@
     "name": "CertiK",
     "short": "CTK",
     "url": "/currencies/certik",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Cybersecurity",
+      "Enterprise solutions",
+      "Interoperability",
+      "Scaling",
+      "Smart Contracts",
+      "Cosmos"
+    ]
   },
   "Chad Link Set": {
     "name": "Chad Link Set",
@@ -13288,7 +13298,9 @@
     "name": "ChallengeDac",
     "short": "CHL",
     "url": "/currencies/challengedac",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Change": {
     "name": "Change",
@@ -13516,7 +13528,18 @@
     "name": "Chonk",
     "short": "CHONK",
     "url": "/currencies/chonk",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8467...96351f1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Chromia": {
     "name": "Chromia",
@@ -13626,7 +13649,19 @@
     "name": "Cipher",
     "short": "CPR",
     "url": "/currencies/cipher",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x20ae...452def6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Cipher Core Token": {
     "name": "Cipher Core Token",
