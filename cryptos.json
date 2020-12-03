@@ -13836,7 +13836,9 @@
     "name": "CloudCoin",
     "short": "CCE",
     "url": "/currencies/cloudcoin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Cloudbit Token": {
     "name": "Cloudbit Token",
@@ -13882,7 +13884,19 @@
     "name": "Club Atletico Independiente",
     "short": "CAI",
     "url": "/currencies/club-atletico-independiente",
-    "tags": []
+    "tags": [
+      "Token",
+      "Social Token",
+      "Chiliz Contract"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1793...4486292"
+      ],
+      "forked_from": [
+        "Chiliz Contract"
+      ]
+    }
   },
   "ClubCoin": {
     "name": "ClubCoin",
@@ -14021,7 +14035,18 @@
     "name": "Coin",
     "short": "$COIN",
     "url": "/currencies/coin-defi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe61f...3cfa850"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Coin Artist": {
     "name": "Coin Artist",
@@ -14448,7 +14473,18 @@
     "name": "Colibri Protocol",
     "short": "CLBR",
     "url": "/currencies/colibri",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x47a6...32279dc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Colletrix": {
     "name": "Colletrix",
