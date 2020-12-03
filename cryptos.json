@@ -37432,7 +37432,18 @@
     "name": "MegaCryptoPolis",
     "short": "MEGA",
     "url": "/currencies/megacryptopolis",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3218...a13e654"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Megacoin": {
     "name": "Megacoin",
@@ -37818,7 +37829,19 @@
     "name": "Metis",
     "short": "MTS",
     "url": "/currencies/metis",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa959...0625e75"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Metric": {
     "name": "Metric",
@@ -37974,13 +37997,35 @@
     "name": "MileVerse",
     "short": "MVC",
     "url": "/currencies/mileverse",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5819...CE2D6f7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MilliMeter": {
     "name": "MilliMeter",
     "short": "MM",
     "url": "/currencies/millimeter",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xC3c2...7eF1a63"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MiloCoin": {
     "name": "MiloCoin",
@@ -38137,7 +38182,18 @@
     "name": "Misbloc",
     "short": "MSB",
     "url": "/currencies/misbloc",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x84c7...06da824"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mithril": {
     "name": "Mithril",
@@ -38255,7 +38311,13 @@
     "name": "MobiePay",
     "short": "MBX",
     "url": "/currencies/mobiepay",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Mobile Crypto Pay Coin": {
     "name": "Mobile Crypto Pay Coin",
@@ -38582,7 +38644,9 @@
     "name": "MoneroV ",
     "short": "XMV",
     "url": "/currencies/monero-v",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "MonetaryUnit": {
     "name": "MonetaryUnit",
@@ -38663,8 +38727,14 @@
     "name": "Money of Tommorow, Today",
     "short": "MTTCOIN",
     "url": "/currencies/money-of-tommorow-today",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Moneynet": {
     "name": "Moneynet",
@@ -38826,7 +38896,20 @@
     "name": "Moonday Finance",
     "short": "MOONDAY",
     "url": "/currencies/moonday-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Staking",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1ad6...5783c01"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Moozicore": {
     "name": "Moozicore",
@@ -38963,7 +39046,13 @@
     "name": "MotaCoin",
     "short": "MOTA",
     "url": "/currencies/motacoin",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X13",
+      "Payments"
+    ]
   },
   "Motocoin": {
     "name": "Motocoin",
