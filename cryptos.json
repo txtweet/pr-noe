@@ -63426,7 +63426,18 @@
     "name": "Yearn Finance Network",
     "short": "YFN",
     "url": "/currencies/yearn-finance-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3709...6de370c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Finance Passive Income": {
     "name": "Yearn Finance Passive Income",
@@ -63466,7 +63477,18 @@
     "name": "Yearn Finance Red Moon",
     "short": "YFRM",
     "url": "/currencies/yearn-finance-red-moon",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xbE68...E7c2b73"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Land": {
     "name": "Yearn Land",
