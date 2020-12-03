@@ -33215,7 +33215,18 @@
     "name": "Komet",
     "short": "KOMET",
     "url": "/currencies/komet",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6cfb...a1abda7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Komodo": {
     "name": "Komodo",
@@ -33876,7 +33887,18 @@
     "name": "LIQUID",
     "short": "LIQUID",
     "url": "/currencies/liquidefi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x72ca...7e803a9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LNX Protocol": {
     "name": "LNX Protocol",
@@ -33965,7 +33987,9 @@
     "name": "LONG COIN",
     "short": "LONG",
     "url": "/currencies/long-coin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "LOOPREX": {
     "name": "LOOPREX",
@@ -34259,7 +34283,18 @@
     "name": "Lattice Token",
     "short": "LTX",
     "url": "/currencies/lattice-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa393...715d092"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "LeLeFoodChain": {
     "name": "LeLeFoodChain",
