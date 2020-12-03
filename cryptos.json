@@ -60744,7 +60744,18 @@
     "name": "Warlord Token",
     "short": "WLT",
     "url": "/currencies/warlord-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xb7bc...c3b6b88"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Waves": {
     "name": "Waves",
@@ -60831,7 +60842,18 @@
     "name": "WeBlock",
     "short": "WON",
     "url": "/currencies/weblock",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1edd...e636b9d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "WeOwn": {
     "name": "WeOwn",
@@ -61286,7 +61308,19 @@
     "name": "Wish Coin",
     "short": "WIS",
     "url": "/currencies/wish-coin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xFA12...74E7eDC"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wixlar": {
     "name": "Wixlar",
@@ -61334,7 +61368,18 @@
     "name": "Wootrade",
     "short": "WOO",
     "url": "/currencies/wootrade",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4691...e945d4b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Work Force Coin": {
     "name": "Work Force Coin",
@@ -61432,7 +61477,18 @@
     "name": "Wrapped BNB",
     "short": "WBNB",
     "url": "/currencies/wbnb",
-    "tags": []
+    "tags": [
+      "Token",
+      "Binance Coin"
+    ],
+    "forked_data": {
+      "block": [
+        "0xbb4C...3bc095c"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Wrapped Bitcoin": {
     "name": "Wrapped Bitcoin",
@@ -61547,13 +61603,26 @@
     "name": "Wrapped ZEC",
     "short": "WZEC",
     "url": "/currencies/wrapped-zec",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4A64...0b66E10"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "X Infinity": {
     "name": "X Infinity",
     "short": "XIF",
     "url": "/currencies/x-infinity",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "X-Block": {
     "name": "X-Block",
@@ -61637,7 +61706,18 @@
     "name": "XCredit",
     "short": "XFYI",
     "url": "/currencies/xcredit",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6be7...f2450fe"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XDAG": {
     "name": "XDAG",
@@ -61674,7 +61754,18 @@
     "name": "XFII",
     "short": "XFII",
     "url": "/currencies/xfii",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fa2...c95f66a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XFUEL": {
     "name": "XFUEL",
@@ -61799,7 +61890,19 @@
     "name": "XPToken.io",
     "short": "XPT",
     "url": "/currencies/xptoken-io",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf081...50f9bFc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "XRP": {
     "name": "XRP",
@@ -62562,13 +62665,36 @@
     "name": "YFI CREDITS GROUP",
     "short": "YFICG",
     "url": "/currencies/yfi-credits-group",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x9080...55B0cAa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YFI3.money": {
     "name": "YFI3.money",
     "short": "YFI3",
     "url": "/currencies/yfi3-money",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0984...5d2d1ee"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YFIA": {
     "name": "YFIA",
@@ -62656,7 +62782,19 @@
     "name": "YFIII",
     "short": "YFIII",
     "url": "/currencies/yfiii",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x649e...996415a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YFIKING,FINANCE": {
     "name": "YFIKING,FINANCE",
@@ -63045,7 +63183,18 @@
     "name": "YUI Token",
     "short": "YUI",
     "url": "/currencies/yui-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4c10...b44ece7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YUKI": {
     "name": "YUKI",
@@ -63095,13 +63244,27 @@
     "name": "YUSRA",
     "short": "YUSRA",
     "url": "/currencies/yusra",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "YYFI.Protocol": {
     "name": "YYFI.Protocol",
     "short": "YYFI",
     "url": "/currencies/yyfi-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xaF20...828Eb7A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yakuza DFO": {
     "name": "Yakuza DFO",
@@ -63161,7 +63324,18 @@
     "name": "Yearn Classic Finance",
     "short": "EARN",
     "url": "/currencies/yearn-classic-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x63a1...5879039"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Finance Bit": {
     "name": "Yearn Finance Bit",
@@ -63184,7 +63358,18 @@
     "name": "Yearn Finance Bit2",
     "short": "YFB2",
     "url": "/currencies/yearn-finance-bit2",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x59e7...6ab674e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yearn Finance DOT": {
     "name": "Yearn Finance DOT",
