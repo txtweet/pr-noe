@@ -40347,10 +40347,6 @@
       "Token",
       "Dead"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
     "deaths": [
       "01011970"
     ]
@@ -40359,7 +40355,13 @@
     "name": "Neutrino Token",
     "short": "NSBT",
     "url": "/currencies/neutrino-system-base-token",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Neutrino USD": {
     "name": "Neutrino USD",
@@ -40887,7 +40889,19 @@
     "name": "Nsure.Network",
     "short": "NSURE",
     "url": "/currencies/nsure-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2094...ccd2114"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NuBits": {
     "name": "NuBits",
