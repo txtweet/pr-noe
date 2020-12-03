@@ -10631,13 +10631,35 @@
     "name": "BonFi",
     "short": "BNF",
     "url": "/currencies/bonfi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1DE5...5831057"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bonded Finance": {
     "name": "Bonded Finance",
     "short": "BOND",
     "url": "/currencies/bonded-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5dc0...54db1e8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bone": {
     "name": "Bone",
@@ -10753,7 +10775,18 @@
     "name": "BooBank",
     "short": "BOOB",
     "url": "/currencies/boobank",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa9c4...dd437c9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Boogle": {
     "name": "Boogle",
@@ -10819,7 +10852,19 @@
     "name": "BoringDAO",
     "short": "BOR",
     "url": "/currencies/boringdao",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3c9d...51fc1a9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Botton": {
     "name": "Botton",
@@ -11056,7 +11101,18 @@
     "name": "Brother Music Platform",
     "short": "BMP",
     "url": "/currencies/brother-music-platform",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x01b2...ca20541"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Brr": {
     "name": "Brr",
@@ -11170,7 +11226,19 @@
     "name": "BuildUp",
     "short": "BUP",
     "url": "/currencies/buildup",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xB04D...CEb9e57"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Building Cities Beyond Blockchain": {
     "name": "Building Cities Beyond Blockchain",
@@ -11206,7 +11274,18 @@
     "name": "Bullswap Exchange",
     "short": "BVL",
     "url": "/currencies/bullswap-exchange",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xe7d3...62c3FbF"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bundles Finance": {
     "name": "Bundles Finance",
@@ -11885,7 +11964,18 @@
     "name": "COVER Protocol",
     "short": "COVER",
     "url": "/currencies/cover-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5d8d...4304286"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "COVIR.IO": {
     "name": "COVIR.IO",
@@ -12036,7 +12126,18 @@
     "name": "CSP DAO",
     "short": "NEBO",
     "url": "/currencies/csp-dao",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7f0c...673b455"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CSPC": {
     "name": "CSPC",
@@ -12331,7 +12432,19 @@
     "name": "Candela Coin",
     "short": "CLA",
     "url": "/currencies/candelacoin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Energy",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xF726...48Da2Bf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CannabisCoin": {
     "name": "CannabisCoin",
@@ -12412,7 +12525,22 @@
     "name": "Cap",
     "short": "CAP",
     "url": "/currencies/cap",
-    "tags": []
+    "tags": [
+      "Token",
+      "Platform",
+      "DeFi",
+      "Smart Contracts",
+      "Staking",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4304...b673142"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CapdaxToken": {
     "name": "CapdaxToken",
@@ -12468,8 +12596,19 @@
     "name": "Carbon",
     "short": "CRBN",
     "url": "/currencies/carbon",
-    "tags": [],
-    "sawBirth": "01122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "01122020",
+    "forked_data": {
+      "block": [
+        "0xCdee...b3724EE"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Carboncoin": {
     "name": "Carboncoin",
