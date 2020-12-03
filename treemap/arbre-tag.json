@@ -13928,6 +13928,171 @@
               ]
             },
             {
+              "name": "Ftx",
+              "children": [
+                {
+                  "name": "3X Long Algorand Token",
+                  "url": "/currencies/3x-long-algorand-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Altcoin Index Token",
+                  "url": "/currencies/3x-long-altcoin-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long BNB Token",
+                  "url": "/currencies/3x-long-bnb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long BitMax Token Token",
+                  "url": "/currencies/3x-long-bitmax-token-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Cardano Token",
+                  "url": "/currencies/3x-long-cardano-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Chainlink Token",
+                  "url": "/currencies/3x-long-chainlink-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Cosmos Token",
+                  "url": "/currencies/3x-long-cosmos-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Dogecoin Token",
+                  "url": "/currencies/3x-long-dogecoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Dragon Index Token",
+                  "url": "/currencies/3x-long-dragon-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Ethereum Classic Token",
+                  "url": "/currencies/3x-long-ethereum-classic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Matic Token",
+                  "url": "/currencies/3x-long-matic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Midcap Index Token",
+                  "url": "/currencies/3x-long-midcap-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long OKB Token",
+                  "url": "/currencies/3x-long-okb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Shitcoin Index Token",
+                  "url": "/currencies/3x-long-shitcoin-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Sushi Token",
+                  "url": "/currencies/3x-long-sushi-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long TRX Token",
+                  "url": "/currencies/3x-long-trx-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long TomoChain Token",
+                  "url": "/currencies/3x-long-tomochain-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Algorand Token",
+                  "url": "/currencies/3x-short-algorand-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short BNB Token",
+                  "url": "/currencies/3x-short-bnb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Cardano Token",
+                  "url": "/currencies/3x-short-cardano-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Chainlink Token",
+                  "url": "/currencies/3x-short-chainlink-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Cosmos Token",
+                  "url": "/currencies/3x-short-cosmos-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Dogecoin Token",
+                  "url": "/currencies/3x-short-dogecoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Matic Token",
+                  "url": "/currencies/3x-short-matic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Sushi Token",
+                  "url": "/currencies/3x-short-sushi-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short TRX Token",
+                  "url": "/currencies/3x-short-trx-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short TomoChain Token",
+                  "url": "/currencies/3x-short-tomochain-token",
+                  "value": 1
+                },
+                {
+                  "name": "Binance Coin",
+                  "children": [
+                    {
+                      "name": "3X Long Bitcoin Token",
+                      "url": "/currencies/3x-long-bitcoin-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Long Ethereum Token",
+                      "url": "/currencies/3x-long-ethereum-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Short Bitcoin Token",
+                      "url": "/currencies/3x-short-bitcoin-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Short Ethereum Token",
+                      "url": "/currencies/3x-short-ethereum-token",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Asset management",
               "children": [
                 {
@@ -14419,136 +14584,6 @@
                       "value": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "name": "Ftx",
-              "children": [
-                {
-                  "name": "3X Long Algorand Token",
-                  "url": "/currencies/3x-long-algorand-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Altcoin Index Token",
-                  "url": "/currencies/3x-long-altcoin-index-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long BNB Token",
-                  "url": "/currencies/3x-long-bnb-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long BitMax Token Token",
-                  "url": "/currencies/3x-long-bitmax-token-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Cardano Token",
-                  "url": "/currencies/3x-long-cardano-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Chainlink Token",
-                  "url": "/currencies/3x-long-chainlink-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Cosmos Token",
-                  "url": "/currencies/3x-long-cosmos-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Dogecoin Token",
-                  "url": "/currencies/3x-long-dogecoin-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Dragon Index Token",
-                  "url": "/currencies/3x-long-dragon-index-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Ethereum Classic Token",
-                  "url": "/currencies/3x-long-ethereum-classic-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Matic Token",
-                  "url": "/currencies/3x-long-matic-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Midcap Index Token",
-                  "url": "/currencies/3x-long-midcap-index-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long OKB Token",
-                  "url": "/currencies/3x-long-okb-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Shitcoin Index Token",
-                  "url": "/currencies/3x-long-shitcoin-index-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long TRX Token",
-                  "url": "/currencies/3x-long-trx-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long TomoChain Token",
-                  "url": "/currencies/3x-long-tomochain-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Algorand Token",
-                  "url": "/currencies/3x-short-algorand-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short BNB Token",
-                  "url": "/currencies/3x-short-bnb-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Cardano Token",
-                  "url": "/currencies/3x-short-cardano-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Chainlink Token",
-                  "url": "/currencies/3x-short-chainlink-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Cosmos Token",
-                  "url": "/currencies/3x-short-cosmos-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Dogecoin Token",
-                  "url": "/currencies/3x-short-dogecoin-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Matic Token",
-                  "url": "/currencies/3x-short-matic-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short TRX Token",
-                  "url": "/currencies/3x-short-trx-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short TomoChain Token",
-                  "url": "/currencies/3x-short-tomochain-token",
-                  "value": 1
                 }
               ]
             },
@@ -16368,6 +16403,11 @@
               "value": 1
             },
             {
+              "name": "Venus",
+              "url": "/currencies/venus",
+              "value": 1
+            },
+            {
               "name": "WazirX",
               "url": "/currencies/wazirx",
               "value": 1
@@ -16438,31 +16478,6 @@
                       "value": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "name": "Ftx",
-              "children": [
-                {
-                  "name": "3X Long Bitcoin Token",
-                  "url": "/currencies/3x-long-bitcoin-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Ethereum Token",
-                  "url": "/currencies/3x-long-ethereum-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Bitcoin Token",
-                  "url": "/currencies/3x-short-bitcoin-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Ethereum Token",
-                  "url": "/currencies/3x-short-ethereum-token",
-                  "value": 1
                 }
               ]
             },
@@ -18279,21 +18294,6 @@
           ]
         },
         {
-          "name": "Ftx",
-          "children": [
-            {
-              "name": "3X Long Sushi Token",
-              "url": "/currencies/3x-long-sushi-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Sushi Token",
-              "url": "/currencies/3x-short-sushi-token",
-              "value": 1
-            }
-          ]
-        },
-        {
           "name": "Asset management",
           "children": [
             {
@@ -18450,16 +18450,6 @@
                   "value": 1
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Binance Smart Chain",
-          "children": [
-            {
-              "name": "Venus",
-              "url": "/currencies/venus",
-              "value": 1
             }
           ]
         }

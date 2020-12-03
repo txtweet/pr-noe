@@ -17,14 +17,22 @@ while true; do
   #coffee ./crawlTokens.coffee > tokens.json
   #cp ./tokens.json cryptos.json
 
-  echo "Ftx"
-  coffee ./crawlFtx.coffee > tokens.json
+  # echo "Ftx"
+  # coffee ./crawlFtx.coffee > tokens.json
+  # cp ./tokens.json ../cryptos.json
+  #
+  # echo "Ftx"
+  # coffee ./crawlFtx.coffee > tokens.json
+  # cp ./tokens.json ../cryptos.json
+
+  echo "Empty tags"
+  coffee ./updateWithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
 
-  echo "Ftx"
-  coffee ./crawlFtx.coffee > tokens.json
+  echo "Empty tags"
+  coffee ./updateWithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
-
+  
   sleep 60
 
 done
