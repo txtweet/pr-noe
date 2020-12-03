@@ -8,6 +8,10 @@ request = require 'request-promise'
 crypto = _.find cryptos, (crypt) ->
   crypt.name.startsWith("3X ") and not ("Ftx" in crypt.tags)
 
+unless crypto?
+  process.exit(1)
+  console.log JSON.stringify cryptos, null, 2
+
 request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'
