@@ -5,17 +5,25 @@ while true; do
   ## git add cryptos.json
   #sleep 60
 
-  echo "Token"
-  coffee ./crawlTokens.coffee > tokens.json
-  cp ./tokens.json cryptos.json
-
-  echo "Token2"
-  coffee ./crawlTokens.coffee > tokens.json
-  cp ./tokens.json cryptos.json
+  # echo "Token"
+  # coffee ./crawlTokens.coffee > tokens.json
+  # cp ./tokens.json cryptos.json
+  #
+  # echo "Token2"
+  # coffee ./crawlTokens.coffee > tokens.json
+  # cp ./tokens.json cryptos.json
 
   #echo "Token3"
   #coffee ./crawlTokens.coffee > tokens.json
   #cp ./tokens.json cryptos.json
+
+  echo "Ftx"
+  coffee ./crawlFtx.coffee > tokens.json
+  cp ./tokens.json ../cryptos.json
+
+  echo "Ftx"
+  coffee ./crawlFtx.coffee > tokens.json
+  cp ./tokens.json ../cryptos.json
 
   sleep 60
 
