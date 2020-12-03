@@ -57854,7 +57854,18 @@
     "name": "UniCrypt",
     "short": "UNCX",
     "url": "/currencies/uncx",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xaDB2...8A7B1D0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UniDollar": {
     "name": "UniDollar",
@@ -57951,7 +57962,18 @@
     "name": "UniMex",
     "short": "UMEX",
     "url": "/currencies/unimex-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x27af...0059316"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "UniPower": {
     "name": "UniPower",
