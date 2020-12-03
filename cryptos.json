@@ -5222,7 +5222,20 @@
     "name": "Axie Infinity",
     "short": "AXS",
     "url": "/currencies/axie-infinity",
-    "tags": []
+    "tags": [
+      "Token",
+      "Collectibles & NFTs",
+      "Gaming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf5d6...aba5ada"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axiom": {
     "name": "Axiom",
@@ -5261,7 +5274,18 @@
     "name": "Axion",
     "short": "AXN",
     "url": "/currencies/axion",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7d85...3562352"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Axis DeFi": {
     "name": "Axis DeFi",
@@ -5301,13 +5325,26 @@
     "name": "Azuki",
     "short": "AZUKI",
     "url": "/currencies/azuki",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x9105...11CBaEd"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Azzure": {
     "name": "Azzure",
     "short": "AZZR",
     "url": "/currencies/azzure",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "B ONE PAYMENT": {
     "name": "B ONE PAYMENT",
