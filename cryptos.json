@@ -18646,13 +18646,37 @@
     "name": "DefiDollar",
     "short": "DUSD",
     "url": "/currencies/defidollar",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5bc2...6c23831"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DefiDollar DAO": {
     "name": "DefiDollar DAO",
     "short": "DFD",
     "url": "/currencies/defidollar-dao",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x20c3...0AA333A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Definitex": {
     "name": "Definitex",
@@ -18761,14 +18785,36 @@
     "name": "Degov",
     "short": "DEGOV",
     "url": "/currencies/degov",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x469E...B8D702F"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Deipool": {
     "name": "Deipool",
     "short": "DIP",
     "url": "/currencies/deipool",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xd151...bc29730"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Delphy": {
     "name": "Delphy",
@@ -19007,7 +19053,18 @@
     "name": "DexKit",
     "short": "KIT",
     "url": "/currencies/dexkit",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7866...a5cb4f4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dexter G": {
     "name": "Dexter G",
@@ -19064,7 +19121,18 @@
     "name": "Dfinance",
     "short": "XFI",
     "url": "/currencies/dfinance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xE4E8...824eFA0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Dfinity (IOU)": {
     "name": "Dfinity (IOU)",
@@ -19751,7 +19819,18 @@
     "name": "Divert Finance",
     "short": "DEVE",
     "url": "/currencies/divert-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xfdb6...61b064e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Divi": {
     "name": "Divi",
@@ -19855,7 +19934,18 @@
     "name": "DogDeFiCoin",
     "short": "DOGDEFI",
     "url": "/currencies/dogdeficoin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x80bb...476d9Eb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Doge Token": {
     "name": "Doge Token",
@@ -20359,7 +20449,18 @@
     "name": "Dvision Network",
     "short": "DVI",
     "url": "/currencies/dvision-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1063...35d9770"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DxChain Token": {
     "name": "DxChain Token",
@@ -21329,7 +21430,18 @@
     "name": "Earnbase",
     "short": "ENB",
     "url": "/currencies/earnbase",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa6fb...03b9e15"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Earneo": {
     "name": "Earneo",
@@ -21358,7 +21470,9 @@
     "name": "Easticoin",
     "short": "ESTI",
     "url": "/currencies/easticoin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "EasyFi": {
     "name": "EasyFi",
@@ -21398,8 +21512,19 @@
     "name": "Eauric",
     "short": "EAURIC",
     "url": "/currencies/eauric",
-    "tags": [],
-    "sawBirth": "01122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "01122020",
+    "forked_data": {
+      "block": [
+        "0xc36c...43bdec8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EchoLink": {
     "name": "EchoLink",
@@ -21646,7 +21771,13 @@
     "name": "EduMetrix Coin",
     "short": "EMC",
     "url": "/currencies/edumetrix",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Education Ecosystem": {
     "name": "Education Ecosystem",
@@ -22171,7 +22302,18 @@
     "name": "Empty Set Dollar",
     "short": "ESD",
     "url": "/currencies/empty-set-dollar",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x36f3...689d723"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Emrals": {
     "name": "Emrals",
@@ -22887,7 +23029,19 @@
     "name": "Ethanol",
     "short": "ENOL",
     "url": "/currencies/ethanol",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x63D0...C0a9eD6"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethash Miner": {
     "name": "Ethash Miner",
@@ -23136,7 +23290,19 @@
     "name": "Ethereum Lightning",
     "short": "ETLT",
     "url": "/currencies/ethereumlightning",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x54eF...6e38313"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum Lite": {
     "name": "Ethereum Lite",
@@ -23214,7 +23380,19 @@
     "name": "Ethereum Yield",
     "short": "ETHY",
     "url": "/currencies/ethereum-yield",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xd1AF...6EF08B5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum eRush": {
     "name": "Ethereum eRush",
@@ -23773,7 +23951,18 @@
     "name": "Experty Wisdom Token",
     "short": "WIS",
     "url": "/currencies/experty-wisdom-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xDeca...67adcF5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ExtStock Token": {
     "name": "ExtStock Token",
@@ -24138,7 +24327,13 @@
     "name": "FRED Energy",
     "short": "FRED",
     "url": "/currencies/fred-energy",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "FREE Coin": {
     "name": "FREE Coin",
@@ -24167,7 +24362,18 @@
     "name": "FRMx Token",
     "short": "FRMX",
     "url": "/currencies/frmx-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf683...5354b14"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FSBT API Token": {
     "name": "FSBT API Token",
@@ -24280,7 +24486,18 @@
     "name": "FXPay",
     "short": "FXP",
     "url": "/currencies/fxpay",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x14dd...3af6fc8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "FYDcoin": {
     "name": "FYDcoin",
@@ -24860,7 +25077,18 @@
     "name": "Fiola",
     "short": "FLA",
     "url": "/currencies/fiola",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7bE5...CF3449B"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fire Lotto": {
     "name": "Fire Lotto",
@@ -24928,7 +25156,13 @@
     "name": "Firo",
     "short": "XZC",
     "url": "/currencies/firo",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Medium of Exchange",
+      "Privacy"
+    ]
   },
   "First Bitcoin": {
     "name": "First Bitcoin",
@@ -25273,7 +25507,22 @@
     "name": "ForTube",
     "short": "FOR",
     "url": "/currencies/the-force-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Binance Smart Chain",
+      "DeFi",
+      "Singapore",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1fcd...a5a672f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Force For Fast": {
     "name": "Force For Fast",
@@ -25437,7 +25686,18 @@
     "name": "Freeway Token",
     "short": "FWT",
     "url": "/currencies/freeway-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xf151...fb3cba4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Freicoin": {
     "name": "Freicoin",
@@ -25475,7 +25735,9 @@
     "name": "French Digital Reserve",
     "short": "FDR",
     "url": "/currencies/french-digital-reserve",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Frens Community": {
     "name": "Frens Community",
@@ -25538,7 +25800,18 @@
     "name": "Friends With Benefits",
     "short": "FWB",
     "url": "/currencies/friends-with-benefits",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7d91...d12da91"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Friendz": {
     "name": "Friendz",
@@ -25667,7 +25940,18 @@
     "name": "Fundamenta",
     "short": "FMTA",
     "url": "/currencies/fundamenta",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xaa9d...08d9ab4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Fusion": {
     "name": "Fusion",
@@ -25684,7 +25968,19 @@
     "name": "Future-Cash Digital",
     "short": "FCD",
     "url": "/currencies/future-cash-digital",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x74db...b1b730b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Future1coin": {
     "name": "Future1coin",
@@ -25816,7 +26112,9 @@
     "name": "GARD Governance Token",
     "short": "GGT",
     "url": "/currencies/gard-governance-token",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "GCN Coin": {
     "name": "GCN Coin",
@@ -26069,7 +26367,18 @@
     "name": "GYSR",
     "short": "GYSR",
     "url": "/currencies/gysr",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xbea9...8c8ccab"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Gala": {
     "name": "Gala",
@@ -26263,7 +26572,18 @@
     "name": "Gameswap",
     "short": "GSWAP",
     "url": "/currencies/gameswap",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xaac4...40ef8b2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Garlicoin": {
     "name": "Garlicoin",
@@ -26335,7 +26655,13 @@
     "name": "Gatherer",
     "short": "GTHR",
     "url": "/currencies/gatherer",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "GazeCoin": {
     "name": "GazeCoin",
@@ -26646,7 +26972,18 @@
     "name": "Giftedhands",
     "short": "GHD",
     "url": "/currencies/giftedhands",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3b54...2f9fda9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Gifto": {
     "name": "Gifto",
@@ -27090,7 +27427,20 @@
     "name": "Gold BCR",
     "short": "GBCR",
     "url": "/currencies/gold-bcr",
-    "tags": []
+    "tags": [
+      "Token",
+      "Wallet",
+      "Stablecoin",
+      "POS 3.0",
+      "PoS",
+      "SHA-256",
+      "Australia",
+      "Asset Backed Coin"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "Gold Poker": {
     "name": "Gold Poker",
@@ -27121,7 +27471,19 @@
     "name": "GoldFinX",
     "short": "GIX",
     "url": "/currencies/goldfinx",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xbd43...033b8c4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GoldFund": {
     "name": "GoldFund",
@@ -27156,7 +27518,18 @@
     "name": "Goldblock",
     "short": "GBK",
     "url": "/currencies/goldblock",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3e52...41372ac"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Goldcoin": {
     "name": "Goldcoin",
@@ -27339,7 +27712,19 @@
     "name": "Governor DAO",
     "short": "GDAO",
     "url": "/currencies/governor-dao",
-    "tags": []
+    "tags": [
+      "Token",
+      "DAO",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x515d...23286bc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "GrafSound": {
     "name": "GrafSound",
@@ -27635,7 +28020,13 @@
     "name": "HARD Protocol",
     "short": "HARD",
     "url": "/currencies/hard-protocol",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [],
+      "forked_from": []
+    }
   },
   "HBTC Captain Token": {
     "name": "HBTC Captain Token",
@@ -27819,8 +28210,19 @@
     "name": "HRDCOIN",
     "short": "HRD",
     "url": "/currencies/hrdcoin",
-    "tags": [],
-    "sawBirth": "01122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "01122020",
+    "forked_data": {
+      "block": [
+        "0xf883...eCc9fB2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HTMLCOIN": {
     "name": "HTMLCOIN",
@@ -28099,7 +28501,18 @@
     "name": "Handy",
     "short": "HANDY",
     "url": "/currencies/handy",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8bbe...A9b684c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Harcomia": {
     "name": "Harcomia",
@@ -28887,7 +29300,18 @@
     "name": "Hiz Finance",
     "short": "HIZ",
     "url": "/currencies/hiz-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc761...dcFF7B7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HoboNickels": {
     "name": "HoboNickels",
@@ -28928,7 +29352,18 @@
     "name": "HoldToWin",
     "short": "7ADD",
     "url": "/currencies/holdtowin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xEd36...aA2DF92"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "HollyWoodCoin": {
     "name": "HollyWoodCoin",
@@ -29132,7 +29567,18 @@
     "name": "HubDao",
     "short": "HD",
     "url": "/currencies/hubdao",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6ce6...1410ed9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Hubi Token": {
     "name": "Hubi Token",
@@ -29510,7 +29956,19 @@
     "name": "Hyve",
     "short": "HYVE",
     "url": "/currencies/hyve",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xd794...07ef7d4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "I/O Coin": {
     "name": "I/O Coin",
@@ -29685,7 +30143,19 @@
     "name": "IDall",
     "short": "IDALL",
     "url": "/currencies/idall",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xce80...d7fd867"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "IFX24": {
     "name": "IFX24",
@@ -30094,7 +30564,18 @@
     "name": "ITO Utility Token",
     "short": "IUT",
     "url": "/currencies/ito-utility-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xD36a...0136625"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "IXT": {
     "name": "IXT",
@@ -30884,7 +31365,19 @@
     "name": "Interest Bearing ETH",
     "short": "ibETH",
     "url": "/currencies/ibeth",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x67B6...F0b9c7A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "InternationalCryptoX": {
     "name": "InternationalCryptoX",
@@ -31119,14 +31612,38 @@
     "name": "Itchiro Games",
     "short": "JEM",
     "url": "/currencies/itchiro-games",
-    "tags": []
+    "tags": [
+      "Token",
+      "Gaming",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x21cf...8Dc8d86"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "IterationSyndicate": {
     "name": "IterationSyndicate",
     "short": "ITS",
     "url": "/currencies/iterationsyndicate",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0xc32c...18821c4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Iungo": {
     "name": "Iungo",
@@ -31254,7 +31771,17 @@
     "name": "JSB FOUNDATION",
     "short": "JSB",
     "url": "/currencies/jsb-foundation",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "TBwEPB...z74ppzd"
+      ],
+      "forked_from": [
+        "TRON Contract"
+      ]
+    }
   },
   "JSECOIN": {
     "name": "JSECOIN",
@@ -31631,7 +32158,17 @@
     "name": "Jointer",
     "short": "JNTR",
     "url": "/currencies/jointer",
-    "tags": []
+    "tags": [
+      "Token"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5f2c...55ed2c4"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Joule": {
     "name": "Joule",
