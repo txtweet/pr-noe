@@ -1147,11 +1147,6 @@
       "value": 1
     },
     {
-      "name": "Team Heretics Fan Token",
-      "url": "/currencies/team-heretics-fan-token",
-      "value": 1
-    },
-    {
       "name": "TecraCoin",
       "url": "/currencies/tecracoin",
       "value": 1
@@ -1197,11 +1192,6 @@
       "value": 1
     },
     {
-      "name": "Trabzonspor Fan Token",
-      "url": "/currencies/trabzonspor-fan-token",
-      "value": 1
-    },
-    {
       "name": "Trade.win",
       "url": "/currencies/trade-win",
       "value": 1
@@ -1224,16 +1214,6 @@
     {
       "name": "UNCL",
       "url": "/currencies/uncl",
-      "value": 1
-    },
-    {
-      "name": "UNIDOWN",
-      "url": "/currencies/unidown",
-      "value": 1
-    },
-    {
-      "name": "UNIUP",
-      "url": "/currencies/uniup",
       "value": 1
     },
     {
@@ -1520,11 +1500,6 @@
       "name": "Token",
       "children": [
         {
-          "name": "AS Roma Fan Token",
-          "url": "/currencies/as-roma-fan-token",
-          "value": 1
-        },
-        {
           "name": "Acuity Token",
           "url": "/currencies/acuity-token",
           "value": 1
@@ -1537,11 +1512,6 @@
         {
           "name": "Aitra",
           "url": "/currencies/aitra",
-          "value": 1
-        },
-        {
-          "name": "Atletico De Madrid Fan Token",
-          "url": "/currencies/atletico-de-madrid-fan-token",
           "value": 1
         },
         {
@@ -1600,11 +1570,6 @@
           "value": 1
         },
         {
-          "name": "FC Barcelona Fan Token",
-          "url": "/currencies/fc-barcelona-fan-token",
-          "value": 1
-        },
-        {
           "name": "FinNexus",
           "url": "/currencies/finnexus",
           "value": 1
@@ -1612,11 +1577,6 @@
         {
           "name": "GM Holding",
           "url": "/currencies/gm-holding",
-          "value": 1
-        },
-        {
-          "name": "Galatasaray Fan Token",
-          "url": "/currencies/galatasaray-fan-token",
           "value": 1
         },
         {
@@ -1662,11 +1622,6 @@
         {
           "name": "Ixinium",
           "url": "/currencies/ixinium",
-          "value": 1
-        },
-        {
-          "name": "Juventus Fan Token",
-          "url": "/currencies/juventus-fan-token",
           "value": 1
         },
         {
@@ -1720,11 +1675,6 @@
           "value": 1
         },
         {
-          "name": "MiL.k",
-          "url": "/currencies/milk-alliance",
-          "value": 1
-        },
-        {
           "name": "New BitShares",
           "url": "/currencies/new-bitshares",
           "value": 1
@@ -1745,11 +1695,6 @@
           "value": 1
         },
         {
-          "name": "OG Fan Token",
-          "url": "/currencies/og-fan-token",
-          "value": 1
-        },
-        {
           "name": "ORBYT Token",
           "url": "/currencies/orbyt-token",
           "value": 1
@@ -1762,11 +1707,6 @@
         {
           "name": "Ontology Gas",
           "url": "/currencies/ontology-gas",
-          "value": 1
-        },
-        {
-          "name": "Paris Saint-Germain Fan Token",
-          "url": "/currencies/paris-saint-germain-fan-token",
           "value": 1
         },
         {
@@ -16328,6 +16268,11 @@
               "value": 1
             },
             {
+              "name": "MiL.k",
+              "url": "/currencies/milk-alliance",
+              "value": 1
+            },
+            {
               "name": "MyWish",
               "url": "/currencies/mywish",
               "value": 1
@@ -16395,6 +16340,16 @@
             {
               "name": "Trust Wallet Token",
               "url": "/currencies/trust-wallet-token",
+              "value": 1
+            },
+            {
+              "name": "UNIDOWN",
+              "url": "/currencies/unidown",
+              "value": 1
+            },
+            {
+              "name": "UNIUP",
+              "url": "/currencies/uniup",
               "value": 1
             },
             {
@@ -17970,6 +17925,56 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Socios.com",
+          "children": [
+            {
+              "name": "AS Roma Fan Token",
+              "url": "/currencies/as-roma-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Atletico De Madrid Fan Token",
+              "url": "/currencies/atletico-de-madrid-fan-token",
+              "value": 1
+            },
+            {
+              "name": "FC Barcelona Fan Token",
+              "url": "/currencies/fc-barcelona-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Galatasaray Fan Token",
+              "url": "/currencies/galatasaray-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Juventus Fan Token",
+              "url": "/currencies/juventus-fan-token",
+              "value": 1
+            },
+            {
+              "name": "OG Fan Token",
+              "url": "/currencies/og-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Paris Saint-Germain Fan Token",
+              "url": "/currencies/paris-saint-germain-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Team Heretics Fan Token",
+              "url": "/currencies/team-heretics-fan-token",
+              "value": 1
+            },
+            {
+              "name": "Trabzonspor Fan Token",
+              "url": "/currencies/trabzonspor-fan-token",
+              "value": 1
             }
           ]
         },
