@@ -32828,7 +32828,18 @@
     "name": "KeeperDAO",
     "short": "ROOK",
     "url": "/currencies/keeperdao",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xfa50...7313d4a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "KekCoin": {
     "name": "KekCoin",
@@ -33068,7 +33079,9 @@
     "name": "Kira Network",
     "short": "KEX",
     "url": "/currencies/kira-network",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "KittenFinance": {
     "name": "KittenFinance",
