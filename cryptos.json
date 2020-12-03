@@ -6777,8 +6777,19 @@
     "name": "Base Protocol",
     "short": "BASE",
     "url": "/currencies/base-protocol",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x0715...6f25fdc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Based Money": {
     "name": "Based Money",
@@ -6840,7 +6851,18 @@
     "name": "Basis Cash",
     "short": "BAC",
     "url": "/currencies/basis-cash",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3449...903A69a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bast": {
     "name": "Bast",
@@ -7203,7 +7225,20 @@
     "name": "Benchmark Protocol",
     "short": "MARK",
     "url": "/currencies/benchmark-protocol",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x67c5...8284253"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
@@ -7832,7 +7867,18 @@
     "name": "Bird.Money",
     "short": "BIRD",
     "url": "/currencies/bird-money",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7040...9537ce0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Birdchain": {
     "name": "Birdchain",
