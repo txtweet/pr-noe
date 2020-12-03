@@ -12,16 +12,6 @@
       "value": 1
     },
     {
-      "name": "AAVEDOWN",
-      "url": "/currencies/aave-down",
-      "value": 1
-    },
-    {
-      "name": "AAVEUP",
-      "url": "/currencies/aave-up",
-      "value": 1
-    },
-    {
       "name": "AGOV (ANSWER Governance)",
       "url": "/currencies/agov-answer-governance",
       "value": 1
@@ -134,16 +124,6 @@
     {
       "name": "BAEPAY",
       "url": "/currencies/baepay",
-      "value": 1
-    },
-    {
-      "name": "BCHDOWN",
-      "url": "/currencies/bchdown",
-      "value": 1
-    },
-    {
-      "name": "BCHUP",
-      "url": "/currencies/bchup",
       "value": 1
     },
     {
@@ -737,16 +717,6 @@
       "value": 1
     },
     {
-      "name": "LTCDOWN",
-      "url": "/currencies/ltcdown",
-      "value": 1
-    },
-    {
-      "name": "LTCUP",
-      "url": "/currencies/ltcup",
-      "value": 1
-    },
-    {
       "name": "Lattice Token",
       "url": "/currencies/lattice-token",
       "value": 1
@@ -1074,16 +1044,6 @@
     {
       "name": "SURF Finance",
       "url": "/currencies/surf",
-      "value": 1
-    },
-    {
-      "name": "SXPDOWN",
-      "url": "/currencies/sxpdown",
-      "value": 1
-    },
-    {
-      "name": "SXPUP",
-      "url": "/currencies/sxpup",
       "value": 1
     },
     {
@@ -1560,16 +1520,6 @@
       "name": "Token",
       "children": [
         {
-          "name": "3X Long Sushi Token",
-          "url": "/currencies/3x-long-sushi-token",
-          "value": 1
-        },
-        {
-          "name": "3X Short Sushi Token",
-          "url": "/currencies/3x-short-sushi-token",
-          "value": 1
-        },
-        {
           "name": "AS Roma Fan Token",
           "url": "/currencies/as-roma-fan-token",
           "value": 1
@@ -1985,131 +1935,6 @@
             {
               "name": "2key.network",
               "url": "/currencies/2key-network",
-              "value": 1
-            },
-            {
-              "name": "3X Long Algorand Token",
-              "url": "/currencies/3x-long-algorand-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Altcoin Index Token",
-              "url": "/currencies/3x-long-altcoin-index-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long BNB Token",
-              "url": "/currencies/3x-long-bnb-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long BitMax Token Token",
-              "url": "/currencies/3x-long-bitmax-token-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Cardano Token",
-              "url": "/currencies/3x-long-cardano-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Chainlink Token",
-              "url": "/currencies/3x-long-chainlink-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Cosmos Token",
-              "url": "/currencies/3x-long-cosmos-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Dogecoin Token",
-              "url": "/currencies/3x-long-dogecoin-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Dragon Index Token",
-              "url": "/currencies/3x-long-dragon-index-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Ethereum Classic Token",
-              "url": "/currencies/3x-long-ethereum-classic-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Matic Token",
-              "url": "/currencies/3x-long-matic-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Midcap Index Token",
-              "url": "/currencies/3x-long-midcap-index-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long OKB Token",
-              "url": "/currencies/3x-long-okb-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Shitcoin Index Token",
-              "url": "/currencies/3x-long-shitcoin-index-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long TRX Token",
-              "url": "/currencies/3x-long-trx-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long TomoChain Token",
-              "url": "/currencies/3x-long-tomochain-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Algorand Token",
-              "url": "/currencies/3x-short-algorand-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short BNB Token",
-              "url": "/currencies/3x-short-bnb-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Cardano Token",
-              "url": "/currencies/3x-short-cardano-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Chainlink Token",
-              "url": "/currencies/3x-short-chainlink-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Cosmos Token",
-              "url": "/currencies/3x-short-cosmos-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Dogecoin Token",
-              "url": "/currencies/3x-short-dogecoin-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Matic Token",
-              "url": "/currencies/3x-short-matic-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short TRX Token",
-              "url": "/currencies/3x-short-trx-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short TomoChain Token",
-              "url": "/currencies/3x-short-tomochain-token",
               "value": 1
             },
             {
@@ -7581,26 +7406,6 @@
                   "value": 1
                 },
                 {
-                  "name": "3X Long Huobi Token Token",
-                  "url": "/currencies/3x-long-huobi-token-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Long Tether Gold Token",
-                  "url": "/currencies/3x-long-tether-gold-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Ethereum Classic Token",
-                  "url": "/currencies/3x-short-ethereum-classic-token",
-                  "value": 1
-                },
-                {
-                  "name": "3X Short Tether Gold Token",
-                  "url": "/currencies/3x-short-tether-gold-token",
-                  "value": 1
-                },
-                {
                   "name": "ABCC Token",
                   "url": "/currencies/abcc-token",
                   "value": 1
@@ -11171,6 +10976,31 @@
                   ]
                 },
                 {
+                  "name": "Ftx",
+                  "children": [
+                    {
+                      "name": "3X Long Huobi Token Token",
+                      "url": "/currencies/3x-long-huobi-token-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Long Tether Gold Token",
+                      "url": "/currencies/3x-long-tether-gold-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Short Ethereum Classic Token",
+                      "url": "/currencies/3x-short-ethereum-classic-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "3X Short Tether Gold Token",
+                      "url": "/currencies/3x-short-tether-gold-token",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
                   "name": "Sharing Economy",
                   "children": [
                     {
@@ -14638,6 +14468,136 @@
               ]
             },
             {
+              "name": "Ftx",
+              "children": [
+                {
+                  "name": "3X Long Algorand Token",
+                  "url": "/currencies/3x-long-algorand-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Altcoin Index Token",
+                  "url": "/currencies/3x-long-altcoin-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long BNB Token",
+                  "url": "/currencies/3x-long-bnb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long BitMax Token Token",
+                  "url": "/currencies/3x-long-bitmax-token-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Cardano Token",
+                  "url": "/currencies/3x-long-cardano-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Chainlink Token",
+                  "url": "/currencies/3x-long-chainlink-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Cosmos Token",
+                  "url": "/currencies/3x-long-cosmos-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Dogecoin Token",
+                  "url": "/currencies/3x-long-dogecoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Dragon Index Token",
+                  "url": "/currencies/3x-long-dragon-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Ethereum Classic Token",
+                  "url": "/currencies/3x-long-ethereum-classic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Matic Token",
+                  "url": "/currencies/3x-long-matic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Midcap Index Token",
+                  "url": "/currencies/3x-long-midcap-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long OKB Token",
+                  "url": "/currencies/3x-long-okb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Shitcoin Index Token",
+                  "url": "/currencies/3x-long-shitcoin-index-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long TRX Token",
+                  "url": "/currencies/3x-long-trx-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long TomoChain Token",
+                  "url": "/currencies/3x-long-tomochain-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Algorand Token",
+                  "url": "/currencies/3x-short-algorand-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short BNB Token",
+                  "url": "/currencies/3x-short-bnb-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Cardano Token",
+                  "url": "/currencies/3x-short-cardano-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Chainlink Token",
+                  "url": "/currencies/3x-short-chainlink-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Cosmos Token",
+                  "url": "/currencies/3x-short-cosmos-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Dogecoin Token",
+                  "url": "/currencies/3x-short-dogecoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Matic Token",
+                  "url": "/currencies/3x-short-matic-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short TRX Token",
+                  "url": "/currencies/3x-short-trx-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short TomoChain Token",
+                  "url": "/currencies/3x-short-tomochain-token",
+                  "value": 1
+                }
+              ]
+            },
+            {
               "name": "Payments",
               "children": [
                 {
@@ -16210,6 +16170,550 @@
           ]
         },
         {
+          "name": "Binance Coin",
+          "children": [
+            {
+              "name": "3x Long EOS Token",
+              "url": "/currencies/3x-long-eos-token",
+              "value": 1
+            },
+            {
+              "name": "3x Long XRP Token",
+              "url": "/currencies/3x-long-xrp-token",
+              "value": 1
+            },
+            {
+              "name": "3x Short EOS Token",
+              "url": "/currencies/3x-short-eos-token",
+              "value": 1
+            },
+            {
+              "name": "3x Short XRP Token",
+              "url": "/currencies/3x-short-xrp-token",
+              "value": 1
+            },
+            {
+              "name": "AAVEDOWN",
+              "url": "/currencies/aave-down",
+              "value": 1
+            },
+            {
+              "name": "AAVEUP",
+              "url": "/currencies/aave-up",
+              "value": 1
+            },
+            {
+              "name": "ADADOWN",
+              "url": "/currencies/adadown",
+              "value": 1
+            },
+            {
+              "name": "ADAUP",
+              "url": "/currencies/adaup",
+              "value": 1
+            },
+            {
+              "name": "BCHDOWN",
+              "url": "/currencies/bchdown",
+              "value": 1
+            },
+            {
+              "name": "BCHUP",
+              "url": "/currencies/bchup",
+              "value": 1
+            },
+            {
+              "name": "BIDR",
+              "url": "/currencies/binance-idr",
+              "value": 1
+            },
+            {
+              "name": "BNBDOWN",
+              "url": "/currencies/bnbdown",
+              "value": 1
+            },
+            {
+              "name": "BNBUP",
+              "url": "/currencies/bnbup",
+              "value": 1
+            },
+            {
+              "name": "BTCDOWN",
+              "url": "/currencies/btcdown",
+              "value": 1
+            },
+            {
+              "name": "BTCUP",
+              "url": "/currencies/btcup",
+              "value": 1
+            },
+            {
+              "name": "BakeryToken",
+              "url": "/currencies/bakerytoken",
+              "value": 1
+            },
+            {
+              "name": "Bitcoin BEP2",
+              "url": "/currencies/bitcoin-bep2",
+              "value": 1
+            },
+            {
+              "name": "Burger Swap",
+              "url": "/currencies/burger-swap",
+              "value": 1
+            },
+            {
+              "name": "Cubiex",
+              "url": "/currencies/cubiex",
+              "value": 1
+            },
+            {
+              "name": "DOTDOWN",
+              "url": "/currencies/dotdown",
+              "value": 1
+            },
+            {
+              "name": "DOTUP",
+              "url": "/currencies/dotup",
+              "value": 1
+            },
+            {
+              "name": "EOSDOWN",
+              "url": "/currencies/eosdown",
+              "value": 1
+            },
+            {
+              "name": "ETHDOWN",
+              "url": "/currencies/ethdown",
+              "value": 1
+            },
+            {
+              "name": "ETHUP",
+              "url": "/currencies/ethup",
+              "value": 1
+            },
+            {
+              "name": "Equal",
+              "url": "/currencies/equal",
+              "value": 1
+            },
+            {
+              "name": "Honest",
+              "url": "/currencies/honest",
+              "value": 1
+            },
+            {
+              "name": "LINKDOWN",
+              "url": "/currencies/linkdown",
+              "value": 1
+            },
+            {
+              "name": "LINKUP",
+              "url": "/currencies/linkup",
+              "value": 1
+            },
+            {
+              "name": "LTCDOWN",
+              "url": "/currencies/ltcdown",
+              "value": 1
+            },
+            {
+              "name": "LTCUP",
+              "url": "/currencies/ltcup",
+              "value": 1
+            },
+            {
+              "name": "LYFE",
+              "url": "/currencies/lyfe",
+              "value": 1
+            },
+            {
+              "name": "MyWish",
+              "url": "/currencies/mywish",
+              "value": 1
+            },
+            {
+              "name": "Ormeus Ecosystem",
+              "url": "/currencies/ormeus-ecosystem",
+              "value": 1
+            },
+            {
+              "name": "PAYCENT",
+              "url": "/currencies/paycent",
+              "value": 1
+            },
+            {
+              "name": "Pivot Token",
+              "url": "/currencies/pivot-token",
+              "value": 1
+            },
+            {
+              "name": "Pundi X NEM",
+              "url": "/currencies/pundi-x-nem",
+              "value": 1
+            },
+            {
+              "name": "Raven Protocol",
+              "url": "/currencies/raven-protocol",
+              "value": 1
+            },
+            {
+              "name": "SXPDOWN",
+              "url": "/currencies/sxpdown",
+              "value": 1
+            },
+            {
+              "name": "SXPUP",
+              "url": "/currencies/sxpup",
+              "value": 1
+            },
+            {
+              "name": "ShareToken",
+              "url": "/currencies/sharetoken",
+              "value": 1
+            },
+            {
+              "name": "Spartan Protocol",
+              "url": "/currencies/spartan-protocol",
+              "value": 1
+            },
+            {
+              "name": "TROY",
+              "url": "/currencies/troy",
+              "value": 1
+            },
+            {
+              "name": "TRXDOWN",
+              "url": "/currencies/trxdown",
+              "value": 1
+            },
+            {
+              "name": "TRXUP",
+              "url": "/currencies/trxup",
+              "value": 1
+            },
+            {
+              "name": "Trust Wallet Token",
+              "url": "/currencies/trust-wallet-token",
+              "value": 1
+            },
+            {
+              "name": "WazirX",
+              "url": "/currencies/wazirx",
+              "value": 1
+            },
+            {
+              "name": "XRPDOWN",
+              "url": "/currencies/xrpdown",
+              "value": 1
+            },
+            {
+              "name": "XRPUP",
+              "url": "/currencies/xrpup",
+              "value": 1
+            },
+            {
+              "name": "XTZDOWN",
+              "url": "/currencies/xtzdown",
+              "value": 1
+            },
+            {
+              "name": "XTZUP",
+              "url": "/currencies/xtzup",
+              "value": 1
+            },
+            {
+              "name": "YFIDOWN",
+              "url": "/currencies/yfidown",
+              "value": 1
+            },
+            {
+              "name": "YFIUP",
+              "url": "/currencies/yfiup",
+              "value": 1
+            },
+            {
+              "name": "Dead",
+              "children": [
+                {
+                  "name": "Beefy.Finance",
+                  "url": "/currencies/beefy-finance",
+                  "value": 1
+                },
+                {
+                  "name": "BillionHappiness",
+                  "url": "/currencies/billionhappiness",
+                  "value": 1
+                },
+                {
+                  "name": "EOSUP",
+                  "url": "/currencies/eosdown",
+                  "value": 1
+                },
+                {
+                  "name": "GIVLY Coin",
+                  "url": "/currencies/givly-coin",
+                  "value": 1
+                },
+                {
+                  "name": "Thugs Finance",
+                  "value": 1
+                },
+                {
+                  "name": "Payments",
+                  "children": [
+                    {
+                      "name": "Earneo",
+                      "url": "/currencies/earneo",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ftx",
+              "children": [
+                {
+                  "name": "3X Long Bitcoin Token",
+                  "url": "/currencies/3x-long-bitcoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Long Ethereum Token",
+                  "url": "/currencies/3x-long-ethereum-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Bitcoin Token",
+                  "url": "/currencies/3x-short-bitcoin-token",
+                  "value": 1
+                },
+                {
+                  "name": "3X Short Ethereum Token",
+                  "url": "/currencies/3x-short-ethereum-token",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "DeFi",
+              "children": [
+                {
+                  "name": "Alpha Finance Lab",
+                  "url": "/currencies/alpha-finance-lab",
+                  "value": 1
+                },
+                {
+                  "name": "Kava.io",
+                  "url": "/currencies/kava",
+                  "value": 1
+                },
+                {
+                  "name": "THORChain",
+                  "url": "/currencies/thorchain",
+                  "value": 1
+                },
+                {
+                  "name": "Payments",
+                  "children": [
+                    {
+                      "name": "Privacy",
+                      "children": [
+                        {
+                          "name": "Medium of Exchange",
+                          "children": [
+                            {
+                              "name": "Platform",
+                              "children": [
+                                {
+                                  "name": "DAG",
+                                  "children": [
+                                    {
+                                      "name": "Tixl",
+                                      "url": "/currencies/tixl",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Content Creation",
+              "children": [
+                {
+                  "name": "Sports",
+                  "children": [
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "Chiliz",
+                          "url": "/currencies/chiliz",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Media",
+                  "children": [
+                    {
+                      "name": "Video",
+                      "children": [
+                        {
+                          "name": "MovieBloc",
+                          "url": "/currencies/moviebloc",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Platform",
+              "children": [
+                {
+                  "name": "AI & Big Data",
+                  "children": [
+                    {
+                      "name": "Distributed Computing",
+                      "children": [
+                        {
+                          "name": "Filesharing",
+                          "children": [
+                            {
+                              "name": "Lambda",
+                              "url": "/currencies/lambda",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "DApp",
+                  "children": [
+                    {
+                      "name": "MEET.ONE",
+                      "url": "/currencies/meetone",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mineable",
+              "children": [
+                {
+                  "name": "Mcashchain",
+                  "url": "/currencies/mcashchain",
+                  "value": 1
+                },
+                {
+                  "name": "Marketplace",
+                  "children": [
+                    {
+                      "name": "Enterprise solutions",
+                      "children": [
+                        {
+                          "name": "Newton",
+                          "url": "/currencies/newton",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Marketing",
+              "children": [
+                {
+                  "name": "Atlas Protocol",
+                  "url": "/currencies/atlas-protocol",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Stablecoin",
+              "children": [
+                {
+                  "name": "Stablecoin - Asset-Backed",
+                  "children": [
+                    {
+                      "name": "Binance KRW",
+                      "url": "/currencies/binance-krw",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Media",
+              "children": [
+                {
+                  "name": "Contentos",
+                  "url": "/currencies/contentos",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Transport",
+              "children": [
+                {
+                  "name": "Loyalty",
+                  "children": [
+                    {
+                      "name": "CryptoBonusMiles",
+                      "url": "/currencies/cryptobonusmiles",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Yield farming",
+              "children": [
+                {
+                  "name": "PancakeSwap",
+                  "url": "/currencies/pancakeswap",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Hospitality",
+              "children": [
+                {
+                  "name": "Travala.com",
+                  "url": "/currencies/travala",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Dead",
           "children": [
             {
@@ -16483,45 +16987,6 @@
               ]
             },
             {
-              "name": "Binance Coin",
-              "children": [
-                {
-                  "name": "Beefy.Finance",
-                  "url": "/currencies/beefy-finance",
-                  "value": 1
-                },
-                {
-                  "name": "BillionHappiness",
-                  "url": "/currencies/billionhappiness",
-                  "value": 1
-                },
-                {
-                  "name": "EOSUP",
-                  "url": "/currencies/eosdown",
-                  "value": 1
-                },
-                {
-                  "name": "GIVLY Coin",
-                  "url": "/currencies/givly-coin",
-                  "value": 1
-                },
-                {
-                  "name": "Thugs Finance",
-                  "value": 1
-                },
-                {
-                  "name": "Payments",
-                  "children": [
-                    {
-                      "name": "Earneo",
-                      "url": "/currencies/earneo",
-                      "value": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Neo",
               "children": [
                 {
@@ -16717,466 +17182,6 @@
                 {
                   "name": "SCC DIGforIT",
                   "url": "/currencies/scc-digforit",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Binance Coin",
-          "children": [
-            {
-              "name": "3X Long Bitcoin Token",
-              "url": "/currencies/3x-long-bitcoin-token",
-              "value": 1
-            },
-            {
-              "name": "3X Long Ethereum Token",
-              "url": "/currencies/3x-long-ethereum-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Bitcoin Token",
-              "url": "/currencies/3x-short-bitcoin-token",
-              "value": 1
-            },
-            {
-              "name": "3X Short Ethereum Token",
-              "url": "/currencies/3x-short-ethereum-token",
-              "value": 1
-            },
-            {
-              "name": "3x Long EOS Token",
-              "url": "/currencies/3x-long-eos-token",
-              "value": 1
-            },
-            {
-              "name": "3x Long XRP Token",
-              "url": "/currencies/3x-long-xrp-token",
-              "value": 1
-            },
-            {
-              "name": "3x Short EOS Token",
-              "url": "/currencies/3x-short-eos-token",
-              "value": 1
-            },
-            {
-              "name": "3x Short XRP Token",
-              "url": "/currencies/3x-short-xrp-token",
-              "value": 1
-            },
-            {
-              "name": "ADADOWN",
-              "url": "/currencies/adadown",
-              "value": 1
-            },
-            {
-              "name": "ADAUP",
-              "url": "/currencies/adaup",
-              "value": 1
-            },
-            {
-              "name": "BIDR",
-              "url": "/currencies/binance-idr",
-              "value": 1
-            },
-            {
-              "name": "BNBDOWN",
-              "url": "/currencies/bnbdown",
-              "value": 1
-            },
-            {
-              "name": "BNBUP",
-              "url": "/currencies/bnbup",
-              "value": 1
-            },
-            {
-              "name": "BTCDOWN",
-              "url": "/currencies/btcdown",
-              "value": 1
-            },
-            {
-              "name": "BTCUP",
-              "url": "/currencies/btcup",
-              "value": 1
-            },
-            {
-              "name": "BakeryToken",
-              "url": "/currencies/bakerytoken",
-              "value": 1
-            },
-            {
-              "name": "Bitcoin BEP2",
-              "url": "/currencies/bitcoin-bep2",
-              "value": 1
-            },
-            {
-              "name": "Burger Swap",
-              "url": "/currencies/burger-swap",
-              "value": 1
-            },
-            {
-              "name": "Cubiex",
-              "url": "/currencies/cubiex",
-              "value": 1
-            },
-            {
-              "name": "DOTDOWN",
-              "url": "/currencies/dotdown",
-              "value": 1
-            },
-            {
-              "name": "DOTUP",
-              "url": "/currencies/dotup",
-              "value": 1
-            },
-            {
-              "name": "EOSDOWN",
-              "url": "/currencies/eosdown",
-              "value": 1
-            },
-            {
-              "name": "ETHDOWN",
-              "url": "/currencies/ethdown",
-              "value": 1
-            },
-            {
-              "name": "ETHUP",
-              "url": "/currencies/ethup",
-              "value": 1
-            },
-            {
-              "name": "Equal",
-              "url": "/currencies/equal",
-              "value": 1
-            },
-            {
-              "name": "Honest",
-              "url": "/currencies/honest",
-              "value": 1
-            },
-            {
-              "name": "LINKDOWN",
-              "url": "/currencies/linkdown",
-              "value": 1
-            },
-            {
-              "name": "LINKUP",
-              "url": "/currencies/linkup",
-              "value": 1
-            },
-            {
-              "name": "LYFE",
-              "url": "/currencies/lyfe",
-              "value": 1
-            },
-            {
-              "name": "MyWish",
-              "url": "/currencies/mywish",
-              "value": 1
-            },
-            {
-              "name": "Ormeus Ecosystem",
-              "url": "/currencies/ormeus-ecosystem",
-              "value": 1
-            },
-            {
-              "name": "PAYCENT",
-              "url": "/currencies/paycent",
-              "value": 1
-            },
-            {
-              "name": "Pivot Token",
-              "url": "/currencies/pivot-token",
-              "value": 1
-            },
-            {
-              "name": "Pundi X NEM",
-              "url": "/currencies/pundi-x-nem",
-              "value": 1
-            },
-            {
-              "name": "Raven Protocol",
-              "url": "/currencies/raven-protocol",
-              "value": 1
-            },
-            {
-              "name": "ShareToken",
-              "url": "/currencies/sharetoken",
-              "value": 1
-            },
-            {
-              "name": "Spartan Protocol",
-              "url": "/currencies/spartan-protocol",
-              "value": 1
-            },
-            {
-              "name": "TROY",
-              "url": "/currencies/troy",
-              "value": 1
-            },
-            {
-              "name": "TRXDOWN",
-              "url": "/currencies/trxdown",
-              "value": 1
-            },
-            {
-              "name": "TRXUP",
-              "url": "/currencies/trxup",
-              "value": 1
-            },
-            {
-              "name": "Trust Wallet Token",
-              "url": "/currencies/trust-wallet-token",
-              "value": 1
-            },
-            {
-              "name": "WazirX",
-              "url": "/currencies/wazirx",
-              "value": 1
-            },
-            {
-              "name": "XRPDOWN",
-              "url": "/currencies/xrpdown",
-              "value": 1
-            },
-            {
-              "name": "XRPUP",
-              "url": "/currencies/xrpup",
-              "value": 1
-            },
-            {
-              "name": "XTZDOWN",
-              "url": "/currencies/xtzdown",
-              "value": 1
-            },
-            {
-              "name": "XTZUP",
-              "url": "/currencies/xtzup",
-              "value": 1
-            },
-            {
-              "name": "YFIDOWN",
-              "url": "/currencies/yfidown",
-              "value": 1
-            },
-            {
-              "name": "YFIUP",
-              "url": "/currencies/yfiup",
-              "value": 1
-            },
-            {
-              "name": "DeFi",
-              "children": [
-                {
-                  "name": "Alpha Finance Lab",
-                  "url": "/currencies/alpha-finance-lab",
-                  "value": 1
-                },
-                {
-                  "name": "Kava.io",
-                  "url": "/currencies/kava",
-                  "value": 1
-                },
-                {
-                  "name": "THORChain",
-                  "url": "/currencies/thorchain",
-                  "value": 1
-                },
-                {
-                  "name": "Payments",
-                  "children": [
-                    {
-                      "name": "Privacy",
-                      "children": [
-                        {
-                          "name": "Medium of Exchange",
-                          "children": [
-                            {
-                              "name": "Platform",
-                              "children": [
-                                {
-                                  "name": "DAG",
-                                  "children": [
-                                    {
-                                      "name": "Tixl",
-                                      "url": "/currencies/tixl",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Content Creation",
-              "children": [
-                {
-                  "name": "Sports",
-                  "children": [
-                    {
-                      "name": "Payments",
-                      "children": [
-                        {
-                          "name": "Chiliz",
-                          "url": "/currencies/chiliz",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Media",
-                  "children": [
-                    {
-                      "name": "Video",
-                      "children": [
-                        {
-                          "name": "MovieBloc",
-                          "url": "/currencies/moviebloc",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Platform",
-              "children": [
-                {
-                  "name": "AI & Big Data",
-                  "children": [
-                    {
-                      "name": "Distributed Computing",
-                      "children": [
-                        {
-                          "name": "Filesharing",
-                          "children": [
-                            {
-                              "name": "Lambda",
-                              "url": "/currencies/lambda",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "DApp",
-                  "children": [
-                    {
-                      "name": "MEET.ONE",
-                      "url": "/currencies/meetone",
-                      "value": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Mineable",
-              "children": [
-                {
-                  "name": "Mcashchain",
-                  "url": "/currencies/mcashchain",
-                  "value": 1
-                },
-                {
-                  "name": "Marketplace",
-                  "children": [
-                    {
-                      "name": "Enterprise solutions",
-                      "children": [
-                        {
-                          "name": "Newton",
-                          "url": "/currencies/newton",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Marketing",
-              "children": [
-                {
-                  "name": "Atlas Protocol",
-                  "url": "/currencies/atlas-protocol",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "name": "Stablecoin",
-              "children": [
-                {
-                  "name": "Stablecoin - Asset-Backed",
-                  "children": [
-                    {
-                      "name": "Binance KRW",
-                      "url": "/currencies/binance-krw",
-                      "value": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Media",
-              "children": [
-                {
-                  "name": "Contentos",
-                  "url": "/currencies/contentos",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "name": "Transport",
-              "children": [
-                {
-                  "name": "Loyalty",
-                  "children": [
-                    {
-                      "name": "CryptoBonusMiles",
-                      "url": "/currencies/cryptobonusmiles",
-                      "value": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Yield farming",
-              "children": [
-                {
-                  "name": "PancakeSwap",
-                  "url": "/currencies/pancakeswap",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "name": "Hospitality",
-              "children": [
-                {
-                  "name": "Travala.com",
-                  "url": "/currencies/travala",
                   "value": 1
                 }
               ]
@@ -18250,6 +18255,21 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Ftx",
+          "children": [
+            {
+              "name": "3X Long Sushi Token",
+              "url": "/currencies/3x-long-sushi-token",
+              "value": 1
+            },
+            {
+              "name": "3X Short Sushi Token",
+              "url": "/currencies/3x-short-sushi-token",
+              "value": 1
             }
           ]
         },

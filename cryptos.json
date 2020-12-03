@@ -2055,6 +2055,7 @@
     "short": "ASR",
     "url": "/currencies/as-roma-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -4642,6 +4643,7 @@
     "short": "ATM",
     "url": "/currencies/atletico-de-madrid-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -23064,6 +23066,7 @@
     "short": "BAR",
     "url": "/currencies/fc-barcelona-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -25290,6 +25293,7 @@
     "short": "GAL",
     "url": "/currencies/galatasaray-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -30929,6 +30933,7 @@
     "short": "JUV",
     "url": "/currencies/juventus-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -36309,7 +36314,8 @@
     "short": "MLK",
     "url": "/currencies/milk-alliance",
     "tags": [
-      "Token"
+      "Token",
+      "Binance Coin"
     ]
   },
   "MicroBitcoin": {
@@ -39534,6 +39540,7 @@
     "short": "OG",
     "url": "/currencies/og-fan-token",
     "tags": [
+      "Socios.com",
       "Token"
     ],
     "forked_data": {
@@ -41711,6 +41718,7 @@
     "short": "PSG",
     "url": "/currencies/paris-saint-germain-fan-token",
     "tags": [
+      "Socios.com"
       "Token"
     ],
     "forked_data": {
@@ -52355,7 +52363,10 @@
     "name": "Team Heretics Fan Token",
     "short": "TH",
     "url": "/currencies/team-heretics-fan-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Socios.com"
+    ]
   },
   "TecraCoin": {
     "name": "TecraCoin",
@@ -53912,7 +53923,10 @@
     "name": "Trabzonspor Fan Token",
     "short": "TRA",
     "url": "/currencies/trabzonspor-fan-token",
-    "tags": []
+    "tags": [
+      "Socios.com",
+      "Token"
+    ]
   },
   "Traceability Chain": {
     "name": "Traceability Chain",
@@ -54977,7 +54991,10 @@
     "name": "UNIDOWN",
     "short": "UNIDOWN",
     "url": "/currencies/unidown",
-    "tags": []
+    "tags": [
+      "Binance Coin",
+      "Token"
+    ]
   },
   "UNIFI DeFi": {
     "name": "UNIFI DeFi",
@@ -55017,7 +55034,10 @@
     "name": "UNIUP",
     "short": "UNIUP",
     "url": "/currencies/uniup",
-    "tags": []
+    "tags": [
+      "Binance Coin",
+      "Token"
+    ]
   },
   "UNIVERSAL CASH": {
     "name": "UNIVERSAL CASH",
