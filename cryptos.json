@@ -41064,7 +41064,18 @@
     "name": "Nyan V2",
     "short": "NYAN-2",
     "url": "/currencies/nyan-v2",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xbf4a...de51f14"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Nyerium": {
     "name": "Nyerium",
@@ -41090,7 +41101,9 @@
     "name": "OASISBloc",
     "short": "OSB",
     "url": "/currencies/oasisbloc",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "OAX": {
     "name": "OAX",
@@ -41308,7 +41321,18 @@
     "name": "OLPORTAL",
     "short": "OLCF",
     "url": "/currencies/olportal",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xeeaa...65b1fa5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OLXA": {
     "name": "OLXA",
@@ -41411,7 +41435,19 @@
     "name": "ORO",
     "short": "ORO",
     "url": "/currencies/oro",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc3Eb...b64B466"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ORS Group": {
     "name": "ORS Group",
@@ -41451,7 +41487,19 @@
     "name": "OST",
     "short": "OST",
     "url": "/currencies/ost",
-    "tags": []
+    "tags": [
+      "Token",
+      "Services",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2c4e...8e0aeca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "OTCBTC Token": {
     "name": "OTCBTC Token",
@@ -41570,7 +41618,9 @@
     "name": "Oasis Network",
     "short": "ROSE",
     "url": "/currencies/oasis-network",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Oath Protocol": {
     "name": "Oath Protocol",
@@ -42187,7 +42237,18 @@
     "name": "OpenDAO",
     "short": "OPEN",
     "url": "/currencies/opendao",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x69e8...463a916"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Opennity": {
     "name": "Opennity",
@@ -42293,7 +42354,18 @@
     "name": "Oraichain Token",
     "short": "ORAI",
     "url": "/currencies/oraichain-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4c11...328c1b5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Orbicular": {
     "name": "Orbicular",
@@ -42388,7 +42460,19 @@
     "name": "Order of the Black Rose",
     "short": "OBR",
     "url": "/currencies/order-of-the-black-rose",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x5956...fa31570"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Orient Walt": {
     "name": "Orient Walt",
@@ -42842,7 +42926,19 @@
     "name": "PEAKDEFI",
     "short": "PEAK",
     "url": "/currencies/peakdefi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x630d...feaad78"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PENG": {
     "name": "PENG",
@@ -43204,7 +43300,9 @@
     "name": "PUML Better Health",
     "short": "PUML",
     "url": "/currencies/puml-better-health",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "PWR Coin": {
     "name": "PWR Coin",
@@ -43586,7 +43684,18 @@
     "name": "PayAccept",
     "short": "PAYT",
     "url": "/currencies/payaccept",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8EF4...7d2e2E2"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PayCoin": {
     "name": "PayCoin",
@@ -43757,7 +43866,18 @@
     "name": "Paypolitan Token",
     "short": "EPAN",
     "url": "/currencies/paypolitan-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x7263...e47bafc"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Payship": {
     "name": "Payship",
