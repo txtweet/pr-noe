@@ -1,19 +1,25 @@
+fileDate = "01122020"
+
 _ = require 'lodash'
-cryptos = require '../cryptos.json'
-fresh = require '../cryptos-fresh2'
+cryptos = require '../cryptos'
+fresh = require "../cryptos-#{fileDate}"
 
 _.forEach fresh.data, (crypto) ->
   unless cryptos[crypto.name]?
-    # console.error "Inconnue #{JSON.stringify crypto, null, 2}"
+    console.error "New #{JSON.stringify crypto.name, null, 2}"
     cryptos[crypto.name] =
       "name": crypto.name
       "short": crypto.symbol
       "url": "/currencies/#{crypto.slug}"
-      "tags": ["New","30112020"]
+      "tags": ["New"].concat(crypto.tags)
+      "sawBirth": fileDate
+      "deaths": []
 
   if crypto.quote.USD.volume_24h is 0
-    cryptos[crypto.name].tags.push("Dead")
-    cryptos[crypto.name].tags.push("30112020")
+    console.error "Dead #{JSON.stringify cryptos[crypto.name].name, null, 2}"
+    cryptos[crypto.name].deaths = [fileDate]
+    if "Dead" not in cryptos[crypto.name].tags
+      cryptos[crypto.name].tags.push("Dead")
 
 
 ordered = {}
