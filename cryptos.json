@@ -8023,7 +8023,9 @@
     "name": "BitCanna",
     "short": "BCNA",
     "url": "/currencies/bitcanna",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "BitCapitalVendor": {
     "name": "BitCapitalVendor",
@@ -8143,7 +8145,19 @@
     "name": "BitDEFi",
     "short": "BFI",
     "url": "/currencies/bitdefi",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x2b2b...0f7E652"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitDegree": {
     "name": "BitDegree",
@@ -8338,7 +8352,19 @@
     "name": "BitOnyx",
     "short": "BTNYX",
     "url": "/currencies/bitonyx",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8fb6...4cdc865"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitRent": {
     "name": "BitRent",
@@ -8822,7 +8848,9 @@
     "name": "Bitcoin Cash ABC",
     "short": "BCHA",
     "url": "/currencies/bitcoin-cash-abc-2",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Bitcoin Classic": {
     "name": "Bitcoin Classic",
@@ -9227,7 +9255,19 @@
     "name": "Bitcoiva",
     "short": "BCA",
     "url": "/currencies/bitcoiva",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xC222...834916C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitcore": {
     "name": "Bitcore",
@@ -9374,7 +9414,18 @@
     "name": "Bithao",
     "short": "BHAO",
     "url": "/currencies/bithao",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6d7c...d8EE64C"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BitherCash": {
     "name": "BitherCash",
