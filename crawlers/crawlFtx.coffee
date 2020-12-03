@@ -9,8 +9,9 @@ crypto = _.find cryptos, (crypt) ->
   crypt.name.startsWith("3X ") and not ("Ftx" in crypt.tags)
 
 unless crypto?
-  process.exit(1)
   console.log JSON.stringify cryptos, null, 2
+  process.exit(1)
+
 
 request
   url : 'https://coinmarketcap.com'+crypto.url
@@ -23,6 +24,8 @@ request
         crypto.tags.push("Ftx")
       else
         console.warn "Raté #{crypto.url}"
+        console.log JSON.stringify cryptos, null, 2
+        process.exit(1)
 
 .then () ->
   console.warn "Token #{JSON.stringify crypto, null, 2}"

@@ -590,7 +590,8 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -611,7 +612,8 @@
     "url": "/currencies/3x-long-matic-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -628,7 +630,8 @@
     "url": "/currencies/3x-long-midcap-index-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -645,7 +648,8 @@
     "url": "/currencies/3x-long-okb-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -662,7 +666,8 @@
     "url": "/currencies/3x-long-shitcoin-index-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -678,7 +683,8 @@
     "short": "SUSHIBULL",
     "url": "/currencies/3x-long-sushi-token",
     "tags": [
-      "Token"
+      "Token",
+      "Ftx"
     ],
     "forked_data": {
       "block": [],
@@ -691,7 +697,8 @@
     "url": "/currencies/3x-long-trx-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -709,7 +716,8 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -729,7 +737,8 @@
     "url": "/currencies/3x-long-tomochain-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -746,7 +755,8 @@
     "url": "/currencies/3x-short-algorand-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -763,7 +773,8 @@
     "url": "/currencies/3x-short-bnb-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -780,7 +791,8 @@
     "url": "/currencies/3x-short-bitcoin-token",
     "tags": [
       "Token",
-      "Binance Coin"
+      "Binance Coin",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -797,7 +809,8 @@
     "url": "/currencies/3x-short-cardano-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
@@ -814,7 +827,8 @@
     "url": "/currencies/3x-short-chainlink-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ftx"
     ],
     "forked_data": {
       "block": [
