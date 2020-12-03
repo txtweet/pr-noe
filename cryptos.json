@@ -66518,7 +66518,18 @@
     "name": "stakedFIRO",
     "short": "stFIRO",
     "url": "/currencies/stakedfiro",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x160b...1ceed7e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "suterusu": {
     "name": "suterusu",
