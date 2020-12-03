@@ -40147,7 +40147,9 @@
     "name": "NestEGG Coin",
     "short": "EGG",
     "url": "/currencies/nestegg-coin",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "Nestree": {
     "name": "Nestree",
@@ -40216,8 +40218,19 @@
     "name": "Netkoin",
     "short": "NTK",
     "url": "/currencies/netkoin",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x5d4d...f05073c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Netrum": {
     "name": "Netrum",
