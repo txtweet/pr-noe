@@ -35617,7 +35617,19 @@
     "name": "Lumos",
     "short": "LMS",
     "url": "/currencies/lumos",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x0344...05BA559"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Luna Coin": {
     "name": "Luna Coin",
@@ -35754,7 +35766,9 @@
     "name": "Lyra",
     "short": "LYR",
     "url": "/currencies/lyra",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "MACH Project": {
     "name": "MACH Project",
@@ -36473,7 +36487,9 @@
     "name": "MYCE",
     "short": "YCE",
     "url": "/currencies/myce",
-    "tags": []
+    "tags": [
+      "Coin"
+    ]
   },
   "MYX Network": {
     "name": "MYX Network",
@@ -36884,8 +36900,19 @@
     "name": "Mars Network",
     "short": "MARS",
     "url": "/currencies/mars-network",
-    "tags": [],
-    "sawBirth": "03122020"
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0xedd8...e5e29f0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Marshal Lion Group Coin": {
     "name": "Marshal Lion Group Coin",
@@ -37170,7 +37197,18 @@
     "name": "McNetworkDefi",
     "short": "MCN",
     "url": "/currencies/mcnetwork",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc047...b88176d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Mcashchain": {
     "name": "Mcashchain",
@@ -37338,7 +37376,19 @@
     "name": "Medicalveda",
     "short": "MVEDA",
     "url": "/currencies/medicalveda",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xCBe7...b54482d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Medium": {
     "name": "Medium",
