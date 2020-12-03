@@ -52462,7 +52462,18 @@
     "name": "StarDEX",
     "short": "XSTAR",
     "url": "/currencies/stardex",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc0e4...a98622f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Starbase": {
     "name": "Starbase",
@@ -52879,7 +52890,18 @@
     "name": "Streamix",
     "short": "MIXS",
     "url": "/currencies/streamix",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xB0BF...b9a76e1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Streamr": {
     "name": "Streamr",
@@ -52943,7 +52965,9 @@
     "name": "Stronghold Token",
     "short": "SHX",
     "url": "/currencies/stronghold-token",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "Student Coin": {
     "name": "Student Coin",
@@ -53563,7 +53587,18 @@
     "name": "SynLev",
     "short": "SYN",
     "url": "/currencies/synlev",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1695...7c08bd9"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SyncFab": {
     "name": "SyncFab",
@@ -53620,7 +53655,24 @@
     "name": "Synthetix",
     "short": "SNX",
     "url": "/currencies/synthetix-network-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Services",
+      "DeFi",
+      "Yield farming",
+      "Ethereum",
+      "Binance Coin"
+    ],
+    "forked_data": {
+      "block": [
+        "0xc011...0af2a6f",
+        "0x9ac9...32e8404"
+      ],
+      "forked_from": [
+        "Ethereum Contract",
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Synthetix Network Token": {
     "name": "Synthetix Network Token",
@@ -53770,7 +53822,18 @@
     "name": "TEAL",
     "short": "TEAT",
     "url": "/currencies/teal",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x38d5...fd8093b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TEAM (TokenStars)": {
     "name": "TEAM (TokenStars)",
@@ -54024,13 +54087,26 @@
     "name": "TON Crystal",
     "short": "TON",
     "url": "/currencies/ton-crystal",
-    "tags": []
+    "tags": [
+      "Token"
+    ]
   },
   "TON Token": {
     "name": "TON Token",
     "short": "TON",
     "url": "/currencies/tontoken",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6a6c...b8c520a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TONToken": {
     "name": "TONToken",
@@ -54109,7 +54185,11 @@
     "name": "TRON",
     "short": "TRX",
     "url": "/currencies/tron",
-    "tags": []
+    "tags": [
+      "Coin",
+      "Media",
+      "Payments"
+    ]
   },
   "TRONCLASSIC": {
     "name": "TRONCLASSIC",
@@ -54442,7 +54522,19 @@
     "name": "Tatcoin",
     "short": "TAT",
     "url": "/currencies/tatcoin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x37Ee...D5ae481"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tavittcoin": {
     "name": "Tavittcoin",
