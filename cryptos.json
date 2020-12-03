@@ -9528,7 +9528,18 @@
     "name": "Bitpumps Token",
     "short": "BPT",
     "url": "/currencies/bitpumps-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa44d...fb300ca"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bitradio": {
     "name": "Bitradio",
@@ -9774,7 +9785,19 @@
     "name": "BlackDragon",
     "short": "BDT",
     "url": "/currencies/blackdragon",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x4Efe...485d5Cf"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BlackPearl Token": {
     "name": "BlackPearl Token",
@@ -10464,7 +10487,18 @@
     "name": "Blueshare Token",
     "short": "BST1",
     "url": "/currencies/blueshare-token",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3364...328aaf4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Blur": {
     "name": "Blur",
@@ -10580,7 +10614,18 @@
     "name": "Boltt Coin ",
     "short": "BOLTT",
     "url": "/currencies/boltt-coin",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x6884...55ef958"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "BonFi": {
     "name": "BonFi",
