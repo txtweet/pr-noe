@@ -24329,11 +24329,7 @@
     "url": "/currencies/fred-energy",
     "tags": [
       "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "FREE Coin": {
     "name": "FREE Coin",
@@ -26657,11 +26653,7 @@
     "url": "/currencies/gatherer",
     "tags": [
       "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "GazeCoin": {
     "name": "GazeCoin",
@@ -27436,11 +27428,7 @@
       "SHA-256",
       "Australia",
       "Asset Backed Coin"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "Gold Poker": {
     "name": "Gold Poker",
@@ -28022,11 +28010,7 @@
     "url": "/currencies/hard-protocol",
     "tags": [
       "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "HBTC Captain Token": {
     "name": "HBTC Captain Token",
@@ -31772,7 +31756,8 @@
     "short": "JSB",
     "url": "/currencies/jsb-foundation",
     "tags": [
-      "Token"
+      "Token",
+      "Tron"
     ],
     "forked_data": {
       "block": [
@@ -32159,7 +32144,8 @@
     "short": "JNTR",
     "url": "/currencies/jointer",
     "tags": [
-      "Token"
+      "Token",
+      "Binance Coin"
     ],
     "forked_data": {
       "block": [
@@ -32256,7 +32242,19 @@
     "name": "JustBet",
     "short": "WINR",
     "url": "/currencies/justbet",
-    "tags": []
+    "tags": [
+      "Token",
+      "Yield farming",
+      "Tron"
+    ],
+    "forked_data": {
+      "block": [
+        "TKeuUe...X7Zqpuk"
+      ],
+      "forked_from": [
+        "TRON Contract"
+      ]
+    }
   },
   "JustLiquidity": {
     "name": "JustLiquidity",
@@ -32370,8 +32368,19 @@
     "name": "KING OF DEFI",
     "short": "KODX",
     "url": "/currencies/king-of-defi",
-    "tags": [],
-    "sawBirth": "01122020"
+    "tags": [
+      "Token",
+      "Tron"
+    ],
+    "sawBirth": "01122020",
+    "forked_data": {
+      "block": [
+        "TTUwzo...bMLHJaq"
+      ],
+      "forked_from": [
+        "TRON Contract"
+      ]
+    }
   },
   "KNOW": {
     "name": "KNOW",
@@ -32419,7 +32428,18 @@
     "name": "KP2R.Network",
     "short": "KP2R",
     "url": "/currencies/kp2r-network",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x9bde...3e2fbd1"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "KUN": {
     "name": "KUN",
@@ -32771,13 +32791,38 @@
     "name": "Keep3rV1",
     "short": "KP3R",
     "url": "/currencies/keep3rv1",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x1ceb...3185a44"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Keep4r": {
     "name": "Keep4r",
     "short": "KP4R",
     "url": "/currencies/keep4r",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Yield farming",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xa89a...ae9664e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "KeeperDAO": {
     "name": "KeeperDAO",
