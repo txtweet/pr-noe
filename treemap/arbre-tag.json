@@ -11589,6 +11589,16 @@
                       "value": 1
                     },
                     {
+                      "name": "asset-management",
+                      "children": [
+                        {
+                          "name": "Idle",
+                          "url": "/currencies/idle",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
                       "name": "Substrate",
                       "children": [
                         {
@@ -12154,18 +12164,13 @@
                       "value": 1
                     },
                     {
-                      "name": "Payments",
-                      "children": [
-                        {
-                          "name": "CWV Chain",
-                          "url": "/currencies/cwv-chain",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
                       "name": "Staking",
                       "children": [
+                        {
+                          "name": "SKALE Network",
+                          "url": "/currencies/skale-network",
+                          "value": 1
+                        },
                         {
                           "name": "DApp",
                           "children": [
@@ -12185,6 +12190,16 @@
                               ]
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "CWV Chain",
+                          "url": "/currencies/cwv-chain",
+                          "value": 1
                         }
                       ]
                     },
@@ -16007,6 +16022,26 @@
                       "name": "Civic",
                       "url": "/currencies/civic",
                       "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "asset-management",
+              "children": [
+                {
+                  "name": "centralized-exchange",
+                  "children": [
+                    {
+                      "name": "derivatives",
+                      "children": [
+                        {
+                          "name": "Digitex City",
+                          "url": "/currencies/digitex-city",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -26889,69 +26924,14 @@
           "value": 1
         },
         {
-          "name": "stablecoin",
+          "name": "Stablecoin",
           "children": [
             {
-              "name": "stablecoin-asset-backed",
+              "name": "Stablecoin - Asset-Backed",
               "children": [
                 {
                   "name": "Vai",
                   "url": "/currencies/vai",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "asset-management",
-      "children": [
-        {
-          "name": "centralized-exchange",
-          "children": [
-            {
-              "name": "derivatives",
-              "children": [
-                {
-                  "name": "Digitex City",
-                  "url": "/currencies/digitex-city",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "defi",
-          "children": [
-            {
-              "name": "dao",
-              "children": [
-                {
-                  "name": "Idle",
-                  "url": "/currencies/idle",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "platform",
-      "children": [
-        {
-          "name": "smart-contracts",
-          "children": [
-            {
-              "name": "staking",
-              "children": [
-                {
-                  "name": "SKALE Network",
-                  "url": "/currencies/skale-network",
                   "value": 1
                 }
               ]

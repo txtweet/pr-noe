@@ -48849,8 +48849,18 @@
     "tags": [
       "Platform",
       "Smart Contracts",
-      "Staking"
+      "Staking",
+      "Token",
+      "Ethereum"
     ],
+    "forked_data": {
+      "block": [
+        "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    },
     "sawBirth": "01122020"
   },
   "SKINCHAIN": {
