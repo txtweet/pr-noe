@@ -43,7 +43,7 @@
         "0xaa62...1e49cca"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -1313,25 +1313,45 @@
     "short": "SVN",
     "url": "/currencies/7finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Tron"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TN7LpTdoNcyQaHjiwxcfYcEsL5cNm5p7Lm"
+      ],
+      "forked_from": [
+        "Tron"
+      ]
+    }
   },
   "7up Finance": {
     "name": "7up Finance",
     "short": "7UP",
     "url": "/currencies/7up-finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x29f350b3822f51dc29619c583adbc9628646e315"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    },
   },
   "888tron": {
     "name": "888tron",
@@ -1369,7 +1389,7 @@
         "0x8888...9e835c5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -1535,12 +1555,22 @@
     "short": "ACS",
     "url": "/currencies/acryptos",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "sawBirth": "03122020",
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "ADADOWN": {
     "name": "ADADOWN",
@@ -1632,7 +1662,7 @@
         "0xc1ad...0d2456b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -1968,7 +1998,7 @@
         "0x0b38...731B88a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -2014,7 +2044,7 @@
         "0x95a4...4446611"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -2140,7 +2170,7 @@
         "0xeEEE...0588603"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -3205,7 +3235,7 @@
         "0x8ab7...ec853d7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -3246,7 +3276,7 @@
         "0x94d8...b3ba182"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -3444,7 +3474,7 @@
         "0xc635...56429c1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -3475,12 +3505,22 @@
     "short": "ALMX",
     "url": "/currencies/almace-shards",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Alpaca City": {
     "name": "Alpaca City",
@@ -3498,7 +3538,7 @@
         "0x7cA4...717514A"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -4333,7 +4373,7 @@
         "0x1f3f...c61f3af"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -4736,7 +4776,7 @@
         "0xdacd...780fb62"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -4939,7 +4979,7 @@
         "0x18aa...265b998"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -4995,11 +5035,21 @@
     "short": "AUSCM",
     "url": "/currencies/auric-network",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Aurora": {
     "name": "Aurora",
@@ -5189,7 +5239,6 @@
     "url": "/currencies/axia-protocol",
     "tags": [
       "Token",
-      "Ethereum",
       "Ethereum"
     ],
     "forked_data": {
@@ -5197,7 +5246,7 @@
         "0x7937...a5E7546"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5233,7 +5282,7 @@
         "0xf5d6...aba5ada"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5283,7 +5332,7 @@
         "0x7d85...3562352"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5334,7 +5383,7 @@
         "0x9105...11CBaEd"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5427,13 +5476,23 @@
     "short": "YODA",
     "url": "/currencies/babyyodafinance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x20531fa8eaefaeb4e7d60523679f85d58f53ced9"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "BAEPAY": {
     "name": "BAEPAY",
@@ -5448,7 +5507,7 @@
         "0x6bff...6252449"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5658,7 +5717,7 @@
         "0x8AF2...2F4a6B0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -5854,13 +5913,23 @@
     "short": "BLINK",
     "url": "/currencies/blink",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BMToken": {
     "name": "BMToken",
@@ -5875,7 +5944,7 @@
         "0xc636...c543d40"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -6135,13 +6204,23 @@
     "short": "BSC",
     "url": "/currencies/bsc-farm",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x17bc015607fdf93e7c949e9ca22f96907cfbef88"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "BSYS": {
     "name": "BSYS",
@@ -6532,13 +6611,23 @@
     "short": "yBAN",
     "url": "/currencies/bananodos",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1706c33B9a5B12aeB85B862215378dEe9480EB95"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Banca": {
     "name": "Banca",
@@ -6718,7 +6807,7 @@
         "0x0391...337750f"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -6735,7 +6824,7 @@
         "0x4893...3882173"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -6752,7 +6841,7 @@
         "0xF0AC...6454223"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -6787,7 +6876,7 @@
         "0x0715...6f25fdc"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -6860,7 +6949,7 @@
         "0x3449...903A69a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -7236,7 +7325,7 @@
         "0x67c5...8284253"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -7876,7 +7965,7 @@
         "0x7040...9537ce0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -8155,7 +8244,7 @@
         "0x2b2b...0f7E652"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -8362,7 +8451,7 @@
         "0x8fb6...4cdc865"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -9265,7 +9354,7 @@
         "0xC222...834916C"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -9423,7 +9512,7 @@
         "0x6d7c...d8EE64C"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -9537,7 +9626,7 @@
         "0xa44d...fb300ca"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -9795,7 +9884,7 @@
         "0x4Efe...485d5Cf"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10319,12 +10408,22 @@
     "short": "BLOODY",
     "url": "/currencies/bloody-token",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Bloom": {
     "name": "Bloom",
@@ -10496,7 +10595,7 @@
         "0x3364...328aaf4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10513,7 +10612,8 @@
     "short": "BLURT",
     "url": "/currencies/blurt",
     "tags": [
-      "Dead"
+      "Dead",
+      "Coin"
     ],
     "deaths": [
       "30112020",
@@ -10623,7 +10723,7 @@
         "0x6884...55ef958"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10640,7 +10740,7 @@
         "0x1DE5...5831057"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10657,7 +10757,7 @@
         "0x5dc0...54db1e8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10784,7 +10884,7 @@
         "0xa9c4...dd437c9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -10862,7 +10962,7 @@
         "0x3c9d...51fc1a9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -11110,7 +11210,7 @@
         "0x01b2...ca20541"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -11236,7 +11336,7 @@
         "0xB04D...CEb9e57"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -11283,7 +11383,7 @@
         "0xe7d3...62c3FbF"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -11973,7 +12073,7 @@
         "0x5d8d...4304286"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -12135,7 +12235,7 @@
         "0x7f0c...673b455"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -12442,7 +12542,7 @@
         "0xF726...48Da2Bf"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -12538,7 +12638,7 @@
         "0x4304...b673142"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -12606,7 +12706,7 @@
         "0xCdee...b3724EE"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -12888,13 +12988,23 @@
     "short": "CLN",
     "url": "/currencies/casinoland",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Caspian": {
     "name": "Caspian",
@@ -13537,7 +13647,7 @@
         "0x8467...96351f1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -13659,7 +13769,7 @@
         "0x20ae...452def6"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -14044,7 +14154,7 @@
         "0xe61f...3cfa850"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -14482,7 +14592,7 @@
         "0x47a6...32279dc"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -14913,7 +15023,7 @@
         "0x7ef1...dbbcc8c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -15227,7 +15337,7 @@
         "0x74fb...00dade1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -15244,7 +15354,7 @@
         "0x26a6...2A4CF97"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -15261,7 +15371,7 @@
         "0xa456...c2fea5e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -15607,13 +15717,23 @@
     "short": "CRP",
     "url": "/currencies/cross-finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1ad8d89074afa789a027b9a31d0bd14e254711d0"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "Crowd Machine": {
     "name": "Crowd Machine",
@@ -15961,7 +16081,7 @@
         "0x35dd...fae62f6"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -16092,13 +16212,23 @@
     "short": "FROG",
     "url": "/currencies/cryptofrog-finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xC808592e5b4585F982bc728d63b227634bc007a4"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "CryptoPing": {
     "name": "CryptoPing",
@@ -16108,11 +16238,7 @@
       "Token",
       "Asset management",
       "AI & Big Data"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    ]
   },
   "CryptoSoul": {
     "name": "CryptoSoul",
@@ -16222,7 +16348,7 @@
         "0x538a...9ea06d0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -16351,11 +16477,21 @@
     "short": "CPX",
     "url": "/currencies/crypxie",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x79ddbbCc9D7FbDc77b02A960DabD2577144FDD6E"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    },
   },
   "Crystal Clear ": {
     "name": "Crystal Clear ",
@@ -16588,7 +16724,7 @@
         "0x63b4...ccd1ef4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -17376,7 +17512,7 @@
         "0x45cd...abfcc21"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -17491,13 +17627,22 @@
     "short": "DRUGS",
     "url": "/currencies/drugs",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "DSLA Protocol": {
     "name": "DSLA Protocol",
@@ -17655,13 +17800,23 @@
     "short": "DANDY",
     "url": "/currencies/dandy-dego",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x9dfc4b433d359024eb3e810d77d60fbe8b0d9b82"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Daneel": {
     "name": "Daneel",
@@ -18048,7 +18203,7 @@
         "0x95ba...6d18878"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18090,7 +18245,7 @@
         "0xE3a6...21a7daD"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18180,7 +18335,7 @@
         "0xFAb5...D56eF0a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18570,7 +18725,7 @@
         "0xe481...a25ddd3"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18638,7 +18793,7 @@
         "0x0Def...5826767"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18656,7 +18811,7 @@
         "0x5bc2...6c23831"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18674,7 +18829,7 @@
         "0x20c3...0AA333A"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18795,7 +18950,7 @@
         "0x469E...B8D702F"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -18812,7 +18967,7 @@
         "0xd151...bc29730"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -19062,7 +19217,7 @@
         "0x7866...a5cb4f4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -19130,7 +19285,7 @@
         "0xE4E8...824eFA0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -19838,7 +19993,7 @@
         "0xfdb6...61b064e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -19953,7 +20108,7 @@
         "0x80bb...476d9Eb"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -20142,12 +20297,22 @@
     "short": "xDOT",
     "url": "/currencies/dotbased",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe5b0792400a47af372486704eda0f1799ee83f54"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Dovu": {
     "name": "Dovu",
@@ -20468,7 +20633,7 @@
         "0x1063...35d9770"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -21449,7 +21614,7 @@
         "0xa6fb...03b9e15"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -21532,7 +21697,7 @@
         "0xc36c...43bdec8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -22141,11 +22306,21 @@
     "short": "LEX",
     "url": "/currencies/elxis",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Tron"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "TPpN9uHL3ozazSeMjFMELPPkdcBJQ3xTRf"
+      ],
+      "forked_from": [
+        "Tron"
+      ]
+    }
   },
   "Elysian": {
     "name": "Elysian",
@@ -22321,7 +22496,7 @@
         "0x36f3...689d723"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -23049,7 +23224,7 @@
         "0x63D0...C0a9eD6"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -23310,7 +23485,7 @@
         "0x54eF...6e38313"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -23400,7 +23575,7 @@
         "0xd1AF...6EF08B5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -23970,7 +24145,7 @@
         "0xDeca...67adcF5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -24377,7 +24552,7 @@
         "0xf683...5354b14"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -24501,7 +24676,7 @@
         "0x14dd...3af6fc8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -24700,12 +24875,22 @@
     "short": "PFARM",
     "url": "/currencies/farm-defi",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x6a8C66Cab4F766E5E30b4e9445582094303cc322"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Farm House Finance": {
     "name": "Farm House Finance",
@@ -24857,13 +25042,23 @@
     "short": "FLX",
     "url": "/currencies/felixo-coin",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xae7eab72fea25a8073d14e6f159568b67572878a"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Fera": {
     "name": "Fera",
@@ -25092,7 +25287,7 @@
         "0x7bE5...CF3449B"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -25526,7 +25721,7 @@
         "0x1fcd...a5a672f"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -25681,12 +25876,22 @@
     "short": "FR",
     "url": "/currencies/freedom-reserve",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Freeway Token": {
     "name": "Freeway Token",
@@ -25701,7 +25906,7 @@
         "0xf151...fb3cba4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -25815,7 +26020,7 @@
         "0x7d91...d12da91"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -25955,7 +26160,7 @@
         "0xaa9d...08d9ab4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -25984,7 +26189,7 @@
         "0x74db...b1b730b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -26382,7 +26587,7 @@
         "0xbea9...8c8ccab"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -26587,7 +26792,7 @@
         "0xaac4...40ef8b2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -26983,7 +27188,7 @@
         "0x3b54...2f9fda9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -27479,7 +27684,7 @@
         "0xbd43...033b8c4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -27525,7 +27730,7 @@
         "0x3e52...41372ac"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -27720,7 +27925,7 @@
         "0x515d...23286bc"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -28214,7 +28419,7 @@
         "0xf883...eCc9fB2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -28504,7 +28709,7 @@
         "0x8bbe...A9b684c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -29303,7 +29508,7 @@
         "0xc761...dcFF7B7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -29355,7 +29560,7 @@
         "0xEd36...aA2DF92"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -29482,13 +29687,23 @@
     "short": "HOO",
     "url": "/currencies/hoo-token",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7592dc0c4bc7cfc91ae5a7d62dc96c949fd27193"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Horizen": {
     "name": "Horizen",
@@ -29570,7 +29785,7 @@
         "0x6ce6...1410ed9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -29960,7 +30175,7 @@
         "0xd794...07ef7d4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -30147,7 +30362,7 @@
         "0xce80...d7fd867"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -30567,7 +30782,7 @@
         "0xD36a...0136625"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -31379,7 +31594,7 @@
         "0x67B6...F0b9c7A"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -31627,7 +31842,7 @@
         "0x21cf...8Dc8d86"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -31645,7 +31860,7 @@
         "0xc32c...18821c4"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -32119,7 +32334,8 @@
     "short": "JVZ",
     "url": "/currencies/jiviz",
     "tags": [
-      "Dead"
+      "Dead",
+      "Coin"
     ],
     "deaths": [
       "30112020"
@@ -32457,7 +32673,7 @@
         "0x9bde...3e2fbd1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -32649,11 +32865,21 @@
     "short": "KNV",
     "url": "/currencies/kanva",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5935ffc231e93ac04daa089c0f1b94d0fb2449de"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Kappi Network": {
     "name": "Kappi Network",
@@ -32821,7 +33047,7 @@
         "0x1ceb...3185a44"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -32840,7 +33066,7 @@
         "0xa89a...ae9664e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -32857,7 +33083,7 @@
         "0xfa50...7313d4a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -33039,13 +33265,23 @@
     "short": "$KING",
     "url": "/currencies/kingswap",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x5a731151d6510eb475cc7a0072200cffc9a3bfe5"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "KingMoney": {
     "name": "KingMoney",
@@ -33244,7 +33480,7 @@
         "0x6cfb...a1abda7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -33916,7 +34152,7 @@
         "0x72ca...7e803a9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -34312,7 +34548,7 @@
         "0xa393...715d092"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -34330,7 +34566,7 @@
         "0x1b6e...718c5d8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -34608,7 +34844,7 @@
         "0x3553...30c5270"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -34680,7 +34916,7 @@
         "0x449e...cd4f9a3"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -34722,7 +34958,7 @@
         "0x3477...2A58b98"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -35278,7 +35514,7 @@
         "0xa883...a5fe3c8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -35338,7 +35574,7 @@
         "0xe3f3...c770d67"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -35643,7 +35879,7 @@
         "0x0344...05BA559"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -36435,13 +36671,23 @@
     "short": "MTI",
     "url": "/currencies/mti-finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "MVL": {
     "name": "MVL",
@@ -36926,7 +37172,7 @@
         "0xedd8...e5e29f0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -37222,7 +37468,7 @@
         "0xc047...b88176d"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -37402,7 +37648,7 @@
         "0xCBe7...b54482d"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -37457,7 +37703,7 @@
         "0x3218...a13e654"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -37622,13 +37868,23 @@
     "short": "MEE",
     "url": "/currencies/mercurity-swap-protocol",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mercury": {
     "name": "Mercury",
@@ -37855,7 +38111,7 @@
         "0xa959...0625e75"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -38022,7 +38278,7 @@
         "0x5819...CE2D6f7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -38039,7 +38295,7 @@
         "0xC3c2...7eF1a63"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -38150,13 +38406,23 @@
     "short": "MCC",
     "url": "/currencies/mining-core",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xaa625d0f31e99dcd1e9ff744073a9d16ce174de4"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "MintCoin": {
     "name": "MintCoin",
@@ -38207,7 +38473,7 @@
         "0x84c7...06da824"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -38915,7 +39181,7 @@
         "0x1ad6...5783c01"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -39212,7 +39478,7 @@
         "0xb6ca...ef1fc81"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -39572,7 +39838,7 @@
         "0x2e23...9C7C6A9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -40011,13 +40277,23 @@
     "short": "NAZ",
     "url": "/currencies/naz-coin",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7723a1d7b939e0a49959363bf057ca57c7215e75"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Ndau": {
     "name": "Ndau",
@@ -40097,7 +40373,7 @@
         "0x38f7...d1d1db3"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -40248,7 +40524,7 @@
         "0x5d4d...f05073c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -40919,7 +41195,7 @@
         "0x2094...ccd2114"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -41093,7 +41369,7 @@
         "0xbf4a...de51f14"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -41350,7 +41626,7 @@
         "0xeeaa...65b1fa5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -41465,7 +41741,7 @@
         "0xc3Eb...b64B466"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -41517,7 +41793,7 @@
         "0x2c4e...8e0aeca"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -42266,7 +42542,7 @@
         "0x69e8...463a916"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -42383,7 +42659,7 @@
         "0x4c11...328c1b5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -42490,7 +42766,7 @@
         "0x5956...fa31570"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -42900,13 +43176,23 @@
     "short": "PBS",
     "url": "/currencies/pbs-chain",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2eae17386ea67f0fa13485fa90851c03bdc5a7a9"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "PCHAIN": {
     "name": "PCHAIN",
@@ -42956,7 +43242,7 @@
         "0x630d...feaad78"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -43713,7 +43999,7 @@
         "0x8EF4...7d2e2E2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -43895,7 +44181,7 @@
         "0x7263...e47bafc"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -44075,7 +44361,7 @@
         "0x51bb...7142b6b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -44396,7 +44682,7 @@
         "0xce12...2761897"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -44414,7 +44700,7 @@
         "0xA7E0...5962106"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -44467,7 +44753,7 @@
         "0x78f2...fe8eb78"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -45204,7 +45490,7 @@
         "0x1c5f...8d69858"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -45222,7 +45508,7 @@
         "0x3f84...1cb03c9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -45455,7 +45741,7 @@
         "0x38e4...be7dca1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -45832,7 +46118,7 @@
         "0x8d5d...d9da587"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -45987,7 +46273,7 @@
         "0x02ec...b70259b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -46719,7 +47005,7 @@
         "0x6e0d...70b14d8"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -47158,7 +47444,7 @@
         "0x6468...Af59414"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -47226,7 +47512,7 @@
         "0xa8b0...0a0be66"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -48592,13 +48878,23 @@
     "short": "SEEN",
     "url": "/currencies/seen",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "SEER": {
     "name": "SEER",
@@ -48647,7 +48943,7 @@
         "0x79BA...093E000"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -48984,7 +49280,7 @@
         "0xa7A5...f1C6c2d"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -49240,18 +49536,15 @@
       "Ethereum",
       "Token"
     ],
-    "sawBirth": "03122020"
-  },
-  "STVKE.NETWORK": {
-    "name": "STVKE.NETWORK",
-    "short": "STV",
-    "url": "/currencies/stvke-network",
-    "tags": [
-      "Dead"
-    ],
-    "deaths": [
-      "01011970"
-    ]
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x226e390751a2e22449d611bac83bd267f2a2caff"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "SUKU": {
     "name": "SUKU",
@@ -49309,7 +49602,7 @@
         "0x4793...2e30F5f"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -49326,7 +49619,7 @@
         "0xea31...3ee976c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -49417,7 +49710,7 @@
         "0xB6ff...03eFD32"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -49707,7 +50000,7 @@
         "0x03ec...6d6735a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -49878,7 +50171,7 @@
         "0x6e10...7f01890"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -50566,7 +50859,7 @@
         "0x01c8...132946e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -51197,7 +51490,7 @@
         "0x72e9...f9ada13"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -51318,7 +51611,7 @@
         "0x8bf9...a470f6b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -51498,7 +51791,7 @@
         "0x0829...72d9fb2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -52187,11 +52480,21 @@
     "short": "SPORE",
     "url": "/currencies/spore",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xa4bad5d040d4464ec5ce130987731f2f428c9307"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Sport and Leisure": {
     "name": "Sport and Leisure",
@@ -52325,7 +52628,7 @@
         "0xa4bd...1112ebe"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -52342,7 +52645,7 @@
         "0xf12E...FE1B327"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -52501,7 +52804,7 @@
         "0xc0e4...a98622f"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -52929,7 +53232,7 @@
         "0xB0BF...b9a76e1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -53626,7 +53929,7 @@
         "0x1695...7c08bd9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -53699,7 +54002,7 @@
         "0x9ac9...32e8404"
       ],
       "forked_from": [
-        "Ethereum Contract",
+        "Ethereum",
         "Binance Coin Contract"
       ]
     }
@@ -53861,7 +54164,7 @@
         "0x38d5...fd8093b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -54134,7 +54437,7 @@
         "0x6a6c...b8c520a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -54562,7 +54865,7 @@
         "0x37Ee...D5ae481"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -54749,13 +55052,23 @@
     "short": "TENS",
     "url": "/currencies/tenspeed",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x776ca7ded9474829ea20ad4a5ab7a6ffdb64c796"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "TenUp": {
     "name": "TenUp",
@@ -54945,7 +55258,7 @@
         "0x110F...ED0B9CC"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -55163,7 +55476,7 @@
         "0xe3c8...97e2bd1"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -55180,7 +55493,7 @@
         "0x8ab0...ecaec01"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -55288,7 +55601,7 @@
         "0x96dd...69306f2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -56318,7 +56631,7 @@
         "0xdad2...1c07b66"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -56327,11 +56640,21 @@
     "short": "TBP",
     "url": "/currencies/tradebitpay",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2bfAf3598Ee675aF548F2A772488bA5c8946C419"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Tradeplus": {
     "name": "Tradeplus",
@@ -57020,7 +57343,7 @@
         "0x4c19...6543784"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57054,7 +57377,7 @@
         "0x7eb4...1267e28"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57209,7 +57532,7 @@
         "0xf5b5...99f09f3"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57338,7 +57661,7 @@
         "0x2f4e...f33dd49"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57672,7 +57995,7 @@
         "0xb9Ec...43cBE8E"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57876,7 +58199,7 @@
         "0x5218...9EfD3A6"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -57893,7 +58216,7 @@
         "0xaDB2...8A7B1D0"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -58001,7 +58324,7 @@
         "0x27af...0059316"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -58041,7 +58364,7 @@
         "0xdbdd...80b8df5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -58158,7 +58481,7 @@
       ],
       "forked_from": [
         "Binance Coin Contract",
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -58326,7 +58649,7 @@
         "0x9ed8...ab64e5e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -58619,7 +58942,7 @@
         "0xd18A...83435Da"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -59169,7 +59492,9 @@
     "short": "VRGX",
     "url": "/currencies/vroomgo",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
@@ -59189,7 +59514,15 @@
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4861B1a0eAD261897174fD849cA0f5154fcF2442"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Va Na Su": {
     "name": "Va Na Su",
@@ -59215,13 +59548,24 @@
     "tags": [
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Coin",
+      "venus.io"
     ],
     "sawBirth": "01122020",
     "deaths": [
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "Valobit": {
     "name": "Valobit",
@@ -59293,7 +59637,7 @@
         "0x49e8...9218e5c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -59355,7 +59699,7 @@
         "0xB97F...084a988"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -59545,8 +59889,17 @@
     "url": "/currencies/venus",
     "tags": [
       "Token",
-      "Binance Smart Chain"
-    ]
+      "Binance Coin",
+      "venus.io"
+    ],
+    "forked_data": {
+      "block": [
+        "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+      ],
+      "forked_from": [
+        "Binance Coin"
+      ]
+    }
   },
   "VeraOne": {
     "name": "VeraOne",
@@ -60178,7 +60531,7 @@
         "0x14d1...01a6631"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -60580,7 +60933,7 @@
         "0x286b...5a609fe"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -60783,7 +61136,7 @@
         "0xb7bc...c3b6b88"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -60881,7 +61234,7 @@
         "0x1edd...e636b9d"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61348,7 +61701,7 @@
         "0xFA12...74E7eDC"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61407,7 +61760,7 @@
         "0x4691...e945d4b"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61546,12 +61899,22 @@
     "short": "WCCX",
     "url": "/currencies/wrapped-conceal",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x21686F8ce003a95c99aCd297E302FAACf742F7d4"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Wrapped Gen-0 CryptoKitties": {
     "name": "Wrapped Gen-0 CryptoKitties",
@@ -61642,7 +62005,7 @@
         "0x4A64...0b66E10"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61745,7 +62108,7 @@
         "0x6be7...f2450fe"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61793,7 +62156,7 @@
         "0x1fa2...c95f66a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -61930,7 +62293,7 @@
         "0xf081...50f9bFc"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -62705,7 +63068,7 @@
         "0x9080...55B0cAa"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -62722,7 +63085,7 @@
         "0x0984...5d2d1ee"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -62822,7 +63185,7 @@
         "0x649e...996415a"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63222,7 +63585,7 @@
         "0x4c10...b44ece7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63292,7 +63655,7 @@
         "0xaF20...828Eb7A"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63363,7 +63726,7 @@
         "0x63a1...5879039"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63397,7 +63760,7 @@
         "0x59e7...6ab674e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63465,7 +63828,7 @@
         "0x3709...6de370c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63516,7 +63879,7 @@
         "0xbE68...E7c2b73"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63555,7 +63918,7 @@
         "0x186a...1163cc7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63572,7 +63935,7 @@
         "0xeea9...9c0aB96"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63662,7 +64025,7 @@
         "0x4f4f...4e27ad9"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -63679,7 +64042,7 @@
         "0x2e2f...7e5de2c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -64737,7 +65100,7 @@
         "0xD8E3...0055ae6"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -64793,7 +65156,7 @@
         "0x94d8...44913e5"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -65952,7 +66315,7 @@
         "0x0751...8f38fe2"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -65969,7 +66332,7 @@
         "0x1fc0...e256889"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66063,7 +66426,7 @@
         "0xedfb...16809ba"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66072,13 +66435,24 @@
     "short": "PXUSD_MAR2021",
     "url": "/currencies/pxusd-synthetic-usd-expiring-1-april-2021",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020",
       "03122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf93340b1a3adf7eedcaec25fae8171d4b736e89f"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
+
   },
   "qiibee": {
     "name": "qiibee",
@@ -66110,7 +66484,7 @@
         "0xa1af...88b0cd7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66483,7 +66857,7 @@
         "0xb753...e04902c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66557,7 +66931,7 @@
         "0x160b...1ceed7e"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66592,7 +66966,7 @@
         "0x692e...577f65c"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66610,7 +66984,7 @@
         "0x8dae...0815faa"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -66744,12 +67118,22 @@
     "short": "WHOLE",
     "url": "/currencies/wormhole-finance",
     "tags": [
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xe6179bb571d2d69837be731da88c76e377ec4738"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "wys Token": {
     "name": "wys Token",
@@ -66885,7 +67269,7 @@
         "0x3d37...0986ceb"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
@@ -67034,7 +67418,7 @@
         "0x8370...f6fb2e7"
       ],
       "forked_from": [
-        "Ethereum Contract"
+        "Ethereum"
       ]
     }
   },
