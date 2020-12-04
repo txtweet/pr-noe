@@ -3220,25 +3220,6 @@
       "01122020"
     ]
   },
-  "Akropolis": {
-    "name": "Akropolis",
-    "short": "AKRO",
-    "url": "/currencies/akropolis",
-    "tags": [
-      "Token",
-      "DeFi",
-      "Substrate",
-      "Ethereum"
-    ],
-    "forked_data": {
-      "block": [
-        "0x8ab7...ec853d7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
-  },
   "Akropolis ": {
     "name": "Akropolis ",
     "short": "AKRO",
@@ -38899,7 +38880,7 @@
       ]
     }
   },
-  "MoneroV": {
+  "MoneroV ": {
     "name": "MoneroV ",
     "short": "XMV",
     "url": "/currencies/monero-v",
@@ -38917,14 +38898,6 @@
         "Monero"
       ]
     }
-  },
-  "MoneroV ": {
-    "name": "MoneroV ",
-    "short": "XMV",
-    "url": "/currencies/monero-v",
-    "tags": [
-      "Coin"
-    ]
   },
   "MonetaryUnit": {
     "name": "MonetaryUnit",
@@ -40646,18 +40619,6 @@
     "deaths": [
       "01011970"
     ]
-  },
-  "Neutrino Token": {
-    "name": "Neutrino Token",
-    "short": "NSBT",
-    "url": "/currencies/neutrino-system-base-token",
-    "tags": [
-      "Token"
-    ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
   },
   "Neutrino USD": {
     "name": "Neutrino USD",
@@ -47840,18 +47801,6 @@
       "01011970"
     ]
   },
-  "ReddCoin": {
-    "name": "ReddCoin",
-    "short": "RDD",
-    "url": "/currencies/redd",
-    "tags": [
-      "Coin",
-      "Hybrid - PoW & PoS",
-      "Scrypt",
-      "Media",
-      "Content Creation"
-    ]
-  },
   "RefToken": {
     "name": "RefToken",
     "short": "REF",
@@ -53984,29 +53933,6 @@
       "03122020"
     ]
   },
-  "Synthetix": {
-    "name": "Synthetix",
-    "short": "SNX",
-    "url": "/currencies/synthetix-network-token",
-    "tags": [
-      "Token",
-      "Services",
-      "DeFi",
-      "Yield farming",
-      "Ethereum",
-      "Binance Coin"
-    ],
-    "forked_data": {
-      "block": [
-        "0xc011...0af2a6f",
-        "0x9ac9...32e8404"
-      ],
-      "forked_from": [
-        "Ethereum",
-        "Binance Coin Contract"
-      ]
-    }
-  },
   "Synthetix Network Token": {
     "name": "Synthetix Network Token",
     "short": "SNX",
@@ -54423,23 +54349,6 @@
     "tags": [
       "Token"
     ]
-  },
-  "TON Token": {
-    "name": "TON Token",
-    "short": "TON",
-    "url": "/currencies/tontoken",
-    "tags": [
-      "Token",
-      "Ethereum"
-    ],
-    "forked_data": {
-      "block": [
-        "0x6a6c...b8c520a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
   },
   "TONToken": {
     "name": "TONToken",
@@ -59622,24 +59531,6 @@
     "deaths": [
       "01011970"
     ]
-  },
-  "Value Liquidity": {
-    "name": "Value Liquidity",
-    "short": "VALUE",
-    "url": "/currencies/value-defi-protocol",
-    "tags": [
-      "Token",
-      "DeFi",
-      "Ethereum"
-    ],
-    "forked_data": {
-      "block": [
-        "0x49e8...9218e5c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
   },
   "ValueChain": {
     "name": "ValueChain",
