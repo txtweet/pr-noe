@@ -19593,9 +19593,19 @@
     "tags": [
       "asset-management",
       "centralized-exchange",
-      "derivatives"
+      "derivatives",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "03122020"
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Digitex Futures": {
     "name": "Digitex Futures",
@@ -30702,10 +30712,20 @@
     "url": "/currencies/idle",
     "tags": [
       "asset-management",
-      "defi",
-      "dao"
+      "DeFi",
+      "DAO",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "03122020"
+    "sawBirth": "03122020",
+    "forked_data": {
+      "block": [
+        "0x875773784Af8135eA0ef43b5a374AaD105c5D39e"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Ifoods Chain": {
     "name": "Ifoods Chain",
@@ -48827,9 +48847,9 @@
     "short": "SKL",
     "url": "/currencies/skale-network",
     "tags": [
-      "platform",
-      "smart-contracts",
-      "staking"
+      "Platform",
+      "Smart Contracts",
+      "Staking"
     ],
     "sawBirth": "01122020"
   },
@@ -59183,8 +59203,8 @@
     "short": "VAI",
     "url": "/currencies/vai",
     "tags": [
-      "stablecoin",
-      "stablecoin-asset-backed",
+      "Stablecoin",
+      "Stablecoin - Asset-Backed",
       "Dead"
     ],
     "sawBirth": "01122020",

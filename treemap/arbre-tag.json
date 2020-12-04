@@ -2,1501 +2,6 @@
   "name": "root",
   "children": [
     {
-      "name": "$YEET",
-      "url": "/currencies/yeet",
-      "value": 1
-    },
-    {
-      "name": "88mph",
-      "url": "/currencies/88mph",
-      "value": 1
-    },
-    {
-      "name": "AGOV (ANSWER Governance)",
-      "url": "/currencies/agov-answer-governance",
-      "value": 1
-    },
-    {
-      "name": "API3",
-      "url": "/currencies/api3",
-      "value": 1
-    },
-    {
-      "name": "APY.Finance",
-      "url": "/currencies/apy-finance",
-      "value": 1
-    },
-    {
-      "name": "ASKO",
-      "url": "/currencies/askobar-network",
-      "value": 1
-    },
-    {
-      "name": "Akoin",
-      "url": "/currencies/akoin",
-      "value": 1
-    },
-    {
-      "name": "Akropolis",
-      "url": "/currencies/akropolis",
-      "value": 1
-    },
-    {
-      "name": "Akropolis Delphi",
-      "url": "/currencies/akropolis-delphi",
-      "value": 1
-    },
-    {
-      "name": "Alaya",
-      "url": "/currencies/alaya",
-      "value": 1
-    },
-    {
-      "name": "AllWin DeFi",
-      "url": "/currencies/allwin-defi",
-      "value": 1
-    },
-    {
-      "name": "Alpaca City",
-      "url": "/currencies/alpaca-city",
-      "value": 1
-    },
-    {
-      "name": "Alpha Quark Token",
-      "url": "/currencies/alpha-quark-token",
-      "value": 1
-    },
-    {
-      "name": "Animal Friends United",
-      "url": "/currencies/animal-friends-united",
-      "value": 1
-    },
-    {
-      "name": "Apollon Limassol",
-      "url": "/currencies/apollon-limassol",
-      "value": 1
-    },
-    {
-      "name": "Archer DAO Governance Token",
-      "url": "/currencies/archer-dao-governance-token",
-      "value": 1
-    },
-    {
-      "name": "Aspire",
-      "url": "/currencies/aspire",
-      "value": 1
-    },
-    {
-      "name": "Atari Token",
-      "url": "/currencies/atari-token",
-      "value": 1
-    },
-    {
-      "name": "Audius",
-      "url": "/currencies/audius",
-      "value": 1
-    },
-    {
-      "name": "Axia Protocol",
-      "url": "/currencies/axia-protocol",
-      "value": 1
-    },
-    {
-      "name": "Axie Infinity",
-      "url": "/currencies/axie-infinity",
-      "value": 1
-    },
-    {
-      "name": "Axion",
-      "url": "/currencies/axion",
-      "value": 1
-    },
-    {
-      "name": "Azuki",
-      "url": "/currencies/azuki",
-      "value": 1
-    },
-    {
-      "name": "Azzure",
-      "url": "/currencies/azzure",
-      "value": 1
-    },
-    {
-      "name": "BAEPAY",
-      "url": "/currencies/baepay",
-      "value": 1
-    },
-    {
-      "name": "BIOKKOIN",
-      "url": "/currencies/biokkoin",
-      "value": 1
-    },
-    {
-      "name": "BMToken",
-      "url": "/currencies/bmtoken",
-      "value": 1
-    },
-    {
-      "name": "BarnBridge",
-      "url": "/currencies/barnbridge",
-      "value": 1
-    },
-    {
-      "name": "Baroin",
-      "url": "/currencies/baroin",
-      "value": 1
-    },
-    {
-      "name": "Barter",
-      "url": "/currencies/barter",
-      "value": 1
-    },
-    {
-      "name": "Base Protocol",
-      "url": "/currencies/base-protocol",
-      "value": 1
-    },
-    {
-      "name": "Basis Cash",
-      "url": "/currencies/basis-cash",
-      "value": 1
-    },
-    {
-      "name": "Benchmark Protocol",
-      "url": "/currencies/benchmark-protocol",
-      "value": 1
-    },
-    {
-      "name": "Bird.Money",
-      "url": "/currencies/bird-money",
-      "value": 1
-    },
-    {
-      "name": "BitCanna",
-      "url": "/currencies/bitcanna",
-      "value": 1
-    },
-    {
-      "name": "BitDEFi",
-      "url": "/currencies/bitdefi",
-      "value": 1
-    },
-    {
-      "name": "BitOnyx",
-      "url": "/currencies/bitonyx",
-      "value": 1
-    },
-    {
-      "name": "Bitcoin Cash ABC",
-      "url": "/currencies/bitcoin-cash-abc-2",
-      "value": 1
-    },
-    {
-      "name": "Bitcoiva",
-      "url": "/currencies/bitcoiva",
-      "value": 1
-    },
-    {
-      "name": "Bithao",
-      "url": "/currencies/bithao",
-      "value": 1
-    },
-    {
-      "name": "Bitpumps Token",
-      "url": "/currencies/bitpumps-token",
-      "value": 1
-    },
-    {
-      "name": "BlackDragon",
-      "url": "/currencies/blackdragon",
-      "value": 1
-    },
-    {
-      "name": "Blueshare Token",
-      "url": "/currencies/blueshare-token",
-      "value": 1
-    },
-    {
-      "name": "Boltt Coin ",
-      "url": "/currencies/boltt-coin",
-      "value": 1
-    },
-    {
-      "name": "BonFi",
-      "url": "/currencies/bonfi",
-      "value": 1
-    },
-    {
-      "name": "Bonded Finance",
-      "url": "/currencies/bonded-finance",
-      "value": 1
-    },
-    {
-      "name": "BooBank",
-      "url": "/currencies/boobank",
-      "value": 1
-    },
-    {
-      "name": "BoringDAO",
-      "url": "/currencies/boringdao",
-      "value": 1
-    },
-    {
-      "name": "Brother Music Platform",
-      "url": "/currencies/brother-music-platform",
-      "value": 1
-    },
-    {
-      "name": "BuildUp",
-      "url": "/currencies/buildup",
-      "value": 1
-    },
-    {
-      "name": "Bullswap Exchange",
-      "url": "/currencies/bullswap-exchange",
-      "value": 1
-    },
-    {
-      "name": "COVER Protocol",
-      "url": "/currencies/cover-protocol",
-      "value": 1
-    },
-    {
-      "name": "CSP DAO",
-      "url": "/currencies/csp-dao",
-      "value": 1
-    },
-    {
-      "name": "Candela Coin",
-      "url": "/currencies/candelacoin",
-      "value": 1
-    },
-    {
-      "name": "Cap",
-      "url": "/currencies/cap",
-      "value": 1
-    },
-    {
-      "name": "Carbon",
-      "url": "/currencies/carbon",
-      "value": 1
-    },
-    {
-      "name": "Cardstack",
-      "url": "/currencies/cardstack",
-      "value": 1
-    },
-    {
-      "name": "CertiK",
-      "url": "/currencies/certik",
-      "value": 1
-    },
-    {
-      "name": "ChallengeDac",
-      "url": "/currencies/challengedac",
-      "value": 1
-    },
-    {
-      "name": "Chonk",
-      "url": "/currencies/chonk",
-      "value": 1
-    },
-    {
-      "name": "Cipher",
-      "url": "/currencies/cipher",
-      "value": 1
-    },
-    {
-      "name": "CloudCoin",
-      "url": "/currencies/cloudcoin",
-      "value": 1
-    },
-    {
-      "name": "Club Atletico Independiente",
-      "url": "/currencies/club-atletico-independiente",
-      "value": 1
-    },
-    {
-      "name": "Coin",
-      "url": "/currencies/coin-defi",
-      "value": 1
-    },
-    {
-      "name": "Colibri Protocol",
-      "url": "/currencies/colibri",
-      "value": 1
-    },
-    {
-      "name": "Combo",
-      "url": "/currencies/combo",
-      "value": 1
-    },
-    {
-      "name": "Compounder",
-      "url": "/currencies/compounder",
-      "value": 1
-    },
-    {
-      "name": "Conflux Network",
-      "url": "/currencies/conflux-network",
-      "value": 1
-    },
-    {
-      "name": "Coral Swap",
-      "url": "/currencies/coral-swap",
-      "value": 1
-    },
-    {
-      "name": "Cord DeFi",
-      "url": "/currencies/cord-defi",
-      "value": 1
-    },
-    {
-      "name": "CorionX",
-      "url": "/currencies/corionx",
-      "value": 1
-    },
-    {
-      "name": "Cornichon",
-      "url": "/currencies/cornichon",
-      "value": 1
-    },
-    {
-      "name": "CryptoBet",
-      "url": "/currencies/cryptobet",
-      "value": 1
-    },
-    {
-      "name": "Cryptochrome",
-      "url": "/currencies/cryptochrome",
-      "value": 1
-    },
-    {
-      "name": "CyberFi Token",
-      "url": "/currencies/cyberfi",
-      "value": 1
-    },
-    {
-      "name": "DOOS TOKEN",
-      "url": "/currencies/doos-token",
-      "value": 1
-    },
-    {
-      "name": "DeCash",
-      "url": "/currencies/decash",
-      "value": 1
-    },
-    {
-      "name": "DeFi Gold",
-      "url": "/currencies/defi-gold",
-      "value": 1
-    },
-    {
-      "name": "DeFi of Thrones",
-      "url": "/currencies/deli-of-thrones",
-      "value": 1
-    },
-    {
-      "name": "DefHold",
-      "url": "/currencies/defhold",
-      "value": 1
-    },
-    {
-      "name": "DefiCliq",
-      "url": "/currencies/deficliq",
-      "value": 1
-    },
-    {
-      "name": "DefiDollar",
-      "url": "/currencies/defidollar",
-      "value": 1
-    },
-    {
-      "name": "DefiDollar DAO",
-      "url": "/currencies/defidollar-dao",
-      "value": 1
-    },
-    {
-      "name": "Degov",
-      "url": "/currencies/degov",
-      "value": 1
-    },
-    {
-      "name": "Deipool",
-      "url": "/currencies/deipool",
-      "value": 1
-    },
-    {
-      "name": "DexKit",
-      "url": "/currencies/dexkit",
-      "value": 1
-    },
-    {
-      "name": "Dfinance",
-      "url": "/currencies/dfinance",
-      "value": 1
-    },
-    {
-      "name": "Divert Finance",
-      "url": "/currencies/divert-finance",
-      "value": 1
-    },
-    {
-      "name": "DogDeFiCoin",
-      "url": "/currencies/dogdeficoin",
-      "value": 1
-    },
-    {
-      "name": "Dvision Network",
-      "url": "/currencies/dvision-network",
-      "value": 1
-    },
-    {
-      "name": "Earnbase",
-      "url": "/currencies/earnbase",
-      "value": 1
-    },
-    {
-      "name": "Easticoin",
-      "url": "/currencies/easticoin",
-      "value": 1
-    },
-    {
-      "name": "Eauric",
-      "url": "/currencies/eauric",
-      "value": 1
-    },
-    {
-      "name": "EduMetrix Coin",
-      "url": "/currencies/edumetrix",
-      "value": 1
-    },
-    {
-      "name": "Empty Set Dollar",
-      "url": "/currencies/empty-set-dollar",
-      "value": 1
-    },
-    {
-      "name": "Ethanol",
-      "url": "/currencies/ethanol",
-      "value": 1
-    },
-    {
-      "name": "Ethereum Lightning",
-      "url": "/currencies/ethereumlightning",
-      "value": 1
-    },
-    {
-      "name": "Ethereum Yield",
-      "url": "/currencies/ethereum-yield",
-      "value": 1
-    },
-    {
-      "name": "Experty Wisdom Token",
-      "url": "/currencies/experty-wisdom-token",
-      "value": 1
-    },
-    {
-      "name": "FRED Energy",
-      "url": "/currencies/fred-energy",
-      "value": 1
-    },
-    {
-      "name": "FRMx Token",
-      "url": "/currencies/frmx-token",
-      "value": 1
-    },
-    {
-      "name": "FXPay",
-      "url": "/currencies/fxpay",
-      "value": 1
-    },
-    {
-      "name": "Fiola",
-      "url": "/currencies/fiola",
-      "value": 1
-    },
-    {
-      "name": "Firo",
-      "url": "/currencies/firo",
-      "value": 1
-    },
-    {
-      "name": "ForTube",
-      "url": "/currencies/the-force-protocol",
-      "value": 1
-    },
-    {
-      "name": "Freeway Token",
-      "url": "/currencies/freeway-token",
-      "value": 1
-    },
-    {
-      "name": "French Digital Reserve",
-      "url": "/currencies/french-digital-reserve",
-      "value": 1
-    },
-    {
-      "name": "Friends With Benefits",
-      "url": "/currencies/friends-with-benefits",
-      "value": 1
-    },
-    {
-      "name": "Fundamenta",
-      "url": "/currencies/fundamenta",
-      "value": 1
-    },
-    {
-      "name": "Future-Cash Digital",
-      "url": "/currencies/future-cash-digital",
-      "value": 1
-    },
-    {
-      "name": "GARD Governance Token",
-      "url": "/currencies/gard-governance-token",
-      "value": 1
-    },
-    {
-      "name": "GYSR",
-      "url": "/currencies/gysr",
-      "value": 1
-    },
-    {
-      "name": "Gameswap",
-      "url": "/currencies/gameswap",
-      "value": 1
-    },
-    {
-      "name": "Gatherer",
-      "url": "/currencies/gatherer",
-      "value": 1
-    },
-    {
-      "name": "Giftedhands",
-      "url": "/currencies/giftedhands",
-      "value": 1
-    },
-    {
-      "name": "Gold BCR",
-      "url": "/currencies/gold-bcr",
-      "value": 1
-    },
-    {
-      "name": "GoldFinX",
-      "url": "/currencies/goldfinx",
-      "value": 1
-    },
-    {
-      "name": "Goldblock",
-      "url": "/currencies/goldblock",
-      "value": 1
-    },
-    {
-      "name": "Governor DAO",
-      "url": "/currencies/governor-dao",
-      "value": 1
-    },
-    {
-      "name": "HARD Protocol",
-      "url": "/currencies/hard-protocol",
-      "value": 1
-    },
-    {
-      "name": "HRDCOIN",
-      "url": "/currencies/hrdcoin",
-      "value": 1
-    },
-    {
-      "name": "Handy",
-      "url": "/currencies/handy",
-      "value": 1
-    },
-    {
-      "name": "Hiz Finance",
-      "url": "/currencies/hiz-finance",
-      "value": 1
-    },
-    {
-      "name": "HoldToWin",
-      "url": "/currencies/holdtowin",
-      "value": 1
-    },
-    {
-      "name": "HubDao",
-      "url": "/currencies/hubdao",
-      "value": 1
-    },
-    {
-      "name": "Hyve",
-      "url": "/currencies/hyve",
-      "value": 1
-    },
-    {
-      "name": "IDall",
-      "url": "/currencies/idall",
-      "value": 1
-    },
-    {
-      "name": "ITO Utility Token",
-      "url": "/currencies/ito-utility-token",
-      "value": 1
-    },
-    {
-      "name": "Interest Bearing ETH",
-      "url": "/currencies/ibeth",
-      "value": 1
-    },
-    {
-      "name": "Itchiro Games",
-      "url": "/currencies/itchiro-games",
-      "value": 1
-    },
-    {
-      "name": "IterationSyndicate",
-      "url": "/currencies/iterationsyndicate",
-      "value": 1
-    },
-    {
-      "name": "JSB FOUNDATION",
-      "url": "/currencies/jsb-foundation",
-      "value": 1
-    },
-    {
-      "name": "Jointer",
-      "url": "/currencies/jointer",
-      "value": 1
-    },
-    {
-      "name": "JustBet",
-      "url": "/currencies/justbet",
-      "value": 1
-    },
-    {
-      "name": "KING OF DEFI",
-      "url": "/currencies/king-of-defi",
-      "value": 1
-    },
-    {
-      "name": "KP2R.Network",
-      "url": "/currencies/kp2r-network",
-      "value": 1
-    },
-    {
-      "name": "Keep3rV1",
-      "url": "/currencies/keep3rv1",
-      "value": 1
-    },
-    {
-      "name": "Keep4r",
-      "url": "/currencies/keep4r",
-      "value": 1
-    },
-    {
-      "name": "KeeperDAO",
-      "url": "/currencies/keeperdao",
-      "value": 1
-    },
-    {
-      "name": "Kira Network",
-      "url": "/currencies/kira-network",
-      "value": 1
-    },
-    {
-      "name": "Komet",
-      "url": "/currencies/komet",
-      "value": 1
-    },
-    {
-      "name": "LIQUID",
-      "url": "/currencies/liquidefi",
-      "value": 1
-    },
-    {
-      "name": "LONG COIN",
-      "url": "/currencies/long-coin",
-      "value": 1
-    },
-    {
-      "name": "Lattice Token",
-      "url": "/currencies/lattice-token",
-      "value": 1
-    },
-    {
-      "name": "LeLeFoodChain",
-      "url": "/currencies/lelefoodchain",
-      "value": 1
-    },
-    {
-      "name": "Leverj Gluon",
-      "url": "/currencies/leverj-gluon",
-      "value": 1
-    },
-    {
-      "name": "Libartysharetoken",
-      "url": "/currencies/libartysharetoken",
-      "value": 1
-    },
-    {
-      "name": "LibreFreelencer",
-      "url": "/currencies/librefreelencer",
-      "value": 1
-    },
-    {
-      "name": "LifetionCoin",
-      "url": "/currencies/lifetioncoin",
-      "value": 1
-    },
-    {
-      "name": "Light Coin Exchange Token",
-      "url": "/currencies/light-coin-exchange-token",
-      "value": 1
-    },
-    {
-      "name": "Load Network",
-      "url": "/currencies/load-network",
-      "value": 1
-    },
-    {
-      "name": "Lock3r Network",
-      "url": "/currencies/lk3r",
-      "value": 1
-    },
-    {
-      "name": "Lumos",
-      "url": "/currencies/lumos",
-      "value": 1
-    },
-    {
-      "name": "Lyra",
-      "url": "/currencies/lyra",
-      "value": 1
-    },
-    {
-      "name": "MYCE",
-      "url": "/currencies/myce",
-      "value": 1
-    },
-    {
-      "name": "Mars Network",
-      "url": "/currencies/mars-network",
-      "value": 1
-    },
-    {
-      "name": "McNetworkDefi",
-      "url": "/currencies/mcnetwork",
-      "value": 1
-    },
-    {
-      "name": "Medicalveda",
-      "url": "/currencies/medicalveda",
-      "value": 1
-    },
-    {
-      "name": "MegaCryptoPolis",
-      "url": "/currencies/megacryptopolis",
-      "value": 1
-    },
-    {
-      "name": "Metis",
-      "url": "/currencies/metis",
-      "value": 1
-    },
-    {
-      "name": "MileVerse",
-      "url": "/currencies/mileverse",
-      "value": 1
-    },
-    {
-      "name": "MilliMeter",
-      "url": "/currencies/millimeter",
-      "value": 1
-    },
-    {
-      "name": "Misbloc",
-      "url": "/currencies/misbloc",
-      "value": 1
-    },
-    {
-      "name": "MobiePay",
-      "url": "/currencies/mobiepay",
-      "value": 1
-    },
-    {
-      "name": "MoneroV ",
-      "url": "/currencies/monero-v",
-      "value": 1
-    },
-    {
-      "name": "Money of Tommorow, Today",
-      "url": "/currencies/money-of-tommorow-today",
-      "value": 1
-    },
-    {
-      "name": "Moonday Finance",
-      "url": "/currencies/moonday-finance",
-      "value": 1
-    },
-    {
-      "name": "MotaCoin",
-      "url": "/currencies/motacoin",
-      "value": 1
-    },
-    {
-      "name": "Muse",
-      "url": "/currencies/muse",
-      "value": 1
-    },
-    {
-      "name": "NIX Bridge Token",
-      "url": "/currencies/nix-bridge-token",
-      "value": 1
-    },
-    {
-      "name": "Neeo",
-      "url": "/currencies/neeo",
-      "value": 1
-    },
-    {
-      "name": "Neeva Defi",
-      "url": "/currencies/neeva-defi",
-      "value": 1
-    },
-    {
-      "name": "NestEGG Coin",
-      "url": "/currencies/nestegg-coin",
-      "value": 1
-    },
-    {
-      "name": "Netkoin",
-      "url": "/currencies/netkoin",
-      "value": 1
-    },
-    {
-      "name": "Neutrino Token",
-      "url": "/currencies/neutrino-system-base-token",
-      "value": 1
-    },
-    {
-      "name": "Nsure.Network",
-      "url": "/currencies/nsure-network",
-      "value": 1
-    },
-    {
-      "name": "Nyan V2",
-      "url": "/currencies/nyan-v2",
-      "value": 1
-    },
-    {
-      "name": "OASISBloc",
-      "url": "/currencies/oasisbloc",
-      "value": 1
-    },
-    {
-      "name": "OLPORTAL",
-      "url": "/currencies/olportal",
-      "value": 1
-    },
-    {
-      "name": "ORO",
-      "url": "/currencies/oro",
-      "value": 1
-    },
-    {
-      "name": "OST",
-      "url": "/currencies/ost",
-      "value": 1
-    },
-    {
-      "name": "Oasis Network",
-      "url": "/currencies/oasis-network",
-      "value": 1
-    },
-    {
-      "name": "OpenDAO",
-      "url": "/currencies/opendao",
-      "value": 1
-    },
-    {
-      "name": "Oraichain Token",
-      "url": "/currencies/oraichain-token",
-      "value": 1
-    },
-    {
-      "name": "Order of the Black Rose",
-      "url": "/currencies/order-of-the-black-rose",
-      "value": 1
-    },
-    {
-      "name": "PEAKDEFI",
-      "url": "/currencies/peakdefi",
-      "value": 1
-    },
-    {
-      "name": "PUML Better Health",
-      "url": "/currencies/puml-better-health",
-      "value": 1
-    },
-    {
-      "name": "PayAccept",
-      "url": "/currencies/payaccept",
-      "value": 1
-    },
-    {
-      "name": "Paypolitan Token",
-      "url": "/currencies/paypolitan-token",
-      "value": 1
-    },
-    {
-      "name": "Peet DeFi",
-      "url": "/currencies/peet-defi",
-      "value": 1
-    },
-    {
-      "name": "Phoenix Global",
-      "url": "/currencies/phoenix-global",
-      "value": 1
-    },
-    {
-      "name": "Phoneum",
-      "url": "/currencies/phoneum",
-      "value": 1
-    },
-    {
-      "name": "PiSwap Token",
-      "url": "/currencies/piswap-token",
-      "value": 1
-    },
-    {
-      "name": "PicaArtMoney",
-      "url": "/currencies/picaartmoney",
-      "value": 1
-    },
-    {
-      "name": "PieDAO DEFI Large Cap",
-      "url": "/currencies/piedao-defi-large-cap",
-      "value": 1
-    },
-    {
-      "name": "Pool of Stake",
-      "url": "/currencies/pool-of-stake",
-      "value": 1
-    },
-    {
-      "name": "PoolStake",
-      "url": "/currencies/poolstake",
-      "value": 1
-    },
-    {
-      "name": "PowerPool",
-      "url": "/currencies/powerpool",
-      "value": 1
-    },
-    {
-      "name": "Prophet",
-      "url": "/currencies/prophet",
-      "value": 1
-    },
-    {
-      "name": "Pteria",
-      "url": "/currencies/pteria",
-      "value": 1
-    },
-    {
-      "name": "QuiverX",
-      "url": "/currencies/quiverx",
-      "value": 1
-    },
-    {
-      "name": "Radix",
-      "url": "/currencies/radix",
-      "value": 1
-    },
-    {
-      "name": "Rake Finance",
-      "url": "/currencies/rake-finance",
-      "value": 1
-    },
-    {
-      "name": "ReapChain",
-      "url": "/currencies/reapchain",
-      "value": 1
-    },
-    {
-      "name": "ReddCoin",
-      "url": "/currencies/redd",
-      "value": 1
-    },
-    {
-      "name": "SERGS",
-      "url": "/currencies/sergs",
-      "value": 1
-    },
-    {
-      "name": "SPACE-iZ",
-      "url": "/currencies/space-iz",
-      "value": 1
-    },
-    {
-      "name": "SUP8EME",
-      "url": "/currencies/sup8eme",
-      "value": 1
-    },
-    {
-      "name": "SURF Finance",
-      "url": "/currencies/surf",
-      "value": 1
-    },
-    {
-      "name": "SYNC Network",
-      "url": "/currencies/sync-network",
-      "value": 1
-    },
-    {
-      "name": "Sancoj",
-      "url": "/currencies/sancoj",
-      "value": 1
-    },
-    {
-      "name": "Sav3Token",
-      "url": "/currencies/sav3token",
-      "value": 1
-    },
-    {
-      "name": "Shard",
-      "url": "/currencies/shard",
-      "value": 1
-    },
-    {
-      "name": "ShareAt",
-      "url": "/currencies/shareat",
-      "value": 1
-    },
-    {
-      "name": "SmartCredit Token",
-      "url": "/currencies/smartcredit-token",
-      "value": 1
-    },
-    {
-      "name": "Smpl foundation",
-      "url": "/currencies/smplfoundation",
-      "value": 1
-    },
-    {
-      "name": "Social Rocket",
-      "url": "/currencies/social-rocket",
-      "value": 1
-    },
-    {
-      "name": "Stably USD",
-      "url": "/currencies/stableusd",
-      "value": 1
-    },
-    {
-      "name": "Stacy",
-      "url": "/currencies/stacy",
-      "value": 1
-    },
-    {
-      "name": "StarDEX",
-      "url": "/currencies/stardex",
-      "value": 1
-    },
-    {
-      "name": "Streamix",
-      "url": "/currencies/streamix",
-      "value": 1
-    },
-    {
-      "name": "Stronghold Token",
-      "url": "/currencies/stronghold-token",
-      "value": 1
-    },
-    {
-      "name": "SynLev",
-      "url": "/currencies/synlev",
-      "value": 1
-    },
-    {
-      "name": "Synthetix",
-      "url": "/currencies/synthetix-network-token",
-      "value": 1
-    },
-    {
-      "name": "TEAL",
-      "url": "/currencies/teal",
-      "value": 1
-    },
-    {
-      "name": "TON Crystal",
-      "url": "/currencies/ton-crystal",
-      "value": 1
-    },
-    {
-      "name": "TON Token",
-      "url": "/currencies/tontoken",
-      "value": 1
-    },
-    {
-      "name": "TRON",
-      "url": "/currencies/tron",
-      "value": 1
-    },
-    {
-      "name": "Tatcoin",
-      "url": "/currencies/tatcoin",
-      "value": 1
-    },
-    {
-      "name": "TecraCoin",
-      "url": "/currencies/tecracoin",
-      "value": 1
-    },
-    {
-      "name": "TenUp",
-      "url": "/currencies/tenup",
-      "value": 1
-    },
-    {
-      "name": "TerraUSD",
-      "url": "/currencies/terrausd",
-      "value": 1
-    },
-    {
-      "name": "Tessla Coin",
-      "url": "/currencies/tessla-coin",
-      "value": 1
-    },
-    {
-      "name": "The LoveChain",
-      "url": "/currencies/the-lovechain",
-      "value": 1
-    },
-    {
-      "name": "The Luxury Coin",
-      "url": "/currencies/the-luxury-coin",
-      "value": 1
-    },
-    {
-      "name": "The Universal Settlement Coin",
-      "url": "/currencies/the-universal-settlement-coin",
-      "value": 1
-    },
-    {
-      "name": "TheOvOrideA",
-      "url": "/currencies/theovoridea",
-      "value": 1
-    },
-    {
-      "name": "ThreeFold",
-      "url": "/currencies/threefold",
-      "value": 1
-    },
-    {
-      "name": "Trade.win",
-      "url": "/currencies/trade-win",
-      "value": 1
-    },
-    {
-      "name": "TrustToken",
-      "url": "/currencies/trusttoken",
-      "value": 1
-    },
-    {
-      "name": "Tsunami finance",
-      "url": "/currencies/tsunami",
-      "value": 1
-    },
-    {
-      "name": "UBIX.Network",
-      "url": "/currencies/ubix-network",
-      "value": 1
-    },
-    {
-      "name": "UNCL",
-      "url": "/currencies/uncl",
-      "value": 1
-    },
-    {
-      "name": "USDX [Kava]",
-      "url": "/currencies/usdx-kava",
-      "value": 1
-    },
-    {
-      "name": "UTU Protocol",
-      "url": "/currencies/utu-protocol",
-      "value": 1
-    },
-    {
-      "name": "Ubiner",
-      "url": "/currencies/ubiner",
-      "value": 1
-    },
-    {
-      "name": "UnFederalReserve",
-      "url": "/currencies/unfederalreserve",
-      "value": 1
-    },
-    {
-      "name": "UniCrypt",
-      "url": "/currencies/uncx",
-      "value": 1
-    },
-    {
-      "name": "UniMex",
-      "url": "/currencies/unimex-finance",
-      "value": 1
-    },
-    {
-      "name": "UniWhales",
-      "url": "/currencies/uniwhales",
-      "value": 1
-    },
-    {
-      "name": "UniWorld",
-      "url": "/currencies/uniworld",
-      "value": 1
-    },
-    {
-      "name": "Unifi Protocol DAO",
-      "url": "/currencies/unifi-protocol-dao",
-      "value": 1
-    },
-    {
-      "name": "Uniform Fiscal Object",
-      "url": "/currencies/uniform-fiscal-object",
-      "value": 1
-    },
-    {
-      "name": "Unistake",
-      "url": "/currencies/unistake",
-      "value": 1
-    },
-    {
-      "name": "UnoSwap",
-      "url": "/currencies/unoswap",
-      "value": 1
-    },
-    {
-      "name": "VKF Platform",
-      "url": "/currencies/vkf-platform",
-      "value": 1
-    },
-    {
-      "name": "Value Liquidity",
-      "url": "/currencies/value-defi-protocol",
-      "value": 1
-    },
-    {
-      "name": "Vanilla Network",
-      "url": "/currencies/vanilla-network",
-      "value": 1
-    },
-    {
-      "name": "Volts.Finance",
-      "url": "/currencies/volts-finance",
-      "value": 1
-    },
-    {
-      "name": "WEMIX",
-      "url": "/currencies/wemix",
-      "value": 1
-    },
-    {
-      "name": "Wabi",
-      "url": "/currencies/tael",
-      "value": 1
-    },
-    {
-      "name": "Warlord Token",
-      "url": "/currencies/warlord-token",
-      "value": 1
-    },
-    {
-      "name": "WeBlock",
-      "url": "/currencies/weblock",
-      "value": 1
-    },
-    {
-      "name": "Wish Coin",
-      "url": "/currencies/wish-coin",
-      "value": 1
-    },
-    {
-      "name": "Wootrade",
-      "url": "/currencies/wootrade",
-      "value": 1
-    },
-    {
-      "name": "Wrapped BNB",
-      "url": "/currencies/wbnb",
-      "value": 1
-    },
-    {
-      "name": "Wrapped ZEC",
-      "url": "/currencies/wrapped-zec",
-      "value": 1
-    },
-    {
-      "name": "X Infinity",
-      "url": "/currencies/x-infinity",
-      "value": 1
-    },
-    {
-      "name": "XCredit",
-      "url": "/currencies/xcredit",
-      "value": 1
-    },
-    {
-      "name": "XFII",
-      "url": "/currencies/xfii",
-      "value": 1
-    },
-    {
-      "name": "XPToken.io",
-      "url": "/currencies/xptoken-io",
-      "value": 1
-    },
-    {
-      "name": "YFI CREDITS GROUP",
-      "url": "/currencies/yfi-credits-group",
-      "value": 1
-    },
-    {
-      "name": "YFI3.money",
-      "url": "/currencies/yfi3-money",
-      "value": 1
-    },
-    {
-      "name": "YFIII",
-      "url": "/currencies/yfiii",
-      "value": 1
-    },
-    {
-      "name": "YUI Token",
-      "url": "/currencies/yui-token",
-      "value": 1
-    },
-    {
-      "name": "YUSRA",
-      "url": "/currencies/yusra",
-      "value": 1
-    },
-    {
-      "name": "YYFI.Protocol",
-      "url": "/currencies/yyfi-protocol",
-      "value": 1
-    },
-    {
-      "name": "Yearn Classic Finance",
-      "url": "/currencies/yearn-classic-finance",
-      "value": 1
-    },
-    {
-      "name": "Yearn Finance Bit2",
-      "url": "/currencies/yearn-finance-bit2",
-      "value": 1
-    },
-    {
-      "name": "Yearn Finance Network",
-      "url": "/currencies/yearn-finance-network",
-      "value": 1
-    },
-    {
-      "name": "Yearn Finance Red Moon",
-      "url": "/currencies/yearn-finance-red-moon",
-      "value": 1
-    },
-    {
-      "name": "Yearn Loans Finance",
-      "url": "/currencies/yearn-loans-finance",
-      "value": 1
-    },
-    {
-      "name": "Yearn Secure",
-      "url": "/currencies/yearn-secure",
-      "value": 1
-    },
-    {
-      "name": "YfDFI Finance",
-      "url": "/currencies/yfdfi-finance",
-      "value": 1
-    },
-    {
-      "name": "Yfi.mobi",
-      "url": "/currencies/yfi-mobi",
-      "value": 1
-    },
-    {
-      "name": "Zoracles",
-      "url": "/currencies/zoracles",
-      "value": 1
-    },
-    {
-      "name": "Zuplo",
-      "url": "/currencies/zuplo",
-      "value": 1
-    },
-    {
-      "name": "gAsp",
-      "url": "/currencies/gasp",
-      "value": 1
-    },
-    {
-      "name": "nYFI",
-      "url": "/currencies/nyfi",
-      "value": 1
-    },
-    {
-      "name": "noob.finance",
-      "url": "/currencies/noob-finance",
-      "value": 1
-    },
-    {
-      "name": "pulltherug.finance",
-      "url": "/currencies/rugz",
-      "value": 1
-    },
-    {
-      "name": "reflect.finance",
-      "url": "/currencies/reflect-finance",
-      "value": 1
-    },
-    {
-      "name": "saffron.finance",
-      "url": "/currencies/saffron-finance",
-      "value": 1
-    },
-    {
-      "name": "stakedFIRO",
-      "url": "/currencies/stakedfiro",
-      "value": 1
-    },
-    {
-      "name": "swiss.finance",
-      "url": "/currencies/swiss-finance",
-      "value": 1
-    },
-    {
-      "name": "tBTC",
-      "url": "/currencies/tbtc",
-      "value": 1
-    },
-    {
-      "name": "yOUcash",
-      "url": "/currencies/youcash",
-      "value": 1
-    },
-    {
-      "name": "zHEGIC",
-      "url": "/currencies/zhegic",
-      "value": 1
-    },
-    {
-      "name": "zLOT Finance",
-      "url": "/currencies/zlot-finance",
-      "value": 1
-    },
-    {
       "name": "Token",
       "children": [
         {
@@ -1512,6 +17,21 @@
         {
           "name": "Aitra",
           "url": "/currencies/aitra",
+          "value": 1
+        },
+        {
+          "name": "Alaya",
+          "url": "/currencies/alaya",
+          "value": 1
+        },
+        {
+          "name": "Animal Friends United",
+          "url": "/currencies/animal-friends-united",
+          "value": 1
+        },
+        {
+          "name": "Aspire",
+          "url": "/currencies/aspire",
           "value": 1
         },
         {
@@ -1535,8 +55,28 @@
           "value": 1
         },
         {
+          "name": "Cardstack",
+          "url": "/currencies/cardstack",
+          "value": 1
+        },
+        {
           "name": "Celo Dollar",
           "url": "/currencies/celo-dollar",
+          "value": 1
+        },
+        {
+          "name": "ChallengeDac",
+          "url": "/currencies/challengedac",
+          "value": 1
+        },
+        {
+          "name": "Combo",
+          "url": "/currencies/combo",
+          "value": 1
+        },
+        {
+          "name": "Conflux Network",
+          "url": "/currencies/conflux-network",
           "value": 1
         },
         {
@@ -1560,6 +100,11 @@
           "value": 1
         },
         {
+          "name": "EduMetrix Coin",
+          "url": "/currencies/edumetrix",
+          "value": 1
+        },
+        {
           "name": "Eight Hours",
           "url": "/currencies/eight-hours",
           "value": 1
@@ -1570,6 +115,11 @@
           "value": 1
         },
         {
+          "name": "FRED Energy",
+          "url": "/currencies/fred-energy",
+          "value": 1
+        },
+        {
           "name": "FinNexus",
           "url": "/currencies/finnexus",
           "value": 1
@@ -1577,6 +127,11 @@
         {
           "name": "GM Holding",
           "url": "/currencies/gm-holding",
+          "value": 1
+        },
+        {
+          "name": "Gatherer",
+          "url": "/currencies/gatherer",
           "value": 1
         },
         {
@@ -1592,6 +147,11 @@
         {
           "name": "HAPY Coin",
           "url": "/currencies/hapy-coin",
+          "value": 1
+        },
+        {
+          "name": "HARD Protocol",
+          "url": "/currencies/hard-protocol",
           "value": 1
         },
         {
@@ -1640,6 +200,11 @@
           "value": 1
         },
         {
+          "name": "Leverj Gluon",
+          "url": "/currencies/leverj-gluon",
+          "value": 1
+        },
+        {
           "name": "LikeCoin",
           "url": "/currencies/likecoin",
           "value": 1
@@ -1672,6 +237,26 @@
         {
           "name": "Mettalex",
           "url": "/currencies/mettalex",
+          "value": 1
+        },
+        {
+          "name": "MobiePay",
+          "url": "/currencies/mobiepay",
+          "value": 1
+        },
+        {
+          "name": "Money of Tommorow, Today",
+          "url": "/currencies/money-of-tommorow-today",
+          "value": 1
+        },
+        {
+          "name": "Neeo",
+          "url": "/currencies/neeo",
+          "value": 1
+        },
+        {
+          "name": "Neutrino Token",
+          "url": "/currencies/neutrino-system-base-token",
           "value": 1
         },
         {
@@ -1710,6 +295,11 @@
           "value": 1
         },
         {
+          "name": "PUML Better Health",
+          "url": "/currencies/puml-better-health",
+          "value": 1
+        },
+        {
           "name": "PayFrequent USD",
           "url": "/currencies/payfrequent-usd-2",
           "value": 1
@@ -1732,6 +322,11 @@
         {
           "name": "Realio Network",
           "url": "/currencies/realio-network",
+          "value": 1
+        },
+        {
+          "name": "ReapChain",
+          "url": "/currencies/reapchain",
           "value": 1
         },
         {
@@ -1765,6 +360,16 @@
           "value": 1
         },
         {
+          "name": "Stronghold Token",
+          "url": "/currencies/stronghold-token",
+          "value": 1
+        },
+        {
+          "name": "TON Crystal",
+          "url": "/currencies/ton-crystal",
+          "value": 1
+        },
+        {
           "name": "TRAXIA",
           "url": "/currencies/traxia",
           "value": 1
@@ -1772,6 +377,11 @@
         {
           "name": "Tachyon Protocol",
           "url": "/currencies/tachyon-protocol",
+          "value": 1
+        },
+        {
+          "name": "TecraCoin",
+          "url": "/currencies/tecracoin",
           "value": 1
         },
         {
@@ -1790,6 +400,16 @@
           "value": 1
         },
         {
+          "name": "USDX [Kava]",
+          "url": "/currencies/usdx-kava",
+          "value": 1
+        },
+        {
+          "name": "UTU Protocol",
+          "url": "/currencies/utu-protocol",
+          "value": 1
+        },
+        {
           "name": "UniFi Protocol",
           "url": "/currencies/unifi-protocol",
           "value": 1
@@ -1797,6 +417,11 @@
         {
           "name": "Unification",
           "url": "/currencies/unification",
+          "value": 1
+        },
+        {
+          "name": "VKF Platform",
+          "url": "/currencies/vkf-platform",
           "value": 1
         },
         {
@@ -1815,8 +440,23 @@
           "value": 1
         },
         {
+          "name": "WEMIX",
+          "url": "/currencies/wemix",
+          "value": 1
+        },
+        {
+          "name": "X Infinity",
+          "url": "/currencies/x-infinity",
+          "value": 1
+        },
+        {
           "name": "XTRM COIN",
           "url": "/currencies/xtrm-coin",
+          "value": 1
+        },
+        {
+          "name": "YUSRA",
+          "url": "/currencies/yusra",
           "value": 1
         },
         {
@@ -1842,6 +482,11 @@
         {
           "name": "Ethereum",
           "children": [
+            {
+              "name": "$YEET",
+              "url": "/currencies/yeet",
+              "value": 1
+            },
             {
               "name": "12Ships",
               "url": "/currencies/12ships",
@@ -1938,6 +583,11 @@
               "value": 1
             },
             {
+              "name": "88mph",
+              "url": "/currencies/88mph",
+              "value": 1
+            },
+            {
               "name": "8X8 PROTOCOL",
               "url": "/currencies/8x8-protocol",
               "value": 1
@@ -1960,6 +610,11 @@
             {
               "name": "AGA Token",
               "url": "/currencies/aga",
+              "value": 1
+            },
+            {
+              "name": "AGOV (ANSWER Governance)",
+              "url": "/currencies/agov-answer-governance",
               "value": 1
             },
             {
@@ -2015,6 +670,11 @@
             {
               "name": "ARPA Chain",
               "url": "/currencies/arpa-chain",
+              "value": 1
+            },
+            {
+              "name": "ASKO",
+              "url": "/currencies/askobar-network",
               "value": 1
             },
             {
@@ -2075,6 +735,11 @@
             {
               "name": "All.me",
               "url": "/currencies/all-me",
+              "value": 1
+            },
+            {
+              "name": "AllWin DeFi",
+              "url": "/currencies/allwin-defi",
               "value": 1
             },
             {
@@ -2158,6 +823,11 @@
               "value": 1
             },
             {
+              "name": "Archer DAO Governance Token",
+              "url": "/currencies/archer-dao-governance-token",
+              "value": 1
+            },
+            {
               "name": "Arcona",
               "url": "/currencies/arcona",
               "value": 1
@@ -2213,6 +883,11 @@
               "value": 1
             },
             {
+              "name": "Axion",
+              "url": "/currencies/axion",
+              "value": 1
+            },
+            {
               "name": "Axis DeFi",
               "url": "/currencies/axis-defi",
               "value": 1
@@ -2223,6 +898,11 @@
               "value": 1
             },
             {
+              "name": "Azuki",
+              "url": "/currencies/azuki",
+              "value": 1
+            },
+            {
               "name": "B ONE PAYMENT",
               "url": "/currencies/b-one-payment",
               "value": 1
@@ -2230,6 +910,11 @@
             {
               "name": "B91",
               "url": "/currencies/b91",
+              "value": 1
+            },
+            {
+              "name": "BAEPAY",
+              "url": "/currencies/baepay",
               "value": 1
             },
             {
@@ -2250,6 +935,11 @@
             {
               "name": "BIKI",
               "url": "/currencies/biki",
+              "value": 1
+            },
+            {
+              "name": "BIOKKOIN",
+              "url": "/currencies/biokkoin",
               "value": 1
             },
             {
@@ -2285,6 +975,11 @@
             {
               "name": "BLOCKMAX",
               "url": "/currencies/blockmax",
+              "value": 1
+            },
+            {
+              "name": "BMToken",
+              "url": "/currencies/bmtoken",
               "value": 1
             },
             {
@@ -2373,13 +1068,33 @@
               "value": 1
             },
             {
+              "name": "Baroin",
+              "url": "/currencies/baroin",
+              "value": 1
+            },
+            {
+              "name": "Barter",
+              "url": "/currencies/barter",
+              "value": 1
+            },
+            {
               "name": "BarterTrade",
               "url": "/currencies/bartertrade",
               "value": 1
             },
             {
+              "name": "Base Protocol",
+              "url": "/currencies/base-protocol",
+              "value": 1
+            },
+            {
               "name": "Basid Coin",
               "url": "/currencies/basid-coin",
+              "value": 1
+            },
+            {
+              "name": "Basis Cash",
+              "url": "/currencies/basis-cash",
               "value": 1
             },
             {
@@ -2488,6 +1203,11 @@
               "value": 1
             },
             {
+              "name": "Bird.Money",
+              "url": "/currencies/bird-money",
+              "value": 1
+            },
+            {
               "name": "Birdchain",
               "url": "/currencies/birdchain",
               "value": 1
@@ -2553,6 +1273,11 @@
               "value": 1
             },
             {
+              "name": "Bithao",
+              "url": "/currencies/bithao",
+              "value": 1
+            },
+            {
               "name": "BitoPro Exchange Token",
               "url": "/currencies/bitopro-exchange-token",
               "value": 1
@@ -2565,6 +1290,11 @@
             {
               "name": "Bitpayer Token",
               "url": "/currencies/bitpayer-token",
+              "value": 1
+            },
+            {
+              "name": "Bitpumps Token",
+              "url": "/currencies/bitpumps-token",
               "value": 1
             },
             {
@@ -2663,8 +1393,28 @@
               "value": 1
             },
             {
+              "name": "Blueshare Token",
+              "url": "/currencies/blueshare-token",
+              "value": 1
+            },
+            {
               "name": "Bob's Repair",
               "url": "/currencies/bobs-repair",
+              "value": 1
+            },
+            {
+              "name": "Boltt Coin ",
+              "url": "/currencies/boltt-coin",
+              "value": 1
+            },
+            {
+              "name": "BonFi",
+              "url": "/currencies/bonfi",
+              "value": 1
+            },
+            {
+              "name": "Bonded Finance",
+              "url": "/currencies/bonded-finance",
               "value": 1
             },
             {
@@ -2675,6 +1425,11 @@
             {
               "name": "BonezYard",
               "url": "/currencies/bonezyard",
+              "value": 1
+            },
+            {
+              "name": "BooBank",
+              "url": "/currencies/boobank",
               "value": 1
             },
             {
@@ -2703,6 +1458,11 @@
               "value": 1
             },
             {
+              "name": "Brother Music Platform",
+              "url": "/currencies/brother-music-platform",
+              "value": 1
+            },
+            {
               "name": "Buccaneer V2",
               "url": "/currencies/buccaneer-v2",
               "value": 1
@@ -2710,6 +1470,11 @@
             {
               "name": "BuckHathCoin",
               "url": "/currencies/buck-hath-coin",
+              "value": 1
+            },
+            {
+              "name": "Bullswap Exchange",
+              "url": "/currencies/bullswap-exchange",
               "value": 1
             },
             {
@@ -2803,8 +1568,18 @@
               "value": 1
             },
             {
+              "name": "COVER Protocol",
+              "url": "/currencies/cover-protocol",
+              "value": 1
+            },
+            {
               "name": "CRDT",
               "url": "/currencies/crdt",
+              "value": 1
+            },
+            {
+              "name": "CSP DAO",
+              "url": "/currencies/csp-dao",
               "value": 1
             },
             {
@@ -2820,6 +1595,11 @@
             {
               "name": "Camp",
               "url": "/currencies/camp",
+              "value": 1
+            },
+            {
+              "name": "Carbon",
+              "url": "/currencies/carbon",
               "value": 1
             },
             {
@@ -2893,6 +1673,11 @@
               "value": 1
             },
             {
+              "name": "Chonk",
+              "url": "/currencies/chonk",
+              "value": 1
+            },
+            {
               "name": "Chromia",
               "url": "/currencies/chromia",
               "value": 1
@@ -2930,6 +1715,11 @@
             {
               "name": "CoTrader",
               "url": "/currencies/cotrader",
+              "value": 1
+            },
+            {
+              "name": "Coin",
+              "url": "/currencies/coin-defi",
               "value": 1
             },
             {
@@ -2980,6 +1770,11 @@
             {
               "name": "Coinzo Token",
               "url": "/currencies/coinzo-token",
+              "value": 1
+            },
+            {
+              "name": "Colibri Protocol",
+              "url": "/currencies/colibri",
               "value": 1
             },
             {
@@ -3043,6 +1838,16 @@
               "value": 1
             },
             {
+              "name": "CorionX",
+              "url": "/currencies/corionx",
+              "value": 1
+            },
+            {
+              "name": "Cornichon",
+              "url": "/currencies/cornichon",
+              "value": 1
+            },
+            {
               "name": "Cosmo Coin",
               "url": "/currencies/cosmo-coin",
               "value": 1
@@ -3093,6 +1898,11 @@
               "value": 1
             },
             {
+              "name": "CryptoBet",
+              "url": "/currencies/cryptobet",
+              "value": 1
+            },
+            {
               "name": "CryptoEnergy",
               "url": "/currencies/cryptoenergy",
               "value": 1
@@ -3113,6 +1923,11 @@
               "value": 1
             },
             {
+              "name": "Cryptochrome",
+              "url": "/currencies/cryptochrome",
+              "value": 1
+            },
+            {
               "name": "Cryptrust",
               "url": "/currencies/cryptrust",
               "value": 1
@@ -3130,6 +1945,11 @@
             {
               "name": "Custody Token",
               "url": "/currencies/custody-token",
+              "value": 1
+            },
+            {
+              "name": "CyberFi Token",
+              "url": "/currencies/cyberfi",
               "value": 1
             },
             {
@@ -3218,6 +2038,11 @@
               "value": 1
             },
             {
+              "name": "DOOS TOKEN",
+              "url": "/currencies/doos-token",
+              "value": 1
+            },
+            {
               "name": "DPRating",
               "url": "/currencies/dprating",
               "value": 1
@@ -3283,6 +2108,11 @@
               "value": 1
             },
             {
+              "name": "DeFi Gold",
+              "url": "/currencies/defi-gold",
+              "value": 1
+            },
+            {
               "name": "DeFi Insurance Protocol",
               "url": "/currencies/defi-insurance-protocol",
               "value": 1
@@ -3295,6 +2125,11 @@
             {
               "name": "DeFi Pulse Index",
               "url": "/currencies/defi-pulse-index",
+              "value": 1
+            },
+            {
+              "name": "DeFi of Thrones",
+              "url": "/currencies/deli-of-thrones",
               "value": 1
             },
             {
@@ -3338,6 +2173,11 @@
               "value": 1
             },
             {
+              "name": "DefHold",
+              "url": "/currencies/defhold",
+              "value": 1
+            },
+            {
               "name": "Defi",
               "url": "/currencies/defi",
               "value": 1
@@ -3348,8 +2188,23 @@
               "value": 1
             },
             {
+              "name": "DefiCliq",
+              "url": "/currencies/deficliq",
+              "value": 1
+            },
+            {
               "name": "DegenVC",
               "url": "/currencies/degenvc",
+              "value": 1
+            },
+            {
+              "name": "Degov",
+              "url": "/currencies/degov",
+              "value": 1
+            },
+            {
+              "name": "Deipool",
+              "url": "/currencies/deipool",
               "value": 1
             },
             {
@@ -3373,6 +2228,11 @@
               "value": 1
             },
             {
+              "name": "DexKit",
+              "url": "/currencies/dexkit",
+              "value": 1
+            },
+            {
               "name": "Dexter G",
               "url": "/currencies/dexter-g",
               "value": 1
@@ -3385,6 +2245,11 @@
             {
               "name": "Dextrust",
               "url": "/currencies/dextrust",
+              "value": 1
+            },
+            {
+              "name": "Dfinance",
+              "url": "/currencies/dfinance",
               "value": 1
             },
             {
@@ -3433,6 +2298,11 @@
               "value": 1
             },
             {
+              "name": "Divert Finance",
+              "url": "/currencies/divert-finance",
+              "value": 1
+            },
+            {
               "name": "DoDreamChain",
               "url": "/currencies/dodreamchain",
               "value": 1
@@ -3445,6 +2315,11 @@
             {
               "name": "Doctors Coin",
               "url": "/currencies/doctors-coin",
+              "value": 1
+            },
+            {
+              "name": "DogDeFiCoin",
+              "url": "/currencies/dogdeficoin",
               "value": 1
             },
             {
@@ -3500,6 +2375,11 @@
             {
               "name": "DuckDaoDime",
               "url": "/currencies/duckdaodime",
+              "value": 1
+            },
+            {
+              "name": "Dvision Network",
+              "url": "/currencies/dvision-network",
               "value": 1
             },
             {
@@ -3563,6 +2443,11 @@
               "value": 1
             },
             {
+              "name": "Earnbase",
+              "url": "/currencies/earnbase",
+              "value": 1
+            },
+            {
               "name": "EasyFi",
               "url": "/currencies/easyfi",
               "value": 1
@@ -3570,6 +2455,11 @@
             {
               "name": "EasySwap",
               "url": "/currencies/easyswap",
+              "value": 1
+            },
+            {
+              "name": "Eauric",
+              "url": "/currencies/eauric",
               "value": 1
             },
             {
@@ -3635,6 +2525,11 @@
             {
               "name": "Emirex Token",
               "url": "/currencies/emirex-token",
+              "value": 1
+            },
+            {
+              "name": "Empty Set Dollar",
+              "url": "/currencies/empty-set-dollar",
               "value": 1
             },
             {
@@ -3773,6 +2668,11 @@
               "value": 1
             },
             {
+              "name": "Experty Wisdom Token",
+              "url": "/currencies/experty-wisdom-token",
+              "value": 1
+            },
+            {
               "name": "EzyStayz",
               "url": "/currencies/ezystayz",
               "value": 1
@@ -3823,6 +2723,11 @@
               "value": 1
             },
             {
+              "name": "FRMx Token",
+              "url": "/currencies/frmx-token",
+              "value": 1
+            },
+            {
               "name": "FSBT API Token",
               "url": "/currencies/fsbt-api-token",
               "value": 1
@@ -3845,6 +2750,11 @@
             {
               "name": "FUZE Token",
               "url": "/currencies/fuze-token",
+              "value": 1
+            },
+            {
+              "name": "FXPay",
+              "url": "/currencies/fxpay",
               "value": 1
             },
             {
@@ -3885,6 +2795,11 @@
             {
               "name": "FinexboxToken",
               "url": "/currencies/finexboxtoken",
+              "value": 1
+            },
+            {
+              "name": "Fiola",
+              "url": "/currencies/fiola",
               "value": 1
             },
             {
@@ -3948,6 +2863,11 @@
               "value": 1
             },
             {
+              "name": "Freeway Token",
+              "url": "/currencies/freeway-token",
+              "value": 1
+            },
+            {
               "name": "Freight Trust & Clearing Network",
               "url": "/currencies/freight-trust-clearing-network",
               "value": 1
@@ -3963,6 +2883,11 @@
               "value": 1
             },
             {
+              "name": "Friends With Benefits",
+              "url": "/currencies/friends-with-benefits",
+              "value": 1
+            },
+            {
               "name": "Friendz",
               "url": "/currencies/friends",
               "value": 1
@@ -3970,6 +2895,11 @@
             {
               "name": "FunKeyPay",
               "url": "/currencies/funkeypay",
+              "value": 1
+            },
+            {
+              "name": "Fundamenta",
+              "url": "/currencies/fundamenta",
               "value": 1
             },
             {
@@ -4013,6 +2943,11 @@
               "value": 1
             },
             {
+              "name": "GYSR",
+              "url": "/currencies/gysr",
+              "value": 1
+            },
+            {
               "name": "Gala",
               "url": "/currencies/gala",
               "value": 1
@@ -4025,6 +2960,11 @@
             {
               "name": "Galaxy Wallet",
               "url": "/currencies/galaxy-wallet",
+              "value": 1
+            },
+            {
+              "name": "Gameswap",
+              "url": "/currencies/gameswap",
               "value": 1
             },
             {
@@ -4055,6 +2995,11 @@
             {
               "name": "GermanCoin",
               "url": "/currencies/germancoin",
+              "value": 1
+            },
+            {
+              "name": "Giftedhands",
+              "url": "/currencies/giftedhands",
               "value": 1
             },
             {
@@ -4100,6 +3045,11 @@
             {
               "name": "GoalTime N",
               "url": "/currencies/goaltime-n",
+              "value": 1
+            },
+            {
+              "name": "Goldblock",
+              "url": "/currencies/goldblock",
               "value": 1
             },
             {
@@ -4183,6 +3133,11 @@
               "value": 1
             },
             {
+              "name": "HRDCOIN",
+              "url": "/currencies/hrdcoin",
+              "value": 1
+            },
+            {
               "name": "HUNT",
               "url": "/currencies/hunt",
               "value": 1
@@ -4195,6 +3150,11 @@
             {
               "name": "Hamebi Token",
               "url": "/currencies/hamebi-token",
+              "value": 1
+            },
+            {
+              "name": "Handy",
+              "url": "/currencies/handy",
               "value": 1
             },
             {
@@ -4293,6 +3253,16 @@
               "value": 1
             },
             {
+              "name": "Hiz Finance",
+              "url": "/currencies/hiz-finance",
+              "value": 1
+            },
+            {
+              "name": "HoldToWin",
+              "url": "/currencies/holdtowin",
+              "value": 1
+            },
+            {
               "name": "Holyheld",
               "url": "/currencies/holyheld",
               "value": 1
@@ -4300,6 +3270,11 @@
             {
               "name": "Homeros",
               "url": "/currencies/homeros",
+              "value": 1
+            },
+            {
+              "name": "HubDao",
+              "url": "/currencies/hubdao",
               "value": 1
             },
             {
@@ -4395,6 +3370,11 @@
             {
               "name": "ITEN",
               "url": "/currencies/iten",
+              "value": 1
+            },
+            {
+              "name": "ITO Utility Token",
+              "url": "/currencies/ito-utility-token",
               "value": 1
             },
             {
@@ -4508,6 +3488,11 @@
               "value": 1
             },
             {
+              "name": "IterationSyndicate",
+              "url": "/currencies/iterationsyndicate",
+              "value": 1
+            },
+            {
               "name": "JBOX",
               "url": "/currencies/jboxcoin",
               "value": 1
@@ -4558,6 +3543,11 @@
               "value": 1
             },
             {
+              "name": "KP2R.Network",
+              "url": "/currencies/kp2r-network",
+              "value": 1
+            },
+            {
               "name": "KVI",
               "url": "/currencies/kvi",
               "value": 1
@@ -4580,6 +3570,11 @@
             {
               "name": "Keep Network",
               "url": "/currencies/keep-network",
+              "value": 1
+            },
+            {
+              "name": "KeeperDAO",
+              "url": "/currencies/keeperdao",
               "value": 1
             },
             {
@@ -4615,6 +3610,11 @@
             {
               "name": "Knekted",
               "url": "/currencies/knekted",
+              "value": 1
+            },
+            {
+              "name": "Komet",
+              "url": "/currencies/komet",
               "value": 1
             },
             {
@@ -4693,6 +3693,11 @@
               "value": 1
             },
             {
+              "name": "LIQUID",
+              "url": "/currencies/liquidefi",
+              "value": 1
+            },
+            {
               "name": "LOA Protocol",
               "url": "/currencies/loa-protocol",
               "value": 1
@@ -4725,6 +3730,11 @@
             {
               "name": "Latamcash",
               "url": "/currencies/latamcash",
+              "value": 1
+            },
+            {
+              "name": "Lattice Token",
+              "url": "/currencies/lattice-token",
               "value": 1
             },
             {
@@ -4768,8 +3778,18 @@
               "value": 1
             },
             {
+              "name": "LibreFreelencer",
+              "url": "/currencies/librefreelencer",
+              "value": 1
+            },
+            {
               "name": "Lien",
               "url": "/currencies/lien",
+              "value": 1
+            },
+            {
+              "name": "Light Coin Exchange Token",
+              "url": "/currencies/light-coin-exchange-token",
               "value": 1
             },
             {
@@ -4845,6 +3865,11 @@
             {
               "name": "LocalCoinSwap",
               "url": "/currencies/local-coin-swap",
+              "value": 1
+            },
+            {
+              "name": "Lock3r Network",
+              "url": "/currencies/lk3r",
               "value": 1
             },
             {
@@ -4963,6 +3988,11 @@
               "value": 1
             },
             {
+              "name": "Mars Network",
+              "url": "/currencies/mars-network",
+              "value": 1
+            },
+            {
               "name": "Master Coin Point",
               "url": "/currencies/macpo",
               "value": 1
@@ -4978,6 +4008,11 @@
               "value": 1
             },
             {
+              "name": "McNetworkDefi",
+              "url": "/currencies/mcnetwork",
+              "value": 1
+            },
+            {
               "name": "MeconCash",
               "url": "/currencies/meconcash",
               "value": 1
@@ -4985,6 +4020,11 @@
             {
               "name": "Medium",
               "url": "/currencies/medium",
+              "value": 1
+            },
+            {
+              "name": "MegaCryptoPolis",
+              "url": "/currencies/megacryptopolis",
               "value": 1
             },
             {
@@ -5033,6 +4073,16 @@
               "value": 1
             },
             {
+              "name": "MileVerse",
+              "url": "/currencies/mileverse",
+              "value": 1
+            },
+            {
+              "name": "MilliMeter",
+              "url": "/currencies/millimeter",
+              "value": 1
+            },
+            {
               "name": "Minereum",
               "url": "/currencies/minereum",
               "value": 1
@@ -5040,6 +4090,11 @@
             {
               "name": "MiniSwap",
               "url": "/currencies/miniswap",
+              "value": 1
+            },
+            {
+              "name": "Misbloc",
+              "url": "/currencies/misbloc",
               "value": 1
             },
             {
@@ -5098,6 +4153,11 @@
               "value": 1
             },
             {
+              "name": "Muse",
+              "url": "/currencies/muse",
+              "value": 1
+            },
+            {
               "name": "MyTVchain",
               "url": "/currencies/mytvchain",
               "value": 1
@@ -5153,6 +4213,11 @@
               "value": 1
             },
             {
+              "name": "Neeva Defi",
+              "url": "/currencies/neeva-defi",
+              "value": 1
+            },
+            {
               "name": "NeoWorld Cash",
               "url": "/currencies/neoworld-cash",
               "value": 1
@@ -5160,6 +4225,11 @@
             {
               "name": "Nestree",
               "url": "/currencies/nestree",
+              "value": 1
+            },
+            {
+              "name": "Netkoin",
+              "url": "/currencies/netkoin",
               "value": 1
             },
             {
@@ -5223,8 +4293,18 @@
               "value": 1
             },
             {
+              "name": "Nyan V2",
+              "url": "/currencies/nyan-v2",
+              "value": 1
+            },
+            {
               "name": "OIN Finance",
               "url": "/currencies/oin-finance",
+              "value": 1
+            },
+            {
+              "name": "OLPORTAL",
+              "url": "/currencies/olportal",
               "value": 1
             },
             {
@@ -5298,6 +4378,11 @@
               "value": 1
             },
             {
+              "name": "OpenDAO",
+              "url": "/currencies/opendao",
+              "value": 1
+            },
+            {
               "name": "Opennity",
               "url": "/currencies/opennity",
               "value": 1
@@ -5310,6 +4395,11 @@
             {
               "name": "Oracle System",
               "url": "/currencies/oracle-system",
+              "value": 1
+            },
+            {
+              "name": "Oraichain Token",
+              "url": "/currencies/oraichain-token",
               "value": 1
             },
             {
@@ -5438,8 +4528,18 @@
               "value": 1
             },
             {
+              "name": "PayAccept",
+              "url": "/currencies/payaccept",
+              "value": 1
+            },
+            {
               "name": "Payfair",
               "url": "/currencies/payfair",
+              "value": 1
+            },
+            {
+              "name": "Paypolitan Token",
+              "url": "/currencies/paypolitan-token",
               "value": 1
             },
             {
@@ -5465,6 +4565,16 @@
             {
               "name": "Phantasma Energy",
               "url": "/currencies/phantasma-energy",
+              "value": 1
+            },
+            {
+              "name": "PiSwap Token",
+              "url": "/currencies/piswap-token",
+              "value": 1
+            },
+            {
+              "name": "PieDAO DEFI Large Cap",
+              "url": "/currencies/piedao-defi-large-cap",
               "value": 1
             },
             {
@@ -5533,6 +4643,16 @@
               "value": 1
             },
             {
+              "name": "Pool of Stake",
+              "url": "/currencies/pool-of-stake",
+              "value": 1
+            },
+            {
+              "name": "PoolStake",
+              "url": "/currencies/poolstake",
+              "value": 1
+            },
+            {
               "name": "Port of DeFi Network",
               "url": "/currencies/port-of-defi-network",
               "value": 1
@@ -5578,6 +4698,11 @@
               "value": 1
             },
             {
+              "name": "Prophet",
+              "url": "/currencies/prophet",
+              "value": 1
+            },
+            {
               "name": "Props Token",
               "url": "/currencies/props",
               "value": 1
@@ -5590,6 +4715,11 @@
             {
               "name": "Proton Token",
               "url": "/currencies/proton-token",
+              "value": 1
+            },
+            {
+              "name": "Pteria",
+              "url": "/currencies/pteria",
               "value": 1
             },
             {
@@ -5653,6 +4783,11 @@
               "value": 1
             },
             {
+              "name": "QuiverX",
+              "url": "/currencies/quiverx",
+              "value": 1
+            },
+            {
               "name": "Quiztok",
               "url": "/currencies/quiztok",
               "value": 1
@@ -5700,6 +4835,11 @@
             {
               "name": "RUSH",
               "url": "/currencies/rush",
+              "value": 1
+            },
+            {
+              "name": "Rake Finance",
+              "url": "/currencies/rake-finance",
               "value": 1
             },
             {
@@ -5818,6 +4958,11 @@
               "value": 1
             },
             {
+              "name": "SERGS",
+              "url": "/currencies/sergs",
+              "value": 1
+            },
+            {
               "name": "SF Capital",
               "url": "/currencies/sf-capital",
               "value": 1
@@ -5848,6 +4993,11 @@
               "value": 1
             },
             {
+              "name": "SPACE-iZ",
+              "url": "/currencies/space-iz",
+              "value": 1
+            },
+            {
               "name": "STABLE ASSET",
               "url": "/currencies/stable-asset",
               "value": 1
@@ -5875,6 +5025,11 @@
             {
               "name": "STVKE",
               "url": "/currencies/stvke-network",
+              "value": 1
+            },
+            {
+              "name": "SURF Finance",
+              "url": "/currencies/surf",
               "value": 1
             },
             {
@@ -5915,6 +5070,11 @@
             {
               "name": "Satopay Network",
               "url": "/currencies/satopay-network",
+              "value": 1
+            },
+            {
+              "name": "Sav3Token",
+              "url": "/currencies/sav3token",
               "value": 1
             },
             {
@@ -5978,6 +5138,11 @@
               "value": 1
             },
             {
+              "name": "ShareAt",
+              "url": "/currencies/shareat",
+              "value": 1
+            },
+            {
               "name": "Sharpay",
               "url": "/currencies/sharpay",
               "value": 1
@@ -6008,6 +5173,11 @@
               "value": 1
             },
             {
+              "name": "SmartCredit Token",
+              "url": "/currencies/smartcredit-token",
+              "value": 1
+            },
+            {
               "name": "Smartshare",
               "url": "/currencies/smartshare",
               "value": 1
@@ -6018,6 +5188,11 @@
               "value": 1
             },
             {
+              "name": "Smpl foundation",
+              "url": "/currencies/smplfoundation",
+              "value": 1
+            },
+            {
               "name": "Snetwork",
               "url": "/currencies/snetwork",
               "value": 1
@@ -6025,6 +5200,11 @@
             {
               "name": "Social Lending Token",
               "url": "/currencies/social-lending-token",
+              "value": 1
+            },
+            {
+              "name": "Social Rocket",
+              "url": "/currencies/social-rocket",
               "value": 1
             },
             {
@@ -6088,8 +5268,18 @@
               "value": 1
             },
             {
+              "name": "Stacy",
+              "url": "/currencies/stacy",
+              "value": 1
+            },
+            {
               "name": "StarChain",
               "url": "/currencies/starchain",
+              "value": 1
+            },
+            {
+              "name": "StarDEX",
+              "url": "/currencies/stardex",
               "value": 1
             },
             {
@@ -6110,6 +5300,11 @@
             {
               "name": "Stream Protocol",
               "url": "/currencies/stream-protocol",
+              "value": 1
+            },
+            {
+              "name": "Streamix",
+              "url": "/currencies/streamix",
               "value": 1
             },
             {
@@ -6168,6 +5363,11 @@
               "value": 1
             },
             {
+              "name": "SynLev",
+              "url": "/currencies/synlev",
+              "value": 1
+            },
+            {
               "name": "SynchroBitcoin",
               "url": "/currencies/synchrobitcoin",
               "value": 1
@@ -6180,6 +5380,11 @@
             {
               "name": "TCASH",
               "url": "/currencies/tcash",
+              "value": 1
+            },
+            {
+              "name": "TEAL",
+              "url": "/currencies/teal",
               "value": 1
             },
             {
@@ -6230,6 +5435,11 @@
             {
               "name": "TOKPIE",
               "url": "/currencies/tokpie",
+              "value": 1
+            },
+            {
+              "name": "TON Token",
+              "url": "/currencies/tontoken",
               "value": 1
             },
             {
@@ -6288,6 +5498,11 @@
               "value": 1
             },
             {
+              "name": "Tessla Coin",
+              "url": "/currencies/tessla-coin",
+              "value": 1
+            },
+            {
               "name": "Tether Gold",
               "url": "/currencies/tether-gold",
               "value": 1
@@ -6300,6 +5515,16 @@
             {
               "name": "The Hustle App",
               "url": "/currencies/the-hustle-app",
+              "value": 1
+            },
+            {
+              "name": "The LoveChain",
+              "url": "/currencies/the-lovechain",
+              "value": 1
+            },
+            {
+              "name": "The Luxury Coin",
+              "url": "/currencies/the-luxury-coin",
               "value": 1
             },
             {
@@ -6498,6 +5723,11 @@
               "value": 1
             },
             {
+              "name": "Tsunami finance",
+              "url": "/currencies/tsunami",
+              "value": 1
+            },
+            {
               "name": "Tutor's Diary",
               "url": "/currencies/tutors-diary",
               "value": 1
@@ -6520,6 +5750,11 @@
             {
               "name": "UChain",
               "url": "/currencies/uchain",
+              "value": 1
+            },
+            {
+              "name": "UNCL",
+              "url": "/currencies/uncl",
               "value": 1
             },
             {
@@ -6563,6 +5798,16 @@
               "value": 1
             },
             {
+              "name": "UnFederalReserve",
+              "url": "/currencies/unfederalreserve",
+              "value": 1
+            },
+            {
+              "name": "UniCrypt",
+              "url": "/currencies/uncx",
+              "value": 1
+            },
+            {
               "name": "UniLayer",
               "url": "/currencies/unilayer",
               "value": 1
@@ -6570,6 +5815,16 @@
             {
               "name": "UniLend",
               "url": "/currencies/unilend",
+              "value": 1
+            },
+            {
+              "name": "UniMex",
+              "url": "/currencies/unimex-finance",
+              "value": 1
+            },
+            {
+              "name": "UniWhales",
+              "url": "/currencies/uniwhales",
               "value": 1
             },
             {
@@ -6620,6 +5875,11 @@
             {
               "name": "UniversalEnergyChain",
               "url": "/currencies/universalenergychain",
+              "value": 1
+            },
+            {
+              "name": "UnoSwap",
+              "url": "/currencies/unoswap",
               "value": 1
             },
             {
@@ -6690,6 +5950,11 @@
             {
               "name": "Vampire Protocol",
               "url": "/currencies/vampire-protocol",
+              "value": 1
+            },
+            {
+              "name": "Vanilla Network",
+              "url": "/currencies/vanilla-network",
               "value": 1
             },
             {
@@ -6803,6 +6068,16 @@
               "value": 1
             },
             {
+              "name": "Warlord Token",
+              "url": "/currencies/warlord-token",
+              "value": 1
+            },
+            {
+              "name": "WeBlock",
+              "url": "/currencies/weblock",
+              "value": 1
+            },
+            {
               "name": "WeShow Token",
               "url": "/currencies/weshow-token",
               "value": 1
@@ -6838,6 +6113,11 @@
               "value": 1
             },
             {
+              "name": "Wootrade",
+              "url": "/currencies/wootrade",
+              "value": 1
+            },
+            {
               "name": "Worldcore",
               "url": "/currencies/worldcore",
               "value": 1
@@ -6853,8 +6133,23 @@
               "value": 1
             },
             {
+              "name": "Wrapped ZEC",
+              "url": "/currencies/wrapped-zec",
+              "value": 1
+            },
+            {
               "name": "X-Block",
               "url": "/currencies/x-block",
+              "value": 1
+            },
+            {
+              "name": "XCredit",
+              "url": "/currencies/xcredit",
+              "value": 1
+            },
+            {
+              "name": "XFII",
+              "url": "/currencies/xfii",
               "value": 1
             },
             {
@@ -6938,6 +6233,11 @@
               "value": 1
             },
             {
+              "name": "YFI3.money",
+              "url": "/currencies/yfi3-money",
+              "value": 1
+            },
+            {
               "name": "YFII Gold",
               "url": "/currencies/yfii-gold",
               "value": 1
@@ -6993,6 +6293,11 @@
               "value": 1
             },
             {
+              "name": "YUI Token",
+              "url": "/currencies/yui-token",
+              "value": 1
+            },
+            {
               "name": "Yakuza DFO",
               "url": "/currencies/yakuza-dfo",
               "value": 1
@@ -7003,8 +6308,18 @@
               "value": 1
             },
             {
+              "name": "Yearn Classic Finance",
+              "url": "/currencies/yearn-classic-finance",
+              "value": 1
+            },
+            {
               "name": "Yearn Finance Bit",
               "url": "/currencies/yearn-finance-bit",
+              "value": 1
+            },
+            {
+              "name": "Yearn Finance Bit2",
+              "url": "/currencies/yearn-finance-bit2",
               "value": 1
             },
             {
@@ -7023,6 +6338,11 @@
               "value": 1
             },
             {
+              "name": "Yearn Finance Network",
+              "url": "/currencies/yearn-finance-network",
+              "value": 1
+            },
+            {
               "name": "Yearn Finance Passive Income",
               "url": "/currencies/yearn-finance-passive-income",
               "value": 1
@@ -7033,8 +6353,18 @@
               "value": 1
             },
             {
+              "name": "Yearn Finance Red Moon",
+              "url": "/currencies/yearn-finance-red-moon",
+              "value": 1
+            },
+            {
               "name": "Yearn Land",
               "url": "/currencies/yearn-land",
+              "value": 1
+            },
+            {
+              "name": "Yearn Secure",
+              "url": "/currencies/yearn-secure",
               "value": 1
             },
             {
@@ -7050,6 +6380,11 @@
             {
               "name": "Yeld Finance",
               "url": "/currencies/yeld-finance",
+              "value": 1
+            },
+            {
+              "name": "Yfi.mobi",
+              "url": "/currencies/yfi-mobi",
               "value": 1
             },
             {
@@ -7178,8 +6513,18 @@
               "value": 1
             },
             {
+              "name": "Zoracles",
+              "url": "/currencies/zoracles",
+              "value": 1
+            },
+            {
               "name": "Zuflo Coin",
               "url": "/currencies/zuflo-coin",
+              "value": 1
+            },
+            {
+              "name": "Zuplo",
+              "url": "/currencies/zuplo",
               "value": 1
             },
             {
@@ -7293,8 +6638,28 @@
               "value": 1
             },
             {
+              "name": "nYFI",
+              "url": "/currencies/nyfi",
+              "value": 1
+            },
+            {
+              "name": "noob.finance",
+              "url": "/currencies/noob-finance",
+              "value": 1
+            },
+            {
+              "name": "pulltherug.finance",
+              "url": "/currencies/rugz",
+              "value": 1
+            },
+            {
               "name": "qiibee",
               "url": "/currencies/qiibee",
+              "value": 1
+            },
+            {
+              "name": "reflect.finance",
+              "url": "/currencies/reflect-finance",
               "value": 1
             },
             {
@@ -7305,6 +6670,11 @@
             {
               "name": "snglsDAO",
               "url": "/currencies/snglsdao",
+              "value": 1
+            },
+            {
+              "name": "stakedFIRO",
+              "url": "/currencies/stakedfiro",
               "value": 1
             },
             {
@@ -7340,6 +6710,16 @@
             {
               "name": "yfBeta",
               "url": "/currencies/yfbeta",
+              "value": 1
+            },
+            {
+              "name": "zHEGIC",
+              "url": "/currencies/zhegic",
+              "value": 1
+            },
+            {
+              "name": "zLOT Finance",
+              "url": "/currencies/zlot-finance",
               "value": 1
             },
             {
@@ -11371,6 +10751,11 @@
                   "value": 1
                 },
                 {
+                  "name": "Akropolis Delphi",
+                  "url": "/currencies/akropolis-delphi",
+                  "value": 1
+                },
+                {
                   "name": "Ampleforth",
                   "url": "/currencies/ampleforth",
                   "value": 1
@@ -11378,6 +10763,11 @@
                 {
                   "name": "Auctus",
                   "url": "/currencies/auctus",
+                  "value": 1
+                },
+                {
+                  "name": "BoringDAO",
+                  "url": "/currencies/boringdao",
                   "value": 1
                 },
                 {
@@ -11436,6 +10826,21 @@
                   "value": 1
                 },
                 {
+                  "name": "DefiDollar",
+                  "url": "/currencies/defidollar",
+                  "value": 1
+                },
+                {
+                  "name": "DefiDollar DAO",
+                  "url": "/currencies/defidollar-dao",
+                  "value": 1
+                },
+                {
+                  "name": "Ethereum Yield",
+                  "url": "/currencies/ethereum-yield",
+                  "value": 1
+                },
+                {
                   "name": "Ferrum Network",
                   "url": "/currencies/ferrum-network",
                   "value": 1
@@ -11461,8 +10866,18 @@
                   "value": 1
                 },
                 {
+                  "name": "Interest Bearing ETH",
+                  "url": "/currencies/ibeth",
+                  "value": 1
+                },
+                {
                   "name": "Jarvis Network",
                   "url": "/currencies/jarvis-network",
+                  "value": 1
+                },
+                {
+                  "name": "Keep3rV1",
+                  "url": "/currencies/keep3rv1",
                   "value": 1
                 },
                 {
@@ -11473,6 +10888,16 @@
                 {
                   "name": "Multiplier",
                   "url": "/currencies/multiplier",
+                  "value": 1
+                },
+                {
+                  "name": "Nsure.Network",
+                  "url": "/currencies/nsure-network",
+                  "value": 1
+                },
+                {
+                  "name": "ORO",
+                  "url": "/currencies/oro",
                   "value": 1
                 },
                 {
@@ -11491,8 +10916,18 @@
                   "value": 1
                 },
                 {
+                  "name": "PowerPool",
+                  "url": "/currencies/powerpool",
+                  "value": 1
+                },
+                {
                   "name": "SUKU",
                   "url": "/currencies/suku",
+                  "value": 1
+                },
+                {
+                  "name": "SYNC Network",
+                  "url": "/currencies/sync-network",
                   "value": 1
                 },
                 {
@@ -11503,6 +10938,16 @@
                 {
                   "name": "Unisocks",
                   "url": "/currencies/unisocks",
+                  "value": 1
+                },
+                {
+                  "name": "Value Liquidity",
+                  "url": "/currencies/value-defi-protocol",
+                  "value": 1
+                },
+                {
+                  "name": "Volts.Finance",
+                  "url": "/currencies/volts-finance",
                   "value": 1
                 },
                 {
@@ -11536,9 +10981,179 @@
                   "value": 1
                 },
                 {
+                  "name": "tBTC",
+                  "url": "/currencies/tbtc",
+                  "value": 1
+                },
+                {
                   "name": "xDai",
                   "url": "/currencies/xdai",
                   "value": 1
+                },
+                {
+                  "name": "Yield farming",
+                  "children": [
+                    {
+                      "name": "APY.Finance",
+                      "url": "/currencies/apy-finance",
+                      "value": 1
+                    },
+                    {
+                      "name": "Balancer",
+                      "url": "/currencies/balancer",
+                      "value": 1
+                    },
+                    {
+                      "name": "Compound",
+                      "url": "/currencies/compound",
+                      "value": 1
+                    },
+                    {
+                      "name": "Cord DeFi",
+                      "url": "/currencies/cord-defi",
+                      "value": 1
+                    },
+                    {
+                      "name": "Curve DAO Token",
+                      "url": "/currencies/curve-dao-token",
+                      "value": 1
+                    },
+                    {
+                      "name": "DiFy.Finance",
+                      "url": "/currencies/dify-finance",
+                      "value": 1
+                    },
+                    {
+                      "name": "Keep4r",
+                      "url": "/currencies/keep4r",
+                      "value": 1
+                    },
+                    {
+                      "name": "Sashimi",
+                      "url": "/currencies/sashimi",
+                      "value": 1
+                    },
+                    {
+                      "name": "saffron.finance",
+                      "url": "/currencies/saffron-finance",
+                      "value": 1
+                    },
+                    {
+                      "name": "yearn.finance",
+                      "url": "/currencies/yearn-finance",
+                      "value": 1
+                    },
+                    {
+                      "name": "Staking",
+                      "children": [
+                        {
+                          "name": "Smart Contracts",
+                          "children": [
+                            {
+                              "name": "Atomic Swaps",
+                              "children": [
+                                {
+                                  "name": "Interoperability",
+                                  "children": [
+                                    {
+                                      "name": "DAO",
+                                      "children": [
+                                        {
+                                          "name": "Peet DeFi",
+                                          "url": "/currencies/peet-defi",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Ethereum",
+                              "children": [
+                                {
+                                  "name": "Yearn Loans Finance",
+                                  "url": "/currencies/yearn-loans-finance",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Government",
+                          "children": [
+                            {
+                              "name": "Decentralized exchange",
+                              "children": [
+                                {
+                                  "name": "YFFS Finance",
+                                  "url": "/currencies/yffs",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Binance Coin",
+                      "children": [
+                        {
+                          "name": "DFI.Money",
+                          "url": "/currencies/yearn-finance-ii",
+                          "value": 1
+                        },
+                        {
+                          "name": "Services",
+                          "children": [
+                            {
+                              "name": "Synthetix",
+                              "url": "/currencies/synthetix-network-token",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Memes",
+                      "children": [
+                        {
+                          "name": "SushiSwap",
+                          "url": "/currencies/sushiswap",
+                          "value": 1
+                        },
+                        {
+                          "name": "YAM v1",
+                          "url": "/currencies/yamv1",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DAO",
+                      "children": [
+                        {
+                          "name": "Collectibles & NFTs",
+                          "children": [
+                            {
+                              "name": "DApp",
+                              "children": [
+                                {
+                                  "name": "Egoras",
+                                  "url": "/currencies/egoras",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "name": "Marketplace",
@@ -11706,75 +11321,50 @@
                   ]
                 },
                 {
-                  "name": "Yield farming",
+                  "name": "Platform",
                   "children": [
                     {
-                      "name": "Balancer",
-                      "url": "/currencies/balancer",
-                      "value": 1
-                    },
-                    {
-                      "name": "Compound",
-                      "url": "/currencies/compound",
-                      "value": 1
-                    },
-                    {
-                      "name": "Curve DAO Token",
-                      "url": "/currencies/curve-dao-token",
-                      "value": 1
-                    },
-                    {
-                      "name": "DiFy.Finance",
-                      "url": "/currencies/dify-finance",
-                      "value": 1
-                    },
-                    {
-                      "name": "Sashimi",
-                      "url": "/currencies/sashimi",
-                      "value": 1
-                    },
-                    {
-                      "name": "yearn.finance",
-                      "url": "/currencies/yearn-finance",
-                      "value": 1
-                    },
-                    {
-                      "name": "Memes",
+                      "name": "Smart Contracts",
                       "children": [
                         {
-                          "name": "SushiSwap",
-                          "url": "/currencies/sushiswap",
-                          "value": 1
-                        },
-                        {
-                          "name": "YAM v1",
-                          "url": "/currencies/yamv1",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Binance Coin",
-                      "children": [
-                        {
-                          "name": "DFI.Money",
-                          "url": "/currencies/yearn-finance-ii",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "DAO",
-                      "children": [
-                        {
-                          "name": "Collectibles & NFTs",
+                          "name": "Staking",
                           "children": [
                             {
-                              "name": "DApp",
+                              "name": "Cap",
+                              "url": "/currencies/cap",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Oracles",
+                          "children": [
+                            {
+                              "name": "Substrate",
                               "children": [
                                 {
-                                  "name": "Egoras",
-                                  "url": "/currencies/egoras",
+                                  "name": "Polkadot",
+                                  "children": [
+                                    {
+                                      "name": "Chainlink",
+                                      "url": "/currencies/chainlink",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medium of Exchange",
+                          "children": [
+                            {
+                              "name": "Payments",
+                              "children": [
+                                {
+                                  "name": "Request",
+                                  "url": "/currencies/request",
                                   "value": 1
                                 }
                               ]
@@ -11784,20 +11374,55 @@
                       ]
                     },
                     {
-                      "name": "Staking",
+                      "name": "Decentralized exchange",
                       "children": [
                         {
-                          "name": "Government",
+                          "name": "Substrate",
                           "children": [
                             {
-                              "name": "Decentralized exchange",
+                              "name": "Polkadot",
                               "children": [
                                 {
-                                  "name": "YFFS Finance",
-                                  "url": "/currencies/yffs",
+                                  "name": "0x",
+                                  "url": "/currencies/0x",
                                   "value": 1
                                 }
                               ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Prediction Markets",
+                      "children": [
+                        {
+                          "name": "Reputation",
+                          "children": [
+                            {
+                              "name": "IPFS",
+                              "children": [
+                                {
+                                  "name": "Augur",
+                                  "url": "/currencies/augur",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "Wallet",
+                          "children": [
+                            {
+                              "name": "Metronome",
+                              "url": "/currencies/metronome",
+                              "value": 1
                             }
                           ]
                         }
@@ -11819,41 +11444,6 @@
                       "value": 1
                     },
                     {
-                      "name": "Smart Contracts",
-                      "children": [
-                        {
-                          "name": "Platform",
-                          "children": [
-                            {
-                              "name": "Substrate",
-                              "children": [
-                                {
-                                  "name": "Polkadot",
-                                  "children": [
-                                    {
-                                      "name": "Chainlink",
-                                      "url": "/currencies/chainlink",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "name": "DApp",
-                          "children": [
-                            {
-                              "name": "Zap",
-                              "url": "/currencies/zap",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
                       "name": "Binance Coin",
                       "children": [
                         {
@@ -11872,111 +11462,16 @@
                           "value": 1
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Payments",
-                  "children": [
-                    {
-                      "name": "Wallet",
-                      "children": [
-                        {
-                          "name": "Asset management",
-                          "children": [
-                            {
-                              "name": "Crowdfunding",
-                              "children": [
-                                {
-                                  "name": "Smart Contracts",
-                                  "children": [
-                                    {
-                                      "name": "KickToken",
-                                      "url": "/currencies/kick-token",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Platform",
-                          "children": [
-                            {
-                              "name": "Metronome",
-                              "url": "/currencies/metronome",
-                              "value": 1
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Medium of Exchange",
-                          "children": [
-                            {
-                              "name": "Swipe",
-                              "url": "/currencies/swipe",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
                     },
                     {
-                      "name": "Medium of Exchange",
+                      "name": "Smart Contracts",
                       "children": [
                         {
-                          "name": "Smart Contracts",
+                          "name": "DApp",
                           "children": [
                             {
-                              "name": "Platform",
-                              "children": [
-                                {
-                                  "name": "Request",
-                                  "url": "/currencies/request",
-                                  "value": 1
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Store of Value",
-                          "children": [
-                            {
-                              "name": "Decentralized exchange",
-                              "children": [
-                                {
-                                  "name": "Privacy",
-                                  "children": [
-                                    {
-                                      "name": "Interoperability",
-                                      "children": [
-                                        {
-                                          "name": "Tixl [NEW]",
-                                          "url": "/currencies/tixl-new",
-                                          "value": 1
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Asset management",
-                      "children": [
-                        {
-                          "name": "AI & Big Data",
-                          "children": [
-                            {
-                              "name": "Numeraire",
-                              "url": "/currencies/numeraire",
+                              "name": "Zap",
+                              "url": "/currencies/zap",
                               "value": 1
                             }
                           ]
@@ -12036,6 +11531,56 @@
                   ]
                 },
                 {
+                  "name": "Asset management",
+                  "children": [
+                    {
+                      "name": "DMM: Governance",
+                      "url": "/currencies/dmm-governance",
+                      "value": 1
+                    },
+                    {
+                      "name": "Melon",
+                      "url": "/currencies/melon",
+                      "value": 1
+                    },
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "Crowdfunding",
+                          "children": [
+                            {
+                              "name": "Wallet",
+                              "children": [
+                                {
+                                  "name": "Smart Contracts",
+                                  "children": [
+                                    {
+                                      "name": "KickToken",
+                                      "url": "/currencies/kick-token",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "AI & Big Data",
+                          "children": [
+                            {
+                              "name": "Numeraire",
+                              "url": "/currencies/numeraire",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "DAO",
                   "children": [
                     {
@@ -12066,72 +11611,42 @@
                   ]
                 },
                 {
-                  "name": "Platform",
-                  "children": [
-                    {
-                      "name": "Decentralized exchange",
-                      "children": [
-                        {
-                          "name": "Substrate",
-                          "children": [
-                            {
-                              "name": "Polkadot",
-                              "children": [
-                                {
-                                  "name": "0x",
-                                  "url": "/currencies/0x",
-                                  "value": 1
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Prediction Markets",
-                      "children": [
-                        {
-                          "name": "Reputation",
-                          "children": [
-                            {
-                              "name": "IPFS",
-                              "children": [
-                                {
-                                  "name": "Augur",
-                                  "url": "/currencies/augur",
-                                  "value": 1
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Asset management",
-                  "children": [
-                    {
-                      "name": "DMM: Governance",
-                      "url": "/currencies/dmm-governance",
-                      "value": 1
-                    },
-                    {
-                      "name": "Melon",
-                      "url": "/currencies/melon",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
                   "name": "Store of Value",
                   "children": [
                     {
                       "name": "Maker",
                       "url": "/currencies/maker",
                       "value": 1
+                    },
+                    {
+                      "name": "Medium of Exchange",
+                      "children": [
+                        {
+                          "name": "Decentralized exchange",
+                          "children": [
+                            {
+                              "name": "Privacy",
+                              "children": [
+                                {
+                                  "name": "Payments",
+                                  "children": [
+                                    {
+                                      "name": "Interoperability",
+                                      "children": [
+                                        {
+                                          "name": "Tixl [NEW]",
+                                          "url": "/currencies/tixl-new",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     },
                     {
                       "name": "Stablecoin - Algorithmically-Stabilized",
@@ -12142,6 +11657,31 @@
                           "value": 1
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Binance Coin",
+                  "children": [
+                    {
+                      "name": "Cream Finance",
+                      "url": "/currencies/cream-finance",
+                      "value": 1
+                    },
+                    {
+                      "name": "Unifi Protocol DAO",
+                      "url": "/currencies/unifi-protocol-dao",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Substrate",
+                  "children": [
+                    {
+                      "name": "Akropolis",
+                      "url": "/currencies/akropolis",
+                      "value": 1
                     }
                   ]
                 },
@@ -12171,11 +11711,26 @@
                   ]
                 },
                 {
-                  "name": "Binance Coin",
+                  "name": "Collectibles & NFTs",
                   "children": [
                     {
-                      "name": "Cream Finance",
-                      "url": "/currencies/cream-finance",
+                      "name": "Gaming",
+                      "children": [
+                        {
+                          "name": "Alpaca City",
+                          "url": "/currencies/alpaca-city",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ethereum",
+                  "children": [
+                    {
+                      "name": "Benchmark Protocol",
+                      "url": "/currencies/benchmark-protocol",
                       "value": 1
                     }
                   ]
@@ -12211,11 +11766,41 @@
                   ]
                 },
                 {
+                  "name": "Binance Smart Chain",
+                  "children": [
+                    {
+                      "name": "DeFi",
+                      "children": [
+                        {
+                          "name": "Singapore",
+                          "children": [
+                            {
+                              "name": "ForTube",
+                              "url": "/currencies/the-force-protocol",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "Services",
                   "children": [
                     {
                       "name": "Monolith",
                       "url": "/currencies/monolith",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Staking",
+                  "children": [
+                    {
+                      "name": "Moonday Finance",
+                      "url": "/currencies/moonday-finance",
                       "value": 1
                     }
                   ]
@@ -12227,6 +11812,26 @@
                       "name": "NXM",
                       "url": "/currencies/nxm",
                       "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Medium of Exchange",
+                  "children": [
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "Wallet",
+                          "children": [
+                            {
+                              "name": "Swipe",
+                              "url": "/currencies/swipe",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
@@ -12651,71 +12256,6 @@
                   ]
                 },
                 {
-                  "name": "AI & Big Data",
-                  "children": [
-                    {
-                      "name": "FOAM",
-                      "url": "/currencies/foam",
-                      "value": 1
-                    },
-                    {
-                      "name": "Qubitica",
-                      "url": "/currencies/qubitica",
-                      "value": 1
-                    },
-                    {
-                      "name": "Seele-N",
-                      "url": "/currencies/seele",
-                      "value": 1
-                    },
-                    {
-                      "name": "Payments",
-                      "children": [
-                        {
-                          "name": "Agrello",
-                          "url": "/currencies/agrello-delta",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "IoT",
-                      "children": [
-                        {
-                          "name": "Binance Coin",
-                          "children": [
-                            {
-                              "name": "CPChain",
-                              "url": "/currencies/cpchain",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Filesharing",
-                      "children": [
-                        {
-                          "name": "Substrate",
-                          "children": [
-                            {
-                              "name": "IPFS",
-                              "children": [
-                                {
-                                  "name": "Ocean Protocol",
-                                  "url": "/currencies/ocean-protocol",
-                                  "value": 1
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
                   "name": "Payments",
                   "children": [
                     {
@@ -12749,12 +12289,52 @@
                       ]
                     },
                     {
+                      "name": "AI & Big Data",
+                      "children": [
+                        {
+                          "name": "Agrello",
+                          "url": "/currencies/agrello-delta",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
                       "name": "Reputation",
                       "children": [
                         {
                           "name": "district0x",
                           "url": "/currencies/district0x",
                           "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mobile",
+                      "children": [
+                        {
+                          "name": "Marketing",
+                          "children": [
+                            {
+                              "name": "Video",
+                              "children": [
+                                {
+                                  "name": "Entertainment",
+                                  "children": [
+                                    {
+                                      "name": "Wallet",
+                                      "children": [
+                                        {
+                                          "name": "yOUcash",
+                                          "url": "/currencies/youcash",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -12779,6 +12359,21 @@
                       "value": 1
                     },
                     {
+                      "name": "AI & Big Data",
+                      "children": [
+                        {
+                          "name": "IoT",
+                          "children": [
+                            {
+                              "name": "CPChain",
+                              "url": "/currencies/cpchain",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "name": "Crowdsourcing",
                       "children": [
                         {
@@ -12788,6 +12383,46 @@
                               "name": "CanYaCoin",
                               "url": "/currencies/canyacoin",
                               "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "AI & Big Data",
+                  "children": [
+                    {
+                      "name": "FOAM",
+                      "url": "/currencies/foam",
+                      "value": 1
+                    },
+                    {
+                      "name": "Qubitica",
+                      "url": "/currencies/qubitica",
+                      "value": 1
+                    },
+                    {
+                      "name": "Seele-N",
+                      "url": "/currencies/seele",
+                      "value": 1
+                    },
+                    {
+                      "name": "Filesharing",
+                      "children": [
+                        {
+                          "name": "Substrate",
+                          "children": [
+                            {
+                              "name": "IPFS",
+                              "children": [
+                                {
+                                  "name": "Ocean Protocol",
+                                  "url": "/currencies/ocean-protocol",
+                                  "value": 1
+                                }
+                              ]
                             }
                           ]
                         }
@@ -13598,6 +13233,231 @@
               ]
             },
             {
+              "name": "Ethereum",
+              "children": [
+                {
+                  "name": "Axia Protocol",
+                  "url": "/currencies/axia-protocol",
+                  "value": 1
+                },
+                {
+                  "name": "BitDEFi",
+                  "url": "/currencies/bitdefi",
+                  "value": 1
+                },
+                {
+                  "name": "BitOnyx",
+                  "url": "/currencies/bitonyx",
+                  "value": 1
+                },
+                {
+                  "name": "Bitcoiva",
+                  "url": "/currencies/bitcoiva",
+                  "value": 1
+                },
+                {
+                  "name": "BlackDragon",
+                  "url": "/currencies/blackdragon",
+                  "value": 1
+                },
+                {
+                  "name": "BuildUp",
+                  "url": "/currencies/buildup",
+                  "value": 1
+                },
+                {
+                  "name": "Cipher",
+                  "url": "/currencies/cipher",
+                  "value": 1
+                },
+                {
+                  "name": "Compounder",
+                  "url": "/currencies/compounder",
+                  "value": 1
+                },
+                {
+                  "name": "DeCash",
+                  "url": "/currencies/decash",
+                  "value": 1
+                },
+                {
+                  "name": "Ethanol",
+                  "url": "/currencies/ethanol",
+                  "value": 1
+                },
+                {
+                  "name": "Ethereum Lightning",
+                  "url": "/currencies/ethereumlightning",
+                  "value": 1
+                },
+                {
+                  "name": "Future-Cash Digital",
+                  "url": "/currencies/future-cash-digital",
+                  "value": 1
+                },
+                {
+                  "name": "GoldFinX",
+                  "url": "/currencies/goldfinx",
+                  "value": 1
+                },
+                {
+                  "name": "Hyve",
+                  "url": "/currencies/hyve",
+                  "value": 1
+                },
+                {
+                  "name": "IDall",
+                  "url": "/currencies/idall",
+                  "value": 1
+                },
+                {
+                  "name": "LeLeFoodChain",
+                  "url": "/currencies/lelefoodchain",
+                  "value": 1
+                },
+                {
+                  "name": "Libartysharetoken",
+                  "url": "/currencies/libartysharetoken",
+                  "value": 1
+                },
+                {
+                  "name": "Load Network",
+                  "url": "/currencies/load-network",
+                  "value": 1
+                },
+                {
+                  "name": "Lumos",
+                  "url": "/currencies/lumos",
+                  "value": 1
+                },
+                {
+                  "name": "Medicalveda",
+                  "url": "/currencies/medicalveda",
+                  "value": 1
+                },
+                {
+                  "name": "Metis",
+                  "url": "/currencies/metis",
+                  "value": 1
+                },
+                {
+                  "name": "NIX Bridge Token",
+                  "url": "/currencies/nix-bridge-token",
+                  "value": 1
+                },
+                {
+                  "name": "Order of the Black Rose",
+                  "url": "/currencies/order-of-the-black-rose",
+                  "value": 1
+                },
+                {
+                  "name": "PEAKDEFI",
+                  "url": "/currencies/peakdefi",
+                  "value": 1
+                },
+                {
+                  "name": "PicaArtMoney",
+                  "url": "/currencies/picaartmoney",
+                  "value": 1
+                },
+                {
+                  "name": "Radix",
+                  "url": "/currencies/radix",
+                  "value": 1
+                },
+                {
+                  "name": "SUP8EME",
+                  "url": "/currencies/sup8eme",
+                  "value": 1
+                },
+                {
+                  "name": "Sancoj",
+                  "url": "/currencies/sancoj",
+                  "value": 1
+                },
+                {
+                  "name": "Tatcoin",
+                  "url": "/currencies/tatcoin",
+                  "value": 1
+                },
+                {
+                  "name": "TheOvOrideA",
+                  "url": "/currencies/theovoridea",
+                  "value": 1
+                },
+                {
+                  "name": "Trade.win",
+                  "url": "/currencies/trade-win",
+                  "value": 1
+                },
+                {
+                  "name": "TrustToken",
+                  "url": "/currencies/trusttoken",
+                  "value": 1
+                },
+                {
+                  "name": "UBIX.Network",
+                  "url": "/currencies/ubix-network",
+                  "value": 1
+                },
+                {
+                  "name": "Ubiner",
+                  "url": "/currencies/ubiner",
+                  "value": 1
+                },
+                {
+                  "name": "Unistake",
+                  "url": "/currencies/unistake",
+                  "value": 1
+                },
+                {
+                  "name": "Wish Coin",
+                  "url": "/currencies/wish-coin",
+                  "value": 1
+                },
+                {
+                  "name": "XPToken.io",
+                  "url": "/currencies/xptoken-io",
+                  "value": 1
+                },
+                {
+                  "name": "YFI CREDITS GROUP",
+                  "url": "/currencies/yfi-credits-group",
+                  "value": 1
+                },
+                {
+                  "name": "YFIII",
+                  "url": "/currencies/yfiii",
+                  "value": 1
+                },
+                {
+                  "name": "YYFI.Protocol",
+                  "url": "/currencies/yyfi-protocol",
+                  "value": 1
+                },
+                {
+                  "name": "YfDFI Finance",
+                  "url": "/currencies/yfdfi-finance",
+                  "value": 1
+                },
+                {
+                  "name": "swiss.finance",
+                  "url": "/currencies/swiss-finance",
+                  "value": 1
+                },
+                {
+                  "name": "Gaming",
+                  "children": [
+                    {
+                      "name": "Itchiro Games",
+                      "url": "/currencies/itchiro-games",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Services",
               "children": [
                 {
@@ -13623,6 +13483,11 @@
                 {
                   "name": "Moeda Loyalty Points",
                   "url": "/currencies/moeda-loyalty-points",
+                  "value": 1
+                },
+                {
+                  "name": "OST",
+                  "url": "/currencies/ost",
                   "value": 1
                 },
                 {
@@ -14093,6 +13958,316 @@
               ]
             },
             {
+              "name": "Payments",
+              "children": [
+                {
+                  "name": "AmonD",
+                  "url": "/currencies/amond",
+                  "value": 1
+                },
+                {
+                  "name": "Cred",
+                  "url": "/currencies/libra-credit",
+                  "value": 1
+                },
+                {
+                  "name": "Standard Tokenization Protocol",
+                  "url": "/currencies/standard-tokenization-protocol",
+                  "value": 1
+                },
+                {
+                  "name": "SyncFab",
+                  "url": "/currencies/syncfab",
+                  "value": 1
+                },
+                {
+                  "name": "ZPER",
+                  "url": "/currencies/zper",
+                  "value": 1
+                },
+                {
+                  "name": "Medium of Exchange",
+                  "children": [
+                    {
+                      "name": "ERC20",
+                      "url": "/currencies/erc20",
+                      "value": 1
+                    },
+                    {
+                      "name": "Flexacoin",
+                      "url": "/currencies/flexacoin",
+                      "value": 1
+                    },
+                    {
+                      "name": "Jewel",
+                      "url": "/currencies/jewel",
+                      "value": 1
+                    },
+                    {
+                      "name": "Metal",
+                      "url": "/currencies/metal",
+                      "value": 1
+                    },
+                    {
+                      "name": "ThoreNext",
+                      "url": "/currencies/thorenext",
+                      "value": 1
+                    },
+                    {
+                      "name": "Wixlar",
+                      "url": "/currencies/wixlar",
+                      "value": 1
+                    },
+                    {
+                      "name": "Mobile",
+                      "children": [
+                        {
+                          "name": "Crypto.com Coin",
+                          "url": "/currencies/crypto-com-coin",
+                          "value": 1
+                        },
+                        {
+                          "name": "Technology",
+                          "children": [
+                            {
+                              "name": "Wallet",
+                              "children": [
+                                {
+                                  "name": "Discount token",
+                                  "children": [
+                                    {
+                                      "name": "Tap",
+                                      "url": "/currencies/tap",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "forked_altcoin",
+                      "children": [
+                        {
+                          "name": "Ethereum Gold",
+                          "url": "/currencies/ethereum-gold",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "AI & Big Data",
+                  "children": [
+                    {
+                      "name": "Health",
+                      "children": [
+                        {
+                          "name": "AI Doctor",
+                          "url": "/currencies/aidoc",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Technology",
+                      "children": [
+                        {
+                          "name": "DxChain Token",
+                          "url": "/currencies/dxchain-token",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Marketing",
+                      "children": [
+                        {
+                          "name": "ProChain",
+                          "url": "/currencies/prochain",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Asset management",
+                  "children": [
+                    {
+                      "name": "Ormeus Coin",
+                      "url": "/currencies/ormeus-coin",
+                      "value": 1
+                    },
+                    {
+                      "name": "DAO",
+                      "children": [
+                        {
+                          "name": "Autonio",
+                          "url": "/currencies/autonio",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Wallet",
+                      "children": [
+                        {
+                          "name": "Change",
+                          "url": "/currencies/change",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Media",
+                  "children": [
+                    {
+                      "name": "Dragon Coins",
+                      "url": "/currencies/dragon-coins",
+                      "value": 1
+                    },
+                    {
+                      "name": "QunQun",
+                      "url": "/currencies/qunqun",
+                      "value": 1
+                    },
+                    {
+                      "name": "Content Creation",
+                      "children": [
+                        {
+                          "name": "Streamr",
+                          "url": "/currencies/streamr",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Marketing",
+                  "children": [
+                    {
+                      "name": "Content Creation",
+                      "children": [
+                        {
+                          "name": "Basic Attention Token",
+                          "url": "/currencies/basic-attention-token",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Logistics",
+                      "children": [
+                        {
+                          "name": "Wabi",
+                          "url": "/currencies/tael",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Stablecoin - Asset-Backed",
+                  "children": [
+                    {
+                      "name": "Virgin Islands (British)",
+                      "children": [
+                        {
+                          "name": "DApp",
+                          "children": [
+                            {
+                              "name": "Codeo Token",
+                              "url": "/currencies/codeo-token",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Store of Value",
+                      "children": [
+                        {
+                          "name": "Stablecoin",
+                          "children": [
+                            {
+                              "name": "Tron",
+                              "children": [
+                                {
+                                  "name": "Tether",
+                                  "url": "/currencies/tether",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Logistics",
+                  "children": [
+                    {
+                      "name": "Morpheus.Network",
+                      "url": "/currencies/morpheus-network",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Ethash",
+                  "children": [
+                    {
+                      "name": "Japan",
+                      "children": [
+                        {
+                          "name": "The Transfer Token",
+                          "url": "/currencies/the-transfer-token",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cybersecurity",
+                  "children": [
+                    {
+                      "name": "Smart Contracts",
+                      "children": [
+                        {
+                          "name": "Utrust",
+                          "url": "/currencies/utrust",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Adult",
+                  "children": [
+                    {
+                      "name": "ValueChain",
+                      "url": "/currencies/valuechain",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Asset management",
               "children": [
                 {
@@ -14182,36 +14357,6 @@
                       "name": "Wings",
                       "url": "/currencies/wings",
                       "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Payments",
-                  "children": [
-                    {
-                      "name": "Ormeus Coin",
-                      "url": "/currencies/ormeus-coin",
-                      "value": 1
-                    },
-                    {
-                      "name": "DAO",
-                      "children": [
-                        {
-                          "name": "Autonio",
-                          "url": "/currencies/autonio",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Wallet",
-                      "children": [
-                        {
-                          "name": "Change",
-                          "url": "/currencies/change",
-                          "value": 1
-                        }
-                      ]
                     }
                   ]
                 },
@@ -14464,16 +14609,6 @@
                       ]
                     },
                     {
-                      "name": "Payments",
-                      "children": [
-                        {
-                          "name": "Streamr",
-                          "url": "/currencies/streamr",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
                       "name": "Smart Contracts",
                       "children": [
                         {
@@ -14536,21 +14671,6 @@
                   ]
                 },
                 {
-                  "name": "Payments",
-                  "children": [
-                    {
-                      "name": "Dragon Coins",
-                      "url": "/currencies/dragon-coins",
-                      "value": 1
-                    },
-                    {
-                      "name": "QunQun",
-                      "url": "/currencies/qunqun",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
                   "name": "Loyalty",
                   "children": [
                     {
@@ -14588,192 +14708,97 @@
               ]
             },
             {
-              "name": "Payments",
+              "name": "Collectibles & NFTs",
               "children": [
                 {
-                  "name": "AmonD",
-                  "url": "/currencies/amond",
+                  "name": "0xcert",
+                  "url": "/currencies/0xcert",
                   "value": 1
                 },
                 {
-                  "name": "Cred",
-                  "url": "/currencies/libra-credit",
+                  "name": "Aavegotchi",
+                  "url": "/currencies/aavegotchi",
                   "value": 1
                 },
                 {
-                  "name": "Standard Tokenization Protocol",
-                  "url": "/currencies/standard-tokenization-protocol",
+                  "name": "Bonk",
+                  "url": "/currencies/bonk",
                   "value": 1
                 },
                 {
-                  "name": "SyncFab",
-                  "url": "/currencies/syncfab",
+                  "name": "CHADS VC",
+                  "url": "/currencies/chads-vc",
                   "value": 1
                 },
                 {
-                  "name": "ZPER",
-                  "url": "/currencies/zper",
+                  "name": "Cat Token",
+                  "url": "/currencies/cat-token",
                   "value": 1
                 },
                 {
-                  "name": "Medium of Exchange",
+                  "name": "Coin Artist",
+                  "url": "/currencies/coin-artist",
+                  "value": 1
+                },
+                {
+                  "name": "Dego Finance",
+                  "url": "/currencies/dego-finance",
+                  "value": 1
+                },
+                {
+                  "name": "Eminence",
+                  "url": "/currencies/eminence",
+                  "value": 1
+                },
+                {
+                  "name": "GameCredits",
+                  "url": "/currencies/gamecredits",
+                  "value": 1
+                },
+                {
+                  "name": "Meme",
+                  "url": "/currencies/degenerator-meme",
+                  "value": 1
+                },
+                {
+                  "name": "REVV",
+                  "url": "/currencies/revv",
+                  "value": 1
+                },
+                {
+                  "name": "Rarible",
+                  "url": "/currencies/rarible",
+                  "value": 1
+                },
+                {
+                  "name": "Small Love Potion",
+                  "url": "/currencies/small-love-potion",
+                  "value": 1
+                },
+                {
+                  "name": "WHALE",
+                  "url": "/currencies/whale",
+                  "value": 1
+                },
+                {
+                  "name": "Waifu Token",
+                  "url": "/currencies/waifu-token",
+                  "value": 1
+                },
+                {
+                  "name": "Gaming",
                   "children": [
                     {
-                      "name": "ERC20",
-                      "url": "/currencies/erc20",
+                      "name": "Axie Infinity",
+                      "url": "/currencies/axie-infinity",
                       "value": 1
                     },
-                    {
-                      "name": "Flexacoin",
-                      "url": "/currencies/flexacoin",
-                      "value": 1
-                    },
-                    {
-                      "name": "Jewel",
-                      "url": "/currencies/jewel",
-                      "value": 1
-                    },
-                    {
-                      "name": "Metal",
-                      "url": "/currencies/metal",
-                      "value": 1
-                    },
-                    {
-                      "name": "ThoreNext",
-                      "url": "/currencies/thorenext",
-                      "value": 1
-                    },
-                    {
-                      "name": "Wixlar",
-                      "url": "/currencies/wixlar",
-                      "value": 1
-                    },
-                    {
-                      "name": "Mobile",
-                      "children": [
-                        {
-                          "name": "Crypto.com Coin",
-                          "url": "/currencies/crypto-com-coin",
-                          "value": 1
-                        },
-                        {
-                          "name": "Technology",
-                          "children": [
-                            {
-                              "name": "Wallet",
-                              "children": [
-                                {
-                                  "name": "Discount token",
-                                  "children": [
-                                    {
-                                      "name": "Tap",
-                                      "url": "/currencies/tap",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "forked_altcoin",
-                      "children": [
-                        {
-                          "name": "Ethereum Gold",
-                          "url": "/currencies/ethereum-gold",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "AI & Big Data",
-                  "children": [
-                    {
-                      "name": "Health",
-                      "children": [
-                        {
-                          "name": "AI Doctor",
-                          "url": "/currencies/aidoc",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Technology",
-                      "children": [
-                        {
-                          "name": "DxChain Token",
-                          "url": "/currencies/dxchain-token",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Marketing",
-                      "children": [
-                        {
-                          "name": "ProChain",
-                          "url": "/currencies/prochain",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Stablecoin - Asset-Backed",
-                  "children": [
-                    {
-                      "name": "Virgin Islands (British)",
-                      "children": [
-                        {
-                          "name": "DApp",
-                          "children": [
-                            {
-                              "name": "Codeo Token",
-                              "url": "/currencies/codeo-token",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Store of Value",
-                      "children": [
-                        {
-                          "name": "Stablecoin",
-                          "children": [
-                            {
-                              "name": "Tron",
-                              "children": [
-                                {
-                                  "name": "Tether",
-                                  "url": "/currencies/tether",
-                                  "value": 1
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Marketing",
-                  "children": [
                     {
                       "name": "Content Creation",
                       "children": [
                         {
-                          "name": "Basic Attention Token",
-                          "url": "/currencies/basic-attention-token",
+                          "name": "The Sandbox",
+                          "url": "/currencies/the-sandbox",
                           "value": 1
                         }
                       ]
@@ -14781,24 +14806,14 @@
                   ]
                 },
                 {
-                  "name": "Logistics",
+                  "name": "Art",
                   "children": [
                     {
-                      "name": "Morpheus.Network",
-                      "url": "/currencies/morpheus-network",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Ethash",
-                  "children": [
-                    {
-                      "name": "Japan",
+                      "name": "Data Provenance",
                       "children": [
                         {
-                          "name": "The Transfer Token",
-                          "url": "/currencies/the-transfer-token",
+                          "name": "Artfinity",
+                          "url": "/currencies/artfinity",
                           "value": 1
                         }
                       ]
@@ -14806,26 +14821,11 @@
                   ]
                 },
                 {
-                  "name": "Cybersecurity",
+                  "name": "Yield farming",
                   "children": [
                     {
-                      "name": "Smart Contracts",
-                      "children": [
-                        {
-                          "name": "Utrust",
-                          "url": "/currencies/utrust",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Adult",
-                  "children": [
-                    {
-                      "name": "ValueChain",
-                      "url": "/currencies/valuechain",
+                      "name": "Shroom.Finance",
+                      "url": "/currencies/shroom-finance",
                       "value": 1
                     }
                   ]
@@ -14963,128 +14963,13 @@
               ]
             },
             {
-              "name": "Collectibles & NFTs",
-              "children": [
-                {
-                  "name": "0xcert",
-                  "url": "/currencies/0xcert",
-                  "value": 1
-                },
-                {
-                  "name": "Aavegotchi",
-                  "url": "/currencies/aavegotchi",
-                  "value": 1
-                },
-                {
-                  "name": "Bonk",
-                  "url": "/currencies/bonk",
-                  "value": 1
-                },
-                {
-                  "name": "CHADS VC",
-                  "url": "/currencies/chads-vc",
-                  "value": 1
-                },
-                {
-                  "name": "Cat Token",
-                  "url": "/currencies/cat-token",
-                  "value": 1
-                },
-                {
-                  "name": "Coin Artist",
-                  "url": "/currencies/coin-artist",
-                  "value": 1
-                },
-                {
-                  "name": "Dego Finance",
-                  "url": "/currencies/dego-finance",
-                  "value": 1
-                },
-                {
-                  "name": "Eminence",
-                  "url": "/currencies/eminence",
-                  "value": 1
-                },
-                {
-                  "name": "GameCredits",
-                  "url": "/currencies/gamecredits",
-                  "value": 1
-                },
-                {
-                  "name": "Meme",
-                  "url": "/currencies/degenerator-meme",
-                  "value": 1
-                },
-                {
-                  "name": "REVV",
-                  "url": "/currencies/revv",
-                  "value": 1
-                },
-                {
-                  "name": "Rarible",
-                  "url": "/currencies/rarible",
-                  "value": 1
-                },
-                {
-                  "name": "Small Love Potion",
-                  "url": "/currencies/small-love-potion",
-                  "value": 1
-                },
-                {
-                  "name": "WHALE",
-                  "url": "/currencies/whale",
-                  "value": 1
-                },
-                {
-                  "name": "Waifu Token",
-                  "url": "/currencies/waifu-token",
-                  "value": 1
-                },
-                {
-                  "name": "Art",
-                  "children": [
-                    {
-                      "name": "Data Provenance",
-                      "children": [
-                        {
-                          "name": "Artfinity",
-                          "url": "/currencies/artfinity",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Yield farming",
-                  "children": [
-                    {
-                      "name": "Shroom.Finance",
-                      "url": "/currencies/shroom-finance",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Content Creation",
-                  "children": [
-                    {
-                      "name": "Gaming",
-                      "children": [
-                        {
-                          "name": "The Sandbox",
-                          "url": "/currencies/the-sandbox",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Yield farming",
               "children": [
+                {
+                  "name": "BarnBridge",
+                  "url": "/currencies/barnbridge",
+                  "value": 1
+                },
                 {
                   "name": "Boosted Finance",
                   "url": "/currencies/boosted-finance",
@@ -15197,6 +15082,11 @@
                           "value": 1
                         },
                         {
+                          "name": "Stably USD",
+                          "url": "/currencies/stableusd",
+                          "value": 1
+                        },
+                        {
                           "name": "DAO",
                           "children": [
                             {
@@ -15281,20 +15171,15 @@
                   "value": 1
                 },
                 {
-                  "name": "Loyalty",
+                  "name": "Gaming",
                   "children": [
                     {
-                      "name": "Bitbook Gambling",
-                      "url": "/currencies/bitbook-gambling",
+                      "name": "Atari Token",
+                      "url": "/currencies/atari-token",
                       "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Centralized exchange",
-                  "children": [
+                    },
                     {
-                      "name": "Gaming",
+                      "name": "Centralized exchange",
                       "children": [
                         {
                           "name": "PlayChip",
@@ -15302,6 +15187,16 @@
                           "value": 1
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Loyalty",
+                  "children": [
+                    {
+                      "name": "Bitbook Gambling",
+                      "url": "/currencies/bitbook-gambling",
+                      "value": 1
                     }
                   ]
                 }
@@ -15488,6 +15383,46 @@
               ]
             },
             {
+              "name": "Energy",
+              "children": [
+                {
+                  "name": "Candela Coin",
+                  "url": "/currencies/candelacoin",
+                  "value": 1
+                },
+                {
+                  "name": "Electrify.Asia",
+                  "url": "/currencies/electrifyasia",
+                  "value": 1
+                },
+                {
+                  "name": "Grid+",
+                  "url": "/currencies/grid",
+                  "value": 1
+                },
+                {
+                  "name": "Restart Energy MWAT",
+                  "url": "/currencies/restart-energy-mwat",
+                  "value": 1
+                },
+                {
+                  "name": "SunContract",
+                  "url": "/currencies/suncontract",
+                  "value": 1
+                },
+                {
+                  "name": "Sharing Economy",
+                  "children": [
+                    {
+                      "name": "Power Ledger",
+                      "url": "/currencies/power-ledger",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Medium of Exchange",
               "children": [
                 {
@@ -15636,41 +15571,6 @@
                     {
                       "name": "Matryx",
                       "url": "/currencies/matryx",
-                      "value": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Energy",
-              "children": [
-                {
-                  "name": "Electrify.Asia",
-                  "url": "/currencies/electrifyasia",
-                  "value": 1
-                },
-                {
-                  "name": "Grid+",
-                  "url": "/currencies/grid",
-                  "value": 1
-                },
-                {
-                  "name": "Restart Energy MWAT",
-                  "url": "/currencies/restart-energy-mwat",
-                  "value": 1
-                },
-                {
-                  "name": "SunContract",
-                  "url": "/currencies/suncontract",
-                  "value": 1
-                },
-                {
-                  "name": "Sharing Economy",
-                  "children": [
-                    {
-                      "name": "Power Ledger",
-                      "url": "/currencies/power-ledger",
                       "value": 1
                     }
                   ]
@@ -15843,6 +15743,26 @@
               ]
             },
             {
+              "name": "Oracles",
+              "children": [
+                {
+                  "name": "API3",
+                  "url": "/currencies/api3",
+                  "value": 1
+                },
+                {
+                  "name": "DOS Network",
+                  "url": "/currencies/dos-network",
+                  "value": 1
+                },
+                {
+                  "name": "NEST Protocol",
+                  "url": "/currencies/nest-protocol",
+                  "value": 1
+                }
+              ]
+            },
+            {
               "name": "Cybersecurity",
               "children": [
                 {
@@ -15864,6 +15784,21 @@
                       "value": 1
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "DAO",
+              "children": [
+                {
+                  "name": "Aragon Court",
+                  "url": "/currencies/aragon-court",
+                  "value": 1
+                },
+                {
+                  "name": "Governor DAO",
+                  "url": "/currencies/governor-dao",
+                  "value": 1
                 }
               ]
             },
@@ -15909,21 +15844,6 @@
                       "value": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "name": "Oracles",
-              "children": [
-                {
-                  "name": "DOS Network",
-                  "url": "/currencies/dos-network",
-                  "value": 1
-                },
-                {
-                  "name": "NEST Protocol",
-                  "url": "/currencies/nest-protocol",
-                  "value": 1
                 }
               ]
             },
@@ -16053,11 +15973,11 @@
               ]
             },
             {
-              "name": "DAO",
+              "name": "Music",
               "children": [
                 {
-                  "name": "Aragon Court",
-                  "url": "/currencies/aragon-court",
+                  "name": "Audius",
+                  "url": "/currencies/audius",
                   "value": 1
                 }
               ]
@@ -16293,6 +16213,11 @@
               "value": 1
             },
             {
+              "name": "Jointer",
+              "url": "/currencies/jointer",
+              "value": 1
+            },
+            {
               "name": "LINKDOWN",
               "url": "/currencies/linkdown",
               "value": 1
@@ -16403,13 +16328,13 @@
               "value": 1
             },
             {
-              "name": "Venus",
-              "url": "/currencies/venus",
+              "name": "WazirX",
+              "url": "/currencies/wazirx",
               "value": 1
             },
             {
-              "name": "WazirX",
-              "url": "/currencies/wazirx",
+              "name": "Wrapped BNB",
+              "url": "/currencies/wbnb",
               "value": 1
             },
             {
@@ -17174,6 +17099,216 @@
           ]
         },
         {
+          "name": "Tron",
+          "children": [
+            {
+              "name": "AlphaLink",
+              "url": "/currencies/alphalink",
+              "value": 1
+            },
+            {
+              "name": "BeatzCoin",
+              "url": "/currencies/beatzcoin",
+              "value": 1
+            },
+            {
+              "name": "BitGuild PLAT",
+              "url": "/currencies/bitguild-plat",
+              "value": 1
+            },
+            {
+              "name": "CORN",
+              "url": "/currencies/corn",
+              "value": 1
+            },
+            {
+              "name": "Carrot",
+              "url": "/currencies/carrot",
+              "value": 1
+            },
+            {
+              "name": "Centric Cash",
+              "url": "/currencies/centric-cash",
+              "value": 1
+            },
+            {
+              "name": "CryptoBharatCoin",
+              "url": "/currencies/cryptobharatcoin",
+              "value": 1
+            },
+            {
+              "name": "DACC2",
+              "url": "/currencies/dacc2",
+              "value": 1
+            },
+            {
+              "name": "DeFinition",
+              "url": "/currencies/definition",
+              "value": 1
+            },
+            {
+              "name": "Dragon Ball",
+              "url": "/currencies/dragon-ball",
+              "value": 1
+            },
+            {
+              "name": "GOT Token",
+              "url": "/currencies/got-token",
+              "value": 1
+            },
+            {
+              "name": "IG Gold",
+              "url": "/currencies/ig-gold",
+              "value": 1
+            },
+            {
+              "name": "INRToken",
+              "url": "/currencies/inrtoken",
+              "value": 1
+            },
+            {
+              "name": "JSB FOUNDATION",
+              "url": "/currencies/jsb-foundation",
+              "value": 1
+            },
+            {
+              "name": "JackPool.finance",
+              "url": "/currencies/jackpool-finance",
+              "value": 1
+            },
+            {
+              "name": "KING OF DEFI",
+              "url": "/currencies/king-of-defi",
+              "value": 1
+            },
+            {
+              "name": "Kingdom Game 4.0",
+              "url": "/currencies/kingdom-game-4",
+              "value": 1
+            },
+            {
+              "name": "Mineral",
+              "url": "/currencies/mineral",
+              "value": 1
+            },
+            {
+              "name": "Pearl",
+              "url": "/currencies/pearl",
+              "value": 1
+            },
+            {
+              "name": "Phoneum",
+              "url": "/currencies/phoneum",
+              "value": 1
+            },
+            {
+              "name": "Pollux Coin",
+              "url": "/currencies/pollux-coin",
+              "value": 1
+            },
+            {
+              "name": "Proof Of Liquidity",
+              "url": "/currencies/proof-of-liquidity",
+              "value": 1
+            },
+            {
+              "name": "SpokLottery",
+              "url": "/currencies/spoklottery",
+              "value": 1
+            },
+            {
+              "name": "TAI",
+              "url": "/currencies/tai",
+              "value": 1
+            },
+            {
+              "name": "USDJ",
+              "url": "/currencies/usdj",
+              "value": 1
+            },
+            {
+              "name": "VN Token",
+              "url": "/currencies/vn-token",
+              "value": 1
+            },
+            {
+              "name": "ZIMBOCASH",
+              "url": "/currencies/zimbocash",
+              "value": 1
+            },
+            {
+              "name": "DeFi",
+              "children": [
+                {
+                  "name": "JUST",
+                  "url": "/currencies/just",
+                  "value": 1
+                },
+                {
+                  "name": "Oikos",
+                  "url": "/currencies/oikos",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Platform",
+              "children": [
+                {
+                  "name": "Distributed Computing",
+                  "children": [
+                    {
+                      "name": "Filesharing",
+                      "children": [
+                        {
+                          "name": "IPFS",
+                          "children": [
+                            {
+                              "name": "BitTorrent",
+                              "url": "/currencies/bittorrent",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Yield farming",
+              "children": [
+                {
+                  "name": "JustBet",
+                  "url": "/currencies/justbet",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Wallet",
+              "children": [
+                {
+                  "name": "Klever",
+                  "url": "/currencies/klever",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Gambling",
+              "children": [
+                {
+                  "name": "WINk",
+                  "url": "/currencies/wink-tronbet",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "EOS",
           "children": [
             {
@@ -17369,191 +17504,6 @@
           ]
         },
         {
-          "name": "Tron",
-          "children": [
-            {
-              "name": "AlphaLink",
-              "url": "/currencies/alphalink",
-              "value": 1
-            },
-            {
-              "name": "BeatzCoin",
-              "url": "/currencies/beatzcoin",
-              "value": 1
-            },
-            {
-              "name": "BitGuild PLAT",
-              "url": "/currencies/bitguild-plat",
-              "value": 1
-            },
-            {
-              "name": "CORN",
-              "url": "/currencies/corn",
-              "value": 1
-            },
-            {
-              "name": "Carrot",
-              "url": "/currencies/carrot",
-              "value": 1
-            },
-            {
-              "name": "Centric Cash",
-              "url": "/currencies/centric-cash",
-              "value": 1
-            },
-            {
-              "name": "CryptoBharatCoin",
-              "url": "/currencies/cryptobharatcoin",
-              "value": 1
-            },
-            {
-              "name": "DACC2",
-              "url": "/currencies/dacc2",
-              "value": 1
-            },
-            {
-              "name": "DeFinition",
-              "url": "/currencies/definition",
-              "value": 1
-            },
-            {
-              "name": "Dragon Ball",
-              "url": "/currencies/dragon-ball",
-              "value": 1
-            },
-            {
-              "name": "GOT Token",
-              "url": "/currencies/got-token",
-              "value": 1
-            },
-            {
-              "name": "IG Gold",
-              "url": "/currencies/ig-gold",
-              "value": 1
-            },
-            {
-              "name": "INRToken",
-              "url": "/currencies/inrtoken",
-              "value": 1
-            },
-            {
-              "name": "JackPool.finance",
-              "url": "/currencies/jackpool-finance",
-              "value": 1
-            },
-            {
-              "name": "Kingdom Game 4.0",
-              "url": "/currencies/kingdom-game-4",
-              "value": 1
-            },
-            {
-              "name": "Mineral",
-              "url": "/currencies/mineral",
-              "value": 1
-            },
-            {
-              "name": "Pearl",
-              "url": "/currencies/pearl",
-              "value": 1
-            },
-            {
-              "name": "Pollux Coin",
-              "url": "/currencies/pollux-coin",
-              "value": 1
-            },
-            {
-              "name": "Proof Of Liquidity",
-              "url": "/currencies/proof-of-liquidity",
-              "value": 1
-            },
-            {
-              "name": "SpokLottery",
-              "url": "/currencies/spoklottery",
-              "value": 1
-            },
-            {
-              "name": "TAI",
-              "url": "/currencies/tai",
-              "value": 1
-            },
-            {
-              "name": "USDJ",
-              "url": "/currencies/usdj",
-              "value": 1
-            },
-            {
-              "name": "VN Token",
-              "url": "/currencies/vn-token",
-              "value": 1
-            },
-            {
-              "name": "ZIMBOCASH",
-              "url": "/currencies/zimbocash",
-              "value": 1
-            },
-            {
-              "name": "DeFi",
-              "children": [
-                {
-                  "name": "JUST",
-                  "url": "/currencies/just",
-                  "value": 1
-                },
-                {
-                  "name": "Oikos",
-                  "url": "/currencies/oikos",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "name": "Platform",
-              "children": [
-                {
-                  "name": "Distributed Computing",
-                  "children": [
-                    {
-                      "name": "Filesharing",
-                      "children": [
-                        {
-                          "name": "IPFS",
-                          "children": [
-                            {
-                              "name": "BitTorrent",
-                              "url": "/currencies/bittorrent",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Wallet",
-              "children": [
-                {
-                  "name": "Klever",
-                  "url": "/currencies/klever",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "name": "Gambling",
-              "children": [
-                {
-                  "name": "WINk",
-                  "url": "/currencies/wink-tronbet",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Neo",
           "children": [
             {
@@ -17697,6 +17647,26 @@
                                   "value": 1
                                 }
                               ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Services",
+                  "children": [
+                    {
+                      "name": "Enterprise solutions",
+                      "children": [
+                        {
+                          "name": "Research",
+                          "children": [
+                            {
+                              "name": "Phoenix Global",
+                              "url": "/currencies/phoenix-global",
+                              "value": 1
                             }
                           ]
                         }
@@ -18294,6 +18264,26 @@
           ]
         },
         {
+          "name": "Social Token",
+          "children": [
+            {
+              "name": "Chiliz Contract",
+              "children": [
+                {
+                  "name": "Apollon Limassol",
+                  "url": "/currencies/apollon-limassol",
+                  "value": 1
+                },
+                {
+                  "name": "Club Atletico Independiente",
+                  "url": "/currencies/club-atletico-independiente",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Asset management",
           "children": [
             {
@@ -18369,6 +18359,51 @@
           ]
         },
         {
+          "name": "Stablecoin",
+          "children": [
+            {
+              "name": "Qcash",
+              "url": "/currencies/qcash",
+              "value": 1
+            },
+            {
+              "name": "Wallet",
+              "children": [
+                {
+                  "name": "POS 3.0",
+                  "children": [
+                    {
+                      "name": "PoS",
+                      "children": [
+                        {
+                          "name": "SHA-256",
+                          "children": [
+                            {
+                              "name": "Australia",
+                              "children": [
+                                {
+                                  "name": "Asset Backed Coin",
+                                  "children": [
+                                    {
+                                      "name": "Gold BCR",
+                                      "url": "/currencies/gold-bcr",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Services",
           "children": [
             {
@@ -18429,16 +18464,6 @@
           ]
         },
         {
-          "name": "Stablecoin",
-          "children": [
-            {
-              "name": "Qcash",
-              "url": "/currencies/qcash",
-              "value": 1
-            }
-          ]
-        },
-        {
           "name": "Cybersecurity",
           "children": [
             {
@@ -18450,6 +18475,31 @@
                   "value": 1
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Distributed Computing",
+          "children": [
+            {
+              "name": "Filesharing",
+              "children": [
+                {
+                  "name": "ThreeFold",
+                  "url": "/currencies/threefold",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Binance Smart Chain",
+          "children": [
+            {
+              "name": "Venus",
+              "url": "/currencies/venus",
+              "value": 1
             }
           ]
         }
@@ -18494,8 +18544,18 @@
           "value": 1
         },
         {
+          "name": "Akoin",
+          "url": "/currencies/akoin",
+          "value": 1
+        },
+        {
           "name": "Alchemy Pay",
           "url": "/currencies/alchemy-pay",
+          "value": 1
+        },
+        {
+          "name": "Alpha Quark Token",
+          "url": "/currencies/alpha-quark-token",
           "value": 1
         },
         {
@@ -18531,6 +18591,11 @@
         {
           "name": "Avalanche",
           "url": "/currencies/avalanche",
+          "value": 1
+        },
+        {
+          "name": "Azzure",
+          "url": "/currencies/azzure",
           "value": 1
         },
         {
@@ -18594,6 +18659,11 @@
           "value": 1
         },
         {
+          "name": "BitCanna",
+          "url": "/currencies/bitcanna",
+          "value": 1
+        },
+        {
           "name": "BitCoen",
           "url": "/currencies/bitcoen",
           "value": 1
@@ -18606,6 +18676,11 @@
         {
           "name": "Bitcoin Adult",
           "url": "/currencies/bitcoin-adult",
+          "value": 1
+        },
+        {
+          "name": "Bitcoin Cash ABC",
+          "url": "/currencies/bitcoin-cash-abc-2",
           "value": 1
         },
         {
@@ -18729,8 +18804,18 @@
           "value": 1
         },
         {
+          "name": "CloudCoin",
+          "url": "/currencies/cloudcoin",
+          "value": 1
+        },
+        {
           "name": "CoinEx Token",
           "url": "/currencies/coinex-token",
+          "value": 1
+        },
+        {
+          "name": "Coral Swap",
+          "url": "/currencies/coral-swap",
           "value": 1
         },
         {
@@ -18839,6 +18924,11 @@
           "value": 1
         },
         {
+          "name": "Easticoin",
+          "url": "/currencies/easticoin",
+          "value": 1
+        },
+        {
           "name": "Electronero",
           "url": "/currencies/electronero",
           "value": 1
@@ -18939,8 +19029,18 @@
           "value": 1
         },
         {
+          "name": "French Digital Reserve",
+          "url": "/currencies/french-digital-reserve",
+          "value": 1
+        },
+        {
           "name": "GALAXY NETWORK",
           "url": "/currencies/galaxy-network",
+          "value": 1
+        },
+        {
+          "name": "GARD Governance Token",
+          "url": "/currencies/gard-governance-token",
           "value": 1
         },
         {
@@ -19154,6 +19254,11 @@
           "value": 1
         },
         {
+          "name": "Kira Network",
+          "url": "/currencies/kira-network",
+          "value": 1
+        },
+        {
           "name": "Klaytn",
           "url": "/currencies/klaytn",
           "value": 1
@@ -19164,8 +19269,18 @@
           "value": 1
         },
         {
+          "name": "LONG COIN",
+          "url": "/currencies/long-coin",
+          "value": 1
+        },
+        {
           "name": "Largo Coin",
           "url": "/currencies/largo-coin",
+          "value": 1
+        },
+        {
+          "name": "LifetionCoin",
+          "url": "/currencies/lifetioncoin",
           "value": 1
         },
         {
@@ -19176,6 +19291,11 @@
         {
           "name": "Litecash",
           "url": "/currencies/litecash",
+          "value": 1
+        },
+        {
+          "name": "Lyra",
+          "url": "/currencies/lyra",
           "value": 1
         },
         {
@@ -19191,6 +19311,11 @@
         {
           "name": "MIB Coin",
           "url": "/currencies/mib-coin",
+          "value": 1
+        },
+        {
+          "name": "MYCE",
+          "url": "/currencies/myce",
           "value": 1
         },
         {
@@ -19264,6 +19389,11 @@
           "value": 1
         },
         {
+          "name": "MoneroV ",
+          "url": "/currencies/monero-v",
+          "value": 1
+        },
+        {
           "name": "MultiCoinCasino",
           "url": "/currencies/multicoincasino",
           "value": 1
@@ -19304,6 +19434,11 @@
           "value": 1
         },
         {
+          "name": "NestEGG Coin",
+          "url": "/currencies/nestegg-coin",
+          "value": 1
+        },
+        {
           "name": "Nexalt",
           "url": "/currencies/nexalt",
           "value": 1
@@ -19326,6 +19461,16 @@
         {
           "name": "Nyzo",
           "url": "/currencies/nyzo",
+          "value": 1
+        },
+        {
+          "name": "OASISBloc",
+          "url": "/currencies/oasisbloc",
+          "value": 1
+        },
+        {
+          "name": "Oasis Network",
+          "url": "/currencies/oasis-network",
           "value": 1
         },
         {
@@ -19574,6 +19719,11 @@
           "value": 1
         },
         {
+          "name": "TenUp",
+          "url": "/currencies/tenup",
+          "value": 1
+        },
+        {
           "name": "Terra SDT",
           "url": "/currencies/terra-sdt",
           "value": 1
@@ -19586,6 +19736,16 @@
         {
           "name": "TerraKRW",
           "url": "/currencies/terra-krw",
+          "value": 1
+        },
+        {
+          "name": "TerraUSD",
+          "url": "/currencies/terrausd",
+          "value": 1
+        },
+        {
+          "name": "The Universal Settlement Coin",
+          "url": "/currencies/the-universal-settlement-coin",
           "value": 1
         },
         {
@@ -19626,6 +19786,11 @@
         {
           "name": "Ultra Clear",
           "url": "/currencies/ultra-clear",
+          "value": 1
+        },
+        {
+          "name": "UniWorld",
+          "url": "/currencies/uniworld",
           "value": 1
         },
         {
@@ -19771,6 +19936,11 @@
         {
           "name": "Zano",
           "url": "/currencies/zano",
+          "value": 1
+        },
+        {
+          "name": "gAsp",
+          "url": "/currencies/gasp",
           "value": 1
         },
         {
@@ -20409,6 +20579,11 @@
             {
               "name": "Semux",
               "url": "/currencies/semux",
+              "value": 1
+            },
+            {
+              "name": "Shard",
+              "url": "/currencies/shard",
               "value": 1
             },
             {
@@ -21983,6 +22158,16 @@
                       ]
                     },
                     {
+                      "name": "Privacy",
+                      "children": [
+                        {
+                          "name": "Firo",
+                          "url": "/currencies/firo",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
                       "name": "Groestl",
                       "children": [
                         {
@@ -22393,6 +22578,16 @@
                       "value": 1
                     }
                   ]
+                },
+                {
+                  "name": "NeoScrypt",
+                  "children": [
+                    {
+                      "name": "Uniform Fiscal Object",
+                      "url": "/currencies/uniform-fiscal-object",
+                      "value": 1
+                    }
+                  ]
                 }
               ]
             },
@@ -22630,6 +22825,26 @@
                   ]
                 },
                 {
+                  "name": "X13",
+                  "children": [
+                    {
+                      "name": "MarteXcoin",
+                      "url": "/currencies/martexcoin",
+                      "value": 1
+                    },
+                    {
+                      "name": "Payments",
+                      "children": [
+                        {
+                          "name": "MotaCoin",
+                          "url": "/currencies/motacoin",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "Groestl",
                   "children": [
                     {
@@ -22645,16 +22860,6 @@
                     {
                       "name": "EverGreenCoin",
                       "url": "/currencies/evergreencoin",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "X13",
-                  "children": [
-                    {
-                      "name": "MarteXcoin",
-                      "url": "/currencies/martexcoin",
                       "value": 1
                     }
                   ]
@@ -25132,6 +25337,36 @@
               ]
             },
             {
+              "name": "Media",
+              "children": [
+                {
+                  "name": "TRON",
+                  "url": "/currencies/tron",
+                  "value": 1
+                },
+                {
+                  "name": "Content Creation",
+                  "children": [
+                    {
+                      "name": "Theta Fuel",
+                      "url": "/currencies/theta-fuel",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Collectibles & NFTs",
+                  "children": [
+                    {
+                      "name": "WAX",
+                      "url": "/currencies/wax",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "DeFi",
               "children": [
                 {
@@ -25176,31 +25411,6 @@
                           "value": 1
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Media",
-              "children": [
-                {
-                  "name": "Content Creation",
-                  "children": [
-                    {
-                      "name": "Theta Fuel",
-                      "url": "/currencies/theta-fuel",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Collectibles & NFTs",
-                  "children": [
-                    {
-                      "name": "WAX",
-                      "url": "/currencies/wax",
-                      "value": 1
                     }
                   ]
                 }
@@ -25263,6 +25473,21 @@
                   "name": "WhiteCoin",
                   "url": "/currencies/whitecoin",
                   "value": 1
+                },
+                {
+                  "name": "Media",
+                  "children": [
+                    {
+                      "name": "Content Creation",
+                      "children": [
+                        {
+                          "name": "ReddCoin",
+                          "url": "/currencies/redd",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "name": "Marketplace",
@@ -25627,15 +25852,10 @@
           "name": "Enterprise solutions",
           "children": [
             {
-              "name": "Medium of Exchange",
+              "name": "Smart Contracts",
               "children": [
                 {
-                  "name": "XRP",
-                  "url": "/currencies/xrp",
-                  "value": 1
-                },
-                {
-                  "name": "Smart Contracts",
+                  "name": "Medium of Exchange",
                   "children": [
                     {
                       "name": "EOS",
@@ -25648,6 +25868,46 @@
                         {
                           "name": "Stellar",
                           "url": "/currencies/stellar",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cybersecurity",
+                  "children": [
+                    {
+                      "name": "Interoperability",
+                      "children": [
+                        {
+                          "name": "Scaling",
+                          "children": [
+                            {
+                              "name": "Cosmos",
+                              "children": [
+                                {
+                                  "name": "CertiK",
+                                  "url": "/currencies/certik",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "DPoS",
+                  "children": [
+                    {
+                      "name": "Hardware",
+                      "children": [
+                        {
+                          "name": "High Performance Blockchain",
+                          "url": "/currencies/high-performance-blockchain",
                           "value": 1
                         }
                       ]
@@ -25752,22 +26012,12 @@
               ]
             },
             {
-              "name": "DPoS",
+              "name": "Medium of Exchange",
               "children": [
                 {
-                  "name": "Hardware",
-                  "children": [
-                    {
-                      "name": "Smart Contracts",
-                      "children": [
-                        {
-                          "name": "High Performance Blockchain",
-                          "url": "/currencies/high-performance-blockchain",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
+                  "name": "XRP",
+                  "url": "/currencies/xrp",
+                  "value": 1
                 }
               ]
             }

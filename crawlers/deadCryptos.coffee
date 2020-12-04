@@ -1,5 +1,13 @@
 fileDate = "03122020"
 
+## ethereum -> ethereum
+## defi -> DeFi
+## asset-management -> Asset management
+## smart-contracts -> Smart Contracts
+## staking -> staking
+## stablecoin -> Stablecoin
+## stablecoin-asset-backed -> Stablecoin - Asset-Backed
+
 _ = require 'lodash'
 cryptos = require '../cryptos'
 fresh = require "../cryptos-#{fileDate}"
