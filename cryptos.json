@@ -66552,13 +66552,37 @@
     "name": "swiss.finance",
     "short": "SWISS",
     "url": "/currencies/swiss-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x692e...577f65c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "tBTC": {
     "name": "tBTC",
     "short": "TBTC",
     "url": "/currencies/tbtc",
-    "tags": []
+    "tags": [
+      "Token",
+      "DeFi",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8dae...0815faa"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "tomatos.finance": {
     "name": "tomatos.finance",
@@ -66815,7 +66839,25 @@
     "name": "yOUcash",
     "short": "YOUC",
     "url": "/currencies/youcash",
-    "tags": []
+    "tags": [
+      "Token",
+      "Mobile",
+      "Payments",
+      "Platform",
+      "Marketing",
+      "Video",
+      "Entertainment",
+      "Wallet",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x3d37...0986ceb"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "yRise Finance": {
     "name": "yRise Finance",
@@ -66953,13 +66995,35 @@
     "name": "zHEGIC",
     "short": "ZHEGIC",
     "url": "/currencies/zhegic",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0x8370...f6fb2e7"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "zLOT Finance": {
     "name": "zLOT Finance",
     "short": "ZLOT",
     "url": "/currencies/zlot-finance",
-    "tags": []
+    "tags": [
+      "Token",
+      "Ethereum"
+    ],
+    "forked_data": {
+      "block": [
+        "0xA8e7...7B5A03E"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "zzz.finance": {
     "name": "zzz.finance",
