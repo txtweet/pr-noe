@@ -255,11 +255,6 @@
           "value": 1
         },
         {
-          "name": "Neutrino Token",
-          "url": "/currencies/neutrino-system-base-token",
-          "value": 1
-        },
-        {
           "name": "New BitShares",
           "url": "/currencies/new-bitshares",
           "value": 1
@@ -5440,11 +5435,6 @@
             {
               "name": "TOKPIE",
               "url": "/currencies/tokpie",
-              "value": 1
-            },
-            {
-              "name": "TON Token",
-              "url": "/currencies/tontoken",
               "value": 1
             },
             {
@@ -11081,11 +11071,6 @@
                   "value": 1
                 },
                 {
-                  "name": "Value Liquidity",
-                  "url": "/currencies/value-defi-protocol",
-                  "value": 1
-                },
-                {
                   "name": "Volts.Finance",
                   "url": "/currencies/volts-finance",
                   "value": 1
@@ -11239,26 +11224,6 @@
                       ]
                     },
                     {
-                      "name": "Binance Coin",
-                      "children": [
-                        {
-                          "name": "DFI.Money",
-                          "url": "/currencies/yearn-finance-ii",
-                          "value": 1
-                        },
-                        {
-                          "name": "Services",
-                          "children": [
-                            {
-                              "name": "Synthetix",
-                              "url": "/currencies/synthetix-network-token",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
                       "name": "Memes",
                       "children": [
                         {
@@ -11269,6 +11234,16 @@
                         {
                           "name": "YAM v1",
                           "url": "/currencies/yamv1",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Binance Coin",
+                      "children": [
+                        {
+                          "name": "DFI.Money",
+                          "url": "/currencies/yearn-finance-ii",
                           "value": 1
                         }
                       ]
@@ -11821,16 +11796,6 @@
                     {
                       "name": "Unifi Protocol DAO",
                       "url": "/currencies/unifi-protocol-dao",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "name": "Substrate",
-                  "children": [
-                    {
-                      "name": "Akropolis",
-                      "url": "/currencies/akropolis",
                       "value": 1
                     }
                   ]
@@ -19629,11 +19594,6 @@
           "value": 1
         },
         {
-          "name": "MoneroV ",
-          "url": "/currencies/monero-v",
-          "value": 1
-        },
-        {
           "name": "MultiCoinCasino",
           "url": "/currencies/multicoincasino",
           "value": 1
@@ -25725,21 +25685,6 @@
                   "value": 1
                 },
                 {
-                  "name": "Media",
-                  "children": [
-                    {
-                      "name": "Content Creation",
-                      "children": [
-                        {
-                          "name": "ReddCoin",
-                          "url": "/currencies/redd",
-                          "value": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
                   "name": "Marketplace",
                   "children": [
                     {
@@ -26820,7 +26765,7 @@
                   "value": 1
                 },
                 {
-                  "name": "MoneroV",
+                  "name": "MoneroV ",
                   "url": "/currencies/monero-v",
                   "value": 1
                 }
