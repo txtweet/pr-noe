@@ -42,6 +42,10 @@ _.forEach cryptos, (crypto) ->
 
 _.forEach fresh.data, (crypto) ->
   unless cryptos[crypto.name]?
+    if _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
+      console.error "000 - Renommage #{JSON.stringify crypto.name, null, 2}"
+      process.exit(1)
+
     console.error "#{newCryptos++} - New #{JSON.stringify crypto.name, null, 2}"
     tmpTags = crypto.tags.map (tag) ->
       unless tagsTables[tag]
