@@ -1,4 +1,4 @@
-fileDate = "03122020"
+fileDate = "07122020"
 
 ## ethereum -> ethereum
 ## defi -> DeFi
@@ -7,6 +7,19 @@ fileDate = "03122020"
 ## staking -> staking
 ## stablecoin -> Stablecoin
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
+tagsTables =
+  'content-creation':'Content Creation'
+  'dao': 'Dao'
+  'defi': 'DeFi'
+  'ethereum': 'Ethereum'
+  'hybrid-pow-pos': 'Hybrid - PoW & PoS'
+  'media': 'Media'
+  'rebase': 'Rebase'
+  'scrypt': 'Script'
+  'services': 'Services'
+  'substrate': 'Substrate'
+  'token': 'Token'
+  'yield-farming': 'Yield farming'
 
 _ = require 'lodash'
 cryptos = require '../cryptos'
@@ -22,19 +35,24 @@ _.forEach cryptos, (crypto) ->
 
   unless "Dead" in crypto.tags
     unless _.find fresh.data, {"name": crypto.name}
-      console.error("Monnaie non trouvée #{crypto.name} #{crypto.url}")
-      process.exit(1)
+      # console.error("Monnaie non trouvée #{crypto.name} #{crypto.short} #{crypto.url}")
+      # process.exit(1)
       crypto.tags.push("Dead")
       crypto.deaths = ["01011970"]
 
 _.forEach fresh.data, (crypto) ->
   unless cryptos[crypto.name]?
     console.error "#{newCryptos++} - New #{JSON.stringify crypto.name, null, 2}"
+    tmpTags = crypto.tags.map (tag) ->
+      unless tagsTables[tag]
+        console.error "Tag '#{tag}' inconnu"
+        process.exit(1)
+      tagsTables[tag]
     cryptos[crypto.name] =
       "name": crypto.name
       "short": crypto.symbol
       "url": "/currencies/#{crypto.slug}"
-      "tags": ["New"].concat(crypto.tags)
+      "tags": ["New"].concat(tmpTags)
       "sawBirth": fileDate
 
   if crypto.quote.USD.volume_24h is 0
