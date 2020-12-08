@@ -1,4 +1,4 @@
-fileDate = "07122020"
+fileDate = "08122020"
 
 ## ethereum -> ethereum
 ## defi -> DeFi
@@ -12,6 +12,7 @@ tagsTables =
   'dao': 'Dao'
   'defi': 'DeFi'
   'ethereum': 'Ethereum'
+  'ftx': 'Ftx'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'media': 'Media'
   'rebase': 'Rebase'
@@ -19,6 +20,7 @@ tagsTables =
   'services': 'Services'
   'substrate': 'Substrate'
   'token': 'Token'
+  'tokenized-stock': 'Tokenized Stock'
   'yield-farming': 'Yield farming'
 
 _ = require 'lodash'
@@ -31,7 +33,7 @@ newDeadCryptos = 1
 
 # Remove New keyword from old insert
 _.forEach cryptos, (crypto) ->
-  crypto.tags = _.without crypto.tags, "New"
+  crypto.tags = _.without crypto.tags, "New2"
 
   unless "Dead" in crypto.tags
     unless _.find fresh.data, {"name": crypto.name}
@@ -41,9 +43,12 @@ _.forEach cryptos, (crypto) ->
       crypto.deaths = ["01011970"]
 
 _.forEach fresh.data, (crypto) ->
+  if crypto.name.endsWith("FTX")
+    crypto.tags.push("ftx")
   unless cryptos[crypto.name]?
-    if _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
-      console.error "000 - Renommage #{JSON.stringify crypto.name, null, 2}"
+    found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
+    if found
+      console.error "000 - Renommage #{JSON.stringify found.name, null, 2} -> #{JSON.stringify crypto.name, null, 2}"
       process.exit(1)
 
     console.error "#{newCryptos++} - New #{JSON.stringify crypto.name, null, 2}"
