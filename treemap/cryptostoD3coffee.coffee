@@ -22,18 +22,15 @@ extract_data = (keyword, data) ->
       for tag in data[x].tags
         if tags[tag]?
           tags[tag]=tags[tag]+1
-          console.log("++")
         else
           tags[tag]=1
-          console.log("00")
 
-    console.log("Element à trier : "+Object.keys(data).length)
-    console.log(tags)
+    console.warn("Element à trier : "+Object.keys(data).length)
     if Object.keys(data).length is 1
-      console.log(Object.entries(data))
+      console.warn(Object.entries(data))
     tab_tags = Object.entries(tags).sort( (a,b) -> (b[1]-a[1]))
     kw = tab_tags[0][0]
-    console.log("Elected KW"+kw+"with :"+tab_tags[0][1])
+    console.warn("Elected KW"+kw+"with :"+tab_tags[0][1])
     soustab={}
     for x in Object.keys(data)
       if data[x]["tags"].includes(kw)
@@ -44,6 +41,4 @@ extract_data = (keyword, data) ->
   return ret
 
 jsonformat = extract_data("root",datas)
-console.log(jsonformat)
-jsontos = JSON.stringify(jsonformat, null,2)
-fs.writeFileSync("./arbre-tag.json", jsontos)
+console.log(JSON.stringify(jsonformat, null,2))
