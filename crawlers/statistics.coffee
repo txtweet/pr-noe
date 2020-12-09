@@ -16,14 +16,14 @@ _.forEach cryptos, (crypt) ->
       if "Ethereum" in crypt.tags
         euthereum++
       else
-        result.push "Token : #{crypt.name}, #{crypt.tags}, #{crypt.url}"
+        result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
     else
       unless "Coin" in crypt.tags
         console.error "Erreur sur #{JSON.stingify crypt}"
         process.exit(1)
       coin++
-      result.push "Coin : #{crypt.name}, #{crypt.tags}, #{crypt.url}"
+      result.push "Coin : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "---------"
 console.log "#{all} nouvelles, dont : #{token} token (dont #{euthereum} Ethereum)"
