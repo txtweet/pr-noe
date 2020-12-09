@@ -42,16 +42,15 @@ request
       block: bloc
       forked_from: forked_from
 
-  if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
-    crypto.tags.push("Ethereum")
-    console.warn("Token pour #{crypto.name}")
-  else
-    if _.isEmpty crypto.forked_data.forked_from
-      console.warn "Token Inconnu à vérifier #{crypto.name}"
-      delete crypto.forked_data
+    if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+      crypto.tags.push("Ethereum")
+      console.warn("Token pour #{crypto.name}")
     else
-      console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
+      if _.isEmpty crypto.forked_data.forked_from
+        console.warn "Token Inconnu à vérifier #{crypto.name}"
+        delete crypto.forked_data
+      else
+        console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
 
 .then () ->
   console.log JSON.stringify cryptos, null, 2
-  #console.log JSON.stringify crypto, null, 2

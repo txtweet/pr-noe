@@ -7779,7 +7779,11 @@
     "short": "BYND",
     "url": "/currencies/beyondcoin",
     "tags": [
-      "New"
+      "New2",
+      "Coin",
+      "Mineable",
+      "PoW",
+      "Scrypt"
     ],
     "sawBirth": "07122020"
   },
@@ -8050,9 +8054,10 @@
     "short": "BILI",
     "url": "/currencies/billibilli-inc-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -14442,9 +14447,19 @@
     "short": "CTI",
     "url": "/currencies/clintex-cti",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x8c18...874f244"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "CloakCoin": {
     "name": "CloakCoin",
@@ -17776,9 +17791,18 @@
     "short": "DJV",
     "url": "/currencies/dejave",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "TQDRp2...4iQVaw8"
+      ],
+      "forked_from": [
+        "TRON Contract"
+      ]
+    }
   },
   "DEMOS": {
     "name": "DEMOS",
@@ -17900,9 +17924,19 @@
     "short": "DGP",
     "url": "/currencies/dgpayment",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x9271...452433E"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "DIA": {
     "name": "DIA",
@@ -19107,9 +19141,19 @@
     "short": "DEBASE",
     "url": "/currencies/debase",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x9248...3c70907"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Debitum": {
     "name": "Debitum",
@@ -19183,9 +19227,19 @@
     "short": "DG",
     "url": "/currencies/decentral-games",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xee06...f4478a0"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Decentraland": {
     "name": "Decentraland",
@@ -21478,7 +21532,8 @@
     "short": "EFG",
     "url": "/currencies/ecoc-financial-growth",
     "tags": [
-      "New"
+      "New2",
+      "Coin"
     ],
     "sawBirth": "07122020"
   },
