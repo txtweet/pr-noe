@@ -1,3 +1,0 @@
-wget -O cryptosB-$(date +'%d%m%Y').json https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?aux=circulating_supply,tags,max_supply,total_supply&convert=USD&cryptocurrency_type=all&limit=50&sort=market_cap&sort_dir=desc&start=1
-coffee exportElastic/cryptosToElastic.coffee $(date +'%d%m%Y') > data_elastic.json
-#curl -XPUT localhost:9200/_bulk -H"Content-Type: application/json" --data-binary @data_elastic.json
