@@ -3306,9 +3306,10 @@
     "short": "ABNB",
     "url": "/currencies/airbnb-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -3555,9 +3556,10 @@
     "short": "BABA",
     "url": "/currencies/alibaba-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -3858,9 +3860,10 @@
     "short": "AMZN",
     "url": "/currencies/amazon-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -4442,9 +4445,10 @@
     "short": "AAPL",
     "url": "/currencies/apple-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -7893,9 +7897,10 @@
     "short": "BYND",
     "url": "/currencies/beyond-meat-inc-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -8202,10 +8207,11 @@
     "short": "BILI",
     "url": "/currencies/billibilli-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
       "Bittrex",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020",
     "deaths": [
@@ -8380,9 +8386,10 @@
     "short": "BNTX",
     "url": "/currencies/biontech-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -8391,9 +8398,10 @@
     "short": "BNTX",
     "url": "/currencies/biontech-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -11392,9 +11400,19 @@
     "short": "BONDLY",
     "url": "/currencies/bondly",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "09122020"
+    "sawBirth": "09122020",
+    "forked_data": {
+      "block": [
+        "0xd2dd...e6a8a85"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bone": {
     "name": "Bone",
@@ -23493,9 +23511,19 @@
     "short": "ELYX",
     "url": "/currencies/elynet",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "09122020"
+    "sawBirth": "09122020",
+    "forked_data": {
+      "block": [
+        "0x881a...5E7251b"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Elysian": {
     "name": "Elysian",
@@ -24778,10 +24806,20 @@
     "short": "ETHYS",
     "url": "/currencies/ethereum-stake",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "09122020"
+    "sawBirth": "09122020",
+    "forked_data": {
+      "block": [
+        "0xd0d3...425e533"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Ethereum Vault": {
     "name": "Ethereum Vault",
@@ -25981,9 +26019,10 @@
     "short": "FB",
     "url": "/currencies/facebook-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -29332,9 +29371,10 @@
     "short": "GOOGL",
     "url": "/currencies/google-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -29343,9 +29383,10 @@
     "short": "GOOGL",
     "url": "/currencies/google-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -34669,9 +34710,19 @@
     "short": "KAU",
     "url": "/currencies/kauri-crypto",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "09122020"
+    "sawBirth": "09122020",
+    "forked_data": {
+      "block": [
+        "0xe172...fd4e6c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Kava.io": {
     "name": "Kava.io",
@@ -42087,9 +42138,10 @@
     "short": "NVDA",
     "url": "/currencies/nvidia-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -42588,9 +42640,10 @@
     "short": "NFLX",
     "url": "/currencies/netflix-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -46796,9 +46849,10 @@
     "short": "PFE",
     "url": "/currencies/pfizer-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -51868,10 +51922,11 @@
     "short": "SPY",
     "url": "/currencies/spdr-sp-500-etf-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
       "Bittrex",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020",
     "deaths": [
@@ -51883,9 +51938,10 @@
     "short": "SPY",
     "url": "/currencies/spdr-sp-500-etf-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -58190,9 +58246,10 @@
     "short": "TSLA",
     "url": "/currencies/tesla-tokenized-stock-bittrex",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Bittrex"
+      "Bittrex",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -60516,9 +60573,10 @@
     "short": "TWTR",
     "url": "/currencies/twitter-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020"
   },
@@ -61055,10 +61113,11 @@
     "short": "UBER",
     "url": "/currencies/uber-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
       "Ftx",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token"
     ],
     "sawBirth": "09122020",
     "deaths": [
@@ -65248,9 +65307,19 @@
     "short": "wCRES",
     "url": "/currencies/wrapped-crescofin",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "09122020"
+    "sawBirth": "09122020",
+    "forked_data": {
+      "block": [
+        "0xa0af...3a1178a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped Gen-0 CryptoKitties": {
     "name": "Wrapped Gen-0 CryptoKitties",

@@ -26,11 +26,11 @@ while true; do
   # cp ./tokens.json ../cryptos.json
 
   echo "New crypto 1/2"
-  coffee ./updateWithCrawl.coffee > tokens.json
+  coffee ./updateNew2WithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
 
   echo "New crypto 2/2"
-  coffee ./updateWithCrawl.coffee > tokens.json
+  coffee ./updateNew2WithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
 
   sleep 60
