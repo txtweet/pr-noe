@@ -21533,6 +21533,7 @@
     "url": "/currencies/ecoc-financial-growth",
     "tags": [
       "New2",
+      "Defi",
       "Coin"
     ],
     "sawBirth": "07122020"
@@ -49703,9 +49704,19 @@
     "short": "RLR",
     "url": "/currencies/relayer-network",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x5b3F...CB5a70f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Release Project": {
     "name": "Release Project",
@@ -53984,9 +53995,19 @@
     "short": "VAL",
     "url": "/currencies/sora-validator-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xe88f...f3ed1e4"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "SorachanCoin": {
     "name": "SorachanCoin",
@@ -54482,9 +54503,10 @@
     "short": "SQ",
     "url": "/currencies/square-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -55997,12 +56019,23 @@
     "short": "SNX",
     "url": "/currencies/synthetix-network-token",
     "tags": [
-      "New",
       "Services",
       "DeFi",
-      "Yield farming"
+      "Yield farming",
+      "New2",
+      "Token"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xc011...0af2a6f",
+        "0x9ac9...32e8404"
+      ],
+      "forked_from": [
+        "Ethereum Contract",
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Synthetix Network Token": {
     "name": "Synthetix Network Token",
@@ -56432,9 +56465,19 @@
     "short": "TON",
     "url": "/currencies/tontoken",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x6a6c...b8c520a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "TONToken": {
     "name": "TONToken",
@@ -56754,9 +56797,19 @@
     "short": "TAD",
     "url": "/currencies/tadpole-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x9f72...f78ba04"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Tael": {
     "name": "Tael",
@@ -56805,9 +56858,10 @@
     "short": "TSM",
     "url": "/currencies/taiwan-semiconductor-mfg-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -57285,9 +57339,10 @@
     "short": "TSLA",
     "url": "/currencies/tesla-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -61789,10 +61844,20 @@
     "short": "VALUE",
     "url": "/currencies/value-defi-protocol",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x49e8...9218e5c"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "ValueChain": {
     "name": "ValueChain",
@@ -62254,9 +62319,19 @@
     "short": "VVT",
     "url": "/currencies/versoview",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x755b...B580D6e"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Vertcoin": {
     "name": "Vertcoin",
@@ -62890,9 +62965,19 @@
     "short": "WAV3",
     "url": "/currencies/wav3",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x14c3...119d6ae"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "WAX": {
     "name": "WAX",
@@ -62927,13 +63012,23 @@
     "short": "WELL",
     "url": "/currencies/well-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
     "sawBirth": "08122020",
     "deaths": [
       "08122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x1b06...3F5Af14"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "WEMIX": {
     "name": "WEMIX",
@@ -63376,9 +63471,19 @@
     "short": "WDP",
     "url": "/currencies/waterdrop",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xd61b...ed27192"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Waves": {
     "name": "Waves",
@@ -64253,9 +64358,19 @@
     "short": "UST",
     "url": "/currencies/wrapped-ust",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xa47c...8661acD"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Wrapped Virgin Gen-0 CryptoKitties": {
     "name": "Wrapped Virgin Gen-0 CryptoKitties",
@@ -65479,9 +65594,19 @@
     "short": "YFID",
     "url": "/currencies/yfidapp",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x6126...85187D5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "YFIEXCHANGE.FINANCE": {
     "name": "YFIEXCHANGE.FINANCE",
@@ -66329,9 +66454,19 @@
     "short": "YFIAG",
     "url": "/currencies/yearnagnostic-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xd40a...93F3405"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Yefam.Finance": {
     "name": "Yefam.Finance",
@@ -69100,7 +69235,8 @@
     "short": "SKLAY",
     "url": "/currencies/sklay",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
