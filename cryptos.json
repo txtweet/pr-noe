@@ -2131,9 +2131,10 @@
     "short": "ARKK",
     "url": "/currencies/ark-innovation-etf-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -2817,9 +2818,10 @@
     "short": "AMD",
     "url": "/currencies/advanced-micro-devices-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -3333,34 +3335,21 @@
     "short": "AKRO",
     "url": "/currencies/akropolis",
     "tags": [
-      "New",
-      "DeFi",
-      "Substrate"
-    ],
-    "sawBirth": "07122020"
-  },
-  "Akropolis ": {
-    "name": "Akropolis ",
-    "short": "AKRO",
-    "url": "/currencies/akropolis",
-    "tags": [
-      "Token",
       "DeFi",
       "Substrate",
-      "Ethereum",
-      "Dead"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
+    "sawBirth": "07122020",
     "forked_data": {
       "block": [
         "0x8ab7...ec853d7"
       ],
       "forked_from": [
-        "Ethereum"
+        "Ethereum Contract"
       ]
-    },
-    "deaths": [
-      "01011970"
-    ]
+    }
   },
   "Akropolis Delphi": {
     "name": "Akropolis Delphi",
@@ -3522,9 +3511,10 @@
     "short": "BABA",
     "url": "/currencies/alibaba-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -3812,9 +3802,10 @@
     "short": "AMZN",
     "url": "/currencies/amazon-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -4376,9 +4367,10 @@
     "short": "AAPL",
     "url": "/currencies/apple-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },

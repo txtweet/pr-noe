@@ -10,7 +10,7 @@ cryptos = require '../cryptos.json'
 #
 # console.log JSON.stringify cryptos, null, 2
 
-crypto = _.find cryptos, (crypto) -> _.isEmpty crypto.tags
+crypto = _.find cryptos, (crypto) -> "New" in crypto.tags
 unless crypto?
   console.log JSON.stringify cryptos, null, 2
   process.exit(1)
@@ -19,10 +19,15 @@ request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'
 .then (body) ->
+  crypto.tags = _.without crypto.tags, "New"
+  crypto.tags.push("New2")
+
   $ = cheerio.load(body)
   #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
   $('li.cmc-detail-panel-tags > span').each () ->
     crypto.tags.push($(@).text())
+
+  crypto.tags = _.uniq crypto.tags
 
   if 'Token' in crypto.tags
     forked_from =[]
@@ -37,12 +42,16 @@ request
       block: bloc
       forked_from: forked_from
 
-  if crypto.forked_data? and "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+  if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
     crypto.tags.push("Ethereum")
-    console.warn("OK pour #{crypto.name}")
+    console.warn("Token pour #{crypto.name}")
   else
-    if crypto.forked_data
-      console.error("Forked a corriger #{JSON.stringify crypto, null, 2}")
+    if _.isEmpty crypto.forked_data.forked_from
+      console.warn "Token Inconnu à vérifier #{crypto.name}"
+      delete crypto.forked_data
+    else
+      console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
 
 .then () ->
   console.log JSON.stringify cryptos, null, 2
+  #console.log JSON.stringify crypto, null, 2

@@ -25,14 +25,14 @@ while true; do
   # coffee ./crawlFtx.coffee > tokens.json
   # cp ./tokens.json ../cryptos.json
 
-  echo "Empty tags"
+  echo "New crypto 1/2"
   coffee ./updateWithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
 
-  echo "Empty tags"
+  echo "New crypto 2/2"
   coffee ./updateWithCrawl.coffee > tokens.json
   cp ./tokens.json ../cryptos.json
-  
+
   sleep 60
 
 done
