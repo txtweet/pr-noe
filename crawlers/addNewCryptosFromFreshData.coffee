@@ -8,6 +8,7 @@ fileDate = "09122020"
 ## stablecoin -> Stablecoin
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
 tagsTables =
+  'bittrex': 'Bittrex'
   'content-creation':'Content Creation'
   'dao': 'Dao'
   'defi': 'DeFi'
@@ -45,6 +46,8 @@ _.forEach cryptos, (crypto) ->
 _.forEach fresh.data, (crypto) ->
   if crypto.name.endsWith("FTX")
     crypto.tags.push("ftx")
+  if crypto.name.endsWith("Bittrex")
+    crypto.tags.push("bittrex")
   unless cryptos[crypto.name]?
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found
