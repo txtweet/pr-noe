@@ -8,13 +8,13 @@ raw = require '../cryptos-'+date+'.json'
 ret=''
 
 for crypto in raw.data
-  tags = crypto.tags.map( (x) -> return '"'+x+'"' )
+  tags = crypto.tags.map( (x) -> return "\"tag_#{x}\":true" )
   ret+="""{"index":{"_index": "cryptos"}}\n"""
   ret+="{\"id_coincap\": #{crypto.id},
   \"name\":\"#{crypto.name}\",
   \"symbol\":\"#{crypto.symbol}\",
   \"slug\":\"#{crypto.slug}\",
-  \"tags\":[#{tags}],
+  #{tags},
   \"date_data\": \"#{raw.status.timestamp}\",
   \"max_supply\":#{crypto.max_supply},
   \"circulating_supply\":#{crypto.circulating_supply},
