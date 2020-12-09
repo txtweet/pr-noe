@@ -21650,9 +21650,19 @@
     "short": "WOZX",
     "url": "/currencies/efforce",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x3495...12eb79f"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "EIDOS": {
     "name": "EIDOS",
@@ -25600,9 +25610,10 @@
     "short": "FB",
     "url": "/currencies/facebook-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -28622,9 +28633,19 @@
     "short": "GCR",
     "url": "/currencies/gold-coin-reserve",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x37F6...665C79D"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Gold Poker": {
     "name": "Gold Poker",
@@ -29108,9 +29129,19 @@
     "short": "GVY",
     "url": "/currencies/groovy-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x31be...05bf0f5"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Growth DeFi": {
     "name": "Growth DeFi",
@@ -34098,9 +34129,19 @@
     "short": "KTLYO",
     "url": "/currencies/katalyo",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0x24E3...a7127c8"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Katana Finance": {
     "name": "Katana Finance",
@@ -37729,9 +37770,19 @@
     "short": "MM",
     "url": "/currencies/mm-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xa283...e0fd304"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "MMOCoin": {
     "name": "MMOCoin",
@@ -39521,9 +39572,10 @@
     "short": "MSTR",
     "url": "/currencies/microstrategy-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -39777,9 +39829,19 @@
     "short": "MIR",
     "url": "/currencies/mirror-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x09a3...ff2E608"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Misbloc": {
     "name": "Misbloc",
@@ -39931,7 +39993,8 @@
     "short": "MOB",
     "url": "/currencies/mobilecoin",
     "tags": [
-      "New"
+      "New2",
+      "Coin"
     ],
     "sawBirth": "08122020"
   },
@@ -40032,9 +40095,10 @@
     "short": "MRNA",
     "url": "/currencies/moderna-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -40219,9 +40283,19 @@
     "short": "MONA",
     "url": "/currencies/monavale",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x275f...2D9412A"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Monero": {
     "name": "Monero",
@@ -40368,7 +40442,8 @@
     "short": "MTTCOIN",
     "url": "/currencies/money-of-tomorrow-today",
     "tags": [
-      "New"
+      "New2",
+      "Coin"
     ],
     "sawBirth": "07122020"
   },
@@ -41395,9 +41470,19 @@
     "short": "NTON",
     "url": "/currencies/nton",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0xcfb1...a5e8851"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "NULS": {
     "name": "NULS",
@@ -41901,9 +41986,10 @@
     "short": "NFLX",
     "url": "/currencies/netflix-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -42066,7 +42152,8 @@
     "short": "NSBT",
     "url": "/currencies/neutrino-system-base-token",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
     "sawBirth": "07122020"
   },
@@ -42423,9 +42510,10 @@
     "short": "NIO",
     "url": "/currencies/nio-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -45542,9 +45630,10 @@
     "short": "PYPL",
     "url": "/currencies/paypal-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -46037,9 +46126,10 @@
     "short": "PFE",
     "url": "/currencies/pfizer-tokenized-stock-ftx",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Ftx"
+      "Ftx",
+      "New2",
+      "Token"
     ],
     "sawBirth": "08122020"
   },
@@ -46319,9 +46409,19 @@
     "short": "DEFI++",
     "url": "/currencies/piedao-defi",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x8d1c...d23b033"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "PieDAO DOUGH v2": {
     "name": "PieDAO DOUGH v2",
@@ -48767,9 +48867,19 @@
     "short": "RAP",
     "url": "/currencies/realpay",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "forked_data": {
+      "block": [
+        "0xb23d...6d5822a"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "REBIT": {
     "name": "REBIT",
@@ -49216,11 +49326,22 @@
     "short": "RGT",
     "url": "/currencies/rari-governance-token",
     "tags": [
-      "New",
       "Dao",
-      "Yield farming"
+      "Yield farming",
+      "New2",
+      "Token",
+      "DAO",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xd291...46cc623"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Rarible": {
     "name": "Rarible",
@@ -49399,9 +49520,19 @@
     "short": "REB",
     "url": "/currencies/rebased",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x87F5...A8ADbFF"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Receive Access Ecosystem": {
     "name": "Receive Access Ecosystem",
@@ -49498,11 +49629,13 @@
     "short": "RDD",
     "url": "/currencies/redd",
     "tags": [
-      "New",
       "Hybrid - PoW & PoS",
       "Script",
       "Media",
-      "Content Creation"
+      "Content Creation",
+      "New2",
+      "Coin",
+      "Scrypt"
     ],
     "sawBirth": "07122020"
   },
