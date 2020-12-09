@@ -6704,9 +6704,19 @@
     "short": "BADGER",
     "url": "/currencies/badger-dao",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0x3472...2c6e53d"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Baer Chain": {
     "name": "Baer Chain",
@@ -7186,10 +7196,20 @@
     "short": "BAS",
     "url": "/currencies/basis-share",
     "tags": [
-      "New",
-      "Rebase"
+      "Rebase",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "forked_data": {
+      "block": [
+        "0xa7ED...1B63696"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "Bast": {
     "name": "Bast",
