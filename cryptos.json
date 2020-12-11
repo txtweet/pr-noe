@@ -16837,7 +16837,8 @@
       "Platform",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/Constellation-Labs/constellation"
   },
   "Content Neutrality Network": {
     "name": "Content Neutrality Network",
@@ -16960,7 +16961,8 @@
     "url": "/currencies/coral-swap",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/coral-dex/corswap"
   },
   "Cord DeFi": {
     "name": "Cord DeFi",
@@ -17025,7 +17027,8 @@
       "Platform",
       "IoT",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/CortexFoundation"
   },
   "Cosmo Coin": {
     "name": "Cosmo Coin",
@@ -17054,9 +17057,11 @@
       "Content Creation",
       "Interoperability",
       "Cosmos",
-      "Interoperability",
-      "Scaling"
-    ]
+      "Scaling",
+      "Binance Chain",
+      "Staking"
+    ],
+    "git": "https://github.com/cosmos"
   },
   "Couchain": {
     "name": "Couchain",
