@@ -15,6 +15,7 @@ licenceName =
   'Aricoin': 'AricoinL'
   'Axiom': 'AxiomL'
   'Backpackercoin': 'BackpackercoinL'
+  'Bean Core  www.bitbean.org / Bean Cash': 'BeanCoreL'
   'Bitcoin Core': 'BitcoinL'
   'Bitcoin': 'BitcoinL'
   'Blackcoin': 'BlackcoinL'

@@ -10448,7 +10448,8 @@
     "url": "/currencies/bitfinex-bitcoin-dominance-perps",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -10483,7 +10484,8 @@
     "url": "/currencies/bitgesell",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/wu-emma/bitgesell"
   },
   "Bitgrin": {
     "name": "Bitgrin",
@@ -10495,7 +10497,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitgrin/bitgrin"
   },
   "Bithao": {
     "name": "Bithao",
@@ -10639,7 +10642,8 @@
     "url": "/currencies/bitradio",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/thebitradio/Bitradio"
   },
   "Bitrue Coin": {
     "name": "Bitrue Coin",
