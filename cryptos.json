@@ -16309,7 +16309,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -16362,7 +16363,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/CommerciumBlockchain/Commercium"
   },
   "Community Token": {
     "name": "Community Token",
@@ -16400,7 +16402,8 @@
       "03122020",
       "07122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/smartinsider/cgencore"
   },
   "Compendia": {
     "name": "Compendia",
@@ -16504,7 +16507,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/compounddev/Compound-Coin"
   },
   "Compound Dai": {
     "name": "Compound Dai",

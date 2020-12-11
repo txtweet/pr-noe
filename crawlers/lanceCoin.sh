@@ -18,6 +18,6 @@ while true; do
     break
   fi
 
-  sleep 60
+  sleep 30
 
 done
