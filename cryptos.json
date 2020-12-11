@@ -4621,7 +4621,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/AquariusNetwork/ARCO"
   },
   "Aquila Protocol": {
     "name": "Aquila Protocol",
@@ -4816,7 +4817,8 @@
       "Coin",
       "Platform",
       "Enterprise solutions",
-      "State channels"
+      "State channels",
+      "NoGitHub"
     ]
   },
   "Arepacoin": {
@@ -4826,7 +4828,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ProjectArepa/ArepaCoin"
   },
   "Argus": {
     "name": "Argus",
@@ -4837,7 +4840,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
