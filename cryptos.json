@@ -8824,7 +8824,8 @@
     "url": "/currencies/bit-trust-system",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/BIUT-Block"
   },
   "Bit World Token": {
     "name": "Bit World Token",
@@ -8895,14 +8896,16 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/Crypto-Currency/BitBar"
   },
   "BitCanna": {
     "name": "BitCanna",
     "short": "BCNA",
     "url": "/currencies/bitcanna",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "BitCapitalVendor": {
@@ -8930,7 +8933,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/WillyTheCat/BitCash"
   },
   "BitCherry": {
     "name": "BitCherry",
@@ -8990,7 +8994,8 @@
       "07122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitcoal/bitcoal"
   },
   "BitCoen": {
     "name": "BitCoen",
@@ -8998,7 +9003,8 @@
     "url": "/currencies/bitcoen",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/BitCoen"
   },
   "BitCrystals": {
     "name": "BitCrystals",
@@ -9094,7 +9100,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/bitgreen"
   },
   "BitGuild PLAT": {
     "name": "BitGuild PLAT",
@@ -9197,7 +9204,8 @@
       "30112020",
       "01122020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/CryptVenture/BitMoneyV2"
   },
   "BitNautic Token": {
     "name": "BitNautic Token",
@@ -9238,7 +9246,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitnew-chain"
   },
   "BitOnyx": {
     "name": "BitOnyx",
@@ -9328,7 +9337,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/LIMXTEC/BitSend"
   },
   "BitShares": {
     "name": "BitShares",
@@ -9341,7 +9351,8 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi"
-    ]
+    ],
+    "git": "https://github.com/bitshares"
   },
   "BitStash": {
     "name": "BitStash",
@@ -9451,7 +9462,8 @@
     "url": "/currencies/bit-tube",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "BitUP Token": {
@@ -9478,14 +9490,16 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/BTWhite/BTWChain"
   },
   "Bitalgo": {
     "name": "Bitalgo",
     "short": "ALG",
     "url": "/currencies/bitalgo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Bitball Treasure": {
@@ -9519,7 +9533,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/BitBlocksProject/BitBlocks"
   },
   "Bitbook Gambling": {
     "name": "Bitbook Gambling",
@@ -9552,7 +9567,8 @@
     ],
     "deaths": [
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/LIMXTEC/Bitcloud/"
   },
   "Bitcloud Pro": {
     "name": "Bitcloud Pro",
@@ -9613,7 +9629,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Bitcoinote/Bitcoinote-Core"
   },
   "Bitcoiin": {
     "name": "Bitcoiin",
@@ -9629,7 +9646,8 @@
       "03122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitcoiinBT2"
   },
   "Bitcoin": {
     "name": "Bitcoin",
@@ -9642,7 +9660,8 @@
       "SHA-256",
       "Store of Value",
       "State channels"
-    ]
+    ],
+    "git": "https://github.com/bitcoin/"
   },
   "Bitcoin & Company Network": {
     "name": "Bitcoin & Company Network",
