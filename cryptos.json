@@ -4866,7 +4866,8 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/AricoinCurrency/Aricoin"
   },
   "Arion": {
     "name": "Arion",
@@ -4874,7 +4875,8 @@
     "url": "/currencies/arion",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/arioncoin/arioncoin/releases/"
   },
   "Arionum": {
     "name": "Arionum",
@@ -4887,7 +4889,8 @@
     ],
     "deaths": [
       "01122020"
-    ]
+    ],
+    "git": "https://github.com/arionum/node"
   },
   "Ark": {
     "name": "Ark",
@@ -4899,10 +4902,12 @@
       "Marketplace",
       "Payments",
       "State channels",
-      "DPoS",
       "Platform",
-      "Marketplace"
-    ]
+      "Staking",
+      "Enterprise solutions",
+      "Interoperability"
+    ],
+    "git": "https://github.com/ArkEcosystem"
   },
   "Arqma": {
     "name": "Arqma",
