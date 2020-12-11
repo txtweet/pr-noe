@@ -18422,7 +18422,8 @@
     "short": "DJV",
     "url": "/currencies/dejave",
     "tags": [
-      "Token"
+      "Token",
+      "Tron"
     ],
     "sawBirth": "07122020",
     "forked_data": {
@@ -18430,7 +18431,7 @@
         "TQDRp2...4iQVaw8"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -34239,7 +34240,7 @@
         "TBwEPB...z74ppzd"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -34764,7 +34765,7 @@
         "TKeuUe...X7Zqpuk"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -34901,7 +34902,7 @@
         "TTUwzo...bMLHJaq"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -47779,7 +47780,7 @@
         "1003095"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -50925,7 +50926,8 @@
     "url": "/currencies/rank-token",
     "tags": [
       "New2",
-      "Token"
+      "Token",
+      "Tron"
     ],
     "sawBirth": "11122020",
     "forked_data": {
@@ -50933,7 +50935,7 @@
         "TNkmiD...oBzE6DD"
       ],
       "forked_from": [
-        "TRON Contract"
+        "Tron"
       ]
     }
   },
@@ -71258,9 +71260,19 @@
     "short": "RBASE",
     "url": "/currencies/rbase-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "11122020"
+    "sawBirth": "11122020",
+    "forked_data": {
+      "block": [
+        "0xe8b2...2048739"
+      ],
+      "forked_from": [
+        "Ethereum Contract"
+      ]
+    }
   },
   "reflect.finance": {
     "name": "reflect.finance",
