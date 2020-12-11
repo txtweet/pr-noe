@@ -17095,7 +17095,8 @@
     "url": "/currencies/counos-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Counos X": {
@@ -17105,7 +17106,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/counos-platform/counos-X"
   },
   "Counterparty": {
     "name": "Counterparty",
