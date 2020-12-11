@@ -16657,7 +16657,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ConcealNetwork"
   },
   "Concoin": {
     "name": "Concoin",
@@ -16666,7 +16667,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
