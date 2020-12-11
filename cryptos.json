@@ -2722,7 +2722,8 @@
     "url": "/currencies/actinium",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Actinium-project"
   },
@@ -2904,7 +2905,8 @@
     "url": "/currencies/adshares",
     "tags": [
       "Coin",
-      "Marketing"
+      "Marketing",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/adshares"
   },
@@ -2916,7 +2918,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "AIBL"
     ],
     "git": "https://github.com/iobond/aib"
   },
@@ -2939,7 +2942,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",

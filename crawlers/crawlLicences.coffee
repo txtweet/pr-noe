@@ -6,6 +6,7 @@ cryptos = require '../cryptos.json'
 
 licenceName =
   'AcesCoin Developers': 'AcesCoinL'
+  'The AIB Core developers': 'AIBL'
   'The Bitcoin Core developers': 'BitcoinL'
   'Bitcoin Developers': 'BitcoinL'
   'The Bitcoin developers': 'BitcoinL'
