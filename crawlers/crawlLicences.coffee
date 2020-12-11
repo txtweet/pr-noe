@@ -22,6 +22,7 @@ licenceName =
   'Dash': 'DashL'
   'DigiByte': 'DigiByteL'
   'go-ethereum Authors.': 'GOEtereumL'
+  'Kobocoin': 'KobocoinL'
   'PPCoin': 'PPCoinL'
   'Litecoin': 'LitecoinL'
   'NovaCoin': 'NovaCoinL'
@@ -76,7 +77,7 @@ request
     #   process.exit(1)
 
 .catch (err) ->
-  console.error "Licence non trouvée #{crypto.name}"
+  console.error "Fichier Licence non trouvée #{crypto.name}"
   crypto.tags.push("NoLicenceFile")
 .then () ->
   console.log JSON.stringify cryptos, null, 2

@@ -7093,7 +7093,8 @@
     "short": "BPC",
     "url": "/currencies/backpacker-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BackpackercoinL"
     ],
     "git": "https://github.com/backpackercoin577/backpackercoin"
   },
@@ -7256,7 +7257,8 @@
     "short": "BAN",
     "url": "/currencies/banano",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bananocoin"
   },
@@ -7377,7 +7379,8 @@
     "short": "BCR",
     "url": "/currencies/bankcoin-reserve",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BankcoinReserve/bankcoin"
   },
@@ -7451,7 +7454,8 @@
     "url": "/currencies/barkis-network",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -7664,7 +7668,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020"
@@ -7694,7 +7699,10 @@
     "url": "/currencies/beacon",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "01122020"
@@ -7712,7 +7720,8 @@
       "Mimble Wimble",
       "DeFi",
       "Privacy",
-      "LelantusMW"
+      "LelantusMW",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BeamMW/beam"
   },
@@ -10172,7 +10181,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/SpecialCoins/BitcoinZero/"
   },
   "BitcoinHD": {
     "name": "BitcoinHD",
@@ -10180,7 +10190,8 @@
     "url": "/currencies/bitcoinhd",
     "tags": [
       "Coin",
-      "Medium of Exchange"
+      "Medium of Exchange",
+      "NoGitHub"
     ]
   },
   "BitcoinPoS": {
@@ -10189,7 +10200,8 @@
     "url": "/currencies/bitcoinpos",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/bitcoinpos"
   },
   "BitcoinRegular": {
     "name": "BitcoinRegular",
@@ -10247,7 +10259,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitcoinVBR/bitcoinV"
   },
   "BitcoinX": {
     "name": "BitcoinX",
@@ -10267,7 +10280,8 @@
         "Bitcoin"
       ],
       "date": "2017-12-12"
-    }
+    },
+    "git": "https://github.com/bitcoinx-project/bitcoinx/releases"
   },
   "BitcoinZ": {
     "name": "BitcoinZ",
@@ -10275,8 +10289,13 @@
     "url": "/currencies/bitcoinz",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "Education",
+      "E-commerce",
+      "Zero Knowledge Proofs",
+      "Payments"
+    ],
+    "git": "https://github.com/bitcoinz-pod/bitcoinz"
   },
   "Bitcoinus": {
     "name": "Bitcoinus",
@@ -10337,7 +10356,8 @@
         "Bitcoin"
       ],
       "date": "2017-11-02"
-    }
+    },
+    "git": "https://github.com/LIMXTEC/BitCore"
   },
   "Bitcurate": {
     "name": "Bitcurate",
