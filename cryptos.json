@@ -2667,7 +2667,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "AcesCoinL"
     ],
     "deaths": [
       "30112020",
@@ -2688,7 +2689,8 @@
       "Coin",
       "DPoS",
       "Platform",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Achain-Dev/Achain"
   },
@@ -2701,7 +2703,8 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
