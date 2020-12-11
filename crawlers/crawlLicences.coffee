@@ -41,7 +41,10 @@ licenceName =
   'BonorumCoin': 'BonorumCoinL'
   'BoostCoin': 'BoostCoinL'
   'bowscoin': 'bowscoinL'
+  'BriaCoin': 'BriaCoinL'
   'BTDX': 'BTDXL'
+  "cannation": 'cannationL'
+  'CaluraCoin': 'CaluraCoinL'
   'Dash': 'DashL'
   'Dash Core': 'DashL'
   'DashPay Core': 'DashPayCoreL'
@@ -56,6 +59,7 @@ licenceName =
   'LightPayCoin': 'LightPayCoinL'
   'NovaCoin': 'NovaCoinL'
   'PIVX': 'PIVXL'
+  'Peercoin': 'PeercoinL'
   'VoltCoin': 'VoltCoinL'
   'ZeroOne Core': 'ZeroOneL'
   'Zcash': "ZcashL"

@@ -12405,7 +12405,12 @@
     "url": "/currencies/briacoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BriaCoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -12524,7 +12529,8 @@
     "url": "/currencies/bubble",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -12632,7 +12638,8 @@
     "short": "BCB",
     "url": "/currencies/building-cities-beyond-blockchain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bcbchain"
   },
@@ -12770,7 +12777,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "PoC"
+      "PoC",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/burst-apps-team"
   },
@@ -12813,7 +12821,8 @@
     "short": "BUX",
     "url": "/currencies/buxcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/NewBux/Buxcoin"
   },
@@ -12822,7 +12831,8 @@
     "short": "BULL",
     "url": "/currencies/buysell",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/buysellcoin"
   },
@@ -12854,7 +12864,8 @@
       "CryptoNight",
       "Medium of Exchange",
       "Privacy",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bcndev"
   },
@@ -12867,7 +12878,8 @@
       "Mineable",
       "Platform",
       "Payments",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Bytom/bytom"
   },
@@ -12905,7 +12917,8 @@
     "short": "CXC",
     "url": "/currencies/capital-x-cell",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cxcblock"
   },
@@ -13350,7 +13363,8 @@
     "tags": [
       "Coin",
       "DeFi",
-      "DAG"
+      "DAG",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/coti-io"
   },
@@ -13438,7 +13452,8 @@
     "short": "CPU",
     "url": "/currencies/cpuchain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cpuchain"
   },
@@ -13465,7 +13480,8 @@
     "url": "/currencies/crea",
     "tags": [
       "Coin",
-      "Media"
+      "Media",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/creativechain"
   },
@@ -13476,7 +13492,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "07122020"
@@ -13772,7 +13789,8 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -13800,7 +13818,8 @@
       "Smart Contracts",
       "forked_altcoin",
       "Ethereum Classic",
-      "DApp"
+      "DApp",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -13818,7 +13837,11 @@
     "short": "CLC",
     "url": "/currencies/caluracoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "CaluraCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/laurobeleche/CaluraCoin"
   },
@@ -13919,7 +13942,9 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "deaths": [
       "03122020",
@@ -13962,7 +13987,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "cannationL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -14263,7 +14292,8 @@
     "url": "/currencies/cash-global-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -14320,7 +14350,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/CashberyCoin/cashberycoin"
   },
   "Cashhand": {
     "name": "Cashhand",
@@ -14333,7 +14364,8 @@
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "git": "https://github.com/Cashhand/cashhand/releases"
   },
   "Cashpayz Token": {
     "name": "Cashpayz Token",
@@ -14382,7 +14414,8 @@
       "PoC",
       "Gambling",
       "Gaming"
-    ]
+    ],
+    "git": "https://github.com/casinocoin"
   },
   "CasinoLand": {
     "name": "CasinoLand",
