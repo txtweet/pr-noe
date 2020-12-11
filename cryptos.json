@@ -9087,7 +9087,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -9104,7 +9105,8 @@
     "short": "BEN",
     "url": "/currencies/bitcoen",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BitCoen"
   },
@@ -9201,7 +9203,8 @@
     "url": "/currencies/bitgreen",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitgreen"
   },
@@ -9300,7 +9303,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "30112020",
@@ -9338,7 +9344,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -9438,7 +9445,9 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X11"
+      "X11",
+      "BitsendCoreL",
+      "DashL"
     ],
     "git": "https://github.com/LIMXTEC/BitSend"
   },
@@ -9452,7 +9461,8 @@
       "SHA-512",
       "Marketplace",
       "Decentralized exchange",
-      "DeFi"
+      "DeFi",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitshares"
   },
@@ -9591,7 +9601,8 @@
     "url": "/currencies/bitwhite",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BTWhite/BTWChain"
   },
@@ -9634,7 +9645,10 @@
     "url": "/currencies/bitblocks",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/BitBlocksProject/BitBlocks"
   },
@@ -12324,7 +12338,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/briastorm/briacoin"
   },
   "Brickblock": {
     "name": "Brickblock",
@@ -12439,7 +12454,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/spayse/Bubble/"
   },
   "Buccaneer V2": {
     "name": "Buccaneer V2",
@@ -12540,7 +12556,8 @@
     "url": "/currencies/building-cities-beyond-blockchain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/bcbchain"
   },
   "Bulleon": {
     "name": "Bulleon",
@@ -12677,7 +12694,8 @@
       "Coin",
       "Mineable",
       "PoC"
-    ]
+    ],
+    "git": "https://github.com/burst-apps-team"
   },
   "Business Credit Alliance Chain": {
     "name": "Business Credit Alliance Chain",
@@ -12719,7 +12737,8 @@
     "url": "/currencies/buxcoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/NewBux/Buxcoin"
   },
   "BuySell": {
     "name": "BuySell",
@@ -12727,7 +12746,8 @@
     "url": "/currencies/buysell",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/buysellcoin"
   },
   "Buzzshow": {
     "name": "Buzzshow",
@@ -12758,7 +12778,8 @@
       "Medium of Exchange",
       "Privacy",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/bcndev"
   },
   "Bytom": {
     "name": "Bytom",
@@ -12770,7 +12791,8 @@
       "Platform",
       "Payments",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/Bytom/bytom"
   },
   "Bytus": {
     "name": "Bytus",
@@ -12807,7 +12829,8 @@
     "url": "/currencies/capital-x-cell",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/cxcblock"
   },
   "CARAT": {
     "name": "CARAT",
