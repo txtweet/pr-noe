@@ -21,6 +21,8 @@ licenceName =
   'BIGDATACASH': 'BIGDATACASHL'
   'BitBar': 'BitBarL'
   'BitBean': 'BitBeanL'
+  'Bitcash Core': 'BitcashCoreL'
+  'Bitcash': 'BitcashL'
   'Bitcoin Core': 'BitcoinCoreL'
   'Bitcoin': 'BitcoinL'
   'Blackcoin': 'BlackcoinL'

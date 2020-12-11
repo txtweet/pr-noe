@@ -8989,7 +8989,11 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitBarL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020"
@@ -9029,7 +9033,8 @@
     "url": "/currencies/bitcash",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcashCoreL"
     ],
     "git": "https://github.com/WillyTheCat/BitCash"
   },
@@ -11721,7 +11726,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/blur-network/blur"
   },
   "Blurt": {
     "name": "Blurt",
@@ -11729,7 +11735,8 @@
     "url": "/currencies/blurt",
     "tags": [
       "Dead",
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -11830,7 +11837,8 @@
       "Mineable",
       "PoW",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/BOLI-Project/BolivarCoin/releases"
   },
   "Boltt Coin ": {
     "name": "Boltt Coin ",
@@ -11967,7 +11975,8 @@
       "03122020",
       "07122020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/bonoproject/Bonorum"
   },
   "Bonpay": {
     "name": "Bonpay",
@@ -12040,7 +12049,8 @@
     "url": "/currencies/boogle",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -12061,7 +12071,8 @@
       "Mineable",
       "PoW",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/cryptozoidberg/boolberry"
   },
   "BoostCoin": {
     "name": "BoostCoin",
@@ -12082,7 +12093,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/mammix2/boostcoin-core"
   },
   "Boosted Finance": {
     "name": "Boosted Finance",
@@ -12126,7 +12138,8 @@
     "url": "/currencies/botton",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -12147,7 +12160,8 @@
       "Marketplace",
       "AI & Big Data",
       "Distributed Computing"
-    ]
+    ],
+    "git": "https://github.com/Bottos-project"
   },
   "Bounce Token": {
     "name": "Bounce Token",
@@ -12221,7 +12235,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/BowscoinBSC/Bowscoin"
   },
   "Brazilian Digital Token": {
     "name": "Brazilian Digital Token",
