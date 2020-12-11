@@ -9679,7 +9679,10 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Quark",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "BTDXL"
     ],
     "deaths": [
       "07122020"
@@ -9744,7 +9747,8 @@
     "url": "/currencies/bitcoinote",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Bitcoinote/Bitcoinote-Core"
   },
@@ -9755,7 +9759,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -9775,7 +9780,8 @@
       "PoW",
       "SHA-256",
       "Store of Value",
-      "State channels"
+      "State channels",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitcoin/"
   },
@@ -9811,7 +9817,11 @@
     "tags": [
       "Coin",
       "Medium of Exchange",
-      "Payments"
+      "Payments",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "Bitcoin 2L"
     ],
     "git": "https://github.com/BITC2/bitcoin2"
   },
@@ -9886,7 +9896,8 @@
     "url": "/currencies/bitcoin-cz",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SpecialCoins/bitcoincz"
   },
@@ -9928,7 +9939,8 @@
     "short": "BXC",
     "url": "/currencies/bitcoin-classic",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/22Developers/Core"
   },
@@ -9937,7 +9949,8 @@
     "short": "BC",
     "url": "/currencies/bitcoin-confidential",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Bitcoin-Confidential"
   },
@@ -9951,7 +9964,10 @@
       "Medium of Exchange",
       "Payments",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Bitcoin DiamondL"
     ],
     "forked_data": {
       "block": [
@@ -9994,7 +10010,8 @@
     "short": "BIFI",
     "url": "/currencies/bitcoin-file",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitcoinfile/bitcoinfile"
   },
@@ -10003,7 +10020,8 @@
     "short": "BFC",
     "url": "/currencies/bitcoin-free-cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitfreecash/bitfree"
   },
@@ -10037,7 +10055,10 @@
       "Medium of Exchange",
       "Payments",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Bitcoin GoldL"
     ],
     "forked_data": {
       "block": [
@@ -10056,7 +10077,8 @@
     "url": "/currencies/bitcoin-incognito",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/XBIncognito/"
   },
@@ -10069,7 +10091,8 @@
       "Mineable",
       "forked_bitcoin",
       "Bitcoin",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "forked_data": {
       "block": [
@@ -10097,7 +10120,8 @@
       "Store of Value",
       "Payments",
       "Scaling",
-      "Staking"
+      "Staking",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitcoinplusorg/"
   },
@@ -10107,7 +10131,8 @@
     "url": "/currencies/bitcoin-private",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BTCPrivate/BitcoinPrivate"
   },
