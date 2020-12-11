@@ -18168,7 +18168,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/pallas1/Cryptonite/"
   },
   "Cryptopay": {
     "name": "Cryptopay",
@@ -18316,7 +18317,8 @@
     "short": "CTC",
     "url": "/currencies/culture-ticket-chain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Curate": {
