@@ -3450,7 +3450,8 @@
     "short": "AKN",
     "url": "/currencies/akoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Akroma": {
@@ -3469,7 +3470,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/akroma-project/akroma"
   },
   "Akropolis": {
     "name": "Akropolis",
@@ -3603,7 +3605,8 @@
     "url": "/currencies/alchemy-pay",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Alchemy-GPS"
   },
   "Aleph.im": {
     "name": "Aleph.im",
@@ -3631,8 +3634,10 @@
       "Mineable",
       "PoS",
       "Platform",
-      "Research"
-    ]
+      "Research",
+      "Smart Contracts"
+    ],
+    "git": "https://github.com/algorand"
   },
   "Alias": {
     "name": "Alias",
@@ -3646,7 +3651,8 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/aliascash"
   },
   "Alibaba tokenized stock Bittrex": {
     "name": "Alibaba tokenized stock Bittrex",
@@ -3713,7 +3719,8 @@
       "Coin",
       "PoS",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/Artinvest/Allsafe/releases"
   },
   "AllWin DeFi": {
     "name": "AllWin DeFi",
@@ -3838,7 +3845,8 @@
     "url": "/currencies/alpha-quark-token",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/alphaquark/Alpha-Quark"
   },
   "Alpha Token": {
     "name": "Alpha Token",
@@ -3953,7 +3961,8 @@
     "url": "/currencies/altbet",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/altbet"
   },
   "Aludra Network": {
     "name": "Aludra Network",
@@ -4003,7 +4012,8 @@
       "Logistics",
       "AI & Big Data",
       "Enterprise solutions"
-    ]
+    ],
+    "git": "https://github.com/ambrosus"
   },
   "AmericanHorror.Finance": {
     "name": "AmericanHorror.Finance",
@@ -4093,7 +4103,8 @@
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "git": "https://github.com/zack-bitcoin/amoveo/"
   },
   "Amp": {
     "name": "Amp",
