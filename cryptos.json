@@ -8363,7 +8363,8 @@
       "Coin",
       "Mineable",
       "Philanthropy",
-      "Payments"
+      "Payments",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/biblepay/biblepay-evolution"
   },
@@ -8460,7 +8461,8 @@
     "short": "BBC",
     "url": "/currencies/bigbang-core",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bigbangcore/BigBang"
   },
@@ -8522,7 +8524,9 @@
     "short": "BDCASH",
     "url": "/currencies/bigdatacash",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/bdcashdev/BigdataCash"
   },
@@ -8729,7 +8733,9 @@
     "url": "/currencies/biocoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "PPCoinL"
     ],
     "deaths": [
       "01011970"
@@ -8818,7 +8824,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL"
     ],
     "deaths": [
       "11122020"
@@ -8865,7 +8875,8 @@
     "url": "/currencies/bismuth",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bismuthfoundation"
   },
@@ -8908,7 +8919,8 @@
     "short": "BIUT",
     "url": "/currencies/bit-trust-system",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BIUT-Block"
   },
@@ -10878,7 +10890,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/bitzeny/bitzeny"
   },
   "Black Diamond Rating": {
     "name": "Black Diamond Rating",
@@ -10904,7 +10917,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Scrypt"
+      "Scrypt",
+      "NoGitHub"
     ]
   },
   "BlackDragon": {
@@ -10966,7 +10980,8 @@
     "url": "/currencies/blacknet",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -10997,7 +11012,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/BlueDragon747"
   },
   "Blaze Network": {
     "name": "Blaze Network",
@@ -11040,7 +11056,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/FlikkaFlak/blazercoin"
   },
   "BlitzPredict": {
     "name": "BlitzPredict",
@@ -11113,7 +11130,8 @@
     "url": "/currencies/block-logic",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Block-Logic-Technology-Group/bltg"
   },
   "BlockCAT": {
     "name": "BlockCAT",
@@ -11208,7 +11226,8 @@
     "deaths": [
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/BlockStamp"
   },
   "Blockburn": {
     "name": "Blockburn",
@@ -11365,7 +11384,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Marketplace"
-    ]
+    ],
+    "git": "https://github.com/BlocknetDX/"
   },
   "Blockparty (BOXX Token)": {
     "name": "Blockparty (BOXX Token)",
@@ -11411,7 +11431,8 @@
     "url": "/currencies/blockstack",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/blockstack"
   },
   "Blocktix": {
     "name": "Blocktix",
@@ -11636,7 +11657,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bluecoiner/bluecoin-new"
   },
   "Bluekey": {
     "name": "Bluekey",
