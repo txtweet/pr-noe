@@ -14626,7 +14626,8 @@
     "short": "CELO",
     "url": "/currencies/celo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/celo-org/celo-monorepo/"
   },
@@ -14664,7 +14665,8 @@
     "short": "CNTR",
     "url": "/currencies/centaur",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Centaure": {
@@ -14739,7 +14741,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
