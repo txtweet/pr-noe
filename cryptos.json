@@ -5812,7 +5812,12 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "AxiomL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -6071,7 +6076,8 @@
     "url": "/currencies/bbscoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020",
@@ -6183,7 +6189,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X14",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -6222,7 +6229,8 @@
     "url": "/currencies/bhp-coin",
     "tags": [
       "Coin",
-      "E-commerce"
+      "E-commerce",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BhpAlpha/"
   },
@@ -6395,7 +6403,8 @@
     "url": "/currencies/blast",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/blastdev/blast-core-v2/releases"
   },
@@ -6404,7 +6413,8 @@
     "short": "BLOC",
     "url": "/currencies/bloc-money",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/furiousteam/BLOC"
   },
@@ -9873,7 +9883,8 @@
     "url": "/currencies/bitcoin-confidential",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Bitcoin-Confidential"
   },
   "Bitcoin Diamond": {
     "name": "Bitcoin Diamond",
@@ -9895,7 +9906,8 @@
         "Bitcoin"
       ],
       "date": "2017-11-24"
-    }
+    },
+    "git": "https://github.com/eveybcd/BitcoinDiamond"
   },
   "Bitcoin Fast": {
     "name": "Bitcoin Fast",
@@ -9928,7 +9940,8 @@
     "url": "/currencies/bitcoin-file",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/bitcoinfile/bitcoinfile"
   },
   "Bitcoin Free Cash": {
     "name": "Bitcoin Free Cash",
@@ -9936,7 +9949,8 @@
     "url": "/currencies/bitcoin-free-cash",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/bitfreecash/bitfree"
   },
   "Bitcoin God": {
     "name": "Bitcoin God",
@@ -9945,7 +9959,8 @@
     "tags": [
       "Coin",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoGitHub"
     ],
     "forked_data": {
       "block": [
@@ -9977,7 +9992,8 @@
         "Bitcoin"
       ],
       "date": "2017-10-24"
-    }
+    },
+    "git": "https://github.com/BTCGPU/BTCGPU"
   },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
@@ -9986,7 +10002,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/XBIncognito/"
   },
   "Bitcoin Interest": {
     "name": "Bitcoin Interest",
@@ -10011,7 +10028,8 @@
     "deaths": [
       "03122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/BitcoinInterestOfficial/BitcoinInterest"
   },
   "Bitcoin Plus": {
     "name": "Bitcoin Plus",

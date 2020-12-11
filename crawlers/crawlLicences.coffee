@@ -5,20 +5,20 @@ request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
 licenceName =
-  'AcesCoin Developers': 'AcesCoinL'
-  'The AIB Core developers': 'AIBL'
-  'AmsterdamCoin Developers': 'AmsterdamCoinL'
-  'The Anoncoin Developers': 'AnoncoinL'
-  'Apollon Developers':'ApollonL'
-  'AquariusCoin Developers': 'AquariusCoinL'
-  'ArepaCoin Developers': 'ArepaCoinL'
-  'Aricoin Developers': 'AricoinL'
-  'Axiom Developers': 'AxiomL'
-  'The Bitcoin Core developers': 'BitcoinL'
-  'Bitcoin Developers': 'BitcoinL'
-  'The Bitcoin developers': 'BitcoinL'
-  'Blackcoin Developers': 'BlackcoinL'
-  'The Dash Core developers': 'DashL'
+  'AcesCoin': 'AcesCoinL'
+  'AIB Core': 'AIBL'
+  'AmsterdamCoin': 'AmsterdamCoinL'
+  'Anoncoin': 'AnoncoinL'
+  'Apollon':'ApollonL'
+  'AquariusCoin': 'AquariusCoinL'
+  'ArepaCoin': 'ArepaCoinL'
+  'Aricoin': 'AricoinL'
+  'Axiom': 'AxiomL'
+  'Bitcoin Core': 'BitcoinL'
+  'Bitcoin': 'BitcoinL'
+  'Bitcoin': 'BitcoinL'
+  'Blackcoin': 'BlackcoinL'
+  'Dash Core developers': 'DashL'
   'Dash Developers': 'DashL'
   'DigiByte Developers': 'DigiByteL'
   'The go-ethereum Authors.': 'GOEtereumL'
@@ -55,7 +55,12 @@ request
   lines.forEach (line) ->
     # console.warn "--#{line}--"
     if line.trim().startsWith('Copyright')
-      licence = line.trim().replace(/.*\d{4} /, '').trim()
+      licence = line
+      .trim()
+      .replace(/.*\d{4} /, '')
+      .trim()
+      .replace(/The/, '')
+      .replace(/D|developers/, '')
       unless licenceName[licence]?
         console.error "Nom Licence inconnue #{url}"
         console.error "-> #{licence} / #{crypto.name}"
