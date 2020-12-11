@@ -1,7 +1,12 @@
+unless process.argv[2]?
+  console.warn("usage : coffee ./statistics.coffee <date(jjmmyyyy)>")
+  process.exit(1)
+
+currentDate = process.argv[2]
+
 _ = require 'lodash'
 cryptos = require '../cryptos.json'
 
-currentDate = '11122020'
 all = 0
 token = 0
 coin = 0
@@ -34,8 +39,8 @@ _.forEach cryptos, (crypt) ->
 
 console.log "--------- News"
 console.log "#{all} nouvelles, dont : #{token} token (dont #{euthereum} Ethereum)"
-console.log "#{result.length} autres"
+console.log "#{result.length} à observer"
 console.log "#{JSON.stringify result.sort(), null, 2}"
 console.log "--------- "
-console.log "#{allDead} mortes, dont : #{dead.length} nouvelles"
+console.log "#{allDead} mortes, dont #{dead.length} à cette date"
 console.log "#{JSON.stringify dead.sort(), null, 2}"
