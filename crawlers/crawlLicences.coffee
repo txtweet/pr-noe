@@ -12,6 +12,8 @@ unless crypto?
   console.log JSON.stringify cryptos, null, 2
   process.exit(1)
 
+
+console.log "Recherche : https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
 request
   url : "https://raw.githubusercontent.com/#{crypto.git}/master/COPYING"
   method: 'GET'

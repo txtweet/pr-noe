@@ -2044,14 +2044,16 @@
       "03122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/anonymousbitcoin"
   },
   "AOS": {
     "name": "AOS",
     "short": "AOS",
     "url": "/currencies/aos",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "APEcoin": {
@@ -2114,7 +2116,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/APRCoin"
   },
   "APY.Finance": {
     "name": "APY.Finance",
@@ -2249,7 +2252,8 @@
       "03122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/ARbitcoin/ARbit"
   },
   "AS Roma Fan Token": {
     "name": "AS Roma Fan Token",
@@ -2329,7 +2333,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -2450,7 +2455,8 @@
     "url": "/currencies/avccoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -2463,8 +2469,10 @@
     "short": "AXEL",
     "url": "/currencies/axel",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "Filesharing"
+    ],
+    "git": "https://github.com/axelnetwork/"
   },
   "AXPR": {
     "name": "AXPR",
@@ -2653,7 +2661,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/aces-coin/AcesCoin"
   },
   "Achain": {
     "name": "Achain",
@@ -2664,7 +2673,8 @@
       "DPoS",
       "Platform",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/Achain-Dev/Achain"
   },
   "Acoin": {
     "name": "Acoin",
@@ -2684,7 +2694,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/acoin-project/acoin"
   },
   "Actinium": {
     "name": "Actinium",

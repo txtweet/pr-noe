@@ -5,7 +5,7 @@ request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
 crypto = _.find cryptos, (crypto) ->
-  not "NoGitHub" in crypto.tags and
+  "NoGitHub" not in crypto.tags and
   not crypto.git? and
   "Coin" in crypto.tags
 
