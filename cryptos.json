@@ -15426,7 +15426,11 @@
       "Medium of Exchange",
       "forked_bitcoin",
       "Bitcoin",
-      "Dead"
+      "Dead",
+      "ClamL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "forked_data": {
       "block": [
@@ -15491,7 +15495,8 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS",
-      "X13"
+      "X13",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/CloakProject"
   },
@@ -15500,7 +15505,8 @@
     "short": "CCE",
     "url": "/currencies/cloudcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/CloudCoinConsortium"
   },
@@ -15581,7 +15587,12 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "ClubCoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -16067,7 +16078,8 @@
       "Mineable",
       "PoW",
       "NIST5",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -16245,7 +16257,10 @@
     "url": "/currencies/colossusxt",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/ColossusCoinXT/ColossusCoinXT/"
   },
@@ -16367,7 +16382,10 @@
     "url": "/currencies/commercium",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/CommerciumBlockchain/Commercium"
   },
@@ -16399,7 +16417,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "30112020",
@@ -16511,7 +16532,11 @@
     "url": "/currencies/compound-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "CompoundL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/compounddev/Compound-Coin"
   },
@@ -16661,7 +16686,8 @@
     "url": "/currencies/conceal",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ConcealNetwork"
   },
@@ -16841,7 +16867,8 @@
       "DAG",
       "Platform",
       "Payments",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Constellation-Labs/constellation"
   },
@@ -16965,7 +16992,8 @@
     "short": "CORAL",
     "url": "/currencies/coral-swap",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/coral-dex/corswap"
   },
@@ -17031,7 +17059,8 @@
       "Mineable",
       "Platform",
       "IoT",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/CortexFoundation"
   },
@@ -17064,7 +17093,8 @@
       "Cosmos",
       "Scaling",
       "Binance Chain",
-      "Staking"
+      "Staking",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cosmos"
   },
@@ -17110,7 +17140,9 @@
     "url": "/currencies/counos-x",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/counos-platform/counos-X"
   },
@@ -17120,7 +17152,8 @@
     "url": "/currencies/counterparty",
     "tags": [
       "Coin",
-      "PoW"
+      "PoW",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/CounterpartyXCP"
   },
@@ -17187,7 +17220,9 @@
     "url": "/currencies/cream",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/creamcoin/cream"
   },
@@ -17258,7 +17293,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -17277,7 +17313,8 @@
     "url": "/currencies/creditcoin",
     "tags": [
       "Coin",
-      "DeFi"
+      "DeFi",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/gluwa/Creditcoin"
   },
@@ -17363,7 +17400,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -17507,7 +17545,8 @@
       "Distributed Computing",
       "Filesharing",
       "Substrate",
-      "Polkadot"
+      "Polkadot",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/crustio"
   },
@@ -17680,7 +17719,9 @@
     "url": "/currencies/crypto-sports",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/c-sports/cspn"
   },
@@ -17885,7 +17926,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "30112020",
@@ -17980,7 +18024,8 @@
       "Coin",
       "Services",
       "Privacy",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -18058,7 +18103,8 @@
     "short": "CRON",
     "url": "/currencies/cryptocean",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cronfoundation"
   },
@@ -18107,7 +18153,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X13",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -18146,7 +18193,8 @@
       "Mineable",
       "Medium of Exchange",
       "Centralized exchange",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Cryptonex"
   },
@@ -18159,7 +18207,8 @@
       "Mineable",
       "PoW",
       "M7 POW",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -18351,7 +18400,10 @@
       "Scrypt",
       "Education",
       "Distributed Computing",
-      "Research"
+      "Research",
+      "CureCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/cygnusxi/CurecoinSource"
   },
@@ -18528,7 +18580,8 @@
     "tags": [
       "Coin",
       "Platform",
-      "E-commerce"
+      "E-commerce",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cybermiles"
   },
@@ -18772,7 +18825,8 @@
     "url": "/currencies/daobet",
     "tags": [
       "Coin",
-      "Gambling"
+      "Gambling",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/daocasino"
   },
@@ -18924,7 +18978,8 @@
       "DPoS",
       "Platform",
       "Enterprise solutions",
-      "Scaling"
+      "Scaling",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/AraiEzzra"
   },
@@ -18952,7 +19007,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020"
@@ -22182,14 +22238,17 @@
       "Medium of Exchange",
       "Memes",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/dogecoin/dogecoin"
   },
   "Dogz": {
     "name": "Dogz",
     "short": "DOGZ",
     "url": "/currencies/dogz",
     "tags": [
-      "Coin"
+      "Coin",
+      "Token",
+      "NoGitHub"
     ]
   },
   "Doki Doki Finance": {
@@ -22245,7 +22304,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/dollarcoins/source"
   },
   "Dollars": {
     "name": "Dollars",
@@ -22296,7 +22356,8 @@
       "Mineable",
       "PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -22331,7 +22392,8 @@
     "tags": [
       "Coin",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoGitHub"
     ]
   },
   "DotBased": {
@@ -22398,7 +22460,8 @@
       "Coin",
       "PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "03122020",
@@ -22559,7 +22622,8 @@
     "url": "/currencies/dreamcoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "03122020",
@@ -22607,7 +22671,8 @@
       "Mineable",
       "PoW",
       "Dagger-Hashimoto"
-    ]
+    ],
+    "git": "https://github.com/dubaicoin-dbix/go-dubaicoin"
   },
   "Ducato Protocol Token": {
     "name": "Ducato Protocol Token",
@@ -22648,7 +22713,8 @@
     "short": "DUN",
     "url": "/currencies/dune-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Dusk Network": {
@@ -22720,7 +22786,8 @@
       "Mineable",
       "PoW",
       "Argon2"
-    ]
+    ],
+    "git": "https://github.com/duality-solutions/"
   },
   "Dynamic Trading Rights": {
     "name": "Dynamic Trading Rights",
@@ -22774,7 +22841,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Dystem"
   },
   "EA Token": {
     "name": "EA Token",
@@ -22813,7 +22881,8 @@
       "Coin",
       "PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "03122020",
@@ -22828,7 +22897,8 @@
       "Defi",
       "Coin"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "git": "https://github.com/Defi-EFG/"
   },
   "ECOChain": {
     "name": "ECOChain",
@@ -22836,7 +22906,8 @@
     "url": "/currencies/ecochain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/ECO-chain/ecochain"
   },
   "ECOSC": {
     "name": "ECOSC",
@@ -22861,7 +22932,8 @@
     "url": "/currencies/edc-blockchain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/EDCBlockchain/blockchain/wiki"
   },
   "EDC Blockchain [old]": {
     "name": "EDC Blockchain [old]",
@@ -22875,7 +22947,8 @@
       "Platform",
       "Enterprise solutions",
       "Masternodes",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -22903,7 +22976,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/EDCBlockchain/blockchain"
   },
   "EDRCoin": {
     "name": "EDRCoin",
@@ -22921,7 +22995,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/EDRCoin/"
   },
   "EDUCare": {
     "name": "EDUCare",
@@ -23048,8 +23123,10 @@
       "Coin",
       "Medium of Exchange",
       "Enterprise solutions",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "Binance Chain"
+    ],
+    "git": "https://github.com/eosio"
   },
   "EOS Force": {
     "name": "EOS Force",
@@ -23057,7 +23134,8 @@
     "url": "/currencies/eos-force",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/eosforce/eosforce"
   },
   "EOS TRUST": {
     "name": "EOS TRUST",
@@ -23185,7 +23263,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/BlockchainFor/ESBC2"
   },
   "ESR Coin": {
     "name": "ESR Coin",
@@ -23193,7 +23272,8 @@
     "url": "/currencies/esr-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/gyun0526"
   },
   "ETF Dao": {
     "name": "ETF Dao",
