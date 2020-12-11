@@ -19021,7 +19021,11 @@
     "url": "/currencies/decoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "I/OCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/DECOINio/DTEP"
   },
@@ -19030,7 +19034,8 @@
     "short": "DEEX",
     "url": "/currencies/deex",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/thedeex/"
   },
@@ -19326,7 +19331,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "DNotesL"
     ],
     "deaths": [
       "08122020",
@@ -19873,7 +19879,10 @@
     "short": "D4RK",
     "url": "/currencies/darkpaycoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "DarkpayL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/DarkPayCoin/darkpay-core"
   },
@@ -19934,7 +19943,10 @@
       "X11",
       "Medium of Exchange",
       "Privacy",
-      "Masternodes"
+      "Masternodes",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/dashpay/dash"
   },
@@ -19954,7 +19966,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "01122020",
@@ -20088,7 +20103,8 @@
     "short": "DVS",
     "url": "/currencies/davies",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/devdavies"
   },
@@ -20321,7 +20337,9 @@
       "DApp",
       "Payments",
       "Masternodes",
-      "Derivatives"
+      "Derivatives",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/DeFiCh/ain"
   },
@@ -20400,7 +20418,8 @@
     "url": "/currencies/devault",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/devaultcrypto"
   },
@@ -20503,7 +20522,8 @@
     "short": "DCNTR",
     "url": "/currencies/decentrahub-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/decentrahub"
   },
@@ -20653,7 +20673,8 @@
       "Medium of Exchange",
       "Store of Value",
       "Privacy",
-      "DAO"
+      "DAO",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/decred"
   },
@@ -20724,7 +20745,9 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Marketplace",
-      "Privacy"
+      "Privacy",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/deeponion/deeponion"
   },
@@ -20877,7 +20900,8 @@
     "short": "XGM",
     "url": "/currencies/defis",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/freenetcoder/defis"
   },
@@ -23620,7 +23644,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Euno/eunowallet"
   },
   "EUNOMIA": {
     "name": "EUNOMIA",
@@ -23686,7 +23711,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/EVOS-DEV/"
   },
   "EXMO Coin": {
     "name": "EXMO Coin",
@@ -23735,7 +23761,8 @@
       "01122020",
       "03122020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/team-exor"
   },
   "EXRNchain": {
     "name": "EXRNchain",
@@ -23812,7 +23839,8 @@
     "deaths": [
       "30112020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/elangindonesia/EagleCoin"
   },
   "EarnBet": {
     "name": "EarnBet",
@@ -23877,7 +23905,8 @@
     "url": "/currencies/easticoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Easticoin"
   },
   "EasyFi": {
     "name": "EasyFi",
@@ -24007,7 +24036,8 @@
       "30112020",
       "03122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/EcoDollar/EcoDollar"
   },
   "EcoG9coin": {
     "name": "EcoG9coin",
@@ -24164,7 +24194,8 @@
       "DAO",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "git": "https://github.com/hicommonwealth/edgeware-node"
   },
   "EduCoin": {
     "name": "EduCoin",
@@ -24336,7 +24367,8 @@
       "Technology",
       "Crowdfunding",
       "Research"
-    ]
+    ],
+    "git": "https://github.com/emc2foundation/einsteinium"
   },
   "Elamachain": {
     "name": "Elamachain",
@@ -24367,8 +24399,10 @@
       "Filesharing",
       "State channels",
       "Cybersecurity",
-      "Technology"
-    ]
+      "Technology",
+      "IoT"
+    ],
+    "git": "https://github.com/elastos"
   },
   "Elcoin": {
     "name": "Elcoin",
@@ -24376,7 +24410,8 @@
     "url": "/currencies/elcoin-el",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020"
@@ -24392,7 +24427,8 @@
       "Medium of Exchange",
       "Atomic Swaps",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/Electra-project"
   },
   "Electric Vehicle Zone": {
     "name": "Electric Vehicle Zone",
@@ -24440,7 +24476,8 @@
     "deaths": [
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/electronero/electronero"
   },
   "Electronero Pulse": {
     "name": "Electronero Pulse",
@@ -24448,7 +24485,8 @@
     "url": "/currencies/electronero-pulse",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/electronero-pulse/electroneropulse"
   },
   "Electroneum": {
     "name": "Electroneum",
@@ -24459,7 +24497,8 @@
       "Mineable",
       "Medium of Exchange",
       "Wallet"
-    ]
+    ],
+    "git": "https://github.com/electroneum"
   },
   "Electrum Dark": {
     "name": "Electrum Dark",
