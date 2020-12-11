@@ -5,7 +5,9 @@ request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
 crypto = _.find cryptos, (crypto) ->
-  not crypto.git? and "Coin" in crypto.tags
+  not "NoGitHub" in crypto.tags and
+  not crypto.git? and
+  "Coin" in crypto.tags
 
 unless crypto?
   console.error "Crawl Terminé"

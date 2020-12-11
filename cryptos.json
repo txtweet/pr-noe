@@ -373,7 +373,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -1272,8 +1273,10 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Scrypt"
-    ]
+      "Scrypt",
+      "Store of Value"
+    ],
+    "git": "https://github.com/42-coin/42"
   },
   "4ART Coin": {
     "name": "4ART Coin",
@@ -1502,7 +1505,8 @@
       "DPoS",
       "Platform",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/ABBCTEAM"
   },
   "ABCC Token": {
     "name": "ABCC Token",
@@ -1661,8 +1665,13 @@
       "Privacy",
       "Wallet",
       "Communications & Social Media",
-      "Enterprise solutions"
-    ]
+      "Enterprise solutions",
+      "Decentralized exchange",
+      "Platform",
+      "DApp",
+      "Services"
+    ],
+    "git": "https://github.com/adamant-im"
   },
   "ADAUP": {
     "name": "ADAUP",
@@ -1949,7 +1958,8 @@
     "tags": [
       "Coin",
       "Masternodes"
-    ]
+    ],
+    "git": "https://github.com/ALQO-Universe/ALQO"
   },
   "AMATEN": {
     "name": "AMATEN",
@@ -1974,7 +1984,8 @@
     "url": "/currencies/aml-bitcoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
