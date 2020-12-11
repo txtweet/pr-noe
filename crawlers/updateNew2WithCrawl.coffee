@@ -33,10 +33,11 @@ request
   if 'Token' in crypto.tags
     forked_from =[]
     $('div.cmc-details-contract-lists__container > span').each () ->
-      forked_from.push
+      forked_from.push(
         $(@).text()
         .replace("TRON Contract", "Tron")
         .replace("Ethereum Contract").replace("Ethereum")
+      )
 
     bloc = []
     $('span.cmc-details-contract-lists__item').each () ->
