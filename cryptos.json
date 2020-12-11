@@ -7734,7 +7734,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "BeanCoreL"
     ],
     "deaths": [
       "30112020",
@@ -7937,7 +7938,10 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Medium of Exchange"
+      "Medium of Exchange",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/beetledev/Wallet"
   },
@@ -8085,7 +8089,9 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "deaths": [
       "30112020",
@@ -8104,7 +8110,8 @@
     "url": "/currencies/benz",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -8259,7 +8266,9 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "sawBirth": "07122020",
     "git": "https://github.com/beyondcoin-project/beyondcoin"
@@ -10749,7 +10758,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bitstar/bitstar"
   },
   "Bitsten Token": {
     "name": "Bitsten Token",
@@ -10787,7 +10797,8 @@
       "01122020",
       "03122020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/BitsumFoundation/"
   },
   "Bitswift": {
     "name": "Bitswift",
@@ -10836,7 +10847,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/voltcoin/Volt"
   },
   "Bityuan": {
     "name": "Bityuan",
@@ -10854,7 +10866,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/bityuan/bityuan"
   },
   "Bitzeny": {
     "name": "Bitzeny",
