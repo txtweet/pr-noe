@@ -14,22 +14,20 @@ licenceName =
   'ArepaCoin': 'ArepaCoinL'
   'Aricoin': 'AricoinL'
   'Axiom': 'AxiomL'
+  'Backpackercoin': 'BackpackercoinL'
   'Bitcoin Core': 'BitcoinL'
   'Bitcoin': 'BitcoinL'
-  'Bitcoin': 'BitcoinL'
   'Blackcoin': 'BlackcoinL'
-  'Dash Core developers': 'DashL'
-  'Dash Developers': 'DashL'
-  'DigiByte Developers': 'DigiByteL'
-  'The go-ethereum Authors.': 'GOEtereumL'
-  'The PPCoin Developers': 'PPCoinL'
-  'PPCoin Developers': 'PPCoinL'
-  'Litecoin Developers': 'LitecoinL'
-  'NovaCoin Developers': 'NovaCoinL'
-  'PIVX Developers': 'PIVXL'
-  'The PIVX Developers': 'PIVXL'
-  'The ZeroOne Core developers': 'ZeroOneL'
-  'The Zcash developers': "ZcashL"
+  'Dash Core': 'DashL'
+  'Dash': 'DashL'
+  'DigiByte': 'DigiByteL'
+  'go-ethereum Authors.': 'GOEtereumL'
+  'PPCoin': 'PPCoinL'
+  'Litecoin': 'LitecoinL'
+  'NovaCoin': 'NovaCoinL'
+  'PIVX': 'PIVXL'
+  'ZeroOne Core': 'ZeroOneL'
+  'Zcash': "ZcashL"
 
 noLicence = (values, tags) ->
   return (_.findIndex values, (val) -> val in tags) is -1
@@ -58,9 +56,9 @@ request
       licence = line
       .trim()
       .replace(/.*\d{4} /, '')
-      .trim()
       .replace(/The/, '')
-      .replace(/D|developers/, '')
+      .replace(/Developers|developers/, '')
+      .trim()
       unless licenceName[licence]?
         console.error "Nom Licence inconnue #{url}"
         console.error "-> #{licence} / #{crypto.name}"

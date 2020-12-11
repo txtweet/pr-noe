@@ -6440,7 +6440,8 @@
     "short": "BID",
     "url": "/currencies/blockidcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL"
     ],
     "git": "https://github.com/blockidchain/blockidcoin"
   },
@@ -6703,7 +6704,8 @@
     "short": "BOS",
     "url": "/currencies/boscoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bosnet/sebak"
   },
@@ -6981,7 +6983,8 @@
     "short": "BU",
     "url": "/currencies/bumo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bumoproject"
   },
@@ -7039,7 +7042,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -7058,7 +7062,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "ZcashL",
+      "BitcoinL"
     ],
     "deaths": [
       "03122020"
@@ -10043,7 +10049,8 @@
       "Payments",
       "Scaling",
       "Staking"
-    ]
+    ],
+    "git": "https://github.com/bitcoinplusorg/"
   },
   "Bitcoin Private": {
     "name": "Bitcoin Private",
@@ -10052,7 +10059,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/BTCPrivate/BitcoinPrivate"
   },
   "Bitcoin Red": {
     "name": "Bitcoin Red",
@@ -10086,7 +10094,8 @@
       "Mineable",
       "PoW",
       "X13",
-      "Medium of Exchange"
+      "Medium of Exchange",
+      "NoGitHub"
     ]
   },
   "Bitcoin SV": {
@@ -10108,14 +10117,16 @@
         "Bitcoin"
       ],
       "date": "2017-08-01"
-    }
+    },
+    "git": "https://github.com/bitcoin-sv/bitcoin-sv"
   },
   "Bitcoin Token": {
     "name": "Bitcoin Token",
     "short": "BTCT",
     "url": "/currencies/bitcoin-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Bitcoin True": {
@@ -10151,7 +10162,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/bitcoinvault/bitcoinvault"
   },
   "Bitcoin Zero": {
     "name": "Bitcoin Zero",
