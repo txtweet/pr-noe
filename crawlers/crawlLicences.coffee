@@ -6,16 +6,26 @@ cryptos = require '../cryptos.json'
 
 licenceName =
   'AcesCoin Developers': 'AcesCoinL'
-  'AmsterdamCoin Developers': 'AmsterdamCoinL'
   'The AIB Core developers': 'AIBL'
+  'AmsterdamCoin Developers': 'AmsterdamCoinL'
+  'The Anoncoin Developers': 'AnoncoinL'
+  'Apollon Developers':'ApollonL'
+  'AquariusCoin Developers': 'AquariusCoinL'
+  'ArepaCoin Developers': 'ArepaCoinL'
+  'Aricoin Developers': 'AricoinL'
+  'Axiom Developers': 'AxiomL'
   'The Bitcoin Core developers': 'BitcoinL'
   'Bitcoin Developers': 'BitcoinL'
   'The Bitcoin developers': 'BitcoinL'
+  'Blackcoin Developers': 'BlackcoinL'
   'The Dash Core developers': 'DashL'
   'Dash Developers': 'DashL'
+  'DigiByte Developers': 'DigiByteL'
   'The go-ethereum Authors.': 'GOEtereumL'
   'The PPCoin Developers': 'PPCoinL'
+  'PPCoin Developers': 'PPCoinL'
   'Litecoin Developers': 'LitecoinL'
+  'NovaCoin Developers': 'NovaCoinL'
   'PIVX Developers': 'PIVXL'
   'The PIVX Developers': 'PIVXL'
   'The ZeroOne Core developers': 'ZeroOneL'
@@ -48,7 +58,7 @@ request
       licence = line.trim().replace(/.*\d{4} /, '').trim()
       unless licenceName[licence]?
         console.error "Nom Licence inconnue #{url}"
-        console.error "-> #{licence}"
+        console.error "-> #{licence} / #{crypto.name}"
         console.log JSON.stringify cryptos, null, 2
         process.exit(1)
       else

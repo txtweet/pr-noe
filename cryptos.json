@@ -4415,7 +4415,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Dead"
+      "Dead",
+      "AnoncoinL"
     ],
     "deaths": [
       "07122020",
@@ -4521,7 +4522,8 @@
     "tags": [
       "Coin",
       "Medium of Exchange",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ApolloFoundation/Apollo"
   },
@@ -4532,7 +4534,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "ApollonL"
     ],
     "deaths": [
       "07122020",
@@ -4635,7 +4641,10 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "AquariusCoinL",
+      "BlackcoinL",
+      "NovaCoinL"
     ],
     "deaths": [
       "30112020",
@@ -4851,7 +4860,9 @@
     "url": "/currencies/arepacoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "ArepaCoinL",
+      "NovaCoinL"
     ],
     "git": "https://github.com/ProjectArepa/ArepaCoin"
   },
@@ -4886,7 +4897,9 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "deaths": [
       "01011970"
@@ -4898,7 +4911,8 @@
     "short": "ARION",
     "url": "/currencies/arion",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/arioncoin/arioncoin/releases/"
   },
@@ -4909,7 +4923,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020"
@@ -4929,7 +4944,8 @@
       "Platform",
       "Staking",
       "Enterprise solutions",
-      "Interoperability"
+      "Interoperability",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ArkEcosystem"
   },
@@ -4938,7 +4954,8 @@
     "short": "ARQ",
     "url": "/currencies/arqma",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/arqma"
   },
@@ -4987,7 +5004,8 @@
       "Coin",
       "Distributed Computing",
       "Filesharing",
-      "IPFS"
+      "IPFS",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ArweaveTeam/arweave"
   },
@@ -4997,7 +5015,8 @@
     "url": "/currencies/aryacoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL"
     ],
     "git": "https://github.com/Aryacoin/Aryacoin"
   },
@@ -5032,7 +5051,8 @@
       "DPoS",
       "Platform",
       "Scaling",
-      "DApp"
+      "DApp",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/AschPlatform"
   },
@@ -5240,7 +5260,8 @@
     "url": "/currencies/atheios",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/athofficial"
   },
@@ -5431,7 +5452,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -5557,7 +5579,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -5661,7 +5684,8 @@
     "short": "AUX",
     "url": "/currencies/auxilium",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/auxiliumglobal"
   },
@@ -5670,7 +5694,8 @@
     "short": "AVAX",
     "url": "/currencies/avalanche",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ava-labs"
   },
@@ -5681,7 +5706,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020",
@@ -5720,7 +5746,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Marketplace"
+      "Marketplace",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/AXErunners"
   },
@@ -9720,7 +9747,8 @@
       "Coin",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/BITC2/bitcoin2"
   },
   "Bitcoin 21": {
     "name": "Bitcoin 21",
@@ -9728,7 +9756,8 @@
     "url": "/currencies/bitcoin-21",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -9744,7 +9773,8 @@
     "short": "BTAD",
     "url": "/currencies/bitcoin-adult",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Bitcoin Atom": {
@@ -9755,7 +9785,8 @@
       "Coin",
       "Mineable",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoGitHub"
     ],
     "forked_data": {
       "block": [
@@ -9791,7 +9822,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/SpecialCoins/bitcoincz"
   },
   "Bitcoin Cash": {
     "name": "Bitcoin Cash",
@@ -9803,7 +9835,9 @@
       "Marketplace",
       "Enterprise solutions",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "Binance Chain",
+      "NoGitHub"
     ],
     "forked_data": {
       "block": [
@@ -9820,7 +9854,8 @@
     "short": "BCHA",
     "url": "/currencies/bitcoin-cash-abc-2",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Bitcoin Classic": {
@@ -9829,7 +9864,8 @@
     "url": "/currencies/bitcoin-classic",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/22Developers/Core"
   },
   "Bitcoin Confidential": {
     "name": "Bitcoin Confidential",
