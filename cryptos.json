@@ -15437,7 +15437,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/nochowderforyou/clams"
   },
   "ClearPoll": {
     "name": "ClearPoll",
@@ -15486,7 +15487,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13"
-    ]
+    ],
+    "git": "https://github.com/CloakProject"
   },
   "CloudCoin": {
     "name": "CloudCoin",
@@ -15494,7 +15496,8 @@
     "url": "/currencies/cloudcoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/CloudCoinConsortium"
   },
   "Cloudbit Token": {
     "name": "Cloudbit Token",
@@ -15583,7 +15586,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/BitClubDev/ClubCoin"
   },
   "CoFiX": {
     "name": "CoFiX",
@@ -15790,7 +15794,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -15824,7 +15829,8 @@
     "short": "CET",
     "url": "/currencies/coinex-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "CoinFi": {
@@ -16066,7 +16072,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/coinonat/"
   },
   "Coinsbit Token": {
     "name": "Coinsbit Token",
@@ -16234,7 +16241,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ColossusCoinXT/ColossusCoinXT/"
   },
   "Colu Local Network": {
     "name": "Colu Local Network",
