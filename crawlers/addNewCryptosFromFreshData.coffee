@@ -1,5 +1,8 @@
-fileDate = "09122020"
+unless process.argv[2]?
+  console.warn("usage : coffee addNewCryptosFromFreshData <date(jjmmyyyy)>")
+  process.exit(1)
 
+fileDate = process.argv[2]
 ## ethereum -> ethereum
 ## defi -> DeFi
 ## asset-management -> Asset management
@@ -15,7 +18,9 @@ tagsTables =
   'ethereum': 'Ethereum'
   'ftx': 'Ftx'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
+  'mineable': 'Mineable'
   'media': 'Media'
+  'pow': 'PoW'
   'rebase': 'Rebase'
   'scrypt': 'Script'
   'services': 'Services'
