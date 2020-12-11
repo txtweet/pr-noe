@@ -1281,7 +1281,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Store of Value"
+      "Store of Value",
+      "BitcoinL"
     ],
     "git": "https://github.com/42-coin/42"
   },
@@ -1511,7 +1512,8 @@
       "Mineable",
       "DPoS",
       "Platform",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ABBCTEAM"
   },
@@ -1676,7 +1678,8 @@
       "Decentralized exchange",
       "Platform",
       "DApp",
-      "Services"
+      "Services",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/adamant-im"
   },
@@ -1964,7 +1967,9 @@
     "url": "/currencies/alqo",
     "tags": [
       "Coin",
-      "Masternodes"
+      "Masternodes",
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/ALQO-Universe/ALQO"
   },
@@ -2044,7 +2049,8 @@
     "url": "/currencies/anon",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -2122,7 +2128,8 @@
     "url": "/currencies/apr-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/APRCoin"
   },
@@ -2251,7 +2258,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -2477,7 +2485,8 @@
     "url": "/currencies/axel",
     "tags": [
       "Coin",
-      "Filesharing"
+      "Filesharing",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/axelnetwork/"
   },
