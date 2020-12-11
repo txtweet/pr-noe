@@ -19275,7 +19275,8 @@
     "deaths": [
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/DNotesCoin/DNotes2.0/"
   },
   "DOC.COM": {
     "name": "DOC.COM",
@@ -19649,7 +19650,8 @@
     "short": "DIC",
     "url": "/currencies/daikicoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Dalecoin": {
@@ -19816,14 +19818,16 @@
     "url": "/currencies/darkpaycoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/DarkPayCoin/darkpay-core"
   },
   "Darma Cash": {
     "name": "Darma Cash",
     "short": "DMCH",
     "url": "/currencies/darma-cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Darwinia Commitment Token": {
@@ -19875,14 +19879,16 @@
       "Medium of Exchange",
       "Privacy",
       "Masternodes"
-    ]
+    ],
+    "git": "https://github.com/dashpay/dash"
   },
   "Dash Cash": {
     "name": "Dash Cash",
     "short": "DSC",
     "url": "/currencies/dash-cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Dash Green": {
@@ -19898,7 +19904,8 @@
       "01122020",
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/DashGreenCoin/dashgreen"
   },
   "Databroker": {
     "name": "Databroker",
@@ -19926,7 +19933,9 @@
       "Mineable",
       "PoW",
       "Multiple",
-      "Dead"
+      "Dead",
+      "Multiple algorithms",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -20024,7 +20033,8 @@
     "url": "/currencies/davies",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/devdavies"
   },
   "Davinci Coin": {
     "name": "Davinci Coin",
@@ -20085,7 +20095,8 @@
     "short": "DT",
     "url": "/currencies/dcoin-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "DeCash": {
@@ -20128,7 +20139,8 @@
     "short": "DFF",
     "url": "/currencies/defi-firefly",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "DeFi Gold": {
@@ -20251,8 +20263,11 @@
       "Oracles",
       "Smart Contracts",
       "DApp",
-      "Payments"
-    ]
+      "Payments",
+      "Masternodes",
+      "Derivatives"
+    ],
+    "git": "https://github.com/DeFiCh/ain"
   },
   "DeFiPie": {
     "name": "DeFiPie",
@@ -20330,7 +20345,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/devaultcrypto"
   },
   "DeXe": {
     "name": "DeXe",
@@ -20432,7 +20448,8 @@
     "url": "/currencies/decentrahub-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/decentrahub"
   },
   "Decentral Games": {
     "name": "Decentral Games",
@@ -20581,7 +20598,8 @@
       "Store of Value",
       "Privacy",
       "DAO"
-    ]
+    ],
+    "git": "https://github.com/decred"
   },
   "Decurian": {
     "name": "Decurian",
@@ -20651,7 +20669,8 @@
       "Hybrid - PoW & PoS",
       "Marketplace",
       "Privacy"
-    ]
+    ],
+    "git": "https://github.com/deeponion/deeponion"
   },
   "DefHold": {
     "name": "DefHold",
@@ -20803,7 +20822,8 @@
     "url": "/currencies/defis",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/freenetcoder/defis"
   },
   "Defis Network": {
     "name": "Defis Network",
@@ -20978,7 +20998,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/carsenk/denarius"
   },
   "Dent": {
     "name": "Dent",
@@ -21044,7 +21065,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/deroproject/derosuite"
   },
   "Desire": {
     "name": "Desire",
@@ -21052,7 +21074,8 @@
     "url": "/currencies/desire",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Destiny Success": {
@@ -21103,7 +21126,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "SHA-256"
-    ]
+    ],
+    "git": "https://github.com/emarkproject/eMark"
   },
   "Dev Protocol": {
     "name": "Dev Protocol",
@@ -21146,7 +21170,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Deviantcoin/Source"
   },
   "DexKit": {
     "name": "DexKit",
@@ -21239,7 +21264,8 @@
     "url": "/currencies/dfinity",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/dfinity"
   },
   "DiFy.Finance": {
     "name": "DiFy.Finance",
@@ -21286,7 +21312,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Groestl"
-    ]
+    ],
+    "git": "https://github.com/DMDcoin/Diamond"
   },
   "Diamond Platform Token": {
     "name": "Diamond Platform Token",
@@ -21401,8 +21428,10 @@
       "Multiple",
       "Medium of Exchange",
       "Privacy",
-      "Payments"
-    ]
+      "Payments",
+      "Multiple algorithms"
+    ],
+    "git": "https://github.com/DigiByte-Core"
   },
   "DigiDinar": {
     "name": "DigiDinar",
@@ -21413,11 +21442,15 @@
       "PIVX",
       "Hybrid - PoW & PoS",
       "Kuwait",
-      "Kuwait",
       "Asset management",
       "Commodities",
-      "Cybersecurity"
-    ]
+      "Cybersecurity",
+      "E-commerce",
+      "Hardware",
+      "Energy",
+      "Masternodes"
+    ],
+    "git": "https://github.com/DigiDinar-Project/DigiDinar/releases/tag/v3.0.0"
   },
   "DigiDinar Stable Token": {
     "name": "DigiDinar Stable Token",
@@ -21605,7 +21638,8 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/digitalmoneybits2"
   },
   "Digital Rand": {
     "name": "Digital Rand",
@@ -21696,7 +21730,8 @@
       "CryptoNight",
       "Privacy",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/DigitalNoteXDN"
   },
   "Digitalcoin": {
     "name": "Digitalcoin",
