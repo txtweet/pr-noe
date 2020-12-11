@@ -5,11 +5,20 @@ request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
 licenceName =
-  'The Bitcoin Core developers': 'Bitcoin'
+  'The Bitcoin Core developers': 'BitcoinL'
+  'The Dash Core developers': 'DashL'
+  'The ZeroOne Core developers': 'ZeroOneL'
+  'The Zcash developers': "ZcashL"
+
+
 
 crypto = _.find cryptos, (crypto) ->
   "NoLicence" not in crypto.tags and
-  "BitCoin" not in crypto.tags and
+  licenceName.values().forEach (val) -> val not in in crypto.tags
+  "BitCoinL" not in crypto.tags and
+  "DashL" not in crypto.tags and
+  "ZeroOneL" not in crypto.tags and
+  "ZcashL" not in crypto.tags
   crypto.git
 
 unless crypto?
@@ -31,13 +40,14 @@ request
       unless licenceName[licence]?
         console.error "Licence non trouvé #{url}"
         console.error "-> #{licence}"
+        console.log JSON.stringify cryptos, null, 2
         process.exit(1)
       else
         unless licenceName[licence] in crypto.tags
-          console.log "Ajout licence #{licenceName[licence]} dans #{crypto.name}"
+          console.warn "Ajout licence #{licenceName[licence]} dans #{crypto.name}"
           crypto.tags.push(licenceName[licence])
         else
-          console.log "License indiquée #{licenceName[licence]} dans #{crypto.name}"
+          console.warn "License indiquée #{licenceName[licence]} dans #{crypto.name}"
 
 .catch (err) ->
   console.error "Licence non trouvée #{crypto.name}"
