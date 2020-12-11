@@ -58,7 +58,8 @@
     "url": "/currencies/01coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/zocteam/zeroonecoin"
   },
   "0Chain": {
     "name": "0Chain",
@@ -88,7 +89,8 @@
     "url": "/currencies/0cash",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/0cash/0cash"
   },
   "0x": {
     "name": "0x",
@@ -287,7 +289,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/1X2coin/1X2coin"
   },
   "1irstGold": {
     "name": "1irstGold",
