@@ -34765,7 +34765,7 @@
         "TKeuUe...X7Zqpuk"
       ],
       "forked_from": [
-        "Tron"
+        "TRON Contract"
       ]
     }
   },
@@ -34902,7 +34902,7 @@
         "TTUwzo...bMLHJaq"
       ],
       "forked_from": [
-        "Tron"
+        "TRON Contract"
       ]
     }
   },
@@ -47780,7 +47780,7 @@
         "1003095"
       ],
       "forked_from": [
-        "Tron"
+        "TRON Contract"
       ]
     }
   },
@@ -48140,19 +48140,10 @@
     "short": "PPAY",
     "url": "/currencies/plasma-finance",
     "tags": [
-      "New2",
-      "Token",
-      "Ethereum"
+      "New",
+      "Token"
     ],
     "sawBirth": "11122020",
-    "forked_data": {
-      "block": [
-        "0x054d...74f3bb2"
-      ],
-      "forked_from": [
-        "Ethereum Contract"
-      ]
-    }
   },
   "PlatinumBAR": {
     "name": "PlatinumBAR",
@@ -50925,19 +50916,10 @@
     "short": "RANK",
     "url": "/currencies/rank-token",
     "tags": [
-      "New2",
-      "Token",
-      "Tron"
+      "New",
+      "Token"
     ],
     "sawBirth": "11122020",
-    "forked_data": {
-      "block": [
-        "TNkmiD...oBzE6DD"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
   },
   "Rapids": {
     "name": "Rapids",
