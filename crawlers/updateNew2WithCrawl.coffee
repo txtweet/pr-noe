@@ -36,7 +36,7 @@ request
       forked_from.push(
         $(@).text()
         .replace("TRON Contract", "Tron")
-        .replace("Ethereum Contract").replace("Ethereum")
+        .replace("Ethereum Contract", "Ethereum")
       )
 
     bloc = []
