@@ -39,6 +39,8 @@ licenceName =
   'BlackCoin': 'BlackcoinL'
   'BLTG': 'BLTGL'
   'BonorumCoin': 'BonorumCoinL'
+  'BoostCoin': 'BoostCoinL'
+  'bowscoin': 'bowscoinL'
   'BTDX': 'BTDXL'
   'Dash': 'DashL'
   'Dash Core': 'DashL'

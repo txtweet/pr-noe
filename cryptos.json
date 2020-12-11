@@ -12156,7 +12156,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "X11"
+      "X11",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/cryptozoidberg/boolberry"
   },
@@ -12169,7 +12170,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X13",
-      "Dead"
+      "Dead",
+      "BoostCoinL"
     ],
     "deaths": [
       "30112020",
@@ -12245,7 +12247,8 @@
       "Coin",
       "Marketplace",
       "AI & Big Data",
-      "Distributed Computing"
+      "Distributed Computing",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Bottos-project"
   },
@@ -12311,7 +12314,9 @@
       "Mineable",
       "PoW",
       "X11",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "deaths": [
       "30112020",
@@ -14143,7 +14148,9 @@
       "Platform",
       "Research",
       "Smart Contracts",
-      "Communications & Social Media"
+      "Communications & Social Media",
+      "Binance Chain",
+      "NoGitHub"
     ]
   },
   "Cardstack": {
@@ -14170,7 +14177,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/carebitcoin/carebitcoin"
   },
   "CargoX": {
     "name": "CargoX",
