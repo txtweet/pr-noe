@@ -6,19 +6,18 @@ cryptos = require '../cryptos.json'
 
 licenceName =
   'The Bitcoin Core developers': 'BitcoinL'
+  'Bitcoin Developers': 'BitcoinL'
   'The Dash Core developers': 'DashL'
+  'Dash Developers': 'DashL'
   'The ZeroOne Core developers': 'ZeroOneL'
   'The Zcash developers': "ZcashL"
 
-
+noLicence = (values, tags) ->
+  return (_.findIndex values, (val) -> val in tags) isnt 0
 
 crypto = _.find cryptos, (crypto) ->
-  "NoLicence" not in crypto.tags and
-  licenceName.values().forEach (val) -> val not in in crypto.tags
-  "BitCoinL" not in crypto.tags and
-  "DashL" not in crypto.tags and
-  "ZeroOneL" not in crypto.tags and
-  "ZcashL" not in crypto.tags
+  "NoLicenceFile" not in crypto.tags and
+  noLicence((_.values licenceName), crypto.tags) and
   crypto.git
 
 unless crypto?
@@ -27,6 +26,7 @@ unless crypto?
   process.exit(1)
 
 # console.log "Recherche : https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
+console.warn "-> #{crypto.name}"
 url = "https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
 request
   url : url
@@ -51,7 +51,7 @@ request
 
 .catch (err) ->
   console.error "Licence non trouvée #{crypto.name}"
-  crypto.tags.push("NoLicence")
+  crypto.tags.push("NoLicenceFile")
 .then () ->
   console.log JSON.stringify cryptos, null, 2
   # console.log JSON.stringify crypto, null, 2

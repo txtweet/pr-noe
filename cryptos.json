@@ -31,7 +31,8 @@
     "short": "MHC",
     "url": "/currencies/metahash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/metahashorg"
   },
@@ -57,7 +58,10 @@
     "short": "ZOC",
     "url": "/currencies/01coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "ZeroOneL"
     ],
     "git": "https://github.com/zocteam/zeroonecoin"
   },
@@ -88,7 +92,9 @@
     "short": "ZCH",
     "url": "/currencies/0cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "ZcashL",
+      "BitcoinL"
     ],
     "git": "https://github.com/0cash/0cash"
   },
@@ -279,7 +285,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
