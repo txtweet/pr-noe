@@ -39,8 +39,7 @@ request
 
   unless crypto.git?
     console.warn "Site non github #{crypto.name} #{crypto.url}"
-    console.log JSON.stringify cryptos, null, 2
-    process.exit(1)
+    crypto.tags.push("NoGitHub")
 
 .then () ->
   console.log JSON.stringify cryptos, null, 2
