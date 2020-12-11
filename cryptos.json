@@ -3473,7 +3473,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "GOEtereumL"
     ],
     "deaths": [
       "30112020",
@@ -3616,7 +3617,8 @@
     "short": "ACH",
     "url": "/currencies/alchemy-pay",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Alchemy-GPS"
   },
@@ -3647,7 +3649,8 @@
       "PoS",
       "Platform",
       "Research",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/algorand"
   },
@@ -3659,7 +3662,8 @@
       "Coin",
       "PoS",
       "POS 3.0",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020"
@@ -3730,7 +3734,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Artinvest/Allsafe/releases"
   },
@@ -3856,7 +3861,8 @@
     "short": "AQT",
     "url": "/currencies/alpha-quark-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/alphaquark/Alpha-Quark"
   },
@@ -3972,7 +3978,8 @@
     "short": "ABET",
     "url": "/currencies/altbet",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/altbet"
   },
@@ -4023,7 +4030,8 @@
       "Coin",
       "Logistics",
       "AI & Big Data",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ambrosus"
   },
@@ -4111,7 +4119,8 @@
       "Platform",
       "State channels",
       "Smart Contracts",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020"
@@ -4162,7 +4171,10 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Quark",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "30112020",
