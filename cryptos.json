@@ -2960,7 +2960,8 @@
       "Mineable",
       "PoW",
       "X11",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -2981,7 +2982,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "CryptoNight-Lite"
+      "CryptoNight-Lite",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/aeonix/aeon"
   },
@@ -3082,7 +3084,8 @@
       "Coin",
       "Mineable",
       "Medium of Exchange",
-      "Privacy"
+      "Privacy",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/aeternity"
   },
@@ -3092,7 +3095,8 @@
     "url": "/currencies/affil-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -3311,7 +3315,8 @@
     "short": "ADK",
     "url": "/currencies/aidos-kuneen",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/AidosKuneen"
   },
@@ -3351,7 +3356,8 @@
       "Mineable",
       "Marketplace",
       "AI & Big Data",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/aionnetwork"
   },
@@ -3379,7 +3385,9 @@
     "url": "/currencies/airwire",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/AirWireOfficial/wire-core"
   },

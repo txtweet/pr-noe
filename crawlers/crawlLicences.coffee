@@ -13,7 +13,9 @@ licenceName =
   'The Dash Core developers': 'DashL'
   'Dash Developers': 'DashL'
   'The PPCoin Developers': 'PPCoinL'
+  'Litecoin Developers': 'LitecoinL'
   'PIVX Developers': 'PIVXL'
+  'The PIVX Developers': 'PIVXL'
   'The ZeroOne Core developers': 'ZeroOneL'
   'The Zcash developers': "ZcashL"
 
