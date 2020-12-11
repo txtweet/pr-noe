@@ -10182,7 +10182,12 @@
       "Medium of Exchange",
       "forked_bitcoin",
       "Bitcoin",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Bitcoin AssociationL",
+      "Satoshi NakamotoL",
+      "BitcoinL",
+      "BitcoinCoreL",
+      "Bitcoin ABCL"
     ],
     "forked_data": {
       "block": [
@@ -17263,7 +17268,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/credittag/CreditTagChain"
   },
   "Creditcoin": {
     "name": "Creditcoin",
@@ -17272,7 +17278,8 @@
     "tags": [
       "Coin",
       "DeFi"
-    ]
+    ],
+    "git": "https://github.com/gluwa/Creditcoin"
   },
   "Credits": {
     "name": "Credits",
@@ -17366,7 +17373,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/crevacoin/creva"
   },
   "Crex Token": {
     "name": "Crex Token",
@@ -17486,7 +17494,8 @@
       "Mineable",
       "PoS",
       "SHA-256",
-      "Masternodes"
+      "Masternodes",
+      "NoGitHub"
     ]
   },
   "Crust": {
@@ -17499,7 +17508,8 @@
       "Filesharing",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "git": "https://github.com/crustio"
   },
   "CryCash": {
     "name": "CryCash",
@@ -17589,7 +17599,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -17670,7 +17681,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/c-sports/cspn"
   },
   "Crypto User Base": {
     "name": "Crypto User Base",
@@ -17842,7 +17854,8 @@
     "url": "/currencies/cryptocarbon",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020"
@@ -17882,7 +17895,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/CryptoFlowCoin/CryptoFlowCoin"
   },
   "CryptoFranc": {
     "name": "CryptoFranc",
@@ -17974,7 +17988,8 @@
       "07122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/CVCCVerifyCoin"
   },
   "CryptoWater": {
     "name": "CryptoWater",
@@ -18044,7 +18059,8 @@
     "url": "/currencies/cryptocean",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/cronfoundation"
   },
   "Cryptochrome": {
     "name": "Cryptochrome",
@@ -18101,7 +18117,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/cryptojacks/CryptoJacks"
   },
   "Crypton": {
     "name": "Crypton",
@@ -18115,7 +18132,9 @@
       "Gaming",
       "Privacy",
       "E-commerce",
-      "Platform"
+      "Platform",
+      "Collectibles & NFTs",
+      "NoGitHub"
     ]
   },
   "Cryptonex": {
@@ -18128,7 +18147,8 @@
       "Medium of Exchange",
       "Centralized exchange",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/Cryptonex"
   },
   "Cryptonite": {
     "name": "Cryptonite",

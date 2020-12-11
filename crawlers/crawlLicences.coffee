@@ -26,6 +26,8 @@ licenceName =
   'Bitcash': 'BitcashL'
   'Bitcoin': 'BitcoinL'
   'Bitcoin 2': 'Bitcoin 2L'
+  'Bitcoin ABC': 'Bitcoin ABCL'
+  'Bitcoin Association': 'Bitcoin AssociationL'
   'Bitcoin Core': 'BitcoinCoreL'
   'Bitcoin Diamond': 'Bitcoin DiamondL'
   'Bitcoin Gold': 'Bitcoin GoldL'
@@ -66,6 +68,7 @@ licenceName =
   'NovaCoin': 'NovaCoinL'
   'PIVX': 'PIVXL'
   'Peercoin': 'PeercoinL'
+  'Satoshi Nakamoto': 'Satoshi NakamotoL'
   'VoltCoin': 'VoltCoinL'
   'ZeroOne Core': 'ZeroOneL'
   'Zcash': "ZcashL"
