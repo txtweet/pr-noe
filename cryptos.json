@@ -14765,8 +14765,10 @@
       "Interoperability",
       "Scaling",
       "Smart Contracts",
-      "Cosmos"
-    ]
+      "Cosmos",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/certikfoundation"
   },
   "Chad Link Set": {
     "name": "Chad Link Set",
@@ -14819,7 +14821,8 @@
     "tags": [
       "Coin",
       "Substrate",
-      "Polkadot"
+      "Polkadot",
+      "NoGitHub"
     ]
   },
   "ChainZ Arena": {
@@ -14913,7 +14916,8 @@
     "url": "/currencies/charg-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -14922,7 +14926,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/ChargCoinLLC"
   },
   "Charged Finance": {
     "name": "Charged Finance",
@@ -14973,7 +14978,8 @@
     "short": "CHAT",
     "url": "/currencies/chatcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Cheesecoin": {
@@ -14982,8 +14988,10 @@
     "url": "/currencies/cheesecoin",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/CheeseCoin/"
   },
   "Cherry Token": {
     "name": "Cherry Token",
@@ -15044,7 +15052,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -15053,7 +15062,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/walletbuilders/ChessCoin"
   },
   "Chi Gastoken": {
     "name": "Chi Gastoken",
@@ -15227,8 +15237,10 @@
     "short": "CICX",
     "url": "/currencies/cicoin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "BitcoinCoreL"
+    ],
+    "git": "https://github.com/cicxcoin/cicoin"
   },
   "Cindicator": {
     "name": "Cindicator",
@@ -15310,14 +15322,16 @@
       "Mineable",
       "PoW",
       "CryptoNight",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/cntemple/Citadel/"
   },
   "CitiOs": {
     "name": "CitiOs",
@@ -15342,7 +15356,8 @@
     "url": "/currencies/city-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -15352,7 +15367,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/CityChainFoundation/"
   },
   "Civic": {
     "name": "Civic",
@@ -15380,7 +15396,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "01122020",
@@ -15389,7 +15408,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/eastcoastcrypto/Civitas/"
   },
   "Clams": {
     "name": "Clams",

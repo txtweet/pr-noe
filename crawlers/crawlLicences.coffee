@@ -49,6 +49,7 @@ licenceName =
   'Carboncoin': 'CarboncoinL'
   'CarebitCoin': 'CarebitCoinL'
   'CashberyCoin': 'CashberyCoinL'
+  'Civitas': 'CivitasL'
   'CSTL': 'CSTLL'
   'Dash': 'DashL'
   'Dash Core': 'DashL'
