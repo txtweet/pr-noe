@@ -21746,7 +21746,8 @@
     ],
     "deaths": [
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/lomtax/digitalcoin"
   },
   "Digitex City": {
     "name": "Digitex City",
@@ -21800,7 +21801,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/digiwage/digiwage"
   },
   "Digix Gold Token": {
     "name": "Digix Gold Token",
@@ -21871,7 +21873,8 @@
       "Mineable",
       "PoW",
       "Quark"
-    ]
+    ],
+    "git": "https://github.com/dime-coin/"
   },
   "Dimension Chain": {
     "name": "Dimension Chain",
@@ -21902,7 +21905,8 @@
     "url": "/currencies/dinastycoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Dinero": {
@@ -21911,7 +21915,8 @@
     "url": "/currencies/dinero",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Dionpay": {
@@ -21941,7 +21946,8 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/dlxcoin/diplexcoin"
   },
   "Dipper Network": {
     "name": "Dipper Network",
@@ -21949,7 +21955,8 @@
     "url": "/currencies/dipper-network",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Dipper-Labs/Dipper-Protocol"
   },
   "DistX": {
     "name": "DistX",
@@ -22022,7 +22029,8 @@
       "Asset management",
       "Masternodes",
       "Wallet"
-    ]
+    ],
+    "git": "https://github.com/Divicoin/Divi"
   },
   "DoDreamChain": {
     "name": "DoDreamChain",
@@ -22107,8 +22115,11 @@
       "Payments",
       "Timestamping",
       "PoW",
-      "Yescript"
-    ]
+      "Yescript",
+      "Store of Value",
+      "Germany"
+    ],
+    "git": "https://github.com/Krekeler/documentchain"
   },
   "DogDeFiCoin": {
     "name": "DogDeFiCoin",
@@ -22156,7 +22167,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/dogecash"
   },
   "Dogecoin": {
     "name": "Dogecoin",
