@@ -14099,7 +14099,10 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "Capricoin+L",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "deaths": [
       "11122020"
@@ -14133,7 +14136,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "CarboncoinL"
     ],
     "deaths": [
       "30112020",
@@ -14197,7 +14201,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "deaths": [
       "01122020",
@@ -14349,7 +14356,11 @@
     "url": "/currencies/cashbery-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "CashberyCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/CashberyCoin/cashberycoin"
   },
@@ -14359,7 +14370,8 @@
     "url": "/currencies/cashhand",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -14413,7 +14425,8 @@
       "Coin",
       "PoC",
       "Gambling",
-      "Gaming"
+      "Gaming",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/casinocoin"
   },
@@ -14468,8 +14481,12 @@
     "url": "/currencies/castle",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
+    ],
+    "git": "https://github.com/growaleaf/CastleMN"
   },
   "Castweet": {
     "name": "Castweet",
@@ -14610,7 +14627,8 @@
     "url": "/currencies/celo",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/celo-org/celo-monorepo/"
   },
   "Celo Dollar": {
     "name": "Celo Dollar",
