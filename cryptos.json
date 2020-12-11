@@ -10181,7 +10181,8 @@
       "Mineable",
       "Medium of Exchange",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -10235,7 +10236,9 @@
     "url": "/currencies/bitcoin-vault",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/bitcoinvault/bitcoinvault"
   },
@@ -10245,7 +10248,8 @@
     "url": "/currencies/bitcoin-zero",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SpecialCoins/BitcoinZero/"
   },
@@ -10264,7 +10268,8 @@
     "short": "BPS",
     "url": "/currencies/bitcoinpos",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/bitcoinpos"
   },
@@ -10320,7 +10325,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "deaths": [
       "11122020"
@@ -10335,7 +10342,8 @@
       "Coin",
       "Mineable",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -10358,7 +10366,10 @@
       "Education",
       "E-commerce",
       "Zero Knowledge Proofs",
-      "Payments"
+      "Payments",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/bitcoinz-pod/bitcoinz"
   },
@@ -10411,7 +10422,10 @@
       "Coin",
       "Mineable",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "FXTCL"
     ],
     "forked_data": {
       "block": [
@@ -10548,7 +10562,8 @@
     "short": "BGL",
     "url": "/currencies/bitgesell",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/wu-emma/bitgesell"
   },
@@ -10558,7 +10573,8 @@
     "url": "/currencies/bitgrin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -10706,7 +10722,10 @@
     "short": "BRO",
     "url": "/currencies/bitradio",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/thebitradio/Bitradio"
   },
@@ -10804,7 +10823,10 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitstarL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -10846,7 +10868,8 @@
       "Privacy",
       "Payments",
       "Staking",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -10893,7 +10916,11 @@
     "url": "/currencies/bitvolt",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "VoltCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -10912,7 +10939,8 @@
     "url": "/currencies/bityuan",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -10933,7 +10961,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinL"
     ],
     "git": "https://github.com/bitzeny/bitzeny"
   },
@@ -11046,7 +11075,8 @@
       "Mineable",
       "PoW",
       "Blake",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -11090,7 +11120,9 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL"
     ],
     "deaths": [
       "30112020",
@@ -11173,7 +11205,10 @@
     "short": "BLTG",
     "url": "/currencies/block-logic",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/Block-Logic-Technology-Group/bltg"
   },
@@ -11265,7 +11300,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "07122020",
@@ -11427,7 +11463,8 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS",
-      "Marketplace"
+      "Marketplace",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BlocknetDX/"
   },
@@ -11474,7 +11511,8 @@
     "short": "STX",
     "url": "/currencies/blockstack",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/blockstack"
   },
@@ -11691,7 +11729,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "deaths": [
       "30112020",
@@ -11761,7 +11800,8 @@
     "url": "/currencies/blur",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -11875,7 +11915,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "X11"
+      "X11",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BOLI-Project/BolivarCoin/releases"
   },
@@ -12006,7 +12047,13 @@
     "url": "/currencies/bonorum",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL",
+      "BlackcoinL",
+      "PIVXL"
     ],
     "deaths": [
       "30112020",
@@ -13113,7 +13160,8 @@
     "url": "/currencies/ckusd",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -13298,7 +13346,8 @@
       "Coin",
       "DeFi",
       "DAG"
-    ]
+    ],
+    "git": "https://github.com/coti-io"
   },
   "COVA": {
     "name": "COVA",
@@ -13385,7 +13434,8 @@
     "url": "/currencies/cpuchain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/cpuchain"
   },
   "CRDT": {
     "name": "CRDT",
@@ -13411,7 +13461,8 @@
     "tags": [
       "Coin",
       "Media"
-    ]
+    ],
+    "git": "https://github.com/creativechain"
   },
   "CROAT": {
     "name": "CROAT",
@@ -13424,7 +13475,8 @@
     ],
     "deaths": [
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/CroatApps/Croat"
   },
   "CRYPTO20": {
     "name": "CRYPTO20",
@@ -13517,7 +13569,8 @@
     "short": "CSPC",
     "url": "/currencies/cspc",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "CUTcoin": {
@@ -13525,7 +13578,8 @@
     "short": "CUT",
     "url": "/currencies/cutcoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "CVCoin": {
@@ -13652,7 +13706,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -13670,7 +13725,8 @@
     "url": "/currencies/caixapay",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -13721,7 +13777,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Californium/Californium"
   },
   "Callisto Network": {
     "name": "Callisto Network",
@@ -13737,7 +13794,8 @@
       "DeFi",
       "Smart Contracts",
       "forked_altcoin",
-      "Ethereum Classic"
+      "Ethereum Classic",
+      "DApp"
     ],
     "forked_data": {
       "block": [
@@ -13747,7 +13805,8 @@
       "forked_from": [
         "Ethereum Classic"
       ]
-    }
+    },
+    "git": "https://github.com/EthereumCommonwealth"
   },
   "CaluraCoin": {
     "name": "CaluraCoin",
@@ -13755,7 +13814,8 @@
     "url": "/currencies/caluracoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/laurobeleche/CaluraCoin"
   },
   "Camouflage.eth": {
     "name": "Camouflage.eth",
@@ -13860,7 +13920,8 @@
       "03122020",
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/cannabiscoindev/cannabiscoin420"
   },
   "Cannadrix": {
     "name": "Cannadrix",
@@ -13905,7 +13966,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/cannationproject/cannation"
   },
   "CanonChain": {
     "name": "CanonChain",
@@ -14007,7 +14069,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Capricoinofficial/capricoinplus-core"
   },
   "Carbon": {
     "name": "Carbon",
@@ -14046,7 +14109,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/carboncointrust/CarboncoinCore"
   },
   "Carboneum [C8] Token": {
     "name": "Carboneum [C8] Token",
