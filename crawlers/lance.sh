@@ -27,11 +27,21 @@ while true; do
 
   echo "New crypto 1/2"
   coffee ./updateNew2WithCrawl.coffee > tokens.json
+  ret=$?
   cp ./tokens.json ../cryptos.json
+  if [[ $ret -gt 0 ]]; then
+    echo "Fin"
+    break
+  fi
 
   echo "New crypto 2/2"
   coffee ./updateNew2WithCrawl.coffee > tokens.json
+  ret=$?
   cp ./tokens.json ../cryptos.json
+  if [[ $ret -gt 0 ]]; then
+    echo "Fin"
+    break
+  fi
 
   sleep 60
 
