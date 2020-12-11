@@ -4,7 +4,12 @@ cheerio = require 'cheerio'
 request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
+licenceName =
+  'The Bitcoin Core developers': 'Bitcoin'
+
 crypto = _.find cryptos, (crypto) ->
+  "NoLicence" not in crypto.tags and
+  "BitCoin" not in crypto.tags and
   crypto.git
 
 unless crypto?
@@ -12,36 +17,31 @@ unless crypto?
   console.log JSON.stringify cryptos, null, 2
   process.exit(1)
 
-
-console.log "Recherche : https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
+# console.log "Recherche : https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
+url = "https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
 request
-  url : "https://raw.githubusercontent.com/#{crypto.git}/master/COPYING"
+  url : url
   method: 'GET'
 .then (body) ->
-  console.log body
-  #
-  # $ = cheerio.load(body)
-  #
-  # # Garde pour vérifier si la liste des tags à changé
-  # tmp = _.clone crypto.tags
-  # $('li.cmc-detail-panel-tags > span').each () ->
-  #   crypto.tags.push($(@).text())
-  # crypto.tags = _.uniq crypto.tags
-  #
-  # # unless _.isEqual tmp, crypto.tags
-  # console.warn "#{crypto.name} [#{tmp}] -> [#{crypto.tags}]"
-  #
-  # # Récupération de l'url bitcoin
-  # $('.cmc-details-panel-links > li').each () ->
-  #   if $(@).text() is 'Source Code'
-  #     href = $('a', @).attr('href')
-  #     if href.startsWith("https://github.com")
-  #       crypto.git = href
-  #     else
-  #       console.warn "Site non github #{href}"
-  #       # console.log JSON.stringify cryptos, null, 2
-  #       process.exit(1)
+  lines = body.split('\n')
+  lines.forEach (line) ->
+    # console.log line
+    if line.startsWith('Copyright (c)')
+      licence = line.replace(/Copyright \(c\) \d{4}-\d{4} /, '')
+      unless licenceName[licence]?
+        console.error "Licence non trouvé #{url}"
+        console.error "-> #{licence}"
+        process.exit(1)
+      else
+        unless licenceName[licence] in crypto.tags
+          console.log "Ajout licence #{licenceName[licence]} dans #{crypto.name}"
+          crypto.tags.push(licenceName[licence])
+        else
+          console.log "License indiquée #{licenceName[licence]} dans #{crypto.name}"
 
-# .then () ->
-  # console.log JSON.stringify cryptos, null, 2
+.catch (err) ->
+  console.error "Licence non trouvée #{crypto.name}"
+  crypto.tags.push("NoLicence")
+.then () ->
+  console.log JSON.stringify cryptos, null, 2
   # console.log JSON.stringify crypto, null, 2

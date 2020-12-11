@@ -9,6 +9,6 @@ while true; do
     break
   fi
 
-  sleep 4
+  sleep 10
 
 done
