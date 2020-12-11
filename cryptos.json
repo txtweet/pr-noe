@@ -3308,7 +3308,8 @@
     "url": "/currencies/aidos-kuneen",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/AidosKuneen"
   },
   "Aigang": {
     "name": "Aigang",
@@ -3347,7 +3348,8 @@
       "Marketplace",
       "AI & Big Data",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/aionnetwork"
   },
   "AirSwap": {
     "name": "AirSwap",
@@ -3374,7 +3376,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/AirWireOfficial/wire-core"
   },
   "Airbloc": {
     "name": "Airbloc",
@@ -3438,7 +3441,8 @@
     "short": "AKT",
     "url": "/currencies/akash-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Akoin": {
