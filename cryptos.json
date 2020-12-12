@@ -56221,7 +56221,8 @@
     "url": "/currencies/selfsell",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -56277,7 +56278,8 @@
     "url": "/currencies/semux",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/semuxproject/semux-core"
   },
@@ -56493,7 +56495,13 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Viacoin CoreL",
+      "ViacoinL",
+      "Sexcoin CoreL",
+      "SexcoinL"
     ],
     "deaths": [
       "30112020",
@@ -56533,7 +56541,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "ShardL",
+      "BitcoinL"
     ],
     "deaths": [
       "09122020"
@@ -56663,7 +56673,8 @@
       "Coin",
       "DPoS",
       "Distributed Computing",
-      "Filesharing"
+      "Filesharing",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/shiftnrg"
   },
@@ -56854,7 +56865,8 @@
     "url": "/currencies/sierracoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020"
@@ -56894,7 +56906,8 @@
     "url": "/currencies/signatum",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -57034,7 +57047,8 @@
       "Coin",
       "Distributed Computing",
       "Filesharing",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -57048,7 +57062,8 @@
     "short": "SIMPLE",
     "url": "/currencies/simplechain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/simplechain-org"
   },
@@ -57152,7 +57167,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "SkyHubL"
     ],
     "deaths": [
       "30112020",
@@ -57214,7 +57233,8 @@
     "tags": [
       "Coin",
       "Platform",
-      "Distributed Computing"
+      "Distributed Computing",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/skycoinproject"
   },
@@ -57242,7 +57262,9 @@
     "url": "/currencies/smartcash",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "SmartCashL"
     ],
     "git": "https://github.com/SmartCash/Core-Smart"
   },
@@ -57255,7 +57277,10 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL",
+      "SmartCoinL"
     ],
     "deaths": [
       "30112020",
@@ -57374,7 +57399,8 @@
       "Coin",
       "Mineable",
       "Scrypt",
-      "Marketplace"
+      "Marketplace",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/tutor-web/"
   },
@@ -57435,7 +57461,11 @@
     "url": "/currencies/snodecoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "SnodecoinL"
     ],
     "deaths": [
       "30112020",
@@ -57482,7 +57512,8 @@
     "url": "/currencies/snowgem",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SnowGem"
   },
@@ -57609,7 +57640,8 @@
     "short": "SEND",
     "url": "/currencies/social-send",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SocialSend/"
   },
@@ -57620,7 +57652,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "SocialcoinL"
     ],
     "deaths": [
       "30112020",
@@ -57768,7 +57802,8 @@
     "tags": [
       "Coin",
       "DPoS",
-      "Platform"
+      "Platform",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/solana-labs"
   },
@@ -57779,7 +57814,8 @@
     "tags": [
       "Coin",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/onsightit/solarcoin"
   },
@@ -57791,7 +57827,11 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "XEVAN",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "SolarisL"
     ],
     "deaths": [
       "03122020",
@@ -57817,7 +57857,8 @@
     "short": "SBE",
     "url": "/currencies/sombe",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/sombeProject/"
   },
@@ -57830,7 +57871,9 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "SongcoinL"
     ],
     "deaths": [
       "30112020",
@@ -57849,7 +57892,8 @@
     "url": "/currencies/sonocoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -57926,7 +57970,13 @@
     "short": "SORA",
     "url": "/currencies/sorachancoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "PPCoinL",
+      "PeerunityL",
+      "EmerCoinL",
+      "NovaCoinL",
+      "SorachanCoinL"
     ],
     "git": "https://github.com/FromHDDtoSSD/SorachanCoin-qt"
   },
@@ -57957,7 +58007,13 @@
     "short": "SVR",
     "url": "/currencies/sovranocoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL",
+      "BlackcoinL",
+      "SOVRANOCOINL"
     ],
     "git": "https://github.com/SovranoCoin/sovranocoin"
   },
@@ -58087,7 +58143,8 @@
     "url": "/currencies/sparkspay",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SparksPay"
   },
@@ -58207,12 +58264,20 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "SpectreSecurityCoinL",
+      "AnuCoinL",
+      "StipenddevL",
+      "BitholdL",
+      "DashL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "01122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/SpectreSecurityCoin/SpectreSecurityCoin"
   },
   "Spectrum": {
     "name": "Spectrum",
@@ -58247,7 +58312,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/Spectrumcash/Spectrum-Coin"
   },
   "SpeedCash": {
     "name": "SpeedCash",
@@ -58256,7 +58322,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "Store of Value",
+      "Ethereum",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -58313,14 +58382,16 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/SphereDevs/sphere/"
   },
   "Spice": {
     "name": "Spice",
     "short": "SPICE",
     "url": "/currencies/spice",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Spiking": {
@@ -58353,7 +58424,8 @@
     "url": "/currencies/spockchain-network",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/spockchain"
   },
   "SpokLottery": {
     "name": "SpokLottery",
@@ -58428,7 +58500,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/spreadcoin/spreadcoin"
   },
   "Square tokenized stock FTX": {
     "name": "Square tokenized stock FTX",
@@ -58479,7 +58552,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/heliumchain/squorum"
   },
   "Stabilize": {
     "name": "Stabilize",
@@ -58590,7 +58664,8 @@
       "DeFi",
       "Substrate",
       "Polkadot"
-    ]
+    ],
+    "git": "https://github.com/stafiprotocol/stafi-node"
   },
   "StakeCubeCoin": {
     "name": "StakeCubeCoin",
@@ -58602,10 +58677,10 @@
       "Masternodes",
       "Germany",
       "Staking",
-      "Masternodes",
       "Marketplace",
-      "Marketplace"
-    ]
+      "Services"
+    ],
+    "git": "https://github.com/stakecube/stakecube"
   },
   "Stakenet": {
     "name": "Stakenet",
@@ -58615,12 +58690,15 @@
       "Coin",
       "TPoS",
       "X11",
-      "TPoS",
       "Decentralized exchange",
       "DeFi",
       "Privacy",
-      "Masternodes"
-    ]
+      "Masternodes",
+      "Staking",
+      "Scaling",
+      "Atomic Swaps"
+    ],
+    "git": "https://github.com/X9Developers/XSN"
   },
   "Staker": {
     "name": "Staker",
@@ -58654,7 +58732,8 @@
     "url": "/currencies/stakinglab",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/StakingLab/stakinglab/releases"
   },
   "Standard Tokenization Protocol": {
     "name": "Standard Tokenization Protocol",
@@ -58697,7 +58776,8 @@
     "url": "/currencies/starcointv",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -58775,7 +58855,8 @@
     "url": "/currencies/starname",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/iov-one"
   },
   "Startcoin": {
     "name": "Startcoin",
@@ -58792,7 +58873,8 @@
       "03122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/startcoin-project"
   },
   "StarterCoin": {
     "name": "StarterCoin",
@@ -58868,7 +58950,8 @@
       "X13",
       "Medium of Exchange",
       "Privacy"
-    ]
+    ],
+    "git": "https://github.com/StealthSend/Stealth/"
   },
   "Steem": {
     "name": "Steem",
@@ -58878,7 +58961,8 @@
       "Coin",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "git": "https://github.com/steemit/steem"
   },
   "Steem Dollars": {
     "name": "Steem Dollars",
