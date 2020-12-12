@@ -53793,7 +53793,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/RitoProject"
   },
   "Rivermount": {
     "name": "Rivermount",
@@ -54022,7 +54023,8 @@
     "url": "/currencies/rowan-token",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/QuestgltNew/RowanEnergy"
   },
   "Rozeus": {
     "name": "Rozeus",
@@ -54065,7 +54067,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -54112,7 +54115,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/rubycoinorg/rubycoin"
   },
   "Ruff": {
     "name": "Ruff",
@@ -54169,7 +54173,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/rupaya-project/rupx"
   },
   "Rupee": {
     "name": "Rupee",
@@ -54184,7 +54189,8 @@
       "30112020",
       "01122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/rupeedigitalassets/Rupee-Core"
   },
   "Rupiah Token": {
     "name": "Rupiah Token",
@@ -54236,7 +54242,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ryo-currency/ryo-currency"
   },
   "S.Finance": {
     "name": "S.Finance",
@@ -54277,7 +54284,8 @@
     "short": "SFD",
     "url": "/currencies/safe-deal",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "SAFE2": {
