@@ -58973,7 +58973,8 @@
       "Media",
       "Content Creation",
       "Stablecoin"
-    ]
+    ],
+    "git": "https://github.com/steemit/steem"
   },
   "SteepCoin": {
     "name": "SteepCoin",
@@ -58982,7 +58983,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Steepdev/SteepCoin"
   },
   "Stellar": {
     "name": "Stellar",
@@ -58994,7 +58996,8 @@
       "Enterprise solutions",
       "Decentralized exchange",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/stellar"
   },
   "Stellar Classic": {
     "name": "Stellar Classic",
@@ -59064,7 +59067,8 @@
       "07122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Stipend-Developer/stipend"
   },
   "Stobox Token": {
     "name": "Stobox Token",
@@ -59224,7 +59228,8 @@
       "X13",
       "Platform",
       "Enterprise solutions"
-    ]
+    ],
+    "git": "https://github.com/stratisproject"
   },
   "Stream Protocol": {
     "name": "Stream Protocol",
@@ -59252,7 +59257,8 @@
       "Media",
       "Content Creation",
       "Video"
-    ]
+    ],
+    "git": "https://github.com/StreamitCoin/StreamitCoin"
   },
   "Streamity": {
     "name": "Streamity",
@@ -59336,7 +59342,8 @@
       "Hybrid - PoW & PoS",
       "Medium of Exchange",
       "Staking"
-    ]
+    ],
+    "git": "https://github.com/bitcoinbabys/Stronghands-New/releases"
   },
   "StrongHands Masternode": {
     "name": "StrongHands Masternode",
@@ -59351,7 +59358,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/bitcoinbabys/StrongHandsMasterNode"
   },
   "Stronghold Token": {
     "name": "Stronghold Token",
@@ -59425,7 +59433,8 @@
       "New2",
       "Coin"
     ],
-    "sawBirth": "11122020"
+    "sawBirth": "11122020",
+    "git": "https://github.com/sugarchain-project/sugarchain"
   },
   "Sumcoin": {
     "name": "Sumcoin",
@@ -59440,7 +59449,8 @@
       "07122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/sumcoinlabs/sumcoin"
   },
   "Sumokoin": {
     "name": "Sumokoin",
@@ -59449,7 +59459,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/sumoprojects/sumokoin"
   },
   "SunContract": {
     "name": "SunContract",
@@ -59487,7 +59498,8 @@
         "Bitcoin"
       ],
       "date": "2017-12-12"
-    }
+    },
+    "git": "https://github.com/superbitcoin/SuperBitcoin"
   },
   "Super Running Coin": {
     "name": "Super Running Coin",
@@ -59520,7 +59532,8 @@
     "url": "/currencies/super-zero-protocol",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/sero-cash"
   },
   "SuperCoin": {
     "name": "SuperCoin",
@@ -59538,7 +59551,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/CryptoUnited/SuperCoin"
   },
   "SuperEdge": {
     "name": "SuperEdge",
@@ -59665,8 +59679,15 @@
     "short": "XWP",
     "url": "/currencies/swap",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "Mineable",
+      "PoW",
+      "CryptoNight",
+      "Cuckoo Cycle",
+      "Medium of Exchange",
+      "Privacy"
+    ],
+    "git": "https://github.com/swap-dev/swap"
   },
   "SwapShip": {
     "name": "SwapShip",
@@ -59847,7 +59868,8 @@
       "07122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/swiftcashproject"
   },
   "Swing": {
     "name": "Swing",
@@ -59865,7 +59887,8 @@
       "03122020",
       "07122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/SwingCoin/Swing/"
   },
   "Swingby": {
     "name": "Swingby",
@@ -60079,7 +60102,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Grandpa-Jones/Synergy"
   },
   "Synthetix": {
     "name": "Synthetix",
@@ -60141,7 +60165,8 @@
       "Platform",
       "Enterprise solutions",
       "Scaling"
-    ]
+    ],
+    "git": "https://github.com/syscoin/"
   },
   "T.OS": {
     "name": "T.OS",
@@ -60232,7 +60257,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Tcoin-dev/tcoin"
   },
   "TE-FOOD": {
     "name": "TE-FOOD",
@@ -60327,7 +60353,8 @@
     "url": "/currencies/tera",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "THC": {
@@ -60336,7 +60363,8 @@
     "url": "/currencies/thc",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "11122020"
@@ -60405,7 +60433,8 @@
       "Collectibles & NFTs",
       "Content Creation",
       "Video"
-    ]
+    ],
+    "git": "https://github.com/thetatoken"
   },
   "THORChain": {
     "name": "THORChain",
@@ -60525,7 +60554,8 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/tokyocoindev/tokyocoinsrc"
   },
   "TON Crystal": {
     "name": "TON Crystal",
