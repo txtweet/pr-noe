@@ -47451,7 +47451,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "NeoScrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020"
@@ -47804,7 +47805,8 @@
       "POS 3.0",
       "Filesharing",
       "Masternodes",
-      "IPFS"
+      "IPFS",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/PACGlobalOfficial"
   },
@@ -47814,7 +47816,8 @@
     "url": "/currencies/pal-network",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -47908,7 +47911,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "PaxexL"
     ],
     "deaths": [
       "30112020",
@@ -47972,7 +47979,8 @@
       "Coin",
       "Platform",
       "Interoperability",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/pchain-org"
   },
@@ -48028,7 +48036,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -48045,7 +48054,11 @@
     "short": "PEPS",
     "url": "/currencies/peps-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "PepsL"
     ],
     "git": "https://github.com/PEPS-Project/peps"
   },
@@ -48120,7 +48133,13 @@
       "Store of Value",
       "Zero Knowledge Proofs",
       "Masternodes",
-      "Staking"
+      "Staking",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL",
+      "BlackcoinL",
+      "PIVXL"
     ],
     "git": "https://github.com/PIVX-Project/PIVX/"
   },
@@ -48182,7 +48201,8 @@
     "tags": [
       "Coin",
       "Medium of Exchange",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/platincoin-project"
   },
@@ -48195,7 +48215,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "deaths": [
       "07122020",
@@ -48211,7 +48232,8 @@
     "url": "/currencies/poa",
     "tags": [
       "Coin",
-      "Platform"
+      "Platform",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/poanetwork"
   },
@@ -48306,7 +48328,8 @@
     "tags": [
       "Coin",
       "Marketplace",
-      "IoT"
+      "IoT",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/prizmspace/PrizmCore"
   },
@@ -48318,7 +48341,11 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X11"
+      "X11",
+      "GAY CoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/Gaycoins/GAYcoin-Online"
   },
@@ -48344,7 +48371,8 @@
     "short": "PRIV",
     "url": "/currencies/privcy",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/privcycoin/privcy"
   },
@@ -48424,7 +48452,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "PWRcoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -48516,7 +48546,12 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "PakcoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "09122020"
@@ -48583,7 +48618,11 @@
       "Coin",
       "Mineable",
       "PoS",
-      "Scrypt"
+      "Scrypt",
+      "PandacoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/DigitalPandacoin/pandacoin"
   },
@@ -48646,7 +48685,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/p9c/pod"
   },
@@ -48735,7 +48775,8 @@
     "short": "PART",
     "url": "/currencies/particl",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/particl"
   },
@@ -48745,7 +48786,8 @@
     "url": "/currencies/pascal",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/PascalCoin/PascalCoin"
   },
@@ -48913,7 +48955,8 @@
     "short": "PCI",
     "url": "/currencies/payprotocol",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/payprotocol"
   },
@@ -49127,7 +49170,8 @@
     "url": "/currencies/peepcoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
@@ -49168,7 +49212,8 @@
       "Hybrid - PoW & PoS",
       "SHA-256",
       "Medium of Exchange",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/peercoin"
   },
@@ -49200,7 +49245,8 @@
     "short": "PPY",
     "url": "/currencies/peerplays-ppy",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/peerplays-network"
   },
@@ -49233,7 +49279,8 @@
     "short": "PEG",
     "url": "/currencies/pegnet",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/pegnet"
   },
@@ -49242,7 +49289,8 @@
     "short": "PGO",
     "url": "/currencies/pengolincoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/pengolincoin"
   },
@@ -49269,8 +49317,10 @@
     "url": "/currencies/peony",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/PeonyTeam/peony/releases"
   },
   "Percent": {
     "name": "Percent",
@@ -49310,7 +49360,8 @@
     "short": "ASK",
     "url": "/currencies/permission-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Perpetual Protocol": {
@@ -49361,7 +49412,8 @@
     "deaths": [
       "01122020",
       "03122020"
-    ]
+    ],
+    "git": "https://github.com/FundacionPesetacoin/PesetacoinCore"
   },
   "PetroDollar": {
     "name": "PetroDollar",
@@ -49370,7 +49422,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -49412,7 +49465,8 @@
       "AI & Big Data",
       "Privacy",
       "Substrate"
-    ]
+    ],
+    "git": "https://github.com/Phala-Network"
   },
   "Phantasma": {
     "name": "Phantasma",
@@ -49468,7 +49522,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/phantomxdev/phantomx"
   },
   "Phoenix Global": {
     "name": "Phoenix Global",
@@ -49519,7 +49574,8 @@
       "Coin",
       "Mineable",
       "NeoScrypt"
-    ]
+    ],
+    "git": "https://github.com/ghostlander/Phoenixcoin"
   },
   "Phoneum": {
     "name": "Phoneum",
@@ -49544,7 +49600,8 @@
     "url": "/currencies/phore",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/phoreproject/Phore"
   },
   "Photon": {
     "name": "Photon",
@@ -49565,7 +49622,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/photonproject/photon"
   },
   "PiSwap Token": {
     "name": "PiSwap Token",
@@ -49723,7 +49781,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Pigeoncoin/pigeoncoin"
   },
   "Pillar": {
     "name": "Pillar",
