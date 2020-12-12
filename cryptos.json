@@ -36906,7 +36906,8 @@
     "url": "/currencies/kingmoney",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/KingMoneyCurrency/KingMoney"
   },
   "KingXChain": {
     "name": "KingXChain",
@@ -36958,7 +36959,8 @@
     "url": "/currencies/kira-network",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/kiracore"
   },
   "KittenFinance": {
     "name": "KittenFinance",
@@ -36982,7 +36984,8 @@
     "short": "KLAY",
     "url": "/currencies/klaytn",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Kleros": {
@@ -37026,7 +37029,8 @@
     "url": "/currencies/klimatas",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Knekted": {
@@ -37063,7 +37067,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/kydcoin"
   },
   "KnoxFS": {
     "name": "KnoxFS",
@@ -37079,7 +37084,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/KnoxFS/kfx-wallet/releases"
   },
   "Kobocoin": {
     "name": "Kobocoin",
@@ -37097,7 +37103,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/kobocoin/Kobocoin"
   },
   "Komet": {
     "name": "Komet",
@@ -37128,7 +37135,8 @@
       "Platform",
       "Atomic Swaps",
       "Enterprise solutions"
-    ]
+    ],
+    "git": "https://github.com/KomodoPlatform"
   },
   "Kompass": {
     "name": "Kompass",
@@ -37207,7 +37215,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/kratscoin/kratscoin"
   },
   "Krios": {
     "name": "Krios",
@@ -37271,7 +37280,8 @@
     "url": "/currencies/kryptofranc",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/NicolasChoukroun/Kryptofranc"
   },
   "Krypton Galaxy Coin": {
     "name": "Krypton Galaxy Coin",
@@ -37387,7 +37397,8 @@
     "tags": [
       "Coin",
       "Smart Contracts",
-      "Substrate"
+      "Substrate",
+      "NoGitHub"
     ]
   },
   "Kurrent": {
@@ -37409,7 +37420,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/kurrentproject/Kurrent"
   },
   "Kusama": {
     "name": "Kusama",
@@ -37418,7 +37430,8 @@
     "tags": [
       "Coin",
       "Substrate"
-    ]
+    ],
+    "git": "https://github.com/kusamanetwork"
   },
   "Kush Finance": {
     "name": "Kush Finance",
@@ -37548,7 +37561,8 @@
       "Mineable",
       "Marketplace",
       "Content Creation"
-    ]
+    ],
+    "git": "https://github.com/lbryio"
   },
   "LCG": {
     "name": "LCG",
