@@ -47824,7 +47824,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/policypalnet"
   },
   "PANTHEON X": {
     "name": "PANTHEON X",
@@ -47912,7 +47913,8 @@
     "deaths": [
       "30112020",
       "01122020"
-    ]
+    ],
+    "git": "https://github.com/paxex/Paxex"
   },
   "PAYCENT": {
     "name": "PAYCENT",
@@ -47971,7 +47973,8 @@
       "Platform",
       "Interoperability",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/pchain-org"
   },
   "PDATA": {
     "name": "PDATA",
@@ -48034,7 +48037,8 @@
       "07122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/coinpeng/pengcore/releases/latest"
   },
   "PEPS Coin": {
     "name": "PEPS Coin",
@@ -48042,7 +48046,8 @@
     "url": "/currencies/peps-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/PEPS-Project/peps"
   },
   "PHI Token": {
     "name": "PHI Token",
@@ -48111,8 +48116,13 @@
       "Privacy",
       "PoS",
       "POS 3.0",
-      "PIVX"
-    ]
+      "PIVX",
+      "Store of Value",
+      "Zero Knowledge Proofs",
+      "Masternodes",
+      "Staking"
+    ],
+    "git": "https://github.com/PIVX-Project/PIVX/"
   },
   "PIXEL": {
     "name": "PIXEL",
@@ -48173,7 +48183,8 @@
       "Coin",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/platincoin-project"
   },
   "PLNcoin": {
     "name": "PLNcoin",
@@ -48191,7 +48202,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/plncoin/PLNcoin_Core"
   },
   "POA": {
     "name": "POA",
@@ -48200,7 +48212,8 @@
     "tags": [
       "Coin",
       "Platform"
-    ]
+    ],
+    "git": "https://github.com/poanetwork"
   },
   "POP Network Token": {
     "name": "POP Network Token",
@@ -48294,7 +48307,8 @@
       "Coin",
       "Marketplace",
       "IoT"
-    ]
+    ],
+    "git": "https://github.com/prizmspace/PrizmCore"
   },
   "PROUD Money": {
     "name": "PROUD Money",
@@ -48305,7 +48319,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/Gaycoins/GAYcoin-Online"
   },
   "PROXI": {
     "name": "PROXI",
@@ -48330,7 +48345,8 @@
     "url": "/currencies/privcy",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/privcycoin/privcy"
   },
   "PTON": {
     "name": "PTON",
