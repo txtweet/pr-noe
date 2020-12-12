@@ -28992,7 +28992,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "Dash CoreL",
+      "FuturoCoin CoreL"
     ],
     "deaths": [
       "30112020",
@@ -29115,7 +29118,8 @@
     "short": "GGT",
     "url": "/currencies/gard-governance-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/hashgard"
   },

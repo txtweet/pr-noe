@@ -50,8 +50,11 @@ request
 .catch (err) ->
   console.error "Fichier Licence non trouvée #{crypto.name} #{err}"
   crypto.tags.push("NoLicenceFile")
-.then () ->
-  writeJsonFile('../licences.json', licenceName)
+.then () -> # Sauvegarde du fichier de licenses trié
+  ordered = {}
+  _(licenceName).keys().sort().each (key) ->
+    ordered[key] = licenceName[key]
+  writeJsonFile('../licences.json', ordered)
 .then () ->
   console.log JSON.stringify cryptos, null, 2
   # console.log JSON.stringify crypto, null, 2
