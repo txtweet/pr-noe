@@ -49988,7 +49988,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/xptx/PlatinumBar"
   },
   "PlatonCoin": {
     "name": "PlatonCoin",
@@ -50203,7 +50204,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/pluracoin/PluraCoin"
   },
   "Plus-Coin": {
     "name": "Plus-Coin",
@@ -50233,7 +50235,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/plusonecoin/plusonecoin"
   },
   "Pluton": {
     "name": "Pluton",
@@ -50278,7 +50281,8 @@
     "url": "/currencies/posw-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -50352,7 +50356,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/polispay/polis"
   },
   "Polkadot": {
     "name": "Polkadot",
@@ -50361,8 +50366,10 @@
     "tags": [
       "Coin",
       "Substrate",
-      "Polkadot"
-    ]
+      "Polkadot",
+      "Binance Chain"
+    ],
+    "git": "https://github.com/w3f"
   },
   "Polkastarter": {
     "name": "Polkastarter",
@@ -50496,7 +50503,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -50586,7 +50594,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/Pop-Currency-Foundation/PopularCoin"
   },
   "Populous": {
     "name": "Populous",
@@ -50681,7 +50690,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/PosEx/Posex"
   },
   "Poseidon Network": {
     "name": "Poseidon Network",
@@ -50743,7 +50753,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/PostCoinDevelopers/PostCoin/"
   },
   "PotCoin": {
     "name": "PotCoin",
@@ -50754,7 +50765,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/potcoin"
   },
   "Power Index Pool Token": {
     "name": "Power Index Pool Token",
@@ -50804,7 +50816,8 @@
     ],
     "deaths": [
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/PWRB-Project"
   },
   "PowerPool": {
     "name": "PowerPool",
@@ -50976,7 +50989,8 @@
       "Mineable",
       "PoW",
       "X11",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -50996,8 +51010,10 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Multiple"
-    ]
+      "Multiple",
+      "Multiple algorithms"
+    ],
+    "git": "https://github.com/primecoin/primecoin/"
   },
   "Printer.Finance": {
     "name": "Printer.Finance",
@@ -51110,7 +51126,8 @@
       "Coin",
       "Services",
       "AI & Big Data",
-      "Identity"
+      "Identity",
+      "NoGitHub"
     ]
   },
   "Project WITH": {
@@ -51136,7 +51153,8 @@
     "url": "/currencies/project-x",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -51357,7 +51375,8 @@
     "url": "/currencies/proxynode",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Pteria": {
@@ -51468,7 +51487,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/purevidz/vidzcoin"
   },
   "Puriever": {
     "name": "Puriever",
@@ -51496,7 +51516,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/PutinCoinPUT/PutinCoin"
   },
   "Pylon Finance": {
     "name": "Pylon Finance",
@@ -51547,7 +51568,8 @@
     "url": "/currencies/pyrk",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/pyrkcommunity/pyrk"
   },
   "Pyrrhos Gold": {
     "name": "Pyrrhos Gold",
@@ -51832,7 +51854,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/qyno/qynocoin"
   },
   "Qbao": {
     "name": "Qbao",
@@ -51854,7 +51877,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -51885,7 +51909,8 @@
     "url": "/currencies/qitmeer",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/qitmeer"
   },
   "Qredit": {
     "name": "Qredit",
@@ -51893,7 +51918,8 @@
     "url": "/currencies/qredit",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/qredit"
   },
   "Qtum": {
     "name": "Qtum",
@@ -51903,7 +51929,8 @@
       "Coin",
       "Platform",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/qtumproject/qtum/"
   },
   "QuadrantProtocol": {
     "name": "QuadrantProtocol",
@@ -51958,7 +51985,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/QuantisDev/QuantisNet-Fork-New-Chain"
   },
   "Quantstamp": {
     "name": "Quantstamp",
@@ -51990,7 +52018,8 @@
       "Platform",
       "Distributed Computing",
       "Quantum-Resistant"
-    ]
+    ],
+    "git": "https://github.com/theQRL"
   },
   "Quark": {
     "name": "Quark",
@@ -52000,8 +52029,10 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Multiple"
-    ]
+      "Multiple",
+      "Multiple algorithms"
+    ],
+    "git": "https://github.com/quark-project/quark/releases/"
   },
   "QuarkChain": {
     "name": "QuarkChain",
@@ -52029,7 +52060,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/quasarcoin/quasar"
   },
   "Qube": {
     "name": "Qube",
@@ -52094,7 +52126,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/ahmedbodi/quebecoin"
   },
   "QuickX Protocol": {
     "name": "QuickX Protocol",
@@ -52128,7 +52161,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/quishtv/QUISH/releases"
   },
   "QuiverX": {
     "name": "QuiverX",
@@ -52199,7 +52233,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/CedricProfit/Quotient"
   },
   "Qwertycoin": {
     "name": "Qwertycoin",
@@ -52208,7 +52243,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/qwertycoin-org/"
   },
   "RAKSUR": {
     "name": "RAKSUR",
@@ -52270,7 +52306,8 @@
       "Platform",
       "Distributed Computing",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/rchain/"
   },
   "REAL": {
     "name": "REAL",
@@ -52410,7 +52447,8 @@
     "short": "RINGX",
     "url": "/currencies/ring-x-platform",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "RMPL": {
@@ -52455,7 +52493,8 @@
       "01122020",
       "03122020",
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/ROIyalCoin/ROIyalCoin"
   },
   "ROMToken": {
     "name": "ROMToken",
@@ -52519,7 +52558,8 @@
     "short": "ROS",
     "url": "/currencies/ros-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "RPICoin": {
@@ -52535,7 +52575,8 @@
       "03122020",
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/rpicoin/rpicore.git"
   },
   "RSK Infrastructure Framework": {
     "name": "RSK Infrastructure Framework",
@@ -52558,7 +52599,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/rsksmart"
   },
   "RUSH": {
     "name": "RUSH",
@@ -52584,7 +52626,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
