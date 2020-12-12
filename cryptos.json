@@ -54375,7 +54375,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ScrivNetwork/scriv"
   },
   "SEEN": {
     "name": "SEEN",
@@ -54537,7 +54538,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/ShieldCoin/SHIELD"
   },
   "SHPING": {
     "name": "SHPING",
@@ -54573,7 +54575,8 @@
       "Mineable",
       "PoW",
       "X11GOST"
-    ]
+    ],
+    "git": "https://github.com/ivansib/sibcoin/"
   },
   "SIMBA Storage Token": {
     "name": "SIMBA Storage Token",
@@ -54615,8 +54618,14 @@
     "url": "/currencies/sinovate",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "Filesharing",
+      "United Kingdom",
+      "PoW",
+      "Spain",
+      "Viet Nam"
+    ],
+    "git": "https://github.com/SINOVATEblockchain"
   },
   "SIRIN LABS Token": {
     "name": "SIRIN LABS Token",
@@ -54694,7 +54703,8 @@
     "url": "/currencies/solbit",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/SolbitManager/Solbit-new"
   },
   "SOLVE": {
     "name": "SOLVE",
@@ -54777,7 +54787,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/burster51/sono-wallet"
   },
   "SPACE-iZ": {
     "name": "SPACE-iZ",
@@ -55083,7 +55094,8 @@
     "url": "/currencies/straks",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "STVKE": {
@@ -55356,7 +55368,8 @@
       "forked_from": [
         "Dash"
       ]
-    }
+    },
+    "git": "https://github.com/bankledger"
   },
   "Safe Haven": {
     "name": "Safe Haven",
