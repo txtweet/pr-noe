@@ -49407,7 +49407,9 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "PesetacoinL"
     ],
     "deaths": [
       "01122020",
@@ -49464,7 +49466,8 @@
       "Coin",
       "AI & Big Data",
       "Privacy",
-      "Substrate"
+      "Substrate",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Phala-Network"
   },
@@ -49513,7 +49516,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020",
@@ -49573,7 +49577,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "NeoScrypt"
+      "NeoScrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ghostlander/Phoenixcoin"
   },
@@ -49599,7 +49604,11 @@
     "short": "PHR",
     "url": "/currencies/phore",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "PhoreL"
     ],
     "git": "https://github.com/phoreproject/Phore"
   },
@@ -49612,7 +49621,8 @@
       "Mineable",
       "PoW",
       "BLAKE256",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -49780,7 +49790,10 @@
     "url": "/currencies/pigeoncoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "Pigeon CoreL",
+      "PigeonL"
     ],
     "git": "https://github.com/Pigeoncoin/pigeoncoin"
   },
@@ -49829,7 +49842,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X11"
+      "X11",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Pink2Dev"
   },
@@ -49862,7 +49876,8 @@
     "url": "/currencies/pirate-chain",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/PirateNetwork"
   },
@@ -49875,7 +49890,8 @@
       "Scrypt",
       "PoS",
       "Privacy",
-      "Transport"
+      "Transport",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/piratecash"
   },
@@ -49979,7 +49995,12 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Quark",
-      "Dead"
+      "Dead",
+      "PlatinumBarL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "01122020",
@@ -50194,7 +50215,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -50234,7 +50256,8 @@
     "url": "/currencies/plusonecoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/plusonecoin/plusonecoin"
   },
@@ -50355,7 +50378,9 @@
     "url": "/currencies/polis",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "Polis CoreL"
     ],
     "git": "https://github.com/polispay/polis"
   },
@@ -50367,7 +50392,8 @@
       "Coin",
       "Substrate",
       "Polkadot",
-      "Binance Chain"
+      "Binance Chain",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/w3f"
   },
@@ -50593,7 +50619,12 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinL",
+      "PeerCoinL",
+      "LitecoinL",
+      "NovaCoinL",
+      "PopularCoinL"
     ],
     "git": "https://github.com/Pop-Currency-Foundation/PopularCoin"
   },
@@ -50680,7 +50711,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -50744,7 +50776,9 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "PostCoinL"
     ],
     "deaths": [
       "30112020",
@@ -50764,7 +50798,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/potcoin"
   },
@@ -50812,7 +50847,8 @@
     "url": "/currencies/powerbalt",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "09122020"
@@ -51011,7 +51047,10 @@
       "Mineable",
       "PoW",
       "Multiple",
-      "Multiple algorithms"
+      "Multiple algorithms",
+      "PrimecoinL",
+      "BitcoinL",
+      "PPCoinL"
     ],
     "git": "https://github.com/primecoin/primecoin/"
   },
@@ -51477,7 +51516,11 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "PureVidzL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -51515,7 +51558,11 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Scrypt"
+      "Scrypt",
+      "PutinCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/PutinCoinPUT/PutinCoin"
   },
@@ -51567,7 +51614,9 @@
     "short": "PYRK",
     "url": "/currencies/pyrk",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL",
+      "Dash CoreL"
     ],
     "git": "https://github.com/pyrkcommunity/pyrk"
   },
@@ -51844,7 +51893,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "QynoL"
     ],
     "deaths": [
       "30112020",
@@ -51908,7 +51961,8 @@
     "short": "PMEER",
     "url": "/currencies/qitmeer",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/qitmeer"
   },
@@ -51917,7 +51971,8 @@
     "short": "XQR",
     "url": "/currencies/qredit",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/qredit"
   },
@@ -51928,7 +51983,9 @@
     "tags": [
       "Coin",
       "Platform",
-      "Smart Contracts"
+      "Smart Contracts",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/qtumproject/qtum/"
   },
@@ -51975,7 +52032,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "QuantisNETL"
     ],
     "deaths": [
       "30112020",
@@ -52017,7 +52078,8 @@
       "PoW",
       "Platform",
       "Distributed Computing",
-      "Quantum-Resistant"
+      "Quantum-Resistant",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/theQRL"
   },
@@ -52030,7 +52092,8 @@
       "Mineable",
       "PoW",
       "Multiple",
-      "Multiple algorithms"
+      "Multiple algorithms",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/quark-project/quark/releases/"
   },
@@ -52059,7 +52122,8 @@
     "url": "/currencies/quasarcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/quasarcoin/quasar"
   },
@@ -52117,7 +52181,9 @@
       "Coin",
       "Mineable",
       "X11",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -52152,7 +52218,8 @@
     "url": "/currencies/quish-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -52225,7 +52292,12 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "QuotientL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -52242,7 +52314,8 @@
     "url": "/currencies/qwertycoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/qwertycoin-org/"
   },
@@ -52305,7 +52378,8 @@
       "Coin",
       "Platform",
       "Distributed Computing",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/rchain/"
   },
@@ -52487,7 +52561,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "ROIyalCoin CoreL"
     ],
     "deaths": [
       "01122020",
@@ -52569,7 +52647,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
@@ -52598,7 +52677,8 @@
     "url": "/currencies/rsk-smart-bitcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/rsksmart"
   },
@@ -52645,8 +52725,13 @@
     "url": "/currencies/radium",
     "tags": [
       "Coin",
-      "PoS"
-    ]
+      "PoS",
+      "radiumL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/RadiumCore/radium-0.11/"
   },
   "Radix": {
     "name": "Radix",
@@ -52672,8 +52757,13 @@
     "url": "/currencies/ragnarok",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "RagnarokL"
+    ],
+    "git": "https://github.com/ragnaproject/Ragnarok"
   },
   "Raiden Network Token": {
     "name": "Raiden Network Token",
@@ -52802,8 +52892,13 @@
     "short": "RPD",
     "url": "/currencies/rapids",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "RapidsL"
+    ],
+    "git": "https://github.com/RapidsOfficial/Rapids"
   },
   "Rapidz": {
     "name": "Rapidz",
@@ -52886,7 +52981,11 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "RATECoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "03122020",
@@ -52894,7 +52993,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/RateCoinXRA/ratecoin/"
   },
   "Raven Protocol": {
     "name": "Raven Protocol",
@@ -52925,16 +53025,22 @@
       "Crowdfunding",
       "Asset management",
       "Atomic Swaps",
-      "DeFi"
-    ]
+      "DeFi",
+      "BitcoinCoreL",
+      "Raven CoreL",
+      "RavenL"
+    ],
+    "git": "https://github.com/RavenProject/Ravencoin"
   },
   "Ravencoin Classic": {
     "name": "Ravencoin Classic",
     "short": "RVC",
     "url": "/currencies/ravencoin-classic",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/ravencoinclassicio"
   },
   "ReFork": {
     "name": "ReFork",
@@ -53123,11 +53229,14 @@
       "Scrypt",
       "Media",
       "Content Creation",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "ReddcoinL"
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/reddcoin-project/reddcoin"
   },
   "ReddCoin": {
     "name": "ReddCoin",
@@ -53139,9 +53248,12 @@
       "Media",
       "Content Creation",
       "Coin",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinL",
+      "ReddcoinL"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "git": "https://github.com/reddcoin-project/reddcoin"
   },
   "RefToken": {
     "name": "RefToken",
@@ -53198,7 +53310,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -53346,11 +53459,13 @@
     "url": "/currencies/electronic-energy-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/ElectronicEnergyCoin"
   },
   "Rentberry": {
     "name": "Rentberry",
@@ -53436,8 +53551,13 @@
     "short": "RES",
     "url": "/currencies/resistance",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "ResistanceL",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/ResistancePlatform/resistance-core"
   },
   "Resoper": {
     "name": "Resoper",
@@ -53588,14 +53708,16 @@
     "url": "/currencies/rimbit",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
       "03122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/Rimbit-Project/"
   },
   "Rio DeFi": {
     "name": "Rio DeFi",
@@ -53604,7 +53726,8 @@
     "tags": [
       "Coin",
       "Substrate",
-      "Polkadot"
+      "Polkadot",
+      "NoGitHub"
     ]
   },
   "Ripio Credit Network": {
@@ -53641,7 +53764,8 @@
     ],
     "depends": [
       "RipplePay.com"
-    ]
+    ],
+    "git": "https://github.com/ripple-alpha/ripple-alpha-core"
   },
   "Rise": {
     "name": "Rise",
@@ -53656,7 +53780,8 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/risevision"
   },
   "Ritocoin": {
     "name": "Ritocoin",
