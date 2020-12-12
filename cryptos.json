@@ -58,10 +58,7 @@
     "short": "ZOC",
     "url": "/currencies/01coin",
     "tags": [
-      "Coin",
-      "BitcoinL",
-      "DashL",
-      "ZeroOneL"
+      "Coin"
     ],
     "git": "https://github.com/zocteam/zeroonecoin"
   },
@@ -29061,7 +29058,8 @@
     "short": "GNC",
     "url": "/currencies/galaxy-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "GAMB": {
@@ -29106,7 +29104,8 @@
     "url": "/currencies/gard-governance-token",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/hashgard"
   },
   "GCN Coin": {
     "name": "GCN Coin",
@@ -29116,7 +29115,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoGitHub"
     ]
   },
   "GET Protocol": {
@@ -29146,7 +29146,8 @@
       "PoS",
       "Privacy",
       "RingCT"
-    ]
+    ],
+    "git": "https://github.com/ghost-coin"
   },
   "GHOSTPRISM": {
     "name": "GHOSTPRISM",
@@ -29154,7 +29155,8 @@
     "url": "/currencies/ghostprism",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/GhostXPrism/GhostPrism-Coin/releases"
   },
   "GINcoin": {
     "name": "GINcoin",
@@ -29163,7 +29165,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/gincoin-dev/gincoin-core"
   },
   "GIVLY Coin": {
     "name": "GIVLY Coin",
@@ -29356,7 +29359,8 @@
       "Coin",
       "Platform",
       "Decentralized exchange"
-    ]
+    ],
+    "git": "https://github.com/gxchain"
   },
   "GYSR": {
     "name": "GYSR",
@@ -29403,7 +29407,8 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/galactrum/galactrum"
   },
   "Galatasaray Fan Token": {
     "name": "Galatasaray Fan Token",
@@ -29462,7 +29467,8 @@
     ],
     "deaths": [
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/Galilel-Project"
   },
   "Gallery Finance": {
     "name": "Gallery Finance",
@@ -29599,7 +29605,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/GarlicoinOrg/Garlicoin"
   },
   "Gas": {
     "name": "Gas",
@@ -29698,7 +29705,8 @@
     "url": "/currencies/gbrick",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/gbxcoin"
   },
   "Geeq": {
     "name": "Geeq",
@@ -29892,7 +29900,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/genesis-x/genesis-x/releases"
   },
   "Gentarium": {
     "name": "Gentarium",
@@ -29905,7 +29914,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/genterium-project/gentarium"
   },
   "GeoCoin": {
     "name": "GeoCoin",
@@ -29960,7 +29970,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -29978,7 +29989,8 @@
     ],
     "deaths": [
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/geysercoin/geysercoin"
   },
   "Giant": {
     "name": "Giant",
@@ -29987,7 +29999,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/GiantPay/GiantCore"
   },
   "Giftedhands": {
     "name": "Giftedhands",
@@ -30052,7 +30065,8 @@
     "url": "/currencies/gleec",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Gleecs/GleecBTC-FullNode-Win-Mac-Linux"
   },
   "Global Crypto Alliance": {
     "name": "Global Crypto Alliance",
@@ -30079,7 +30093,8 @@
       "Coin",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",

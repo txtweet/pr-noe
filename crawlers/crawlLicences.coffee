@@ -2,8 +2,9 @@ _ = require 'lodash'
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
 request = require 'request-promise'
+writeJsonFile = require 'write-json-file'
 cryptos = require '../cryptos.json'
-licenceName = require '../licenses.json'
+licenceName = require '../licences.json'
 
 noLicence = (values, tags) ->
   return (_.findIndex values, (val) -> val in tags) is -1
@@ -36,20 +37,21 @@ request
       .replace(/Developers|developers/, '')
       .trim()
       unless licenceName[licence]?
-        # console.error "Ajout Licence pour #{url}"
-        licenceName[licence]="#{Licence}L"
-        console.error "'#{licence}': '#{licence}L'"
+        console.error "\"#{licence}\": \"#{licence}L\""
+        licenceName[licence]="#{licence}L"
         crypto.tags.push(licenceName[licence])
       else
         unless licenceName[licence] in crypto.tags
-          # console.warn "Ajout licence #{licenceName[licence]} dans #{crypto.name}"
+          console.warn "Ajout licence #{licenceName[licence]} dans #{crypto.name}"
           crypto.tags.push(licenceName[licence])
         else
-          # console.warn "License indiquée #{licenceName[licence]} dans #{crypto.name}"
+          console.warn "License indiquée #{licenceName[licence]} dans #{crypto.name}"
 
 .catch (err) ->
-  # console.error "Fichier Licence non trouvée #{crypto.name}"
+  console.error "Fichier Licence non trouvée #{crypto.name} #{err}"
   crypto.tags.push("NoLicenceFile")
+.then () ->
+  writeJsonFile('../licences.json', licenceName)
 .then () ->
   console.log JSON.stringify cryptos, null, 2
   # console.log JSON.stringify crypto, null, 2
