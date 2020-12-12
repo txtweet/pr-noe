@@ -49830,7 +49830,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/Pink2Dev"
   },
   "PiplCoin": {
     "name": "PiplCoin",
@@ -49862,7 +49863,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/PirateNetwork"
   },
   "PirateCash": {
     "name": "PirateCash",
@@ -49874,7 +49876,8 @@
       "PoS",
       "Privacy",
       "Transport"
-    ]
+    ],
+    "git": "https://github.com/piratecash"
   },
   "Pirl": {
     "name": "Pirl",
@@ -49882,7 +49885,8 @@
     "url": "/currencies/pirl",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Pivot Token": {
