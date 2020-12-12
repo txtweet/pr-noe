@@ -53753,7 +53753,8 @@
     "short": "XLA",
     "url": "/currencies/ripple-alpha",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "people": [
       "Ryan Fugger",
@@ -53776,7 +53777,8 @@
       "DPoS",
       "Platform",
       "DApp",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020"
@@ -53789,7 +53791,8 @@
     "url": "/currencies/ritocoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -54022,7 +54025,8 @@
     "short": "RWN",
     "url": "/currencies/rowan-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/QuestgltNew/RowanEnergy"
   },
@@ -54105,7 +54109,8 @@
       "Coin",
       "PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -54164,7 +54169,8 @@
     "url": "/currencies/rupaya",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "GOEtereumL"
     ],
     "deaths": [
       "30112020",
@@ -54183,7 +54189,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "RupeeL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -54241,7 +54251,8 @@
     "url": "/currencies/ryo-currency",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ryo-currency/ryo-currency"
   },
@@ -54374,7 +54385,10 @@
     "url": "/currencies/scriv-network",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "Dash CoreL",
+      "Scriv CoreL"
     ],
     "git": "https://github.com/ScrivNetwork/scriv"
   },
@@ -54537,7 +54551,9 @@
     "url": "/currencies/shield-xsh",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/ShieldCoin/SHIELD"
   },
@@ -54574,7 +54590,10 @@
       "Coin",
       "Mineable",
       "PoW",
-      "X11GOST"
+      "X11GOST",
+      "BitcoinL",
+      "DashL",
+      "SibcoinL"
     ],
     "git": "https://github.com/ivansib/sibcoin/"
   },
@@ -54623,7 +54642,8 @@
       "United Kingdom",
       "PoW",
       "Spain",
-      "Viet Nam"
+      "Viet Nam",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SINOVATEblockchain"
   },
@@ -54702,7 +54722,12 @@
     "short": "SBT",
     "url": "/currencies/solbit",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "XDNA CoreL",
+      "Solbit CoreL"
     ],
     "git": "https://github.com/SolbitManager/Solbit-new"
   },
@@ -54786,7 +54811,13 @@
     "url": "/currencies/altcommunity-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "SONOL",
+      "ShadowCoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/burster51/sono-wallet"
   },
@@ -55358,7 +55389,8 @@
       "Medium of Exchange",
       "Masternodes",
       "forked_altcoin",
-      "Dash"
+      "Dash",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -55395,8 +55427,10 @@
     "short": "SCAP",
     "url": "/currencies/safecapital",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/SafeCapital/scap-coin/releases/latest"
   },
   "SafeCoin": {
     "name": "SafeCoin",
@@ -55405,7 +55439,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Fair-Exchange/safecoin/"
   },
   "SafeInsure": {
     "name": "SafeInsure",
@@ -55413,7 +55448,8 @@
     "url": "/currencies/safeinsure",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/SafeInsure/sins-coin"
   },
   "SafePost": {
     "name": "SafePost",
