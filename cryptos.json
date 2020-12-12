@@ -44650,7 +44650,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X11"
+      "X11",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/N8VCoin"
   },
@@ -44688,7 +44689,8 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS",
-      "X13"
+      "X13",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/NAVCoin"
   },
@@ -44740,7 +44742,8 @@
     "short": "NDAU",
     "url": "/currencies/ndau",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Neblio": {
@@ -44750,8 +44753,10 @@
     "tags": [
       "Coin",
       "Platform",
-      "Enterprise solutions"
-    ]
+      "Enterprise solutions",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/NeblioTeam"
   },
   "Nebula AI": {
     "name": "Nebula AI",
@@ -44759,11 +44764,13 @@
     "url": "/currencies/nebula-ai",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/nebulaai"
   },
   "Nebulas": {
     "name": "Nebulas",
@@ -44772,8 +44779,10 @@
     "tags": [
       "Coin",
       "Platform",
-      "Search Engine"
-    ]
+      "Search Engine",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nebulasio"
   },
   "Nectar": {
     "name": "Nectar",
@@ -44828,11 +44837,13 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/nekonium"
   },
   "Neo": {
     "name": "Neo",
@@ -44842,8 +44853,10 @@
       "Coin",
       "Platform",
       "Enterprise solutions",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/neo-project"
   },
   "NeoWorld Cash": {
     "name": "NeoWorld Cash",
@@ -44869,35 +44882,43 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/angrywasp/nerva"
   },
   "NerveNetwork": {
     "name": "NerveNetwork",
     "short": "NVT",
     "url": "/currencies/nervenetwork",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/NerveNetwork/nerve"
   },
   "Nervos Network": {
     "name": "Nervos Network",
     "short": "CKB",
     "url": "/currencies/nervos-network",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nervosnetwork"
   },
   "NestEGG Coin": {
     "name": "NestEGG Coin",
     "short": "EGG",
     "url": "/currencies/nestegg-coin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/SirElven8/NestEGG/releases"
   },
   "Nestree": {
     "name": "Nestree",
@@ -44945,8 +44966,10 @@
       "Coin",
       "Media",
       "Masternodes",
-      "Staking"
-    ]
+      "Staking",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/netboxglobal"
   },
   "Netflix tokenized stock Bittrex": {
     "name": "Netflix tokenized stock Bittrex",
@@ -44977,7 +45000,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -44985,7 +45009,8 @@
       "07122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/NetkoCoin"
   },
   "Netkoin": {
     "name": "Netkoin",
@@ -45011,7 +45036,11 @@
     "url": "/currencies/netrum",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "Copyright (c) 2019-  NetrumL"
     ],
     "deaths": [
       "01122020",
@@ -45020,7 +45049,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Netrum/Netrum-Blockchain"
   },
   "Neumark": {
     "name": "Neumark",
@@ -45161,8 +45191,15 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS",
-      "SHA-256"
-    ]
+      "SHA-256",
+      "NeutronL",
+      "BitcoinDarkL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/neutroncoin/neutron"
   },
   "NevaCoin": {
     "name": "NevaCoin",
@@ -45172,7 +45209,12 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "NevacoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -45181,7 +45223,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Nevacoin/nevacoin"
   },
   "New BitShares": {
     "name": "New BitShares",
@@ -45226,8 +45269,13 @@
     "url": "/currencies/newyork-exchange",
     "tags": [
       "Coin",
-      "Services"
-    ]
+      "Services",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "NYECOINL"
+    ],
+    "git": "https://github.com/nyecoin/NYE"
   },
   "NewYorkCoin": {
     "name": "NewYorkCoin",
@@ -45238,8 +45286,10 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Payments"
-    ]
+      "Payments",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/NewYorkCoin-NYC"
   },
   "Nework": {
     "name": "Nework",
@@ -45369,7 +45419,8 @@
     "short": "XLT",
     "url": "/currencies/nexalt",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Nexo": {
@@ -45412,8 +45463,10 @@
     "url": "/currencies/nexty",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nextyio"
   },
   "Nexus": {
     "name": "Nexus",
@@ -45424,8 +45477,10 @@
       "Mineable",
       "Hybrid - PoW & nPoS",
       "Platform",
-      "Staking"
-    ]
+      "Staking",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/Nexusoft/"
   },
   "Nexxo": {
     "name": "Nexxo",
@@ -45449,8 +45504,10 @@
     "short": "NBXC",
     "url": "/currencies/nibble",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/Nibble-Network"
   },
   "NiftyMoji": {
     "name": "NiftyMoji",
@@ -45478,7 +45535,8 @@
     "short": "NILU",
     "url": "/currencies/nilu",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Nimiq": {
@@ -45487,7 +45545,8 @@
     "url": "/currencies/nimiq",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Ninjacoin": {
@@ -45496,9 +45555,11 @@
     "url": "/currencies/ninjacoin",
     "tags": [
       "New2",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
-    "sawBirth": "11122020"
+    "sawBirth": "11122020",
+    "git": "https://github.com/NinjaCoin-Master/ninjacoin-mobile-wallet/releases/download/v1.0.0/NinjaCoin.apk"
   },
   "Nio tokenized stock FTX": {
     "name": "Nio tokenized stock FTX",
@@ -45518,7 +45579,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/niobio-cash/niobio-node-daemon"
   },
   "Niobium Coin": {
     "name": "Niobium Coin",
@@ -45565,7 +45627,8 @@
     "tags": [
       "Coin",
       "PoS"
-    ]
+    ],
+    "git": "https://github.com/NoLimitCoin"
   },
   "Nobrainer Finance": {
     "name": "Nobrainer Finance",
