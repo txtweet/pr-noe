@@ -45578,7 +45578,8 @@
     "url": "/currencies/niobio-cash",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/niobio-cash/niobio-node-daemon"
   },
@@ -45626,7 +45627,8 @@
     "url": "/currencies/nolimitcoin",
     "tags": [
       "Coin",
-      "PoS"
+      "PoS",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/NoLimitCoin"
   },
@@ -45657,7 +45659,8 @@
     "url": "/currencies/noir",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/noirofficial/noir"
   },
@@ -45747,7 +45750,12 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "PPCoinL",
+      "PeerunityL",
+      "EmerCoinL",
+      "NovaCoinL"
     ],
     "deaths": [
       "30112020"
@@ -45759,7 +45767,8 @@
     "short": "NOVO",
     "url": "/currencies/novo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/novocurrency"
   },
@@ -45967,7 +45976,11 @@
     "url": "/currencies/nyerium",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "NyeriumL"
     ],
     "deaths": [
       "30112020",
@@ -45982,7 +45995,8 @@
     "short": "NYZO",
     "url": "/currencies/nyzo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/n-y-z-o/nyzoVerifier"
   },
@@ -45991,7 +46005,8 @@
     "short": "OSB",
     "url": "/currencies/oasisbloc",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/OASISBloc"
   },
@@ -46065,7 +46080,11 @@
     "url": "/currencies/oc-protocol",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "OCPL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -46133,7 +46152,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Marketplace"
+      "Marketplace",
+      "OduwaCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/ODUWAX/oduwacoin"
   },
@@ -46227,7 +46250,12 @@
     "url": "/currencies/okcash",
     "tags": [
       "Coin",
-      "Hybrid - PoW & PoS"
+      "Hybrid - PoW & PoS",
+      "OkcashL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/okcashpro/okcash"
   },
@@ -46453,7 +46481,8 @@
       "Coin",
       "Mineable",
       "PoS",
-      "Medium of Exchange"
+      "Medium of Exchange",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/otocash/"
   },
@@ -46557,7 +46586,8 @@
     "short": "ROSE",
     "url": "/currencies/oasis-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/oasisprotocol/oasis-core"
   },
@@ -46660,7 +46690,8 @@
       "Coin",
       "DAG",
       "DeFi",
-      "Identity"
+      "Identity",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/byteball"
   },
@@ -46730,7 +46761,8 @@
     "url": "/currencies/octoin-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "The Bitcoin CoreL"
     ],
     "deaths": [
       "01011970"
@@ -46885,7 +46917,8 @@
     "tags": [
       "Coin",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/OmniLayer"
   },
@@ -46932,7 +46965,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -47051,7 +47085,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -47060,7 +47095,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/onix-project"
   },
   "Ontology": {
     "name": "Ontology",
@@ -47072,7 +47108,9 @@
       "Enterprise solutions",
       "Identity",
       "forked_altcoin",
-      "Neo"
+      "Neo",
+      "Binance Chain",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -47082,7 +47120,8 @@
       "forked_from": [
         "Neo"
       ]
-    }
+    },
+    "git": "https://github.com/ontio"
   },
   "Ontology Gas": {
     "name": "Ontology Gas",
@@ -47126,7 +47165,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -47334,7 +47374,8 @@
     "url": "/currencies/oracolxor",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -47414,7 +47455,8 @@
     ],
     "deaths": [
       "03122020"
-    ]
+    ],
+    "git": "https://github.com/ghostlander/Orbitcoin"
   },
   "Orbs": {
     "name": "Orbs",
@@ -47475,7 +47517,8 @@
     "short": "HTDF",
     "url": "/currencies/orient-walt",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Origami": {
@@ -47702,7 +47745,8 @@
     "short": "OURO",
     "url": "/currencies/ouroboros",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "P2P": {
@@ -47760,9 +47804,9 @@
       "POS 3.0",
       "Filesharing",
       "Masternodes",
-      "IPFS",
-      "Masternodes"
-    ]
+      "IPFS"
+    ],
+    "git": "https://github.com/PACGlobalOfficial"
   },
   "PAL Network": {
     "name": "PAL Network",
