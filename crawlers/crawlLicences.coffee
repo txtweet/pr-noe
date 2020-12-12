@@ -87,6 +87,7 @@ licenceName =
   'EvilCoin': 'EvilCoinL'
   'EXCL': 'EXCLL'
   'Fabcoin Core': 'Fabcoin CoreL'
+  'Freecash First Foundation': 'Freecash First FoundationL'
   'FXTC': 'FXTCL'
   'go-ethereum Authors.': 'GOEtereumL'
   'I/OCoin': 'I/OCoinL'

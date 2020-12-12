@@ -28111,7 +28111,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -28145,16 +28146,27 @@
     "short": "FSC",
     "url": "/currencies/five-star-coin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "GOEtereumL"
+    ],
+    "git": "https://github.com/fsccoin/go-fsc"
   },
   "Fivebalance": {
     "name": "Fivebalance",
     "short": "FBN",
     "url": "/currencies/fivebalance",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "Mobile",
+      "Payments",
+      "Health",
+      "Indonesia",
+      "United States of America",
+      "Quark",
+      "PIVX",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/fivebalanceID"
   },
   "Flamingo": {
     "name": "Flamingo",
@@ -28180,8 +28192,10 @@
     "short": "FLASH",
     "url": "/currencies/flash",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/flash-coin"
   },
   "FlashSwap": {
     "name": "FlashSwap",
@@ -28290,8 +28304,15 @@
     "short": "FLS",
     "url": "/currencies/flits",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL",
+      "BlackcoinL",
+      "PIVXL"
+    ],
+    "git": "https://github.com/flitsnode/flits-core"
   },
   "Flixxo": {
     "name": "Flixxo",
@@ -28413,8 +28434,10 @@
     "short": "XFC",
     "url": "/currencies/footballcoin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/MultiChain/multichain"
   },
   "ForTube": {
     "name": "ForTube",
@@ -28550,7 +28573,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -28583,8 +28607,11 @@
     "short": "FCH",
     "url": "/currencies/freecash",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "BitcoinL",
+      "BitcoinCoreL"
+    ],
+    "git": "https://github.com/freecashorg/freecash"
   },
   "Freedom Reserve": {
     "name": "Freedom Reserve",
@@ -28640,7 +28667,8 @@
       "03122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/freicoin/freicoin"
   },
   "Freight Trust & Clearing Network": {
     "name": "Freight Trust & Clearing Network",
@@ -28665,7 +28693,8 @@
     "url": "/currencies/french-digital-reserve",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/fdreserve/fdr-blockchain/"
   },
   "Frens Community": {
     "name": "Frens Community",
@@ -28793,7 +28822,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/fujicoin/fujicoin"
   },
   "FunFair": {
     "name": "FunFair",
@@ -28902,7 +28932,8 @@
       "Platform",
       "DeFi",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/FUSIONFoundation"
   },
   "Future-Cash Digital": {
     "name": "Future-Cash Digital",
