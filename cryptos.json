@@ -36334,7 +36334,8 @@
     "short": "KDA",
     "url": "/currencies/kadena",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/kadena-io"
   },
@@ -36373,7 +36374,10 @@
     "url": "/currencies/kalkulus",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL"
     ],
     "git": "https://github.com/kalkulusteam/klks"
   },
@@ -36505,7 +36509,8 @@
       "Mineable",
       "PoW",
       "CryptoNight",
-      "Marketplace"
+      "Marketplace",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/seredat/karbowanec"
   },
@@ -36697,7 +36702,8 @@
     "url": "/currencies/kekcoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020",
@@ -36712,7 +36718,11 @@
     "short": "KEMA",
     "url": "/currencies/kemacoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "KemaL"
     ],
     "git": "https://github.com/wmcorless/kema"
   },
@@ -36906,7 +36916,8 @@
     "short": "KIM",
     "url": "/currencies/kingmoney",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/KingMoneyCurrency/KingMoney"
   },
@@ -36959,7 +36970,8 @@
     "short": "KEX",
     "url": "/currencies/kira-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/kiracore"
   },
@@ -37058,7 +37070,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -37077,7 +37090,8 @@
     "url": "/currencies/knoxfs",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
@@ -37096,7 +37110,11 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X15",
-      "Dead"
+      "Dead",
+      "KobocoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -37135,7 +37153,8 @@
       "Equihash",
       "Platform",
       "Atomic Swaps",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/KomodoPlatform"
   },
@@ -37206,7 +37225,8 @@
     "url": "/currencies/kratscoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -37280,7 +37300,8 @@
     "short": "KYF",
     "url": "/currencies/kryptofranc",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/NicolasChoukroun/Kryptofranc"
   },
@@ -37411,7 +37432,11 @@
       "Mineable",
       "PoW",
       "X11",
-      "Dead"
+      "Dead",
+      "KurrentL",
+      "ZCoinL",
+      "ZerocoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -37430,7 +37455,8 @@
     "url": "/currencies/kusama",
     "tags": [
       "Coin",
-      "Substrate"
+      "Substrate",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/kusamanetwork"
   },
@@ -37561,7 +37587,8 @@
       "Coin",
       "Mineable",
       "Marketplace",
-      "Content Creation"
+      "Content Creation",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/lbryio"
   },
@@ -37652,7 +37679,8 @@
     "url": "/currencies/lighthouse-token",
     "tags": [
       "Coin",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/usdx-wallet/"
   },
@@ -37938,7 +37966,8 @@
     "short": "LONG",
     "url": "/currencies/long-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/longnetwork/LONGNETWORK"
   },
@@ -38086,7 +38115,8 @@
     "url": "/currencies/luxcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/LUX-Core"
   },
@@ -38198,7 +38228,11 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "LanacoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "01122020"
@@ -38227,7 +38261,11 @@
     "short": "LRG",
     "url": "/currencies/largo-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "Largo CoinL"
     ],
     "git": "https://github.com/largocoin/core"
   },
@@ -38442,7 +38480,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "08122020",
@@ -38677,7 +38716,8 @@
     "short": "LTP",
     "url": "/currencies/lifetioncoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/lifetioncoin/"
   },
@@ -38704,7 +38744,8 @@
     "url": "/currencies/lightning-bitcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/lbtcio"
   },
@@ -38713,7 +38754,8 @@
     "short": "PHT",
     "url": "/currencies/lightstreams",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/lightstreams-network"
   },
@@ -38771,7 +38813,8 @@
       "Coin",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -38873,7 +38916,8 @@
     "url": "/currencies/linktoken",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/lianxiangcloud/lk-chain"
   },
@@ -38940,7 +38984,8 @@
       "DPoS",
       "Platform",
       "Enterprise solutions",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/LiskHQ/"
   },
@@ -38995,7 +39040,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Litebitcoin CoreL"
     ],
     "deaths": [
       "30112020",
@@ -39055,7 +39103,8 @@
     "short": "CASH",
     "url": "/currencies/litecash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/teamlite"
   },
@@ -39069,7 +39118,10 @@
       "PoW",
       "Scrypt",
       "Medium of Exchange",
-      "Binance Chain"
+      "Binance Chain",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Litecoin CoreL"
     ],
     "git": "https://github.com/litecoin-project/litecoin"
   },
@@ -39085,7 +39137,8 @@
       "Medium of Exchange",
       "Payments",
       "forked_altcoin",
-      "Litecoin"
+      "Litecoin",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -39106,7 +39159,10 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Scrypt"
+      "Scrypt",
+      "LitecoinPlusL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/Crypto-Currency/litecoinplus"
   },
@@ -39180,7 +39236,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "QuBit",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -39326,7 +39383,10 @@
     "url": "/currencies/lobstex",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "LobstexL"
     ],
     "git": "https://github.com/avymantech/lobstex"
   },
@@ -39399,7 +39459,8 @@
       "DeFi",
       "Privacy",
       "Masternodes",
-      "PoS"
+      "PoS",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/loki-project/loki"
   },
@@ -39735,7 +39796,8 @@
     "url": "/currencies/lunes",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Lunes-platform"
   },
@@ -39801,7 +39863,8 @@
       "Coin",
       "Marketplace",
       "Centralized exchange",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/LykkeCity/"
   },
@@ -39829,7 +39892,10 @@
     "url": "/currencies/lynx",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Litecoin CoreL"
     ],
     "git": "https://github.com/doh9Xiet7weesh9va9th/lynx"
   },
@@ -39838,7 +39904,8 @@
     "short": "LYR",
     "url": "/currencies/lyra",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/LYRA-Block-Lattice"
   },
@@ -40061,7 +40128,8 @@
     "short": "MDU",
     "url": "/currencies/mdu",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/mdukey"
   },
@@ -40146,7 +40214,9 @@
     "short": "MERCI",
     "url": "/currencies/merci",
     "tags": [
-      "Coin"
+      "Coin",
+      "Free Software Foundation, Inc. <http://fsf.org/>L",
+      "Copyright (C) {year}  {name of author}L"
     ],
     "git": "https://github.com/merciproject/merci"
   },
@@ -40236,7 +40306,8 @@
     "url": "/currencies/mfcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MFrcoin"
   },
@@ -40359,7 +40430,11 @@
       "Marketplace",
       "Gaming",
       "Staking",
-      "Hybrid - PoW & PoS"
+      "Hybrid - PoW & PoS",
+      "MMOCoinL",
+      "PeerCoinL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/MMO-Coin/mmocoin"
   },
@@ -40369,7 +40444,12 @@
     "url": "/currencies/mnpcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "WagerrL",
+      "MNPCoinL"
     ],
     "git": "https://github.com/MasterNodesPro/MNPCoin"
   },
@@ -40382,7 +40462,8 @@
       "PoW",
       "Platform",
       "Smart Contracts",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -40456,7 +40537,8 @@
     "url": "/currencies/morelo",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -40641,7 +40723,14 @@
     "short": "YCE",
     "url": "/currencies/myce",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "BitcoinCoreL",
+      "Bitcoin ABCL",
+      "DashL",
+      "PIVXL",
+      "NavCoin CoreL",
+      "MyceL"
     ],
     "git": "https://github.com/myceworld/myce/"
   },
@@ -40941,7 +41030,8 @@
     "short": "MALW",
     "url": "/currencies/malwarechain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MalwareChain"
   },
@@ -41072,7 +41162,8 @@
     "tags": [
       "Coin",
       "Media",
-      "Content Creation"
+      "Content Creation",
+      "GOEtereumL"
     ],
     "git": "https://github.com/TTCECO/gttc"
   },
@@ -41128,7 +41219,9 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X13"
+      "X13",
+      "BitcoinCoreL",
+      "MarteX CoreL"
     ],
     "git": "https://github.com/martexcoin/martexcoin"
   },
@@ -41138,7 +41231,10 @@
     "url": "/currencies/martkist",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "Dash CoreL",
+      "Martkist CoreL"
     ],
     "git": "https://github.com/martkist/martkist"
   },
@@ -41148,7 +41244,8 @@
     "url": "/currencies/masari",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/masari-project/masari"
   },
@@ -41268,7 +41365,8 @@
       "Coin",
       "Mineable",
       "Platform",
-      "AI & Big Data"
+      "AI & Big Data",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MatrixAINetwork"
   },
@@ -41338,7 +41436,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -41440,7 +41539,9 @@
     "short": "MAR",
     "url": "/currencies/mchain",
     "tags": [
-      "Coin"
+      "Coin",
+      "Free Software Foundation, Inc. <http://fsf.org/>L",
+      "Copyright (C) {year}  {name of author}L"
     ],
     "git": "https://github.com/MchainNetwork/mchain"
   },
@@ -41534,7 +41635,8 @@
     "url": "/currencies/medibloc",
     "tags": [
       "Coin",
-      "Health"
+      "Health",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Medibloc"
   },
@@ -41668,7 +41770,11 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "FXTCL",
+      "MegacoinL"
     ],
     "git": "https://github.com/LIMXTEC/Megacoin"
   },
@@ -41758,7 +41864,21 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "X11"
+      "X11",
+      "Satoshi NakamotoL",
+      "BitcoinL",
+      "LitecoinL",
+      "PeercoinL",
+      "DarkCoinL",
+      "BlackcoinL",
+      "DigibyteL",
+      "DashCoinL",
+      "NetCoinL",
+      "TransfercoinL",
+      "PepeCoinL",
+      "Memetic/PepecoinL",
+      "Memetic/PepeCoinL",
+      "Free Software Foundation, Inc. <https://fsf.org/>L"
     ],
     "git": "https://github.com/pepeteam/pepecoin"
   },
@@ -41871,7 +41991,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "MEREBELL"
     ],
     "deaths": [
       "09122020"
@@ -41969,7 +42092,8 @@
     "tags": [
       "Coin",
       "Platform",
-      "Identity"
+      "Identity",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/metadium"
   },
@@ -42023,7 +42147,8 @@
     "short": "DNA",
     "url": "/currencies/metaverse-dualchain-network-architecture",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/mvs-org"
   },
@@ -42046,7 +42171,8 @@
     "tags": [
       "Coin",
       "DeFi",
-      "Interoperability"
+      "Interoperability",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/meterio"
   },
@@ -42077,7 +42203,8 @@
       "Mineable",
       "SHA-256",
       "Interoperability",
-      "Stablecoin"
+      "Stablecoin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/meterio"
   },
@@ -42122,7 +42249,8 @@
     "url": "/currencies/metrix-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/TheLindaProjectInc"
   },
@@ -42177,7 +42305,8 @@
       "Mineable",
       "Medium of Exchange",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -42306,7 +42435,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -42324,7 +42454,8 @@
     "short": "MWC",
     "url": "/currencies/mimblewimblecoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/mwcproject"
   },
@@ -42440,7 +42571,8 @@
       "Coin",
       "PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -42454,7 +42586,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "07122020"
@@ -42466,7 +42599,8 @@
     "short": "BIP",
     "url": "/currencies/minter-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MinterTeam"
   },
@@ -42476,7 +42610,11 @@
     "url": "/currencies/mirai",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "MRIL"
     ],
     "git": "https://github.com/bumbacoin/Mirai-Master/"
   },
@@ -42598,7 +42736,11 @@
     "url": "/currencies/mktcoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "MktCoinL"
     ],
     "git": "https://github.com/Mktcoin-official/Mktcoin"
   },
@@ -42626,7 +42768,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "09122020"
@@ -42646,7 +42789,10 @@
     "short": "MCPC",
     "url": "/currencies/mobile-crypto-pay-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "MCPCoinL"
     ],
     "git": "https://github.com/MobilePayCoin/MobilePayCoin"
   },
@@ -42655,7 +42801,8 @@
     "short": "MOB",
     "url": "/currencies/mobilecoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "08122020",
     "git": "https://github.com/mobilecoinfoundation/mobilecoin"
@@ -42743,7 +42890,8 @@
     "short": "MCM",
     "url": "/currencies/mochimo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/mochimodev/mochimo"
   },
@@ -42752,7 +42900,8 @@
     "short": "MODIC",
     "url": "/currencies/modern-investment-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ModernInvestmentCoin"
   },
@@ -42857,7 +43006,11 @@
     "tags": [
       "Coin",
       "PoS",
-      "Dead"
+      "Dead",
+      "MojocoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -42919,7 +43072,15 @@
       "PoW",
       "Scrypt",
       "Medium of Exchange",
-      "Memes"
+      "Memes",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Litecoin CoreL",
+      "Dr. Kimoto ChanL",
+      "DigiByteL",
+      "DashL",
+      "VertcoinL",
+      "Monacoin CoreL"
     ],
     "git": "https://github.com/monacoinproject/monacoin"
   },
@@ -42977,7 +43138,8 @@
       "Mineable",
       "PoW",
       "Medium of Exchange",
-      "RingCT"
+      "RingCT",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/monero-project/monero"
   },
@@ -42988,7 +43150,8 @@
     "tags": [
       "Coin",
       "forked_altcoin",
-      "Monero"
+      "Monero",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -43008,7 +43171,8 @@
     "tags": [
       "Coin",
       "forked_altcoin",
-      "Monero"
+      "Monero",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -43030,7 +43194,8 @@
       "Mineable",
       "PoW",
       "Quark",
-      "SHA-256"
+      "SHA-256",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MUEcoin/"
   },
@@ -43123,7 +43288,10 @@
       "Coin",
       "Scrypt",
       "DeFi",
-      "PoW"
+      "PoW",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "MTTcoin CoreL"
     ],
     "sawBirth": "07122020",
     "git": "https://github.com/mttcoin/MTTcoin-core"
@@ -43186,7 +43354,11 @@
     "url": "/currencies/monkey-project",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "MonkeyL"
     ],
     "git": "https://github.com/MONKEYPROJECT/MonkeyV2"
   },
@@ -43294,7 +43466,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Mooncoincommunity"
   },
@@ -43465,7 +43638,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X13",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Jahvinci/MotaCoin"
   },
@@ -43514,7 +43688,8 @@
     "url": "/currencies/moving-cloud-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -43551,7 +43726,8 @@
     "short": "MCC",
     "url": "/currencies/multicoincasino",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MultiCoinCasino"
   },
@@ -43643,7 +43819,11 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "hackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -43788,8 +43968,12 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Multiple"
-    ]
+      "Multiple",
+      "Multiple algorithms",
+      "BitcoinCoreL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/myriadteam/myriadcoin/"
   },
   "Mysterium": {
     "name": "Mysterium",
@@ -43868,8 +44052,12 @@
     "short": "NEAR",
     "url": "/currencies/near-protocol",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "Platform",
+      "Staking",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nearprotocol/nearcore"
   },
   "NEM": {
     "name": "NEM",
@@ -43880,16 +44068,23 @@
       "PoI",
       "Medium of Exchange",
       "Payments",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nemtech"
   },
   "NEOBITCOIN": {
     "name": "NEOBITCOIN",
     "short": "NBTC",
     "url": "/currencies/neobitcoin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "NeoBitcoinL"
+    ],
+    "git": "https://github.com/neobitcoin-official/neobitcoin"
   },
   "NEST Protocol": {
     "name": "NEST Protocol",
@@ -43934,11 +44129,13 @@
     "url": "/currencies/next-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/NextExchange"
   },
   "NFT": {
     "name": "NFT",
@@ -43985,8 +44182,11 @@
     "url": "/currencies/nix",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/NixPlatform/NixCore"
   },
   "NIX Bridge Token": {
     "name": "NIX Bridge Token",
@@ -44018,8 +44218,11 @@
       "Distributed Computing",
       "IoT",
       "Communications & Social Media",
-      "IoT"
-    ]
+      "Crowdsourcing",
+      "Ethereum",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nknorg"
   },
   "NNB Token": {
     "name": "NNB Token",
@@ -44152,8 +44355,10 @@
     "short": "NPC",
     "url": "/currencies/npcoin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/npcoincoreteam"
   },
   "NSS Coin": {
     "name": "NSS Coin",
@@ -44208,8 +44413,10 @@
       "Coin",
       "Mineable",
       "Platform",
-      "Enterprise solutions"
-    ]
+      "Enterprise solutions",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nuls-io/nuls-v2"
   },
   "NVIDIA tokenized stock FTX": {
     "name": "NVIDIA tokenized stock FTX",
@@ -44318,8 +44525,10 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Platform"
-    ]
+      "Platform",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/namecoin"
   },
   "NanTrade": {
     "name": "NanTrade",
@@ -44347,8 +44556,10 @@
       "PoW",
       "Blake2b",
       "Medium of Exchange",
-      "Payments"
-    ]
+      "Payments",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/nanocurrency"
   },
   "Narrative": {
     "name": "Narrative",
@@ -44383,8 +44594,14 @@
     "url": "/currencies/nasdacoin",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "BitcoinL",
+      "PPCoinL",
+      "PeerunityL",
+      "EmerCoinL",
+      "NasdacoinL"
+    ],
+    "git": "https://github.com/Nasdacoin/Nasdacoin"
   },
   "Nash Exchange": {
     "name": "Nash Exchange",
@@ -44434,7 +44651,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/N8VCoin"
   },
   "Natmin Pure Escrow": {
     "name": "Natmin Pure Escrow",
@@ -44471,7 +44689,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X13"
-    ]
+    ],
+    "git": "https://github.com/NAVCoin"
   },
   "Naviaddress": {
     "name": "Naviaddress",
