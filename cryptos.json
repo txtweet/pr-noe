@@ -55438,7 +55438,14 @@
     "url": "/currencies/safecoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "ZcashL",
+      "KomodoL",
+      "VerusCoinL",
+      "Free Software Foundation, Inc.,L",
+      "Copyright (C) <year>  <name of author>L"
     ],
     "git": "https://github.com/Fair-Exchange/safecoin/"
   },
@@ -55447,7 +55454,8 @@
     "short": "SINS",
     "url": "/currencies/safeinsure",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/SafeInsure/sins-coin"
   },
@@ -55474,7 +55482,8 @@
     "url": "/currencies/safex-cash",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/safex"
   },
@@ -55483,7 +55492,8 @@
     "short": "SFT",
     "url": "/currencies/safex-token",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/safex/"
   },
@@ -55584,7 +55594,12 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "Marketplace",
-      "Staking"
+      "Staking",
+      "SaluSL",
+      "BlackcoinL",
+      "NovacoinL",
+      "PeercoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/saluscoin/SaluS"
   },
@@ -55704,7 +55719,8 @@
     "short": "SAPP",
     "url": "/currencies/sapphire",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/sappcoin-com"
   },
@@ -55858,7 +55874,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "SaveNodeL"
     ],
     "deaths": [
       "30112020",
@@ -55915,7 +55935,8 @@
       "Payments",
       "Wallet",
       "Medium of Exchange",
-      "Privacy"
+      "Privacy",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/scala-network"
   },
@@ -55997,7 +56018,8 @@
     "short": "SCR",
     "url": "/currencies/scorum-coins",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Scorum/Scorum"
   },
@@ -56027,7 +56049,8 @@
     "url": "/currencies/scrypta",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
@@ -56115,7 +56138,8 @@
       "DPoS",
       "Privacy",
       "Smart Contracts",
-      "DeFi"
+      "DeFi",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/enigmampc/SecretNetwork"
   },
@@ -56151,7 +56175,8 @@
     "short": "SCSX",
     "url": "/currencies/secure-cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Seele-N": {
@@ -56206,7 +56231,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/SelfSellTeam"
   },
   "Selfkey": {
     "name": "Selfkey",
