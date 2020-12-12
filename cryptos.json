@@ -45658,7 +45658,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/noirofficial/noir"
   },
   "Nokencoin": {
     "name": "Nokencoin",
@@ -45750,7 +45751,8 @@
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/novacoin-project/novacoin"
   },
   "Novo": {
     "name": "Novo",
@@ -45758,7 +45760,8 @@
     "url": "/currencies/novo",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/novocurrency"
   },
   "Nsure.Network": {
     "name": "Nsure.Network",
@@ -45787,7 +45790,8 @@
       "PoS",
       "SHA-256",
       "Stablecoin",
-      "Stablecoin - Algorithmically-Stabilized"
+      "Stablecoin - Algorithmically-Stabilized",
+      "NoGitHub"
     ]
   },
   "NuCypher": {
@@ -45918,7 +45922,8 @@
       "PoS",
       "Platform",
       "Enterprise solutions",
-      "State channels"
+      "State channels",
+      "NoGitHub"
     ]
   },
   "Nyan Finance": {
@@ -45969,7 +45974,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/nyerium-core/nyerium"
   },
   "Nyzo": {
     "name": "Nyzo",
@@ -45977,7 +45983,8 @@
     "url": "/currencies/nyzo",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/n-y-z-o/nyzoVerifier"
   },
   "OASISBloc": {
     "name": "OASISBloc",
@@ -45985,7 +45992,8 @@
     "url": "/currencies/oasisbloc",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/OASISBloc"
   },
   "OAX": {
     "name": "OAX",
@@ -46066,7 +46074,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/OC-CryptoCurrency/OCP"
   },
   "ODE": {
     "name": "ODE",
@@ -46125,7 +46134,8 @@
       "Coin",
       "Mineable",
       "Marketplace"
-    ]
+    ],
+    "git": "https://github.com/ODUWAX/oduwacoin"
   },
   "OFIN Token": {
     "name": "OFIN Token",
@@ -46218,7 +46228,8 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS"
-    ]
+    ],
+    "git": "https://github.com/okcashpro/okcash"
   },
   "OLPORTAL": {
     "name": "OLPORTAL",
@@ -46324,7 +46335,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -46442,7 +46454,8 @@
       "Mineable",
       "PoS",
       "Medium of Exchange"
-    ]
+    ],
+    "git": "https://github.com/otocash/"
   },
   "OVCODE": {
     "name": "OVCODE",
@@ -46545,7 +46558,8 @@
     "url": "/currencies/oasis-network",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/oasisprotocol/oasis-core"
   },
   "Oath Protocol": {
     "name": "Oath Protocol",
@@ -46634,7 +46648,8 @@
     "url": "/currencies/observer",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Obyte": {
@@ -46642,8 +46657,12 @@
     "short": "GBYTE",
     "url": "/currencies/obyte",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "DAG",
+      "DeFi",
+      "Identity"
+    ],
+    "git": "https://github.com/byteball"
   },
   "Ocean Protocol": {
     "name": "Ocean Protocol",
@@ -46672,7 +46691,8 @@
     "short": "OC",
     "url": "/currencies/oceanchain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "OceanEx Token": {
@@ -46714,7 +46734,8 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "git": "https://github.com/OctoinCoin/octoin"
   },
   "Odyssey": {
     "name": "Odyssey",
@@ -46865,7 +46886,8 @@
       "Coin",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/OmniLayer"
   },
   "Omnitude": {
     "name": "Omnitude",
@@ -46920,7 +46942,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/ondori-project"
   },
   "One DEX": {
     "name": "One DEX",
