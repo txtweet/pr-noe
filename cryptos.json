@@ -56278,7 +56278,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/semuxproject/semux-core"
   },
   "Sendvibe": {
     "name": "Sendvibe",
@@ -56330,7 +56331,8 @@
     "url": "/currencies/consensus",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "03122020",
@@ -56434,7 +56436,8 @@
       "DeFi",
       "Derivatives",
       "Smart Contracts",
-      "Staking"
+      "Staking",
+      "NoGitHub"
     ]
   },
   "Sesameseed": {
@@ -56495,7 +56498,8 @@
     "deaths": [
       "30112020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/sexcoin-project/sexcoin"
   },
   "Shadow Token": {
     "name": "Shadow Token",
@@ -56533,7 +56537,8 @@
     ],
     "deaths": [
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/ShardcoinRepo/shard/"
   },
   "Sharder": {
     "name": "Sharder",
@@ -56659,7 +56664,8 @@
       "DPoS",
       "Distributed Computing",
       "Filesharing"
-    ]
+    ],
+    "git": "https://github.com/shiftnrg"
   },
   "Shill & Win": {
     "name": "Shill & Win",
@@ -56838,7 +56844,8 @@
       "Blake2b",
       "Platform",
       "Distributed Computing",
-      "Filesharing"
+      "Filesharing",
+      "NoGitHub"
     ]
   },
   "Sierracoin": {
@@ -56851,7 +56858,8 @@
     ],
     "deaths": [
       "01122020"
-    ]
+    ],
+    "git": "https://github.com/sierracoin-foundation"
   },
   "Signals Network": {
     "name": "Signals Network",
@@ -56896,7 +56904,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/signatumd/source/"
   },
   "SignatureChain ": {
     "name": "SignatureChain ",
@@ -57031,7 +57040,8 @@
       "30112020",
       "03122020",
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/Simple-Software-Solutions"
   },
   "SimpleChain": {
     "name": "SimpleChain",
