@@ -43,6 +43,7 @@ request
 
 .catch (err) ->
   console.error "Erreur sur #{crypto.url}"
+  crypto.tags.push("NoGitHub")
 .then () ->
   console.log JSON.stringify cryptos, null, 2
   # console.log JSON.stringify crypto, null, 2

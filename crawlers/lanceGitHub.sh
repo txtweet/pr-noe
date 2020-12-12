@@ -1,6 +1,6 @@
 while true; do
 
-  echo "Search github"
+  # echo "Search github"
   coffee ./crawlLicences.coffee > github.json
   ret=$?
   cp ./github.json ../cryptos.json
