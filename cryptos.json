@@ -60672,7 +60672,8 @@
       "Coin",
       "Media",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/tronprotocol"
   },
   "TRONCLASSIC": {
     "name": "TRONCLASSIC",
@@ -60877,7 +60878,8 @@
     "url": "/currencies/tycoon69",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "11122020"
@@ -60962,7 +60964,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -61001,7 +61004,8 @@
       "03122020",
       "07122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/Taj-Coin/tajcoin"
   },
   "Taklimakan Network": {
     "name": "Taklimakan Network",
@@ -61198,7 +61202,8 @@
     "url": "/currencies/teecoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -61269,7 +61274,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/phoenixkonsole/transcendence"
   },
   "Temtum": {
     "name": "Temtum",
@@ -61277,7 +61283,8 @@
     "url": "/currencies/temtum",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/temtum"
   },
   "TenSpeed Finance": {
     "name": "TenSpeed Finance",
@@ -61311,7 +61318,8 @@
     "short": "TUP",
     "url": "/currencies/tenup",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "TenX": {
@@ -61406,7 +61414,8 @@
       "DeFi",
       "Payments",
       "Stablecoin - Algorithmically-Stabilized"
-    ]
+    ],
+    "git": "https://github.com/terra-project"
   },
   "Terra SDT": {
     "name": "Terra SDT",
@@ -61414,7 +61423,8 @@
     "url": "/currencies/terra-sdt",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/terra-project"
   },
   "TerraCredit": {
     "name": "TerraCredit",
@@ -61422,7 +61432,8 @@
     "url": "/currencies/credit",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/CREDIT-2-0"
   },
   "TerraKRW": {
     "name": "TerraKRW",
@@ -61430,7 +61441,8 @@
     "url": "/currencies/terra-krw",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/terra-project"
   },
   "TerraNova": {
     "name": "TerraNova",
