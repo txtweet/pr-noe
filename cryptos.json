@@ -55475,7 +55475,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/safex"
   },
   "Safex Token": {
     "name": "Safex Token",
@@ -55483,7 +55484,8 @@
     "url": "/currencies/safex-token",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/safex/"
   },
   "SakeToken": {
     "name": "SakeToken",
@@ -55583,7 +55585,8 @@
       "Scrypt",
       "Marketplace",
       "Staking"
-    ]
+    ],
+    "git": "https://github.com/saluscoin/SaluS"
   },
   "Samurai": {
     "name": "Samurai",
@@ -55702,7 +55705,8 @@
     "url": "/currencies/sapphire",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/sappcoin-com"
   },
   "Sashimi": {
     "name": "Sashimi",
@@ -55836,7 +55840,8 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
@@ -55863,7 +55868,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/savenode/SaveNodeCore/"
   },
   "SaveToken": {
     "name": "SaveToken",
@@ -55893,7 +55899,8 @@
       "Blake2b",
       "Platform",
       "Distributed Computing",
-      "Filesharing"
+      "Filesharing",
+      "NoGitHub"
     ]
   },
   "Scala": {
@@ -55902,8 +55909,15 @@
     "url": "/currencies/scala",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "Mobile",
+      "IPFS",
+      "Payments",
+      "Wallet",
+      "Medium of Exchange",
+      "Privacy"
+    ],
+    "git": "https://github.com/scala-network"
   },
   "Scanetchain": {
     "name": "Scanetchain",
@@ -55952,7 +55966,8 @@
     "short": "SCH",
     "url": "/currencies/schilling-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Scopuly Coin": {
@@ -55983,7 +55998,8 @@
     "url": "/currencies/scorum-coins",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Scorum/Scorum"
   },
   "Scry.info": {
     "name": "Scry.info",
@@ -56017,7 +56033,8 @@
       "03122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/scryptachain"
   },
   "SeChain": {
     "name": "SeChain",
@@ -56099,7 +56116,8 @@
       "Privacy",
       "Smart Contracts",
       "DeFi"
-    ]
+    ],
+    "git": "https://github.com/enigmampc/SecretNetwork"
   },
   "Secrets of Zurich": {
     "name": "Secrets of Zurich",
