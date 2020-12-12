@@ -34368,7 +34368,9 @@
     "short": "IMG",
     "url": "/currencies/imagecoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL",
+      "Dash CoreL"
     ],
     "git": "https://github.com/mceme/ImageCoin/"
   },
@@ -34378,7 +34380,8 @@
     "url": "/currencies/impleum",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/impleum/"
   },
@@ -34426,7 +34429,11 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "IndependentMoneySystemL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -34436,7 +34443,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/independentmoneysystem/IMSCoin"
   },
   "Index Chain": {
     "name": "Index Chain",
@@ -34449,8 +34457,10 @@
       "X16R",
       "POS 3.0",
       "Hybrid - PoW & PoS",
-      "Smart Contracts"
-    ]
+      "Smart Contracts",
+      "BitcoinCoreL"
+    ],
+    "git": "https://github.com/IndexChain/Index"
   },
   "Index Cooperative": {
     "name": "Index Cooperative",
@@ -34517,7 +34527,8 @@
     "short": "RICK",
     "url": "/currencies/infinite-ricks",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Infinitecoin": {
@@ -34528,8 +34539,11 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
-    ]
+      "Scrypt",
+      "BitcoinL",
+      "InfinitecoinL"
+    ],
+    "git": "https://github.com/WilliamXuu/infinitecoin"
   },
   "Infinitus Token": {
     "name": "Infinitus Token",
@@ -34553,8 +34567,10 @@
     "short": "XIN",
     "url": "/currencies/infinity-economics",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/InfinityEconomicsPlatform"
   },
   "Infinity Esaham": {
     "name": "Infinity Esaham",
@@ -34581,7 +34597,10 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "InflationCoinL",
+      "NovaCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -34591,7 +34610,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/inflationcoin/inflationcoin"
   },
   "Injective Protocol": {
     "name": "Injective Protocol",
@@ -34723,11 +34743,16 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "INSaNeL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020"
-    ]
+    ],
+    "git": "https://github.com/CryptoCoderz/INSN"
   },
   "Insight Chain": {
     "name": "Insight Chain",
@@ -34773,7 +34798,8 @@
       "Coin",
       "Marketplace",
       "AI & Big Data",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "NoGitHub"
     ]
   },
   "Insolar": {
@@ -34788,8 +34814,12 @@
       "Smart Contracts",
       "Staking",
       "DApp",
-      "Wallet"
-    ]
+      "Wallet",
+      "Enterprise solutions",
+      "Interoperability",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/insolar"
   },
   "Instantily": {
     "name": "Instantily",
@@ -34939,7 +34969,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01011970"
@@ -35037,7 +35068,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -35047,7 +35079,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Internet-of-People"
   },
   "Internxt": {
     "name": "Internxt",
@@ -35183,9 +35216,10 @@
       "Coin",
       "Platform",
       "IoT",
-      "IoT",
-      "DeFi"
-    ]
+      "DeFi",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/iotexproject/"
   },
   "Iridium": {
     "name": "Iridium",
@@ -35193,8 +35227,10 @@
     "url": "/currencies/iridium",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/iridiumdev/iridium"
   },
   "Isiklar Coin": {
     "name": "Isiklar Coin",
@@ -35248,8 +35284,10 @@
     "url": "/currencies/italo",
     "tags": [
       "Coin",
-      "Mineable"
-    ]
+      "Mineable",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/italocoin-project/italo"
   },
   "Itchiro Games": {
     "name": "Itchiro Games",
@@ -35346,14 +35384,16 @@
       "Coin",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "deaths": [
       "30112020",
       "03122020",
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/ixcore/ixcoin"
   },
   "Ixinium": {
     "name": "Ixinium",
@@ -35389,7 +35429,8 @@
     "short": "JDC",
     "url": "/currencies/jd-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "JET8": {
@@ -35782,7 +35823,8 @@
     "url": "/currencies/jingtum-tech",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "07122020",
@@ -35795,13 +35837,15 @@
     "url": "/currencies/jiviz",
     "tags": [
       "Dead",
-      "Coin"
+      "Coin",
+      "GOEtereumL"
     ],
     "deaths": [
       "30112020",
       "07122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/jiviz/jivizcoin"
   },
   "Jobchain": {
     "name": "Jobchain",
@@ -35860,7 +35904,8 @@
     "url": "/currencies/joule",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -35870,15 +35915,18 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/JouleTeam/Joule"
   },
   "Joys Digital": {
     "name": "Joys Digital",
     "short": "JOYS",
     "url": "/currencies/joys-digital",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/Joys-digital"
   },
   "Jubi Token": {
     "name": "Jubi Token",
@@ -35919,8 +35967,13 @@
     "short": "JMC",
     "url": "/currencies/junsonmingchncoin",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "JunsonMingChanCoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
+    ],
+    "git": "https://github.com/bastilar/junson-ming-chan-coin"
   },
   "Jupiter": {
     "name": "Jupiter",
@@ -35930,11 +35983,11 @@
       "Coin",
       "Platform",
       "Enterprise solutions",
-      "Enterprise solutions",
       "Communications & Social Media",
       "Payments",
       "DeFi",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020",
@@ -35942,7 +35995,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/SigwoTechnologies/jupiter"
   },
   "JustBet": {
     "name": "JustBet",
@@ -36175,8 +36229,10 @@
     "short": "KVNT",
     "url": "/currencies/kvant",
     "tags": [
-      "Coin"
-    ]
+      "Coin",
+      "NoLicenceFile"
+    ],
+    "git": "https://github.com/kvant-development/"
   },
   "KVI": {
     "name": "KVI",
@@ -36246,7 +36302,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -36268,7 +36325,8 @@
       "01122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/KABBERRY"
   },
   "Kadena": {
     "name": "Kadena",
@@ -36276,7 +36334,8 @@
     "url": "/currencies/kadena",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/kadena-io"
   },
   "Kahsh": {
     "name": "Kahsh",
@@ -36285,7 +36344,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -36302,7 +36362,8 @@
     "short": "KAL",
     "url": "/currencies/kaleido",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Kalkulus": {
@@ -36312,7 +36373,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/kalkulusteam/klks"
   },
   "Kambria": {
     "name": "Kambria",
@@ -36443,7 +36505,8 @@
       "PoW",
       "CryptoNight",
       "Marketplace"
-    ]
+    ],
+    "git": "https://github.com/seredat/karbowanec"
   },
   "KardiaChain": {
     "name": "KardiaChain",
@@ -36640,7 +36703,8 @@
       "07122020",
       "08122020",
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/Kekcoin-Core"
   },
   "Kemacoin": {
     "name": "Kemacoin",
@@ -36648,14 +36712,16 @@
     "url": "/currencies/kemacoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/wmcorless/kema"
   },
   "Kepler Network": {
     "name": "Kepler Network",
     "short": "KMW",
     "url": "/currencies/kepler-network",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Keysians Network": {
@@ -36769,7 +36835,8 @@
       "Coin",
       "Media",
       "Content Creation",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoGitHub"
     ]
   },
   "Kind Ads Token": {
