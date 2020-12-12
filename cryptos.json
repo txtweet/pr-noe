@@ -37652,7 +37652,8 @@
     "tags": [
       "Coin",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/usdx-wallet/"
   },
   "LIFE": {
     "name": "LIFE",
@@ -37711,7 +37712,8 @@
     "url": "/currencies/link",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -37936,7 +37938,8 @@
     "url": "/currencies/long-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/longnetwork/LONGNETWORK"
   },
   "LOOPREX": {
     "name": "LOOPREX",
@@ -38083,7 +38086,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/LUX-Core"
   },
   "LYFE": {
     "name": "LYFE",
@@ -38197,7 +38201,8 @@
     ],
     "deaths": [
       "01122020"
-    ]
+    ],
+    "git": "https://github.com/LanaCoin/lanacoin"
   },
   "Lapis Chain": {
     "name": "Lapis Chain",
@@ -38222,7 +38227,8 @@
     "url": "/currencies/largo-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/largocoin/core"
   },
   "Latamcash": {
     "name": "Latamcash",
@@ -38441,7 +38447,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/LetheanMovement"
   },
   "Level Up Coin": {
     "name": "Level Up Coin",
@@ -38670,7 +38677,8 @@
     "url": "/currencies/lifetioncoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/lifetioncoin/"
   },
   "Light Coin Exchange Token": {
     "name": "Light Coin Exchange Token",
@@ -38696,7 +38704,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/lbtcio"
   },
   "Lightstreams": {
     "name": "Lightstreams",
@@ -38704,7 +38713,8 @@
     "url": "/currencies/lightstreams",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/lightstreams-network"
   },
   "LikeCoin": {
     "name": "LikeCoin",
@@ -38768,7 +38778,8 @@
       "07122020",
       "08122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Limitless-VIP"
   },
   "Linear": {
     "name": "Linear",
@@ -38862,7 +38873,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/lianxiangcloud/lk-chain"
   },
   "LiquidApps": {
     "name": "LiquidApps",
@@ -38928,7 +38940,8 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts"
-    ]
+    ],
+    "git": "https://github.com/LiskHQ/"
   },
   "Lisk Machine Learning": {
     "name": "Lisk Machine Learning",
@@ -38991,7 +39004,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/litebitcoins/litebitcoin"
   },
   "LiteCoin Ultra": {
     "name": "LiteCoin Ultra",
@@ -39001,7 +39015,8 @@
       "Coin",
       "Mineable",
       "Marketplace",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -39021,7 +39036,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -39039,7 +39055,8 @@
     "url": "/currencies/litecash",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/teamlite"
   },
   "Litecoin": {
     "name": "Litecoin",
@@ -39050,8 +39067,10 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "Medium of Exchange"
-    ]
+      "Medium of Exchange",
+      "Binance Chain"
+    ],
+    "git": "https://github.com/litecoin-project/litecoin"
   },
   "Litecoin Cash": {
     "name": "Litecoin Cash",
