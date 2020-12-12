@@ -48433,7 +48433,8 @@
       "07122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/PWRcoin/PWRcoin"
   },
   "PYRO Network": {
     "name": "PYRO Network",
@@ -48519,7 +48520,8 @@
     ],
     "deaths": [
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/pakcoin-project/pakcoin/"
   },
   "PalletOne": {
     "name": "PalletOne",
@@ -48582,7 +48584,8 @@
       "Mineable",
       "PoS",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/DigitalPandacoin/pandacoin"
   },
   "Pantos": {
     "name": "Pantos",
@@ -48644,7 +48647,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/p9c/pod"
   },
   "Paris Saint-Germain Fan Token": {
     "name": "Paris Saint-Germain Fan Token",
@@ -48674,7 +48678,8 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -48731,7 +48736,8 @@
     "url": "/currencies/particl",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/particl"
   },
   "Pascal": {
     "name": "Pascal",
@@ -48740,7 +48746,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/PascalCoin/PascalCoin"
   },
   "Patientory": {
     "name": "Patientory",
@@ -48841,7 +48848,8 @@
       "Mineable",
       "PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -48906,7 +48914,8 @@
     "url": "/currencies/payprotocol",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/payprotocol"
   },
   "PayUSD": {
     "name": "PayUSD",
@@ -49124,7 +49133,8 @@
       "03122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/PXN-Foundation/Peepcoin/"
   },
   "PeerEx": {
     "name": "PeerEx",
@@ -49159,7 +49169,8 @@
       "SHA-256",
       "Medium of Exchange",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/peercoin"
   },
   "Peerguess": {
     "name": "Peerguess",
@@ -49190,7 +49201,8 @@
     "url": "/currencies/peerplays-ppy",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/peerplays-network"
   },
   "Peet DeFi": {
     "name": "Peet DeFi",
@@ -49222,7 +49234,8 @@
     "url": "/currencies/pegnet",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/pegnet"
   },
   "PengolinCoin": {
     "name": "PengolinCoin",
@@ -49230,7 +49243,8 @@
     "url": "/currencies/pengolincoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/pengolincoin"
   },
   "Penta": {
     "name": "Penta",
