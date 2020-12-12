@@ -27,9 +27,11 @@ request
   method: 'GET'
 .then (body) ->
   lines = body.split('\n')
+  found = false
   lines.forEach (line) ->
     # console.warn "--#{line}--"
     if line.trim().startsWith('Copyright')
+      found = true
       licence = line
       .trim()
       .replace(/.*\d{4} /, '')
@@ -46,7 +48,8 @@ request
           crypto.tags.push(licenceName[licence])
         else
           console.warn "License indiquée #{licenceName[licence]} dans #{crypto.name}"
-
+  unless found
+    crypto.tags.push("NoLicenceFile")
 .catch (err) ->
   console.error "Fichier Licence non trouvée #{crypto.name} #{err}"
   crypto.tags.push("NoLicenceFile")
