@@ -36319,7 +36319,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01122020",
@@ -39094,7 +39095,8 @@
       "forked_from": [
         "Litecoin"
       ]
-    }
+    },
+    "git": "https://github.com/litecoincash-project/"
   },
   "Litecoin Plus": {
     "name": "Litecoin Plus",
@@ -39105,7 +39107,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/Crypto-Currency/litecoinplus"
   },
   "Litecoin SV": {
     "name": "Litecoin SV",
@@ -39130,7 +39133,8 @@
     "url": "/currencies/litecoinpos",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -39186,7 +39190,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/litecred/litecred"
   },
   "Litex": {
     "name": "Litex",
@@ -39322,7 +39327,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/avymantech/lobstex"
   },
   "LocalCoinSwap": {
     "name": "LocalCoinSwap",
@@ -39393,9 +39399,9 @@
       "DeFi",
       "Privacy",
       "Masternodes",
-      "Mineable",
-      "Technology"
-    ]
+      "PoS"
+    ],
+    "git": "https://github.com/loki-project/loki"
   },
   "London Football Exchange": {
     "name": "London Football Exchange",
@@ -39699,7 +39705,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020"
@@ -39729,7 +39736,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Lunes-platform"
   },
   "Lung Protocol": {
     "name": "Lung Protocol",
@@ -39794,7 +39802,8 @@
       "Marketplace",
       "Centralized exchange",
       "Payments"
-    ]
+    ],
+    "git": "https://github.com/LykkeCity/"
   },
   "Lympo": {
     "name": "Lympo",
@@ -39821,7 +39830,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/doh9Xiet7weesh9va9th/lynx"
   },
   "Lyra": {
     "name": "Lyra",
@@ -39829,7 +39839,8 @@
     "url": "/currencies/lyra",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/LYRA-Block-Lattice"
   },
   "MACH Project": {
     "name": "MACH Project",
@@ -39997,7 +40008,8 @@
       "Coin",
       "Marketplace",
       "E-commerce",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -40050,7 +40062,8 @@
     "url": "/currencies/mdu",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/mdukey"
   },
   "MDsquare": {
     "name": "MDsquare",
@@ -40134,7 +40147,8 @@
     "url": "/currencies/merci",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/merciproject/merci"
   },
   "MESEFA": {
     "name": "MESEFA",
@@ -40223,7 +40237,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/MFrcoin"
   },
   "MGC Token": {
     "name": "MGC Token",
@@ -40247,7 +40262,8 @@
     "short": "MIB",
     "url": "/currencies/mib-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "MIKS COIN": {
@@ -40311,7 +40327,8 @@
     "url": "/currencies/mir-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "MM Token": {
@@ -40343,7 +40360,8 @@
       "Gaming",
       "Staking",
       "Hybrid - PoW & PoS"
-    ]
+    ],
+    "git": "https://github.com/MMO-Coin/mmocoin"
   },
   "MNPCoin": {
     "name": "MNPCoin",
@@ -40352,7 +40370,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/MasterNodesPro/MNPCoin"
   },
   "MOAC": {
     "name": "MOAC",
@@ -40367,7 +40386,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/MOACChain/moac-core"
   },
   "MODEL-X-coin": {
     "name": "MODEL-X-coin",
@@ -40446,7 +40466,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/morelo-network/morelo"
   },
   "MOST Protocol": {
     "name": "MOST Protocol",
@@ -40492,7 +40513,8 @@
     "url": "/currencies/msd",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -40620,7 +40642,8 @@
     "url": "/currencies/myce",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/myceworld/myce/"
   },
   "MYX Network": {
     "name": "MYX Network",
@@ -40739,7 +40762,8 @@
     "short": "MCC",
     "url": "/currencies/magic-cube-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Magic Liquidity Rainbow": {
@@ -40918,7 +40942,8 @@
     "url": "/currencies/malwarechain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/MalwareChain"
   },
   "Mandi Token": {
     "name": "Mandi Token",
@@ -40955,7 +40980,8 @@
     "url": "/currencies/manna",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "03122020"
@@ -41014,7 +41040,8 @@
     "short": "MKCY",
     "url": "/currencies/markaccy",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "MarketPeak": {
@@ -41046,7 +41073,8 @@
       "Coin",
       "Media",
       "Content Creation"
-    ]
+    ],
+    "git": "https://github.com/TTCECO/gttc"
   },
   "Mars Network": {
     "name": "Mars Network",
@@ -41101,7 +41129,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X13"
-    ]
+    ],
+    "git": "https://github.com/martexcoin/martexcoin"
   },
   "Martkist": {
     "name": "Martkist",
@@ -41110,7 +41139,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/martkist/martkist"
   },
   "Masari": {
     "name": "Masari",
@@ -41119,14 +41149,16 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/masari-project/masari"
   },
   "Massnet": {
     "name": "Massnet",
     "short": "MASS",
     "url": "/currencies/massnet",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Master Coin Point": {
@@ -41237,7 +41269,8 @@
       "Mineable",
       "Platform",
       "AI & Big Data"
-    ]
+    ],
+    "git": "https://github.com/MatrixAINetwork"
   },
   "Matryx": {
     "name": "Matryx",
@@ -41281,7 +41314,8 @@
     "url": "/currencies/mavro",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoGitHub"
     ]
   },
   "Max Property Group": {
@@ -41314,7 +41348,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/Max-Coin"
   },
   "Maximine Coin": {
     "name": "Maximine Coin",
@@ -41361,7 +41396,8 @@
     "short": "MAZ",
     "url": "/currencies/mazzuma",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "McNetworkDefi": {
@@ -41405,7 +41441,8 @@
     "url": "/currencies/mchain",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/MchainNetwork/mchain"
   },
   "Measurable Data Token": {
     "name": "Measurable Data Token",
@@ -41498,7 +41535,8 @@
     "tags": [
       "Coin",
       "Health"
-    ]
+    ],
+    "git": "https://github.com/Medibloc"
   },
   "MediShares": {
     "name": "MediShares",
@@ -41526,7 +41564,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Scrypt"
+      "Scrypt",
+      "NoGitHub"
     ]
   },
   "Medicalchain": {
@@ -41630,7 +41669,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/LIMXTEC/Megacoin"
   },
   "Melecoin": {
     "name": "Melecoin",
@@ -41719,7 +41759,8 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X11"
-    ]
+    ],
+    "git": "https://github.com/pepeteam/pepecoin"
   },
   "MenaPay": {
     "name": "MenaPay",
@@ -41834,7 +41875,8 @@
     ],
     "deaths": [
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/ElCrebel/Merebel"
   },
   "Meridian Network": {
     "name": "Meridian Network",
@@ -41916,7 +41958,8 @@
     "short": "MTC",
     "url": "/currencies/metacoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "Metadium": {
@@ -41927,7 +41970,8 @@
       "Coin",
       "Platform",
       "Identity"
-    ]
+    ],
+    "git": "https://github.com/metadium"
   },
   "Metal": {
     "name": "Metal",
@@ -41980,7 +42024,8 @@
     "url": "/currencies/metaverse-dualchain-network-architecture",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/mvs-org"
   },
   "Metaverse ETP": {
     "name": "Metaverse ETP",
@@ -41990,7 +42035,8 @@
       "Coin",
       "Mineable",
       "Asset management",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoGitHub"
     ]
   },
   "Meter Governance": {
@@ -42001,7 +42047,8 @@
       "Coin",
       "DeFi",
       "Interoperability"
-    ]
+    ],
+    "git": "https://github.com/meterio"
   },
   "Meter Governance mapped by Meter.io": {
     "name": "Meter Governance mapped by Meter.io",
@@ -42031,7 +42078,8 @@
       "SHA-256",
       "Interoperability",
       "Stablecoin"
-    ]
+    ],
+    "git": "https://github.com/meterio"
   },
   "Metis": {
     "name": "Metis",
@@ -42075,7 +42123,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/TheLindaProjectInc"
   },
   "Metronome": {
     "name": "Metronome",
@@ -42138,7 +42187,8 @@
         "Bitcoin"
       ],
       "date": "2018-05-28"
-    }
+    },
+    "git": "https://github.com/MicroBitcoinOrg"
   },
   "MicroMoney": {
     "name": "MicroMoney",
@@ -42192,7 +42242,8 @@
     "short": "MIDAS",
     "url": "/currencies/midas",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "MidasProtocol": {
@@ -42265,7 +42316,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/MiloCoin/MiloCoin/tree/master/MiloCoin-source"
   },
   "MimbleWimbleCoin": {
     "name": "MimbleWimbleCoin",
@@ -42273,7 +42325,8 @@
     "url": "/currencies/mimblewimblecoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/mwcproject"
   },
   "MineBee": {
     "name": "MineBee",
@@ -42391,7 +42444,8 @@
     ],
     "deaths": [
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/MintcoinCommunity/"
   },
   "MintMe.com Coin": {
     "name": "MintMe.com Coin",
@@ -42404,7 +42458,8 @@
     ],
     "deaths": [
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/mintme-com"
   },
   "Minter Network": {
     "name": "Minter Network",
@@ -42412,7 +42467,8 @@
     "url": "/currencies/minter-network",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/MinterTeam"
   },
   "Mirai": {
     "name": "Mirai",
@@ -42421,7 +42477,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/bumbacoin/Mirai-Master/"
   },
   "Mirror Protocol": {
     "name": "Mirror Protocol",
@@ -42542,7 +42599,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/Mktcoin-official/Mktcoin"
   },
   "MoCo Token": {
     "name": "MoCo Token",
@@ -42572,7 +42630,8 @@
     ],
     "deaths": [
       "09122020"
-    ]
+    ],
+    "git": "https://github.com/mox-project/MoX"
   },
   "MobiePay": {
     "name": "MobiePay",
@@ -42588,7 +42647,8 @@
     "url": "/currencies/mobile-crypto-pay-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/MobilePayCoin/MobilePayCoin"
   },
   "MobileCoin": {
     "name": "MobileCoin",
@@ -42597,7 +42657,8 @@
     "tags": [
       "Coin"
     ],
-    "sawBirth": "08122020"
+    "sawBirth": "08122020",
+    "git": "https://github.com/mobilecoinfoundation/mobilecoin"
   },
   "MobileGo": {
     "name": "MobileGo",
@@ -42683,7 +42744,8 @@
     "url": "/currencies/mochimo",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/mochimodev/mochimo"
   },
   "Modern Investment Coin": {
     "name": "Modern Investment Coin",
@@ -42691,7 +42753,8 @@
     "url": "/currencies/modern-investment-coin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/ModernInvestmentCoin"
   },
   "Moderna tokenized stock FTX": {
     "name": "Moderna tokenized stock FTX",
@@ -42780,7 +42843,8 @@
     "tags": [
       "Coin",
       "Hybrid - PoW & PoS",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020"
@@ -42802,7 +42866,8 @@
       "07122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/MOJOv3/mojocoin"
   },
   "Molecular Future": {
     "name": "Molecular Future",
@@ -42855,7 +42920,8 @@
       "Scrypt",
       "Medium of Exchange",
       "Memes"
-    ]
+    ],
+    "git": "https://github.com/monacoinproject/monacoin"
   },
   "Monarch": {
     "name": "Monarch",
@@ -42912,7 +42978,8 @@
       "PoW",
       "Medium of Exchange",
       "RingCT"
-    ]
+    ],
+    "git": "https://github.com/monero-project/monero"
   },
   "Monero Classic": {
     "name": "Monero Classic",
@@ -42931,7 +42998,8 @@
       "forked_from": [
         "Monero"
       ]
-    }
+    },
+    "git": "https://github.com/monero-classic"
   },
   "MoneroV ": {
     "name": "MoneroV ",
@@ -42950,7 +43018,8 @@
       "forked_from": [
         "Monero"
       ]
-    }
+    },
+    "git": "https://github.com/xmvdev/"
   },
   "MonetaryUnit": {
     "name": "MonetaryUnit",
@@ -42960,8 +43029,10 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Quark"
-    ]
+      "Quark",
+      "SHA-256"
+    ],
+    "git": "https://github.com/MUEcoin/"
   },
   "Monetha": {
     "name": "Monetha",
@@ -43049,9 +43120,13 @@
     "short": "MTTCOIN",
     "url": "/currencies/money-of-tomorrow-today",
     "tags": [
-      "Coin"
+      "Coin",
+      "Scrypt",
+      "DeFi",
+      "PoW"
     ],
-    "sawBirth": "07122020"
+    "sawBirth": "07122020",
+    "git": "https://github.com/mttcoin/MTTcoin-core"
   },
   "Moneynet": {
     "name": "Moneynet",
@@ -43112,7 +43187,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/MONKEYPROJECT/MonkeyV2"
   },
   "Monolith": {
     "name": "Monolith",
