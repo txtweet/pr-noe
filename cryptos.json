@@ -58,7 +58,10 @@
     "short": "ZOC",
     "url": "/currencies/01coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Bitcoin CoreL",
+      "Dash CoreL",
+      "ZeroOne CoreL"
     ],
     "git": "https://github.com/zocteam/zeroonecoin"
   },
@@ -28658,7 +28661,8 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "BitcoinL"
     ],
     "deaths": [
       "03122020",
@@ -28689,7 +28693,12 @@
     "short": "FDR",
     "url": "/currencies/french-digital-reserve",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "XDNA CoreL",
+      "FDR CoreL"
     ],
     "git": "https://github.com/fdreserve/fdr-blockchain/"
   },
@@ -28815,7 +28824,9 @@
       "Mineable",
       "PoW",
       "Scrypt-n",
-      "Dead"
+      "Dead",
+      "Fujicoin CoreL",
+      "FujicoinL"
     ],
     "deaths": [
       "11122020"
@@ -28928,7 +28939,8 @@
       "Coin",
       "Platform",
       "DeFi",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/FUSIONFoundation"
   },
@@ -30116,7 +30128,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/globalcurrencyreserve/gcr"
   },
   "Global Digital Content": {
     "name": "Global Digital Content",
@@ -30278,7 +30291,8 @@
       "Mineable",
       "PoW",
       "Yescript"
-    ]
+    ],
+    "git": "https://github.com/GlobalBoost/GlobalBoost-Y"
   },
   "GlobalToken": {
     "name": "GlobalToken",
@@ -30287,7 +30301,8 @@
     "tags": [
       "Coin",
       "Mineable"
-    ]
+    ],
+    "git": "https://github.com/globaltoken/globaltoken"
   },
   "Globalvillage Ecosystem": {
     "name": "Globalvillage Ecosystem",
@@ -30337,15 +30352,18 @@
       "NeoScrypt",
       "Privacy",
       "Mixer & Coinjoin",
-      "Masternodes"
-    ]
+      "Masternodes",
+      "DAO"
+    ],
+    "git": "https://github.com/gobytecoin/gobyte/"
   },
   "GoChain": {
     "name": "GoChain",
     "short": "GO",
     "url": "/currencies/gochain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoGitHub"
     ]
   },
   "GoCrypto Token": {
@@ -30366,7 +30384,8 @@
     "url": "/currencies/gohelpfund",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/GoHelpFund"
   },
   "GoNetwork": {
     "name": "GoNetwork",
@@ -30513,7 +30532,8 @@
     "url": "/currencies/gold-poker",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/GoldPoker/GoldPoker-coin"
   },
   "GoldBlocks": {
     "name": "GoldBlocks",
@@ -30534,7 +30554,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/goldblockscoin/goldblocks"
   },
   "GoldFinX": {
     "name": "GoldFinX",
@@ -30581,7 +30602,8 @@
     "url": "/currencies/goldmint",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/Goldmint"
   },
   "Goldblock": {
     "name": "Goldblock",
@@ -30609,7 +30631,8 @@
       "Mineable",
       "PoW",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/goldcoin/"
   },
   "Golden Ratio Coin": {
     "name": "Golden Ratio Coin",
@@ -30757,7 +30780,8 @@
     ],
     "deaths": [
       "08122020"
-    ]
+    ],
+    "git": "https://github.com/golos-blockchain"
   },
   "Gomics": {
     "name": "Gomics",
@@ -30809,7 +30833,8 @@
     ],
     "deaths": [
       "07122020"
-    ]
+    ],
+    "git": "https://github.com/g0ssipcoin/GossipCoinCore"
   },
   "Governor DAO": {
     "name": "Governor DAO",
@@ -30873,7 +30898,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/graft-project"
   },
   "Grain": {
     "name": "Grain",
@@ -30923,7 +30949,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "30112020",
@@ -30946,7 +30973,8 @@
       "08122020",
       "09122020",
       "11122020"
-    ]
+    ],
+    "git": "https://github.com/GZR0/GRZ0"
   },
   "GravityCoin": {
     "name": "GravityCoin",
@@ -30957,7 +30985,8 @@
       "Mineable",
       "PoW",
       "Lyra2RE"
-    ]
+    ],
+    "git": "https://github.com/SpecialCoins/GravityCoin/"
   },
   "GreenPower": {
     "name": "GreenPower",
@@ -30965,7 +30994,8 @@
     "url": "/currencies/greenpower",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/green-powerchain-ltd"
   },
   "Gric Coin": {
     "name": "Gric Coin",
@@ -31011,7 +31041,8 @@
       "Mineable",
       "DPoR",
       "Scrypt"
-    ]
+    ],
+    "git": "https://github.com/gridcoin/Gridcoin-Research"
   },
   "Grimm": {
     "name": "Grimm",
@@ -31019,7 +31050,8 @@
     "url": "/currencies/grimm",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/freenetcoder/grimm"
   },
   "Grin": {
     "name": "Grin",
@@ -31030,7 +31062,8 @@
       "Mineable",
       "Medium of Exchange",
       "Privacy"
-    ]
+    ],
+    "git": "https://github.com/mimblewimble"
   },
   "Groestlcoin": {
     "name": "Groestlcoin",
@@ -31042,7 +31075,8 @@
       "PoW",
       "Groestl",
       "Medium of Exchange"
-    ]
+    ],
+    "git": "https://github.com/Groestlcoin"
   },
   "Groovy Finance": {
     "name": "Groovy Finance",
@@ -31085,7 +31119,8 @@
     "url": "/currencies/gstcoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/gstchain/gst"
   },
   "Guapcoin": {
     "name": "Guapcoin",
@@ -31093,7 +31128,8 @@
     "url": "/currencies/guapcoin",
     "tags": [
       "Coin"
-    ]
+    ],
+    "git": "https://github.com/guapcrypto/Guapcoin"
   },
   "Guaranteed Ethurance Token Extra": {
     "name": "Guaranteed Ethurance Token Extra",
@@ -31130,7 +31166,8 @@
       "Coin",
       "PoW",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "NoGitHub"
     ],
     "deaths": [
       "01122020",
