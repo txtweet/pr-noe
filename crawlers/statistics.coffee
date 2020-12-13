@@ -10,7 +10,9 @@ cryptos = require '../cryptos.json'
 all = 0
 token = 0
 coin = 0
-euthereum = 0
+ethereum = 0
+binance = 0
+
 result = []
 
 allDead = 0
@@ -22,7 +24,9 @@ _.forEach cryptos, (crypt) ->
     if "Token" in crypt.tags
       token++
       if "Ethereum" in crypt.tags
-        euthereum++
+        ethereum++
+      else if "Binance" in crypt.tags
+        binance++
       else
         result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
@@ -38,7 +42,7 @@ _.forEach cryptos, (crypt) ->
       dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "--------- News"
-console.log "#{all} nouvelles, dont : #{token} token (dont #{euthereum} Ethereum)"
+console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum, #{binance} Binance)"
 console.log "#{result.length} à observer"
 console.log "#{JSON.stringify result.sort(), null, 2}"
 console.log "--------- "

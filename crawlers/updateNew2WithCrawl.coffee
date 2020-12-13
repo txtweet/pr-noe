@@ -33,6 +33,7 @@ request
     if $(@).text() is 'Source Code'
       href = $('a', @).attr('href')
       if href.startsWith("https://github.com")
+        console.warn "Ajout github"
         crypto.git = href
 
   if 'Token' in crypto.tags
@@ -52,11 +53,17 @@ request
       block: bloc
       forked_from: forked_from
 
-    if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    if "Ethereum" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+      crypto.tags.push("Ethereum")
+      console.warn("Token pour #{crypto.name}")
+    else if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
       crypto.tags.push("Ethereum")
       console.warn("Token pour #{crypto.name}")
     else if "TRON Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
       crypto.tags.push("Tron")
+      console.warn("Token pour #{crypto.name}")
+    else if "Binance Coin Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+      crypto.tags.push("Binance")
       console.warn("Token pour #{crypto.name}")
     else
       if _.isEmpty crypto.forked_data.forked_from

@@ -1565,13 +1565,23 @@
     "short": "ACXT",
     "url": "/currencies/ac-exchange-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x7be0...c53da0d"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "AC3": {
     "name": "AC3",
@@ -7085,9 +7095,20 @@
     "short": "BUILD",
     "url": "/currencies/build-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "13122020"
+    "sawBirth": "13122020",
+    "git": "https://github.com/build-finance",
+    "forked_data": {
+      "block": [
+        "0x6e36...b208739"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "BUMO": {
     "name": "BUMO",
@@ -12643,9 +12664,19 @@
     "short": "BFR",
     "url": "/currencies/bridge-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "13122020"
+    "sawBirth": "13122020",
+    "forked_data": {
+      "block": [
+        "0x244c...b44ab2c"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Bridge Oracle": {
     "name": "Bridge Oracle",
@@ -40694,9 +40725,20 @@
     "short": "MCH",
     "url": "/currencies/meme-cash",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "13122020"
+    "sawBirth": "13122020",
+    "git": "https://github.com/MemeCash",
+    "forked_data": {
+      "block": [
+        "0xA4e7...8F16AEa"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "MERCI": {
     "name": "MERCI",
@@ -67430,60 +67472,102 @@
     "short": "vBNB",
     "url": "/currencies/venus-bnb",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xA07c...6BBea36"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus BTC": {
     "name": "Venus BTC",
     "short": "vBTC",
     "url": "/currencies/venus-btc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x882C...Ee7847B"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus BUSD": {
     "name": "Venus BUSD",
     "short": "vBUSD",
     "url": "/currencies/venus-busd",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x95c7...A67Ab9D"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus ETH": {
     "name": "Venus ETH",
     "short": "vETH",
     "url": "/currencies/venus-eth",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xf508...A3592c8"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus LTC": {
     "name": "Venus LTC",
     "short": "vLTC",
     "url": "/currencies/venus-ltc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -67495,21 +67579,33 @@
     "short": "vSXP",
     "url": "/currencies/vsxp",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x2ff3...82eb6d0"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus USDC": {
     "name": "Venus USDC",
     "short": "vUSDC",
     "url": "/currencies/venus-usdc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -67521,39 +67617,69 @@
     "short": "vUSDT",
     "url": "/currencies/venus-usdt",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xfD58...5BC0255"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus XRP": {
     "name": "Venus XRP",
     "short": "vXRP",
     "url": "/currencies/venus-xrp",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0xb248...e3b9c10"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus XVS": {
     "name": "Venus XVS",
     "short": "vXVS",
     "url": "/currencies/venus-xvs",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "13122020",
     "deaths": [
       "13122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x151B...4FE3E1D"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "VeraOne": {
     "name": "VeraOne",
@@ -72621,9 +72747,20 @@
     "short": "Z502",
     "url": "/currencies/z502-bad-gateway-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "13122020"
+    "sawBirth": "13122020",
+    "git": "https://github.com/Z502/",
+    "forked_data": {
+      "block": [
+        "0x2cd9...bba446a"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "ZAC Finance": {
     "name": "ZAC Finance",
