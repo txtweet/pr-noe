@@ -61962,7 +61962,8 @@
     "short": "TGIC",
     "url": "/currencies/the-global-index-chain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/tgichain"
   },
@@ -62008,7 +62009,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -62029,7 +62031,8 @@
       "Coin",
       "Media",
       "Content Creation",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/thetatoken"
   },
@@ -62245,7 +62248,8 @@
     "url": "/currencies/thunder-token",
     "tags": [
       "Coin",
-      "Platform"
+      "Platform",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/thundercore"
   },
@@ -62254,7 +62258,8 @@
     "short": "TV",
     "url": "/currencies/ti-value",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/tivalueproject"
   },
@@ -62450,7 +62455,11 @@
     "url": "/currencies/titan-coin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "Raven CoreL",
+      "Rito CoreL",
+      "Titancoin CoreL"
     ],
     "git": "https://github.com/titancoinproject/Titan"
   },
@@ -62547,7 +62556,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "TOAL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -62693,7 +62706,8 @@
     "short": "TPAY",
     "url": "/currencies/tokenpay",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/tokenpay"
   },
@@ -62857,7 +62871,8 @@
       "Mineable",
       "Platform",
       "DeFi",
-      "Decentralized exchange"
+      "Decentralized exchange",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/tomochain/"
   },
@@ -63110,7 +63125,10 @@
     "url": "/currencies/tradeplus",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "TradePlus_CoinL"
     ],
     "deaths": [
       "30112020",
@@ -63163,7 +63181,11 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "X11",
-      "Dead"
+      "Dead",
+      "TransferL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020"
@@ -63351,7 +63373,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "TrexcoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "03122020",
@@ -63467,7 +63491,11 @@
     "short": "TRTT",
     "url": "/currencies/trittium",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "TrittiumL"
     ],
     "git": "https://github.com/Trittium/trittium"
   },
@@ -63496,7 +63524,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/TrollCoin2/"
   },
@@ -63508,7 +63537,8 @@
       "Coin",
       "Media",
       "Payments",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01011970"
@@ -63566,7 +63596,8 @@
     "tags": [
       "Coin",
       "Platform",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/truechain"
   },
@@ -63870,7 +63901,8 @@
     "url": "/currencies/turtlecoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/turtlecoin/turtlecoin"
   },
@@ -63879,7 +63911,8 @@
     "short": "TN",
     "url": "/currencies/turtlenetwork",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/BlackTurtle123/TurtleNetwork"
   },
@@ -64061,7 +64094,8 @@
     "short": "UCA",
     "url": "/currencies/uca-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ucacoin"
   },
@@ -64553,7 +64587,9 @@
       "PoW",
       "Ethash",
       "Platform",
-      "DApp"
+      "DApp",
+      "go-ubiq Authors.L",
+      "Copyright (C) <year>  <name of author>L"
     ],
     "git": "https://github.com/ubiq/go-ubiq"
   },
@@ -64614,7 +64650,9 @@
     "url": "/currencies/ulord",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL",
+      "Dash CoreL"
     ],
     "deaths": [
       "30112020",
@@ -64654,7 +64692,12 @@
       "Mineable",
       "PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "ShadowCoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020"
@@ -64709,7 +64752,8 @@
     "url": "/currencies/ultra-clear",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "11122020"
@@ -64744,7 +64788,8 @@
       "Coin",
       "Mineable",
       "Quark",
-      "Masternodes"
+      "Masternodes",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ultranatum/ultragate/releases"
   },
@@ -64946,7 +64991,8 @@
     "short": "UNW",
     "url": "/currencies/uniworld",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/uniworld-io/"
   },
@@ -65083,7 +65129,9 @@
       "Coin",
       "Mineable",
       "PoW",
-      "NeoScrypt"
+      "NeoScrypt",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/fiscalobject/ufo"
   },
@@ -65092,7 +65140,9 @@
     "short": "UNIFY",
     "url": "/currencies/unify",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "UnifyL"
     ],
     "git": "https://github.com/zastil/unify-source"
   },
@@ -65285,7 +65335,8 @@
       "Coin",
       "Mineable",
       "forked_bitcoin",
-      "Bitcoin"
+      "Bitcoin",
+      "NoLicenceFile"
     ],
     "forked_data": {
       "block": [
@@ -65420,7 +65471,8 @@
       "Coin",
       "Mineable",
       "Hybrid - PoW & PoS",
-      "SHA-256"
+      "SHA-256",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/unitcurrency/unitcurrency/"
   },
@@ -65490,7 +65542,8 @@
     "tags": [
       "Coin",
       "PoS",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/universe-project"
   },
@@ -65499,7 +65552,8 @@
     "short": "UFO",
     "url": "/currencies/unknown-fair-object",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ufo-project"
   },
@@ -65548,7 +65602,8 @@
       "PoW",
       "SHA-256",
       "Medium of Exchange",
-      "Payments"
+      "Payments",
+      "BitcoinL"
     ],
     "git": "https://github.com/unobtanium-official/Unobtanium"
   },
@@ -65760,7 +65815,8 @@
     "short": "OOT",
     "url": "/currencies/utrum",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/utrum"
   },
@@ -65789,7 +65845,9 @@
     "short": "VOLLAR",
     "url": "/currencies/v-dimension",
     "tags": [
-      "Coin"
+      "Coin",
+      "VdsL",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/v-dimension/vds-core"
   },
@@ -65995,7 +66053,8 @@
     "short": "VIN",
     "url": "/currencies/vinchain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/VinChain/VINchain-blockchain"
   },
@@ -66007,7 +66066,8 @@
       "Coin",
       "Platform",
       "Enterprise solutions",
-      "Scaling"
+      "Scaling",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/vitelabs"
   },
@@ -66129,7 +66189,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -66297,7 +66358,8 @@
     "url": "/currencies/valuto",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/valuto/valuto"
   },
@@ -66412,7 +66474,11 @@
       "Mineable",
       "PoW",
       "Dagger-Hashimoto",
-      "Dead"
+      "Dead",
+      "VectorL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -66504,7 +66570,15 @@
     "short": "VLS",
     "url": "/currencies/veles",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Dash CoreL",
+      "TalkcoinL",
+      "ZcoinL",
+      "PIVXL",
+      "FxTC CoreL",
+      "Veles CoreL"
     ],
     "git": "https://github.com/velescore/veles"
   },
@@ -66528,7 +66602,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -66581,7 +66656,8 @@
     "short": "VRA",
     "url": "/currencies/verasity",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/verasitytech"
   },
@@ -66595,7 +66671,8 @@
       "Multiple",
       "Medium of Exchange",
       "Privacy",
-      "Multiple algorithms"
+      "Multiple algorithms",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/vergecurrency"
   },
@@ -66605,7 +66682,8 @@
     "url": "/currencies/veriblock",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/VeriBlock/nodecore-releases"
   },
@@ -66617,7 +66695,12 @@
       "Coin",
       "Mineable",
       "PoST",
-      "Scrypt"
+      "Scrypt",
+      "VeriCoinL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/vericoin/vericoin"
   },
@@ -66717,7 +66800,8 @@
       "Coin",
       "Mineable",
       "PoWT",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020"
@@ -66747,7 +66831,10 @@
     "url": "/currencies/versess-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "VersessL"
     ],
     "deaths": [
       "03122020",
@@ -66787,7 +66874,9 @@
       "Lyra2RE",
       "Medium of Exchange",
       "Privacy",
-      "Payments"
+      "Payments",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/vertcoin/vertcoin"
   },
@@ -66796,7 +66885,12 @@
     "short": "VRSC",
     "url": "/currencies/veruscoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "ZcashL",
+      "KomodoL",
+      "VerusCoinL"
     ],
     "git": "https://github.com/veruscoin/veruscoin"
   },
@@ -66889,7 +66983,8 @@
     "short": "VEX",
     "url": "/currencies/vexanium",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/vexanium"
   },
@@ -66901,7 +66996,10 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "Viacoin CoreL"
     ],
     "git": "https://github.com/viacoin/viacoin"
   },
@@ -66966,7 +67064,10 @@
     "short": "VDL",
     "url": "/currencies/vidulum",
     "tags": [
-      "Coin"
+      "Coin",
+      "ZcashL",
+      "BitcoinCoreL",
+      "SnowGemL"
     ],
     "git": "https://github.com/vidulum/vidulum/"
   },
@@ -67040,7 +67141,11 @@
     "short": "VD",
     "url": "/currencies/vindax-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "VDL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/vindaxcom/vindax-chain"
   },
@@ -67066,7 +67171,9 @@
     "short": "VIPS",
     "url": "/currencies/vipstar-coin",
     "tags": [
-      "Coin"
+      "Coin",
+      "Free Software Foundation, Inc. <http://fsf.org/>L",
+      "Copyright (C) {year}  {name of author}L"
     ],
     "git": "https://github.com/VIPSTARCOIN/VIPSTARCOIN"
   },
@@ -67125,7 +67232,11 @@
       "Mineable",
       "PoS",
       "Medium of Exchange",
-      "Masternodes"
+      "Masternodes",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "VITAEL"
     ],
     "git": "https://github.com/VitaeTeam/Vitae"
   },
@@ -67148,7 +67259,9 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "VITEScoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -67166,7 +67279,11 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "VividL"
     ],
     "deaths": [
       "30112020",
@@ -67316,7 +67433,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "deaths": [
       "07122020",
@@ -67455,7 +67575,8 @@
       "Coin",
       "Media",
       "Collectibles & NFTs",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/worldwide-asset-exchange/"
   },
@@ -67573,7 +67694,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "01011970"
@@ -67739,7 +67861,8 @@
     "url": "/currencies/wagerr",
     "tags": [
       "Coin",
-      "Gambling"
+      "Gambling",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/wagerr"
   },
@@ -67900,7 +68023,8 @@
       "Marketplace",
       "Enterprise solutions",
       "DeFi",
-      "Interoperability"
+      "Interoperability",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/wanchain"
   },
@@ -67976,7 +68100,8 @@
       "Coin",
       "LPoS",
       "Platform",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/wavesplatform/"
   },
@@ -68090,7 +68215,8 @@
       "Germany",
       "DeFi",
       "Enterprise solutions",
-      "Centralized exchange"
+      "Centralized exchange",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/OwnMarket"
   },
@@ -68175,7 +68301,8 @@
     "short": "WEC",
     "url": "/currencies/web-coin-pay",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/WebCoinPay"
   },
@@ -68185,7 +68312,8 @@
     "url": "/currencies/webdollar",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/WebDollar/Node-WebDollar"
   },
@@ -68374,7 +68502,8 @@
     "short": "WCC",
     "url": "/currencies/wincash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/wincash"
   },
@@ -68557,7 +68686,8 @@
     "short": "WDC",
     "url": "/currencies/wisdom-chain",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/WisedomChainGroup"
   },
@@ -68743,7 +68873,8 @@
     "short": "WOW",
     "url": "/currencies/wownero",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/wownero/wownero"
   },
@@ -68988,7 +69119,8 @@
     "url": "/currencies/x-cash",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/X-CASH-official"
   },
@@ -69000,7 +69132,16 @@
       "Coin",
       "Hybrid - PoW & PoS",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "XcoinL",
+      "DarkcoinL",
+      "10kcoinL",
+      "BitbeanL",
+      "BitcoinDarkL",
+      "BlackcoinL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -69019,7 +69160,8 @@
     "url": "/currencies/x12-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -69090,7 +69232,11 @@
     "url": "/currencies/xdna",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "XDNA CoreL"
     ],
     "git": "https://github.com/XDNA-Core/XDNA"
   },
@@ -69100,7 +69246,8 @@
     "url": "/currencies/xel",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -69145,7 +69292,11 @@
     "url": "/currencies/xgox",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "xgoxL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "git": "https://github.com/bumbacoin/xgox"
   },
@@ -69283,7 +69434,8 @@
       "Coin",
       "Medium of Exchange",
       "Enterprise solutions",
-      "Binance Chain"
+      "Binance Chain",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ripple"
   },
@@ -69357,7 +69509,8 @@
     "url": "/currencies/xtrabytes",
     "tags": [
       "Coin",
-      "PoSign"
+      "PoSign",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/XTRABYTES"
   },
@@ -69487,7 +69640,8 @@
     "short": "CHI",
     "url": "/currencies/xaya",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/xaya"
   },
@@ -69514,7 +69668,8 @@
     "short": "XNC",
     "url": "/currencies/xenioscoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/xeniosproject/xenioscoin"
   },
@@ -69585,7 +69740,8 @@
     "url": "/currencies/xeonbit",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "08122020",
@@ -69637,7 +69793,8 @@
       "Smart Contracts",
       "Masternodes",
       "DPoS",
-      "PoS"
+      "PoS",
+      "GOEtereumL"
     ],
     "git": "https://github.com/XinFinOrg/XDPoSChain"
   },
@@ -69881,7 +70038,8 @@
     "url": "/currencies/yenten",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL"
     ],
     "git": "https://github.com/yentencoin/yenten"
   },
@@ -69891,7 +70049,13 @@
     "url": "/currencies/yep-coin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "DashL",
+      "PPCoinL",
+      "NovaCoinL",
+      "BlackcoinL",
+      "YEPL"
     ],
     "deaths": [
       "30112020",
@@ -70768,7 +70932,11 @@
     "short": "YEC",
     "url": "/currencies/ycash",
     "tags": [
-      "Coin"
+      "Coin",
+      "YcashL",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/YcashFoundation/ycash/"
   },
@@ -71369,7 +71537,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/yocoin15"
   },
@@ -71446,7 +71615,8 @@
     "short": "YSR",
     "url": "/currencies/ystar",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ystar-foundation/ysr.ystar"
   },
@@ -71531,7 +71701,10 @@
       "PoW",
       "Equihash",
       "Marketplace",
-      "Zero Knowledge Proofs"
+      "Zero Knowledge Proofs",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/ZClassicCommunity/zclassic"
   },
@@ -71541,7 +71714,8 @@
     "url": "/currencies/zcore",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/zcore-coin/zcore-source"
   },
@@ -71571,7 +71745,8 @@
     "short": "ZNZ",
     "url": "/currencies/zenzo",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Zenzo-Ecosystem"
   },
@@ -71731,7 +71906,8 @@
     "short": "ZYX",
     "url": "/currencies/zyx",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/ZYXnetwork"
   },
@@ -71740,7 +71916,8 @@
     "short": "ZANO",
     "url": "/currencies/zano",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/hyle-team/zano"
   },
@@ -71774,7 +71951,11 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "LitecoinL",
+      "DogecoinL",
+      "ZayedcoinL"
     ],
     "deaths": [
       "30112020",
@@ -71797,7 +71978,10 @@
       "Equihash",
       "Medium of Exchange",
       "Zero Knowledge Proofs",
-      "Binance Chain"
+      "Binance Chain",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/zcash/zcash"
   },
@@ -71811,7 +71995,8 @@
       "PoW",
       "Medium of Exchange",
       "Privacy",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "deaths": [
       "01011970"
@@ -71824,7 +72009,11 @@
     "url": "/currencies/zealium",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "ZealiumL"
     ],
     "git": "https://github.com/zealiumcoin/Zealium/"
   },
@@ -71836,7 +72025,8 @@
       "Coin",
       "Platform",
       "AI & Big Data",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/zebidata/ZPB"
   },
@@ -71866,7 +72056,8 @@
       "Media",
       "Content Creation",
       "Data Provenance",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "03122020"
@@ -71881,7 +72072,8 @@
       "Coin",
       "Mineable",
       "PoS",
-      "Dead"
+      "Dead",
+      "ZeitcoinL"
     ],
     "deaths": [
       "01011970"
@@ -71898,7 +72090,11 @@
       "Equihash",
       "Distributed Computing",
       "Privacy",
-      "Filesharing"
+      "Filesharing",
+      "ZelL",
+      "ZcashL",
+      "BitcoinCoreL",
+      "BitcoinL"
     ],
     "git": "https://github.com/zelcash/zelcash"
   },
@@ -71925,7 +72121,8 @@
     "url": "/currencies/zelerius",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -72002,7 +72199,10 @@
       "Coin",
       "PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "ZeniCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -72021,7 +72221,8 @@
     "url": "/currencies/zenon",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/zenonnetwork"
   },
@@ -72050,7 +72251,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Equihash"
+      "Equihash",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/zerocurrencycoin"
   },
@@ -72096,7 +72298,9 @@
       "Coin",
       "Mineable",
       "PoW",
-      "SHA-256"
+      "SHA-256",
+      "BitcoinCoreL",
+      "Zetacoin CoreL"
     ],
     "git": "https://github.com/zetacoin/zetacoin"
   },
@@ -72203,7 +72407,8 @@
       "Coin",
       "Mineable",
       "Platform",
-      "Payments"
+      "Payments",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Zilliqa/Zilliqa"
   },
@@ -72365,7 +72570,8 @@
       "Mineable",
       "PoW",
       "Quark",
-      "Dead"
+      "Dead",
+      "Bitcoin Core and Quark Core and Zur CoreL"
     ],
     "deaths": [
       "30112020",
@@ -72381,7 +72587,8 @@
     "url": "/currencies/zynecoin",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/zynecoin/"
   },
@@ -72848,7 +73055,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Scrypt"
+      "Scrypt",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Electronic-Gulden-Foundation/"
   },
@@ -72885,7 +73093,8 @@
     "url": "/currencies/eboostcoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinCoreL"
     ],
     "deaths": [
       "30112020",
@@ -72977,7 +73186,10 @@
     "url": "/currencies/experience-chain",
     "tags": [
       "Coin",
-      "Mineable"
+      "Mineable",
+      "BitcoinCoreL",
+      "BitcoinL",
+      "XPChain CoreL"
     ],
     "git": "https://github.com/xpc-wg/xpchain"
   },
@@ -73087,7 +73299,8 @@
     "short": "GASP",
     "url": "/currencies/gasp",
     "tags": [
-      "Coin"
+      "Coin",
+      "BitcoinCoreL"
     ],
     "git": "https://github.com/AspireOrg/gAsp"
   },
@@ -73231,7 +73444,11 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "Dead"
+      "Dead",
+      "iBankL",
+      "NovaCoinL",
+      "PPCoinL",
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -73298,7 +73515,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "deaths": [
       "30112020",
@@ -73436,7 +73654,13 @@
     "url": "/currencies/iticoin",
     "tags": [
       "Coin",
-      "Dead"
+      "Dead",
+      "BitcoinL",
+      "PPCoinL",
+      "PeerunityL",
+      "EmerCoinL",
+      "NovaCoinL",
+      "iTiCoinL"
     ],
     "deaths": [
       "30112020"
@@ -74376,7 +74600,8 @@
     "short": "UPX",
     "url": "/currencies/uplexa",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/uPlexa/uplexa"
   },
@@ -74409,7 +74634,8 @@
       "Coin",
       "Platform",
       "Discount token",
-      "Smart Contracts"
+      "Smart Contracts",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/virtualeconomy/v-systems"
   },
@@ -74534,7 +74760,8 @@
     "short": "X42",
     "url": "/currencies/x42-protocol",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/x42protocol"
   },
@@ -74605,7 +74832,8 @@
     "short": "XSC",
     "url": "/currencies/xscoin",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Xs-coin"
   },
