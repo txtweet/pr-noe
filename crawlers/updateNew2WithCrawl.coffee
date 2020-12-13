@@ -27,8 +27,13 @@ request
   #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
   $('li.cmc-detail-panel-tags > span').each () ->
     crypto.tags.push($(@).text())
-
   crypto.tags = _.uniq crypto.tags
+
+  $('.cmc-details-panel-links > li').each () ->
+    if $(@).text() is 'Source Code'
+      href = $('a', @).attr('href')
+      if href.startsWith("https://github.com")
+        crypto.git = href
 
   if 'Token' in crypto.tags
     forked_from =[]
