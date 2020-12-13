@@ -60,7 +60,7 @@
     "tags": [
       "Coin",
       "Bitcoin CoreL",
-      "Dash CoreL",
+      "DashL",
       "ZeroOne CoreL"
     ],
     "git": "https://github.com/zocteam/zeroonecoin"
@@ -4644,7 +4644,7 @@
       "Dead",
       "AquariusCoinL",
       "BlackcoinL",
-      "NovaCoinL"
+      "NovacoinL"
     ],
     "deaths": [
       "30112020",
@@ -4862,7 +4862,7 @@
       "Coin",
       "Mineable",
       "ArepaCoinL",
-      "NovaCoinL"
+      "NovacoinL"
     ],
     "git": "https://github.com/ProjectArepa/ArepaCoin"
   },
@@ -5815,7 +5815,7 @@
       "Dead",
       "AxiomL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -7735,7 +7735,7 @@
       "Hybrid - PoW & PoS",
       "SHA-256",
       "Dead",
-      "BeanCoreL"
+      "BitBeanL"
     ],
     "deaths": [
       "30112020",
@@ -8364,7 +8364,7 @@
       "Mineable",
       "Philanthropy",
       "Payments",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/biblepay/biblepay-evolution"
   },
@@ -8828,7 +8828,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL"
+      "NovacoinL"
     ],
     "deaths": [
       "11122020"
@@ -8991,7 +8991,7 @@
       "Scrypt",
       "Dead",
       "BitBarL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -9034,7 +9034,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcashCoreL"
+      "BitcashL"
     ],
     "git": "https://github.com/WillyTheCat/BitCash"
   },
@@ -9965,7 +9965,6 @@
       "Payments",
       "forked_bitcoin",
       "Bitcoin",
-      "BitcoinCoreL",
       "BitcoinL",
       "Bitcoin DiamondL"
     ],
@@ -10056,7 +10055,6 @@
       "Payments",
       "forked_bitcoin",
       "Bitcoin",
-      "BitcoinCoreL",
       "BitcoinL",
       "Bitcoin GoldL"
     ],
@@ -10092,7 +10090,7 @@
       "forked_bitcoin",
       "Bitcoin",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "forked_data": {
       "block": [
@@ -10186,7 +10184,6 @@
       "Bitcoin AssociationL",
       "Satoshi NakamotoL",
       "BitcoinL",
-      "BitcoinCoreL",
       "Bitcoin ABCL"
     ],
     "forked_data": {
@@ -10242,7 +10239,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/bitcoinvault/bitcoinvault"
@@ -10331,7 +10327,6 @@
       "Coin",
       "Mineable",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "deaths": [
@@ -10373,7 +10368,6 @@
       "Zero Knowledge Proofs",
       "Payments",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/bitcoinz-pod/bitcoinz"
@@ -10428,7 +10422,6 @@
       "Mineable",
       "forked_bitcoin",
       "Bitcoin",
-      "BitcoinCoreL",
       "BitcoinL",
       "FXTCL"
     ],
@@ -10568,7 +10561,7 @@
     "url": "/currencies/bitgesell",
     "tags": [
       "Coin",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/wu-emma/bitgesell"
   },
@@ -10923,7 +10916,7 @@
       "Coin",
       "Dead",
       "VoltCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -11735,7 +11728,7 @@
       "Hybrid - PoW & PoS",
       "X11",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -12056,7 +12049,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "PIVXL"
     ],
@@ -12413,7 +12406,7 @@
       "Dead",
       "BriaCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -13844,7 +13837,7 @@
     "tags": [
       "Coin",
       "CaluraCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -13994,7 +13987,7 @@
       "Mineable",
       "Dead",
       "cannationL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -14106,7 +14099,6 @@
       "X11",
       "Dead",
       "Capricoin+L",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "deaths": [
@@ -14363,7 +14355,7 @@
       "Coin",
       "Mineable",
       "CashberyCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -15243,7 +15235,7 @@
     "url": "/currencies/cicoin",
     "tags": [
       "Coin",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/cicxcoin/cicoin"
   },
@@ -15428,7 +15420,7 @@
       "Bitcoin",
       "Dead",
       "ClamL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -15590,7 +15582,7 @@
       "Dead",
       "ClubCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -16384,7 +16376,6 @@
       "Coin",
       "Mineable",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/CommerciumBlockchain/Commercium"
@@ -16534,7 +16525,7 @@
       "Coin",
       "Mineable",
       "CompoundL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -17141,7 +17132,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/counos-platform/counos-X"
@@ -17221,7 +17211,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/creamcoin/cream"
@@ -17720,7 +17709,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/c-sports/cspn"
@@ -19023,7 +19011,7 @@
       "Coin",
       "Mineable",
       "I/OCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -19881,7 +19869,6 @@
     "tags": [
       "Coin",
       "DarkpayL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/DarkPayCoin/darkpay-core"
@@ -19944,7 +19931,6 @@
       "Medium of Exchange",
       "Privacy",
       "Masternodes",
-      "BitcoinCoreL",
       "BitcoinL",
       "DashL"
     ],
@@ -20338,7 +20324,6 @@
       "Payments",
       "Masternodes",
       "Derivatives",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/DeFiCh/ain"
@@ -20746,7 +20731,6 @@
       "Hybrid - PoW & PoS",
       "Marketplace",
       "Privacy",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/deeponion/deeponion"
@@ -21209,7 +21193,7 @@
       "Hybrid - PoW & PoS",
       "SHA-256",
       "eMarkL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -21839,7 +21823,7 @@
       "PoW",
       "Scrypt",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "08122020"
@@ -22222,7 +22206,7 @@
       "Yescript",
       "Store of Value",
       "Germany",
-      "BitcoinCoreL",
+      "BitcoinL",
       "DashL"
     ],
     "git": "https://github.com/Krekeler/documentchain"
@@ -22289,7 +22273,7 @@
       "Medium of Exchange",
       "Memes",
       "Payments",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/dogecoin/dogecoin"
   },
@@ -23691,7 +23675,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "PIVXL"
     ],
@@ -24423,7 +24407,7 @@
       "Technology",
       "Crowdfunding",
       "Research",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/emc2foundation/einsteinium"
   },
@@ -24736,7 +24720,7 @@
       "Dead",
       "EmberL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -24900,7 +24884,7 @@
     "url": "/currencies/emrals",
     "tags": [
       "Coin",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/emrals/emrals"
   },
@@ -25553,7 +25537,7 @@
       "Dead",
       "EspersL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -25676,7 +25660,7 @@
       "Hybrid - PoW & PoS",
       "X11",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -26554,7 +26538,7 @@
       "X11",
       "Dead",
       "EvilCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -26994,7 +26978,7 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/floblockchain/flo"
   },
@@ -27500,7 +27484,6 @@
       "Coin",
       "Mineable",
       "Staking",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/FantasyGold/FantasyGold-Core"
@@ -27618,7 +27601,7 @@
     "tags": [
       "Coin",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "11122020"
@@ -27655,7 +27638,6 @@
       "NeoScrypt",
       "Medium of Exchange",
       "Payments",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/FeatherCoin/Feathercoin"
@@ -28064,7 +28046,7 @@
       "PoW",
       "Medium of Exchange",
       "Privacy",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/zcoinofficial/zcoin/"
   },
@@ -28308,7 +28290,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "PIVXL"
     ],
@@ -28609,7 +28591,6 @@
     "tags": [
       "Coin",
       "BitcoinL",
-      "BitcoinCoreL"
     ],
     "git": "https://github.com/freecashorg/freecash"
   },
@@ -28825,7 +28806,6 @@
       "PoW",
       "Scrypt-n",
       "Dead",
-      "Fujicoin CoreL",
       "FujicoinL"
     ],
     "deaths": [
@@ -28993,8 +28973,8 @@
       "Coin",
       "Mineable",
       "Dead",
-      "BitcoinCoreL",
-      "Dash CoreL",
+      "BitcoinL",
+      "DashL",
       "FuturoCoin CoreL"
     ],
     "deaths": [
@@ -29424,7 +29404,6 @@
       "Coin",
       "Mineable",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "deaths": [
@@ -29628,7 +29607,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL",
       "Garlicoin CoreL"
     ],
@@ -29939,8 +29917,8 @@
       "Coin",
       "Mineable",
       "Dead",
-      "BitcoinCoreL",
-      "Dаsh CoreL"
+      "BitcoinL",
+      "DаshL"
     ],
     "deaths": [
       "11122020"
@@ -30018,7 +29996,7 @@
       "Dead",
       "GeyserCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -30104,7 +30082,6 @@
     "url": "/currencies/gleec",
     "tags": [
       "Coin",
-      "GleecBTC CoreL",
       "GleecBTCL"
     ],
     "git": "https://github.com/Gleecs/GleecBTC-FullNode-Win-Mac-Linux"
@@ -30321,7 +30298,6 @@
       "Mineable",
       "PoW",
       "Yescript",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/GlobalBoost/GlobalBoost-Y"
@@ -30333,7 +30309,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL",
       "Globaltoken CoreL"
     ],
@@ -30389,8 +30364,8 @@
       "Mixer & Coinjoin",
       "Masternodes",
       "DAO",
-      "BitcoinCoreL",
-      "Dash CoreL",
+      "BitcoinL",
+      "DashL",
       "GoByte CoreL"
     ],
     "git": "https://github.com/gobytecoin/gobyte/"
@@ -31016,7 +30991,7 @@
       "Mineable",
       "Dead",
       "Gravity GZROL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -31096,8 +31071,8 @@
       "Mineable",
       "DPoR",
       "Scrypt",
-      "Black-CoinL",
-      "NovaCoinL",
+      "BlackcoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL",
       "GridcoinL"
@@ -31195,7 +31170,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "PIVXL",
       "GuapcoinL"
@@ -31779,9 +31754,8 @@
     "url": "/currencies/hanacoin",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Litecoin CoreL",
+      "LitecoinL",
       "Hanacoin CoreL"
     ],
     "git": "https://github.com/hanacoinproject/hanacoin"
@@ -32076,8 +32050,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "Free Software Foundation, Inc. <http://fsf.org/>L",
-      "Copyright (C) <year>  <name of author>L"
+      "NoLicenceFile"
     ],
     "git": "https://github.com/Hdactech/hdac"
   },
@@ -32403,13 +32376,10 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "BitcoinCoreL",
       "BitcoinL",
       "ZcashL",
       "KomodoL",
-      "VerusCoinL",
-      "Free Software Foundation, Inc.,L",
-      "Copyright (C) <year>  <name of author>L"
+      "VerusCoinL"
     ],
     "git": "https://github.com/jl777/komodo"
   },
@@ -32652,8 +32622,8 @@
     "url": "/currencies/historia",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
-      "Dash CoreL"
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/HistoriaOffical/historia"
   },
@@ -32737,7 +32707,7 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "Scrypt",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -32796,7 +32766,7 @@
       "Mineable",
       "Dead",
       "HollyWoodCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -33203,7 +33173,6 @@
       "Equihash",
       "Dead",
       "HushL",
-      "BitcoinCoreL",
       "BitcoinL",
       "ZcashL",
       "KomodoL"
@@ -33463,7 +33432,7 @@
       "X11",
       "Filesharing",
       "I/OCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -33888,9 +33857,8 @@
       "Coin",
       "PoS",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Dash CoreL",
+      "DashL",
       "Ion CoreL"
     ],
     "deaths": [
@@ -34028,8 +33996,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
-      "Dash CoreL",
+      "BitcoinL",
+      "DashL",
       "IQcash CoreL"
     ],
     "git": "https://github.com/IQ-Cash/iqcash"
@@ -34358,8 +34326,8 @@
     "url": "/currencies/imagecash",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
-      "Dash CoreL"
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/mceme/ImageCash/"
   },
@@ -34369,8 +34337,8 @@
     "url": "/currencies/imagecoin",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
-      "Dash CoreL"
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/mceme/ImageCoin/"
   },
@@ -34431,7 +34399,7 @@
       "Scrypt",
       "Dead",
       "IndependentMoneySystemL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -34458,7 +34426,7 @@
       "POS 3.0",
       "Hybrid - PoW & PoS",
       "Smart Contracts",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/IndexChain/Index"
   },
@@ -34599,7 +34567,7 @@
       "X11",
       "Dead",
       "InflationCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -34745,7 +34713,7 @@
       "Mineable",
       "Dead",
       "INSaNeL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -35385,7 +35353,7 @@
       "PoW",
       "SHA-256",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -35969,7 +35937,7 @@
     "tags": [
       "Coin",
       "JunsonMingChanCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -37112,7 +37080,7 @@
       "X15",
       "Dead",
       "KobocoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -37967,7 +37935,7 @@
     "url": "/currencies/long-coin",
     "tags": [
       "Coin",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/longnetwork/LONGNETWORK"
   },
@@ -38230,7 +38198,7 @@
       "Hybrid - PoW & PoS",
       "Dead",
       "LanacoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -39041,7 +39009,6 @@
       "Coin",
       "Mineable",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL",
       "Litebitcoin CoreL"
     ],
@@ -39119,9 +39086,8 @@
       "Scrypt",
       "Medium of Exchange",
       "Binance Chain",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Litecoin CoreL"
+      "LitecoinL"
     ],
     "git": "https://github.com/litecoin-project/litecoin"
   },
@@ -39893,9 +39859,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Litecoin CoreL"
+      "LitecoinL"
     ],
     "git": "https://github.com/doh9Xiet7weesh9va9th/lynx"
   },
@@ -40215,8 +40180,7 @@
     "url": "/currencies/merci",
     "tags": [
       "Coin",
-      "Free Software Foundation, Inc. <http://fsf.org/>L",
-      "Copyright (C) {year}  {name of author}L"
+      "NoLicenceFile"
     ],
     "git": "https://github.com/merciproject/merci"
   },
@@ -40432,8 +40396,7 @@
       "Staking",
       "Hybrid - PoW & PoS",
       "MMOCoinL",
-      "PeerCoinL",
-      "BitcoinCoreL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/MMO-Coin/mmocoin"
@@ -40725,7 +40688,6 @@
     "tags": [
       "Coin",
       "BitcoinL",
-      "BitcoinCoreL",
       "Bitcoin ABCL",
       "DashL",
       "PIVXL",
@@ -41220,7 +41182,7 @@
       "Mineable",
       "Hybrid - PoW & PoS",
       "X13",
-      "BitcoinCoreL",
+      "BitcoinL",
       "MarteX CoreL"
     ],
     "git": "https://github.com/martexcoin/martexcoin"
@@ -41232,8 +41194,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
-      "Dash CoreL",
+      "BitcoinL",
+      "DashL",
       "Martkist CoreL"
     ],
     "git": "https://github.com/martkist/martkist"
@@ -41540,8 +41502,7 @@
     "url": "/currencies/mchain",
     "tags": [
       "Coin",
-      "Free Software Foundation, Inc. <http://fsf.org/>L",
-      "Copyright (C) {year}  {name of author}L"
+      "NoLicenceFile"
     ],
     "git": "https://github.com/MchainNetwork/mchain"
   },
@@ -41771,7 +41732,6 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "BitcoinCoreL",
       "BitcoinL",
       "FXTCL",
       "MegacoinL"
@@ -41869,16 +41829,13 @@
       "BitcoinL",
       "LitecoinL",
       "PeercoinL",
-      "DarkCoinL",
+      "DarkcoinL",
       "BlackcoinL",
-      "DigibyteL",
-      "DashCoinL",
+      "DigiByteL",
+      "DashL",
       "NetCoinL",
       "TransfercoinL",
-      "PepeCoinL",
-      "Memetic/PepecoinL",
-      "Memetic/PepeCoinL",
-      "Free Software Foundation, Inc. <https://fsf.org/>L"
+      "PepeCoinL"
     ],
     "git": "https://github.com/pepeteam/pepecoin"
   },
@@ -43008,7 +42965,7 @@
       "PoS",
       "Dead",
       "MojocoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -43073,9 +43030,8 @@
       "Scrypt",
       "Medium of Exchange",
       "Memes",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Litecoin CoreL",
+      "LitecoinL",
       "Dr. Kimoto ChanL",
       "DigiByteL",
       "DashL",
@@ -43289,7 +43245,6 @@
       "Scrypt",
       "DeFi",
       "PoW",
-      "BitcoinCoreL",
       "BitcoinL",
       "MTTcoin CoreL"
     ],
@@ -43821,7 +43776,7 @@
       "X11",
       "Dead",
       "hackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -43970,7 +43925,6 @@
       "PoW",
       "Multiple",
       "Multiple algorithms",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/myriadteam/myriadcoin/"
@@ -44183,7 +44137,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/NixPlatform/NixCore"
@@ -45040,7 +44993,7 @@
       "BitcoinL",
       "DashL",
       "PIVXL",
-      "Copyright (c) 2019-  NetrumL"
+      "NetrumL"
     ],
     "deaths": [
       "01122020",
@@ -45195,7 +45148,7 @@
       "NeutronL",
       "BitcoinDarkL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -45212,7 +45165,7 @@
       "Dead",
       "NevacoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -45660,7 +45613,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/noirofficial/noir"
   },
@@ -45755,7 +45708,7 @@
       "PPCoinL",
       "PeerunityL",
       "EmerCoinL",
-      "NovaCoinL"
+      "NovacoinL"
     ],
     "deaths": [
       "30112020"
@@ -46082,7 +46035,7 @@
       "Coin",
       "Dead",
       "OCPL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -46154,7 +46107,7 @@
       "Mineable",
       "Marketplace",
       "OduwaCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -46253,7 +46206,7 @@
       "Hybrid - PoW & PoS",
       "OkcashL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -46762,7 +46715,7 @@
     "tags": [
       "Coin",
       "Dead",
-      "The Bitcoin CoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "01011970"
@@ -48137,7 +48090,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "PIVXL"
     ],
@@ -48216,7 +48169,7 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "07122020",
@@ -48343,7 +48296,7 @@
       "Hybrid - PoW & PoS",
       "X11",
       "GAY CoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -48549,7 +48502,7 @@
       "Dead",
       "PakcoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -48620,7 +48573,7 @@
       "PoS",
       "Scrypt",
       "PandacoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -49791,8 +49744,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
-      "Pigeon CoreL",
+      "BitcoinL",
       "PigeonL"
     ],
     "git": "https://github.com/Pigeoncoin/pigeoncoin"
@@ -49998,7 +49950,7 @@
       "Dead",
       "PlatinumBarL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -50257,7 +50209,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/plusonecoin/plusonecoin"
   },
@@ -50379,7 +50331,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
+      "BitcoinL",
       "Polis CoreL"
     ],
     "git": "https://github.com/polispay/polis"
@@ -50621,9 +50573,9 @@
       "PoW",
       "Scrypt",
       "BitcoinL",
-      "PeerCoinL",
+      "PeercoinL",
       "LitecoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PopularCoinL"
     ],
     "git": "https://github.com/Pop-Currency-Foundation/PopularCoin"
@@ -51518,7 +51470,7 @@
       "PoS",
       "Dead",
       "PureVidzL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -51560,7 +51512,7 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "PutinCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -51615,8 +51567,8 @@
     "url": "/currencies/pyrk",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
-      "Dash CoreL"
+      "BitcoinL",
+      "DashL"
     ],
     "git": "https://github.com/pyrkcommunity/pyrk"
   },
@@ -51984,7 +51936,6 @@
       "Coin",
       "Platform",
       "Smart Contracts",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/qtumproject/qtum/"
@@ -52123,7 +52074,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/quasarcoin/quasar"
   },
@@ -52182,7 +52133,6 @@
       "Mineable",
       "X11",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "deaths": [
@@ -52295,7 +52245,7 @@
       "Dead",
       "QuotientL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -52727,7 +52677,7 @@
       "Coin",
       "PoS",
       "radiumL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -52983,7 +52933,7 @@
       "X11",
       "Dead",
       "RATECoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -53026,8 +52976,7 @@
       "Asset management",
       "Atomic Swaps",
       "DeFi",
-      "BitcoinCoreL",
-      "Raven CoreL",
+      "BitcoinL",
       "RavenL"
     ],
     "git": "https://github.com/RavenProject/Ravencoin"
@@ -53554,7 +53503,6 @@
       "Coin",
       "ResistanceL",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/ResistancePlatform/resistance-core"
@@ -54191,7 +54139,7 @@
       "Mineable",
       "Dead",
       "RupeeL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -54386,8 +54334,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
-      "Dash CoreL",
+      "BitcoinL",
+      "DashL",
       "Scriv CoreL"
     ],
     "git": "https://github.com/ScrivNetwork/scriv"
@@ -54552,7 +54500,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/ShieldCoin/SHIELD"
@@ -54815,7 +54762,7 @@
       "SONOL",
       "ShadowCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -55439,13 +55386,10 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL",
       "ZcashL",
       "KomodoL",
-      "VerusCoinL",
-      "Free Software Foundation, Inc.,L",
-      "Copyright (C) <year>  <name of author>L"
+      "VerusCoinL"
     ],
     "git": "https://github.com/Fair-Exchange/safecoin/"
   },
@@ -56496,11 +56440,8 @@
       "PoW",
       "Scrypt",
       "Dead",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Viacoin CoreL",
       "ViacoinL",
-      "Sexcoin CoreL",
       "SexcoinL"
     ],
     "deaths": [
@@ -57263,7 +57204,7 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
+      "BitcoinL",
       "SmartCashL"
     ],
     "git": "https://github.com/SmartCash/Core-Smart"
@@ -57815,7 +57756,7 @@
       "Coin",
       "PoW",
       "Scrypt",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/onsightit/solarcoin"
   },
@@ -57975,7 +57916,7 @@
       "PPCoinL",
       "PeerunityL",
       "EmerCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "SorachanCoinL"
     ],
     "git": "https://github.com/FromHDDtoSSD/SorachanCoin-qt"
@@ -58011,7 +57952,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "SOVRANOCOINL"
     ],
@@ -58384,7 +58325,7 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "SphereL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -58500,7 +58441,7 @@
       "PoW",
       "X11",
       "Dead",
-      "L"
+      "SpreadCoinL"
     ],
     "deaths": [
       "07122020",
@@ -58715,7 +58656,6 @@
       "Staking",
       "Scaling",
       "Atomic Swaps",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/X9Developers/XSN"
@@ -58975,7 +58915,7 @@
       "Privacy",
       "Stealth R&D LLCL",
       "CloakCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -59014,7 +58954,7 @@
       "Coin",
       "Mineable",
       "SteepCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -59479,10 +59419,10 @@
       "New2",
       "Coin",
       "Satoshi NakamotoL",
-      "BitcoinCoreL",
-      "Alexander Peslyak - Yespower 1.0.1L",
-      "Zcash  - DigiShieldZECL",
-      "Sugarchain YumekawaL"
+      "BitcoinL",
+      "Alexander PeslyakL",
+      "ZcashL",
+      "SugarchainL"
     ],
     "sawBirth": "11122020",
     "git": "https://github.com/sugarchain-project/sugarchain"
@@ -60154,7 +60094,7 @@
       "X11",
       "Dead",
       "SynergyL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -60619,7 +60559,7 @@
       "Coin",
       "Dead",
       "TokyocoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -61072,7 +61012,7 @@
       "Dead",
       "TajcoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -62456,8 +62396,8 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
-      "Raven CoreL",
+      "BitcoinL",
+      "RavenL",
       "Rito CoreL",
       "Titancoin CoreL"
     ],
@@ -62558,7 +62498,7 @@
       "Mineable",
       "Dead",
       "TOAL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -63183,7 +63123,7 @@
       "X11",
       "Dead",
       "TransferL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -64588,8 +64528,7 @@
       "Ethash",
       "Platform",
       "DApp",
-      "go-ubiq Authors.L",
-      "Copyright (C) <year>  <name of author>L"
+      "go-ubiqL"
     ],
     "git": "https://github.com/ubiq/go-ubiq"
   },
@@ -64651,8 +64590,8 @@
     "tags": [
       "Coin",
       "Dead",
-      "BitcoinCoreL",
-      "Dash CoreL"
+      "BitcoinL",
+      "DashL"
     ],
     "deaths": [
       "30112020",
@@ -64695,7 +64634,7 @@
       "Dead",
       "ShadowCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -65130,7 +65069,6 @@
       "Mineable",
       "PoW",
       "NeoScrypt",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/fiscalobject/ufo"
@@ -65847,7 +65785,7 @@
     "tags": [
       "Coin",
       "VdsL",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/v-dimension/vds-core"
   },
@@ -66476,7 +66414,7 @@
       "Dagger-Hashimoto",
       "Dead",
       "VectorL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -66571,9 +66509,8 @@
     "url": "/currencies/veles",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Dash CoreL",
+      "DashL",
       "TalkcoinL",
       "ZcoinL",
       "PIVXL",
@@ -66698,7 +66635,7 @@
       "Scrypt",
       "VeriCoinL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -66875,7 +66812,6 @@
       "Medium of Exchange",
       "Privacy",
       "Payments",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/vertcoin/vertcoin"
@@ -66886,7 +66822,6 @@
     "url": "/currencies/veruscoin",
     "tags": [
       "Coin",
-      "BitcoinCoreL",
       "BitcoinL",
       "ZcashL",
       "KomodoL",
@@ -66997,9 +66932,8 @@
       "Mineable",
       "PoW",
       "Scrypt",
-      "BitcoinCoreL",
       "BitcoinL",
-      "Viacoin CoreL"
+      "ViacoinL"
     ],
     "git": "https://github.com/viacoin/viacoin"
   },
@@ -67066,7 +67000,7 @@
     "tags": [
       "Coin",
       "ZcashL",
-      "BitcoinCoreL",
+      "BitcoinL",
       "SnowGemL"
     ],
     "git": "https://github.com/vidulum/vidulum/"
@@ -67143,7 +67077,7 @@
     "tags": [
       "Coin",
       "VDL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -67172,8 +67106,7 @@
     "url": "/currencies/vipstar-coin",
     "tags": [
       "Coin",
-      "Free Software Foundation, Inc. <http://fsf.org/>L",
-      "Copyright (C) {year}  {name of author}L"
+      "NoLicenceFile"
     ],
     "git": "https://github.com/VIPSTARCOIN/VIPSTARCOIN"
   },
@@ -67435,7 +67368,6 @@
       "Mineable",
       "Dead",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "deaths": [
@@ -69136,10 +69068,10 @@
       "XcoinL",
       "DarkcoinL",
       "10kcoinL",
-      "BitbeanL",
+      "BitBeanL",
       "BitcoinDarkL",
       "BlackcoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -69294,7 +69226,7 @@
       "Coin",
       "Mineable",
       "xgoxL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -70053,7 +69985,7 @@
       "BitcoinL",
       "DashL",
       "PPCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "BlackcoinL",
       "YEPL"
     ],
@@ -70935,7 +70867,6 @@
       "Coin",
       "YcashL",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/YcashFoundation/ycash/"
@@ -71703,7 +71634,6 @@
       "Marketplace",
       "Zero Knowledge Proofs",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/ZClassicCommunity/zclassic"
@@ -71954,7 +71884,7 @@
       "Dead",
       "BitcoinL",
       "LitecoinL",
-      "DogecoinL",
+      "DogeL",
       "ZayedcoinL"
     ],
     "deaths": [
@@ -71980,7 +71910,6 @@
       "Zero Knowledge Proofs",
       "Binance Chain",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/zcash/zcash"
@@ -71996,7 +71925,7 @@
       "Medium of Exchange",
       "Privacy",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "01011970"
@@ -72093,7 +72022,6 @@
       "Filesharing",
       "ZelL",
       "ZcashL",
-      "BitcoinCoreL",
       "BitcoinL"
     ],
     "git": "https://github.com/zelcash/zelcash"
@@ -72299,7 +72227,7 @@
       "Mineable",
       "PoW",
       "SHA-256",
-      "BitcoinCoreL",
+      "BitcoinL",
       "Zetacoin CoreL"
     ],
     "git": "https://github.com/zetacoin/zetacoin"
@@ -72569,9 +72497,8 @@
       "Coin",
       "Mineable",
       "PoW",
-      "Quark",
       "Dead",
-      "Bitcoin Core and Quark Core and Zur CoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -73094,7 +73021,7 @@
     "tags": [
       "Coin",
       "Dead",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "deaths": [
       "30112020",
@@ -73187,7 +73114,6 @@
     "tags": [
       "Coin",
       "Mineable",
-      "BitcoinCoreL",
       "BitcoinL",
       "XPChain CoreL"
     ],
@@ -73300,7 +73226,7 @@
     "url": "/currencies/gasp",
     "tags": [
       "Coin",
-      "BitcoinCoreL"
+      "BitcoinL"
     ],
     "git": "https://github.com/AspireOrg/gAsp"
   },
@@ -73446,7 +73372,7 @@
       "Scrypt",
       "Dead",
       "iBankL",
-      "NovaCoinL",
+      "NovacoinL",
       "PPCoinL",
       "BitcoinL"
     ],
@@ -73659,7 +73585,7 @@
       "PPCoinL",
       "PeerunityL",
       "EmerCoinL",
-      "NovaCoinL",
+      "NovacoinL",
       "iTiCoinL"
     ],
     "deaths": [
