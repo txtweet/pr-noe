@@ -15,3 +15,13 @@ Ce répertoire contient les scripts d'intégration des tokens et monnaies dans l
 Si tout est ok, déplacer le fichier à la place du fichier de crypto.json et comiter le. Les nouvelles monnaies sont taguées 'New'
 
 ## Crawl des nouvelles monnaies
+Lancer le script de récupération des données des monnaie.
+Le script intègre, les numéros de token, les tags, et les références github.
+
+> ./lanceUpdateFresh.sh
+
+A la fin on peut lancer le fichier de stat qui génère les statistiques de ces nouvelles newCryptos
+> ./coffee ./statistics.coffee <ddmmyyyy>
+
+## Crawl de github pour récupérer les licences
+> ./lanceGitHub.sh
