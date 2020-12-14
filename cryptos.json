@@ -78,9 +78,9 @@
     "url": "/currencies/01coin",
     "tags": [
       "Coin",
-      "Bitcoin CoreL",
+      "BitcoinL",
       "DashL",
-      "ZeroOne CoreL"
+      "ZeroOneL"
     ],
     "git": "https://github.com/zocteam/zeroonecoin"
   },
@@ -6019,7 +6019,7 @@
       "AxiomL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -9019,7 +9019,7 @@
       "Coin",
       "Dead",
       "BitcoinL",
-      "PPCoinL"
+      "PeercoinL"
     ],
     "deaths": [
       "01011970"
@@ -9119,7 +9119,7 @@
       "Dead",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL"
     ],
     "deaths": [
@@ -9284,7 +9284,7 @@
       "Dead",
       "BitBarL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -11167,7 +11167,7 @@
       "Scrypt",
       "Dead",
       "BitstarL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -11264,7 +11264,7 @@
       "Dead",
       "VoltCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -12422,7 +12422,7 @@
       "Dead",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "PIVXL"
@@ -12792,7 +12792,7 @@
       "BriaCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -14273,7 +14273,7 @@
       "Coin",
       "CaluraCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/laurobeleche/CaluraCoin"
@@ -14433,7 +14433,7 @@
       "Dead",
       "cannationL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -14812,7 +14812,7 @@
       "Mineable",
       "CashberyCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/CashberyCoin/cashberycoin"
@@ -15899,7 +15899,7 @@
       "Dead",
       "ClamL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "forked_data": {
@@ -16067,7 +16067,7 @@
       "ClubCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -17016,7 +17016,7 @@
       "Mineable",
       "CompoundL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/compounddev/Compound-Coin"
@@ -18925,7 +18925,7 @@
       "Distributed Computing",
       "Research",
       "CureCoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/cygnusxi/CurecoinSource"
@@ -19556,7 +19556,7 @@
       "Mineable",
       "I/OCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/DECOINio/DTEP"
@@ -21785,7 +21785,7 @@
       "SHA-256",
       "eMarkL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/emarkproject/eMark"
@@ -24323,7 +24323,7 @@
       "Mineable",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "PIVXL"
@@ -25394,7 +25394,7 @@
       "EmberL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -25815,7 +25815,7 @@
       "Scrypt",
       "Dead",
       "EnergyCoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -26234,7 +26234,7 @@
       "EspersL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -27264,7 +27264,7 @@
       "Dead",
       "EvilCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -29058,7 +29058,7 @@
       "Coin",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "PIVXL"
@@ -30821,7 +30821,7 @@
       "GeyserCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -31833,7 +31833,7 @@
       "Dead",
       "Gravity GZROL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -31915,7 +31915,7 @@
       "Scrypt",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL",
       "GridcoinL"
     ],
@@ -32011,7 +32011,7 @@
       "Coin",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "PIVXL",
@@ -33373,7 +33373,7 @@
       "Dead",
       "HiCoinL",
       "BlackcoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -33591,7 +33591,7 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL",
       "Dead"
     ],
@@ -33656,7 +33656,7 @@
       "Dead",
       "HollyWoodCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -34336,7 +34336,7 @@
       "Filesharing",
       "I/OCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/IOCoin/DIONS"
@@ -35325,7 +35325,7 @@
       "Dead",
       "IndependentMoneySystemL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -35646,7 +35646,7 @@
       "Dead",
       "INSaNeL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -36894,7 +36894,7 @@
       "Coin",
       "JunsonMingChanCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/bastilar/junson-ming-chan-coin"
@@ -38061,7 +38061,7 @@
       "Dead",
       "KobocoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -39218,7 +39218,7 @@
       "Dead",
       "LanacoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -40164,7 +40164,7 @@
       "Hybrid - PoW & PoS",
       "Scrypt",
       "LitecoinPlusL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/Crypto-Currency/litecoinplus"
@@ -44121,7 +44121,7 @@
       "Dead",
       "MojocoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -44952,7 +44952,7 @@
       "Dead",
       "hackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -45741,7 +45741,7 @@
       "Coin",
       "Mineable",
       "BitcoinL",
-      "PPCoinL",
+      "PeercoinL",
       "PeerunityL",
       "EmerCoinL",
       "NasdacoinL"
@@ -46357,7 +46357,7 @@
       "BitcoinDarkL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL",
       "Dead"
     ],
@@ -46378,7 +46378,7 @@
       "NevacoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -46929,7 +46929,7 @@
       "Scrypt",
       "Dead",
       "BitcoinL",
-      "PPCoinL",
+      "PeercoinL",
       "PeerunityL",
       "EmerCoinL",
       "NovacoinL"
@@ -47263,7 +47263,7 @@
       "Dead",
       "OCPL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -47338,7 +47338,7 @@
       "Marketplace",
       "OduwaCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/ODUWAX/oduwacoin"
@@ -47440,7 +47440,7 @@
       "OkcashL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/okcashpro/okcash"
@@ -49364,7 +49364,7 @@
       "Staking",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "PIVXL"
@@ -49575,7 +49575,7 @@
       "X11",
       "GAY CoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/Gaycoins/GAYcoin-Online"
@@ -49789,7 +49789,7 @@
       "PakcoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -49860,7 +49860,7 @@
       "Scrypt",
       "PandacoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/DigitalPandacoin/pandacoin"
@@ -51260,7 +51260,7 @@
       "PlatinumBarL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -52358,7 +52358,7 @@
       "Multiple algorithms",
       "PrimecoinL",
       "BitcoinL",
-      "PPCoinL"
+      "PeercoinL"
     ],
     "git": "https://github.com/primecoin/primecoin/"
   },
@@ -52837,7 +52837,7 @@
       "Dead",
       "PureVidzL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -52881,7 +52881,7 @@
       "Scrypt",
       "PutinCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/PutinCoinPUT/PutinCoin"
@@ -53631,7 +53631,7 @@
       "QuotientL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -54076,7 +54076,7 @@
       "PoS",
       "radiumL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/RadiumCore/radium-0.11/"
@@ -54335,7 +54335,7 @@
       "Dead",
       "RATECoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -55570,7 +55570,7 @@
       "Dead",
       "RupeeL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -56204,7 +56204,7 @@
       "ShadowCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/burster51/sono-wallet"
@@ -59457,7 +59457,7 @@
     "tags": [
       "Coin",
       "BitcoinL",
-      "PPCoinL",
+      "PeercoinL",
       "PeerunityL",
       "EmerCoinL",
       "NovacoinL",
@@ -59495,7 +59495,7 @@
       "Coin",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "SOVRANOCOINL"
@@ -59761,7 +59761,7 @@
       "StipenddevL",
       "BitholdL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -59880,7 +59880,7 @@
       "Scrypt",
       "SphereL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/SphereDevs/sphere/"
@@ -60486,7 +60486,7 @@
       "Stealth R&D LLCL",
       "CloakCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/StealthSend/Stealth/"
@@ -60525,7 +60525,7 @@
       "Mineable",
       "SteepCoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL",
       "Dead"
     ],
@@ -61688,7 +61688,7 @@
       "Dead",
       "SynergyL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -62174,7 +62174,7 @@
       "Dead",
       "TokyocoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -62651,7 +62651,7 @@
       "TajcoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -64175,7 +64175,7 @@
       "Dead",
       "TOAL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -64821,7 +64821,7 @@
       "Dead",
       "TransferL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -66363,7 +66363,7 @@
       "ShadowCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -68199,7 +68199,7 @@
       "Dead",
       "VectorL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -68689,7 +68689,7 @@
       "VeriCoinL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/vericoin/vericoin"
@@ -69138,7 +69138,7 @@
       "Coin",
       "VDL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/vindaxcom/vindax-chain"
@@ -71187,7 +71187,7 @@
       "BitcoinDarkL",
       "BlackcoinL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -71350,7 +71350,7 @@
       "Mineable",
       "xgoxL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "git": "https://github.com/bumbacoin/xgox"
@@ -72144,7 +72144,7 @@
       "Dead",
       "BitcoinL",
       "DashL",
-      "PPCoinL",
+      "PeercoinL",
       "NovacoinL",
       "BlackcoinL",
       "YEPL"
@@ -74352,7 +74352,7 @@
       "Scrypt",
       "Dead",
       "ZeniCoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -75633,7 +75633,7 @@
       "Dead",
       "iBankL",
       "NovacoinL",
-      "PPCoinL",
+      "PeercoinL",
       "BitcoinL"
     ],
     "deaths": [
@@ -75856,7 +75856,7 @@
       "Coin",
       "Dead",
       "BitcoinL",
-      "PPCoinL",
+      "PeercoinL",
       "PeerunityL",
       "EmerCoinL",
       "NovacoinL",
