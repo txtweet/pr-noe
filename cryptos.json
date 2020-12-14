@@ -10093,9 +10093,9 @@
       "SHA-256",
       "Store of Value",
       "State channels",
-      "NoLicenceFile"
+      "BitcoinL"
     ],
-    "git": "https://github.com/bitcoin/"
+    "git": "https://github.com/bitcoin/bitcoin"
   },
   "Bitcoin & Company Network": {
     "name": "Bitcoin & Company Network",
@@ -10233,7 +10233,8 @@
       "Enterprise solutions",
       "forked_bitcoin",
       "Bitcoin",
-      "Binance Chain"
+      "Binance Chain",
+      "BitcoinL"
     ],
     "forked_data": {
       "block": [

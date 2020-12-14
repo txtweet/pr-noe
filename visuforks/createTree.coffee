@@ -23,7 +23,7 @@ while not _.isEmpty currentCryptos
             branch.children.push tmpCrypt
             lvlCrypts[crypto.name] = tmpCrypt
           else
-            unsolvedCrypt.push crypto
+            unsolvedCrypt = _.uniq(unsolvedCrypt.push crypto)
       else
         console.log crypto
         process.exit(1)
