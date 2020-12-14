@@ -1594,9 +1594,19 @@
     "short": "ACX",
     "url": "/currencies/ac-index",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "forked_data": {
+      "block": [
+        "0x4731...9017980"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "AC eXchange Token": {
     "name": "AC eXchange Token",
@@ -21472,9 +21482,19 @@
     "short": "DEFLCT",
     "url": "/currencies/deflect",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "forked_data": {
+      "block": [
+        "0x3aa5...d86fa53"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "DegenVC": {
     "name": "DegenVC",
@@ -29131,9 +29151,20 @@
     "short": "FOL",
     "url": "/currencies/folder-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "git": "https://github.com/folderlabs/foldercoin",
+    "forked_data": {
+      "block": [
+        "0xA858...09744e1"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Folgory Coin": {
     "name": "Folgory Coin",
@@ -51507,9 +51538,19 @@
     "short": "PLUT",
     "url": "/currencies/pluto",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "forked_data": {
+      "block": [
+        "0xF380...980d967"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Pluton": {
     "name": "Pluton",
@@ -61913,10 +61954,12 @@
     "short": "TENT",
     "url": "/currencies/tent",
     "tags": [
-      "New",
-      "Mineable"
+      "Mineable",
+      "New2",
+      "Coin"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "git": "https://github.com/TENTOfficial/TENT"
   },
   "TERA": {
     "name": "TERA",
@@ -67537,9 +67580,20 @@
     "short": "VLO",
     "url": "/currencies/velo-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "git": "https://github.com/velo-finance/velo-protocol",
+    "forked_data": {
+      "block": [
+        "0x98ad...f39Abe2"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "VENA": {
     "name": "VENA",
@@ -68307,8 +68361,11 @@
     "short": "vBCH",
     "url": "/currencies/venus-bch",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "venus.io",
+      "Binance",
+      "Token"
     ],
     "sawBirth": "14122020",
     "deaths": [
@@ -68322,6 +68379,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68345,6 +68403,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68368,6 +68427,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68391,6 +68451,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68412,13 +68473,24 @@
     "short": "vLINK",
     "url": "/currencies/venus-link",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "venus.io",
+      "Binance"
     ],
     "sawBirth": "14122020",
     "deaths": [
       "14122020"
-    ]
+    ],
+    "forked_data": {
+      "block": [
+        "0x650b...ec11f1f"
+      ],
+      "forked_from": [
+        "Binance Coin Contract"
+      ]
+    }
   },
   "Venus LTC": {
     "name": "Venus LTC",
@@ -68427,6 +68499,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68465,6 +68538,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68480,6 +68554,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68503,6 +68578,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -68526,6 +68602,7 @@
     "tags": [
       "Dead",
       "Token",
+      "venus.io",
       "Binance"
     ],
     "sawBirth": "13122020",
@@ -71567,9 +71644,20 @@
     "short": "XVIX",
     "url": "/currencies/xvix",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "git": "https://github.com/xvi10/xvix-contracts",
+    "forked_data": {
+      "block": [
+        "0x4bAE...43ae9ec"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "XYO": {
     "name": "XYO",
@@ -77164,10 +77252,21 @@
     "short": "YPLT",
     "url": "/currencies/yplutus",
     "tags": [
-      "New",
-      "Yield farming"
+      "Yield farming",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "14122020"
+    "sawBirth": "14122020",
+    "git": "https://github.com/PlutusSwap/yplutus",
+    "forked_data": {
+      "block": [
+        "0x40E7...Dc3DaAE"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "zHEGIC": {
     "name": "zHEGIC",
