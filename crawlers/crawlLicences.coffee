@@ -36,6 +36,7 @@ request
       .replace(/.*\d{4} /, '')
       .replace(/The/, '')
       .replace(/Developers|developers/, '')
+      .replace(/PPCoin/, "Peercoin")
       .trim()
       unless licenceName[licence]?
         console.error "\"#{licence}\": \"#{licence}L\""
