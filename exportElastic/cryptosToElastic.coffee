@@ -13,9 +13,11 @@ for crypto in raw.data
   ret+="{\"id_coincap\": #{crypto.id},
   \"name\":\"#{crypto.name}\",
   \"symbol\":\"#{crypto.symbol}\",
-  \"slug\":\"#{crypto.slug}\",
-  #{tags},
-  \"date_data\": \"#{raw.status.timestamp}\",
+  \"slug\":\"#{crypto.slug}\""
+  if tags.length > 0
+    ret+="#{tags},"
+
+  ret+="\"date_data\": \"#{raw.status.timestamp}\",
   \"max_supply\":#{crypto.max_supply},
   \"circulating_supply\":#{crypto.circulating_supply},
   \"total_supply\": #{crypto.total_supply},
@@ -26,6 +28,6 @@ for crypto in raw.data
   \"percent_change_24h\":#{crypto.quote.USD.percent_change_24h},
   \"percent_change_7d\": #{crypto.quote.USD.percent_change_7d},
   \"market_cap\": #{crypto.quote.USD.market_cap},
-  \"usd_last_updated\": \"#{crypto.quote.USD.last_updated}\" }\n"
+  \"usd_last_updated\": \"#{crypto.quote.USD.last_updated}\"}\n"
 
 console.log(ret)
