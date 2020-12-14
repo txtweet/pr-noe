@@ -1,6 +1,5 @@
 _ = require 'lodash'
 Promise = require 'bluebird'
-cheerio = require 'cheerio'
 request = require 'request-promise'
 writeJsonFile = require 'write-json-file'
 cryptos = require '../cryptos.json'
