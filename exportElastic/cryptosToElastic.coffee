@@ -13,7 +13,7 @@ for crypto in raw.data
   ret+="{\"id_coincap\": #{crypto.id},
   \"name\":\"#{crypto.name}\",
   \"symbol\":\"#{crypto.symbol}\",
-  \"slug\":\"#{crypto.slug}\""
+  \"slug\":\"#{crypto.slug}\","
   if tags.length > 0
     ret+="#{tags},"
 
