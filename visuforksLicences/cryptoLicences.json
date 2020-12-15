@@ -1,58 +1,30 @@
 [
   {
-    "name": "01coin",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "0cash",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "42-coin",
+    "name": "1X2 COIN",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "ALQO",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "AirWire",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Arepacoin",
-    "licences": [
-      "Novacoin"
-    ]
-  },
-  {
-    "name": "Aryacoin",
+    "name": "Acoin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "BLOCKIDCOIN",
+    "name": "Advanced Technology Coin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "Beetle Coin",
+    "name": "Adzcoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "AmsterdamCoin",
     "licences": [
       "Bitcoin",
       "Dash",
@@ -60,37 +32,115 @@
     ]
   },
   {
-    "name": "Beyondcoin",
+    "name": "Anoncoin",
+    "licences": []
+  },
+  {
+    "name": "Apollon",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "AquariusCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin"
+    ]
+  },
+  {
+    "name": "Aricoin",
     "licences": [
       "Bitcoin",
       "Litecoin"
     ]
   },
   {
-    "name": "BiblePay",
+    "name": "Auroracoin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "BigdataCash",
+    "name": "Axiom",
     "licences": [
-      "Bitcoin",
-      "Dash"
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
     ]
   },
   {
-    "name": "BitSend",
+    "name": "BZEdge",
     "licences": [
-      "Dash"
+      "Zcash",
+      "Bitcoin"
     ]
   },
   {
-    "name": "Bitblocks",
+    "name": "Bata",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Beacon",
     "licences": [
       "Bitcoin",
       "Dash",
       "PIVX"
+    ]
+  },
+  {
+    "name": "Bean Cash",
+    "licences": []
+  },
+  {
+    "name": "BenjiRolls",
+    "licences": [
+      "Bitcoin",
+      "Litecoin"
+    ]
+  },
+  {
+    "name": "BioCoin",
+    "licences": [
+      "Bitcoin",
+      "Peercoin"
+    ]
+  },
+  {
+    "name": "Birake",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "Peercoin",
+      "Novacoin"
+    ]
+  },
+  {
+    "name": "BitBar",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "BitMoney",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Bitcloud",
+    "licences": [
+      "Bitcoin",
+      "Dash"
     ]
   },
   {
@@ -98,67 +148,29 @@
     "licences": []
   },
   {
-    "name": "Bitcoin 2",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Bitcoin Cash",
+    "name": "Bitcoin Interest",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "Bitcoin Diamond",
+    "name": "BitcoinV",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "Bitcoin Gold",
+    "name": "Bitstar",
     "licences": [
+      "Peercoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Bitcoin Vault",
+    "name": "Bitvolt",
     "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "BitcoinZ",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Bitcore",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Bitgesell",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Bitradio",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Bitzeny",
-    "licences": [
+      "Novacoin",
+      "Peercoin",
       "Bitcoin"
     ]
   },
@@ -167,194 +179,20 @@
     "licences": []
   },
   {
-    "name": "Block-Logic",
+    "name": "BlazerCoin",
     "licences": [
       "Bitcoin",
-      "Dash",
-      "PIVX"
+      "Litecoin"
     ]
   },
   {
-    "name": "CaluraCoin",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Cashbery Coin",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Castle",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Cicoin",
+    "name": "BlueCoin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "CloakCoin",
-    "licences": []
-  },
-  {
-    "name": "ColossusXT",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Commercium",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Compound",
-    "licences": []
-  },
-  {
-    "name": "Compound Coin",
-    "licences": [
-      "Compound",
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Counos X",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Cream",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Crypto Sports",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Curecoin",
-    "licences": [
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "DECOIN",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "DarkPay",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Dash",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "DeFiChain",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "DeepOnion",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Denarius",
-    "licences": []
-  },
-  {
-    "name": "Deutsche eMark",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "DeviantCoin",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Diamond",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "DigiByte",
-    "licences": []
-  },
-  {
-    "name": "Digiwage",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Documentchain",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Dogecoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "ESBC",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "EUNO",
+    "name": "Bonorum",
     "licences": [
       "Bitcoin",
       "Dash",
@@ -365,14 +203,133 @@
     ]
   },
   {
-    "name": "Einsteinium",
+    "name": "BoostCoin",
+    "licences": []
+  },
+  {
+    "name": "BowsCoin",
+    "licences": [
+      "Bitcoin",
+      "Litecoin"
+    ]
+  },
+  {
+    "name": "BriaCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "CannabisCoin",
+    "licences": [
+      "Bitcoin",
+      "Litecoin"
+    ]
+  },
+  {
+    "name": "Cannation",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Capricoin+",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "Emerald Crypto",
+    "name": "Carboncoin",
+    "licences": []
+  },
+  {
+    "name": "Carebit",
     "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Civitas",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Clams",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "ClubCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "CommunityGeneration",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "CryptoFlow",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Cryptonite",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "DNotes",
+    "licences": []
+  },
+  {
+    "name": "Dash",
+    "licences": []
+  },
+  {
+    "name": "Dash Green",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Digitalcoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "EmberCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
       "Bitcoin"
     ]
   },
@@ -381,166 +338,134 @@
     "licences": []
   },
   {
-    "name": "Emrals",
+    "name": "Energycoin",
+    "licences": [
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Espers",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Eternity",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "EverGreenCoin",
+    "name": "Evil Coin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Fast Access Blockchain",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Freicoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "FuturoCoin",
+    "licences": [
+      "Bitcoin",
+      "Dash"
+    ]
+  },
+  {
+    "name": "Galactrum",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Gentarium",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "GeyserCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Gravity",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Helium",
     "licences": []
   },
   {
-    "name": "ExclusiveCoin",
+    "name": "HiCoin",
     "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "FLO",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "FantasyGold",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Feathercoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Firo",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Flits",
-    "licences": [
-      "Bitcoin",
-      "Dash",
+      "BlackCoin",
       "Peercoin",
-      "Novacoin",
-      "BlackCoin",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Freecash",
-    "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "French Digital Reserve",
+    "name": "HoboNickels",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX",
-      "XDNA"
-    ]
-  },
-  {
-    "name": "Garlicoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Giant",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "GlobalBoost-Y",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "GlobalToken",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "GoByte",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Gold Poker",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "GridCoin",
-    "licences": [
-      "BlackCoin",
       "Novacoin",
       "Peercoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Guapcoin",
+    "name": "HollyWoodCoin",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "Peercoin",
       "Novacoin",
-      "BlackCoin",
-      "PIVX"
+      "Peercoin",
+      "Bitcoin"
     ]
   },
   {
-    "name": "Hanacoin",
+    "name": "HondaisCoin",
     "licences": [
-      "Bitcoin",
-      "Litecoin"
+      "Bitcoin"
     ]
   },
   {
-    "name": "Harcomia",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "HempCoin",
+    "name": "Hush",
     "licences": [
       "Bitcoin",
       "Zcash",
-      "Komodo",
-      "VerusCoin"
+      "Komodo"
     ]
   },
   {
-    "name": "Historia",
+    "name": "ION",
     "licences": [
       "Bitcoin",
       "Dash"
     ]
   },
   {
-    "name": "I/O Coin",
+    "name": "Independent Money System",
     "licences": [
       "Novacoin",
       "Peercoin",
@@ -548,40 +473,14 @@
     ]
   },
   {
-    "name": "IQ.cash",
+    "name": "InflationCoin",
     "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "ImageCash",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "ImageCoin",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Index Chain",
-    "licences": [
+      "Novacoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Infinitecoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Junsonmingchncoin",
+    "name": "InsaneCoin",
     "licences": [
       "Novacoin",
       "Peercoin",
@@ -589,19 +488,17 @@
     ]
   },
   {
-    "name": "Kalkulus",
+    "name": "Ixcoin",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
+      "Bitcoin"
     ]
   },
   {
-    "name": "Kemacoin",
+    "name": "Kobocoin",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
     ]
   },
   {
@@ -609,173 +506,99 @@
     "licences": []
   },
   {
-    "name": "LONG COIN",
+    "name": "Kurrent",
     "licences": [
+      "Zerocoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Largo Coin",
+    "name": "Zerocoin",
+    "licences": []
+  },
+  {
+    "name": "LanaCoin",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "LiteBitcoin",
+    "licences": [
+      "Bitcoin"
     ]
   },
   {
     "name": "Litecoin",
-    "licences": [
-      "Bitcoin"
-    ]
+    "licences": []
   },
   {
-    "name": "Litecoin Plus",
-    "licences": [
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Lobstex",
+    "name": "MNPCoin",
     "licences": [
       "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Lynx",
-    "licences": [
-      "Bitcoin",
-      "Litecoin"
-    ]
-  },
-  {
-    "name": "MMOCoin",
-    "licences": [
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "MYCE",
-    "licences": [
-      "Bitcoin",
-      "Bitcoin Cash",
       "Dash",
       "PIVX",
-      "NavCoin"
+      "Wagerr"
     ]
   },
   {
-    "name": "MarteXcoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Martkist",
+    "name": "Merebel",
     "licences": [
       "Bitcoin",
       "Dash"
     ]
   },
   {
-    "name": "Megacoin",
+    "name": "MojoCoin",
     "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "PepeCoin",
-    "licences": [
-      "Bitcoin",
-      "Litecoin",
+      "Novacoin",
       "Peercoin",
-      "Darkcoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "MustangCoin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Netrum",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Neutron",
+    "licences": [
+      "BitcoinDark",
       "BlackCoin",
-      "DigiByte",
-      "Dash",
-      "NetCoin",
-      "TransferCoin"
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
     ]
   },
   {
-    "name": "NetCoin",
+    "name": "BitcoinDark",
     "licences": []
   },
   {
-    "name": "Mirai",
+    "name": "NevaCoin",
     "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "MktCoin",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Mobile Crypto Pay Coin",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "MonaCoin",
-    "licences": [
-      "Bitcoin",
-      "Litecoin",
-      "DigiByte",
-      "Dash",
-      "Vertcoin"
-    ]
-  },
-  {
-    "name": "MonetaryUnit",
-    "licences": []
-  },
-  {
-    "name": "Money of Tomorrow, Today",
-    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Monkey Project",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Myriad",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "NEOBITCOIN",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "NIX",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Nasdacoin",
+    "name": "Novacoin",
     "licences": [
       "Bitcoin",
       "Peercoin",
@@ -783,11 +606,7 @@
     ]
   },
   {
-    "name": "NavCoin",
-    "licences": []
-  },
-  {
-    "name": "NewYork Exchange",
+    "name": "Nyerium",
     "licences": [
       "Bitcoin",
       "Dash",
@@ -795,17 +614,7 @@
     ]
   },
   {
-    "name": "Noir",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Novacoin",
-    "licences": []
-  },
-  {
-    "name": "ODUWA",
+    "name": "OC Protocol",
     "licences": [
       "Novacoin",
       "Peercoin",
@@ -813,16 +622,13 @@
     ]
   },
   {
-    "name": "OKCash",
+    "name": "Octoin Coin",
     "licences": [
-      "BlackCoin",
-      "Novacoin",
-      "Peercoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "PEPS Coin",
+    "name": "PAXEX",
     "licences": [
       "Bitcoin",
       "Dash",
@@ -831,25 +637,24 @@
   },
   {
     "name": "PIVX",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "Peercoin",
-      "Novacoin",
-      "BlackCoin"
-    ]
+    "licences": []
   },
   {
-    "name": "PROUD Money",
+    "name": "PLNcoin",
     "licences": [
-      "Novacoin",
-      "Peercoin",
       "Bitcoin"
     ]
   },
   {
-    "name": "Pandacoin",
+    "name": "PWR Coin",
     "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Pakcoin",
+    "licences": [
+      "BlackCoin",
       "Novacoin",
       "Peercoin",
       "Bitcoin"
@@ -860,143 +665,19 @@
     "licences": []
   },
   {
-    "name": "Phore",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Pigeoncoin",
+    "name": "Pesetacoin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "PlusOneCoin",
+    "name": "Photon",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "Polis",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "PopularCoin",
-    "licences": [
-      "Bitcoin",
-      "Peercoin",
-      "Litecoin",
-      "Novacoin"
-    ]
-  },
-  {
-    "name": "Primecoin",
-    "licences": [
-      "Bitcoin",
-      "Peercoin"
-    ]
-  },
-  {
-    "name": "PutinCoin",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Pyrk",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "Qtum",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Quasarcoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Radium",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Ragnarok",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Rapids",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Ravencoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "ReddCoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Resistance",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Ritocoin",
-    "licences": []
-  },
-  {
-    "name": "SCRIV NETWORK",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "SHIELD",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "SIBCoin",
-    "licences": [
-      "Bitcoin",
-      "Dash"
-    ]
-  },
-  {
-    "name": "SONO",
+    "name": "PlatinumBAR",
     "licences": [
       "BlackCoin",
       "Novacoin",
@@ -1005,16 +686,43 @@
     ]
   },
   {
-    "name": "SafeCoin",
+    "name": "PostCoin",
     "licences": [
-      "Bitcoin",
-      "Zcash",
-      "Komodo",
-      "VerusCoin"
+      "Bitcoin"
     ]
   },
   {
-    "name": "SaluS",
+    "name": "PureVidz",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "QYNO",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Quantis Network",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Quebecoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Quotient",
     "licences": [
       "BlackCoin",
       "Novacoin",
@@ -1023,32 +731,298 @@
     ]
   },
   {
-    "name": "SmartCash",
+    "name": "ROIyal Coin",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Ratecoin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Redd",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "SnowGem",
+    "name": "Rupee",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "SOLBIT",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX",
+      "XDNA"
+    ]
+  },
+  {
+    "name": "SaveNode",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Sexcoin",
+    "licences": [
+      "Bitcoin",
+      "Viacoin"
+    ]
+  },
+  {
+    "name": "Shard",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "SkyHub Coin",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "SmartCoin",
+    "licences": [
+      "Bitcoin",
+      "Litecoin"
+    ]
+  },
+  {
+    "name": "SnodeCoin",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "SocialCoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Solaris",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "SongCoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "SpectreSecurityCoin",
+    "licences": [
+      "Stipenddev",
+      "Bithold",
+      "Dash",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Bithold",
     "licences": []
   },
   {
-    "name": "SolarCoin",
+    "name": "Stipenddev",
+    "licences": []
+  },
+  {
+    "name": "SpreadCoin",
+    "licences": []
+  },
+  {
+    "name": "Squorum",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX",
+      "Helium"
+    ]
+  },
+  {
+    "name": "SteepCoin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "StrongHands Masternode",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "Synergy",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "TOKYO",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "TajCoin",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "ToaCoin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Tradeplus",
+    "licences": [
+      "Bitcoin",
+      "Dash"
+    ]
+  },
+  {
+    "name": "TransferCoin",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Trexcoin",
     "licences": [
       "Bitcoin"
     ]
   },
   {
-    "name": "SorachanCoin",
+    "name": "Ulord",
     "licences": [
       "Bitcoin",
-      "Peercoin",
-      "Emercoin",
-      "Novacoin"
+      "Dash"
     ]
   },
   {
-    "name": "SovranoCoin",
+    "name": "Ultimate Secure Cash",
+    "licences": [
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "VectorAI",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Versess Coin",
+    "licences": [
+      "Bitcoin",
+      "Dash"
+    ]
+  },
+  {
+    "name": "Viacoin",
+    "licences": []
+  },
+  {
+    "name": "Vites",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Vivid Coin",
+    "licences": [
+      "Bitcoin",
+      "Dash",
+      "PIVX"
+    ]
+  },
+  {
+    "name": "VoteCoin",
+    "licences": [
+      "Zcash",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Darkcoin",
+    "licences": []
+  },
+  {
+    "name": "Wagerr",
+    "licences": []
+  },
+  {
+    "name": "X-Coin",
+    "licences": [
+      "Darkcoin",
+      "10kcoin",
+      "Bean Cash",
+      "BitcoinDark",
+      "BlackCoin",
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "cc",
+    "licences": [
+      "10kcoin"
+    ]
+  },
+  {
+    "name": "XDNA",
+    "licences": []
+  },
+  {
+    "name": "YEP COIN",
     "licences": [
       "Bitcoin",
       "Dash",
@@ -1058,270 +1032,60 @@
     ]
   },
   {
-    "name": "Sphere",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Talkcoin",
-    "licences": []
-  },
-  {
-    "name": "StakeCubeCoin",
+    "name": "Zayedcoin",
     "licences": [
       "Bitcoin",
-      "Dash",
-      "PIVX",
-      "Phore",
-      "MonetaryUnit"
-    ]
-  },
-  {
-    "name": "Stakenet",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Stealth",
-    "licences": [
-      "CloakCoin",
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Streamit Coin",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Sugarchain",
-    "licences": [
-      "Bitcoin",
-      "Zcash"
-    ]
-  },
-  {
-    "name": "Super Bitcoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "TENT",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Teloscoin",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Titan Coin",
-    "licences": [
-      "Bitcoin",
-      "Ritocoin"
-    ]
-  },
-  {
-    "name": "TransferCoin",
-    "licences": []
-  },
-  {
-    "name": "Trittium",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Uniform Fiscal Object",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Unify",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Unobtanium",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "V-Dimension",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Veles",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "Talkcoin",
-      "Zcoin",
-      "PIVX",
-      "FxTC Core"
-    ]
-  },
-  {
-    "name": "FxTC Core",
-    "licences": []
-  },
-  {
-    "name": "VeriCoin",
-    "licences": [
-      "BlackCoin",
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Vertcoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "VerusCoin",
-    "licences": [
-      "Bitcoin",
-      "Zcash",
-      "Komodo"
-    ]
-  },
-  {
-    "name": "Viacoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Vidulum",
-    "licences": [
-      "Zcash",
-      "Bitcoin",
-      "SnowGem"
-    ]
-  },
-  {
-    "name": "VinDax Coin",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Vitae",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Darkcoin",
-    "licences": []
-  },
-  {
-    "name": "XDNA",
-    "licences": [
-      "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "XGOX",
-    "licences": [
-      "Novacoin",
-      "Peercoin",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "YENTEN",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Ycash",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "ZClassic",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
+      "Litecoin"
     ]
   },
   {
     "name": "Zcash",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Zcoin",
     "licences": []
   },
   {
-    "name": "Zealium",
+    "name": "Zcoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Zeitcoin",
+    "licences": []
+  },
+  {
+    "name": "Zennies",
+    "licences": [
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "Zurcoin",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "eBoost",
+    "licences": [
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "iBank",
+    "licences": [
+      "Novacoin",
+      "Peercoin",
+      "Bitcoin"
+    ]
+  },
+  {
+    "name": "iTicoin",
     "licences": [
       "Bitcoin",
-      "Dash",
-      "PIVX"
-    ]
-  },
-  {
-    "name": "Zel",
-    "licences": [
-      "Zcash",
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "Zetacoin",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "eXPerience Chain",
-    "licences": [
-      "Bitcoin"
-    ]
-  },
-  {
-    "name": "gAsp",
-    "licences": [
-      "Bitcoin"
+      "Peercoin",
+      "Emercoin",
+      "Novacoin"
     ]
   }
 ]

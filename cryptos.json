@@ -7986,7 +7986,7 @@
       "Hybrid - PoW & PoS",
       "SHA-256",
       "Dead",
-      "BitBeanL"
+      "Bean CashL"
     ],
     "deaths": [
       "30112020",
@@ -38546,6 +38546,14 @@
       ]
     }
   },
+  "Zerocoin": {
+    "name": "Zerocoin",
+    "git": "https://github.com/Zerocoin/libzerocoin",
+    "tags": [
+      "Dead",
+      "ZerocoinL"
+    ]
+  },
   "LBRY Credits": {
     "name": "LBRY Credits",
     "short": "LBC",
@@ -46374,6 +46382,17 @@
     "git": "https://github.com/neutroncoin/neutron",
     "deaths": [
       "13122020"
+    ]
+  },
+  "BitcoinDark":{
+    "name": "BitcoinDark",
+    "git": "https://github.com/laowais/bitcoindark",
+    "tags": [
+      "Dead",
+      "BitcoinDarkL",
+      "NovacoinL",
+      "PeercoinL",
+      "BitcoinL"
     ]
   },
   "NevaCoin": {
@@ -59780,6 +59799,25 @@
     ],
     "git": "https://github.com/SpectreSecurityCoin/SpectreSecurityCoin"
   },
+  "Bithold": {
+    "name": "Bithold",
+    "git": "https://github.com/Bitholddev/Bithold",
+    "tags": [
+      "Dead",
+      "BitholdL",
+      "DashL",
+      "PeercoinL",
+      "BitcoinL"
+    ]
+  },
+  "Stipenddev": {
+    "name": "Stipenddev",
+    "git": "https://github.com/Stipend-Developer/stipend",
+    "tags": [
+      "Dead",
+      "StipenddevL"
+    ]
+  },
   "Spectrum": {
     "name": "Spectrum",
     "short": "SPT",
@@ -71216,7 +71254,7 @@
       "XcoinL",
       "DarkcoinL",
       "10kcoinL",
-      "BitBeanL",
+      "Bean CashL",
       "BitcoinDarkL",
       "BlackCoinL",
       "NovacoinL",
@@ -71235,6 +71273,13 @@
       "14122020"
     ],
     "git": "https://github.com/jimblasko/xcoin"
+  },
+  "10kcoin": {
+    "name": "cc",
+    "git": "https://github.com/10KCoin/10KCoin",
+    "tags": [
+      "Dead"
+    ]
   },
   "X12 Coin": {
     "name": "X12 Coin",
@@ -75893,7 +75938,7 @@
       "PeerunityL",
       "EmercoinL",
       "NovacoinL",
-      "iTiCoinL"
+      "iTicoinL"
     ],
     "deaths": [
       "30112020"
