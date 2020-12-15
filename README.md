@@ -98,3 +98,10 @@ Tether : https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
 
 ## Cours
 https://gramoli.redbellyblockchain.io/web/doc/chapter2.pdf
+
+
+
+--- Liste des tags
+"NoLicenceFile"
+"External"
+"NoGithub"

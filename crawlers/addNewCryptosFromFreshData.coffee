@@ -43,10 +43,11 @@ _.forEach cryptos, (crypto) ->
 
   unless "Dead" in crypto.tags
     unless _.find fresh.data, {"name": crypto.name}
-      console.error("Monnaie non trouvée dans le nouveaux fichier #{crypto.name} #{crypto.short} #{crypto.url}")
-      # process.exit(1)
-      crypto.tags.push("Dead")
-      crypto.deaths = ["01011970"]
+      if "External" not in crypto.tags
+        console.error("Monnaie non trouvée dans le nouveaux fichier #{crypto.name} #{crypto.short} #{crypto.url}")
+        # process.exit(1)
+        crypto.tags.push("Dead")
+        crypto.deaths = ["01011970"]
 
 _.forEach fresh.data, (crypto) ->
   if crypto.name.endsWith("FTX")
