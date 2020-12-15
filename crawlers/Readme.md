@@ -12,7 +12,7 @@ Ce répertoire contient les scripts d'intégration des tokens et monnaies dans l
 > coffee ./addNewCryptosFromFreshData.coffee 14122020 > toto.json
 
 *Le script s'arrête si une monnaie est renommée. Il faut corriger le fichier avant*
-Si tout est ok, déplacer le fichier à la place du fichier de crypto.json et comiter le. Les nouvelles monnaies sont taguées 'New'
+Si tout est ok, déplacer le fichier à la place du fichier de crypto.json et commiter le. Les nouvelles monnaies sont taguées 'New'
 
 ## Crawl des nouvelles monnaies
 Lancer le script de récupération des données des monnaie.

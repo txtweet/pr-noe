@@ -59,7 +59,7 @@ request
     else if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
       crypto.tags.push("Ethereum")
       console.warn("Token pour #{crypto.name}")
-    else if "TRON Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    else if "Tron" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
       crypto.tags.push("Tron")
       console.warn("Token pour #{crypto.name}")
     else if "Binance Coin Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
