@@ -177,9 +177,10 @@
     }
   },
   "10kcoin": {
-    "name": "cc",
+    "name": "10kcoin",
     "git": "https://github.com/10KCoin/10KCoin",
     "tags": [
+      "External",
       "Dead"
     ]
   },
@@ -69503,7 +69504,9 @@
     "tags": [
       "Dead",
       "New2",
-      "Token"
+      "Token",
+      "venus.io",
+      "Binance"
     ],
     "sawBirth": "15122020",
     "deaths": [
