@@ -11602,9 +11602,20 @@
     "short": "BNFI",
     "url": "/currencies/blaze-defi",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/blazenetw/blazedefi/blob/main/source-code",
+    "forked_data": {
+      "block": [
+        "0x68e0...859218b"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Blaze Network": {
     "name": "Blaze Network",
@@ -13425,9 +13436,19 @@
     "short": "BSE",
     "url": "/currencies/buy-sell",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "forked_data": {
+      "block": [
+        "0xa301...005570c"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "BuySell": {
     "name": "BuySell",
@@ -32279,9 +32300,20 @@
     "short": "PUNT",
     "url": "/currencies/greenheart-punt",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/ShaneBrettPUNT/Greenheartpunt",
+    "forked_data": {
+      "block": [
+        "0x6f3B...200Fe3E"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Gric Coin": {
     "name": "Gric Coin",
@@ -34335,9 +34367,20 @@
     "short": "HUB",
     "url": "/currencies/hub-human-trust-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/hubtoken/hub-ethereum-token",
+    "forked_data": {
+      "block": [
+        "0xba35...5050d2d"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "HubDao": {
     "name": "HubDao",
@@ -41236,9 +41279,20 @@
     "short": "LDN",
     "url": "/currencies/ludena-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/ludena-protocol",
+    "forked_data": {
+      "block": [
+        "0xb296...B70a158"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Ludos Protocol": {
     "name": "Ludos Protocol",
@@ -44163,9 +44217,11 @@
     "short": "PLEX",
     "url": "/currencies/mineplex",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/mineplexio"
   },
   "Mineral": {
     "name": "Mineral",
@@ -47454,9 +47510,20 @@
     "short": "NDR",
     "url": "/currencies/node-runners",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/thenoderunners/",
+    "forked_data": {
+      "block": [
+        "0x7397...455bE53"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Noir": {
     "name": "Noir",
@@ -55739,9 +55806,20 @@
     "short": "RLE",
     "url": "/currencies/richlab-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Tron"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/blockchainforfuture/rletoken",
+    "forked_data": {
+      "block": [
+        "TDXJ1d...65BNU5c"
+      ],
+      "forked_from": [
+        "Tron"
+      ]
+    }
   },
   "RightMesh": {
     "name": "RightMesh",
@@ -60454,9 +60532,19 @@
     "short": "300",
     "url": "/currencies/spartan",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "forked_data": {
+      "block": [
+        "0x167e...b348a41"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Spartan Protocol": {
     "name": "Spartan Protocol",
@@ -65993,9 +66081,20 @@
     "short": "TRI",
     "url": "/currencies/trinity-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/trinityprotocol?tab=repositories",
+    "forked_data": {
+      "block": [
+        "0xc299...863924d"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Tripio": {
     "name": "Tripio",
@@ -67918,9 +68017,20 @@
     "short": "DUCK",
     "url": "/currencies/unit-protocol-duck",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/unitprotocol/core",
+    "forked_data": {
+      "block": [
+        "0x92e1...d2357d5"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "United Bitcoin": {
     "name": "United Bitcoin",
@@ -69391,8 +69501,9 @@
     "short": "vDOT",
     "url": "/currencies/venus-dot",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token"
     ],
     "sawBirth": "15122020",
     "deaths": [
@@ -73750,9 +73861,20 @@
     "short": "YFW",
     "url": "/currencies/yfworld",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/",
+    "forked_data": {
+      "block": [
+        "0x5c71...b8a370c"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "YFarmLand Token": {
     "name": "YFarmLand Token",
@@ -74491,9 +74613,19 @@
     "short": "YLD",
     "url": "/currencies/yield",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "forked_data": {
+      "block": [
+        "0xdcb0...6eaff9f"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Yield Breeder DAO": {
     "name": "Yield Breeder DAO",
@@ -75738,9 +75870,20 @@
     "short": "SZC",
     "url": "/currencies/zugacoin",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/judgeidoko/zugacoin",
+    "forked_data": {
+      "block": [
+        "0xf583...c03BA1F"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "ZumCoin": {
     "name": "ZumCoin",
@@ -76537,9 +76680,20 @@
     "short": "YETH",
     "url": "/currencies/fyeth-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/RodionIyer/yETH",
+    "forked_data": {
+      "block": [
+        "0xD387...FFeD0c8"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "gAsp": {
     "name": "gAsp",
@@ -77316,9 +77470,20 @@
     "short": "RENFIL",
     "url": "/currencies/renfil",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "15122020"
+    "sawBirth": "15122020",
+    "git": "https://github.com/renproject",
+    "forked_data": {
+      "block": [
+        "0xD514...99276F5"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "sADA": {
     "name": "sADA",
