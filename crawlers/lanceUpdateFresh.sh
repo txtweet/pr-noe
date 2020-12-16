@@ -21,3 +21,5 @@ while true; do
   sleep 60
 
 done
+set `date +%d%m%Y`
+coffee ./statistics.coffee $* > stat-$*.txt

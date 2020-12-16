@@ -71,6 +71,10 @@ request
         delete crypto.forked_data
       else
         console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
-
+.catch (err) ->
+  console.error "Crypto non trouvée #{crypto.name}"
+  crypto.tags = _.without crypto.tags, "New"
+  console.log JSON.stringify cryptos, null, 2
+  process.exit(1)
 .then () ->
   console.log JSON.stringify cryptos, null, 2
