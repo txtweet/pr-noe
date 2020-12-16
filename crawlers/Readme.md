@@ -6,7 +6,7 @@ Ce répertoire contient les scripts d'intégration des tokens et monnaies dans l
 > wget -O toto.json https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?aux=circulating_supply,tags,max_supply,total_supply&convert=USD&cryptocurrency_type=all&limit=5000&sort=market_cap&sort_dir=desc&start=1
 
  - Enregistrement du fichier avec parsing json dans le bon nom
-> json < toto.json > ../crypto-<ddmmyyyy>
+> json < toto.json > ../crypto-<ddmmyyyy>.json
 
  - Analyse du fichier pour l'intégration des monnaies dans crypto.json
 > coffee ./addNewCryptosFromFreshData.coffee 14122020 > toto.json
