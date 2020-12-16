@@ -13,7 +13,7 @@ for crypto in raw.data
   if datas[crypto.name]?
     datadb={}
     _.forEach(datas[crypto.name], (val, key) ->
-      unless key == "name" or key == "tags" or key == "forked_data" or key=="depends" or key== "people"
+      unless key == "name" or key == "tags" or key == "forked_data" or key=="depends" or key== "people" or key=="deaths"
         datadb[key]=val
         return
       if key == "tags"
@@ -29,6 +29,11 @@ for crypto in raw.data
       if key == "people"
         val.forEach((x) ->
           datadb["people_"+x] = true
+        )
+        return
+      if key == "deaths"
+        val.forEach((x) -> 
+          datadb["deaths_"+x] = true
         )
         return
       if key == "forked_data"
@@ -69,7 +74,9 @@ for crypto in raw.data
   \"usd_last_updated\": \"#{crypto.quote.USD.last_updated}\""
   block = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
   _.forEach(datadb, (val,key) ->
-    ret+=",\"#{key}\":\"#{val}\""
+    unless val == true or val== false
+      val="\"#{val}\""
+    ret+=",\"#{key}\":#{val}"
   )
   ret+="}\n"
 
