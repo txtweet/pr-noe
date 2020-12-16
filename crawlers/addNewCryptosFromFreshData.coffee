@@ -54,6 +54,8 @@ _.forEach fresh.data, (crypto) ->
     crypto.tags.push("ftx")
   if crypto.name.endsWith("Bittrex")
     crypto.tags.push("bittrex")
+  if crypto.name.startsWith("Mirrored")
+    crypto.tags.push("Mirror")
   unless cryptos[crypto.name]?
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found
