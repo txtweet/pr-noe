@@ -169,7 +169,8 @@
     "git": "https://github.com/10KCoin/10KCoin",
     "tags": [
       "External",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ]
   },
   "12Ships": {
@@ -2398,9 +2399,21 @@
     "short": "ARVO",
     "url": "/currencies/arvo",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/arvofi",
+    "forked_data": {
+      "block": [
+        "0x6293...e4b48b1"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "ARbit": {
     "name": "ARbit",
@@ -8586,7 +8599,8 @@
     "short": "BERRY",
     "url": "/currencies/berry",
     "tags": [
-      "New"
+      "New2",
+      "Coin"
     ],
     "sawBirth": "16122020"
   },
@@ -11733,7 +11747,8 @@
     "url": "/currencies/blaze-defi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/blazenetw/blazedefi/blob/main/source-code",
@@ -21237,9 +21252,21 @@
     "short": "DJ15",
     "url": "/currencies/davincij15-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Davincij15",
+    "forked_data": {
+      "block": [
+        "0x5d26...682a4b9"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Davion": {
     "name": "Davion",
@@ -21498,9 +21525,19 @@
     "short": "DFO",
     "url": "/currencies/defiato",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "forked_data": {
+      "block": [
+        "0x1640...25ac0Cc"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "DeFiner": {
     "name": "DeFiner",
@@ -21713,9 +21750,21 @@
     "short": "DEBA",
     "url": "/currencies/decentralized-bank",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/DeFiDeBa/DeBaProtocol",
+    "forked_data": {
+      "block": [
+        "0xB565...7832437"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Decentralized Crypto Token": {
     "name": "Decentralized Crypto Token",
@@ -28512,9 +28561,21 @@
     "short": "FNK",
     "url": "/currencies/fnk-wallet",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/FnkToken/smartcontract",
+    "forked_data": {
+      "block": [
+        "0xb5fe...62a48ad"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "FNKOS": {
     "name": "FNKOS",
@@ -32703,7 +32764,8 @@
     "url": "/currencies/greenheart-punt",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/ShaneBrettPUNT/Greenheartpunt",
@@ -33112,9 +33174,21 @@
     "short": "HLAND",
     "url": "/currencies/hland-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/HLAND-swap",
+    "forked_data": {
+      "block": [
+        "0xba7b...7f544dc"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "HOLD": {
     "name": "HOLD",
@@ -34804,7 +34878,8 @@
     "url": "/currencies/hub-human-trust-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/hubtoken/hub-ethereum-token",
@@ -41794,7 +41869,8 @@
     "url": "/currencies/ludena-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/ludena-protocol",
@@ -43962,9 +44038,12 @@
     "short": "MEDI",
     "url": "/currencies/mediconnectuk",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/stratisproject/CirrusSmartContracts/tree/master/Mainnet/StandardToken"
   },
   "Medium": {
     "name": "Medium",
@@ -44779,7 +44858,8 @@
     "short": "PLEX",
     "url": "/currencies/mineplex",
     "tags": [
-      "Token"
+      "Token",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/mineplexio"
@@ -44939,117 +45019,273 @@
     "short": "mBABA",
     "url": "/currencies/mirrored-alibaba",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Mirror-Protocol/mirror-web-app",
+    "forked_data": {
+      "block": [
+        "0x56aA...Cc0aF72"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Amazon": {
     "name": "Mirrored Amazon",
     "short": "MAMZN",
     "url": "/currencies/mirrored-amazon",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x0cae...2B9cAa7"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Apple": {
     "name": "Mirrored Apple",
     "short": "mAAPL",
     "url": "/currencies/mirrored-apple",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Mirror-Protocol/mirror-web-app",
+    "forked_data": {
+      "block": [
+        "0xd369...Fd15a84"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Google": {
     "name": "Mirrored Google",
     "short": "mGOOGL",
     "url": "/currencies/mirrored-google",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Mirror-Protocol/mirror-web-app",
+    "forked_data": {
+      "block": [
+        "0x59A9...2653442"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Invesco QQQ Trust": {
     "name": "Mirrored Invesco QQQ Trust",
     "short": "MQQQ",
     "url": "/currencies/mirrored-invesco-qqq-trust",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x13B0...2F57d15"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Microsoft": {
     "name": "Mirrored Microsoft",
     "short": "MMSFT",
     "url": "/currencies/mirrored-microsoft",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x41Bb...9852BD7"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Netflix": {
     "name": "Mirrored Netflix",
     "short": "mNFLX",
     "url": "/currencies/mirrored-netflix",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Mirror-Protocol/mirror-web-app",
+    "forked_data": {
+      "block": [
+        "0xC8d6...a0F9DCD"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Tesla": {
     "name": "Mirrored Tesla",
     "short": "mTSLA",
     "url": "/currencies/mirrored-tesla",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Mirror-Protocol/mirror-web-app",
+    "forked_data": {
+      "block": [
+        "0x21cA...066fD63"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Twitter": {
     "name": "Mirrored Twitter",
     "short": "MTWTR",
     "url": "/currencies/mirrored-twitter",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0xEdb0...D78CCA9"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored United States Oil Fund": {
     "name": "Mirrored United States Oil Fund",
     "short": "MUSO",
     "url": "/currencies/mirrored-united-states-oil-fund",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x31c6...C356991"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored iShares Gold Trust": {
     "name": "Mirrored iShares Gold Trust",
     "short": "MIAU",
     "url": "/currencies/mirrored-ishares-gold-trust",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x1d35...D91F373"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored iShares Silver Trust": {
     "name": "Mirrored iShares Silver Trust",
     "short": "MSLV",
     "url": "/currencies/mirrored-ishares-silver-trust",
     "tags": [
-      "New",
-      "Tokenized Stock"
+      "Tokenized Stock",
+      "New2",
+      "Token",
+      "Ethereum",
+      "Mirror",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0x9d15...3166676"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Misbloc": {
     "name": "Misbloc",
@@ -46475,9 +46711,21 @@
     "short": "N3RDz",
     "url": "/currencies/n3rd-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/N3RD-FINANCE/n3rd-finance-contracts",
+    "forked_data": {
+      "block": [
+        "0x32c8...39e4eee"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "NAGA": {
     "name": "NAGA",
@@ -47200,9 +47448,21 @@
     "short": "NFUP",
     "url": "/currencies/natural-farm-union-protocol",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/nfupio/token",
+    "forked_data": {
+      "block": [
+        "0x26CB...b17bBF0"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "NavCoin": {
     "name": "NavCoin",
@@ -48241,7 +48501,8 @@
     "url": "/currencies/node-runners",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/thenoderunners/",
@@ -50833,9 +51094,21 @@
     "short": "$PIR",
     "url": "/currencies/piranhas",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Piranhas-Fin",
+    "forked_data": {
+      "block": [
+        "0x0e3c...473cd27"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "PIVX": {
     "name": "PIVX",
@@ -53760,9 +54033,21 @@
     "short": "PRDZ",
     "url": "/currencies/predictz",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/predictz",
+    "forked_data": {
+      "block": [
+        "0x4e08...7c3664d"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Predix Network": {
     "name": "Predix Network",
@@ -56640,7 +56925,8 @@
     "url": "/currencies/richlab-token",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/blockchainforfuture/rletoken",
@@ -56882,9 +57168,21 @@
     "short": "RZN",
     "url": "/currencies/rizen-coin",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/Rizencoin",
+    "forked_data": {
+      "block": [
+        "0xd8c8...153c1d7"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "RoBET": {
     "name": "RoBET",
@@ -59116,9 +59414,21 @@
     "short": "SPICE",
     "url": "/currencies/scifi-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/spicedao/",
+    "forked_data": {
+      "block": [
+        "0x1fda...5bcc664"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Scopuly Coin": {
     "name": "Scopuly Coin",
@@ -61720,9 +62030,19 @@
     "short": "SPDR",
     "url": "/currencies/spiderdao",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "forked_data": {
+      "block": [
+        "0xbcd4...d790fdd"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Spiking": {
     "name": "Spiking",
@@ -63632,9 +63952,21 @@
     "short": "NOIA",
     "url": "/currencies/syntropy",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum",
+      "NoLicenceFile"
     ],
-    "sawBirth": "16122020"
+    "sawBirth": "16122020",
+    "git": "https://github.com/noia-network",
+    "forked_data": {
+      "block": [
+        "0xa8c8...CD7b6ca"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Syscoin": {
     "name": "Syscoin",
@@ -65197,13 +65529,16 @@
     "short": "TTR",
     "url": "/currencies/tetris",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token",
+      "NoLicenceFile"
     ],
     "sawBirth": "16122020",
     "deaths": [
       "16122020"
-    ]
+    ],
+    "git": "https://github.com/Tetrisbsc"
   },
   "Tezos": {
     "name": "Tezos",
@@ -67102,7 +67437,8 @@
     "url": "/currencies/trinity-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/trinityprotocol?tab=repositories",
@@ -69052,7 +69388,8 @@
     "url": "/currencies/unit-protocol-duck",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/unitprotocol/core",
@@ -74985,7 +75322,8 @@
     "url": "/currencies/yfworld",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/",
@@ -77007,7 +77345,8 @@
     "url": "/currencies/zugacoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/judgeidoko/zugacoin",
@@ -77824,7 +78163,8 @@
     "url": "/currencies/fyeth-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/RodionIyer/yETH",
@@ -78624,7 +78964,8 @@
     "url": "/currencies/renfil",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoLicenceFile"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/renproject",
