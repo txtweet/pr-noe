@@ -20,10 +20,9 @@ Si tout est ok, déplacer le fichier à la place du fichier de crypto.json et co
 Lancer le script de récupération des données des monnaie.
 Le script intègre, les numéros de token, les tags, et les références github.
 
-> ./lanceUpdateFresh.sh
+> 5 ./lanceUpdateFresh.sh
 
-A la fin on peut lancer le fichier de stat qui génère les statistiques de ces nouvelles newCryptos
-> ./coffee ./statistics.coffee <ddmmyyyy>
+Un fichier de statistiques est créé à la fin du script
 
 ## Crawl de github pour récupérer les licences
 > ./lanceGitHub.sh

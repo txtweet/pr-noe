@@ -19460,9 +19460,19 @@
     "short": "CRT",
     "url": "/currencies/cryptonits",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0x36a2...4feeeb4"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Cryptopay": {
     "name": "Cryptopay",
@@ -33173,9 +33183,20 @@
     "short": "GR",
     "url": "/currencies/grom",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "git": "https://github.com/AndreyTischenko77/GromTokenERC20",
+    "forked_data": {
+      "block": [
+        "0xcE59...7dA575c"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Groovy Finance": {
     "name": "Groovy Finance",
@@ -37198,7 +37219,8 @@
     "short": "IQC",
     "url": "/currencies/intelligence-quickly-chain",
     "tags": [
-      "New"
+      "New2",
+      "Coin"
     ],
     "sawBirth": "17122020"
   },
@@ -43997,9 +44019,19 @@
     "short": "MSV",
     "url": "/currencies/marvrodi-salute-vision",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0x3d3a...c934357"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Masari": {
     "name": "Masari",
@@ -47360,9 +47392,20 @@
     "short": "LOOT",
     "url": "/currencies/nftlootbox",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "git": "https://github.com/NFTLootBox/contracts",
+    "forked_data": {
+      "block": [
+        "0x7b3D...B04F935"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "NFX Coin": {
     "name": "NFX Coin",
@@ -56090,9 +56133,19 @@
     "short": "R34P",
     "url": "/currencies/r34p",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0xcaea...a8881f6"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "RAKSUR": {
     "name": "RAKSUR",
@@ -57134,18 +57187,38 @@
     "short": "RFCTR",
     "url": "/currencies/reflector-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0x16b1...11a1d2c"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Refract": {
     "name": "Refract",
     "short": "RFR",
     "url": "/currencies/refract",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0xe0bd...4a21772"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Regalcoin": {
     "name": "Regalcoin",
@@ -66030,9 +66103,19 @@
     "short": "TVK",
     "url": "/currencies/terra-virtua-kolekt",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0xd084...ccb3988"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "TerraCredit": {
     "name": "TerraCredit",
@@ -73183,9 +73266,19 @@
     "short": "WSF",
     "url": "/currencies/wallstreet-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "forked_data": {
+      "block": [
+        "0x4819...9076808"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Wallabee": {
     "name": "Wallabee",
@@ -76390,9 +76483,20 @@
     "short": "YVS",
     "url": "/currencies/yvs-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "17122020"
+    "sawBirth": "17122020",
+    "git": "https://github.com/yvs-finance/yvs-protocol",
+    "forked_data": {
+      "block": [
+        "0xec68...83cf478"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "YYFI.Protocol": {
     "name": "YYFI.Protocol",
