@@ -25,4 +25,4 @@ Le script intègre, les numéros de token, les tags, et les références github.
 Un fichier de statistiques est créé à la fin du script
 
 ## Crawl de github pour récupérer les licences
-> ./lanceGitHub.sh
+> 6 ./lanceGitHub.sh
