@@ -3081,9 +3081,20 @@
     "short": "ADP",
     "url": "/currencies/adappter-token",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/sinestcorp/Adappter",
+    "forked_data": {
+      "block": [
+        "0xc314...c95767b"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Add.xyz": {
     "name": "Add.xyz",
@@ -28650,9 +28661,20 @@
     "short": "EOC",
     "url": "/currencies/everyonescrypto",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/everyonescrypto",
+    "forked_data": {
+      "block": [
+        "0xa800...163e6f4"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Evil Coin": {
     "name": "Evil Coin",
@@ -29015,7 +29037,9 @@
     "short": "FILDOWN",
     "url": "/currencies/fildown",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "18122020"
   },
@@ -29024,7 +29048,9 @@
     "short": "FILUP",
     "url": "/currencies/filup",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "18122020"
   },
@@ -29070,14 +29096,24 @@
     "short": "FIT",
     "url": "/currencies/first-interchangeable-token",
     "tags": [
-      "New",
       "Tron",
-      "Dead"
+      "Dead",
+      "New2",
+      "Token"
     ],
     "sawBirth": "18122020",
     "deaths": [
       "18122020"
-    ]
+    ],
+    "git": "https://github.com/FishKoi",
+    "forked_data": {
+      "block": [
+        "TN55kL...gVYWWWZ"
+      ],
+      "forked_from": [
+        "Tron"
+      ]
+    }
   },
   "FLAMA": {
     "name": "FLAMA",
@@ -44184,9 +44220,20 @@
     "short": "MAHA",
     "url": "/currencies/mahadao",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/mahadao",
+    "forked_data": {
+      "block": [
+        "0xb4d9...45bc365"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "MaidSafeCoin": {
     "name": "MaidSafeCoin",
@@ -46241,10 +46288,21 @@
     "short": "mVIXY",
     "url": "/currencies/mirrored-proshares-vix-short-term-futures-etf",
     "tags": [
-      "New",
-      "Mirror"
+      "Mirror",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": {
+      "block": [
+        "0xf72F...533fc86"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "Mirrored Tesla": {
     "name": "Mirrored Tesla",
@@ -59997,7 +60055,9 @@
     "short": "SUSHIUP",
     "url": "/currencies/sushiup",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "18122020"
   },
@@ -67244,11 +67304,22 @@
     "short": "GRT",
     "url": "/currencies/the-graph",
     "tags": [
-      "New",
       "AI & Big Data",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/graphprotocol",
+    "forked_data": {
+      "block": [
+        "0xc944...cda44a7"
+      ],
+      "forked_from": [
+        "Ethereum"
+      ]
+    }
   },
   "The Hash Speed": {
     "name": "The Hash Speed",
@@ -75702,7 +75773,9 @@
     "short": "XLMDOWN",
     "url": "/currencies/xlmdown",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance"
     ],
     "sawBirth": "18122020"
   },
@@ -75711,7 +75784,9 @@
     "short": "XLMUP",
     "url": "/currencies/xlmup",
     "tags": [
-      "New"
+      "Token",
+      "Binance",
+      "New2"
     ],
     "sawBirth": "18122020"
   },
@@ -80077,9 +80152,11 @@
     "short": "GZIL",
     "url": "/currencies/governance-zil",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
-    "sawBirth": "18122020"
+    "sawBirth": "18122020",
+    "git": "https://github.com/Zilliqa/staking-contract/blob/bug_bounty/contracts/gzil.scilla"
   },
   "happy birthday coin": {
     "name": "happy birthday coin",

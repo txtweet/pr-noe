@@ -13,6 +13,7 @@ fileDate = process.argv[2]
 tagsTables =
   'ai-big-data': 'AI & Big Data'
   'bittrex': 'Bittrex'
+  'binance': 'Binance'
   'content-creation':'Content Creation'
   'dao': 'Dao'
   'defi': 'DeFi'
@@ -60,6 +61,11 @@ _.forEach fresh.data, (crypto) ->
     crypto.tags.push("bittrex")
   if crypto.name.startsWith("Mirrored")
     crypto.tags.push("mirror")
+  if crypto.name.endsWith("DOWN")
+    crypto.tags.push("binance")
+  if crypto.name.endsWith("UP")
+    crypto.tags.push("binance")
+
   unless cryptos[crypto.name]?
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found

@@ -12,6 +12,7 @@ token = 0
 coin = 0
 ethereum = 0
 binance = 0
+tron = 0
 
 result = []
 
@@ -28,6 +29,8 @@ _.forEach cryptos, (crypt) ->
         ethereum++
       else if "Binance" in crypt.tags
         binance++
+      else if "Tron" in crypt.tags
+        tron++
       else
         result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
@@ -43,7 +46,7 @@ _.forEach cryptos, (crypt) ->
       dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "--------- News"
-console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum, #{binance} Binance)"
+console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum, #{binance} Binance, #{tron} Tron)"
 console.log "#{result.length} à observer"
 console.log "#{JSON.stringify result.sort(), null, 2}"
 console.log "--------- "
