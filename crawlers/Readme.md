@@ -3,10 +3,7 @@ Ce répertoire contient les scripts d'intégration des tokens et monnaies dans l
 
 ## Intégration des nouvelles monnaies
  - Récupération de la liste sur coinmarketcap dans le fichier toto.json
-> 1 wget -O toto.json https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?aux=circulating_supply,tags,max_supply,total_supply&convert=USD&cryptocurrency_type=all&limit=5000&sort=market_cap&sort_dir=desc&start=1
-
- - Enregistrement du fichier avec parsing json dans le bon nom
-> 2 json < toto.json > ../crypto-<ddmmyyyy>.json
+> 1 ./lanceDownload.sh -> La sortie indique comment faire l'injection dans le fichier cryptos.json
 
  - Analyse du fichier pour l'intégration des monnaies dans crypto.json
 > 3 coffee ./addNewCryptosFromFreshData.coffee <ddmmyyyy> > toto.json

@@ -11,15 +11,18 @@ fileDate = process.argv[2]
 ## stablecoin -> Stablecoin
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
 tagsTables =
+  'ai-big-data': 'AI & Big Data'
   'bittrex': 'Bittrex'
   'content-creation':'Content Creation'
   'dao': 'Dao'
   'defi': 'DeFi'
+  'enterprise-solutions':'Enterprise solutions'
   'ethereum': 'Ethereum'
   'ftx': 'Ftx'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'mineable': 'Mineable'
   'media': 'Media'
+  'mirror': 'Mirror'
   'pow': 'PoW'
   'rebase': 'Rebase'
   'scrypt': 'Script'
@@ -27,6 +30,7 @@ tagsTables =
   'substrate': 'Substrate'
   'token': 'Token'
   'tokenized-stock': 'Tokenized Stock'
+  'tron': 'Tron'
   'yield-farming': 'Yield farming'
 
 _ = require 'lodash'
@@ -55,7 +59,7 @@ _.forEach fresh.data, (crypto) ->
   if crypto.name.endsWith("Bittrex")
     crypto.tags.push("bittrex")
   if crypto.name.startsWith("Mirrored")
-    crypto.tags.push("Mirror")
+    crypto.tags.push("mirror")
   unless cryptos[crypto.name]?
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found
