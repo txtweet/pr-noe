@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Récupération des données dans crypto-$*.json"
 
 set `date +%d%m%Y`
 
