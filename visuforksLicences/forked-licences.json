@@ -62,10 +62,6 @@
           "children": []
         },
         {
-          "name": "Castle",
-          "children": []
-        },
-        {
           "name": "Cicoin",
           "children": []
         },
@@ -83,10 +79,6 @@
         },
         {
           "name": "Counos X",
-          "children": []
-        },
-        {
-          "name": "Cream",
           "children": []
         },
         {
@@ -108,10 +100,6 @@
         {
           "name": "Dash",
           "children": [
-            {
-              "name": "DeviantCoin",
-              "children": []
-            },
             {
               "name": "Diamond",
               "children": []
@@ -185,10 +173,6 @@
               "children": []
             },
             {
-              "name": "Kemacoin",
-              "children": []
-            },
-            {
               "name": "Largo Coin",
               "children": []
             },
@@ -205,7 +189,7 @@
               "children": []
             },
             {
-              "name": "PepeCoin",
+              "name": "Memetic / PepeCoin",
               "children": []
             },
             {
@@ -226,10 +210,6 @@
             },
             {
               "name": "Monkey Project",
-              "children": []
-            },
-            {
-              "name": "NEOBITCOIN",
               "children": []
             },
             {
@@ -289,10 +269,6 @@
               "children": []
             },
             {
-              "name": "Veles",
-              "children": []
-            },
-            {
               "name": "Vitae",
               "children": []
             },
@@ -316,10 +292,6 @@
         },
         {
           "name": "Deutsche eMark",
-          "children": []
-        },
-        {
-          "name": "DeviantCoin",
           "children": []
         },
         {
@@ -348,10 +320,6 @@
         },
         {
           "name": "Einsteinium",
-          "children": []
-        },
-        {
-          "name": "Emerald Crypto",
           "children": []
         },
         {
@@ -463,15 +431,7 @@
           "children": []
         },
         {
-          "name": "Junsonmingchncoin",
-          "children": []
-        },
-        {
           "name": "Kalkulus",
-          "children": []
-        },
-        {
-          "name": "Kemacoin",
           "children": []
         },
         {
@@ -490,7 +450,7 @@
               "children": []
             },
             {
-              "name": "PepeCoin",
+              "name": "Memetic / PepeCoin",
               "children": []
             },
             {
@@ -524,10 +484,6 @@
           "children": []
         },
         {
-          "name": "MarteXcoin",
-          "children": []
-        },
-        {
           "name": "Martkist",
           "children": []
         },
@@ -536,7 +492,7 @@
           "children": []
         },
         {
-          "name": "PepeCoin",
+          "name": "Memetic / PepeCoin",
           "children": []
         },
         {
@@ -565,10 +521,6 @@
         },
         {
           "name": "Myriad",
-          "children": []
-        },
-        {
-          "name": "NEOBITCOIN",
           "children": []
         },
         {
@@ -601,10 +553,6 @@
         },
         {
           "name": "PIVX",
-          "children": []
-        },
-        {
-          "name": "PROUD Money",
           "children": []
         },
         {
@@ -760,10 +708,6 @@
           "children": []
         },
         {
-          "name": "Uniform Fiscal Object",
-          "children": []
-        },
-        {
           "name": "Unify",
           "children": []
         },
@@ -773,10 +717,6 @@
         },
         {
           "name": "V-Dimension",
-          "children": []
-        },
-        {
-          "name": "Veles",
           "children": []
         },
         {
@@ -878,7 +818,7 @@
           "children": []
         },
         {
-          "name": "PepeCoin",
+          "name": "Memetic / PepeCoin",
           "children": []
         },
         {
@@ -919,10 +859,6 @@
             },
             {
               "name": "Trittium",
-              "children": []
-            },
-            {
-              "name": "Veles",
               "children": []
             },
             {
@@ -976,6 +912,15 @@
       ]
     },
     {
+      "name": "Darkcoin",
+      "children": [
+        {
+          "name": "Memetic / PepeCoin",
+          "children": []
+        }
+      ]
+    },
+    {
       "name": "Denarius",
       "children": []
     },
@@ -983,7 +928,7 @@
       "name": "DigiByte",
       "children": [
         {
-          "name": "PepeCoin",
+          "name": "Memetic / PepeCoin",
           "children": []
         },
         {
@@ -1006,10 +951,6 @@
       ]
     },
     {
-      "name": "EverGreenCoin",
-      "children": []
-    },
-    {
       "name": "Komodo",
       "children": [
         {
@@ -1021,10 +962,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "name": "NetCoin",
-      "children": []
     },
     {
       "name": "MonetaryUnit",
@@ -1040,6 +977,10 @@
       "children": []
     },
     {
+      "name": "NetCoin",
+      "children": []
+    },
+    {
       "name": "Novacoin",
       "children": [
         {
@@ -1052,10 +993,6 @@
         },
         {
           "name": "PIVX",
-          "children": []
-        },
-        {
-          "name": "PROUD Money",
           "children": []
         },
         {
@@ -1188,28 +1125,7 @@
       ]
     },
     {
-      "name": "Talkcoin",
-      "children": [
-        {
-          "name": "Veles",
-          "children": []
-        }
-      ]
-    },
-    {
       "name": "TransferCoin",
-      "children": []
-    },
-    {
-      "name": "FxTC Core",
-      "children": []
-    },
-    {
-      "name": "Darkcoin",
-      "children": []
-    },
-    {
-      "name": "Zcoin",
       "children": []
     }
   ]
