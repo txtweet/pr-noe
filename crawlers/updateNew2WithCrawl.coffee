@@ -10,31 +10,52 @@ cryptos = require '../cryptos.json'
 #
 # console.log JSON.stringify cryptos, null, 2
 
+error = (message...) ->
+  console.error "ERROR", message
+  # console.log JSON.stringify cryptos, null, 2
+  process.exit(1)
+
 crypto = _.find cryptos, (crypto) -> "New" in crypto.tags
 unless crypto?
-  console.error "Crawl Terminé"
-  console.log JSON.stringify cryptos, null, 2
-  process.exit(1)
+  error("Crawl Terminé")
 
 request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'
 .then (body) ->
+  console.warn "Testing #{crypto.url}"
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
 
   $ = cheerio.load(body)
-  #__next > div.sc-1mezg3x-0.fHFmDM.cmc-app-wrapper.cmc-app-wrapper--env-prod.cmc-theme--day > div.container.cmc-main-section > div.cmc-main-section__content > div.aiq2zi-0.jvxWIy.cmc-currencies > div.cmc-currencies__details-panel > ul.sc-1mid60a-0.fGOmSh.cmc-details-panel-links > li.cmc-detail-panel-tags
-  $('li.cmc-detail-panel-tags > span').each () ->
+  $('div.linksSection___2uV91 > div.sc-16r8icm-0.kXPxnI.container___2dCiP > ul.content___MhX1h').each () ->
     crypto.tags.push($(@).text())
-  crypto.tags = _.uniq crypto.tags
 
-  $('.cmc-details-panel-links > li').each () ->
-    if $(@).text() is 'Source Code'
+  foundgithub = false
+  $('div.linksSection___2uV91 > div.sc-16r8icm-0.gZTdeJ.container___2dCiP > ul.content___MhX1h > li').each () ->
+    if $(@).text() is 'Source code'
       href = $('a', @).attr('href')
       if href.startsWith("https://github.com")
         console.warn "Ajout github"
+        foundgithub = true
         crypto.git = href
+  unless foundgithub
+    error("Github non trouvé #{crypto.url}")
+
+  # token or coin
+  foundCoinOrToken = false
+  $('div.nameSection___3Hk6F > div.cCqhlo > div').each () ->
+    if $(@).text() is 'Coin'
+      foundCoinOrToken = true
+      crypto.tags.push($(@).text())
+    else if $(@).text() is 'Token'
+      foundCoinOrToken = true
+      crypto.tags.push($(@).text())
+  unless foundCoinOrToken
+    error("Type de crypto non trouvé (Coin vs Token) #{crypto.url}")
+
+  crypto.tags = _.uniq crypto.tags
+  process.exit()
 
   if 'Token' in crypto.tags
     forked_from =[]
@@ -72,9 +93,6 @@ request
       else
         console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
 .catch (err) ->
-  console.error "Crypto non trouvée #{crypto.name}"
-  crypto.tags = _.without crypto.tags, "New"
-  console.log JSON.stringify cryptos, null, 2
-  process.exit(1)
+  error("Crypto non trouvée #{crypto.name}", err)
 .then () ->
   console.log JSON.stringify cryptos, null, 2
