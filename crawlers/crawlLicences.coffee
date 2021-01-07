@@ -10,6 +10,7 @@ noLicence = (values, tags) ->
 
 crypto = _.find cryptos, (crypto) ->
   "NoLicenceFile" not in crypto.tags and
+  "Coin" in crypto.tags and
   noLicence((_.values licenceName), crypto.tags) and
   crypto.git?
 
