@@ -53,7 +53,7 @@ request
       if $('h6', @).text() is 'Explorers'
         $('a', @).each () ->
           href = $(@).attr('href')
-          if href.startsWith('https://etherscan.io/') or href.startsWith('https://ethplorer.io/address/')
+          if href.startsWith('https://etherscan.io/') or href.startsWith('https://ethplorer.io/address/') or href.startsWith("https://cn.etherscan.com")
             foundChain = true
             crypto.tags.push 'Ethereum'
             crypto.forked_data.push href
@@ -76,6 +76,14 @@ request
           else if href.startsWith('http://cdexplorer.net/') or href.startsWith('https://explorer.htmlcoin.com/')
             foundChain = true
             crypto.tags.push 'Codex'
+            crypto.forked_data.push href
+          else if href.startsWith('https://explorer.knoxfs.com')
+            foundChain = true
+            crypto.tags.push 'KnoxFS'
+            crypto.forked_data.push href
+          else if href.startsWith('https://tronscan.org')
+            foundChain = true
+            crypto.tags.push 'Tron'
             crypto.forked_data.push href
           else
             error("Type de chaine inconnue", href)
