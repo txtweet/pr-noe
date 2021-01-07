@@ -74375,9 +74375,16 @@
     "short": "UOP",
     "url": "/currencies/utopia-genesis-foundation",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+      "https://ethplorer.io/address/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f"
+    ]
   },
   "Utrum": {
     "name": "Utrum",
@@ -74901,10 +74908,12 @@
     "short": "VAL",
     "url": "/currencies/validity",
     "tags": [
-      "New",
-      "PoS"
+      "PoS",
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/RadiumCore/radium-0.11/"
   },
   "Valobit": {
     "name": "Valobit",
@@ -76120,9 +76129,15 @@
     "short": "VIDYX",
     "url": "/currencies/vidyx",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://tronscan.org/#/token/1003518"
+    ]
   },
   "Vidya": {
     "name": "Vidya",
@@ -76689,11 +76704,18 @@
     "short": "WAXE",
     "url": "/currencies/waxe",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Gaming"
+      "Gaming",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/worldwide-asset-exchange",
+    "forked_data": [
+      "https://etherscan.io/token/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+      "https://ethplorer.io/address/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
+    ]
   },
   "WEBN token": {
     "name": "WEBN token",
