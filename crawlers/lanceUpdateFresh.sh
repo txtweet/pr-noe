@@ -21,8 +21,9 @@ while true; do
   sleep 60
 
 done
-if [[ $ret -gt 0 ]]; then
+if [[ $ret -gt 1 ]]; then
   exit
 fi
 set `date +%d%m%Y`
+echo "fichier stats-$*"
 coffee ./statistics.coffee $* > stat-$*.txt

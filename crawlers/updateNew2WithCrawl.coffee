@@ -7,11 +7,13 @@ cryptos = require '../cryptos.json'
 error = (message...) ->
   console.error "ERROR : ", message
   console.log JSON.stringify cryptos, null, 2
-  process.exit(1)
+  process.exit(2)
 
 crypto = _.find cryptos, (crypto) -> "New" in crypto.tags
 unless crypto?
-  error("Crawl Terminé")
+  console.error("Crawl Terminé")
+  console.log JSON.stringify cryptos, null, 2
+  process.exit(1)
 
 request
   url : 'https://coinmarketcap.com'+crypto.url
@@ -90,7 +92,6 @@ request
             error("Type de chaine inconnue", href)
     unless foundChain
       error("Type de token inconnu", crypto)
-
 
     # forked_from =[]
     # $('div.cmc-details-contract-lists__container > span').each () ->
