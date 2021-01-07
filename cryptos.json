@@ -2256,11 +2256,16 @@
     "short": "AME",
     "url": "/currencies/amepay",
     "tags": [
-      "Token"
+      "Token",
+      "New2",
+      "Ethereum"
     ],
     "sawBirth": "06012021",
     "git": "https://github.com/AMEPAY/ametoken",
-    "forked_data": []
+    "forked_data": [
+      "https://etherscan.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+      "https://ethplorer.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86"
+    ]
   },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
@@ -2423,9 +2428,16 @@
     "short": "VISION",
     "url": "/currencies/apy-vision",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/apyvision",
+    "forked_data": [
+      "https://etherscan.io/token/0xf406f7a9046793267bc276908778b29563323996",
+      "https://ethplorer.io/address/0xf406f7a9046793267bc276908778b29563323996"
+    ]
   },
   "APY.Finance": {
     "name": "APY.Finance",
@@ -4807,9 +4819,15 @@
     "short": "$ANRX",
     "url": "/currencies/anrkey-x",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0"
+    ]
   },
   "Anatha": {
     "name": "Anatha",
@@ -5158,9 +5176,15 @@
     "short": "APLP",
     "url": "/currencies/apple-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/AppleFi/AppleFi",
+    "forked_data": [
+      "https://etherscan.io/token/0x69275aC5477F3A9DC051180BC559140Bc647F8E9"
+    ]
   },
   "Apple Network": {
     "name": "Apple Network",
@@ -5823,9 +5847,16 @@
     "short": "ATC",
     "url": "/currencies/astosch",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/astoschproject/astosch",
+    "forked_data": [
+      "https://etherscan.io/token/0xeAEe3a142aC4E0494Bfb60D493b804Ca9A739339",
+      "https://ethplorer.io/address/0xeAEe3a142aC4E0494Bfb60D493b804Ca9A739339"
+    ]
   },
   "AstroTools": {
     "name": "AstroTools",
@@ -6024,10 +6055,31 @@
     "short": "ATMOS",
     "url": "/currencies/atmos",
     "tags": [
-      "New",
-      "PoS"
+      "PoS",
+      "Communications & Social Media",
+      "Platform",
+      "Marketing",
+      "Content Creation",
+      "Privacy",
+      "DApp",
+      "EOS",
+      "DPoS",
+      "Mauritius",
+      "Canada",
+      "Portugal",
+      "United States of America",
+      "Timestamping",
+      "Reputation",
+      "Staking",
+      "Store of Value",
+      "Token",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/asphyxiating/atmostemp/tree/master/atmos-master",
+    "forked_data": [
+      "https://bloks.io/tokens/ATMOS-eos-novusphereio"
+    ]
   },
   "Atomic Wallet Coin": {
     "name": "Atomic Wallet Coin",
@@ -6332,9 +6384,16 @@
     "short": "AUDT",
     "url": "/currencies/australian-dollar-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xd7e0f80fb28233bdde0006c50568606a8feb964c",
+      "https://ethplorer.io/address/0xd7e0f80fb28233bdde0006c50568606a8feb964c"
+    ]
   },
   "Authorship": {
     "name": "Authorship",
@@ -6677,9 +6736,15 @@
     "short": "B21",
     "url": "/currencies/b21-invest",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x6faa826af0568d1866fca570da79b318ef114dab"
+    ]
   },
   "B2BX": {
     "name": "B2BX",
@@ -7626,12 +7691,18 @@
     "short": "BSCX",
     "url": "/currencies/bscex",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/bscex",
+    "forked_data": [
+      "https://bscscan.com/token/0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
     ]
   },
   "BSYS": {
@@ -8102,9 +8173,16 @@
     "short": "BANANA",
     "url": "/currencies/banana-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
+      "https://ethplorer.io/address/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298"
+    ]
   },
   "Bananatok": {
     "name": "Bananatok",
@@ -8260,9 +8338,11 @@
     "short": "BANK",
     "url": "/currencies/the-bank-coin",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/bankcoin18/bankcoin"
   },
   "Bankcoin Reserve": {
     "name": "Bankcoin Reserve",
@@ -8355,9 +8435,16 @@
     "short": "BAO",
     "url": "/currencies/bao-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+      "https://ethplorer.io/address/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+    ]
   },
   "Barkis Network": {
     "name": "Barkis Network",
@@ -8562,18 +8649,30 @@
     "short": "BCC",
     "url": "/currencies/basiscoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176"
+    ]
   },
   "Basiscoin Share": {
     "name": "Basiscoin Share",
     "short": "BCS",
     "url": "/currencies/basiscoin-share",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x03066dA434e5264ef0B32f787923f974A5726fDc"
+    ]
   },
   "Bast": {
     "name": "Bast",
@@ -9396,12 +9495,19 @@
     "short": "BIFI",
     "url": "/currencies/bifi",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xdb7bb52ac3f9e2f6153a3f9dcdd4d67f9f836034",
+      "https://ethplorer.io/address/0xdb7bb52ac3f9e2f6153a3f9dcdd4d67f9f836034"
     ]
   },
   "BiblePay": {
@@ -9493,10 +9599,16 @@
     "short": "BFC",
     "url": "/currencies/bifrost",
     "tags": [
-      "New",
-      "Platform"
+      "Platform",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/address/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c"
+    ]
   },
   "Big Bang Game Coin": {
     "name": "Big Bang Game Coin",
@@ -9791,11 +9903,17 @@
     "short": "BVND",
     "url": "/currencies/binance-vnd",
     "tags": [
-      "New",
       "Stablecoin",
-      "Stablecoin - Asset-Backed"
+      "Stablecoin - Asset-Backed",
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://explorer.binance.org/asset/BVND-244"
+    ]
   },
   "Bincentive": {
     "name": "Bincentive",
@@ -11986,9 +12104,16 @@
     "short": "BPP",
     "url": "/currencies/bitpower",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com",
+    "forked_data": [
+      "https://etherscan.io/token/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08",
+      "https://ethplorer.io/address/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08"
+    ]
   },
   "Bitpumps Token": {
     "name": "Bitpumps Token",
@@ -13445,9 +13570,15 @@
     "short": "FIDA",
     "url": "/currencies/bonfida",
     "tags": [
-      "New"
+      "Token",
+      "Solana",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/dr497",
+    "forked_data": [
+      "https://explorer.solana.com"
+    ]
   },
   "Bonk": {
     "name": "Bonk",

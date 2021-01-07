@@ -18,8 +18,6 @@ request
   method: 'GET'
 .then (body) ->
   console.warn "Testing #{crypto.url}"
-  crypto.tags = _.without crypto.tags, "New"
-  crypto.tags.push("New2")
 
   $ = cheerio.load(body)
   $('div.tagModalTags___3dJxH > div.tagBadge___3p_Pk').each () ->
@@ -58,6 +56,18 @@ request
           if href.startsWith('https://etherscan.io/') or href.startsWith('https://ethplorer.io/address/')
             foundChain = true
             crypto.tags.push 'Ethereum'
+            crypto.forked_data.push href
+          else if href.startsWith('https://bloks.io/tokens')
+            foundChain = true
+            crypto.tags.push 'EOS'
+            crypto.forked_data.push href
+          else if href.startsWith('https://bscscan.com') or href.startsWith('https://explorer.binance.org/asset')
+            foundChain = true
+            crypto.tags.push 'Binance'
+            crypto.forked_data.push href
+          else if href.startsWith('https://explorer.solana.com') or href.startsWith('https://explorer.binance.org/asset')
+            foundChain = true
+            crypto.tags.push 'Solana'
             crypto.forked_data.push href
           else
             error("Type de chaine inconnue", href)
@@ -102,5 +112,7 @@ request
 .catch (err) ->
   error("Crypto non trouvée #{crypto.name}", err)
 .then () ->
+  crypto.tags = _.without crypto.tags, "New"
+  crypto.tags.push("New2")
   crypto.tags = _.uniq crypto.tags
   console.log JSON.stringify cryptos, null, 2
