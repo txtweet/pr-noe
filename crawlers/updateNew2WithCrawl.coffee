@@ -11,7 +11,7 @@ cryptos = require '../cryptos.json'
 # console.log JSON.stringify cryptos, null, 2
 
 error = (message...) ->
-  console.error "ERROR", message
+  console.error "ERROR : ", message...
   # console.log JSON.stringify cryptos, null, 2
   process.exit(1)
 
@@ -28,8 +28,12 @@ request
   crypto.tags.push("New2")
 
   $ = cheerio.load(body)
-  $('div.linksSection___2uV91 > div.sc-16r8icm-0.kXPxnI.container___2dCiP > ul.content___MhX1h').each () ->
+  foundTags = false
+  $('div.tagModalTags___3dJxH > div.tagBadge___3p_Pk').each () ->
+    foundTags = true
     crypto.tags.push($(@).text())
+  unless foundTags
+    error("Tags non trouvés #{crypto.url}")
 
   foundgithub = false
   $('div.linksSection___2uV91 > div.sc-16r8icm-0.gZTdeJ.container___2dCiP > ul.content___MhX1h > li').each () ->
@@ -55,6 +59,7 @@ request
     error("Type de crypto non trouvé (Coin vs Token) #{crypto.url}")
 
   crypto.tags = _.uniq crypto.tags
+  console.log JSON.stringify crypto, null, 2
   process.exit()
 
   if 'Token' in crypto.tags
