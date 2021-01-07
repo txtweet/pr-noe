@@ -36,7 +36,7 @@ _.forEach cryptos, (crypt) ->
 
     else
       unless "Coin" in crypt.tags
-        console.error "Erreur sur #{JSON.stingify crypt}"
+        console.error "Erreur sur #{JSON.stringify crypt}"
         process.exit(1)
       coin++
       result.push "Coin : #{crypt.name} [#{crypt.tags}] #{crypt.url}"

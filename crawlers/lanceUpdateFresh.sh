@@ -21,5 +21,8 @@ while true; do
   sleep 60
 
 done
+if [[ $ret -gt 0 ]]; then
+  exit
+fi
 set `date +%d%m%Y`
 coffee ./statistics.coffee $* > stat-$*.txt

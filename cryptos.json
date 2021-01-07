@@ -346,10 +346,17 @@
     "short": "1INCH",
     "url": "/currencies/1inch",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/1inch-exchange/1inch-token/",
+    "forked_data": [
+      "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
+      "https://ethplorer.io/address/0x111111111117dc0aa78b770fa6a738034120c302"
+    ]
   },
   "1irstGold": {
     "name": "1irstGold",
@@ -427,9 +434,7 @@
     "name": "2Based Finance",
     "short": "2BASED",
     "url": "/currencies/2based-finance",
-    "tags": [
-      "New"
-    ],
+    "tags": [],
     "sawBirth": "06012021"
   },
   "2GIVE": {
@@ -1159,9 +1164,16 @@
     "short": "3XT",
     "url": "/currencies/3xt-token",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666",
+      "https://ethplorer.io/address/0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666"
+    ]
   },
   "3x Long Bitcoin Cash Token": {
     "name": "3x Long Bitcoin Cash Token",
@@ -1549,9 +1561,16 @@
     "short": "808TA",
     "url": "/currencies/808ta",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/808TA/",
+    "forked_data": [
+      "https://etherscan.io/token/0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+      "https://ethplorer.io/address/0x5b535edfa75d7cb706044da0171204e1c48d00e8"
+    ]
   },
   "888tron": {
     "name": "888tron",
@@ -2237,9 +2256,11 @@
     "short": "AME",
     "url": "/currencies/amepay",
     "tags": [
-      "New"
+      "Token"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/AMEPAY/ametoken",
+    "forked_data": []
   },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
