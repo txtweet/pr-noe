@@ -18246,9 +18246,16 @@
     "short": "CAN",
     "url": "/currencies/coinwaycoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x917FD2f7378FF479419dCB56C5cbB445fBbF902A",
+      "https://ethplorer.io/address/0x917FD2f7378FF479419dCB56C5cbB445fBbF902A"
+    ]
   },
   "Coinzo Token": {
     "name": "Coinzo Token",
@@ -20038,9 +20045,16 @@
     "short": "CBANK",
     "url": "/currencies/cryptobank",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/c-bank/token-contract",
+    "forked_data": [
+      "https://etherscan.io/address/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086",
+      "https://ethplorer.io/address/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086"
+    ]
   },
   "CryptoBet": {
     "name": "CryptoBet",
@@ -20251,9 +20265,16 @@
     "short": "KEK",
     "url": "/currencies/cryptokek",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/cryptokek/",
+    "forked_data": [
+      "https://etherscan.io/token/0x3fa400483487A489EC9b1dB29C4129063EEC4654",
+      "https://ethplorer.io/address/0x3fa400483487A489EC9b1dB29C4129063EEC4654"
+    ]
   },
   "CryptoPing": {
     "name": "CryptoPing",
@@ -21916,9 +21937,16 @@
     "short": "DRC",
     "url": "/currencies/drc-mobility",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/DRC-asia/DRC-mobility-contracts",
+    "forked_data": [
+      "https://etherscan.io/token/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67",
+      "https://ethplorer.io/address/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67"
+    ]
   },
   "DREP": {
     "name": "DREP",
@@ -22766,10 +22794,17 @@
     "short": "DYP",
     "url": "/currencies/defi-yield-protocol",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/dypfinance",
+    "forked_data": [
+      "https://etherscan.io/token/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+      "https://ethplorer.io/address/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17"
+    ]
   },
   "DeFi of Thrones": {
     "name": "DeFi of Thrones",
@@ -22829,9 +22864,16 @@
     "short": "DFSOCIAL",
     "url": "/currencies/defisocial-gaming",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/DFSocial/DeFi-Social-Gaming",
+    "forked_data": [
+      "https://etherscan.io/address/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7",
+      "https://ethplorer.io/address/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7"
+    ]
   },
   "DeFiat": {
     "name": "DeFiat",
@@ -22908,9 +22950,16 @@
     "short": "DEPAY",
     "url": "/currencies/depay",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/DePayFi",
+    "forked_data": [
+      "https://etherscan.io/token/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
+      "https://ethplorer.io/address/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb"
+    ]
   },
   "DeVault": {
     "name": "DeVault",
@@ -23624,9 +23673,16 @@
     "short": "DHC",
     "url": "/currencies/deltahub-community",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
+      "https://ethplorer.io/address/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef"
+    ]
   },
   "Demeter Chain": {
     "name": "Demeter Chain",
@@ -23701,10 +23757,14 @@
     "short": "DDX",
     "url": "/currencies/derivadex",
     "tags": [
-      "New",
-      "DeFi"
+      "Derivadex",
+      "DeFi",
+      "DeFi",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": []
   },
   "Derivex": {
     "name": "Derivex",
@@ -23880,9 +23940,15 @@
     "short": "DXF",
     "url": "/currencies/dexfin",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/Dexfinex",
+    "forked_data": [
+      "https://etherscan.io/token/0x15Eabb7500E44B7Fdb6e4051cA8DecA430cF9FB8"
+    ]
   },
   "Dexter G": {
     "name": "Dexter G",
@@ -24117,9 +24183,16 @@
     "short": "DFR",
     "url": "/currencies/diffract-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x64db5e5280421789af5c253a5ab260278ffd40ed",
+      "https://ethplorer.io/address/0x64db5e5280421789af5c253a5ab260278ffd40ed"
+    ]
   },
   "Digex": {
     "name": "Digex",
@@ -24160,9 +24233,16 @@
     "short": "DGCL",
     "url": "/currencies/digicol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851",
+      "https://ethplorer.io/address/0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851"
+    ]
   },
   "DigiDinar": {
     "name": "DigiDinar",
@@ -24811,12 +24891,18 @@
     "short": "DITTO",
     "url": "/currencies/ditto",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x233d91A0713155003fc4DcE0AFa871b508B3B715"
     ]
   },
   "Divert Finance": {
@@ -25507,9 +25593,16 @@
     "short": "DUCK",
     "url": "/currencies/duck-dao",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+      "https://ethplorer.io/address/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f"
+    ]
   },
   "DuckDaoDime": {
     "name": "DuckDaoDime",
@@ -25602,18 +25695,32 @@
     "short": "SALE",
     "url": "/currencies/dxsale-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+      "https://ethplorer.io/address/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589"
+    ]
   },
   "Dymmax": {
     "name": "Dymmax",
     "short": "DMX",
     "url": "/currencies/dymmax",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/dymmax",
+    "forked_data": [
+      "https://etherscan.io/token/0xf058501585023d040ea9493134ed72c083553eed",
+      "https://ethplorer.io/address/0xf058501585023d040ea9493134ed72c083553eed"
+    ]
   },
   "Dynamic": {
     "name": "Dynamic",
@@ -25633,9 +25740,15 @@
     "short": "DSD",
     "url": "/currencies/dynamic-set-dollar",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
+    ]
   },
   "Dynamic Trading Rights": {
     "name": "Dynamic Trading Rights",
@@ -26450,12 +26563,18 @@
     "short": "ELD",
     "url": "/currencies/eth-limited",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/ethlimitedeld",
+    "forked_data": [
+      "https://etherscan.io/token/0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba"
     ]
   },
   "ETH/BTC RSI Ratio Trading Set": {
@@ -29843,9 +29962,16 @@
     "short": "XED",
     "url": "/currencies/exeedme",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+      "https://ethplorer.io/address/0xee573a945b01b788b9287ce062a0cfc15be9fd86"
+    ]
   },
   "Exosis": {
     "name": "Exosis",
@@ -30969,9 +31095,12 @@
     "short": "FAR",
     "url": "/currencies/farmland-protocol",
     "tags": [
-      "New"
+      "Farmland",
+      "Token"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/farmland-finance",
+    "forked_data": []
   },
   "Fashion Coin": {
     "name": "Fashion Coin",
@@ -31007,9 +31136,16 @@
     "short": "FAST",
     "url": "/currencies/fastswap",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/toshifyfinance",
+    "forked_data": [
+      "https://etherscan.io/token/0xc888a0ab4831a29e6ca432babf52e353d23db3c2",
+      "https://ethplorer.io/address/0xc888a0ab4831a29e6ca432babf52e353d23db3c2"
+    ]
   },
   "Fatcoin": {
     "name": "Fatcoin",
@@ -31170,12 +31306,19 @@
     "short": "FERRARI",
     "url": "/currencies/ferrariswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/ferrariswap/Contracts",
+    "forked_data": [
+      "https://etherscan.io/token/0xebf698ede71af52ab1acb12975472ba2e302e810",
+      "https://ethplorer.io/address/0xebf698ede71af52ab1acb12975472ba2e302e810"
     ]
   },
   "Ferrum Network": {
@@ -31413,9 +31556,15 @@
     "short": "FDO",
     "url": "/currencies/firdaos",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/ZelaaPayUAE",
+    "forked_data": [
+      "https://etherscan.io/token/0x361887c1d1b73557018c47c8001711168128cf69"
+    ]
   },
   "Fire Lotto": {
     "name": "Fire Lotto",
@@ -31453,9 +31602,16 @@
     "short": "FIRE",
     "url": "/currencies/fire-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+      "https://ethplorer.io/address/0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43"
+    ]
   },
   "Fireball": {
     "name": "Fireball",
