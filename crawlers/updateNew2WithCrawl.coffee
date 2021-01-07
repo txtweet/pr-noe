@@ -4,15 +4,9 @@ cheerio = require 'cheerio'
 request = require 'request-promise'
 cryptos = require '../cryptos.json'
 
-# _.forEach cryptos, (crypt) ->
-#   if crypt.forked_data?.forked_from?
-#     crypt.tags = _.uniq crypt.tags.concat(crypt.forked_data.forked_from)
-#
-# console.log JSON.stringify cryptos, null, 2
-
 error = (message...) ->
-  console.error "ERROR : ", message...
-  # console.log JSON.stringify cryptos, null, 2
+  console.error "ERROR : ", message
+  console.log JSON.stringify cryptos, null, 2
   process.exit(1)
 
 crypto = _.find cryptos, (crypto) -> "New" in crypto.tags
@@ -40,7 +34,7 @@ request
     if $(@).text() is 'Source code'
       href = $('a', @).attr('href')
       if href.startsWith("https://github.com")
-        console.warn "Ajout github"
+        # console.warn "Ajout github"
         foundgithub = true
         crypto.git = href
   unless foundgithub
@@ -58,46 +52,59 @@ request
   unless foundCoinOrToken
     error("Type de crypto non trouvé (Coin vs Token) #{crypto.url}")
 
-  crypto.tags = _.uniq crypto.tags
-  console.log JSON.stringify crypto, null, 2
-  process.exit()
-
   if 'Token' in crypto.tags
-    forked_from =[]
-    $('div.cmc-details-contract-lists__container > span').each () ->
-      forked_from.push(
-        $(@).text()
-        .replace("TRON Contract", "Tron")
-        .replace("Ethereum Contract", "Ethereum")
-      )
+    foundChain = false
+    crypto.forked_data = []
+    $('div.modal___3Jdkv > div > div > div').each () ->
+      if $('h6', @).text() is 'Explorers'
+        $('a', @).each () ->
+          href = $(@).attr('href')
+          if href.startsWith('https://etherscan.io/token/') or href.startsWith('https://ethplorer.io/address/')
+            foundChain = true
+            crypto.tags.push 'Ethereum'
+            crypto.forked_data.push href
+          else
+            error("Type de chaine inconnue", href)
+    unless foundChain
+      error("Type de token inconnu", crypto)
 
-    bloc = []
-    $('span.cmc-details-contract-lists__item').each () ->
-      bloc.push($(@).text())
 
-    crypto.forked_data =
-      block: bloc
-      forked_from: forked_from
-
-    if "Ethereum" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
-      crypto.tags.push("Ethereum")
-      console.warn("Token pour #{crypto.name}")
-    else if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
-      crypto.tags.push("Ethereum")
-      console.warn("Token pour #{crypto.name}")
-    else if "Tron Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
-      crypto.tags.push("Tron")
-      console.warn("Token pour #{crypto.name}")
-    else if "Binance Coin Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
-      crypto.tags.push("Binance")
-      console.warn("Token pour #{crypto.name}")
-    else
-      if _.isEmpty crypto.forked_data.forked_from
-        console.warn "Token Inconnu à vérifier #{crypto.name}"
-        delete crypto.forked_data
-      else
-        console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
+    # forked_from =[]
+    # $('div.cmc-details-contract-lists__container > span').each () ->
+    #   forked_from.push(
+    #     $(@).text()
+    #     .replace("TRON Contract", "Tron")
+    #     .replace("Ethereum Contract", "Ethereum")
+    #   )
+    #
+    # bloc = []
+    # $('span.cmc-details-contract-lists__item').each () ->
+    #   bloc.push($(@).text())
+    #
+    # crypto.forked_data =
+    #   block: bloc
+    #   forked_from: forked_from
+    #
+    # if "Ethereum" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    #   crypto.tags.push("Ethereum")
+    #   console.warn("Token pour #{crypto.name}")
+    # else if "Ethereum Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    #   crypto.tags.push("Ethereum")
+    #   console.warn("Token pour #{crypto.name}")
+    # else if "Tron Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    #   crypto.tags.push("Tron")
+    #   console.warn("Token pour #{crypto.name}")
+    # else if "Binance Coin Contract" in crypto.forked_data.forked_from and crypto.forked_data.forked_from.length is 1
+    #   crypto.tags.push("Binance")
+    #   console.warn("Token pour #{crypto.name}")
+    # else
+    #   if _.isEmpty crypto.forked_data.forked_from
+    #     console.warn "Token Inconnu à vérifier #{crypto.name}"
+    #     delete crypto.forked_data
+    #   else
+    #     console.warn "Checker pour #{JSON.stringify crypto, null, 2}"
 .catch (err) ->
   error("Crypto non trouvée #{crypto.name}", err)
 .then () ->
+  crypto.tags = _.uniq crypto.tags
   console.log JSON.stringify cryptos, null, 2
