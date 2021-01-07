@@ -53,6 +53,7 @@ request
       if $('h6', @).text() is 'Explorers'
         $('a', @).each () ->
           href = $(@).attr('href')
+          # console.log '->', href
           if href.startsWith('https://cn.etherscan.com/') or href.startsWith('https://etherscan.io/') or href.startsWith('https://ethplorer.io/address/') or href.startsWith("https://cn.etherscan.com")
             foundChain = true
             crypto.tags.push 'Ethereum'

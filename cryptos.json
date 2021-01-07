@@ -83784,7 +83784,7 @@
     "short": "N0001",
     "url": "/currencies/nhbtc",
     "tags": [
-      "New",
+      "New2",
       "Dead",
       "Token",
       "Ethereum"
@@ -84608,9 +84608,16 @@
     "short": "STETH",
     "url": "/currencies/steth",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/lidofinance",
+    "forked_data": [
+      "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "https://ethplorer.io/address/0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    ]
   },
   "stakedFIRO": {
     "name": "stakedFIRO",
@@ -84747,9 +84754,16 @@
     "short": "UNL",
     "url": "/currencies/unilock-network",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/unilock1/unilock",
+    "forked_data": [
+      "https://etherscan.io/token/0x04ab43d32d0172c76f5287b6619f0aa50af89303",
+      "https://ethplorer.io/address/0x04ab43d32d0172c76f5287b6619f0aa50af89303"
+    ]
   },
   "v.systems": {
     "name": "v.systems",
@@ -84985,9 +84999,16 @@
     "short": "XETH-G",
     "url": "/currencies/xeth-g",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3863ea7577fc91bfbaeae6a6a3e403524afcf787",
+      "https://ethplorer.io/address/0x3863ea7577fc91bfbaeae6a6a3e403524afcf787"
+    ]
   },
   "xscoin": {
     "name": "xscoin",
