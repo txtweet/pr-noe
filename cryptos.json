@@ -15137,9 +15137,16 @@
     "short": "COVER",
     "url": "/currencies/cover-protocol-old",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/CoverProtocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+      "https://ethplorer.io/address/0x5d8d9f5b96f4438195be9b99eee6118ed4304286"
+    ]
   },
   "COVIR.IO": {
     "name": "COVIR.IO",
@@ -15894,9 +15901,15 @@
     "short": "CAP",
     "url": "/currencies/capital-finance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/Capitaldefi",
+    "forked_data": [
+      "https://etherscan.io/token/0xeda6efe5556e134ef52f2f858aa1e81c84cda84b"
+    ]
   },
   "Cappasity": {
     "name": "Cappasity",
@@ -16775,9 +16788,15 @@
     "short": "CHAL",
     "url": "/currencies/chalice-finance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/chalice-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0x1cc0744c5106bb47a61c4e41f517cb6f1c49b547"
+    ]
   },
   "ChallengeDac": {
     "name": "ChallengeDac",
@@ -17233,9 +17252,15 @@
     "short": "CIR",
     "url": "/currencies/circleswap",
     "tags": [
-      "New"
+      "Token",
+      "Huobi ECO",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/circleswap",
+    "forked_data": [
+      "https://scan.hecochain.com/address/0xbe5DF2fac88BB096A973e664171E60586bC5940c"
+    ]
   },
   "Circuits of Value": {
     "name": "Circuits of Value",
@@ -17612,9 +17637,16 @@
     "short": "CBK",
     "url": "/currencies/cobak-token",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/cobak-dev/token-profile",
+    "forked_data": [
+      "https://etherscan.io/token/0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+      "https://ethplorer.io/address/0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD"
+    ]
   },
   "Cobinhood": {
     "name": "Cobinhood",
@@ -17695,9 +17727,16 @@
     "short": "CDEX",
     "url": "/currencies/codex",
     "tags": [
-      "New"
+      "Token",
+      "Codex",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/CDEXonAltHash",
+    "forked_data": [
+      "http://cdexplorer.net/",
+      "https://explorer.htmlcoin.com/"
+    ]
   },
   "Cofinex Coin": {
     "name": "Cofinex Coin",
@@ -18001,10 +18040,12 @@
     "short": "CBSE",
     "url": "/currencies/coinbase-pre-ipo-tokenized-stock-ftx",
     "tags": [
-      "New",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": []
   },
   "Coinchase Token": {
     "name": "Coinchase Token",

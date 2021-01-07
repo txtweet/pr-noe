@@ -69,6 +69,14 @@ request
             foundChain = true
             crypto.tags.push 'Solana'
             crypto.forked_data.push href
+          else if href.startsWith('https://scan.hecochain.com/')
+            foundChain = true
+            crypto.tags.push 'Huobi ECO'
+            crypto.forked_data.push href
+          else if href.startsWith('http://cdexplorer.net/') or href.startsWith('https://explorer.htmlcoin.com/')
+            foundChain = true
+            crypto.tags.push 'Codex'
+            crypto.forked_data.push href
           else
             error("Type de chaine inconnue", href)
     unless foundChain
