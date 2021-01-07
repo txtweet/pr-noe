@@ -77653,9 +77653,15 @@
     "short": "WHITE",
     "url": "/currencies/whiteheart",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
+    ]
   },
   "Whole Network": {
     "name": "Whole Network",
@@ -77696,9 +77702,16 @@
     "short": "WIFI",
     "url": "/currencies/wifi-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xe202873079913858f9Ba8795BA957A4Ad561ca24",
+      "https://ethplorer.io/address/0xe202873079913858f9Ba8795BA957A4Ad561ca24"
+    ]
   },
   "Wiki Token": {
     "name": "Wiki Token",
@@ -77963,9 +77976,16 @@
     "short": "WISE",
     "url": "/currencies/wise",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/wise-foundation",
+    "forked_data": [
+      "https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+      "https://ethplorer.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6"
+    ]
   },
   "Wish Coin": {
     "name": "Wish Coin",
@@ -80227,9 +80247,16 @@
     "short": "YLD",
     "url": "/currencies/yield-app",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+      "https://ethplorer.io/address/0xF94b5C5651c888d928439aB6514B93944eEE6F48"
+    ]
   },
   "YMAX": {
     "name": "YMAX",
@@ -81913,9 +81940,16 @@
     "short": "ZAI",
     "url": "/currencies/zero-collateral-dai",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/zaifinance/zai-protocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x9d1233cc46795E94029fDA81aAaDc1455D510f15",
+      "https://ethplorer.io/address/0x9d1233cc46795e94029fda81aaadc1455d510f15"
+    ]
   },
   "Zero Utility Token": {
     "name": "Zero Utility Token",
@@ -82087,12 +82121,19 @@
     "short": "ZMT",
     "url": "/currencies/zipmex",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/zipmex",
+    "forked_data": [
+      "https://etherscan.io/token/0xaa602de53347579f86b996d2add74bb6f79462b2",
+      "https://ethplorer.io/address/0xaa602de53347579f86b996d2add74bb6f79462b2"
     ]
   },
   "Zipper": {
@@ -82221,9 +82262,15 @@
     "short": "ZTNZ",
     "url": "/currencies/ztranzit-coin",
     "tags": [
-      "New"
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/Ztranzit/TRON-Network-TRC20/blob/master/Ztranzit%20Coin%20smart%20contract.sol",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TH1pMQU856owNz8HgRa2gWmGTwSb8XXMkF"
+    ]
   },
   "Zuflo Coin": {
     "name": "Zuflo Coin",
@@ -82403,9 +82450,15 @@
     "short": "aEth",
     "url": "/currencies/ankreth",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "06012021"
+    "sawBirth": "06012021",
+    "git": "https://github.com/Ankr-network/stkr-smartcontract-public",
+    "forked_data": [
+      "https://etherscan.io/token/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+    ]
   },
   "apM Coin": {
     "name": "apM Coin",
@@ -82429,12 +82482,18 @@
     "short": "SBDO",
     "url": "/currencies/bdollar-share",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance",
+      "New2"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/bearn-defi/bdollar-smartcontracts",
+    "forked_data": [
+      "https://bscscan.com/token/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740"
     ]
   },
   "bXIOT": {
@@ -83726,11 +83785,17 @@
     "url": "/currencies/nhbtc",
     "tags": [
       "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum"
     ],
     "sawBirth": "06012021",
     "deaths": [
       "06012021"
+    ],
+    "git": "https://github.com/NEST-Protocol",
+    "forked_data": [
+      "https://cn.etherscan.com/token/0x1f832091faf289ed4f50fe7418cfbd2611225d46"
     ]
   },
   "nYFI": {
