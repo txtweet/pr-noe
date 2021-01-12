@@ -2056,9 +2056,18 @@
     "short": "AIN",
     "url": "/currencies/ai-network",
     "tags": [
-      "New"
+      "Token",
+      "AI",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/ainblockchain/ain-blockchain/",
+    "forked_data": [
+      "http://insight.ainetwork.ai/",
+      "https://etherscan.io/token/0x3A810ff7211b40c4fA76205a14efe161615d0385",
+      "https://ethplorer.io/address/0x3A810ff7211b40c4fA76205a14efe161615d0385"
+    ]
   },
   "AICHAIN": {
     "name": "AICHAIN",
@@ -8784,18 +8793,30 @@
     "short": "BTD",
     "url": "/currencies/bat-true-dollar",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://bscscan.com/token/0xd1102332a213e21faf78b69c03572031f3552c33"
+    ]
   },
   "Bat True Share": {
     "name": "Bat True Share",
     "short": "BTS",
     "url": "/currencies/bat-true-share",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://bscscan.com/token/0xc2e1acef50aE55661855E8dcB72adB182A3cC259"
+    ]
   },
   "Bata": {
     "name": "Bata",
@@ -10544,9 +10565,15 @@
     "short": "DNS",
     "url": "/currencies/bitdns",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196"
+    ]
   },
   "BitDegree": {
     "name": "BitDegree",
@@ -17117,9 +17144,15 @@
     "short": "CHS",
     "url": "/currencies/cheeseswap",
     "tags": [
-      "New"
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/cheeseswapbsc/",
+    "forked_data": [
+      "https://bscscan.com/token/0xadd8a06fd58761a5047426e160b2b88ad3b9d464"
+    ]
   },
   "Cheesecoin": {
     "name": "Cheesecoin",
@@ -21004,9 +21037,16 @@
     "short": "CGT",
     "url": "/currencies/curio-governance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/CurioTeam",
+    "forked_data": [
+      "https://etherscan.io/token/0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a",
+      "https://ethplorer.io/address/0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a"
+    ]
   },
   "Curve DAO Token": {
     "name": "Curve DAO Token",
@@ -22398,9 +22438,16 @@
     "short": "DAIQ",
     "url": "/currencies/daiquilibrium",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/daiquilibrium/daiquilibrium-protocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9",
+      "https://ethplorer.io/address/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9"
+    ]
   },
   "Dalecoin": {
     "name": "Dalecoin",
@@ -22535,9 +22582,11 @@
     "short": "D4RK",
     "url": "/currencies/darkpay",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/DarkPayCoin/darkpay-core"
   },
   "Dark Energy Crystals": {
     "name": "Dark Energy Crystals",
@@ -23756,9 +23805,16 @@
     "short": "DSWAP",
     "url": "/currencies/definex",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35",
+      "https://ethplorer.io/address/0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35"
+    ]
   },
   "Definitex": {
     "name": "Definitex",
@@ -23929,9 +23985,15 @@
     "short": "DCL",
     "url": "/currencies/delphi-chain-link",
     "tags": [
-      "New"
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/delphichainlink/DCL",
+    "forked_data": [
+      "https://tronscan.org/#/token/1003254/"
+    ]
   },
   "Delphy": {
     "name": "Delphy",
@@ -24067,9 +24129,11 @@
     "short": "DEQ",
     "url": "/currencies/dequant",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/dequant-project/dequant"
   },
   "DerivaDEX": {
     "name": "DerivaDEX",
@@ -27306,9 +27370,15 @@
     "short": "EDC",
     "url": "/currencies/earn-defi",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc"
+    ]
   },
   "EarnBet": {
     "name": "EarnBet",
@@ -27943,13 +28013,15 @@
     "short": "XEP",
     "url": "/currencies/electra-protocol",
     "tags": [
-      "New",
       "PoS",
       "Medium of Exchange",
       "Logistics",
-      "Atomic Swaps"
+      "Atomic Swaps",
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/ElectraProtocol"
   },
   "Electric Vehicle Zone": {
     "name": "Electric Vehicle Zone",
@@ -30988,9 +31060,16 @@
     "short": "FOX",
     "url": "/currencies/fox-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xc770eefad204b5180df6a14ee197d99d808ee52d",
+      "https://ethplorer.io/address/0xc770eefad204b5180df6a14ee197d99d808ee52d"
+    ]
   },
   "FRED Energy": {
     "name": "FRED Energy",
@@ -32209,9 +32288,16 @@
     "short": "FCX",
     "url": "/currencies/fission-cash",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x0b66015bc42601d5986b540373b4e02d7383c7c1",
+      "https://ethplorer.io/address/0x0b66015bc42601d5986b540373b4e02d7383c7c1"
+    ]
   },
   "Five Star Coin": {
     "name": "Five Star Coin",
@@ -37269,9 +37355,15 @@
     "short": "HITX",
     "url": "/currencies/hithotx",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TB384ojBf2JeqnURSv1Eyq8dsoSximVQdm"
+    ]
   },
   "Hive": {
     "name": "Hive",
@@ -38003,12 +38095,19 @@
     "short": "HYPE",
     "url": "/currencies/hype",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "12012021",
     "deaths": [
       "12012021"
+    ],
+    "git": "https://github.com/supremefinance",
+    "forked_data": [
+      "https://etherscan.io/token/0x4ff7c227e1e7bD59351de8635381C379750A8040",
+      "https://ethplorer.io/address/0x4ff7c227e1e7bD59351de8635381C379750A8040"
     ]
   },
   "Hyper Pay": {
@@ -46784,9 +46883,11 @@
     "short": "MNTIS",
     "url": "/currencies/mantis",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/mantisnetwork/MANTISCoin"
   },
   "Marblecoin": {
     "name": "Marblecoin",
@@ -48508,9 +48609,16 @@
     "short": "MQL",
     "url": "/currencies/miraqle",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x428dc22668e6f3468273634067e5545ed5417a3e",
+      "https://ethplorer.io/address/0x428dc22668e6f3468273634067e5545ed5417a3e"
+    ]
   },
   "Mirai": {
     "name": "Mirai",
@@ -57935,9 +58043,15 @@
     "short": "PRT",
     "url": "/currencies/portion",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/jasonrosenstein/Portion/blob/master/PortionToken.sol",
+    "forked_data": [
+      "https://etherscan.io/token/0x6D0F5149c502faf215C89ab306ec3E50b15e2892"
+    ]
   },
   "PosEx": {
     "name": "PosEx",
@@ -58332,9 +58446,16 @@
     "short": "PFI",
     "url": "/currencies/primefinance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "git": "https://github.com/Hasanah-creator",
+    "forked_data": [
+      "https://etherscan.io/token/0x989ac4c1fc5ab2b8c86924c6253aaf1ee68e9ce9",
+      "https://ethplorer.io/address/0x989ac4c1fc5ab2b8c86924c6253aaf1ee68e9ce9"
+    ]
   },
   "Primecoin": {
     "name": "Primecoin",
@@ -61772,9 +61893,16 @@
     "url": "/currencies/royale-finance",
     "tags": [
       "New",
-      "Gaming"
+      "Gaming",
+      "Gaming",
+      "NoGitHub",
+      "Token",
+      "Ethereum"
     ],
-    "sawBirth": "12012021"
+    "sawBirth": "12012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x7eaf9c89037e4814dc0d9952ac7f888c784548db"
+    ]
   },
   "Rozeus": {
     "name": "Rozeus",
