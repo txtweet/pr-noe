@@ -22583,7 +22583,9 @@
     "url": "/currencies/darkpay",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "DarkpayL",
+      "BitcoinL"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/DarkPayCoin/darkpay-core"
@@ -24130,7 +24132,10 @@
     "url": "/currencies/dequant",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "DequantL"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/dequant-project/dequant"
@@ -28018,7 +28023,8 @@
       "Logistics",
       "Atomic Swaps",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/ElectraProtocol"
@@ -46884,7 +46890,14 @@
     "url": "/currencies/mantis",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "PeercoinL",
+      "NovaCoinL",
+      "BlackCoinL",
+      "PIVXL",
+      "MANTIS CoinL"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/mantisnetwork/MANTISCoin"
@@ -79384,7 +79397,8 @@
       "Mineable",
       "PoW",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/woodcoin-core"
