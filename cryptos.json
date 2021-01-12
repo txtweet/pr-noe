@@ -11782,8 +11782,8 @@
       ]
     }
   },
-  "Bitcore": {
-    "name": "Bitcore",
+  "BitCore": {
+    "name": "BitCore",
     "short": "BTX",
     "url": "/currencies/bitcore",
     "tags": [
@@ -15153,7 +15153,11 @@
       "Token",
       "Ethereum",
       "New2",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ],
     "sawBirth": "06012021",
     "git": "https://github.com/CoverProtocol",
@@ -22342,7 +22346,11 @@
     "tags": [
       "Coin",
       "DarkpayL",
-      "BitcoinL"
+      "BitcoinL",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ],
     "git": "https://github.com/DarkPayCoin/darkpay-core"
   },
@@ -41313,8 +41321,8 @@
       ]
     }
   },
-  "Keystone of Opportunity & Knowledge": {
-    "name": "Keystone of Opportunity & Knowledge",
+  "KOK": {
+    "name": "KOK",
     "short": "KOK",
     "url": "/currencies/keystone-of-opportunity-knowledge",
     "tags": [
@@ -66450,7 +66458,11 @@
     "url": "/currencies/starchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ],
     "forked_data": {
       "block": [
@@ -72262,7 +72274,10 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Dead"
+    ],
+    "deaths": [
+      "01011970"
     ],
     "forked_data": {
       "block": [
@@ -73244,8 +73259,8 @@
     ],
     "git": "https://github.com/ucrcoin"
   },
-  "UltraNote Coin": {
-    "name": "UltraNote Coin",
+  "UltraNote Infinity": {
+    "name": "UltraNote Infinity",
     "short": "XUN",
     "url": "/currencies/ultranote-coin",
     "tags": [
