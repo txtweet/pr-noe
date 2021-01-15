@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./exportElastic/elastic.creds
+source ./elastic.creds
 #ad='192.168.8.46:9200'
 ad='localhost:9100'
 
