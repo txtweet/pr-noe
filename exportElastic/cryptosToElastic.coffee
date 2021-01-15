@@ -51,9 +51,10 @@ for crypto in raw.data
     )
   else
     console.warn("#{crypto.name} not found in DB")
-    process.exit(1)
 
-  tags = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
+  tags = []
+  if crypto.tags?
+    tags = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
   ret+="""{"index":{"_index": "cryptos"}}\n"""
   ret+="{\"id_coincap\": #{crypto.id},
   \"name\":\"#{crypto.name}\",
@@ -73,7 +74,6 @@ for crypto in raw.data
   \"percent_change_7d\": #{crypto.quote.USD.percent_change_7d},
   \"market_cap\": #{crypto.quote.USD.market_cap},
   \"usd_last_updated\": \"#{crypto.quote.USD.last_updated}\""
-  block = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
   _.forEach(datadb, (val,key) ->
     unless val == true or val== false
       val="\"#{val}\""
