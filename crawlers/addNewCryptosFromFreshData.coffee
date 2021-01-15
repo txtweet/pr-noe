@@ -15,16 +15,20 @@ tagsTables =
   'atomic-swaps':'Atomic Swaps'
   'bittrex': 'Bittrex'
   'binance': 'Binance'
+  'centralized-exchange': 'Centralized exchange'
   'collectibles-nfts': 'Collectibles & NFTs'
   'content-creation':'Content Creation'
   'dao': 'Dao'
   'defi': 'DeFi'
+  'discount-token': 'Discount token'
   'enterprise-solutions':'Enterprise solutions'
   'ethereum': 'Ethereum'
   'ftx': 'Ftx'
   'gaming': 'Gaming'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'logistics': 'Logistics'
+  'marketplace': 'Marketplace'
+  'masternodes': 'Masternodes'
   'medium-of-exchange': 'Medium of Exchange'
   'mineable': 'Mineable'
   'media': 'Media'
@@ -34,12 +38,14 @@ tagsTables =
   'polkadot': 'Polkadot'
   'pos': 'PoS'
   'pow': 'PoW'
+  'privacy': 'Privacy'
   'rebase': 'Rebase'
   'scrypt': 'Script'
   'services': 'Services'
   'stablecoin': 'Stablecoin'
   'stablecoin-asset-backed': 'Stablecoin - Asset-Backed'
   'substrate': 'Substrate'
+  'technology': 'Technology'
   'token': 'Token'
   'tokenized-stock': 'Tokenized Stock'
   'tron': 'Tron'
@@ -81,12 +87,14 @@ _.forEach fresh.data, (crypto) ->
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found
       console.error "000 - Renommage #{JSON.stringify found.name, null, 2} -> #{JSON.stringify crypto.name, null, 2}"
+      console.log JSON.stringify ordered, null, 2
       process.exit(1)
 
     console.error "#{newCryptos++} - New #{JSON.stringify crypto.name, null, 2}"
     tmpTags = crypto.tags.map (tag) ->
       unless tagsTables[tag]
         console.error "Tag '#{tag}' inconnu"
+        console.log JSON.stringify ordered, null, 2
         process.exit(1)
       tagsTables[tag]
     cryptos[crypto.name] =
