@@ -89,7 +89,8 @@ request
             foundChain = true
             crypto.tags.push 'KnoxFS'
             crypto.forked_data.push href
-          else if href.startsWith('https://tronscan.org')
+          else if href.startsWith('https://tronscan.org') or
+          href.startsWith('https://trx.tokenview.com/en/token')
             foundChain = true
             crypto.tags.push 'Tron'
             crypto.forked_data.push href

@@ -58756,9 +58756,16 @@
     "short": "PAL",
     "url": "/currencies/playandlike",
     "tags": [
-      "New"
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/playandlike/pal",
+    "forked_data": [
+      "https://tronscan.org/#/token/1003533/",
+      "https://trx.tokenview.com/en/token/TF2MNxyXQaNz6WSL1h7s3f2VKFneeGCUGe"
+    ]
   },
   "PlayChip": {
     "name": "PlayChip",
@@ -60235,9 +60242,17 @@
     "short": "PROS",
     "url": "/currencies/prosper",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+      "https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405"
+    ]
   },
   "Proton": {
     "name": "Proton",
@@ -61034,9 +61049,16 @@
     "short": "QTBK",
     "url": "/currencies/quantbook",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/smtContract/Quantbook",
+    "forked_data": [
+      "https://etherscan.io/token/0x9403d608515f7346EC44B998984d7741Fd0D9bd4",
+      "https://ethplorer.io/address/0x9403d608515f7346EC44B998984d7741Fd0D9bd4"
+    ]
   },
   "Quantis Network": {
     "name": "Quantis Network",
@@ -86575,10 +86597,17 @@
     "short": "ARTE",
     "url": "/currencies/ethart",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/b-u-i-d-l",
+    "forked_data": [
+      "https://etherscan.io/token/0x34612903db071e888a4dadcaa416d3ee263a87b9",
+      "https://ethplorer.io/address/0x34612903db071e888a4dadcaa416d3ee263a87b9"
+    ]
   },
   "extraDNA": {
     "name": "extraDNA",
