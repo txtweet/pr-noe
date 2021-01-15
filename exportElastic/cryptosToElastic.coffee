@@ -32,7 +32,7 @@ for crypto in raw.data
         )
         return
       if key == "deaths"
-        val.forEach((x) -> 
+        val.forEach((x) ->
           datadb["deaths_"+x] = true
         )
         return
@@ -51,6 +51,7 @@ for crypto in raw.data
     )
   else
     console.warn("#{crypto.name} not found in DB")
+    process.exit(1)
 
   tags = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
   ret+="""{"index":{"_index": "cryptos"}}\n"""
