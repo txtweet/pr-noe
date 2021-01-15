@@ -56,7 +56,12 @@ request
         $('a', @).each () ->
           href = $(@).attr('href')
           # console.log '->', href
-          if href.startsWith('https://cn.etherscan.com/') or href.startsWith('https://etherscan.io/') or href.startsWith('https://ethplorer.io/address/') or href.startsWith("https://cn.etherscan.com") or href.startsWith("https://ethplorer.io/")
+          if href.startsWith('https://blockchair.com/ethereum') or
+          href.startsWith('https://cn.etherscan.com/') or
+          href.startsWith('https://etherscan.io/') or
+          href.startsWith('https://ethplorer.io/address/') or
+          href.startsWith("https://cn.etherscan.com") or
+          href.startsWith("https://ethplorer.io/")
             foundChain = true
             crypto.tags.push 'Ethereum'
             crypto.forked_data.push href

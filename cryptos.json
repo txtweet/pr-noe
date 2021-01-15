@@ -7243,9 +7243,16 @@
     "short": "BEPRO",
     "url": "/currencies/bepro-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+      "https://ethplorer.io/address/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
+    ]
   },
   "BERNcash": {
     "name": "BERNcash",
@@ -8934,9 +8941,12 @@
     "short": "BAGS",
     "url": "/currencies/basis-gold-share",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "forked_data": []
   },
   "Basis Share": {
     "name": "Basis Share",
@@ -33967,10 +33977,17 @@
     "short": "COMBO",
     "url": "/currencies/furucombo",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278",
+      "https://ethplorer.io/address/0xfFffFffF2ba8F66D4e51811C5190992176930278"
+    ]
   },
   "Fusion": {
     "name": "Fusion",
@@ -43624,12 +43641,20 @@
     "short": "KCS",
     "url": "/currencies/kucoin-token",
     "tags": [
-      "New",
       "Marketplace",
       "Centralized exchange",
-      "Discount token"
+      "Discount token",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+      "https://ethplorer.io/address/0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+      "https://blockchair.com/ethereum/erc-20/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab"
+    ]
   },
   "Kuai Token": {
     "name": "Kuai Token",
@@ -56066,14 +56091,17 @@
     "short": "LOKI",
     "url": "/currencies/oxen",
     "tags": [
-      "New",
       "PoS",
       "Technology",
       "DeFi",
       "Privacy",
-      "Masternodes"
+      "Masternodes",
+      "Hybrid - PoW & PoS",
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/loki-project"
   },
   "P2P": {
     "name": "P2P",
@@ -57854,18 +57882,30 @@
     "short": "PEGS",
     "url": "/currencies/pegsshares",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/pegsfinance/pegs",
+    "forked_data": [
+      "https://etherscan.io/token/0x88bd6efe33bc82860278c044efa33364c6285032"
+    ]
   },
   "PegsUSD": {
     "name": "PegsUSD",
     "short": "PUSD",
     "url": "/currencies/pegs-usd",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "15012021"
+    "sawBirth": "15012021",
+    "git": "https://github.com/pegsfinance/pegs",
+    "forked_data": [
+      "https://etherscan.io/token/0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a"
+    ]
   },
   "PengolinCoin": {
     "name": "PengolinCoin",
