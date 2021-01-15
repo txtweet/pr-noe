@@ -1,8 +1,10 @@
 #!/bin/bash
 
-ad='192.168.8.46:9200'
+source ./exportElastic/elastic.creds
+#ad='192.168.8.46:9200'
+ad='localhost:9100'
 
-curl --location --request PUT "$ad/cryptos" > init.log
-curl --location --request PUT "$ad/cryptos/_settings" --header 'Content-Type: application/json' --data-raw '{
+curl -u $user:$passwd -sS --location --request PUT "$ad/cryptos" |json
+curl -u $user:$passwd -sS --location --request PUT "$ad/cryptos/_settings" --header 'Content-Type: application/json' --data-raw '{
   "index.mapping.total_fields.limit": 5000
-}' >> init.log
+}' |json
