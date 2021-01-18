@@ -98,6 +98,8 @@ request
             foundChain = true
             crypto.tags.push 'AI'
             crypto.forked_data.push href
+          else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io')
+            
           else
             error("Type de chaine inconnue", href)
     unless foundChain

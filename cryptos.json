@@ -9030,9 +9030,15 @@
     "short": "BAG",
     "url": "/currencies/bag",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Huobi ECO",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://scan.hecochain.com/"
+    ]
   },
   "Basis Gold Share": {
     "name": "Basis Gold Share",
@@ -19826,9 +19832,16 @@
     "short": "CNFI",
     "url": "/currencies/connect-financial",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/Connect-Financial",
+    "forked_data": [
+      "https://etherscan.io/token/0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+      "https://ethplorer.io/address/0xeabb8996ea1662cad2f7fb715127852cd3262ae9"
+    ]
   },
   "ConnectJob": {
     "name": "ConnectJob",
@@ -35489,9 +35502,16 @@
     "short": "GERA",
     "url": "/currencies/gera-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+      "https://ethplorer.io/address/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02"
+    ]
   },
   "GermanCoin": {
     "name": "GermanCoin",
@@ -38224,11 +38244,17 @@
     "short": "HELMET",
     "url": "/currencies/helmet-insure",
     "tags": [
-      "New",
       "Insurance",
-      "Binance Smart Chain"
+      "Binance Smart Chain",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/helmet-insure/helmet-insure.github.io",
+    "forked_data": [
+      "https://bscscan.com/token/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8"
+    ]
   },
   "Helper Search Token": {
     "name": "Helper Search Token",
@@ -48629,12 +48655,14 @@
     "short": "MARS",
     "url": "/currencies/marscoin",
     "tags": [
-      "New",
       "Mineable",
       "PoW",
-      "X11"
+      "X11",
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/marscoin"
   },
   "Marshal Lion Group Coin": {
     "name": "Marshal Lion Group Coin",
@@ -57903,9 +57931,16 @@
     "short": "PSI",
     "url": "/currencies/passive-income",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/passive-income-001/passive-income",
+    "forked_data": [
+      "https://etherscan.io/address/0xd4cb461eace80708078450e465881599d2235f1a",
+      "https://ethplorer.io/address/0xd4cb461eace80708078450e465881599d2235f1a"
+    ]
   },
   "Patientory": {
     "name": "Patientory",
@@ -59980,9 +60015,16 @@
     "short": "POOLZ",
     "url": "/currencies/poolz-finance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/The-Poolz/PoolzToken",
+    "forked_data": [
+      "https://etherscan.io/token/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+      "https://ethplorer.io/address/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
+    ]
   },
   "Popcorn": {
     "name": "Popcorn",
@@ -68660,9 +68702,15 @@
     "short": "SLM",
     "url": "/currencies/solomon-defi",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/solomondefi",
+    "forked_data": [
+      "https://etherscan.io/token/0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e"
+    ]
   },
   "Sombe": {
     "name": "Sombe",
@@ -71806,9 +71854,16 @@
     "short": "RUNE",
     "url": "/currencies/thorchain-erc20",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb",
+      "https://ethplorer.io/address/0x3155ba85d5f96b2d030a4966af206230e46849cb"
+    ]
   },
   "TICOEX Token": {
     "name": "TICOEX Token",
@@ -84355,9 +84410,16 @@
     "short": "YFTE",
     "url": "/currencies/yftether",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "git": "https://github.com/yftether",
+    "forked_data": [
+      "https://etherscan.io/token/0x94f31ac896c9823d81cf9c2c93feceed4923218f",
+      "https://ethplorer.io/address/0x94f31ac896c9823d81cf9c2c93feceed4923218f"
+    ]
   },
   "YFUEL": {
     "name": "YFUEL",
@@ -85366,9 +85428,16 @@
     "short": "YOP",
     "url": "/currencies/yop",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xae1eaae3f627aaca434127644371b67b18444051",
+      "https://ethplorer.io/address/0xae1eaae3f627aaca434127644371b67b18444051"
+    ]
   },
   "Yield Stake Finance": {
     "name": "Yield Stake Finance",
@@ -87059,9 +87128,16 @@
     "short": "CHERRY",
     "url": "/currencies/cherry",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
+      "https://ethplorer.io/address/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C"
+    ]
   },
   "dForce": {
     "name": "dForce",
@@ -88104,9 +88180,15 @@
     "short": "ICHI",
     "url": "/currencies/ichi-farm",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "18012021"
+    "sawBirth": "18012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x903bef1736cddf2a537176cf3c64579c3867a881"
+    ]
   },
   "imbrex": {
     "name": "imbrex",
