@@ -15,6 +15,7 @@ tagsTables =
   'atomic-swaps':'Atomic Swaps'
   'bittrex': 'Bittrex'
   'binance': 'Binance'
+  'binance-smart-chain': 'Binance Smart Chain'
   'centralized-exchange': 'Centralized exchange'
   'collectibles-nfts': 'Collectibles & NFTs'
   'content-creation':'Content Creation'
@@ -26,6 +27,7 @@ tagsTables =
   'ftx': 'Ftx'
   'gaming': 'Gaming'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
+  'insurance': 'Insurance'
   'logistics': 'Logistics'
   'marketplace': 'Marketplace'
   'masternodes': 'Masternodes'
@@ -50,6 +52,7 @@ tagsTables =
   'tokenized-stock': 'Tokenized Stock'
   'tron': 'Tron'
   'yield-farming': 'Yield farming'
+  'x11': 'X11'
 
 _ = require 'lodash'
 cryptos = require '../cryptos'
