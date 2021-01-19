@@ -2708,9 +2708,16 @@
     "short": "ARTH",
     "url": "/currencies/arth",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9",
+      "https://ethplorer.io/address/0x0e3cc2c4fb9252d17d07c67135e48536071735d9"
+    ]
   },
   "ARVO": {
     "name": "ARVO",
@@ -5856,9 +5863,16 @@
     "short": "ARIA20",
     "url": "/currencies/arianee-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/address/0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+      "https://ethplorer.io/address/0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
+    ]
   },
   "Aricoin": {
     "name": "Aricoin",
@@ -15927,11 +15941,17 @@
     "short": "CORD",
     "url": "/currencies/cord-finance",
     "tags": [
-      "New",
       "DeFi",
-      "Yield farming"
+      "Yield farming",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x74fb9da15d4f9a34d8c825798da0fa5c400dade1"
+    ]
   },
   "CORN": {
     "name": "CORN",
@@ -36023,9 +36043,16 @@
     "short": "GLCH",
     "url": "/currencies/glitch",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x038a68ff68c393373ec894015816e33ad41bd564",
+      "https://ethplorer.io/address/0x038a68ff68c393373ec894015816e33ad41bd564"
+    ]
   },
   "Global Crypto Alliance": {
     "name": "Global Crypto Alliance",
@@ -36699,9 +36726,16 @@
     "short": "GOLD",
     "url": "/currencies/golden-goose",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817",
+      "https://ethplorer.io/address/0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817"
+    ]
   },
   "Golden Ratio Coin": {
     "name": "Golden Ratio Coin",
@@ -40706,9 +40740,16 @@
     "short": "ISAL",
     "url": "/currencies/isalcoin",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "git": "https://github.com/leader7707/isalcoin",
+    "forked_data": [
+      "https://etherscan.io/token/0x8e12bd795d2608f90440c84dddd2d985240696d5",
+      "https://ethplorer.io/address/0x8e12bd795d2608f90440c84dddd2d985240696d5"
+    ]
   },
   "ISTARDUST": {
     "name": "ISTARDUST",
@@ -42500,9 +42541,11 @@
     "short": "777",
     "url": "/currencies/jackpot",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "git": "https://github.com/777-project/777/releases/"
   },
   "Jade Currency": {
     "name": "Jade Currency",
@@ -44302,9 +44345,15 @@
     "short": "KOIN",
     "url": "/currencies/koinos",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "git": "https://github.com/koinos",
+    "forked_data": [
+      "https://etherscan.io/address/0x66d28cb58487a7609877550e1a34691810a6b9fc"
+    ]
   },
   "Komet": {
     "name": "Komet",
@@ -55498,9 +55547,13 @@
     "short": "OKT",
     "url": "/currencies/okexchain",
     "tags": [
-      "New"
+      "New2",
+      "Marketplace",
+      "Coin"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "git": "https://github.com/okex/okexchain",
+    "forked_data": []
   },
   "OLPORTAL": {
     "name": "OLPORTAL",
@@ -70773,9 +70826,16 @@
     "short": "SBS",
     "url": "/currencies/staysbase",
     "tags": [
-      "New"
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "git": "https://github.com/staysbase",
+    "forked_data": [
+      "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce",
+      "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce"
+    ]
   },
   "Steaks Finance": {
     "name": "Steaks Finance",
@@ -78211,9 +78271,16 @@
     "short": "NIF",
     "url": "/currencies/unifty",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+      "https://ethplorer.io/address/0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e"
+    ]
   },
   "Unify": {
     "name": "Unify",
@@ -79282,9 +79349,16 @@
     "short": "VRX",
     "url": "/currencies/verox",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x87DE305311D5788e8da38D19bb427645b09CB4e5",
+      "https://ethplorer.io/address/0x87DE305311D5788e8da38D19bb427645b09CB4e5"
+    ]
   },
   "VIBE": {
     "name": "VIBE",
@@ -86022,9 +86096,16 @@
     "short": "YSKF",
     "url": "/currencies/yearn-shark-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x9c664f20c0a00a4949dffca76748c02754c875aa",
+      "https://ethplorer.io/address/0x9c664f20c0a00a4949dffca76748c02754c875aa"
+    ]
   },
   "Yearn-finance Infrastructure Labs": {
     "name": "Yearn-finance Infrastructure Labs",
@@ -90206,9 +90287,16 @@
     "short": "STXEM",
     "url": "/currencies/stakedxem",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "19012021"
+    "sawBirth": "19012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+      "https://ethplorer.io/address/0x0c63cae5fcc2ca3dde60a35e50362220651ebec8"
+    ]
   },
   "suterusu": {
     "name": "suterusu",

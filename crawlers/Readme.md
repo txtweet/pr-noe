@@ -5,10 +5,7 @@ Ce répertoire contient les scripts d'intégration des tokens et monnaies dans l
  - Récupération de la liste sur coinmarketcap dans le fichier toto.json
 > 1 ./lanceDownload.sh -> La sortie indique comment faire l'injection dans le fichier cryptos.json
 
- - Analyse du fichier pour l'intégration des monnaies dans crypto.json
-> 3 coffee ./addNewCryptosFromFreshData.coffee <ddmmyyyy> > toto.json
-
-*Le script s'arrête si une monnaie est renommée. Il faut corriger le fichier avant*
+*Le script addNewCryptosFromFreshData s'arrête si une monnaie est renommée. Il faut corriger le fichier avant*
 Si tout est ok, déplacer le fichier à la place du fichier de crypto.json et commiter le. Les nouvelles monnaies sont taguées 'New'
 > 3 mv toto.json ../cryptos.json
 > 4 git commit -am'Ajout crypot' && git push

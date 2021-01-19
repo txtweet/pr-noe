@@ -69,7 +69,7 @@ _.forEach cryptos, (crypto) ->
   unless "Dead" in crypto.tags
     unless _.find fresh.data, {"name": crypto.name}
       if "External" not in crypto.tags
-        console.error("Monnaie non trouvée dans le nouveaux fichier #{crypto.name} #{crypto.short} #{crypto.url}")
+        console.error("Monnaie supprimée du fichier #{crypto.name} #{crypto.short} #{crypto.url}")
         # process.exit(1)
         crypto.tags.push("Dead")
         crypto.deaths = ["01011970"]
@@ -89,14 +89,14 @@ _.forEach fresh.data, (crypto) ->
   unless cryptos[crypto.name]?
     found = _.find (_.values cryptos), {"url": "/currencies/#{crypto.slug}"}
     if found
-      console.error "000 - Renommage #{JSON.stringify found.name, null, 2} -> #{JSON.stringify crypto.name, null, 2}"
+      console.error "ERREUR : 000 - Renommage #{JSON.stringify found.name, null, 2} -> #{JSON.stringify crypto.name, null, 2}"
       console.log JSON.stringify ordered, null, 2
       process.exit(1)
 
     console.error "#{newCryptos++} - New #{JSON.stringify crypto.name, null, 2}"
     tmpTags = crypto.tags.map (tag) ->
       unless tagsTables[tag]
-        console.error "Tag '#{tag}' inconnu"
+        console.error "ERREUR : Tag '#{tag}' inconnu"
         console.log JSON.stringify ordered, null, 2
         process.exit(1)
       tagsTables[tag]
@@ -120,4 +120,5 @@ ordered = {}
 _(cryptos).keys().sort().each (key) ->
   ordered[key] = cryptos[key]
 
+console.error "FINI - OK"
 console.log JSON.stringify ordered, null, 2
