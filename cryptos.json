@@ -42542,7 +42542,8 @@
     "url": "/currencies/jackpot",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "19012021",
     "git": "https://github.com/777-project/777/releases/"
@@ -55549,7 +55550,8 @@
     "tags": [
       "New2",
       "Marketplace",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "19012021",
     "git": "https://github.com/okex/okexchain",
