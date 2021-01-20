@@ -88154,8 +88154,10 @@
     "short": "ZDX",
     "url": "/currencies/zer-dex",
     "tags": [
+      "Marketplace",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20012021",
     "git": "https://github.com/zer-dex-coin/zerdex-core/releases"
