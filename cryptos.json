@@ -13570,9 +13570,16 @@
     "short": "BDT",
     "url": "/currencies/block-duelers",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58",
+      "https://ethplorer.io/address/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58"
+    ]
   },
   "Block-Chain.com": {
     "name": "Block-Chain.com",
@@ -32105,9 +32112,16 @@
     "short": "CAVO",
     "url": "/currencies/excavo-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x24ea9c1cfd77a8db3fb707f967309cf013cc1078",
+      "https://ethplorer.io/address/0x24ea9c1cfd77a8db3fb707f967309cf013cc1078"
+    ]
   },
   "Exchange Payment Coin": {
     "name": "Exchange Payment Coin",
@@ -65452,9 +65466,15 @@
     "short": "ROUTE",
     "url": "/currencies/router-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "git": "https://github.com/router-protocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+    ]
   },
   "Rowan Token": {
     "name": "Rowan Token",
@@ -75984,9 +76004,16 @@
     "short": "NTB",
     "url": "/currencies/tokenasset",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xbe393aa534f82c0ffac31bf06a23e283acb3352b",
+      "https://ethplorer.io/address/0xbe393aa534f82c0ffac31bf06a23e283acb3352b"
+    ]
   },
   "TokenBacon": {
     "name": "TokenBacon",
@@ -84094,9 +84121,16 @@
     "short": "WCELO",
     "url": "/currencies/wrapped-celo",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+      "https://ethplorer.io/address/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a"
+    ]
   },
   "Wrapped Conceal": {
     "name": "Wrapped Conceal",
@@ -88120,9 +88154,11 @@
     "short": "ZDX",
     "url": "/currencies/zer-dex",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "git": "https://github.com/zer-dex-coin/zerdex-core/releases"
   },
   "Zero": {
     "name": "Zero",
@@ -88157,9 +88193,16 @@
     "short": "ZERO",
     "url": "/currencies/zero-exchange",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "20012021"
+    "sawBirth": "20012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+      "https://ethplorer.io/address/0xf0939011a9bb95c3b791f0cb546377ed2693a574"
+    ]
   },
   "Zero Utility Token": {
     "name": "Zero Utility Token",
