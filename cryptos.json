@@ -16407,9 +16407,16 @@
     "short": "CPU",
     "url": "/currencies/cpucoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+      "https://ethplorer.io/address/0x6d52dfefb16bb9cdc78bfca09061e44574886626"
+    ]
   },
   "CRDT": {
     "name": "CRDT",
@@ -19954,9 +19961,16 @@
     "short": "MUST",
     "url": "/currencies/cometh",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+      "https://ethplorer.io/address/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+    ]
   },
   "Commerce Data Connection": {
     "name": "Commerce Data Connection",
@@ -43983,9 +43997,16 @@
     "short": "KSP",
     "url": "/currencies/klayswap-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Marketplace",
+      "Token",
+      "KLAYswap Protocol",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer"
+    ]
   },
   "KNOW": {
     "name": "KNOW",
@@ -71795,9 +71816,16 @@
     "short": "SDT",
     "url": "/currencies/stake-dao",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "https://ethplorer.io/address/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
+    ]
   },
   "StakeCubeCoin": {
     "name": "StakeCubeCoin",
@@ -90028,9 +90056,17 @@
     "short": "NGM",
     "url": "/currencies/e-money-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Stablecoin",
+      "e-Money",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://e-money.net",
+      "https://hubble.figment.io/emoney/chains/emoney-2"
+    ]
   },
   "eBitcoin": {
     "name": "eBitcoin",
@@ -92713,8 +92749,15 @@
     "short": "ZZZV2",
     "url": "/currencies/zzz-finance-v2",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "21012021"
+    "sawBirth": "21012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x93ed140172ff226dad1f7f3650489b8daa07ae7f",
+      "https://ethplorer.io/address/0x93ed140172ff226dad1f7f3650489b8daa07ae7f"
+    ]
   }
 }

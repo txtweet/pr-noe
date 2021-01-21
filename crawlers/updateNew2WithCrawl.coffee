@@ -89,6 +89,15 @@ request
             foundChain = true
             crypto.tags.push 'KnoxFS'
             crypto.forked_data.push href
+          else if href.startsWith('https://scope.klaytn.com/token')
+            foundChain = true
+            crypto.tags.push 'KLAYswap Protocol'
+            crypto.forked_data.push href
+          else if href.startsWith('https://e-money.net') or
+          href.startsWith('https://hubble.figment.io/emoney/chains/emoney-2')
+            foundChain = true
+            crypto.tags.push 'e-Money'
+            crypto.forked_data.push href
           else if href.startsWith('https://tronscan.org') or
           href.startsWith('https://trx.tokenview.com/en/token')
             foundChain = true
