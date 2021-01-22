@@ -42813,10 +42813,17 @@
     "short": "INFI",
     "url": "/currencies/insured-finance",
     "tags": [
-      "New",
-      "Insurance"
+      "Insurance",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+      "https://ethplorer.io/address/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
+    ]
   },
   "Insureum": {
     "name": "Insureum",
@@ -44458,7 +44465,9 @@
     "short": "KONJ",
     "url": "/currencies/konjungate",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "22012021"
   },
@@ -50389,10 +50398,16 @@
     "short": "MDX",
     "url": "/currencies/mandala-exchange-token",
     "tags": [
-      "New",
-      "Centralized exchange"
+      "Centralized exchange",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/address/0x947AEb02304391f8fbE5B25D7D98D649b57b1788"
+    ]
   },
   "Mandi Token": {
     "name": "Mandi Token",
@@ -62101,9 +62116,15 @@
     "short": "POKE",
     "url": "/currencies/pokeball",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://bscscan.com/token/0xcdad3683335a4a96d2c437dd4513b061e4aec4ff"
+    ]
   },
   "Polis": {
     "name": "Polis",
@@ -62122,9 +62143,16 @@
     "short": "CVR",
     "url": "/currencies/polkacover",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+      "https://ethplorer.io/address/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+    ]
   },
   "Polkadot": {
     "name": "Polkadot",
@@ -63791,9 +63819,15 @@
     "short": "QFI",
     "url": "/currencies/qfinance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x6fe88a211863d0d818608036880c9a4b0ea86795"
+    ]
   },
   "QLC Chain": {
     "name": "QLC Chain",
@@ -66183,9 +66217,15 @@
     "short": "RIGEL",
     "url": "/currencies/rigel-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad"
+    ]
   },
   "RightMesh": {
     "name": "RightMesh",
@@ -79215,9 +79255,16 @@
     "short": "PHOON",
     "url": "/currencies/typhoon-cash",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+      "https://ethplorer.io/address/0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc"
+    ]
   },
   "U Network": {
     "name": "U Network",
