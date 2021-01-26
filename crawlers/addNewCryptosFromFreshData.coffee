@@ -13,6 +13,7 @@ fileDate = process.argv[2]
 tagsTables =
   'ai-big-data': 'AI & Big Data'
   'atomic-swaps':'Atomic Swaps'
+  'asset-management': 'Asset management'
   'bittrex': 'Bittrex'
   'binance': 'Binance'
   'binance-smart-chain': 'Binance Smart Chain'
@@ -53,6 +54,7 @@ tagsTables =
   'tron': 'Tron'
   'yield-farming': 'Yield farming'
   'x11': 'X11'
+  'x13': 'X13'
 
 _ = require 'lodash'
 cryptos = require '../cryptos'
