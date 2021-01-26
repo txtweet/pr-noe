@@ -7740,7 +7740,8 @@
     "url": "/currencies/biki",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Maketplace"
     ],
     "forked_data": {
       "block": [
@@ -10716,14 +10717,10 @@
     "short": "BNB",
     "url": "/currencies/binance-coin",
     "tags": [
-      "Coin",
+      "Token",
       "Marketplace",
       "Payments",
       "NoGitHub",
-      "Dead"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "Binance GBP Stable Coin": {
