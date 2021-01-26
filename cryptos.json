@@ -2737,11 +2737,18 @@
     "short": "ARMOR",
     "url": "/currencies/armor",
     "tags": [
-      "New",
       "DeFi",
-      "Insurance"
+      "Insurance",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "https://ethplorer.io/address/0x1337def16f9b486faed0293eb623dc8395dfe46a"
+    ]
   },
   "ARMTOKEN": {
     "name": "ARMTOKEN",
@@ -6168,11 +6175,18 @@
     "short": "arNXM",
     "url": "/currencies/armor-nxm",
     "tags": [
-      "New",
       "DeFi",
-      "Insurance"
+      "Insurance",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x1337def18c680af1f9f45cbcab6309562975b1dd",
+      "https://ethplorer.io/address/0x1337def18c680af1f9f45cbcab6309562975b1dd"
+    ]
   },
   "Arqma": {
     "name": "Arqma",
@@ -10515,10 +10529,17 @@
     "short": "TRYB",
     "url": "/currencies/bilira",
     "tags": [
-      "New",
-      "Stablecoin"
+      "Stablecoin",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "https://ethplorer.io/address/0x2c537e5624e4af88a7ae4060c022609376c8d0eb"
+    ]
   },
   "BiblePay": {
     "name": "BiblePay",
@@ -12096,9 +12117,16 @@
     "short": "BBP",
     "url": "/currencies/bitbot-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xbb0a009ba1eb20c5062c790432f080f6597662af",
+      "https://ethplorer.io/address/0xbb0a009ba1eb20c5062c790432f080f6597662af"
+    ]
   },
   "Bitcloud": {
     "name": "Bitcloud",
@@ -16915,9 +16943,16 @@
     "short": "CURE",
     "url": "/currencies/cure-farm",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x089a502032166e07ae83eb434c16790ca2fa4661",
+      "https://ethplorer.io/address/0x089a502032166e07ae83eb434c16790ca2fa4661"
+    ]
   },
   "CUTcoin": {
     "name": "CUTcoin",
@@ -23846,10 +23881,17 @@
     "short": "DIGG",
     "url": "/currencies/digg",
     "tags": [
-      "New",
-      "Rebase"
+      "Rebase",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x798D1bE841a82a273720CE31c822C61a67a601C3",
+      "https://ethplorer.io/address/0x798d1be841a82a273720ce31c822c61a67a601c3"
+    ]
   },
   "DIMCOIN": {
     "name": "DIMCOIN",
@@ -26236,8 +26278,11 @@
     "short": "DDX",
     "url": "/currencies/derivadao",
     "tags": [
-      "New",
-      "DeFi"
+      "New2",
+      "DeFi",
+      "Token",
+      "Maketplace",
+      "NoGitHub"
     ],
     "sawBirth": "26012021"
   },
@@ -28980,9 +29025,15 @@
     "short": "EOX",
     "url": "/currencies/eox",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Tron",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TFRpLKuyB3LastNZpdNkQJz8G98asXbw2B"
+    ]
   },
   "ERC20": {
     "name": "ERC20",
@@ -31452,11 +31503,18 @@
     "short": "MLN",
     "url": "/currencies/enzyme",
     "tags": [
-      "New",
       "Asset management",
-      "DeFi"
+      "DeFi",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+      "https://ethplorer.io/address/0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+    ]
   },
   "Epanus": {
     "name": "Epanus",
@@ -42853,9 +42911,16 @@
     "short": "NDX",
     "url": "/currencies/indexed-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+      "https://ethplorer.io/address/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+    ]
   },
   "Indorse Token": {
     "name": "Indorse Token",
@@ -43078,8 +43143,10 @@
     "short": "INN",
     "url": "/currencies/innova",
     "tags": [
-      "New",
-      "Mineable"
+      "Mineable",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "26012021"
   },
@@ -55664,9 +55731,16 @@
     "short": "NAWA",
     "url": "/currencies/narwhale-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793",
+      "https://ethplorer.io/address/0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793"
+    ]
   },
   "Nasdacoin": {
     "name": "Nasdacoin",
@@ -59648,9 +59722,16 @@
     "short": "PAID",
     "url": "/currencies/paid-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
+      "https://ethplorer.io/address/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df"
+    ]
   },
   "PAL Network": {
     "name": "PAL Network",
@@ -60192,7 +60273,9 @@
     "short": "POC",
     "url": "/currencies/poc-blockchain",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "26012021"
   },
@@ -62016,9 +62099,16 @@
     "short": "BCP",
     "url": "/currencies/piedao-balanced-crypto-pie",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xe4f726adc8e89c6a6017f01eada77865db22da14",
+      "https://ethplorer.io/address/0xe4f726adc8e89c6a6017f01eada77865db22da14"
+    ]
   },
   "PieDAO DEFI Large Cap": {
     "name": "PieDAO DEFI Large Cap",
@@ -62100,9 +62190,16 @@
     "short": "YPIE",
     "url": "/currencies/piedao-yearn-ecosystem-pie",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+      "https://ethplorer.io/address/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31"
+    ]
   },
   "Pigeoncoin": {
     "name": "Pigeoncoin",
@@ -62841,9 +62938,16 @@
     "short": "PBR",
     "url": "/currencies/polkabridge",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+      "https://ethplorer.io/address/0x0d6ae2a429df13e44a07cd2969e085e4833f64a0"
+    ]
   },
   "Polkacover": {
     "name": "Polkacover",
@@ -68721,9 +68825,16 @@
     "short": "STN",
     "url": "/currencies/sting",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0",
+      "https://ethploer.io/addres/0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0"
+    ]
   },
   "STK": {
     "name": "STK",
@@ -71824,10 +71935,17 @@
     "short": "SNOW",
     "url": "/currencies/snowswap",
     "tags": [
-      "New",
-      "Yield farming"
+      "Yield farming",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0xfe9a29ab92522d14fc65880d817214261d8479ae",
+      "https://ethplorer.io/address/0xfe9a29ab92522d14fc65880d817214261d8479ae"
+    ]
   },
   "SoMee.Social": {
     "name": "SoMee.Social",
@@ -78768,9 +78886,17 @@
     "short": "DIS",
     "url": "/currencies/tosdis",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x220b71671b649c03714da9c621285943f3cbcdc6",
+      "https://ethplorer.io/address/0x220b71671b649c03714da9c621285943f3cbcdc6",
+      "https://blockchain.coinmarketcap.com/address/ethereum/0x220b71671b649c03714da9c621285943f3cbcdc6"
+    ]
   },
   "Toshify.finance": {
     "name": "Toshify.finance",
@@ -87580,9 +87706,16 @@
     "short": "XUSD",
     "url": "/currencies/xusd-stable",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x1c9BA9144505aaBa12f4b126Fda9807150b88f80",
+      "https://ethplorer.io/address/0x1c9BA9144505aaBa12f4b126Fda9807150b88f80"
+    ]
   },
   "XVIX": {
     "name": "XVIX",
@@ -93297,9 +93430,16 @@
     "short": "R3FI",
     "url": "/currencies/r3fi-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "26012021"
+    "sawBirth": "26012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x13572851103bed49ff743af4c4bb5ace88b22e2f",
+      "https://ethplorer.io/address/0x13572851103bed49ff743af4c4bb5ace88b22e2f"
+    ]
   },
   "rbase.finance": {
     "name": "rbase.finance",
@@ -94486,11 +94626,13 @@
     "short": "XRC",
     "url": "/currencies/xrhodium",
     "tags": [
-      "New",
       "Mineable",
       "PoW",
       "X13",
-      "Medium of Exchange"
+      "Medium of Exchange",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "26012021"
   },

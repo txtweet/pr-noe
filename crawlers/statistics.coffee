@@ -36,7 +36,6 @@ _.forEach cryptos, (crypt) ->
         ai++
       else
         result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
-
     else
       unless "Coin" in crypt.tags
         console.error "Erreur sur #{JSON.stringify crypt}"

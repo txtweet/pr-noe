@@ -59,7 +59,9 @@ request
           if href.startsWith('https://blockchair.com/ethereum') or
           href.startsWith('https://cn.etherscan.com/') or
           href.startsWith('https://etherscan.io/') or
-          href.startsWith('https://ethplorer.io/address/') or
+          href.startsWith('https://ethploer.io/addres') or
+          href.startsWith('https://blockchain.coinmarketcap.com/address/ethereum') or
+          href.startsWith('https://ethplorer.io/addres') or
           href.startsWith("https://cn.etherscan.com") or
           href.startsWith("https://ethplorer.io/")
             foundChain = true
