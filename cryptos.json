@@ -10957,12 +10957,18 @@
     "short": "BETH",
     "url": "/currencies/binance-beacon-eth",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
     "sawBirth": "27012021",
     "deaths": [
       "27012021"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x250632378e573c6be1ac2f97fcdf00515d0aa91b"
     ]
   },
   "Binance Coin": {
@@ -35701,9 +35707,11 @@
     "short": "FLOW",
     "url": "/currencies/flow",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Coinbase Ventures Portfolio"
+      "Coinbase Ventures Portfolio",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -45920,9 +45928,15 @@
     "short": "KEBAB",
     "url": "/currencies/kebab-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "New2"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "forked_data": [
+      "https://bscscan.com/token/0x7979f6c54eba05e18ded44c4f986f49a5de551c2"
+    ]
   },
   "Keep Network": {
     "name": "Keep Network",
@@ -52123,7 +52137,9 @@
     "short": "MDX",
     "url": "/currencies/mdex",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -56297,8 +56313,10 @@
     "short": "NAVI",
     "url": "/currencies/natus-vincere-fan-token",
     "tags": [
-      "New",
-      "Fan token"
+      "Fan token",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -70684,9 +70702,16 @@
     "short": "WSCRT",
     "url": "/currencies/secret-erc20",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+      "https://ethplorer.io/address/0x2b89bf8ba858cd2fcee1fada378d5cd6936968be"
+    ]
   },
   "Secrets of Zurich": {
     "name": "Secrets of Zurich",
@@ -74075,12 +74100,19 @@
     "short": "STETH",
     "url": "/currencies/stakehound-staked-ether",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
     "sawBirth": "27012021",
     "deaths": [
       "27012021"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+      "https://ethplorer.io/address/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d"
     ]
   },
   "Stakenet": {
@@ -79013,9 +79045,16 @@
     "short": "TKMN",
     "url": "/currencies/tokemon",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x2b5016CeA1C425f915E13727f7657025de3208Fe",
+      "https://ethplorer.io/address/0x2b5016CeA1C425f915E13727f7657025de3208Fe"
+    ]
   },
   "Token CashPay": {
     "name": "Token CashPay",
@@ -88758,9 +88797,15 @@
     "short": "XST",
     "url": "/currencies/xstable-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "New2"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "forked_data": [
+      "https://etherscan.io/address/0x91383a15c391c142b80045d8b4730c1c37ac0378"
+    ]
   },
   "Xtake": {
     "name": "Xtake",
@@ -91005,8 +91050,10 @@
     "short": "YBO",
     "url": "/currencies/young-boys-fan-token",
     "tags": [
-      "New",
-      "Fan token"
+      "Fan token",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -95368,7 +95415,9 @@
     "short": "XFUND",
     "url": "/currencies/xfund",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "27012021"
   },
