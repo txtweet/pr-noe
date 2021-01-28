@@ -23,6 +23,7 @@ tagsTables =
   'content-creation':'Content Creation'
   'dao': 'Dao'
   'defi': 'DeFi'
+  'derivatives': 'Derivatives'
   'discount-token': 'Discount token'
   'enterprise-solutions':'Enterprise solutions'
   'ethereum': 'Ethereum'
