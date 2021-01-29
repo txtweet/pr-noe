@@ -109,6 +109,14 @@ request
             foundChain = true
             crypto.tags.push 'AI'
             crypto.forked_data.push href
+          else if href.startsWith('https://wavesexplorer.com/assets')
+            foundChain = true
+            crypto.tags.push 'Waves'
+            crypto.forked_data.push href
+          else if href.startsWith('https://beaconscan.com/')
+            foundChain = true
+            crypto.tags.push 'Beacon'
+            crypto.forked_data.push href
           else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io')
 
           else
