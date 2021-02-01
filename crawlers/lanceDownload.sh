@@ -7,3 +7,4 @@ curl -sS "https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?au
 echo "git add ../cryptos-$*.json && git commit -am'Ajout cryptos' && git push"
 echo "coffee ./addNewCryptosFromFreshData.coffee $* > toto.json"
 echo "mv ./toto.json ../cryptos.json"
+echo "git add ../cryptos.json && git commit -am'Ajout cryptos' && git push"

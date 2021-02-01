@@ -117,6 +117,10 @@ request
             foundChain = true
             crypto.tags.push 'Beacon'
             crypto.forked_data.push href
+          else if href.startsWith('https://explorer.fuse.io/')
+            foundChain = true
+            crypto.tags.push 'Fuse'
+            crypto.forked_data.push href
           else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io')
 
           else
