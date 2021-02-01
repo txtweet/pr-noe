@@ -8,6 +8,9 @@ raw = require '../cryptos-'+date+'.json'
 datas = require '../cryptos.json'
 
 ret=''
+chains = ['EOS', 'Binance', 'Solana', 'Huobi ECO',
+'Codex', 'KnoxFS', 'KLAYswap Protocol', 'e-Money',
+'Tron', 'AI', 'Waves', 'Beacon','Fuse']
 
 for crypto in raw.data
   if datas[crypto.name]?
@@ -18,7 +21,10 @@ for crypto in raw.data
         return
       if key == "tags"
         val.forEach((x) ->
-          datadb["tag_"+x] = true
+          if not x.endsWith('L')
+            datadb["tag_"+x] = true
+          if x in chains
+            datadb["tag_OtherContract"] = true
         )
         return
       if key == "depends"
