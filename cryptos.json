@@ -4535,9 +4535,17 @@
     "short": "AKITA",
     "url": "/currencies/akita-inu",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+      "https://ethplorer.io/address/0x3301ee63fb29f863f2333bd4466acb46cd8323e6"
+    ]
   },
   "Akoin": {
     "name": "Akoin",
@@ -20015,9 +20023,17 @@
     "short": "CVT",
     "url": "/currencies/civitas-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x88930072f583936f506ce1f1d5fe69290c2d6a2a",
+      "https://ethplorer.io/address/0x88930072f583936f506ce1f1d5fe69290c2d6a2a"
+    ]
   },
   "Clams": {
     "name": "Clams",
@@ -22690,9 +22706,16 @@
     "short": "CWS",
     "url": "/currencies/crowns",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xac0104cca91d167873b8601d2e71eb3d4d8c33e0"
+    ]
   },
   "Crust": {
     "name": "Crust",
@@ -31900,9 +31923,17 @@
     "short": "ELE",
     "url": "/currencies/elevate",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
+      "https://ethplorer.io/address/0x48be867b240d2ffaff69e0746130f2c027d8d3d2"
+    ]
   },
   "Elite Swap": {
     "name": "Elite Swap",
@@ -51588,9 +51619,19 @@
     "short": "MAPS",
     "url": "/currencies/maps",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Solana",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+      "https://explorer.solana.com/address/MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb"
+    ]
   },
   "MARK.SPACE": {
     "name": "MARK.SPACE",
@@ -51643,9 +51684,17 @@
     "short": "MASQ",
     "url": "/currencies/masq",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+      "https://ethplorer.io/address/0x06f3c323f0238c72bf35011071f2b5b7f43a054c"
+    ]
   },
   "MASTERNET": {
     "name": "MASTERNET",
@@ -57725,10 +57774,18 @@
     "short": "NCT",
     "url": "/currencies/name-changing-token",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+      "https://ethplorer.io/address/0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e"
+    ]
   },
   "Namecoin": {
     "name": "Namecoin",
@@ -64351,9 +64408,16 @@
     "short": "PHO",
     "url": "/currencies/phoswap",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://bscscan.com/token/0xb9784c1633ef3b839563b988c323798634714368"
+    ]
   },
   "Photon": {
     "name": "Photon",
@@ -76078,9 +76142,17 @@
     "short": "SX",
     "url": "/currencies/sportx",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x99fe3b1391503a1bc1788051347a1324bff41452",
+      "https://ethplorer.io/address/0x99fe3b1391503a1bc1788051347a1324bff41452"
+    ]
   },
   "SpreadCoin": {
     "name": "SpreadCoin",
@@ -90395,10 +90467,18 @@
     "short": "WNXM",
     "url": "/currencies/wrapped-nxm",
     "tags": [
-      "New",
-      "Insurance"
+      "Insurance",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "https://ethplorer.io/address/0x0d438f3b5175bebc262bf23753c1e53d03432bde"
+    ]
   },
   "Wrapped Origin Axie": {
     "name": "Wrapped Origin Axie",
@@ -90891,7 +90971,9 @@
     "short": "XNODE",
     "url": "/currencies/xnode",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "02022021"
   },
@@ -91307,10 +91389,18 @@
     "short": "XNO",
     "url": "/currencies/xeno-token",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x05bbe7240de66f6480c9aeda77c1376b13393f83",
+      "https://ethplorer.io/address/0x05bbe7240de66f6480c9aeda77c1376b13393f83"
+    ]
   },
   "Xenon": {
     "name": "Xenon",
@@ -97037,9 +97127,17 @@
     "short": "PFI",
     "url": "/currencies/protocol-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x7b69d465c0f9fb22affae56aa86149973e9b0966",
+      "https://ethplorer.io/address/0x7b69d465c0f9fb22affae56aa86149973e9b0966"
+    ]
   },
   "pulltherug.finance": {
     "name": "pulltherug.finance",
