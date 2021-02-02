@@ -13,35 +13,39 @@ chains = ['EOS', 'Binance', 'Solana', 'Huobi ECO',
 'Tron', 'AI', 'Waves', 'Beacon','Fuse']
 
 for crypto in raw.data
-  if datas[crypto.name]?
+  found = datas[crypto.name]?
+  unless found?
+    found = _.find (_.values datas), {"url": "/currencies/#{crypto.slug}"}
+
+  unless found?
+    console.warn("#{crypto.name} not found in DB")
+  else
     datadb={}
-    _.forEach(datas[crypto.name], (val, key) ->
+    _.forEach datas[crypto.name], (val, key) ->
       unless key == "name" or key == "tags" or key == "forked_data" or key=="depends" or key== "people" or key=="deaths"
         datadb[key]=val
-        return
       if key == "tags"
-        val.forEach((x) ->
-          if not x.endsWith('L')
+        val.forEach (x) ->
+          if not x.endsWith('L') or
+          x is not 'NoLicenceFile' or
+          x is not 'NoGitHub'
             datadb["tag_"+x] = true
+
           if x in chains
             datadb["tag_OtherContract"] = true
-        )
-        return
+
       if key == "depends"
         val.forEach((x) ->
           datadb["depends_"+x] = true
         )
-        return
       if key == "people"
         val.forEach((x) ->
           datadb["people_"+x] = true
         )
-        return
       if key == "deaths"
         val.forEach((x) ->
           datadb["deaths_"+x] = true
         )
-        return
       if key == "forked_data"
         if val["block"]?
           datadb["forked_block"]=val["block"][0]
@@ -54,9 +58,6 @@ for crypto in raw.data
           val["forked_from"].forEach( (x) ->
             datadb["foked_from_"+x]=true
           )
-    )
-  else
-    console.warn("#{crypto.name} not found in DB")
 
   tags = []
   if crypto.tags?
