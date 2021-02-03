@@ -12699,8 +12699,9 @@
     "short": "BITCI",
     "url": "/currencies/bitcicoin",
     "tags": [
+      "Coin",
       "NoGitHub",
-      "Coin"
+      "New2"
     ],
     "sawBirth": "29012021"
   },
@@ -37054,10 +37055,12 @@
     "tags": [
       "Collectibles & NFTs",
       "Coinbase Ventures Portfolio",
-      "NoGitHub",
-      "Coin"
+      "Coin",
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "git": "https://github.com/onflow"
   },
   "Flow Protocol": {
     "name": "Flow Protocol",
@@ -47121,10 +47124,12 @@
     "short": "KONJ",
     "url": "/currencies/konjungate",
     "tags": [
-      "NoGitHub",
-      "Coin"
+      "Coin",
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "22012021"
+    "sawBirth": "22012021",
+    "git": "https://github.com/Konjungate/Konjungate-Core"
   },
   "KORE Vault": {
     "name": "KORE Vault",
@@ -54119,8 +54124,9 @@
     "short": "MDX",
     "url": "/currencies/mdex",
     "tags": [
+      "Coin",
       "NoGitHub",
-      "Coin"
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -58415,8 +58421,9 @@
     "url": "/currencies/natus-vincere-fan-token",
     "tags": [
       "Fan token",
+      "Coin",
       "NoGitHub",
-      "Coin"
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -64565,11 +64572,12 @@
     "short": "PTA",
     "url": "/currencies/petrachor",
     "tags": [
-      "NoGitHub",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "03022021"
+    "sawBirth": "03022021",
+    "git": "https://github.com/petrachor/petrachor"
   },
   "PetroDollar": {
     "name": "PetroDollar",
@@ -90804,10 +90812,12 @@
     "short": "WORLD",
     "url": "/currencies/world-token",
     "tags": [
-      "NoGitHub",
-      "Coin"
+      "Coin",
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "01022021"
+    "sawBirth": "01022021",
+    "git": "https://github.com/worldtoken/WORLD"
   },
   "Worldcore": {
     "name": "Worldcore",
@@ -91595,10 +91605,18 @@
     "short": "XNODE",
     "url": "/currencies/xnode",
     "tags": [
-      "NoGitHub",
-      "Coin"
+      "Coin",
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "PeercoinL",
+      "NovaCoinL",
+      "BlackCoinL",
+      "PIVXL",
+      "xnodeL"
     ],
-    "sawBirth": "02022021"
+    "sawBirth": "02022021",
+    "git": "https://github.com/xnodevps-project/xnode"
   },
   "XOVBank": {
     "name": "XOVBank",
@@ -94615,8 +94633,9 @@
     "url": "/currencies/young-boys-fan-token",
     "tags": [
       "Fan token",
+      "Coin",
       "NoGitHub",
-      "Coin"
+      "New2"
     ],
     "sawBirth": "27012021"
   },
@@ -99172,10 +99191,12 @@
     "short": "XFUND",
     "url": "/currencies/xfund",
     "tags": [
-      "NoGitHub",
-      "Coin"
+      "Token",
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "27012021"
+    "sawBirth": "27012021",
+    "git": "https://github.com/unification-com/xfund-smart-contract"
   },
   "xRhodium": {
     "name": "xRhodium",

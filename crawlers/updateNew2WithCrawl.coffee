@@ -27,7 +27,6 @@ request
 
   foundgithub = false
   $('div.linksSection___2uV91 > div.container___2dCiP > ul.content___MhX1h > li').each () ->
-    console.log 'coucou', $(@).text()
     if $(@).text() is 'Source code'
       href = $('a', @).attr('href')
       if href.startsWith("https://github.com")
