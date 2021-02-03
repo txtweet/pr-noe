@@ -24,6 +24,7 @@ tagsTables =
   'dao': 'Dao'
   'defi': 'DeFi'
   'derivatives': 'Derivatives'
+  'dot-ecosystem': 'DOT Ecosystem'
   'discount-token': 'Discount token'
   'enterprise-solutions':'Enterprise solutions'
   'ethereum': 'Ethereum'
