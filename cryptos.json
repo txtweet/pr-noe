@@ -36353,9 +36353,12 @@
     "short": "FIC",
     "url": "/currencies/filecash",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "New2"
     ],
-    "sawBirth": "03022021"
+    "sawBirth": "03022021",
+    "forked_data": []
   },
   "Filecoin": {
     "name": "Filecoin",
@@ -40288,11 +40291,19 @@
     "short": "GUM",
     "url": "/currencies/gourmet-galaxy",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "DOT Ecosystem"
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "03022021"
+    "sawBirth": "03022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+      "https://ethplorer.io/address/0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24"
+    ]
   },
   "Governor DAO": {
     "name": "Governor DAO",
@@ -64554,7 +64565,9 @@
     "short": "PTA",
     "url": "/currencies/petrachor",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "03022021"
   },
@@ -75873,9 +75886,16 @@
     "short": "WSOTE",
     "url": "/currencies/soteria",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "03022021"
+    "sawBirth": "03022021",
+    "forked_data": [
+      "https://bscscan.com/token/0x541e619858737031a1244a5d0cd47e5ef480342c"
+    ]
   },
   "SounDAC": {
     "name": "SounDAC",
@@ -87359,12 +87379,19 @@
     "short": "VBETH",
     "url": "/currencies/venus-beth",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
     "sawBirth": "03022021",
     "deaths": [
       "03022021"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x972207a639cc1b374b893cc33fa251b55ceb7c07"
     ]
   },
   "Venus BNB": {
