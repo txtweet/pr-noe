@@ -32,7 +32,7 @@ for crypto in raw.data
             datadb["tag_"+x] = true
 
           if x in chains
-            datadb["tag_OtherContract"] = true
+            datadb["tag_Other Contract"] = true
 
       if key == "depends"
         val.forEach((x) ->
