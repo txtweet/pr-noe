@@ -26,7 +26,8 @@ request
     crypto.tags.push($(@).text())
 
   foundgithub = false
-  $('div.linksSection___2uV91 > div.sc-16r8icm-0.gZTdeJ.container___2dCiP > ul.content___MhX1h > li').each () ->
+  $('div.linksSection___2uV91 > div.container___2dCiP > ul.content___MhX1h > li').each () ->
+    console.log 'coucou', $(@).text()
     if $(@).text() is 'Source code'
       href = $('a', @).attr('href')
       if href.startsWith("https://github.com")
