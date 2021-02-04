@@ -25,5 +25,5 @@ if [[ $ret -gt 1 ]]; then
   exit
 fi
 set `date +%d%m%Y`
-echo "fichier stats-$*"
+echo "fichier stat-$*"
 coffee ./statistics.coffee $* > stat-$*.txt

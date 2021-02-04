@@ -7469,9 +7469,16 @@
     "short": "AUTO",
     "url": "/currencies/auto",
     "tags": [
-      "New"
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/autofarm-network/autofarmV2",
+    "forked_data": [
+      "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827"
+    ]
   },
   "Autonio": {
     "name": "Autonio",
@@ -9487,9 +9494,17 @@
     "short": "BAMBOO",
     "url": "/currencies/bamboo-defi",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/bamboo-defi",
+    "forked_data": [
+      "https://etherscan.io/token/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+      "https://ethplorer.io/address/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89"
+    ]
   },
   "Banana.finance": {
     "name": "Banana.finance",
@@ -38573,9 +38588,17 @@
     "short": "GOGO",
     "url": "/currencies/gogo-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17",
+      "https://ethplorer.io/address/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17"
+    ]
   },
   "GOT Token": {
     "name": "GOT Token",
@@ -38977,9 +39000,17 @@
     "short": "GST2",
     "url": "/currencies/gas-token-two",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/projectchicago/gastoken",
+    "forked_data": [
+      "https://etherscan.io/token/0x0000000000b3f879cb30fe243b4dfee438691c04",
+      "https://ethplorer.io/address/0x0000000000b3f879cb30fe243b4dfee438691c04"
+    ]
   },
   "Gasgains": {
     "name": "Gasgains",
@@ -51350,12 +51381,19 @@
     "short": "LIT",
     "url": "/currencies/litentry",
     "tags": [
-      "New",
       "Ethereum",
       "Substrate",
-      "Polkadot"
+      "Polkadot",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/litentry/",
+    "forked_data": [
+      "https://etherscan.io/token/0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "https://ethplorer.io/address/0xb59490ab09a0f526cc7305822ac65f2ab12f9723"
+    ]
   },
   "Litex": {
     "name": "Litex",
@@ -69111,11 +69149,19 @@
     "short": "REDI",
     "url": "/currencies/redi",
     "tags": [
-      "New",
       "Energy",
-      "Marketplace"
+      "Marketplace",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/redi-infranet/telegram-freeze-bot",
+    "forked_data": [
+      "https://etherscan.io/token/0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab",
+      "https://ethplorer.io/token/0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab"
+    ]
   },
   "REPO": {
     "name": "REPO",
@@ -78459,9 +78505,17 @@
     "short": "$TRDL",
     "url": "/currencies/strudel-finance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "git": "https://github.com/strudel-finance/",
+    "forked_data": [
+      "https://etherscan.io/token/0x297d33e17e61c2ddd812389c2105193f8348188a",
+      "https://ethplorer.io/address/0x297d33e17e61c2ddd812389c2105193f8348188a"
+    ]
   },
   "Student Coin": {
     "name": "Student Coin",
@@ -81500,9 +81554,17 @@
     "short": "TFT",
     "url": "/currencies/the-famous-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "04022021"
+    "sawBirth": "04022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc",
+      "https://ethplorer.io/address/0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc"
+    ]
   },
   "The Force Protocol": {
     "name": "The Force Protocol",
