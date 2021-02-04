@@ -26,6 +26,7 @@ tagsTables =
   'derivatives': 'Derivatives'
   'dot-ecosystem': 'DOT Ecosystem'
   'discount-token': 'Discount token'
+  'energy': 'Energy'
   'enterprise-solutions':'Enterprise solutions'
   'ethereum': 'Ethereum'
   'fan-token': 'Fan token'
