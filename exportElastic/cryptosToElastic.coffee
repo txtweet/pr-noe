@@ -34,30 +34,30 @@ for crypto in raw.data
           if x in chains
             datadb["tag_Other Contract"] = true
 
-      if key == "depends"
-        val.forEach((x) ->
-          datadb["depends_"+x] = true
-        )
-      if key == "people"
-        val.forEach((x) ->
-          datadb["people_"+x] = true
-        )
-      if key == "deaths"
-        val.forEach((x) ->
-          datadb["deaths_"+x] = true
-        )
-      if key == "forked_data"
-        if val["block"]?
-          datadb["forked_block"]=val["block"][0]
-          if val["block"].length > 1
-            val["block"].splice(0,1)
-            for  block, index in val["block"]
-              datadb["forked_block_"+(index+1)]=block
-
-        if val["forked_from"]?
-          val["forked_from"].forEach( (x) ->
-            datadb["foked_from_"+x]=true
-          )
+      # if key == "depends"
+      #   val.forEach((x) ->
+      #     datadb["depends_"+x] = true
+      #   )
+      # if key == "people"
+      #   val.forEach((x) ->
+      #     datadb["people_"+x] = true
+      #   )
+      # if key == "deaths"
+      #   val.forEach((x) ->
+      #     datadb["deaths_"+x] = true
+      #   )
+      # if key == "forked_data"
+      #   if val["block"]?
+      #     datadb["forked_block"]=val["block"][0]
+      #     if val["block"].length > 1
+      #       val["block"].splice(0,1)
+      #       for  block, index in val["block"]
+      #         datadb["forked_block_"+(index+1)]=block
+      #
+      #   if val["forked_from"]?
+      #     val["forked_from"].forEach( (x) ->
+      #       datadb["foked_from_"+x]=true
+      #     )
 
   tags = []
   if crypto.tags?
