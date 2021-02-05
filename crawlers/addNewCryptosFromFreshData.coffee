@@ -31,6 +31,7 @@ tagsTables =
   'ethereum': 'Ethereum'
   'fan-token': 'Fan token'
   'ftx': 'Ftx'
+  'gambling': 'Gambling'
   'gaming': 'Gaming'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'insurance': 'Insurance'
