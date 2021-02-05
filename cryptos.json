@@ -5805,9 +5805,16 @@
     "short": "ANI",
     "url": "/currencies/anime-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "forked_data": [
+      "https://bscscan.com/token/0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f"
+    ]
   },
   "Ankr": {
     "name": "Ankr",
@@ -35427,10 +35434,17 @@
     "short": "FEG",
     "url": "/currencies/fegtoken",
     "tags": [
-      "New",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x389999216860ab8e0175387a0c90e5c52522c945",
+      "https://ethplorer.io/address/0x389999216860ab8e0175387a0c90e5c52522c945"
+    ]
   },
   "FEX Token": {
     "name": "FEX Token",
@@ -52095,12 +52109,19 @@
     "short": "LOTTO",
     "url": "/currencies/lotto",
     "tags": [
-      "New",
       "Gambling",
       "Gaming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+      "https://ethplorer.io/address/0xb0dFd28d3CF7A5897C694904Ace292539242f858"
+    ]
   },
   "Lottonation": {
     "name": "Lottonation",
@@ -57518,9 +57539,17 @@
     "short": "MD+",
     "url": "/currencies/moondayplus",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "git": "https://github.com/bitcoin4cashqc/moondayplus.com",
+    "forked_data": [
+      "https://etherscan.io/token/0xcb696c86917175dfb4f0037ddc4f2e877a9f081a",
+      "https://ethplorer.io/address/0xcb696c86917175dfb4f0037ddc4f2e877a9f081a"
+    ]
   },
   "MoonSwap": {
     "name": "MoonSwap",
@@ -62654,12 +62683,19 @@
     "short": "OT",
     "url": "/currencies/option-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "05022021",
     "deaths": [
       "05022021"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x8DE955C3715f6Eb227f1A42E028Bc8f088C5569a"
     ]
   },
   "Opus": {
@@ -82383,9 +82419,17 @@
     "short": "TTN",
     "url": "/currencies/thetoken-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x3294b364a44f2f75c375fc8d8e2ccc59dd497fe4",
+      "https://ethplorer.io/address/0x3294b364a44f2f75c375fc8d8e2ccc59dd497fe4"
+    ]
   },
   "Themis": {
     "name": "Themis",
@@ -86126,9 +86170,16 @@
     "short": "UNDG",
     "url": "/currencies/unidexgas",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xa5959e9412d27041194c3c3bcbe855face2864f7"
+    ]
   },
   "UniDollar": {
     "name": "UniDollar",
@@ -94358,9 +94409,16 @@
     "short": "YFO",
     "url": "/currencies/yfione",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "git": "https://github.com/YFI-ONE",
+    "forked_data": [
+      "https://etherscan.io/address/0xac0c8da4a4748d8d821a0973d00b157aa78c473d"
+    ]
   },
   "YFISCURITY": {
     "name": "YFISCURITY",
@@ -94432,10 +94490,18 @@
     "short": "sYFL",
     "url": "/currencies/yflink-synthetic",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "git": "https://github.com/yflink/",
+    "forked_data": [
+      "https://etherscan.io/token/0x8282df223AC402d04B2097d16f758Af4F70e7Db0",
+      "https://ethplorer.io/address/0x8282df223AC402d04B2097d16f758Af4F70e7Db0"
+    ]
   },
   "YFMoonBeam": {
     "name": "YFMoonBeam",
@@ -97356,9 +97422,17 @@
     "short": "ZUSD",
     "url": "/currencies/zytara-dollar",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "05022021"
+    "sawBirth": "05022021",
+    "git": "https://github.com/stablyio/zusd-ethereum",
+    "forked_data": [
+      "https://etherscan.io/token/0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+      "https://ethplorer.io/address/0xbf0f3ccb8fa385a287106fba22e6bb722f94d686"
+    ]
   },
   "adToken": {
     "name": "adToken",
