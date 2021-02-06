@@ -42,6 +42,7 @@ tagsTables =
   'mineable': 'Mineable'
   'media': 'Media'
   'mirror': 'Mirror'
+  'oracles': 'Oracles'
   'payments': 'Payments'
   'platform': 'Platform'
   'polkadot': 'Polkadot'
