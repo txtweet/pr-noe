@@ -17116,9 +17116,17 @@
     "short": "BFLY",
     "url": "/currencies/butterfly-protocol-2",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "06022021"
+    "sawBirth": "06022021",
+    "git": "https://github.com/ButterflyProtocol",
+    "forked_data": [
+      "https://etherscan.io/token/0xf680429328caaaCabee69b7A9FdB21a71419c063",
+      "https://ethplorer.io/address/0xf680429328caaaCabee69b7A9FdB21a71419c063"
+    ]
   },
   "Buxcoin": {
     "name": "Buxcoin",
@@ -27736,9 +27744,17 @@
     "short": "DEFLA",
     "url": "/currencies/defla",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "06022021"
+    "sawBirth": "06022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x70d47fd6c9497b11c1caf0e2a84a5e7661e66c1d",
+      "https://ethplorer.io/address/0x70d47fd6c9497b11c1caf0e2a84a5e7661e66c1d"
+    ]
   },
   "Deflect": {
     "name": "Deflect",
@@ -41161,9 +41177,17 @@
     "short": "GOVI",
     "url": "/currencies/govi",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "06022021"
+    "sawBirth": "06022021",
+    "git": "https://github.com/coti-io/cvi-contracts",
+    "forked_data": [
+      "https://etherscan.io/token/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+      "https://ethplorer.io/address/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
+    ]
   },
   "Grace Period Token": {
     "name": "Grace Period Token",
@@ -63096,10 +63120,17 @@
     "short": "ROOM",
     "url": "/currencies/optionroom",
     "tags": [
-      "New",
-      "Oracles"
+      "Oracles",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "06022021"
+    "sawBirth": "06022021",
+    "git": "https://github.com/OptionRoom",
+    "forked_data": [
+      "https://etherscan.io/token/0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64"
+    ]
   },
   "Opus": {
     "name": "Opus",
@@ -70856,12 +70887,20 @@
     "short": "RAZOR",
     "url": "/currencies/razor-network",
     "tags": [
-      "New",
       "Oracles",
       "Insurance",
-      "DOT Ecosystem"
+      "DOT Ecosystem",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "06022021"
+    "sawBirth": "06022021",
+    "git": "https://github.com/razor-network",
+    "forked_data": [
+      "https://etherscan.io/token/0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+      "https://ethplorer.io/address/0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd"
+    ]
   },
   "ReFork": {
     "name": "ReFork",
