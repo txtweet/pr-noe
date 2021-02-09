@@ -135,6 +135,11 @@ request
             crypto.tags.push 'Other Contract'
             crypto.tags.push 'Fuse'
             crypto.forked_data.push href
+          else if href.startsWith('https://blockscout.com/poa/xdai/')
+            foundChain = true
+            crypto.tags.push 'Other Contract'
+            crypto.tags.push 'Hive'
+            crypto.forked_data.push href
           else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io') or
           href.startsWith('https://fic.filscout.io/en') or
           href.startsWith('https://fic.tokenview.com/en/')

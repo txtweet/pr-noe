@@ -7606,10 +7606,18 @@
     "short": "AWX",
     "url": "/currencies/aurusdefi",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "09022021"
+    "sawBirth": "09022021",
+    "forked_data": [
+      "https://etherscan.io/token/0x54E46cC89588318e3964ca2c1Be94Db9D5cA3dFb",
+      "https://ethplorer.io/address/0x54E46cC89588318e3964ca2c1Be94Db9D5cA3dFb"
+    ]
   },
   "AurusGOLD": {
     "name": "AurusGOLD",
@@ -42869,9 +42877,16 @@
     "short": "HPS",
     "url": "/currencies/happinesstoken",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "09022021"
+    "sawBirth": "09022021",
+    "forked_data": [
+      "https://bscscan.com/token/0xeda21b525ac789eab1a08ef2404dd8505ffb973d"
+    ]
   },
   "Harcomia": {
     "name": "Harcomia",
@@ -44333,15 +44348,22 @@
     "short": "HNY",
     "url": "/currencies/honey-token",
     "tags": [
-      "New",
       "Decentralized exchange",
       "AMM",
       "Governance",
-      "Dead"
+      "Dead",
+      "Token",
+      "Other Contract",
+      "Hive",
+      "New2"
     ],
     "sawBirth": "09022021",
     "deaths": [
       "09022021"
+    ],
+    "git": "https://github.com/1Hive",
+    "forked_data": [
+      "https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9"
     ]
   },
   "Hoo Token": {
@@ -48446,9 +48468,17 @@
     "short": "JDB",
     "url": "/currencies/justdobet",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "09022021"
+    "sawBirth": "09022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xCd9b0a6D9990605f66bf5bf22980ADE8476e7740",
+      "https://ethplorer.io/address/0xCd9b0a6D9990605f66bf5bf22980ADE8476e7740"
+    ]
   },
   "Juventus Fan Token": {
     "name": "Juventus Fan Token",
@@ -54517,9 +54547,17 @@
     "short": "MP3",
     "url": "/currencies/mp3",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "08022021"
+    "sawBirth": "08022021",
+    "git": "https://github.com/blockchainmusicentertainment",
+    "forked_data": [
+      "https://etherscan.io/token/0x018fb5af9d015af25592a014c4266a84143de7a0",
+      "https://ethplorer.io/address/0x018fb5af9d015af25592a014c4266a84143de7a0"
+    ]
   },
   "MSD": {
     "name": "MSD",
@@ -59574,7 +59612,9 @@
     "short": "MASK",
     "url": "/currencies/nftx-hashmasks-index",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "08022021"
   },
@@ -73330,9 +73370,17 @@
     "short": "RPT",
     "url": "/currencies/rug-proof",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "08022021"
+    "sawBirth": "08022021",
+    "forked_data": [
+      "https://etherscan.io/token/0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020",
+      "https://ethplorer.io/address/0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020"
+    ]
   },
   "Rupaya": {
     "name": "Rupaya",
@@ -74925,9 +74973,17 @@
     "short": "SFP",
     "url": "/currencies/safepal",
     "tags": [
-      "New"
+      "Wallet",
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "08022021"
+    "sawBirth": "08022021",
+    "git": "https://github.com/SafePalWallet",
+    "forked_data": [
+      "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+    ]
   },
   "SafePost": {
     "name": "SafePost",
@@ -85336,9 +85392,16 @@
     "short": "TORN",
     "url": "/currencies/torn",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "09022021"
+    "sawBirth": "09022021",
+    "git": "https://github.com/tornadocash",
+    "forked_data": [
+      "https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c"
+    ]
   },
   "TosDis": {
     "name": "TosDis",
