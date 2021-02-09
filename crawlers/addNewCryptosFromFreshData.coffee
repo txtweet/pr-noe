@@ -12,6 +12,7 @@ fileDate = process.argv[2]
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
 tagsTables =
   'ai-big-data': 'AI & Big Data'
+  'amm': 'AMM'
   'atomic-swaps':'Atomic Swaps'
   'asset-management': 'Asset management'
   'bittrex': 'Bittrex'
@@ -22,6 +23,7 @@ tagsTables =
   'collectibles-nfts': 'Collectibles & NFTs'
   'content-creation':'Content Creation'
   'dao': 'Dao'
+  'decentralized-exchange': 'Decentralized exchange'
   'defi': 'DeFi'
   'derivatives': 'Derivatives'
   'dot-ecosystem': 'DOT Ecosystem'
@@ -33,6 +35,7 @@ tagsTables =
   'ftx': 'Ftx'
   'gambling': 'Gambling'
   'gaming': 'Gaming'
+  'governance': 'Governance'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'insurance': 'Insurance'
   'logistics': 'Logistics'
