@@ -3,16 +3,24 @@
 source ./elastic.creds
 ad='localhost:9100'
 
+echo > data_elastic.json  # On vide le fichier de données à transférer
+new=0  # Indiquateur de nouvelles données
+
 array=(`cat ./done.lst`)
 
 for file in ../cryptos-*.json ; do
   set `echo "$file"|cut -d '-' -f 2|cut -d '.' -f 1` # Remove - and . from file
   value=$*
   if [[ ! " ${array[@]} " =~ " ${value} " ]]; then
-    coffee cryptosToElastic.coffee $* > data_elastic_$*.json
+    new=1
+    echo "Date $*"
+    coffee cryptosToElastic.coffee $* >> data_elastic.json
     echo "$*" >> done.lst
-    echo "Commande à passer sur elastic : "
-    echo "curl -u $user:$passwd -sS -XPUT $ad/_bulk -H'Content-Type: application/json' --data-binary @data_elastic_$*.json|json"
-    echo "rm data_elastic_$*.json"
   fi
 done
+
+if [[ new -eq 1 ]]; then
+  echo "curl -u $user:$passwd -sS -XPUT $ad/_bulk -H'Content-Type: application/json' --data-binary @data_elastic.json|json"
+else
+  echo "Pas de nouvelles données"
+fi
