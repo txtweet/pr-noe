@@ -142,7 +142,8 @@ request
             crypto.forked_data.push href
           else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io') or
           href.startsWith('https://fic.filscout.io/en') or
-          href.startsWith('https://fic.tokenview.com/en/')
+          href.startsWith('https://fic.tokenview.com/en/') or
+          href.startsWith('https://explorer.g999main.net/')
             foundChain = true
           else
             error("Type de chaine inconnue", href)

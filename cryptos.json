@@ -21301,9 +21301,16 @@
     "short": "SCT",
     "url": "/currencies/clash-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "forked_data": [
+      "https://etherscan.io/token/0x6fa0952355607dfb2d399138b7fe10eb90f245e4"
+    ]
   },
   "ClearPoll": {
     "name": "ClearPoll",
@@ -23412,9 +23419,16 @@
     "short": "COR",
     "url": "/currencies/coreto",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "git": "https://github.com/coreto-io",
+    "forked_data": [
+      "https://etherscan.io/token/0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835"
+    ]
   },
   "CorionX": {
     "name": "CorionX",
@@ -26138,12 +26152,19 @@
     "short": "DEFI5",
     "url": "/currencies/defi-top-5-tokens-index",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210212",
     "deaths": [
       "20210212"
+    ],
+    "git": "https://github.com/indexed-finance",
+    "forked_data": [
+      "https://etherscan.io/address/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
     ]
   },
   "DEJAVE": {
@@ -38307,9 +38328,12 @@
     "short": "FILDA",
     "url": "/currencies/filda",
     "tags": [
-      "New"
+      "Coin",
+      "New2",
+      "NoLicenceFile"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "git": "https://github.com/fildaio/FilDA"
   },
   "Filecash": {
     "name": "Filecash",
@@ -39458,11 +39482,19 @@
     "short": "FL",
     "url": "/currencies/freeliquid",
     "tags": [
-      "New",
       "Payments",
-      "Governance"
+      "Governance",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "git": "https://github.com/freeliquid",
+    "forked_data": [
+      "https://etherscan.io/token/0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8",
+      "https://ethplorer.io/address/0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8"
+    ]
   },
   "Freeway Token": {
     "name": "Freeway Token",
@@ -40086,10 +40118,13 @@
     "short": "G999",
     "url": "/currencies/g999",
     "tags": [
-      "New",
-      "Communications & Social Media"
+      "Communications & Social Media",
+      "NoGitHub",
+      "Token",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "forked_data": []
   },
   "GALAXY NETWORK": {
     "name": "GALAXY NETWORK",
@@ -52778,9 +52813,16 @@
     "short": "LHB",
     "url": "/currencies/lendhub",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Huobi ECO",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "forked_data": [
+      "https://scan.hecochain.com/token/0x8f67854497218043e1f72908ffe38d0ed7f24721"
+    ]
   },
   "Lendingblock": {
     "name": "Lendingblock",
@@ -69646,13 +69688,21 @@
     "short": "MATIC",
     "url": "/currencies/polygon",
     "tags": [
-      "New",
       "Platform",
       "Enterprise solutions",
       "State channels",
-      "Coinbase Ventures Portfolio"
+      "Coinbase Ventures Portfolio",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "git": "https://github.com/maticnetwork/",
+    "forked_data": [
+      "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "https://ethplorer.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+    ]
   },
   "Polyient Games Governance Token": {
     "name": "Polyient Games Governance Token",
@@ -89123,10 +89173,18 @@
     "short": "USDFL",
     "url": "/currencies/usdfreeliquidity",
     "tags": [
-      "New",
-      "Stablecoin"
+      "Stablecoin",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210212"
+    "sawBirth": "20210212",
+    "git": "https://github.com/freeliquid",
+    "forked_data": [
+      "https://etherscan.io/token/0x2b4200a8d373d484993c37d63ee14aee0096cd12",
+      "https://ethplorer.io/address/0x2b4200a8d373d484993c37d63ee14aee0096cd12"
+    ]
   },
   "USDJ": {
     "name": "USDJ",
