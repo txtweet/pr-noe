@@ -34,43 +34,18 @@ for crypto in raw.data
               datadb["tag_"+x] = true
 
             if x in chains
-              datadb["tag_Other Contract"] = true
-
-        # if key == "depends"
-        #   val.forEach((x) ->
-        #     datadb["depends_"+x] = true
-        #   )
-        # if key == "people"
-        #   val.forEach((x) ->
-        #     datadb["people_"+x] = true
-        #   )
-        # if key == "deaths"
-        #   val.forEach((x) ->
-        #     datadb["deaths_"+x] = true
-        #   )
-        # if key == "forked_data"
-        #   if val["block"]?
-        #     datadb["forked_block"]=val["block"][0]
-        #     if val["block"].length > 1
-        #       val["block"].splice(0,1)
-        #       for  block, index in val["block"]
-        #         datadb["forked_block_"+(index+1)]=block
-        #
-        #   if val["forked_from"]?
-        #     val["forked_from"].forEach( (x) ->
-        #       datadb["foked_from_"+x]=true
-        #     )
+              datadb["tag_Other Contract"] = x
 
       tags = []
-      if crypto.tags?
-        tags = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
+      # if crypto.tags?
+      #   tags = crypto.tags.map( (x) -> return "\"tag_api_#{x}\":true" )
       ret+="""{"index":{"_index": "cryptos"}}\n"""
       ret+="{\"id_coincap\": #{crypto.id},
       \"name\":\"#{crypto.name}\",
       \"symbol\":\"#{crypto.symbol}\",
       \"slug\":\"#{crypto.slug}\","
-      if tags.length > 0
-        ret+="#{tags},"
+      # if tags.length > 0
+      #   ret+="#{tags},"
       ret+="\"date_data\": \"#{raw.status.timestamp}\",
       \"max_supply\":#{crypto.max_supply},
       \"circulating_supply\":#{crypto.circulating_supply},

@@ -8561,9 +8561,16 @@
     "short": "BFI",
     "url": "/currencies/bfis-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "git": "https://github.com/BfisFinance",
+    "forked_data": [
+      "https://bscscan.com/token/0xafa4f3d72f0803b50c99663b3e90806d9d290770"
+    ]
   },
   "BHEX Token": {
     "name": "BHEX Token",
@@ -24586,9 +24593,16 @@
     "short": "CTASK",
     "url": "/currencies/cryptotask",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210210"
+    "sawBirth": "20210210",
+    "git": "https://github.com/vkajic",
+    "forked_data": [
+      "https://etherscan.io/address/0x196c81385bc536467433014042788eb707703934"
+    ]
   },
   "CryptoVerificationCoin": {
     "name": "CryptoVerificationCoin",
@@ -25702,11 +25716,19 @@
     "short": "DAO",
     "url": "/currencies/dao-maker",
     "tags": [
-      "New",
       "DeFi",
-      "Governance"
+      "Governance",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210210"
+    "sawBirth": "20210210",
+    "forked_data": [
+      "https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "https://ethplorer.io/address/0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
+    ]
   },
   "DAOBet": {
     "name": "DAOBet",
@@ -28742,9 +28764,17 @@
     "short": "DERI",
     "url": "/currencies/deri-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "git": "https://github.com/deri-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+      "https://ethplorer.io/address/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9"
+    ]
   },
   "DerivaDAO": {
     "name": "DerivaDAO",
@@ -38206,9 +38236,16 @@
     "short": "FXF",
     "url": "/currencies/finxflo",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210210"
+    "sawBirth": "20210210",
+    "forked_data": [
+      "https://etherscan.io/token/0x8a40c222996f9f3431f63bf80244c36822060f12"
+    ]
   },
   "Fiola": {
     "name": "Fiola",
@@ -45722,10 +45759,17 @@
     "short": "ICHI",
     "url": "/currencies/ichi",
     "tags": [
-      "New",
-      "Yield farming"
+      "Yield farming",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "forked_data": [
+      "https://etherscan.io/token/0x903bef1736cddf2a537176cf3c64579c3867a881"
+    ]
   },
   "ICOBID": {
     "name": "ICOBID",
@@ -46759,9 +46803,17 @@
     "short": "IDEA",
     "url": "/currencies/ideaology",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "git": "https://github.com/ideaologyio/idea",
+    "forked_data": [
+      "https://etherscan.io/token/0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
+      "https://ethplorer.io/address/0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa"
+    ]
   },
   "Idena": {
     "name": "Idena",
@@ -48663,9 +48715,16 @@
     "short": "JASMY",
     "url": "/currencies/jasmy",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "forked_data": [
+      "https://etherscan.io/token/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC"
+    ]
   },
   "JavaScript Token": {
     "name": "JavaScript Token",
@@ -49169,11 +49228,19 @@
     "short": "KTT",
     "url": "/currencies/k-tune",
     "tags": [
-      "New",
       "Communications & Social Media",
-      "Music"
+      "Music",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "forked_data": [
+      "https://etherscan.io/token/0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43",
+      "https://ethplorer.io/address/0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43"
+    ]
   },
   "KAASO": {
     "name": "KAASO",
@@ -88969,11 +89036,19 @@
     "short": "UMB",
     "url": "/currencies/umbrella-network",
     "tags": [
-      "New",
       "DeFi",
-      "Oracles"
+      "Oracles",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210210"
+    "sawBirth": "20210210",
+    "git": "https://github.com/umbrella-network/overture",
+    "forked_data": [
+      "https://etherscan.io/token/0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+      "https://ethplorer.io/address/0x6fc13eace26590b80cccab1ba5d51890577d83b2"
+    ]
   },
   "UnFederalReserve": {
     "name": "UnFederalReserve",
@@ -89739,9 +89814,16 @@
     "short": "UTED",
     "url": "/currencies/united",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "git": "https://github.com/UtedToken",
+    "forked_data": [
+      "https://etherscan.io/token/0x1ba05ae30b4bbeb16be6951a709095ad21e3b6fb"
+    ]
   },
   "United Bitcoin": {
     "name": "United Bitcoin",
@@ -95399,9 +95481,16 @@
     "short": "WBIND",
     "url": "/currencies/wrapped-bind",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210211"
+    "sawBirth": "20210211",
+    "forked_data": [
+      "https://etherscan.io/token/0x15334dcb171e8b65d6650321581dca83be870115"
+    ]
   },
   "Wrapped BNB": {
     "name": "Wrapped BNB",
