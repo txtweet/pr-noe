@@ -59,6 +59,7 @@ tagsTables =
   'services': 'Services'
   'stablecoin': 'Stablecoin'
   'stablecoin-asset-backed': 'Stablecoin - Asset-Backed'
+  'state-channels': 'State channels'
   'substrate': 'Substrate'
   'technology': 'Technology'
   'token': 'Token'
