@@ -151,16 +151,15 @@
     "tags": [
       "Token",
       "Mineable",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb6ed...b405b31"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+      "https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31"
+    ],
+    "git": "https://github.com/0xbitcoin/0xbitcoin-token"
   },
   "0xcert": {
     "name": "0xcert",
@@ -169,16 +168,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x83e2...a5653f5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x83e2be8d114f9661221384b3a50d24b96a5653f5",
+      "https://ethplorer.io/address/0x83e2be8d114f9661221384b3a50d24b96a5653f5"
+    ],
+    "git": "https://github.com/0xcert"
   },
   "10kcoin": {
     "name": "10kcoin",
@@ -195,16 +193,15 @@
     "url": "/currencies/12ships",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5257...c052804"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x525794473f7ab5715c81d06d10f52d11cc052804",
+      "https://ethplorer.io/address/0x525794473f7ab5715c81d06d10f52d11cc052804"
+    ]
   },
   "1AI Token": {
     "name": "1AI Token",
@@ -213,16 +210,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x208b...4EbAa51"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x208bbb6bCEA22ef2011789331405347394EbAa51",
+      "https://ethplorer.io/address/0x208bbb6bCEA22ef2011789331405347394EbAa51"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -272,7 +267,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/1aigo"
   },
   "1Million Token": {
     "name": "1Million Token",
@@ -281,16 +277,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf0bc...770e1ce"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+      "https://ethplorer.io/address/0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce"
+    ],
     "deaths": [
       "12012021",
       "14012021",
@@ -321,16 +316,15 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0f72...1292a17"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x0f72714b35a366285df85886a2ee174601292a17",
+      "https://ethplorer.io/address/0x0f72714b35a366285df85886a2ee174601292a17"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -387,16 +381,15 @@
     "url": "/currencies/1world",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfdbc...1c22b23"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+      "https://ethplorer.io/address/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23"
+    ],
+    "git": "https://github.com/1World-Online"
   },
   "1X Short Ethereum Token": {
     "name": "1X Short Ethereum Token",
@@ -404,16 +397,15 @@
     "url": "/currencies/1x-short-ethereum-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x10e1...15a622b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x10e1E953DDBa597011f8bFA806aB0cC3415a622b",
+      "https://ethplorer.io/address/0x10e1E953DDBa597011f8bFA806aB0cC3415a622b"
+    ]
   },
   "1X2 COIN": {
     "name": "1X2 COIN",
@@ -503,16 +495,15 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xda41...e5a8872"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xda4129919f964a3a526d3182bb03e6449e5a8872",
+      "https://ethplorer.io/address/0xda4129919f964a3a526d3182bb03e6449e5a8872"
+    ],
+    "git": "https://github.com/1irstgold/1irstgold"
   },
   "1irstcoin": {
     "name": "1irstcoin",
@@ -521,16 +512,15 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x310c...62089cd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x310c93dfc1c5e34cdf51678103f63c41762089cd",
+      "https://etherscan.io/address/0x310c93dfc1c5e34cdf51678103f63c41762089cd"
+    ],
+    "git": "https://github.com/1irstcoin"
   },
   "1x Long Bitcoin Implied Volatility Token": {
     "name": "1x Long Bitcoin Implied Volatility Token",
@@ -538,16 +528,15 @@
     "url": "/currencies/1x-long-bitcoin-implied-volatility-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8182...1d298cd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x81824663353a9d29b01b2de9dd9a2bb271d298cd",
+      "https://ethplorer.io/address/0x81824663353a9d29b01b2de9dd9a2bb271d298cd"
+    ]
   },
   "1x Short Bitcoin Token": {
     "name": "1x Short Bitcoin Token",
@@ -555,16 +544,15 @@
     "url": "/currencies/1x-short-bitcoin-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1FA3...0a68814"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1FA3bc860bF823d792f04F662f3AA3a500a68814",
+      "https://ethplorer.io/address/0x1FA3bc860bF823d792f04F662f3AA3a500a68814"
+    ],
+    "git": "https://github.com/ftexchange/ftx"
   },
   "2Based Finance": {
     "name": "2Based Finance",
@@ -648,16 +636,15 @@
     "url": "/currencies/2key-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe489...77fa2c0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+      "https://ethplorer.io/address/0xe48972fcd82a274411c01834e2f031d4377fa2c0"
+    ],
+    "git": "https://github.com/2key"
   },
   "300FIT NETWORK": {
     "name": "300FIT NETWORK",
@@ -682,16 +669,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5849...3814dad"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x584936357d68f5143f12e2e64f0089db93814dad",
+      "https://ethplorer.io/address/0x584936357d68f5143f12e2e64f0089db93814dad"
+    ]
   },
   "3X Long Altcoin Index Token": {
     "name": "3X Long Altcoin Index Token",
@@ -700,16 +686,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd829...ed0a9a8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8",
+      "https://ethplorer.io/address/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8"
+    ]
   },
   "3X Long BNB Token": {
     "name": "3X Long BNB Token",
@@ -718,16 +703,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9d1a...2853f6e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9d1a62c2ad99019768b9126fda004a9952853f6e",
+      "https://ethplorer.io/address/0x9d1a62c2ad99019768b9126fda004a9952853f6e"
+    ]
   },
   "3X Long BitMax Token Token": {
     "name": "3X Long BitMax Token Token",
@@ -736,16 +720,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9885...BFee820"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9885cA101DFd8f23D364874F799554C52BFee820",
+      "https://ethplorer.io/address/0x9885cA101DFd8f23D364874F799554C52BFee820"
+    ]
   },
   "3X Long Bitcoin Token": {
     "name": "3X Long Bitcoin Token",
@@ -755,16 +738,16 @@
       "Token",
       "Binance",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "BULL-BE4"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x68eb95dc9934e19b86687a10df8e364423240e94",
+      "https://explorer.binance.org/asset/BULL-BE4"
+    ]
   },
   "3X Long Cardano Token": {
     "name": "3X Long Cardano Token",
@@ -773,16 +756,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x43dE...61Df6B9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9",
+      "https://ethplorer.io/address/0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9"
+    ]
   },
   "3X Long Chainlink Token": {
     "name": "3X Long Chainlink Token",
@@ -791,16 +773,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x83aD...0bB5d9B"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B",
+      "https://ethplorer.io/address/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B"
+    ]
   },
   "3X Long Cosmos Token": {
     "name": "3X Long Cosmos Token",
@@ -809,16 +790,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x75F0...bA5182C"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C",
+      "https://ethplorer.io/address/0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C"
+    ]
   },
   "3X Long Dogecoin Token": {
     "name": "3X Long Dogecoin Token",
@@ -827,16 +807,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7AA6...9Fa626f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f",
+      "https://ethplorer.io/address/0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f"
+    ]
   },
   "3X Long Dragon Index Token": {
     "name": "3X Long Dragon Index Token",
@@ -846,16 +825,15 @@
       "Token",
       "Ethereum",
       "Ftx",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3335...FA0b9da"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da",
+      "https://ethplorer.io/address/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da"
+    ],
     "deaths": [
       "07122020"
     ]
@@ -867,16 +845,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x974c...5682e80"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80",
+      "https://ethplorer.io/address/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80"
+    ]
   },
   "3X Long Ethereum Token": {
     "name": "3X Long Ethereum Token",
@@ -886,16 +863,16 @@
       "Token",
       "Binance",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ETHBULL-D33"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x871baed4088b863fd6407159f3672d70cd34837d",
+      "https://explorer.binance.org/asset/ETHBULL-D33"
+    ]
   },
   "3X Long Huobi Token Token": {
     "name": "3X Long Huobi Token Token",
@@ -905,16 +882,15 @@
       "Token",
       "Dead",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0D5E...90f0c79"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79",
+      "https://ethplorer.io/address/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79"
+    ],
     "deaths": [
       "30112020",
       "03122020"
@@ -927,16 +903,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7e03...886c5f9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9",
+      "https://ethplorer.io/address/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9"
+    ]
   },
   "3X Long Midcap Index Token": {
     "name": "3X Long Midcap Index Token",
@@ -945,16 +920,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x59db...1e30cf5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5",
+      "https://ethplorer.io/address/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5"
+    ]
   },
   "3X Long OKB Token": {
     "name": "3X Long OKB Token",
@@ -963,16 +937,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8aF7...CC67Bc4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4",
+      "https://ethplorer.io/address/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4"
+    ]
   },
   "3X Long Shitcoin Index Token": {
     "name": "3X Long Shitcoin Index Token",
@@ -981,16 +954,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd06b...6ff55a0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0",
+      "https://ethplorer.io/address/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0"
+    ]
   },
   "3X Long Sushi Token": {
     "name": "3X Long Sushi Token",
@@ -998,13 +970,11 @@
     "url": "/currencies/3x-long-sushi-token",
     "tags": [
       "Token",
-      "Ethereum",
-      "Ftx"
+      "Ftx",
+      "NoGitHub",
+      "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": []
   },
   "3X Long TRX Token": {
     "name": "3X Long TRX Token",
