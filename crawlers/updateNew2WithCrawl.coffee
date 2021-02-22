@@ -60,11 +60,12 @@ request
           href.startsWith('https://cn.etherscan.com/') or
           href.startsWith('https://etherscan.io/') or
           href.startsWith('https://ethploer.io/addres') or
+          href.startsWith('http://ethploer.io/addres') or
           href.startsWith('https://blockchain.coinmarketcap.com/address/ethereum') or
           href.startsWith('https://ethplorer.io/addres') or
           href.startsWith("https://cn.etherscan.com") or
           href.startsWith("https://ethplorer.io/") or
-          href.startsWith("https://blockscout.com/eth/mainnet")
+          href.startsWith("https://blockscout.com/eth/mainnet") or
             foundChain = true
             crypto.tags.push 'Ethereum'
             crypto.tags.push 'Ethereum Contract'
@@ -164,7 +165,8 @@ request
           href.startsWith('https://fic.tokenview.com/en/') or
           href.startsWith('https://explorer.g999main.net/') or
           href.startsWith('https://everscout.prod.identitynetwork.io/') or
-          href.startsWith('We have a permissioned chain with')
+          href.startsWith('We have a permissioned chain with') or
+          href.startsWith('https://explorer.aleph.im/')
             foundChain = true
           else
             error("Type de chaine inconnue", href)
