@@ -6,16 +6,15 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbf05...9dee626"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xbf05571988daab22d33c28bbb13566eae9dee626",
+      "https://ethplorer.io/address/0xbf05571988daab22d33c28bbb13566eae9dee626"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -50,16 +49,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaa62...1e49cca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/address/0xaa62a002ce856d9fe1874e7f8558a38fc1e49cca"
+    ],
     "deaths": [
       "16122020",
       "17122020",
@@ -111,16 +108,15 @@
       "Distributed Computing",
       "Filesharing",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb9ef...38f3b78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+      "https://ethplorer.io/address/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+    ],
+    "git": "https://github.com/0chain"
   },
   "0cash": {
     "name": "0cash",
@@ -139,21 +135,14 @@
     "url": "/currencies/0x",
     "tags": [
       "Token",
-      "Platform",
-      "Decentralized exchange",
-      "DeFi",
-      "Substrate",
-      "Polkadot",
       "Ethereum"
     ],
-    "forked_data": {
-      "block": [
-        "0xe41d...699f498"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/ZRX",
+      "https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "https://blockchair.com/ethereum/erc-20/token/0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ],
+    "git": "https://github.com/0xProject"
   },
   "0xBitcoin": {
     "name": "0xBitcoin",
