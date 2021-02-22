@@ -73,7 +73,9 @@ request
             crypto.tags.push 'EOS'
             crypto.tags.push 'Other Contract'
             crypto.forked_data.push href
-          else if href.startsWith('https://bscscan.com') or href.startsWith('https://explorer.binance.org/asset')
+          else if href.startsWith('https://bscscan.com') or
+          href.startsWith('https://explorer.binance.org/asset') or
+          href.startsWith('https://www.bscscan.com')
             foundChain = true
             crypto.tags.push 'Binance'
             crypto.tags.push 'Other Contract'
@@ -110,7 +112,8 @@ request
             crypto.tags.push 'e-Money'
             crypto.forked_data.push href
           else if href.startsWith('https://tronscan.org') or
-          href.startsWith('https://trx.tokenview.com/en/token')
+          href.startsWith('https://trx.tokenview.com/en/token') or
+          href.startsWith('https://tronscan.io')
             foundChain = true
             crypto.tags.push 'Other Contract'
             crypto.tags.push 'Tron'
@@ -140,10 +143,27 @@ request
             crypto.tags.push 'Other Contract'
             crypto.tags.push 'Hive'
             crypto.forked_data.push href
+          else if href.startsWith('https://explorer.gochain.io')
+            foundChain = true
+            crypto.tags.push 'GoChain'
+            crypto.tags.push 'Other Contract'
+            crypto.forked_data.push href
+          else if href.startsWith('https://qtum.info')
+            foundChain = true
+            crypto.tags.push 'Qtum'
+            crypto.tags.push 'Other Contract'
+            crypto.forked_data.push href
+          else if href.startsWith('https://viewblock.io/zilliqa')
+            foundChain = true
+            crypto.tags.push 'Zilliqa'
+            crypto.tags.push 'Other Contract'
+            crypto.forked_data.push href
           else if href.startsWith('https://github.com/helmet-insure/helmet-insure.github.io') or
           href.startsWith('https://fic.filscout.io/en') or
           href.startsWith('https://fic.tokenview.com/en/') or
-          href.startsWith('https://explorer.g999main.net/')
+          href.startsWith('https://explorer.g999main.net/') or
+          href.startsWith('https://everscout.prod.identitynetwork.io/') or
+          href.startsWith('We have a permissioned chain with')
             foundChain = true
           else
             error("Type de chaine inconnue", href)

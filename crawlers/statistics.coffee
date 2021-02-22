@@ -16,6 +16,9 @@ tron = 0
 ai = 0
 waves = 0
 beacon = 0
+go = 0
+qtum = 0
+zil = 0
 
 result = []
 
@@ -40,6 +43,12 @@ _.forEach cryptos, (crypt) ->
         waves++
       else if "Beacon" in crypt.tags
         beacon++
+      else if "GoChain" in crypt.tags
+        go++
+      else if "Qtum" in crypt.tags
+        qtum++
+      else if "Zilliqa" in crypt.tags
+        zil++
       else
         result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
     else
@@ -54,7 +63,9 @@ _.forEach cryptos, (crypt) ->
       dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "--------- News"
-console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum, #{binance} Binance, #{tron} Tron, #{ai} AI, #{waves} Waves, #{beacon} Beacon)"
+console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum,
+#{binance} Binance, #{tron} Tron, #{ai} AI, #{waves} Waves, #{beacon} Beacon,
+#{go} GoChain, #{qtum} Qtum, #{zil} Zilliqa)"
 console.log "#{result.length} à observer"
 console.log "#{JSON.stringify result.sort(), null, 2}"
 console.log "--------- "
