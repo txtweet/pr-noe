@@ -34,7 +34,7 @@ for crypto in raw.data
               datadb["tag_"+x] = true
 
             if x in chains
-              datadb["tag_Other Contract"] = x
+              datadb["tag_ChainType"] = x
 
       tags = []
       # if crypto.tags?
