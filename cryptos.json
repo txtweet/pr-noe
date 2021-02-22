@@ -2643,16 +2643,15 @@
     "url": "/currencies/alp-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x37d6...ed2db35"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x37d6e7f287200c740012747d2a79295caed2db35",
+      "https://ethplorer.io/address/0x37d6e7f287200c740012747d2a79295caed2db35"
+    ]
   },
   "ALQO": {
     "name": "ALQO",
@@ -2679,16 +2678,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1830...ac382b2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x1830dD31220A7f76889EAfcc5758eE521ac382b2",
+      "https://ethplorer.io/address/0x1830dD31220A7f76889EAfcc5758eE521ac382b2"
+    ],
     "deaths": [
       "01022021"
     ]
@@ -2766,16 +2764,15 @@
     "url": "/currencies/amlt",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xca0e...55c0f2f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f",
+      "https://ethplorer.io/address/0xca0e7269600d353f70b14ad118a49575455c0f2f"
+    ],
+    "git": "https://github.com/TokenMarketNet/ico/tree/master/contracts"
   },
   "AMO Coin": {
     "name": "AMO Coin",
@@ -2783,16 +2780,15 @@
     "url": "/currencies/amo-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x38c8...a972169"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+      "https://ethplorer.io/address/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
+    ],
+    "git": "https://github.com/AMO-Project/AMO-Contracts"
   },
   "ANON": {
     "name": "ANON",
@@ -2855,16 +2851,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x209c...3923fcc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
+      "https://ethplorer.io/address/0x209c1808febf6c1ab7c65764bb61ad67d3923fcc"
+    ],
     "deaths": [
       "27012021"
     ]
@@ -2876,16 +2871,15 @@
     "tags": [
       "Token",
       "Oracles",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0b38...731B88a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+      "https://ethplorer.io/address/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+    ],
+    "git": "https://github.com/api3dao"
   },
   "APIX": {
     "name": "APIX",
@@ -2894,16 +2888,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf51E...4d62D78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+      "https://ethplorer.io/address/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78"
+    ]
   },
   "APR Coin": {
     "name": "APR Coin",
@@ -2947,16 +2940,16 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Yield Aggregator",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x95a4...4446611"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+      "https://ethplorer.io/address/0x95a4492F028aa1fd432Ea71146b433E7B4446611"
+    ]
   },
   "ARAW": {
     "name": "ARAW",
@@ -2965,16 +2958,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3068...eb87e7f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x30680ac0a8a993088223925265fd7a76beb87e7f",
+      "https://ethplorer.io/address/0x30680ac0a8a993088223925265fd7a76beb87e7f"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -3016,7 +3007,8 @@
       "20210218",
       "20210219",
       "20210221"
-    ]
+    ],
+    "git": "https://github.com/arawtoken"
   },
   "ARCS": {
     "name": "ARCS",
@@ -3024,16 +3016,15 @@
     "url": "/currencies/arcs",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x20b1...1622779"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
+      "https://ethplorer.io/address/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1"
+    ]
   },
   "ARK Innovation ETF tokenized stock FTX": {
     "name": "ARK Innovation ETF tokenized stock FTX",
@@ -3074,16 +3065,20 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0xcDd0...f09ecE6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+      "https://ethplorer.io/address/0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6",
+      "https://blockchair.com/ethereum/address/0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -3129,7 +3124,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/ArmToken"
   },
   "ARPA Chain": {
     "name": "ARPA Chain",
@@ -3137,16 +3133,15 @@
     "url": "/currencies/arpa-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba50...6b0b71a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+      "https://ethplorer.io/address/0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+    ]
   },
   "ARTH": {
     "name": "ARTH",
@@ -3171,18 +3166,20 @@
       "Token",
       "Ethereum",
       "NoLicenceFile",
-      "Dead"
+      "Dead",
+      "DApp",
+      "Staking",
+      "Stablecoin",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/arvofi",
-    "forked_data": {
-      "block": [
-        "0x6293...e4b48b1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://ethplorer.io/address/0x629383e682fb83cac57e07bd2a5329ac6e4b48b1",
+      "https://etherscan.io/address/0x629383e682fb83cac57e07bd2a5329ac6e4b48b1"
+    ],
     "deaths": [
       "26012021",
       "27012021",
@@ -3294,16 +3291,15 @@
     "url": "/currencies/askobar-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeEEE...0588603"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeEEE2a622330E6d2036691e983DEe87330588603",
+      "https://ethplorer.io/address/0xeEEE2a622330E6d2036691e983DEe87330588603"
+    ],
+    "git": "https://github.com/joefilmo/askonetwork-contracts"
   },
   "ASTA": {
     "name": "ASTA",
@@ -3328,16 +3324,19 @@
     "url": "/currencies/asyagro",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Agriculture",
+      "Insurance",
+      "Cosmos Ecosystem",
+      "United Arab Emirates",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x017b...4527b0b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x017b584acfd16d767541ae9e80cdc702f4527b0b",
+      "https://ethplorer.io/address/0x017b584acfd16d767541ae9e80cdc702f4527b0b"
+    ],
+    "git": "https://github.com/Asyagro/ASY"
   },
   "ATBCoin": {
     "name": "ATBCoin",
@@ -3403,16 +3402,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xddaa...fc344be"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xddaaf4a0702a03a4505f2352a1aba001ffc344be",
+      "https://ethplorer.io/address/0xddaaf4a0702a03a4505f2352a1aba001ffc344be"
+    ],
     "deaths": [
       "30112020",
       "15122020",
@@ -3432,7 +3429,8 @@
       "20210215",
       "20210218",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/atccoinofficial/ATCC"
   },
   "ATLANT": {
     "name": "ATLANT",
@@ -3442,16 +3440,14 @@
       "Token",
       "Real Estate",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x78b7...7fa8a05"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+      "https://ethplorer.io/address/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05"
+    ],
     "deaths": [
       "07122020",
       "08122020",
@@ -3482,7 +3478,8 @@
       "20210217",
       "20210220",
       "20210221"
-    ]
+    ],
+    "git": "https://github.com/AtlantPlatform"
   },
   "ATMChain": {
     "name": "ATMChain",
@@ -3493,16 +3490,15 @@
       "Platform",
       "Payments",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9B11...5d74139"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
+      "https://ethplorer.io/address/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139"
+    ],
     "deaths": [
       "01011970"
     ]
@@ -3514,16 +3510,15 @@
     "tags": [
       "Token",
       "Asset management",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4617...cf22546"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x461733c17b0755ca5649b6db08b3e213fcf22546",
+      "https://ethplorer.io/address/0x461733c17b0755ca5649b6db08b3e213fcf22546"
+    ],
+    "git": "https://github.com/atnio"
   },
   "ATTN": {
     "name": "ATTN",
@@ -3531,16 +3526,15 @@
     "url": "/currencies/attn",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdF3A...16EFB89"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89",
+      "https://ethplorer.io/address/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89"
+    ]
   },
   "AVCCOIN": {
     "name": "AVCCOIN",
@@ -3591,16 +3585,15 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdD00...546f91A"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A",
+      "https://ethplorer.io/address/0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A"
+    ]
   },
   "AZBI CORE": {
     "name": "AZBI CORE",
@@ -3609,16 +3602,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x82f3...2009199"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x82f39cd08a942f344ca7e7034461cc88c2009199",
+      "https://ethplorer.io/address/0x82f39cd08a942f344ca7e7034461cc88c2009199"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -3634,7 +3625,8 @@
       "17122020",
       "18122020",
       "06012021"
-    ]
+    ],
+    "git": "https://github.com/azbi-io"
   },
   "Aave": {
     "name": "Aave",
@@ -3642,16 +3634,19 @@
     "url": "/currencies/aave",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DAO",
+      "Yield farming",
+      "Three Arrows Capital Portfolio",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7Fc6...E2DDaE9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "https://ethplorer.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+    ],
+    "git": "https://github.com/aave"
   },
   "Aavegotchi": {
     "name": "Aavegotchi",
@@ -3660,16 +3655,16 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3F38...2791550"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+      "https://ethplorer.io/address/0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
+    ]
   },
   "Abitshadow Token": {
     "name": "Abitshadow Token",
@@ -3678,16 +3673,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa0b2...de14ded"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xa0b207103f764a920b4af9e691f5bd956de14ded",
+      "https://ethplorer.io/address/0xa0b207103f764a920b4af9e691f5bd956de14ded"
+    ],
     "deaths": [
       "30112020",
       "17122020",
@@ -3696,7 +3689,8 @@
       "18012021",
       "20012021",
       "20210214"
-    ]
+    ],
+    "git": "https://github.com/Abitshadow/abitshadow"
   },
   "Abulaba": {
     "name": "Abulaba",
@@ -3705,16 +3699,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd938...8ff89c4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xd938137e6d96c72e4a6085412ada2dad78ff89c4",
+      "https://ethplorer.io/address/0xd938137e6d96c72e4a6085412ada2dad78ff89c4"
+    ],
     "deaths": [
       "01122020",
       "07122020",
@@ -3748,7 +3740,8 @@
       "20210217",
       "20210218",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/abulaba/aaa"
   },
   "Abyss": {
     "name": "Abyss",
@@ -3758,16 +3751,15 @@
       "Token",
       "Marketplace",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0e8d...f728da6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+      "https://ethplorer.io/address/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6"
+    ],
+    "git": "https://github.com/abyssfinance"
   },
   "AceD": {
     "name": "AceD",
@@ -3776,16 +3768,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4b3a...90bb4ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x4b3a0c6d668b43f3f07904e124328659b90bb4ca"
+    ],
     "deaths": [
       "03122020",
       "07122020",
@@ -4019,16 +4009,15 @@
     "url": "/currencies/acute-angle-cloud",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe75a...21bd864"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe75ad3aab14e4b0df8c5da4286608dabb21bd864",
+      "https://ethplorer.io/address/0xe75ad3aab14e4b0df8c5da4286608dabb21bd864"
+    ],
+    "git": "https://github.com/AcuteAngleCloud"
   },
   "AdEx Network": {
     "name": "AdEx Network",
@@ -4040,16 +4029,16 @@
       "Smart Contracts",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xade0...d12b7c3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+      "https://ethplorer.io/address/0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+    ],
+    "git": "https://github.com/adexnetwork"
   },
   "AdHive": {
     "name": "AdHive",
@@ -4061,16 +4050,15 @@
       "AI & Big Data",
       "Content Creation",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe69a...7802d31"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31",
+      "https://ethplorer.io/address/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4095,18 +4083,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "18122020",
     "git": "https://github.com/sinestcorp/Adappter",
-    "forked_data": {
-      "block": [
-        "0xc314...c95767b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
+      "https://ethplorer.io/address/0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
+    ]
   },
   "Add.xyz": {
     "name": "Add.xyz",
@@ -4115,16 +4101,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9fbf...80f9b65"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9fbfed658919a896b5dc7b00456ce22d780f9b65",
+      "https://ethplorer.io/address/0x9fbfed658919a896b5dc7b00456ce22d780f9b65"
+    ]
   },
   "Adelphoi": {
     "name": "Adelphoi",
@@ -4133,16 +4118,15 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x660e...2b06e61"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x660e71483785f66133548B10f6926dC332b06e61",
+      "https://ethplorer.io/address/0x660e71483785f66133548B10f6926dC332b06e61"
+    ],
     "deaths": [
       "30112020",
       "06012021"
@@ -4155,18 +4139,16 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ADI-6BB",
-        "0x8810...c46484a"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a",
+      "https://explorer.binance.org/asset/ADI-6BB"
+    ],
+    "git": "https://github.com/aditus/"
   },
   "AdsByWiFi": {
     "name": "AdsByWiFi",
@@ -4175,16 +4157,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x24b8...9a775c8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x24b80fba4b2ecaf0c4df522354408f0a59a775c8",
+      "https://ethplorer.io/address/0x24b80fba4b2ecaf0c4df522354408f0a59a775c8"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4199,7 +4179,8 @@
       "17122020",
       "18122020",
       "06012021"
-    ]
+    ],
+    "git": "https://github.com/adsbywifi"
   },
   "Adshares": {
     "name": "Adshares",
@@ -4369,18 +4350,16 @@
       "Enterprise solutions",
       "Smart Contracts",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "AERGO-46B",
-        "0x91af...97fd4e6"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "https://explorer.binance.org/asset/AERGO-46B"
+    ],
+    "git": "https://github.com/aergoio"
   },
   "Aeron": {
     "name": "Aeron",
@@ -4391,18 +4370,16 @@
       "Transport",
       "Data Provenance",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ARN-71B",
-        "0xBA5F...9A8AEB6"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+      "https://explorer.binance.org/asset/ARN-71B"
+    ],
+    "git": "https://github.com/aeronaero/aeron"
   },
   "Aerotoken": {
     "name": "Aerotoken",
@@ -4410,16 +4387,15 @@
     "url": "/currencies/aerotoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8c9e...bf03784"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784",
+      "https://ethplorer.io/address/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
+    ],
+    "git": "https://github.com/aerotoken"
   },
   "Aeryus": {
     "name": "Aeryus",
@@ -4428,16 +4404,15 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xac4d...a42685e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e",
+      "https://ethplorer.io/address/0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4538,16 +4513,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbeea...03b5a99"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xbeea2890775889c7723e5c0b80527976803b5a99",
+      "https://ethplorer.io/address/0xbeea2890775889c7723e5c0b80527976803b5a99"
+    ],
     "deaths": [
       "01011970"
     ]
@@ -4559,16 +4533,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0813...525621C"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+      "https://ethplorer.io/address/0x08130635368AA28b217a4dfb68E1bF8dC525621C"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4612,7 +4584,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/AfroDex/"
   },
   "AgaveCoin": {
     "name": "AgaveCoin",
@@ -4622,16 +4595,38 @@
       "Token",
       "Commodities",
       "Discount token",
-      "Ethereum"
+      "Ethereum",
+      "Agriculture",
+      "Education",
+      "Energy",
+      "Events",
+      "Government",
+      "Marketplace",
+      "Manufacturing",
+      "Services",
+      "Store of Value",
+      "Loyalty",
+      "DeFi",
+      "Escrow",
+      "Staking",
+      "Wallet",
+      "DApp",
+      "DAO",
+      "Yield farming",
+      "Mexico",
+      "Spain",
+      "United Kingdom",
+      "Brazil",
+      "Costa Rica",
+      "Italy",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8b79...ca305C4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8b79656FC38a04044E495e22fAD747126ca305C4",
+      "https://ethplorer.io/address/0x8b79656FC38a04044E495e22fAD747126ca305C4"
+    ],
+    "git": "https://github.com/tanogedler/agavecoin"
   },
   "Agora": {
     "name": "Agora",
@@ -4692,16 +4687,15 @@
       "Platform",
       "AI & Big Data",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x07e3...bFB606f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+      "https://ethplorer.io/address/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
+    ],
+    "git": "https://github.com/Agrello"
   },
   "Agrocoin": {
     "name": "Agrocoin",
@@ -4710,16 +4704,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1fd2...e7bcd6a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x1fd27f0cfc6f273b87a5e0f6fcf063422e7bcd6a",
+      "https://ethplorer.io/address/0x1fd27f0cfc6f273b87a5e0f6fcf063422e7bcd6a"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4735,7 +4727,8 @@
       "17122020",
       "18122020",
       "06012021"
-    ]
+    ],
+    "git": "https://github.com/agrodex"
   },
   "Agrolot": {
     "name": "Agrolot",
@@ -4744,16 +4737,15 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x72c9...18baadf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x72c9fb7ed19d3ce51cea5c56b3e023cd918baadf",
+      "https://ethplorer.io/address/0x72c9fb7ed19d3ce51cea5c56b3e023cd918baadf"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4794,16 +4786,15 @@
     "url": "/currencies/ailink-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4289...d853912"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4289c043a12392f1027307fb58272d8ebd853912",
+      "https://ethplorer.io/address/0x4289c043a12392f1027307fb58272d8ebd853912"
+    ]
   },
   "AidCoin": {
     "name": "AidCoin",
@@ -4813,16 +4804,15 @@
       "Token",
       "Philanthropy",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x37e8...6b91289"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+      "https://ethplorer.io/address/0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+    ],
     "deaths": [
       "14012021",
       "27012021"
@@ -4845,16 +4835,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1063...89ce988"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988",
+      "https://ethplorer.io/address/0x1063ce524265d5a3a624f4914acd573dd89ce988"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -4902,7 +4890,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/AigangNetwork"
   },
   "Aion": {
     "name": "Aion",
@@ -4961,16 +4950,15 @@
     "url": "/currencies/airbloc",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf8b3...14b79ea"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea",
+      "https://ethplorer.io/address/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea"
+    ],
+    "git": "https://github.com/airbloc/token"
   },
   "Airbnb tokenized stock FTX": {
     "name": "Airbnb tokenized stock FTX",
@@ -4999,16 +4987,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd536...2fa35a6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xd536bbd5414a8c2beed82a63737b9327d2fa35a6",
+      "https://ethplorer.io/address/0xd536bbd5414a8c2beed82a63737b9327d2fa35a6"
+    ],
     "deaths": [
       "06012021",
       "12012021",
@@ -5143,17 +5130,20 @@
       "DeFi",
       "Substrate",
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "DOT Ecosystem",
+      "Yield Aggregator",
+      "Yearn Partnerships",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0x8ab7...ec853d7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "https://ethplorer.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+    ],
+    "git": "https://github.com/akropolisio"
   },
   "Akropolis Delphi": {
     "name": "Akropolis Delphi",
@@ -5162,16 +5152,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x94d8...b3ba182"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182",
+      "https://ethplorer.io/address/0x94d863173ee77439e4292284ff13fad54b3ba182"
+    ],
+    "git": "https://github.com/akropolisio"
   },
   "Aladdin": {
     "name": "Aladdin",
@@ -5182,16 +5171,15 @@
       "Platform",
       "Content Creation",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x95a4...8379C18"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18",
+      "https://ethplorer.io/address/0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -5222,16 +5210,15 @@
     "url": "/currencies/aladiex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x564f...6d6e4e8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8",
+      "https://ethplorer.io/address/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8"
+    ],
+    "git": "https://github.com/lee01101985/token.git"
   },
   "Alaya": {
     "name": "Alaya",
@@ -5264,16 +5251,15 @@
     "url": "/currencies/alchemy",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfd25...01df187"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfd25676fc2c4421778b18ec7ab86e7c5701df187",
+      "https://ethplorer.io/address/0xfd25676fc2c4421778b18ec7ab86e7c5701df187"
+    ]
   },
   "Alchemy Pay": {
     "name": "Alchemy Pay",
@@ -5291,16 +5277,16 @@
     "url": "/currencies/aleph-im",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Distributed Computing",
+      "Filesharing",
+      "IPFS",
+      "DOT Ecosystem",
+      "Mineable",
+      "Token"
     ],
-    "forked_data": {
-      "block": [
-        "0x2770...84ef628"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/aleph-im"
   },
   "Algorand": {
     "name": "Algorand",
