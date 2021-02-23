@@ -19549,18 +19549,16 @@
       "AI & Big Data",
       "IoT",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "CPC-FED",
-        "0xfae4...7d7c090"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+      "https://explorer.binance.org/asset/CPC-FED"
+    ],
+    "git": "https://github.com/cpchain"
   },
   "CPUchain": {
     "name": "CPUchain",
@@ -19593,16 +19591,15 @@
     "url": "/currencies/crdt",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xDaab...0618e52"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
+      "https://ethplorer.io/address/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52"
+    ]
   },
   "CREA": {
     "name": "CREA",
@@ -19639,14 +19636,8 @@
       "Services",
       "Ethereum"
     ],
-    "forked_data": {
-      "block": [
-        "0x26e7...112f317"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/cryptotwenty"
   },
   "CRYPTOBUCKS": {
     "name": "CRYPTOBUCKS",
