@@ -16902,16 +16902,15 @@
     "url": "/currencies/blood",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd272...fBA8C52"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd2727e4259BBa31955FD582986334AEA4fBA8C52",
+      "https://ethplorer.io/address/0xd2727e4259BBa31955FD582986334AEA4fBA8C52"
+    ],
+    "git": "https://github.com/bigbloodland/BloodERC20Token"
   },
   "Bloody Token": {
     "name": "Bloody Token",
@@ -16998,16 +16997,15 @@
     "url": "/currencies/bloomzed-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6d2c...291d244"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6d2c508fc4a588a41713ff59212f85489291d244",
+      "https://ethplorer.io/address/0x6d2c508fc4a588a41713ff59212f85489291d244"
+    ]
   },
   "Blox": {
     "name": "Blox",
@@ -17017,16 +17015,15 @@
       "Token",
       "Asset management",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x177d...6e5b0af"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+      "https://ethplorer.io/address/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af"
+    ]
   },
   "Blue Baikal": {
     "name": "Blue Baikal",
@@ -17034,16 +17031,15 @@
     "url": "/currencies/blue-baikal",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x675c...7dc8c93"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x675ce995953136814cb05aaaa5d02327e7dc8c93",
+      "https://ethplorer.io/address/0x675ce995953136814cb05aaaa5d02327e7dc8c93"
+    ]
   },
   "Blue Protocol": {
     "name": "Blue Protocol",
@@ -17322,16 +17318,16 @@
       "Distributed Computing",
       "Filesharing",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5732...07fd668"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+      "https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668"
+    ]
   },
   "BnkToTheFuture": {
     "name": "BnkToTheFuture",
@@ -17341,16 +17337,15 @@
       "Token",
       "Services",
       "Crowdfunding",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x01ff...d6e326f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+      "https://ethplorer.io/address/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f"
+    ],
+    "git": "https://github.com/BankToTheFuture/bft"
   },
   "BoatPilot Token": {
     "name": "BoatPilot Token",
@@ -17407,16 +17402,15 @@
     "url": "/currencies/bobs-repair",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdf34...9eb2134"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134",
+      "https://ethplorer.io/address/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134"
+    ]
   },
   "Bolivarcoin": {
     "name": "Bolivarcoin",
@@ -17441,16 +17435,15 @@
     "url": "/currencies/boltt-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6884...55ef958"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x688478f003b8d0f10b8af2122bf20378555ef958",
+      "https://ethplorer.io/token/0x688478f003b8d0f10b8af2122bf20378555ef958"
+    ],
+    "git": "https://github.com/Bolttcoindev/BolttCoin"
   },
   "BonFi": {
     "name": "BonFi",
