@@ -30828,16 +30828,15 @@
       "Marketplace",
       "Mobile",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5adc...d44b190"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+      "https://ethplorer.io/address/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190"
+    ],
+    "git": "https://github.com/dethertech"
   },
   "Deutsche eMark": {
     "name": "Deutsche eMark",
@@ -30865,16 +30864,19 @@
     "url": "/currencies/dev-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Staking",
+      "Social Token",
+      "DeFi",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5caf...9fd5b26"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+      "https://etherscan.io/token/0x98626E2C9231f03504273d55f397409deFD4a093"
+    ]
   },
   "Devery": {
     "name": "Devery",
@@ -30882,16 +30884,15 @@
     "url": "/currencies/devery",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9231...44e9b4c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+      "https://ethplorer.io/address/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c"
+    ],
+    "git": "https://github.com/devery"
   },
   "DeviantCoin": {
     "name": "DeviantCoin",
@@ -30916,16 +30917,14 @@
     "url": "/currencies/dexkit",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7866...a5cb4f4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4"
+    ],
+    "git": "https://github.com/DexKit"
   },
   "Dexfin": {
     "name": "Dexfin",
@@ -30978,16 +30977,16 @@
     "url": "/currencies/dextoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb81d...dcd436d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+      "https://ethplorer.io/address/0xb81d70802a816b5dacba06d708b5acf19dcd436d"
+    ],
+    "git": "https://github.com/flowchain"
   },
   "Dextrust": {
     "name": "Dextrust",
@@ -31060,16 +31059,15 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4be4...3fc2a45"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45",
+      "https://ethplorer.io/address/0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45"
+    ],
+    "git": "https://github.com/difyfinance"
   },
   "Diagon": {
     "name": "Diagon",
@@ -31077,16 +31075,15 @@
     "url": "/currencies/diagon",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa063...0c1515e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa063341d10054188e3cb715bfb663b37c0c1515e",
+      "https://ethplorer.io/address/0xa063341d10054188e3cb715bfb663b37c0c1515e"
+    ]
   },
   "Diamond": {
     "name": "Diamond",
@@ -31111,16 +31108,15 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x10c7...4894838"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x10c71515602429c19d53011ea7040b87a4894838",
+      "https://ethplorer.io/address/0x10c71515602429c19d53011ea7040b87a4894838"
+    ],
+    "git": "https://github.com/Cdiamondcoin"
   },
   "Diamond Voucher": {
     "name": "Diamond Voucher",
@@ -31275,16 +31271,15 @@
     "url": "/currencies/digex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x763F...3890840"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x763F8B4fB067190e739Ed6ACB12F40f2F3890840",
+      "https://ethplorer.io/address/0x763F8B4fB067190e739Ed6ACB12F40f2F3890840"
+    ]
   },
   "DigiByte": {
     "name": "DigiByte",
@@ -31402,16 +31397,15 @@
     "url": "/currencies/digifinextoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa2a5...1b1fb6a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+      "https://ethplorer.io/address/0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a"
+    ]
   },
   "DigiMax DGMT": {
     "name": "DigiMax DGMT",
@@ -31756,16 +31750,15 @@
     "url": "/currencies/digital-reserve-currency",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa150...33ee606"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+      "https://ethplorer.io/address/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606"
+    ]
   },
   "Digital Wallet": {
     "name": "Digital Wallet",
@@ -31816,16 +31809,15 @@
     "url": "/currencies/digitalbits",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb9ee...6569d27"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb9eefc4b0d472a44be93970254df4f4016569d27",
+      "https://ethplorer.io/address/0xb9eefc4b0d472a44be93970254df4f4016569d27"
+    ]
   },
   "DigitalNote": {
     "name": "DigitalNote",
@@ -31947,16 +31939,15 @@
       "DAO",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4f3a...ee057bf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "https://ethplorer.io/address/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"
+    ]
   },
   "DigixDAO": {
     "name": "DigixDAO",
@@ -31967,16 +31958,15 @@
       "Platform",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe0b7...45f0e2a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+      "https://ethplorer.io/address/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a"
+    ],
+    "git": "https://github.com/digixglobal"
   },
   "Diligence": {
     "name": "Diligence",
@@ -31984,16 +31974,15 @@
     "url": "/currencies/diligence",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xade7...921e9cc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc",
+      "https://ethplorer.io/address/0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc"
+    ],
+    "git": "https://github.com/IRA-AFRICA/"
   },
   "Dimecoin": {
     "name": "Dimecoin",
@@ -32112,16 +32101,15 @@
     "url": "/currencies/distx",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4b47...17eb055"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055",
+      "https://ethplorer.io/address/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055"
+    ]
   },
   "Distributed Energy Coin": {
     "name": "Distributed Energy Coin",
