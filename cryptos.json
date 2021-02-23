@@ -32886,16 +32886,15 @@
     "url": "/currencies/dragon-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1da0...ca8a17a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a",
+      "https://ethplorer.io/address/0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a"
+    ]
   },
   "DragonVein": {
     "name": "DragonVein",
@@ -32903,16 +32902,15 @@
     "url": "/currencies/dragonvein",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1945...c73e013"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x00d46727c2E4A6E358A8c0D638137a3d91B19BE6",
+      "https://ethplorer.io/address/0x00d46727c2E4A6E358A8c0D638137a3d91B19BE6"
+    ],
+    "git": "https://github.com/DragonveinChain"
   },
   "Dragonbit": {
     "name": "Dragonbit",
@@ -32945,16 +32943,15 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x419c...9fda05e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+      "https://ethplorer.io/address/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e"
+    ],
+    "git": "https://github.com/dragonchain/dragonchain"
   },
   "DreamTeam Token": {
     "name": "DreamTeam Token",
@@ -33074,16 +33071,15 @@
     "url": "/currencies/ducato-protocol-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa117...75C228d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d",
+      "https://ethplorer.io/address/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d"
+    ]
   },
   "Duck DAO (DLP Duck Token)": {
     "name": "Duck DAO (DLP Duck Token)",
@@ -33106,16 +33102,15 @@
     "url": "/currencies/duckdaodime",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfbee...4558e20"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+      "https://ethplorer.io/address/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20"
+    ]
   },
   "Dune Network": {
     "name": "Dune Network",
@@ -33136,18 +33131,16 @@
       "Privacy",
       "Smart Contracts",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "DUSK-45E",
-        "0x940a...a4aa551"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+      "https://explorer.binance.org/asset/DUSK-45E"
+    ],
+    "git": "https://github.com/dusk-network"
   },
   "Dvision Network": {
     "name": "Dvision Network",
@@ -33155,16 +33148,15 @@
     "url": "/currencies/dvision-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1063...35d9770"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x10633216e7e8281e33c86f02bf8e565a635d9770",
+      "https://ethplorer.io/address/0x10633216e7e8281e33c86f02bf8e565a635d9770"
+    ],
+    "git": "https://github.com/Dvision-Network"
   },
   "DxChain Token": {
     "name": "DxChain Token",
@@ -33175,16 +33167,15 @@
       "Technology",
       "AI & Big Data",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x973e...27041A9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x973e52691176d36453868D9d86572788d27041A9",
+      "https://ethplorer.io/address/0x973e52691176d36453868D9d86572788d27041A9"
+    ],
+    "git": "https://github.com/DxChainNetwork/godx"
   },
   "DxSale Network": {
     "name": "DxSale Network",
@@ -33367,16 +33358,15 @@
     "url": "/currencies/dynamite",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3b7f...4b069f7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+      "https://ethplorer.io/address/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7"
+    ],
+    "git": "https://github.com/DynamiteToken/Dynamite"
   },
   "Dystem": {
     "name": "Dystem",
@@ -33427,16 +33417,15 @@
     "url": "/currencies/ebcoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x31f3...f3e13c5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x31f3d9d1bece0c033ff78fa6da60a6048f3e13c5",
+      "https://ethplorer.io/address/0x31f3d9d1bece0c033ff78fa6da60a6048f3e13c5"
+    ]
   },
   "ECC": {
     "name": "ECC",
@@ -33513,16 +33502,15 @@
     "url": "/currencies/ecosc",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8fc9...2B8C2e5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5",
+      "https://ethplorer.io/token/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5"
+    ]
   },
   "EDC Blockchain": {
     "name": "EDC Blockchain",
@@ -33648,16 +33636,15 @@
       "Token",
       "Education",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4ecd...27a5452"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452",
+      "https://ethplorer.io/address/0x4ecdb6385f3db3847f9c4a9bf3f9917bb27a5452"
+    ],
+    "git": "https://github.com/EducationEKT/EKT"
   },
   "EFFORCE": {
     "name": "EFFORCE",
@@ -33665,17 +33652,17 @@
     "url": "/currencies/efforce",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Energy",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "08122020",
-    "forked_data": {
-      "block": [
-        "0x3495...12eb79f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+      "https://ethplorer.io/address/0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
+    ]
   },
   "EIDOS": {
     "name": "EIDOS",
@@ -33724,16 +33711,15 @@
     "url": "/currencies/elysia",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2781...2877b16"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2781246fe707bb15cee3e5ea354e2154a2877b16",
+      "https://ethplorer.io/address/0x2781246fe707bb15cee3e5ea354e2154a2877b16"
+    ],
+    "git": "https://github.com/elysia-land?tab=repositories"
   },
   "EMOGI Network": {
     "name": "EMOGI Network",
