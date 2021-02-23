@@ -19809,16 +19809,15 @@
       "Platform",
       "Payments",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xed49...b15c5c2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2",
+      "https://ethplorer.io/address/0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2"
+    ],
+    "git": "https://github.com/CryptoWorldChain"
   },
   "CXN Network": {
     "name": "CXN Network",
@@ -19853,16 +19852,15 @@
     "url": "/currencies/cy-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdB33...77B3Bb8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8",
+      "https://ethplorer.io/address/0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8"
+    ]
   },
   "CYBR Token": {
     "name": "CYBR Token",
@@ -20232,16 +20230,14 @@
     "url": "/currencies/camp",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xE9E7...8834d37"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37"
+    ],
+    "git": "https://github.com/JoshepJang/CAMP/blob/main/CAMP_erc20.sol"
   },
   "CanYaCoin": {
     "name": "CanYaCoin",
@@ -20521,16 +20517,15 @@
       "DeFi",
       "Smart Contracts",
       "Staking",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4304...b673142"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
+      "https://ethplorer.io/address/0x43044f861ec040DB59A7e324c40507adDb673142"
+    ],
+    "git": "https://github.com/capfina"
   },
   "CapdaxToken": {
     "name": "CapdaxToken",
@@ -20580,16 +20575,15 @@
       "Token",
       "VR/AR",
       "Entertainment",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x04f2...8ff0329"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x04f2e7221fdb1b52a68169b25793e51478ff0329",
+      "https://ethplorer.io/address/0x04f2e7221fdb1b52a68169b25793e51478ff0329"
+    ],
+    "git": "https://github.com/CappasityTech"
   },
   "Capricoin+": {
     "name": "Capricoin+",
@@ -20620,17 +20614,15 @@
     "url": "/currencies/carbon",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "01122020",
-    "forked_data": {
-      "block": [
-        "0xCdee...b3724EE"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xCdeee767beD58c5325f68500115d4B722b3724EE"
+    ],
+    "git": "https://github.com"
   },
   "Carboncoin": {
     "name": "Carboncoin",
@@ -20775,16 +20767,15 @@
     "tags": [
       "Token",
       "Logistics",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb6ee...8097143"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143",
+      "https://ethplorer.io/address/0xb6ee9668771a79be7967ee29a63d4184f8097143"
+    ]
   },
   "Carrot": {
     "name": "Carrot",
@@ -20811,16 +20802,15 @@
       "Token",
       "Retail",
       "Loyalty",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x115e...626478e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+      "https://ethplorer.io/address/0x115eC79F1de567eC68B7AE7eDA501b406626478e"
+    ]
   },
   "Cartesi": {
     "name": "Cartesi",
@@ -20834,16 +20824,34 @@
       "Ethereum",
       "PoS",
       "Singapore",
-      "Platform"
+      "Platform",
+      "Layer 2",
+      "Rollups",
+      "Data Availability Proof",
+      "Sidechain",
+      "PoS",
+      "Singapore",
+      "Smart Contracts",
+      "Ethereum",
+      "DApp",
+      "Staking",
+      "Smart Contracts",
+      "Platform",
+      "Seychelles",
+      "Binance Smart Chain",
+      "Cosmos Ecosystem",
+      "Scaling",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x4916...dd06b5d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+      "https://ethplorer.io/address/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
+    ],
+    "git": "https://github.com/cartesi"
   },
   "Cash Global Coin": {
     "name": "Cash Global Coin",
@@ -20886,16 +20894,15 @@
     "url": "/currencies/cashbackpro",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6f4e...f918f47"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47",
+      "https://ethplorer.io/address/0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47"
+    ],
+    "git": "https://github.com/cashbackpro-cbp/cashbackpro"
   },
   "Cashaa": {
     "name": "Cashaa",
@@ -20905,18 +20912,14 @@
       "Token",
       "Platform",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "CAS-167",
-        "0xe878...91462f7"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/CAS-167"
+    ]
   },
   "Cashbery Coin": {
     "name": "Cashbery Coin",
@@ -20982,16 +20985,15 @@
     "url": "/currencies/casino-betting-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x26DB...91bDB6b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+      "https://ethplorer.io/address/0x26DB5439F651CAF491A87d48799dA81F191bDB6b"
+    ]
   },
   "CasinoCoin": {
     "name": "CasinoCoin",
@@ -21056,16 +21058,15 @@
     "tags": [
       "Token",
       "Asset management",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa644...6cbaf45"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa6446d655a0c34bc4f05042ee88170d056cbaf45",
+      "https://ethplorer.io/address/0xa6446d655a0c34bc4f05042ee88170d056cbaf45"
+    ]
   },
   "Castle": {
     "name": "Castle",
@@ -21091,16 +21092,15 @@
     "url": "/currencies/castweet",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x1a47...2f7c235"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235"
+    ],
+    "git": "https://github.com/castweet/CTT-Contract/blob/master/token.sol"
   },
   "Cat Token": {
     "name": "Cat Token",
@@ -21109,16 +21109,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5601...17e7db3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
+      "https://ethplorer.io/address/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+    ]
   },
   "Catex Token": {
     "name": "Catex Token",
@@ -21147,16 +21146,15 @@
     "url": "/currencies/ccore",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x679b...a18fc46"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x679badc551626e01b23ceecefbc9b877ea18fc46",
+      "https://ethplorer.io/address/0x679badc551626e01b23ceecefbc9b877ea18fc46"
+    ]
   },
   "CelCoin": {
     "name": "CelCoin",
@@ -21164,16 +21162,15 @@
     "url": "/currencies/celcoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x19b5...6e8ce9e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x19b58d95929586ad750893caad43e77aa6e8ce9e",
+      "https://ethplorer.io/address/0x19b58d95929586ad750893caad43e77aa6e8ce9e"
+    ]
   },
   "Celer Network": {
     "name": "Celer Network",
@@ -21186,16 +21183,16 @@
       "Scaling",
       "State channels",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4f92...a81c667"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+      "https://ethplorer.io/address/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667"
+    ],
+    "git": "https://github.com/celer-network"
   },
   "Celeum": {
     "name": "Celeum",
@@ -21276,16 +21273,15 @@
     "url": "/currencies/celsius",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaaae...d09d42d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+      "https://ethplorer.io/address/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
+    ],
+    "git": "https://github.com/CelsiusNetwork"
   },
   "Cenfura Token": {
     "name": "Cenfura Token",
@@ -21388,16 +21384,13 @@
       "Token",
       "Marketplace",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Marketplace",
+      "Enterprise solutions",
+      "NoGitHub",
+      "Coin"
     ],
-    "forked_data": {
-      "block": [
-        "0x1122...3855c1f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": []
   },
   "Centric Cash": {
     "name": "Centric Cash",
@@ -21568,16 +21561,14 @@
     "url": "/currencies/chain-games",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xC4C2...E4681c4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4"
+    ]
   },
   "ChainX": {
     "name": "ChainX",
@@ -21626,16 +21617,21 @@
       "Smart Contracts",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5149...cf986ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+      "https://ethplorer.io/address/0x514910771af9ca656af840dff83e8264ecf986ca",
+      "https://blockchair.com/ethereum/erc-20/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+      "https://eth.tokenview.com/en/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+      "https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+    ],
+    "git": "https://github.com/smartcontractkit/chainlink"
   },
   "Chainpay": {
     "name": "Chainpay",
@@ -21643,16 +21639,15 @@
     "url": "/currencies/chainpay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5825...520b807"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5825fba40871aaacba45e4b34629abb86520b807",
+      "https://ethplorer.io/address/0x5825fba40871aaacba45e4b34629abb86520b807"
+    ],
+    "git": "https://github.com/ChainPay-Cryptocurrency"
   },
   "Chalice Finance": {
     "name": "Chalice Finance",
@@ -21826,16 +21821,15 @@
     "url": "/currencies/chartex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1d37...495e63e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+      "https://ethplorer.io/address/0x1d37986f252d0e349522ea6c3b98cb935495e63e"
+    ]
   },
   "ChatCoin": {
     "name": "ChatCoin",
@@ -22052,16 +22046,15 @@
     "url": "/currencies/chi-gastoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0000...ef1fa1c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+      "https://ethplorer.io/address/0x0000000000004946c0e9f43f4dee607b0ef1fa1c"
+    ],
+    "git": "https://github.com/CryptoManiacsZone/chi"
   },
   "Chicken": {
     "name": "Chicken",
@@ -22069,16 +22062,15 @@
     "url": "/currencies/chicken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xE636...e98A291"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+      "https://ethplorer.io/address/0xE63684BcF2987892CEfB4caA79BD21b34e98A291"
+    ]
   },
   "Chickenkebab Finance": {
     "name": "Chickenkebab Finance",
@@ -22122,16 +22114,15 @@
     "url": "/currencies/chimpion",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x07ef...1654db4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x07ef9e82721ac16809d24dafbe1792ce01654db4",
+      "https://ethplorer.io/address/0x07ef9e82721ac16809d24dafbe1792ce01654db4"
+    ]
   },
   "Chintai": {
     "name": "Chintai",
@@ -22177,16 +22168,19 @@
     "url": "/currencies/chromia",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Platform",
+      "Enterprise solutions",
+      "Collectibles & NFTs",
+      "DeFi",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8a22...797baa2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+      "https://ethplorer.io/address/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2"
+    ]
   },
   "Chrono.tech": {
     "name": "Chrono.tech",
@@ -22197,16 +22191,14 @@
       "Australia",
       "Ethereum",
       "Jobs",
-      "Marketplace"
+      "Marketplace",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6531...30b4e53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260"
+    ],
+    "git": "https://github.com/ChronoBank"
   },
   "ChronoCoin": {
     "name": "ChronoCoin",
@@ -22306,16 +22298,15 @@
       "Token",
       "Services",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd4c4...42795fa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+      "https://ethplorer.io/address/0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
+    ]
   },
   "Cipher": {
     "name": "Cipher",
@@ -22324,16 +22315,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x20ae...452def6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x20ae0ca9d42e6ffeb1188f341a7d63450452def6",
+      "https://ethplorer.io/address/0x20ae0ca9d42e6ffeb1188f341a7d63450452def6"
+    ],
+    "git": "https://github.com/cphertech"
   },
   "Cipher Core Token": {
     "name": "Cipher Core Token",
@@ -22341,16 +22330,15 @@
     "url": "/currencies/cipher-core-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x83eB...A7FB81f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x83eB94cB563146a42Fe0a8b3D051F2387A7FB81f",
+      "https://ethplorer.io/address/0x83eB94cB563146a42Fe0a8b3D051F2387A7FB81f"
+    ],
+    "git": "https://github.com/cipher-core"
   },
   "CircleSwap": {
     "name": "CircleSwap",
