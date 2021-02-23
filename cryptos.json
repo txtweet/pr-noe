@@ -29621,16 +29621,16 @@
     "url": "/currencies/defiat",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb6ee...2a3d6f1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+      "https://ethplorer.io/address/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+    ],
+    "git": "https://github.com/QuantSoldier/defiat"
   },
   "DeFiato": {
     "name": "DeFiato",
@@ -29661,16 +29661,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7a9e...cda6ed5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+      "https://ethplorer.io/address/0x054f76beed60ab6dbeb23502178c52d6c5debe40"
+    ],
+    "git": "https://github.com/DeFinerOrg"
   },
   "DeFinition": {
     "name": "DeFinition",
@@ -29741,16 +29740,15 @@
     "url": "/currencies/dexe",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xde4E...5C2Cbd6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+      "https://ethplorer.io/address/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6"
+    ]
   },
   "Debase": {
     "name": "Debase",
@@ -29758,17 +29756,15 @@
     "url": "/currencies/debase",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "08122020",
-    "forked_data": {
-      "block": [
-        "0x9248...3c70907"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9248c485b0b80f76da451f167a8db30f33c70907"
+    ],
+    "git": "https://github.com/debaseonomics/"
   },
   "Debitum": {
     "name": "Debitum",
@@ -29806,16 +29802,15 @@
     "tags": [
       "Token",
       "Gambling",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9b68...338f264"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
+      "https://ethplorer.io/address/0x9b68bfae21df5a510931a262cecf63f41338f264"
+    ]
   },
   "Decentr": {
     "name": "Decentr",
@@ -29828,16 +29823,15 @@
       "E-commerce",
       "Privacy",
       "Platform",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x30f2...5f0b9b3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+      "https://ethplorer.io/address/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
+    ]
   },
   "Decentrahub Coin": {
     "name": "Decentrahub Coin",
@@ -29855,17 +29849,17 @@
     "url": "/currencies/decentral-games",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xee06...f4478a0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xee06a81a695750e71a662b51066f2c74cf4478a0",
+      "https://ethplorer.io/address/0xee06a81a695750e71a662b51066f2c74cf4478a0"
+    ],
+    "git": "https://github.com/decentralgames"
   },
   "Decentraland": {
     "name": "Decentraland",
@@ -29877,16 +29871,15 @@
       "Collectibles & NFTs",
       "Gaming",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0f5d...08cc942"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/decentraland",
+      "https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+    ],
+    "git": "https://github.com/decentraland"
   },
   "Decentralized Asset Trading Platform": {
     "name": "Decentralized Asset Trading Platform",
@@ -29894,16 +29887,15 @@
     "url": "/currencies/decentralized-asset-trading-platform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x813b...3d4ea7a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x813b428af3920226e059b68a62e4c04933d4ea7a",
+      "https://ethplorer.io/address/0x813b428af3920226e059b68a62e4c04933d4ea7a"
+    ]
   },
   "Decentralized Bank": {
     "name": "Decentralized Bank",
@@ -30056,16 +30048,15 @@
     "url": "/currencies/decentralized-vulnerability-platform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8e30...f579812"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8e30ea2329d95802fd804f4291220b0e2f579812",
+      "https://ethplorer.io/address/0x8e30ea2329d95802fd804f4291220b0e2f579812"
+    ],
+    "git": "https://github.com/dvpnet"
   },
   "Decred": {
     "name": "Decred",
@@ -30199,16 +30190,15 @@
     "url": "/currencies/defhold",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe481...a25ddd3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe481f2311c774564d517d015e678c2736a25ddd3",
+      "https://ethplorer.io/address/0xe481f2311c774564d517d015e678c2736a25ddd3"
+    ]
   },
   "Defi": {
     "name": "Defi",
@@ -30216,16 +30206,15 @@
     "url": "/currencies/defi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x98b2...eaef184"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x98b2de885e916b598f65ded2fdbb63187eaef184",
+      "https://ethplorer.io/address/0x98b2de885e916b598f65ded2fdbb63187eaef184"
+    ],
+    "git": "https://github.com/defilab"
   },
   "Defi Shopping Stake": {
     "name": "Defi Shopping Stake",
@@ -30271,16 +30260,15 @@
     "url": "/currencies/deficliq",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0Def...5826767"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767"
+    ]
   },
   "DefiDollar": {
     "name": "DefiDollar",
@@ -30289,16 +30277,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5bc2...6c23831"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
+      "https://ethplorer.io/address/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+    ]
   },
   "DefiDollar DAO": {
     "name": "DefiDollar DAO",
@@ -30307,16 +30294,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x20c3...0AA333A"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+      "https://ethplorer.io/address/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A"
+    ],
+    "git": "https://github.com/defidollar"
   },
   "Definex": {
     "name": "Definex",
@@ -30421,17 +30407,15 @@
     "url": "/currencies/deflect",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "14122020",
-    "forked_data": {
-      "block": [
-        "0x3aa5...d86fa53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3aa5f749d4a6bcf67dac1091ceb69d1f5d86fa53"
+    ]
   },
   "DegenVC": {
     "name": "DegenVC",
@@ -30482,16 +30466,18 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "DOT Ecosystem",
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x88ef...075cc02"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+      "https://ethplorer.io/address/0x88ef27e69108b2633f8e1c184cc37940a075cc02"
+    ]
   },
   "Degov": {
     "name": "Degov",
@@ -30499,17 +30485,15 @@
     "url": "/currencies/degov",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "03122020",
-    "forked_data": {
-      "block": [
-        "0x469E...B8D702F"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x469E66e06fEc34839E5eB1273ba85A119B8D702F"
+    ],
+    "git": "https://github.com/debaseonomics/"
   },
   "Deipool": {
     "name": "Deipool",
@@ -30517,16 +30501,15 @@
     "url": "/currencies/deipool",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd151...bc29730"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd1517663883e2acc154178fb194e80e8bbc29730",
+      "https://ethplorer.io/address/0xd1517663883e2acc154178fb194e80e8bbc29730"
+    ],
+    "git": "https://github.com/Deipool"
   },
   "Delphi Chain Link": {
     "name": "Delphi Chain Link",
@@ -30549,16 +30532,15 @@
     "tags": [
       "Token",
       "Gambling",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6c2a...1e9b391"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
+      "https://ethplorer.io/address/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391"
+    ],
+    "git": "https://github.com/DelphyProject"
   },
   "DeltaChain": {
     "name": "DeltaChain",
@@ -30622,16 +30604,15 @@
     "url": "/currencies/demeter-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x3be6...bbeff76"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+      "https://ethplorer.io/address/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+      "https://explorer.dmtc.io/"
+    ],
+    "git": "https://github.com/dmtc-chain/dmtc-chain"
   },
   "Denarius": {
     "name": "Denarius",
@@ -30651,16 +30632,15 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3597...eb0a258"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258",
+      "https://ethplorer.io/address/0x3597bfd533a99c9aa083587b074434e61eb0a258"
+    ]
   },
   "Dentacoin": {
     "name": "Dentacoin",
@@ -30669,20 +30649,19 @@
     "tags": [
       "Token",
       "Health",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "checked": true,
     "commentaire": [
       "Dentiste"
     ],
-    "forked_data": {
-      "block": [
-        "0x08d3...9d791e6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+      "https://ethplorer.io/address/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
+    ],
+    "git": "https://github.com/Dentacoin"
   },
   "Dequant": {
     "name": "Dequant",
