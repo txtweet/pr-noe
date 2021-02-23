@@ -13583,16 +13583,15 @@
       "Token",
       "Services",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1410...20f8f4a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+      "https://ethplorer.io/address/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
+    ]
   },
   "BitMart Token": {
     "name": "BitMart Token",
@@ -13601,16 +13600,15 @@
     "tags": [
       "Token",
       "Marketplace",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x986E...BeA35d8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+      "https://ethplorer.io/address/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8"
+    ]
   },
   "BitMax Token": {
     "name": "BitMax Token",
@@ -13618,16 +13616,15 @@
     "url": "/currencies/bitmax-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcca0...fdf61ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+      "https://ethplorer.io/address/0xcca0c9c383076649604ee31b20248bc04fdf61ca"
+    ]
   },
   "BitMoney": {
     "name": "BitMoney",
@@ -13823,16 +13820,15 @@
     "url": "/currencies/bitscreener-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xff2b...a7ce007"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007",
+      "https://ethplorer.io/address/0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007"
+    ],
+    "git": "https://github.com/BitScreenerTech/SmartContracts"
   },
   "BitSend": {
     "name": "BitSend",
@@ -14011,16 +14007,15 @@
     "url": "/currencies/bitup-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb2e2...cd6afcd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb2e260f12406c401874ecc960893c0f74cd6afcd",
+      "https://ethplorer.io/address/0xb2e260f12406c401874ecc960893c0f74cd6afcd"
+    ]
   },
   "BitWhite": {
     "name": "BitWhite",
@@ -14093,16 +14088,15 @@
       "Token",
       "Gambling",
       "Loyalty",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeb69...9d66a1b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b",
+      "https://ethplorer.io/address/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b"
+    ]
   },
   "Bitbot Protocol": {
     "name": "Bitbot Protocol",
@@ -14929,16 +14923,15 @@
     "url": "/currencies/bitcoinregular",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x388f...1c7c00c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c",
+      "https://ethplorer.io/address/0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c"
+    ],
+    "git": "https://github.com/BitcoinRegular?tab=repositories"
   },
   "BitcoinSoV": {
     "name": "BitcoinSoV",
@@ -15153,16 +15146,15 @@
     "url": "/currencies/bitcurate",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0371...3fffcca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0371f7b219fff864b437bcfb564810f323fffcca",
+      "https://ethplorer.io/address/0x0371f7b219fff864b437bcfb564810f323fffcca"
+    ]
   },
   "Bitether": {
     "name": "Bitether",
@@ -15364,16 +15356,15 @@
     "url": "/currencies/bitgear",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1b98...7B6F5a9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+      "https://ethplorer.io/address/0x1b980e05943de3db3a459c72325338d327b6f5a9"
+    ]
   },
   "Bitgesell": {
     "name": "Bitgesell",
@@ -15527,16 +15518,14 @@
     "url": "/currencies/bitopro-exchange-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x93b1...2344932"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x93b1e78a3e652cd2e71c4a767595b77282344932"
+    ],
+    "git": "https://github.com/bitoex"
   },
   "Bitpanda Ecosystem Token": {
     "name": "Bitpanda Ecosystem Token",
@@ -15544,16 +15533,17 @@
     "url": "/currencies/bitpanda-ecosystem-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Austria",
+      "Platform",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1b07...fa1ec6f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+      "https://ethplorer.io/address/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+    ]
   },
   "Bitpayer Token": {
     "name": "Bitpayer Token",
@@ -15603,16 +15593,15 @@
     "url": "/currencies/bitpumps-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa44d...fb300ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca",
+      "https://ethplorer.io/address/0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca"
+    ],
+    "git": "https://github.com/andreas163/bitpumps-token/blob/main/bpt.sol"
   },
   "Bitradio": {
     "name": "Bitradio",
@@ -15634,16 +15623,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd433...ea6Aaa5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+      "https://ethplorer.io/address/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5"
+    ]
   },
   "Bitscoin": {
     "name": "Bitscoin",
@@ -15743,16 +15731,15 @@
     "url": "/currencies/bitsonic",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe541...a1956c7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe541504417670fb76b612b41b4392d967a1956c7",
+      "https://ethplorer.io/address/0xe541504417670fb76b612b41b4392d967a1956c7"
+    ]
   },
   "Bitstar": {
     "name": "Bitstar",
@@ -15820,16 +15807,15 @@
     "tags": [
       "Token",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd4f6...a7f5d80"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
+      "https://ethplorer.io/address/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80"
+    ]
   },
   "Bitsum.money": {
     "name": "Bitsum.money",
@@ -16053,16 +16039,15 @@
     "url": "/currencies/black-diamond-rating",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x78a5...da931c3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x78a5b382b9a83fe042a4f7eb2399d563fda931c3",
+      "https://ethplorer.io/address/0x78a5b382b9a83fe042a4f7eb2399d563fda931c3"
+    ]
   },
   "BlackBerry tokenized stock FTX": {
     "name": "BlackBerry tokenized stock FTX",
@@ -16103,16 +16088,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4Efe...485d5Cf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf"
+    ]
   },
   "BlackFisk": {
     "name": "BlackFisk",
@@ -16137,16 +16119,15 @@
     "url": "/currencies/blackpearl-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x426f...67b21b4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
+      "https://ethplorer.io/address/0x426fc8be95573230f6e6bc4af91873f0c67b21b4"
+    ]
   },
   "Blackmoon": {
     "name": "Blackmoon",
@@ -16155,16 +16136,15 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdf6e...b1dd671"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+      "https://ethplorer.io/address/0xdf6ef343350780bf8c3410bf062e0c015b1dd671"
+    ],
+    "git": "https://github.com/blackmoonfg"
   },
   "Blacknet": {
     "name": "Blacknet",
@@ -16455,16 +16435,15 @@
       "Services",
       "Logistics",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf8aD...9290D5d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+      "https://ethplorer.io/address/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d"
+    ],
+    "git": "https://github.com/blocery"
   },
   "Block Duelers NFT Battles": {
     "name": "Block Duelers NFT Battles",
@@ -16564,16 +16543,15 @@
     "url": "/currencies/blockcdn",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1e79...DfEFE40"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+      "https://ethplorer.io/address/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40"
+    ],
+    "git": "https://github.com/Blockcdnteam/BCDNICO"
   },
   "BlockMesh": {
     "name": "BlockMesh",
@@ -16581,16 +16559,15 @@
     "url": "/currencies/blockmesh",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf030...edf869f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f",
+      "https://ethplorer.io/address/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f"
+    ]
   },
   "BlockNoteX": {
     "name": "BlockNoteX",
@@ -16598,16 +16575,15 @@
     "url": "/currencies/blocknotex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8752...d8ae838"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838",
+      "https://ethplorer.io/address/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838"
+    ],
+    "git": "https://github.com/blockben-official/bnox"
   },
   "BlockStamp": {
     "name": "BlockStamp",
@@ -16637,16 +16613,15 @@
     "url": "/currencies/blockburn",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8515...759D6Cd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
+      "https://ethplorer.io/address/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd"
+    ]
   },
   "Blockchain Certified Data Token": {
     "name": "Blockchain Certified Data Token",
@@ -16654,16 +16629,15 @@
     "url": "/currencies/blockchain-certified-data-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xacfa...49062a5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+      "https://ethplorer.io/address/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5"
+    ]
   },
   "Blockchain Exchange Alliance": {
     "name": "Blockchain Exchange Alliance",
@@ -16671,16 +16645,15 @@
     "url": "/currencies/blockchain-exchange-alliance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x98d8...ef72a87"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x98d8d146e644171cd47ff8588987b7bdeef72a87",
+      "https://ethplorer.io/address/0x98d8d146e644171cd47ff8588987b7bdeef72a87"
+    ]
   },
   "Blockchain Quotations Index Token": {
     "name": "Blockchain Quotations Index Token",
@@ -16688,16 +16661,15 @@
     "url": "/currencies/blockchain-quotations-index-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5eb8...3e84fae"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae",
+      "https://ethplorer.io/address/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae"
+    ]
   },
   "Blockcloud": {
     "name": "Blockcloud",
@@ -16705,16 +16677,15 @@
     "url": "/currencies/blockcloud",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6f91...0fe0ddb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6f919d67967a97ea36195a2346d9244e60fe0ddb",
+      "https://ethplorer.io/address/0x6f919d67967a97ea36195a2346d9244e60fe0ddb"
+    ]
   },
   "Blocklancer": {
     "name": "Blocklancer",
@@ -16761,18 +16732,16 @@
       "Token",
       "Platform",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "BCPT-95A",
-        "0x1c44...6465dbd"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+      "https://explorer.binance.org/asset/BCPT-95A"
+    ]
   },
   "Blockmason Link": {
     "name": "Blockmason Link",
@@ -16840,16 +16809,15 @@
     "url": "/currencies/blockpass",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xee44...7b263dc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
+      "https://etherscan.io/address/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc"
+    ],
+    "git": "https://github.com/blockpass-org"
   },
   "Blocktix": {
     "name": "Blocktix",
@@ -16926,16 +16894,7 @@
       "Binance",
       "Ethereum"
     ],
-    "forked_data": {
-      "block": [
-        "XIO-B05",
-        "0x0f7F...79b5704"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": []
   },
   "Blood": {
     "name": "Blood",
