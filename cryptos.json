@@ -17823,16 +17823,15 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3e78...6A35E78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+      "https://ethplorer.io/address/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78"
+    ],
+    "git": "https://github.com/Boosted-Finance"
   },
   "BoringDAO": {
     "name": "BoringDAO",
@@ -17841,16 +17840,18 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Asset management",
+      "DAO",
+      "Yield farming",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3c9d...51fc1a9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+      "https://ethplorer.io/address/0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9"
+    ],
+    "git": "https://github.com/BoringDAO"
   },
   "BotOcean": {
     "name": "BotOcean",
@@ -17925,16 +17926,21 @@
     "url": "/currencies/bounce-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DOT Ecosystem",
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5bea...1297d37"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5beabaebb3146685dd74176f68a0721f91297d37",
+      "https://ethplorer.io/address/0x5beabaebb3146685dd74176f68a0721f91297d37",
+      "https://bscscan.com/token/0x48DC0190dF5ece990c649A7A07bA19D3650a9572"
+    ]
   },
   "Bounty0x": {
     "name": "Bounty0x",
@@ -17944,16 +17950,15 @@
       "Token",
       "Services",
       "Crowdsourcing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd2d6...4359de3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd2d6158683aee4cc838067727209a0aaf4359de3",
+      "https://ethplorer.io/address/0xd2d6158683aee4cc838067727209a0aaf4359de3"
+    ],
+    "git": "https://github.com/bounty0x"
   },
   "BoutsPro": {
     "name": "BoutsPro",
@@ -18051,16 +18056,15 @@
     "url": "/currencies/brz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4204...9be2e2b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+      "https://ethplorer.io/address/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b"
+    ]
   },
   "Braziliex Token": {
     "name": "Braziliex Token",
@@ -18068,16 +18072,15 @@
     "url": "/currencies/braziliexs-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xda51...2dcdcd4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xda5180086461ff6eeb09580181ac160522dcdcd4",
+      "https://ethplorer.io/address/0xda5180086461ff6eeb09580181ac160522dcdcd4"
+    ]
   },
   "Bread": {
     "name": "Bread",
