@@ -32203,16 +32203,14 @@
     "url": "/currencies/divert-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfdb6...61b064e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e"
+    ],
+    "git": "https://github.com/divertfinance/DEVE"
   },
   "Divi": {
     "name": "Divi",
@@ -32234,16 +32232,15 @@
     "url": "/currencies/dodreamchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8955...fe30584"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x89551b940e2a8ed8eccf509935bac9213fe30584",
+      "https://ethplorer.io/address/0x89551b940e2a8ed8eccf509935bac9213fe30584"
+    ],
+    "git": "https://github.com/DoDreamChain/token"
   },
   "DoYourTip": {
     "name": "DoYourTip",
@@ -32251,16 +32248,15 @@
     "url": "/currencies/doyourtip",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7406...Ec31E14"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+      "https://ethplorer.io/address/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14"
+    ],
+    "git": "https://github.com/doyourtip"
   },
   "Dock": {
     "name": "Dock",
@@ -32271,16 +32267,19 @@
       "Services",
       "Jobs",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "AI & Big Data",
+      "Smart Contracts",
+      "DOT Ecosystem",
+      "Governance",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe5da...d0df71c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+      "https://ethplorer.io/address/0xe5dada80aa6477e85d09747f2842f7993d0df71c"
+    ],
+    "git": "https://github.com/docknetwork"
   },
   "Doctors Coin": {
     "name": "Doctors Coin",
@@ -32288,16 +32287,14 @@
     "url": "/currencies/doctors-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbf13...Ff2Ceb2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbf13FF395D686Ed7C705A5411CC8E4E21Ff2Ceb2"
+    ]
   },
   "Documentchain": {
     "name": "Documentchain",
@@ -32325,16 +32322,15 @@
     "url": "/currencies/dogdeficoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x80bb...476d9Eb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
+      "https://ethplorer.io/address/0x80bb277f4355A43CDbB86a82F9876C946476d9Eb"
+    ]
   },
   "Doge Token": {
     "name": "Doge Token",
@@ -32461,16 +32457,17 @@
     "url": "/currencies/doki-doki-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "Yield farming",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9ceb...9787544"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544",
+      "https://ethplorer.io/address/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544"
+    ],
+    "git": "https://github.com/dokidokidefi"
   },
   "Dollar International": {
     "name": "Dollar International",
@@ -32751,16 +32748,15 @@
     "url": "/currencies/dovu",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xac32...97e79b1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+      "https://ethplorer.io/address/0xac3211a5025414af2866ff09c23fc18bc97e79b1"
+    ],
+    "git": "https://github.com/TokenMarketNet/ico"
   },
   "Dracula Token": {
     "name": "Dracula Token",
@@ -32768,16 +32764,16 @@
     "url": "/currencies/dracula-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb78b...6085ef8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+      "https://ethplorer.io/address/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8"
+    ]
   },
   "DraftCoin": {
     "name": "DraftCoin",
@@ -32833,16 +32829,15 @@
       "Token",
       "Media",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x814f...c9155ee"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x814f67fa286f7572b041d041b1d99b432c9155ee",
+      "http://ethplorer.io/address/0x814f67fa286f7572b041d041b1d99b432c9155ee"
+    ]
   },
   "Dragon Option": {
     "name": "Dragon Option",
