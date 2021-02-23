@@ -11546,16 +11546,15 @@
     "url": "/currencies/beekan",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6a27...b0ca698"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
+      "https://ethplorer.io/address/0x6a27348483d59150ae76ef4c0f3622a78b0ca698"
+    ]
   },
   "BeeStore": {
     "name": "BeeStore",
@@ -11865,16 +11864,15 @@
       "Token",
       "DeFi",
       "Ethereum",
-      "Ethereum"
+      "Yield farming",
+      "Rebase",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x67c5...8284253"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x67c597624b17b16fb77959217360b7cd18284253"
+    ],
+    "git": "https://github.com/benchmarkprotocol"
   },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
@@ -11882,16 +11880,15 @@
     "url": "/currencies/benepit-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd27d...d22ebf4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+      "https://ethplorer.io/address/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4"
+    ],
+    "git": "https://github.com/benepit/ERCContracts"
   },
   "BenjiRolls": {
     "name": "BenjiRolls",
@@ -11962,16 +11959,15 @@
     "url": "/currencies/beowulf",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF7E0...87FEa48"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+      "https://ethplorer.io/address/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48"
+    ]
   },
   "Berry": {
     "name": "Berry",
@@ -12005,16 +12001,16 @@
     "url": "/currencies/bestay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7a64...4bb5dd5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5",
+      "https://ethplorer.io/address/0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5"
+    ],
+    "git": "https://github.com"
   },
   "BetProtocol": {
     "name": "BetProtocol",
@@ -12216,16 +12212,15 @@
     "url": "/currencies/bezant",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe1ae...16bee62"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe1aee98495365fc179699c1bb3e761fa716bee62",
+      "https://ethplorer.io/address/0xe1aee98495365fc179699c1bb3e761fa716bee62"
+    ]
   },
   "Bezop": {
     "name": "Bezop",
@@ -12422,16 +12417,15 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb310...2f67069"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
+      "https://ethplorer.io/address/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069"
+    ],
+    "git": "https://github.com/bibox365/bixtoken"
   },
   "Bidao": {
     "name": "Bidao",
@@ -12439,16 +12433,15 @@
     "url": "/currencies/bidao",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x25e1...D7802fa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+      "https://ethplorer.io/address/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa"
+    ]
   },
   "Bidesk": {
     "name": "Bidesk",
@@ -12480,16 +12473,15 @@
     "url": "/currencies/bidipass",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5931...2172b8c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+      "https://ethplorer.io/address/0x593114f03a0a575aece9ed675e52ed68d2172b8c"
+    ],
+    "git": "https://github.com/BidiPassCompany"
   },
   "Bifrost": {
     "name": "Bifrost",
@@ -12579,16 +12571,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9465...6d8c475"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x946551dd05c5abd7cc808927480225ce36d8c475",
+      "https://ethplorer.io/address/0x946551dd05c5abd7cc808927480225ce36d8c475"
+    ]
   },
   "Bigbom": {
     "name": "Bigbom",
@@ -12596,16 +12587,15 @@
     "url": "/currencies/bigbom",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x84f7...2cc602f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x84f7c44b6fed1080f647e354d552595be2cc602f",
+      "https://ethplorer.io/address/0x84f7c44b6fed1080f647e354d552595be2cc602f"
+    ],
+    "git": "https://github.com/bigbomio"
   },
   "BigdataCash": {
     "name": "BigdataCash",
@@ -12624,16 +12614,15 @@
     "url": "/currencies/bilaxy-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x40d5...4685f4e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x40d52577830e01aaefa80659aa90ee8b34685f4e",
+      "https://ethplorer.io/address/0x40d52577830e01aaefa80659aa90ee8b34685f4e"
+    ]
   },
   "Billibilli Inc tokenized stock FTX": {
     "name": "Billibilli Inc tokenized stock FTX",
@@ -12833,18 +12822,18 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Binance Chain",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "BUSD-BD1",
-        "0x4Fab...23C7C53"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "https://explorer.binance.org/asset/BUSD-BD1"
+    ],
+    "git": "https://github.com/paxosglobal/busd-contract"
   },
   "Binance VND": {
     "name": "Binance VND",
@@ -12872,16 +12861,15 @@
     "url": "/currencies/bincentive",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9669...2652cd9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9669890e48f330acd88b78d63e1a6b3482652cd9",
+      "https://ethplorer.io/address/0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+    ]
   },
   "Bintex Futures": {
     "name": "Bintex Futures",
@@ -12889,16 +12877,15 @@
     "url": "/currencies/bintex-futures",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x499f...B31D4f2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2",
+      "https://ethplorer.io/address/0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2"
+    ]
   },
   "BioCoin": {
     "name": "BioCoin",
@@ -13088,16 +13075,16 @@
     "url": "/currencies/bird-money",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Oracles",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7040...9537ce0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
+      "https://ethplorer.io/address/0x70401dfd142a16dc7031c56e862fc88cb9537ce0"
+    ],
+    "git": "https://github.com/bird-money"
   },
   "Birdchain": {
     "name": "Birdchain",
@@ -13105,16 +13092,15 @@
     "url": "/currencies/birdchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x026e...9665e0d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d",
+      "https://ethplorer.io/address/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d"
+    ],
+    "git": "https://github.com/Birdchain/birdchain"
   },
   "Birthday Cake": {
     "name": "Birthday Cake",
@@ -13149,16 +13135,15 @@
     "url": "/currencies/bispex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2AA4...23C6222"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
+      "https://ethplorer.io/address/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222"
+    ],
+    "git": "https://github.com/Bispex-Platform/Bispex-Token"
   },
   "Bit Financial": {
     "name": "Bit Financial",
@@ -13166,16 +13151,14 @@
     "url": "/currencies/bit-financial",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4d31...960f74d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4d31200e6d7854c2f664af7fc38a21600960f74d"
+    ]
   },
   "Bit Trust System": {
     "name": "Bit Trust System",
@@ -13213,16 +13196,15 @@
       "Marketplace",
       "Discount token",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4375...20e0063"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063",
+      "https://ethplorer.io/address/0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063"
+    ]
   },
   "BitBall": {
     "name": "BitBall",
@@ -13289,16 +13271,15 @@
     "tags": [
       "Token",
       "Asset management",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1014...b99d7b1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1",
+      "https://ethplorer.io/address/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1"
+    ],
+    "git": "https://github.com/bitcv"
   },
   "BitCash": {
     "name": "BitCash",
@@ -13319,16 +13300,15 @@
       "Token",
       "SHA-256",
       "Platform",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2ab0...d8bee99"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2ab05b915c30093679165bcdba9c26d8cd8bee99",
+      "https://ethplorer.io/address/0x2ab05b915c30093679165bcdba9c26d8cd8bee99"
+    ]
   },
   "BitClave": {
     "name": "BitClave",
@@ -13478,16 +13458,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2b2b...0f7E652"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2b2b0559081c41e962777B5049632fdb30f7E652"
+    ]
   },
   "BitDNS": {
     "name": "BitDNS",
@@ -13588,16 +13565,15 @@
     "url": "/currencies/bitkam",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbdbb...c8b858e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e",
+      "https://ethplorer.io/address/0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e"
+    ]
   },
   "BitKan": {
     "name": "BitKan",

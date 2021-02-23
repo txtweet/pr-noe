@@ -59,13 +59,14 @@ request
           if href.startsWith('https://blockchair.com/ethereum') or
           href.startsWith('https://cn.etherscan.com/') or
           href.startsWith('https://etherscan.io/') or
-          href.startsWith('https://ethploer.io/addres') or
-          href.startsWith('http://ethploer.io/addres') or
+          href.startsWith('https://ethploer.io/') or
+          href.startsWith('http://ethploer.io/') or
           href.startsWith('https://blockchain.coinmarketcap.com/address/ethereum') or
           href.startsWith('https://ethplorer.io/addres') or
           href.startsWith("https://cn.etherscan.com") or
-          href.startsWith("https://ethplorer.io/") or
           href.startsWith("https://blockscout.com/eth/mainnet") or
+          href.startsWith("https://enjinx.io/") or
+          href.startsWith("https://eth.tokenview.com/")
             foundChain = true
             crypto.tags.push 'Ethereum'
             crypto.tags.push 'Ethereum Contract'
