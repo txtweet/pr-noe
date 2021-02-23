@@ -36776,16 +36776,15 @@
     "url": "/currencies/enzo",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x94ee...a56b72f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x94eea9a484f0bae03d19623cfe389e2cba56b72f",
+      "https://ethplorer.io/address/0x94eea9a484f0bae03d19623cfe389e2cba56b72f"
+    ]
   },
   "Enzyme": {
     "name": "Enzyme",
@@ -36810,16 +36809,15 @@
     "url": "/currencies/epanus",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x50ec...f311780"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+      "https://ethplorer.io/address/0x50ec35d1e18d439f02fa895746fc3e1bef311780"
+    ]
   },
   "Epic": {
     "name": "Epic",
@@ -36975,16 +36973,15 @@
     "url": "/currencies/era-swap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xef13...a2cf574"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xef1344bdf80bef3ff4428d8becec3eea4a2cf574",
+      "https://ethplorer.io/address/0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
+    ],
+    "git": "https://github.com/KMPARDS/EraSwapSmartContracts"
   },
   "ErcauX": {
     "name": "ErcauX",
@@ -37492,16 +37489,12 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum",
+      "Token"
     ],
-    "forked_data": {
-      "block": [
-        "0x63D0...C0a9eD6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/tokenethanol/"
   },
   "Ethash Miner": {
     "name": "Ethash Miner",
