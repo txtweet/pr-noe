@@ -28635,16 +28635,17 @@
       "Token",
       "DeFi",
       "Stablecoin",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6b17...5271d0f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+      "https://ethplorer.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
+      "https://blockchair.com/ethereum/erc-20/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+      "https://eth.tokenview.com/en/token/0x6b175474e89094c44da98b954eedeac495271d0f"
+    ]
   },
   "Daikicoin": {
     "name": "Daikicoin",
@@ -28774,16 +28775,15 @@
     "url": "/currencies/dapp-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x386c...65b20de"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x386cabc0b14a507a4e024dea15554342865b20de",
+      "https://ethplorer.io/address/0x386cabc0b14a507a4e024dea15554342865b20de"
+    ]
   },
   "Darico Ecosystem Coin": {
     "name": "Darico Ecosystem Coin",
@@ -28897,16 +28897,15 @@
     "url": "/currencies/darkbuild",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3108...9E8C6da"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
+      "https://ethplorer.io/address/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da"
+    ]
   },
   "DarkPay": {
     "name": "DarkPay",
@@ -28947,16 +28946,14 @@
     "url": "/currencies/darwinia-commitment-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9f28...b20c5ff"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
+    ]
   },
   "Darwinia Network": {
     "name": "Darwinia Network",
@@ -28967,16 +28964,18 @@
       "Gaming",
       "Interoperability",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "Other Contract",
+      "Tron",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9469...35ec483"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9469d013805bffb7d3debe5e7839237e535ec483",
+      "https://tronscan.org/#/token20/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW"
+    ],
+    "git": "https://github.com/darwinia-network"
   },
   "Dash": {
     "name": "Dash",
@@ -29059,16 +29058,15 @@
     "url": "/currencies/databroker",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x765f...2d33f75"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+      "https://ethplorer.io/address/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75"
+    ],
+    "git": "https://github.com/DataBrokerDAO"
   },
   "Datacoin": {
     "name": "Datacoin",
@@ -29110,16 +29108,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf80d...68786df"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf80d589b3dbe130c270a69f1a69d050f268786df",
+      "https://ethplorer.io/address/0xf80d589b3dbe130c270a69f1a69d050f268786df"
+    ],
+    "git": "https://github.com/Datamine-Crypto"
   },
   "Datarius Credit": {
     "name": "Datarius Credit",
@@ -29218,16 +29215,15 @@
       "Marketplace",
       "AI & Big Data",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x81c9...cebf79c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+      "https://ethplorer.io/address/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c"
+    ]
   },
   "Davies": {
     "name": "Davies",
@@ -29248,16 +29244,15 @@
       "Technology",
       "AI & Big Data",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaad5...ff673a5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaad54c9f27b876d2538455dda69207279ff673a5",
+      "https://ethplorer.io/address/0xaad54c9f27b876d2538455dda69207279ff673a5"
+    ]
   },
   "Davincij15 Token": {
     "name": "Davincij15 Token",
@@ -29266,18 +29261,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/Davincij15",
-    "forked_data": {
-      "block": [
-        "0x5d26...682a4b9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9",
+      "https://ethplorer.io/address/0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9"
+    ]
   },
   "Davion": {
     "name": "Davion",
@@ -29285,16 +29278,15 @@
     "url": "/currencies/davion",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d56...d7d7619"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d56962db8e35197f8e50d76f1f9285a6d7d7619",
+      "https://ethplorer.io/address/0x5d56962db8e35197f8e50d76f1f9285a6d7d7619"
+    ]
   },
   "Dawn Protocol": {
     "name": "Dawn Protocol",
@@ -29302,16 +29294,15 @@
     "url": "/currencies/dawn-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x580c...9629afa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+      "https://ethplorer.io/address/0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+    ],
+    "git": "https://github.com/Dawn-Protocol"
   },
   "Dcoin Token": {
     "name": "Dcoin Token",
@@ -29329,16 +29320,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x95ba...6d18878"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xA740684C9022dc07540031b10dD57984640bAbef",
+      "https://ethplorer.io/address/0xA740684C9022dc07540031b10dD57984640bAbef"
+    ]
   },
   "DeFi Bids": {
     "name": "DeFi Bids",
@@ -29346,16 +29335,15 @@
     "url": "/currencies/defi-bids",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1dA0...C3C8288"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+      "https://ethplorer.io/address/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288"
+    ]
   },
   "DeFi Firefly": {
     "name": "DeFi Firefly",
@@ -29387,16 +29375,15 @@
     "url": "/currencies/defi-gold",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xE3a6...21a7daD"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+      "https://ethplorer.io/address/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD"
+    ]
   },
   "DeFi Insurance Protocol": {
     "name": "DeFi Insurance Protocol",
@@ -29404,16 +29391,15 @@
     "url": "/currencies/defi-insurance-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd89A...4f434E9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd89A909648e28e8352b63b78007f7fF144f434E9",
+      "https://ethplorer.io/address/0xd89a909648e28e8352b63b78007f7ff144f434e9?from=search"
+    ],
+    "git": "https://github.com/modagavr/DFIP"
   },
   "DeFi Nation Signals DAO": {
     "name": "DeFi Nation Signals DAO",
@@ -29503,16 +29489,16 @@
     "url": "/currencies/defi-pulse-index",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1494...4ba3c2b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+      "https://ethplorer.io/address/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
+    ],
+    "git": "https://github.com/SetProtocol/set-v2"
   },
   "DeFi Yield Protocol": {
     "name": "DeFi Yield Protocol",
@@ -29582,16 +29568,15 @@
     "url": "/currencies/defipie",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x607C...51Ae842"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+      "https://ethplorer.io/address/0x607C794cDa77efB21F8848B7910ecf27451Ae842"
+    ],
+    "git": "https://github.com/DefiPie"
   },
   "DeFiSocial Gaming": {
     "name": "DeFiSocial Gaming",
