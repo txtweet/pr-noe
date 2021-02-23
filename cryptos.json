@@ -18090,16 +18090,15 @@
       "Token",
       "Services",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x558e...3de9ad6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+      "https://ethplorer.io/address/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
+    ]
   },
   "Breezecoin": {
     "name": "Breezecoin",
@@ -18107,16 +18106,15 @@
     "url": "/currencies/breezecoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x77c0...e4e7170"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x77c07555af5ffdc946fb47ce15ea68620e4e7170",
+      "https://ethplorer.io/address/0x77c07555af5ffdc946fb47ce15ea68620e4e7170"
+    ]
   },
   "BriaCoin": {
     "name": "BriaCoin",
@@ -18302,16 +18300,14 @@
     "url": "/currencies/brother-music-platform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x01b2...ca20541"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x01b23286ff60a543ec29366ae8d6b6274ca20541"
+    ]
   },
   "Brr": {
     "name": "Brr",
@@ -18427,16 +18423,15 @@
     "url": "/currencies/buck-hath-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9962...2def5C6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x996229D0c6a485c7F4B52E092EAa907cB2def5C6",
+      "https://ethplorer.io/address/0x996229D0c6a485c7F4B52E092EAa907cB2def5C6"
+    ]
   },
   "Budbo": {
     "name": "Budbo",
@@ -18580,16 +18575,14 @@
     "url": "/currencies/bullswap-exchange",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe7d3...62c3FbF"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe7d324B2677440608fb871981B220ECa062c3FbF"
+    ]
   },
   "Bundles Finance": {
     "name": "Bundles Finance",
@@ -18597,17 +18590,15 @@
     "url": "/currencies/bundles",
     "tags": [
       "Ethereum",
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe7d3...62c3FbF"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "sawBirth": "01122020"
+    "forked_data": [
+      "https://etherscan.io/token/0x8D3E855f3f55109D473735aB76F753218400fe96"
+    ],
+    "sawBirth": "01122020",
+    "git": "https://github.com/PraneshASP/Bundles-Finance"
   },
   "BunnyToken": {
     "name": "BunnyToken",
@@ -18636,16 +18627,15 @@
     "url": "/currencies/burency",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc559...7983e6a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc559db74236c1f1dd734e0b4c8d747bb57983e6a",
+      "https://ethplorer.io/address/0xc559db74236c1f1dd734e0b4c8d747bb57983e6a"
+    ]
   },
   "Burger Swap": {
     "name": "Burger Swap",
@@ -18704,16 +18694,14 @@
     "url": "/currencies/business-credit-alliance-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1abd...6ec61ce"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1abdb309aa592f00a101c545168bfdf9a6ec61ce"
+    ],
+    "git": "https://github.com/BusinessCredit"
   },
   "Business Credit Substitute": {
     "name": "Business Credit Substitute",
@@ -18774,17 +18762,15 @@
     "url": "/currencies/buy-sell",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "15122020",
-    "forked_data": {
-      "block": [
-        "0xa301...005570c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa30189d8255322a2f8b2a77906b000aeb005570c"
+    ]
   },
   "BuySell": {
     "name": "BuySell",
@@ -18802,16 +18788,15 @@
     "url": "/currencies/buzzshow",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5942...ccbd45f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x594207c791afd06a8d087d84d99d1da53ccbd45f",
+      "https://etherscan.io/address/0x594207c791afd06a8d087d84d99d1da53ccbd45f"
+    ],
+    "git": "https://github.com/organizations/BuzzshowNetwork/settings/billing/per_seat"
   },
   "Bytecoin": {
     "name": "Bytecoin",
@@ -18901,16 +18886,15 @@
     "url": "/currencies/carat",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x19ea...e1c087c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c",
+      "https://ethplorer.io/address/0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c"
+    ]
   },
   "CAT.trade Protocol": {
     "name": "CAT.trade Protocol",
@@ -18918,16 +18902,15 @@
     "url": "/currencies/cat-trade-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xC774...942099E"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC7743bf0B300Ec041E704Cc34d4f43050942099E",
+      "https://ethplorer.io/address/0xC7743bf0B300Ec041E704Cc34d4f43050942099E"
+    ]
   },
   "CBDAO": {
     "name": "CBDAO",
@@ -18935,16 +18918,15 @@
     "url": "/currencies/cbdao",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4639...B1C792F"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+      "https://ethplorer.io/address/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F"
+    ],
+    "git": "https://github.com/coinbreeder/CBDAO-General"
   },
   "CCUniverse": {
     "name": "CCUniverse",
@@ -19052,16 +19034,15 @@
     "url": "/currencies/ceek-vr",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb056...60655e1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+      "https://etherscan.io/token/0xb056c38f6b7dc4064367403e26424cd2c60655e1"
+    ]
   },
   "CENTERCOIN": {
     "name": "CENTERCOIN",
@@ -19069,16 +19050,14 @@
     "url": "/currencies/centercoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x262b...ac37bd3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x262b6a8b044ab9b7a345353ded8f541c1ac37bd3"
+    ]
   },
   "CFun": {
     "name": "CFun",
@@ -19281,16 +19260,15 @@
     "url": "/currencies/cnns",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6c3b...31072e1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6c3be406174349cfa4501654313d97e6a31072e1",
+      "https://ethplorer.io/address/0x6c3be406174349cfa4501654313d97e6a31072e1"
+    ]
   },
   "COIL": {
     "name": "COIL",
@@ -19322,16 +19300,14 @@
     "url": "/currencies/coin-defi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe61f...3cfa850"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe61fdaf474fac07063f2234fb9e60c1163cfa850"
+    ]
   },
   "COMSA [ETH]": {
     "name": "COMSA [ETH]",
@@ -19376,16 +19352,15 @@
     "url": "/currencies/contracoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfd6c...c271fd8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
+      "https://ethplorer.io/address/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+    ]
   },
   "CONUN": {
     "name": "CONUN",
@@ -19393,16 +19368,15 @@
     "url": "/currencies/conun",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4Dd6...617C8fB"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
+      "https://ethplorer.io/address/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB"
+    ]
   },
   "CORD.Finance": {
     "name": "CORD.Finance",
@@ -19459,16 +19433,15 @@
     "url": "/currencies/cost-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5f02...808Dd9b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b",
+      "https://ethplorer.io/address/0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b"
+    ]
   },
   "COTI": {
     "name": "COTI",
@@ -19488,16 +19461,15 @@
     "url": "/currencies/cova",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb37a...7cd3b00"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb37a769b37224449d92aac57de379e1267cd3b00",
+      "https://ethplorer.io/address/0xb37a769b37224449d92aac57de379e1267cd3b00"
+    ],
+    "git": "https://github.com/covalent-hq"
   },
   "COVER Protocol": {
     "name": "COVER Protocol",
@@ -19507,14 +19479,7 @@
       "Token",
       "Ethereum"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d8d...4304286"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": []
   },
   "COVER Protocol[old]": {
     "name": "COVER Protocol[old]",
