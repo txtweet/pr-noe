@@ -37785,17 +37785,10 @@
       "Smart Contracts",
       "forked_altcoin",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1920000"
-      ],
-      "date": "2016-07-20",
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/ethereumclassic"
   },
   "Ethereum Gold": {
@@ -37865,16 +37858,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x54eF...6e38313"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313"
+    ]
   },
   "Ethereum Lite": {
     "name": "Ethereum Lite",
@@ -37933,16 +37923,15 @@
     "url": "/currencies/ethereum-meta",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x340e...0468656"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x340ef83ec8560892168d4062720f030460468656",
+      "https://ethplorer.io/address/0x340ef83ec8560892168d4062720f030460468656"
+    ],
+    "git": "https://github.com/ethermeta/EtherMeta/"
   },
   "Ethereum Stake": {
     "name": "Ethereum Stake",
@@ -38000,16 +37989,16 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Binance Smart Chain",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd1AF...6EF08B5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+      "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5"
+    ],
+    "git": "https://github.com/ethereumyieldfarm"
   },
   "Ethereum eRush": {
     "name": "Ethereum eRush",
@@ -38159,16 +38148,15 @@
       "Marketplace",
       "Payments",
       "DApp",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xea38...acded40"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+      "https://ethplorer.io/address/0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
+    ],
+    "git": "https://github.com/vanbexlabs"
   },
   "Etherpay": {
     "name": "Etherpay",
@@ -38176,16 +38164,14 @@
     "url": "/currencies/etherpay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6019...2b1d194"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x601938988f0fdd937373ea185c33751462b1d194"
+    ]
   },
   "EthicHub": {
     "name": "EthicHub",
@@ -38266,16 +38252,16 @@
     "url": "/currencies/ethverse",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeeee...0ef24d6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeeeeeeeee2af8d0e1940679860398308e0ef24d6",
+      "https://ethplorer.io/address/0xeeeeeeeee2af8d0e1940679860398308e0ef24d6"
+    ]
   },
   "Eureka Coin": {
     "name": "Eureka Coin",
@@ -38459,16 +38445,15 @@
     "url": "/currencies/evedo",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5aae...86b91bd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+      "https://ethplorer.io/address/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd"
+    ]
   },
   "EvenCoin": {
     "name": "EvenCoin",
@@ -38476,16 +38461,15 @@
     "url": "/currencies/evencoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6890...4ef65bb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
+      "https://ethplorer.io/address/0x68909e586eeac8f47315e84b4c9788dd54ef65bb"
+    ],
+    "git": "https://github.com/evencoinevn/Evencoin"
   },
   "EventChain": {
     "name": "EventChain",
@@ -38495,16 +38479,15 @@
       "Token",
       "Events",
       "Entertainment",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb62d...dc5ff2f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+      "https://ethplorer.io/address/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f"
+    ]
   },
   "EverGreenCoin": {
     "name": "EverGreenCoin",
@@ -38548,16 +38531,15 @@
       "Token",
       "Services",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf3db...e4813b8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+      "https://ethplorer.io/address/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8"
+    ]
   },
   "EveriToken": {
     "name": "EveriToken",
@@ -38580,16 +38562,18 @@
       "EOS",
       "Ethereum",
       "DeFi",
-      "Crowdsourcing"
+      "Crowdsourcing",
+      "Media",
+      "Loyalty",
+      "Content Creation",
+      "EOS",
+      "Ethereum",
+      "DeFi",
+      "Crowdsourcing",
+      "Token"
     ],
-    "forked_data": {
-      "block": [
-        "everipediaiq"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/EveripediaNetwork/"
   },
   "Everus": {
     "name": "Everus",
@@ -38599,16 +38583,15 @@
       "Token",
       "Marketplace",
       "E-commerce",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3137...56b59ab"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3137619705b5fc22a3048989f983905e456b59ab",
+      "https://ethplorer.io/address/0x3137619705b5fc22a3048989f983905e456b59ab"
+    ],
+    "git": "https://github.com/EverusWorld"
   },
   "EveryCoin ": {
     "name": "EveryCoin ",
@@ -38757,16 +38740,15 @@
     "url": "/currencies/exchange-payment-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5330...c1c2442"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5330A5805b9Db68EbCF5247BbC9097163c1c2442",
+      "https://ethplorer.io/address/0x5330A5805b9Db68EbCF5247BbC9097163c1c2442"
+    ]
   },
   "Exchange Union": {
     "name": "Exchange Union",
@@ -38774,16 +38756,15 @@
     "url": "/currencies/exchange-union",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc324...63287cb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc324a2f6b05880503444451b8b27e6f9e63287cb",
+      "https://ethplorer.io/address/0xc324a2f6b05880503444451b8b27e6f9e63287cb"
+    ],
+    "git": "https://github.com/ExchangeUnion"
   },
   "ExclusiveCoin": {
     "name": "ExclusiveCoin",
@@ -38887,16 +38868,15 @@
     "url": "/currencies/experty",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5c74...1cf44f3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5c743a35e903f6c584514ec617acee0611cf44f3",
+      "https://ethplorer.io/address/0x5c743a35e903f6c584514ec617acee0611cf44f3"
+    ],
+    "git": "https://github.com/Experty"
   },
   "Experty Wisdom Token": {
     "name": "Experty Wisdom Token",
@@ -38904,16 +38884,15 @@
     "url": "/currencies/experty-wisdom-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xDeca...67adcF5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
+      "https://ethplorer.io/address/0xdecade1c6bf2cd9fb89afad73e4a519c867adcf5"
+    ],
+    "git": "https://github.com/Experty"
   },
   "ExtStock Token": {
     "name": "ExtStock Token",
@@ -38984,16 +38963,15 @@
     "url": "/currencies/ezystayz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xA6D5...5D4A58D"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D",
+      "https://ethplorer.io/address/0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D"
+    ]
   },
   "FABRK": {
     "name": "FABRK",
@@ -39049,16 +39027,15 @@
     "url": "/currencies/fanbi-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7a97...4cc13db"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7a9716685f852ee268feb86dffa562d214cc13db",
+      "https://ethplorer.io/address/0x7a9716685f852ee268feb86dffa562d214cc13db"
+    ]
   },
   "FANZY": {
     "name": "FANZY",
@@ -39066,16 +39043,15 @@
     "url": "/currencies/fanzy",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xED0e...08BbB75"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xED0e2041BFb5a426e5ED426A73765624E08BbB75",
+      "https://ethplorer.io/address/0xED0e2041BFb5a426e5ED426A73765624E08BbB75"
+    ]
   },
   "FC Barcelona Fan Token": {
     "name": "FC Barcelona Fan Token",
@@ -39280,16 +39256,15 @@
     "url": "/currencies/flama",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0f87...114f6C4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0f8794f66C7170c4f9163a8498371A747114f6C4",
+      "https://ethplorer.io/address/0x0f8794f66C7170c4f9163a8498371A747114f6C4"
+    ],
+    "git": "https://github.com/FlamaToken/Flama"
   },
   "FLETA": {
     "name": "FLETA",
@@ -39297,16 +39272,15 @@
     "url": "/currencies/fleta",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7788...e068fc6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7788d759f21f53533051a9ae657fa05a1e068fc6",
+      "https://ethplorer.io/address/0x7788d759f21f53533051a9ae657fa05a1e068fc6"
+    ],
+    "git": "https://github.com/fletaio"
   },
   "FLEX": {
     "name": "FLEX",
@@ -39390,16 +39364,15 @@
     "url": "/currencies/flux",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x469e...15cb1d9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x469eda64aed3a3ad6f868c44564291aa415cb1d9",
+      "https://ethplorer.io/token/0x469eda64aed3a3ad6f868c44564291aa415cb1d9"
+    ]
   },
   "FME": {
     "name": "FME",
@@ -39407,16 +39380,15 @@
     "url": "/currencies/fme",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9479...5a525d0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x947938339bf61c84669e303bc39c794d65a525d0",
+      "https://ethplorer.io/address/0x947938339bf61c84669e303bc39c794d65a525d0"
+    ],
+    "git": "https://github.com/vittominacori/erc20-generator"
   },
   "FNB Protocol": {
     "name": "FNB Protocol",
@@ -39425,16 +39397,15 @@
     "tags": [
       "Token",
       "Platform",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x47b2...4b35129"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+      "https://ethplorer.io/address/0x47b28f365bf4cb38db4b6356864bde7bc4b35129"
+    ]
   },
   "FNK wallet": {
     "name": "FNK wallet",
@@ -39443,18 +39414,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/FnkToken/smartcontract",
-    "forked_data": {
-      "block": [
-        "0xb5fe...62a48ad"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
+      "https://ethplorer.io/address/0xb5fe099475d3030dde498c3bb6f3854f762a48ad"
+    ]
   },
   "FNKOS": {
     "name": "FNKOS",
@@ -39498,16 +39467,15 @@
       "Token",
       "Platform",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4946...44ac121"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4946fcea7c692606e8908002e55a582af44ac121",
+      "https://ethplorer.io/address/0x4946fcea7c692606e8908002e55a582af44ac121"
+    ],
+    "git": "https://github.com/f-o-a-m/"
   },
   "FOCV": {
     "name": "FOCV",
@@ -39515,16 +39483,15 @@
     "url": "/currencies/focv",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbBa1...9548b06"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbBa1DA8aFF34eBEF5Ce4d68312B33ef629548b06",
+      "https://ethplorer.io/address/0xbBa1DA8aFF34eBEF5Ce4d68312B33ef629548b06"
+    ]
   },
   "FOMPOUND": {
     "name": "FOMPOUND",
@@ -39532,17 +39499,16 @@
     "url": "/currencies/fompound",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "11122020",
-    "forked_data": {
-      "block": [
-        "0x0538...Fbc12E0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0",
+      "https://ethplorer.io/address/0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0"
+    ],
+    "git": "https://github.com/Fompound"
   },
   "FOX Token": {
     "name": "FOX Token",
@@ -39603,20 +39569,20 @@
       "Token",
       "Ethereum",
       "Binance",
-      "Tron"
+      "Tron",
+      "Payments",
+      "Staking",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2f14...a49e4fd",
-        "0x12e3...fdad739",
-        "1003134"
-      ],
-      "forked_from": [
-        "Ethereum",
-        "Binance",
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+      "https://ethplorer.io/address/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+      "https://tronscan.org/#/token/1003134",
+      "https://bscscan.com/token/0x12e34cdf6a031a10fe241864c32fb03a4fdad739"
+    ]
   },
   "FRMx Token": {
     "name": "FRMx Token",
@@ -39624,16 +39590,15 @@
     "url": "/currencies/frmx-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf683...5354b14"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf6832ea221ebfdc2363729721a146e6745354b14",
+      "https://ethplorer.io/address/0xf6832ea221ebfdc2363729721a146e6745354b14"
+    ]
   },
   "FSBT API Token": {
     "name": "FSBT API Token",
@@ -39665,18 +39630,18 @@
       "Marketplace",
       "Derivatives",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "FTT-F11",
-        "0x50d1...355a4c9"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "https://explorer.binance.org/asset/FTT-F11",
+      "https://blockchair.com/ethereum/erc-20/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "https://eth.tokenview.com/en/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+    ]
   },
   "FUD.finance": {
     "name": "FUD.finance",
@@ -39684,16 +39649,16 @@
     "url": "/currencies/fudfinance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2688...8E17ECc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
+      "https://ethplorer.io/address/0x2688213fEDd489762a281a67Ae4F2295D8E17ECc"
+    ]
   },
   "FUTURAX": {
     "name": "FUTURAX",
@@ -39723,16 +39688,15 @@
     "url": "/currencies/futurexcrypto",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1e60...db69ec7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1e6063b7b3a1c1952ed2c4087fd528998db69ec7",
+      "https://etherscan.io/address/0x1e6063b7b3a1c1952ed2c4087fd528998db69ec7"
+    ]
   },
   "FUZE Token": {
     "name": "FUZE Token",
@@ -39740,16 +39704,16 @@
     "url": "/currencies/fuze-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x187d...63ead85"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x187d1018e8ef879be4194d6ed7590987463ead85",
+      "https://ethplorer.io/address/0x187d1018e8ef879be4194d6ed7590987463ead85",
+      "https://enjinx.io/eth/token/0x187d1018e8ef879be4194d6ed7590987463ead85"
+    ]
   },
   "FXPay": {
     "name": "FXPay",
@@ -39825,16 +39789,15 @@
     "url": "/currencies/faceter",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1cca...e1b1672"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672",
+      "https://ethplorer.io/address/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672"
+    ],
+    "git": "https://github.com/faceterteam/smart_contracts"
   },
   "Factom": {
     "name": "Factom",
@@ -39855,16 +39818,15 @@
     "url": "/currencies/fairgame",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9b20...eb1990a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9b20dabcec77f6289113e61893f7beefaeb1990a",
+      "https://ethplorer.io/address/0x9b20dabcec77f6289113e61893f7beefaeb1990a"
+    ],
+    "git": "https://github.com/FairGame2017"
   },
   "Falcon Project": {
     "name": "Falcon Project",
@@ -39923,16 +39885,16 @@
     "url": "/currencies/fsw-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Decentralized exchange",
+      "DEX",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xffff...45126db"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfffffffff15abf397da76f1dcc1a1604f45126db"
+    ]
   },
   "Fame": {
     "name": "Fame",
@@ -40005,16 +39967,15 @@
     "url": "/currencies/fanstime",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x943e...42de4c8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x943ed852dadb5c3938ecdc6883718df8142de4c8",
+      "https://ethplorer.io/address/0x943ed852dadb5c3938ecdc6883718df8142de4c8"
+    ]
   },
   "Fantasy Sports": {
     "name": "Fantasy Sports",
@@ -40092,18 +40053,17 @@
       "Research",
       "Smart Contracts",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Platform",
+      "Enterprise solutions",
+      "DeFi",
+      "Research",
+      "Scaling",
+      "Smart Contracts",
+      "Coin"
     ],
-    "forked_data": {
-      "block": [
-        "FTM-A64",
-        "0x4e15...3717870"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/Fantom-Foundation"
   },
   "Farm Defi": {
     "name": "Farm Defi",
@@ -40304,16 +40264,15 @@
       "Token",
       "Marketplace",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2ec9...0ed314c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+      "https://ethplorer.io/address/0x2ec95b8eda549b79a1248335a39d299d00ed314c"
+    ]
   },
   "Feathercoin": {
     "name": "Feathercoin",
@@ -40554,16 +40513,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe5ca...43ca68c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe5caef4af8780e59df925470b050fb23c43ca68c",
+      "https://ethplorer.io/address/0xe5caef4af8780e59df925470b050fb23c43ca68c"
+    ]
   },
   "Fesschain": {
     "name": "Fesschain",
@@ -40617,16 +40575,16 @@
       "Token",
       "Technology",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaea4...F41Ad85"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+      "https://ethplorer.io/address/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+      "https://blockchair.com/ethereum/erc-20/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
+    ],
+    "git": "https://github.com/fetchai"
   },
   "FidexToken": {
     "name": "FidexToken",
@@ -40737,16 +40695,15 @@
     "url": "/currencies/finexboxtoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe6d2...2a6ee74"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74",
+      "https://ethplorer.io/address/0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74"
+    ]
   },
   "Finswap": {
     "name": "Finswap",
@@ -41036,16 +40993,15 @@
     "url": "/currencies/firmachain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe1ba...e32471b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe1bad922f84b198a08292fb600319300ae32471b",
+      "https://ethplorer.io/address/0xe1bad922f84b198a08292fb600319300ae32471b"
+    ],
+    "git": "https://github.com/firmachain"
   },
   "Firo": {
     "name": "Firo",
@@ -41085,16 +41041,14 @@
       "Media",
       "Loyalty",
       "Gaming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaf30...6f15bc7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/FirstBlood"
+    ]
   },
   "FirstCoin": {
     "name": "FirstCoin",
@@ -41151,16 +41105,15 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xca76...c70bb47"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xca76baa777d749de63ca044853d22d56bc70bb47",
+      "https://ethplorer.io/address/0xca76baa777d749de63ca044853d22d56bc70bb47"
+    ],
+    "git": "https://github.com/Fiscus-fyi"
   },
   "Fission Cash": {
     "name": "Fission Cash",
@@ -41572,16 +41525,15 @@
       "Token",
       "Marketplace",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8f09...4882c10"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8f0921f30555624143d427b340b1156914882c10",
+      "https://ethplorer.io/address/0x8f0921f30555624143d427b340b1156914882c10"
+    ],
+    "git": "https://github.com/flypme"
   },
   "Folder Protocol": {
     "name": "Folder Protocol",
@@ -41629,16 +41581,15 @@
     "url": "/currencies/folgory-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "PoS",
+      "PoW",
+      "Scrypt",
+      "Mineable",
+      "NoGitHub",
+      "Token"
     ],
-    "forked_data": {
-      "block": [
-        "0x5e04...ae0e965"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": []
   },
   "FolgoryUSD": {
     "name": "FolgoryUSD",
