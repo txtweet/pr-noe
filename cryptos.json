@@ -10145,21 +10145,21 @@
     "tags": [
       "Dead",
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
     "sawBirth": "11122020",
     "deaths": [
       "11122020",
       "13122020"
     ],
-    "forked_data": {
-      "block": [
-        "0x3276...75a7ca8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45"
+    ]
   },
   "BUZZCoin": {
     "name": "BUZZCoin",
@@ -10214,16 +10214,15 @@
     "url": "/currencies/baasid",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3e65...32262f8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
+      "https://ethplorer.io/address/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8"
+    ]
   },
   "BackPacker Coin": {
     "name": "BackPacker Coin",
@@ -10249,16 +10248,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x175a...cf51046"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x175ab41e2cedf3919b2e4426c19851223cf51046",
+      "https://ethplorer.io/address/0x175ab41e2cedf3919b2e4426c19851223cf51046"
+    ],
     "deaths": [
       "01011970"
     ]
@@ -10269,17 +10268,19 @@
     "url": "/currencies/badger-dao",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DAO",
+      "Yield farming",
+      "Yield Aggregator",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0x3472...2c6e53d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d"
+    ]
   },
   "Baer Chain": {
     "name": "Baer Chain",
@@ -10328,16 +10329,15 @@
       "Memes",
       "Yield farming",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7a54...2535F11"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+      "https://ethplorer.io/address/0x7a545Ed3863221A974F327199Ac22F7f12535F11"
+    ],
     "deaths": [
       "22012021",
       "26012021",
@@ -10392,16 +10392,17 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "AMM",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba10...a424e3D"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
+      "https://ethplorer.io/address/0xba100000625a3754423978a60c9317c58a424e3D"
+    ],
+    "git": "https://github.com/balancer-labs"
   },
   "Bali Coin": {
     "name": "Bali Coin",
@@ -10409,16 +10410,18 @@
     "url": "/currencies/bali-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x013a...255176b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b",
+      "https://ethplorer.io/address/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b"
+    ],
+    "git": "https://github.com/adamyusfan/balicoin"
   },
   "Balloon-X": {
     "name": "Balloon-X",
@@ -10427,16 +10430,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x48fa...27999B9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x48fa42D579CE56Cc2797E4d678AD7345A27999B9",
+      "https://ethplorer.io/address/0x48fa42D579CE56Cc2797E4d678AD7345A27999B9"
+    ],
     "deaths": [
       "06022021",
       "08022021",
@@ -10444,7 +10445,8 @@
       "20210210",
       "20210211",
       "20210212"
-    ]
+    ],
+    "git": "https://github.com/softbrain1472/balloon-x"
   },
   "BambooDeFi": {
     "name": "BambooDeFi",
@@ -10483,16 +10485,15 @@
     "url": "/currencies/bananatok",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2091...14ac2b8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
+      "https://ethplorer.io/address/0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8"
+    ],
+    "git": "https://github.com/Bananatok/Bananatok"
   },
   "Banano": {
     "name": "Banano",
@@ -10511,7 +10512,9 @@
     "tags": [
       "Dead",
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "deaths": [
       "30112020",
@@ -10552,14 +10555,10 @@
       "20210221",
       "20210222"
     ],
-    "forked_data": {
-      "block": [
-        "0x1706c33B9a5B12aeB85B862215378dEe9480EB95"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x1706c33b9a5b12aeb85b862215378dee9480eb95"
+    ],
+    "git": "https://github.com/BananoDOS/BananoDOS"
   },
   "Banca": {
     "name": "Banca",
@@ -10567,16 +10566,15 @@
     "url": "/currencies/banca",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x998b...5acb8bd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+      "https://ethplorer.io/address/0x998b3b82bc9dba173990be7afb772788b5acb8bd"
+    ]
   },
   "Bancacy": {
     "name": "Bancacy",
@@ -10585,16 +10583,14 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8614...619bb29"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x86149c67e57c749d0a12e6d6c2bf1b616619bb29",
+      "https://ethplorer.io/address/0x86149c67e57c749d0a12e6d6c2bf1b616619bb29"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -10643,7 +10639,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/bancacy"
   },
   "Bancor": {
     "name": "Bancor",
@@ -10655,16 +10652,23 @@
       "Decentralized exchange",
       "DeFi",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Marketplace",
+      "Decentralized exchange",
+      "DeFi",
+      "Payments",
+      "AMM",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x1f57...9a7ff1c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Bancor",
+      "https://ethplorer.io/address/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+    ],
+    "git": "https://github.com/bancorprotocol/"
   },
   "Band Protocol": {
     "name": "Band Protocol",
@@ -10675,18 +10679,18 @@
       "DeFi",
       "Oracles",
       "Ethereum",
-      "Binance"
+      "Binance",
+      "Binance Chain",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba11...86d7f55",
-        "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
-      ],
-      "forked_from": [
-        "Ethereum",
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "https://ethplorer.io/address/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
+    ],
+    "git": "https://github.com/bandprotocol"
   },
   "Bankcoin": {
     "name": "Bankcoin",
@@ -10724,16 +10728,15 @@
       "Marketplace",
       "Payments",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc80c...77810c5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc80c5e40220172b36adee2c951f26f2a577810c5",
+      "https://ethplorer.io/address/0xc80c5e40220172b36adee2c951f26f2a577810c5"
+    ],
+    "git": "https://github.com/Bankera-token/BNK-ETH-Contract"
   },
   "Bankroll Network": {
     "name": "Bankroll Network",
@@ -10810,16 +10813,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6b78...fb84d11"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x6b785a0322126826d8226d77e173d75dafb84d11",
+      "https://ethplorer.io/address/0x6b785a0322126826d8226d77e173d75dafb84d11"
+    ],
     "deaths": [
       "15122020",
       "18122020",
@@ -10835,7 +10836,8 @@
       "20210213",
       "20210214",
       "20210217"
-    ]
+    ],
+    "git": "https://github.com/bankrollnetwork"
   },
   "Bao Finance": {
     "name": "Bao Finance",
@@ -10874,16 +10876,16 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0391...337750f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
+      "https://ethplorer.io/address/0x0391D2021f89DC339F60Fff84546EA23E337750f"
+    ],
+    "git": "https://github.com/BarnBridge/"
   },
   "Baroin": {
     "name": "Baroin",
@@ -10891,16 +10893,14 @@
     "url": "/currencies/baroin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4893...3882173"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4893a1938df49f4178c37e4e965cc8a1b3882173"
+    ],
+    "git": "https://github.com/Baroin-BRI/Contract-Source-Code/blob/main/README.md"
   },
   "Barter": {
     "name": "Barter",
@@ -10909,16 +10909,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF0AC...6454223"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
+      "https://ethplorer.io/address/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223"
+    ],
     "deaths": [
       "06012021",
       "12012021",
@@ -10930,7 +10928,8 @@
       "21012021",
       "22012021",
       "26012021"
-    ]
+    ],
+    "git": "https://github.com/bartersmartplace/"
   },
   "BarterTrade": {
     "name": "BarterTrade",
@@ -10938,16 +10937,14 @@
     "url": "/currencies/bartertrade",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x54c9...d5063ba"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba"
+    ],
+    "git": "https://github.com/BarterTrade"
   },
   "Base Protocol": {
     "name": "Base Protocol",
@@ -10955,17 +10952,16 @@
     "url": "/currencies/base-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Rebase",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "03122020",
-    "forked_data": {
-      "block": [
-        "0x0715...6f25fdc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x07150e919b4de5fd6a63de1f9384828396f25fdc"
+    ],
+    "git": "https://github.com/Base-Protocol"
   },
   "Based Money": {
     "name": "Based Money",
@@ -10976,19 +10972,19 @@
       "Memes",
       "Yield farming",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "DAO",
+      "Rebase",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2942...6994edc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x29428639d889fa989405ee9baf3ba088e6994edc"
+    ],
     "deaths": [
       "27012021"
-    ]
+    ],
+    "git": "https://github.com/cryptoghoulz"
   },
   "Basic Attention Token": {
     "name": "Basic Attention Token",
@@ -10999,16 +10995,21 @@
       "Marketing",
       "Content Creation",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Marketing",
+      "Content Creation",
+      "Payments",
+      "NoGitHub",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x0d87...d2887ef"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "https://ethplorer.io/address/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "https://blockchair.com/ethereum/erc-20/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "https://eth.tokenview.com/en/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+    ]
   },
   "Basid Coin": {
     "name": "Basid Coin",
@@ -11016,16 +11017,15 @@
     "url": "/currencies/basid-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe33f...44347D8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe33f363351186e185470f35F6DeB94ABa44347D8",
+      "https://ethplorer.io/address/0xe33f363351186e185470f35F6DeB94ABa44347D8"
+    ]
   },
   "Basis Cash": {
     "name": "Basis Cash",
@@ -11033,16 +11033,17 @@
     "url": "/currencies/basis-cash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "Rebase",
+      "Seigniorage",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3449...903A69a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a"
+    ]
   },
   "Basis Dollar": {
     "name": "Basis Dollar",
@@ -11105,17 +11106,17 @@
     "tags": [
       "Rebase",
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "Seigniorage",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xa7ED...1B63696"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696"
+    ],
+    "git": "https://github.com/Basis-Cash"
   },
   "Basiscoin Cash": {
     "name": "Basiscoin Cash",
@@ -11203,16 +11204,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x47eb...2c873cf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x47eb79217f42f92dbd741add1b1a6783a2c873cf",
+      "https://ethplorer.io/address/0x47eb79217f42f92dbd741add1b1a6783a2c873cf"
+    ],
     "deaths": [
       "14122020",
       "17122020",
@@ -11287,16 +11287,15 @@
     "url": "/currencies/baz-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb020...86178f9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb020ed54651831878e5c967e0953a900786178f9",
+      "https://ethplorer.io/address/0xb020ed54651831878e5c967e0953a900786178f9"
+    ]
   },
   "Beacon": {
     "name": "Beacon",
@@ -11409,16 +11408,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x827d...a085e86"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+      "https://ethplorer.io/address/0x827d53c8170af52625f414bde00326fc8a085e86"
+    ],
     "deaths": [
       "02022021"
     ]
@@ -11430,16 +11428,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Dead"
+      "Dead",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0839...C8c6FCb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb",
+      "https://ethplorer.io/address/0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb"
+    ],
     "deaths": [
       "11122020",
       "13122020",
@@ -11482,7 +11478,8 @@
       "20210220",
       "20210221",
       "20210222"
-    ]
+    ],
+    "git": "https://github.com/becaz"
   },
   "Bee Token": {
     "name": "Bee Token",
@@ -11493,16 +11490,14 @@
       "Real Estate",
       "Sharing Economy",
       "Dead",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4d8f...d996fbf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x4d8fc1453a0f359e99c9675954e656d80d996fbf",
+      "https://ethplorer.io/address/0x4d8fc1453a0f359e99c9675954e656d80d996fbf"
+    ],
     "deaths": [
       "30112020",
       "01122020",
@@ -11518,7 +11513,8 @@
       "17122020",
       "18122020",
       "06012021"
-    ]
+    ],
+    "git": "https://github.com/thebeetoken/"
   },
   "BeeEx": {
     "name": "BeeEx",
