@@ -33739,16 +33739,15 @@
     "url": "/currencies/entone",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xEc1a...bb2b88C"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xEc1a718D1A6F8F8d94eCEc6fe91465697bb2b88C",
+      "https://ethplorer.io/address/0xec1a718d1a6f8f8d94ecec6fe91465697bb2b88c"
+    ],
+    "git": "https://github.com/entonetoken"
   },
   "EOS": {
     "name": "EOS",
@@ -33906,16 +33905,15 @@
       "Token",
       "Medium of Exchange",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc376...3c4f9ea"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+      "https://ethplorer.io/address/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea"
+    ],
+    "git": "https://github.com/Belance"
   },
   "ESAX Token": {
     "name": "ESAX Token",
@@ -34666,16 +34664,15 @@
     "url": "/currencies/ethplus",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xEED7...8c628e2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xEED736b2b809550D89A941C2005dE93588c628e2",
+      "https://ethplorer.io/address/0xEED736b2b809550D89A941C2005dE93588c628e2"
+    ],
+    "git": "https://github.com/ETHplus"
   },
   "ETHUP": {
     "name": "ETHUP",
@@ -34835,16 +34832,15 @@
     "url": "/currencies/exmo-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8386...88c0f62"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x83869de76b9ad8125e22b857f519f001588c0f62",
+      "https://ethplorer.io/address/0x83869de76b9ad8125e22b857f519f001588c0f62"
+    ]
   },
   "EXMR FDN": {
     "name": "EXMR FDN",
@@ -34852,16 +34848,20 @@
     "url": "/currencies/exmr-fdn",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Marketplace",
+      "Platform",
+      "Payments",
+      "Staking",
+      "DApp",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x331f...c5ef529"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x331fa6c97c64e47475164b9fc8143b533c5ef529",
+      "https://ethplorer.io/address/0x331fa6c97c64e47475164b9fc8143b533c5ef529"
+    ],
+    "git": "https://github.com/exmrcoin/project-gcps.io"
   },
   "EXOR": {
     "name": "EXOR",
@@ -34910,16 +34910,15 @@
       "Platform",
       "Interoperability",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe469...c796e75"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+      "https://ethplorer.io/address/0xe469c4473af82217b30cf17b10bcdb6c8c796e75"
+    ]
   },
   "EYES Protocol": {
     "name": "EYES Protocol",
@@ -35085,16 +35084,15 @@
     "url": "/currencies/earnbase",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa6fb...03b9e15"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa6fb1df483b24eeab569e19447e0e107003b9e15",
+      "https://ethplorer.io/address/0xa6fb1df483b24eeab569e19447e0e107003b9e15"
+    ],
+    "git": "https://github.com/earnbasefinance"
   },
   "Earneo": {
     "name": "Earneo",
@@ -35136,16 +35134,18 @@
     "url": "/currencies/easyfi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DAO",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x913D...a4F0729"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729",
+      "https://ethplorer.io/address/0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729"
+    ]
   },
   "EasySwap": {
     "name": "EasySwap",
@@ -35209,17 +35209,15 @@
     "url": "/currencies/eauric",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "01122020",
-    "forked_data": {
-      "block": [
-        "0xc36c...43bdec8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0xc36c65693ea9e207ad35d4ee2fb6c5f6f43bdec8"
+    ],
+    "git": "https://github.com/guido-bit/eleutherus"
   },
   "EchoLink": {
     "name": "EchoLink",
@@ -35229,16 +35227,15 @@
       "Token",
       "Education",
       "Jobs",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa6a8...41156ee"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+      "https://ethplorer.io/address/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee"
+    ],
+    "git": "https://github.com/EchoLinkTech"
   },
   "Echoin": {
     "name": "Echoin",
@@ -35246,16 +35243,15 @@
     "url": "/currencies/echoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x12fd...52d4d61"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x12fd19dac0fab61bed5e0f09091b470c452d4d61",
+      "https://ethplorer.io/address/0x12fd19dac0fab61bed5e0f09091b470c452d4d61"
+    ]
   },
   "Eco Value Coin": {
     "name": "Eco Value Coin",
@@ -35316,16 +35312,15 @@
     "url": "/currencies/ecog9coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc0ec...a21fd48"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc0ec8caec55f37d47fbfa595727418868a21fd48",
+      "https://ethplorer.io/address/0xc0ec8caec55f37d47fbfa595727418868a21fd48"
+    ]
   },
   "Ecobit": {
     "name": "Ecobit",
@@ -35395,16 +35390,15 @@
     "url": "/currencies/eden",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0586...1c629ce"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x05860d453c7974cbf46508c06cba14e211c629ce",
+      "https://ethplorer.io/address/0x05860d453c7974cbf46508c06cba14e211c629ce"
+    ]
   },
   "Edge": {
     "name": "Edge",
@@ -35451,16 +35445,15 @@
     "tags": [
       "Token",
       "Gambling",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0871...7f8e39c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Edgeless",
+      "https://ethplorer.io/address/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+    ],
+    "git": "https://github.com/edgeless-casino"
   },
   "Edgeware": {
     "name": "Edgeware",
@@ -35482,16 +35475,15 @@
     "url": "/currencies/edu-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf263...a874b7c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c",
+      "https://ethplorer.io/address/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c"
+    ]
   },
   "EduMetrix Coin": {
     "name": "EduMetrix Coin",
@@ -35512,16 +35504,15 @@
     "tags": [
       "Token",
       "Education",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc741...3bda091"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc741f06082aa47f93729070ad0dd95e223bda091",
+      "http://ethplorer.io/address/0xc741f06082aa47f93729070ad0dd95e223bda091"
+    ]
   },
   "Effect.AI": {
     "name": "Effect.AI",
@@ -35652,16 +35643,15 @@
     "url": "/currencies/egretia",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8e1b...3176e34"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
+      "https://ethplorer.io/address/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34"
+    ]
   },
   "Eight Hours": {
     "name": "Eight Hours",
@@ -35695,16 +35685,15 @@
     "url": "/currencies/elamachain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfb44...6b24668"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668",
+      "https://ethplorer.io/address/0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668"
+    ],
+    "git": "https://github.com/ElamaChain"
   },
   "Elastos": {
     "name": "Elastos",
@@ -35773,16 +35762,15 @@
     "url": "/currencies/electric-vehicle-zone",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7a93...ba9fa68"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
+      "https://ethplorer.io/address/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68"
+    ],
+    "git": "https://github.com/evztech/evz_contract"
   },
   "Electrify.Asia": {
     "name": "Electrify.Asia",
@@ -35791,16 +35779,15 @@
     "tags": [
       "Token",
       "Energy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd49f...b6e02b9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+      "https://ethplorer.io/address/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
+    ],
+    "git": "https://github.com/electrifyasia/"
   },
   "Electronero": {
     "name": "Electronero",
@@ -35863,16 +35850,15 @@
     "url": "/currencies/electrum-dark-eld",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x796e...235d4d8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x796e47b85a0d759f300f1de96a3583004235d4d8",
+      "https://ethplorer.io/address/0x796e47b85a0d759f300f1de96a3583004235d4d8"
+    ],
+    "git": "https://github.com/electrumdark/Electrum-dark-token"
   },
   "Elementeum": {
     "name": "Elementeum",
@@ -35983,16 +35969,16 @@
     "url": "/currencies/elitium",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6aB4...9C610Aa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+      "https://ethplorer.io/address/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+      "https://enjinx.io/eth/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa"
+    ]
   },
   "Ellaism": {
     "name": "Ellaism",
@@ -36080,16 +36066,15 @@
     "url": "/currencies/elysian",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa955...67db7f8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
+      "https://ethplorer.io/address/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8"
+    ],
+    "git": "https://github.com/Elysian-ELY/Smart-Contract"
   },
   "Emanate": {
     "name": "Emanate",
@@ -36206,16 +36191,15 @@
     "url": "/currencies/eminer",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x35b0...c5c1082"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x35b08722aa26be119c1608029ccbc976ac5c1082",
+      "https://ethplorer.io/address/0x35b08722aa26be119c1608029ccbc976ac5c1082"
+    ]
   },
   "Emirex Token": {
     "name": "Emirex Token",
@@ -36223,16 +36207,15 @@
     "url": "/currencies/emirex-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbdbC...daB9774"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+      "https://ethplorer.io/address/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774"
+    ]
   },
   "Emphy": {
     "name": "Emphy",
@@ -36308,16 +36291,17 @@
     "url": "/currencies/empty-set-dollar",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Rebase",
+      "Seigniorage",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x36f3...689d723"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+      "https://ethplorer.io/address/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
+    ]
   },
   "Emrals": {
     "name": "Emrals",
@@ -36494,16 +36478,15 @@
     "url": "/currencies/endor-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc528...5760a0f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc528c28fec0a90c083328bc45f587ee215760a0f",
+      "https://ethplorer.io/address/0xc528c28fec0a90c083328bc45f587ee215760a0f"
+    ],
+    "git": "https://github.com/EndorCoin"
   },
   "Endorsit": {
     "name": "Endorsit",
@@ -36661,16 +36644,15 @@
     "url": "/currencies/engine",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaf8a...21813bd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaf8a215e81faea7c180ce22b72483525121813bd",
+      "https://ethplorer.io/address/0xaf8a215e81faea7c180ce22b72483525121813bd"
+    ]
   },
   "Enigma": {
     "name": "Enigma",
@@ -36680,16 +36662,20 @@
       "Token",
       "Platform",
       "Privacy",
-      "Ethereum"
+      "Ethereum",
+      "Platform",
+      "Privacy",
+      "Token",
+      "Ethereum",
+      "Ethereum Contract",
+      "Ethereum",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0xf0ee...15a23e4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+      "https://ethplorer.io/address/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
+    ],
+    "git": "https://github.com/enigmampc"
   },
   "Enjin Coin": {
     "name": "Enjin Coin",
