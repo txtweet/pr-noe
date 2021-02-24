@@ -56351,16 +56351,15 @@
     "url": "/currencies/levolution",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0997...50ff13a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x09970aec766b6f3223aca9111555e99dc50ff13a",
+      "https://ethplorer.io/address/0x09970aec766b6f3223aca9111555e99dc50ff13a"
+    ],
+    "git": "https://github.com/LEVL-LLC"
   },
   "Libartysharetoken": {
     "name": "Libartysharetoken",
@@ -56369,16 +56368,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3553...30c5270"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x355376d6471e09a4ffca8790f50da625630c5270"
+    ],
+    "git": "https://github.com/Libartysharetoken/"
   },
   "Libera": {
     "name": "Libera",
@@ -56444,16 +56440,15 @@
     "url": "/currencies/libfx",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc0ea...2e661e7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc0ea83113038987d974fe667831a36e442e661e7",
+      "https://ethplorer.io/address/0xc0ea83113038987d974fe667831a36e442e661e7"
+    ],
+    "git": "https://github.com/libermx"
   },
   "LibreFreelencer": {
     "name": "LibreFreelencer",
@@ -56461,16 +56456,14 @@
     "url": "/currencies/librefreelencer",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x449e...cd4f9a3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://ethplorer.io/address/0x449efe48ad7cd423bab056276639f8120cd4f9a3"
+    ]
   },
   "Lido DAO Token": {
     "name": "Lido DAO Token",
@@ -56494,16 +56487,17 @@
     "url": "/currencies/lien",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "AMM",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xab37...aa7557e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+      "https://ethplorer.io/address/0xab37e1358b639fd877f015027bb62d3ddaa7557e"
+    ],
+    "git": "https://github.com/LienFinance"
   },
   "LifetionCoin": {
     "name": "LifetionCoin",
@@ -56601,16 +56595,15 @@
     "url": "/currencies/limestone-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x400b...d120538"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x400b1d8a7dd8C471026B2c8CBe1062b27d120538",
+      "https://ethplorer.io/address/0x400b1d8a7dd8C471026B2c8CBe1062b27d120538"
+    ]
   },
   "LimitSwap": {
     "name": "LimitSwap",
@@ -56618,16 +56611,15 @@
     "url": "/currencies/limitswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1712...321cd85"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1712aad2c773ee04bdc9114b32163c058321cd85",
+      "https://ethplorer.io/address/0x1712aad2c773ee04bdc9114b32163c058321cd85"
+    ]
   },
   "Limitless VIP": {
     "name": "Limitless VIP",
@@ -56686,16 +56678,22 @@
     "url": "/currencies/linear",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Decentralized exchange",
+      "Yield farming",
+      "DOT Ecosystem",
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3e9b...5011937"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "https://ethplorer.io/address/0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "https://bscscan.com/token/0x762539b45a1dcce3d36d080f74d1aed37844b878"
+    ]
   },
   "Linfinity": {
     "name": "Linfinity",
