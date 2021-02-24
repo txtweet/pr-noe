@@ -55410,16 +55410,15 @@
     "url": "/currencies/loa-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7458...71A006F"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7458fd786B2fe8CD801C0381f88b61C5071A006F",
+      "https://ethplorer.io/address/0x7458fd786B2fe8CD801C0381f88b61C5071A006F"
+    ],
+    "git": "https://github.com/loaprotocol"
   },
   "LOCIcoin": {
     "name": "LOCIcoin",
@@ -55464,16 +55463,15 @@
     "url": "/currencies/loltoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5978...BbD5171"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+      "https://ethplorer.io/address/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171"
+    ]
   },
   "LONG COIN": {
     "name": "LONG COIN",
@@ -55652,18 +55650,26 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "PoS",
+      "Platform",
+      "Enterprise solutions",
+      "DeFi",
+      "Government",
+      "Services",
+      "Identity",
+      "Staking",
+      "Yield farming",
+      "Coin",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "LTO-BDF",
-        "0x3db6...abf294d"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+      "https://explorer.binance.org/asset/LTO-BDF"
+    ],
+    "git": "https://github.com/legalthings"
   },
   "LUCY": {
     "name": "LUCY",
@@ -55687,16 +55693,15 @@
     "url": "/currencies/lukso",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xA8b9...ec0be6D"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
+      "https://ethplorer.io/address/0xA8b919680258d369114910511cc87595aec0be6D"
+    ],
+    "git": "https://github.com/lukso-network"
   },
   "LUXCoin": {
     "name": "LUXCoin",
@@ -55802,16 +55807,15 @@
       "Services",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4129...1af1d6a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a",
+      "https://ethplorer.io/address/0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a"
+    ],
+    "git": "https://github.com/laddernetwork"
   },
   "Lambda": {
     "name": "Lambda",
@@ -55843,16 +55847,15 @@
       "Platform",
       "Atomic Swaps",
       "Interoperability",
-      "Ethereum"
+      "Ethereum",
+      "Platform",
+      "Atomic Swaps",
+      "Interoperability",
+      "Smart Contracts",
+      "Token"
     ],
-    "forked_data": {
-      "block": [
-        "0xc27a...8356501"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [],
+    "git": "https://github.com/Lamden/"
   },
   "LanaCoin": {
     "name": "LanaCoin",
