@@ -55890,16 +55890,15 @@
     "url": "/currencies/lapis-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x97bd...08bec85"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x97bdd9fdfa0b1677a2a353848514d93c108bec85",
+      "https://ethplorer.io/address/0x97bdd9fdfa0b1677a2a353848514d93c108bec85"
+    ]
   },
   "Largo Coin": {
     "name": "Largo Coin",
@@ -55924,16 +55923,15 @@
     "url": "/currencies/latamcash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9205...e1e9979"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9205c049c231dda51bace0ba569f047e3e1e9979",
+      "https://ethplorer.io/address/0x9205c049c231dda51bace0ba569f047e3e1e9979"
+    ]
   },
   "Lattice Token": {
     "name": "Lattice Token",
@@ -55941,16 +55939,15 @@
     "url": "/currencies/lattice-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa393...715d092"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa393473d64d2F9F026B60b6Df7859A689715d092",
+      "https://ethplorer.io/address/0xa393473d64d2F9F026B60b6Df7859A689715d092"
+    ]
   },
   "LavaSwap": {
     "name": "LavaSwap",
@@ -55999,16 +55996,17 @@
     "url": "/currencies/lead-wallet",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1dd8...dacc4ce"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+      "https://bscscan.com/token/0x2ed9e96edd11a1ff5163599a66fb6f1c77fa9c66"
+    ],
+    "git": "https://github.com/leadwallet/LeadToken.git"
   },
   "Leadcoin": {
     "name": "Leadcoin",
@@ -56110,16 +56108,15 @@
     "url": "/currencies/legalblock",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd9af...33743d9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd9af2d11d788da0097076f4eb21bd1c5533743d9",
+      "https://ethplorer.io/address/0xd9af2d11d788da0097076f4eb21bd1c5533743d9"
+    ]
   },
   "LemoChain": {
     "name": "LemoChain",
@@ -56127,16 +56124,15 @@
     "url": "/currencies/lemochain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x60c2...32371d1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x60c24407d01782c2175d32fe7c8921ed732371d1",
+      "https://etherscan.io/address/0x60c24407d01782c2175d32fe7c8921ed732371d1"
+    ],
+    "git": "https://github.com/LemoFoundationLtd/"
   },
   "Lendhub": {
     "name": "Lendhub",
@@ -56159,16 +56155,15 @@
     "url": "/currencies/lendingblock",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0947...791a6b2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0947b0e6d821378805c9598291385ce7c791a6b2",
+      "https://ethplorer.io/address/0x0947b0e6d821378805c9598291385ce7c791a6b2"
+    ],
+    "git": "https://github.com/lendingblock"
   },
   "Lendroid Support Token": {
     "name": "Lendroid Support Token",
@@ -56267,16 +56262,15 @@
     "url": "/currencies/level01",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2616...0D8742a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+      "https://ethplorer.io/address/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a"
+    ],
+    "git": "https://github.com/Level01Technologies/LVX"
   },
   "LevelApp Token": {
     "name": "LevelApp Token",
