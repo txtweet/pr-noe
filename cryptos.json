@@ -60163,17 +60163,16 @@
     "url": "/currencies/mars-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "03122020",
-    "forked_data": {
-      "block": [
-        "0xedd8...e5e29f0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xedd8da5c20eb014e550008df3304213dde5e29f0",
+      "https://ethplorer.io/address/0xedd8da5c20eb014e550008df3304213dde5e29f0"
+    ]
   },
   "Marscoin": {
     "name": "Marscoin",
@@ -60349,16 +60348,15 @@
     "url": "/currencies/macpo",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x63bf...b36537b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x63bf0126c6c4d17bb33c362151759ec21b36537b",
+      "https://ethplorer.io/address/0x63bf0126c6c4d17bb33c362151759ec21b36537b"
+    ]
   },
   "Master Contract Token": {
     "name": "Master Contract Token",
@@ -60478,16 +60476,15 @@
       "Token",
       "Education",
       "Research",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0af4...a8f0c6a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+      "https://ethplorer.io/address/0x0af44e2784637218dd1d32a322d44e603a8f0c6a"
+    ],
+    "git": "https://github.com/matryx"
   },
   "Maverick Chain": {
     "name": "Maverick Chain",
@@ -60795,16 +60792,15 @@
       "Token",
       "Marketplace",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x814e...cdf7d26"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
+      "https://ethplorer.io/address/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26"
+    ],
+    "git": "https://github.com/measurabledatatoken"
   },
   "MeconCash": {
     "name": "MeconCash",
@@ -60812,16 +60808,15 @@
     "url": "/currencies/meconcash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa5e2...4637e78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa5e262ec733051b14b38901901a82f2684637e78",
+      "https://ethplorer.io/address/0xa5e262ec733051b14b38901901a82f2684637e78"
+    ],
+    "git": "https://github.com/mecon-coin?tab=repositories"
   },
   "Medalte": {
     "name": "Medalte",
@@ -60930,16 +60925,15 @@
     "tags": [
       "Token",
       "Health",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6618...0563dbE"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE",
+      "https://ethplorer.io/address/0x66186008c1050627f979d464eabb258860563dbe"
+    ],
+    "git": "https://github.com/MediShares"
   },
   "MedicCoin": {
     "name": "MedicCoin",
@@ -60960,16 +60954,15 @@
     "tags": [
       "Token",
       "Health",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x41db...2754de3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+      "https://ethplorer.io/address/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3"
+    ]
   },
   "Medicalveda": {
     "name": "Medicalveda",
@@ -60978,16 +60971,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xCBe7...b54482d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xCBe7142F5c16755D8683BA329EFA1ABF7b54482d"
+    ],
+    "git": "https://github.com/MedicalVeda/PHR"
   },
   "MediconnectUk": {
     "name": "MediconnectUk",
@@ -61011,16 +61001,15 @@
     "url": "/currencies/medium",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd24D...5743d87"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd24DFf6117936B6ff97108CF26c1dD8865743d87",
+      "https://ethplorer.io/address/0xd24DFf6117936B6ff97108CF26c1dD8865743d87"
+    ]
   },
   "Mega Lottery Services Global": {
     "name": "Mega Lottery Services Global",
@@ -61148,16 +61137,15 @@
     "url": "/currencies/membrana",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4eee...cb624c7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7",
+      "https://ethplorer.io/address/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7"
+    ],
+    "git": "https://github.com/membrana-io"
   },
   "Meme": {
     "name": "Meme",
