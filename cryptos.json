@@ -56731,16 +56731,15 @@
     "url": "/currencies/linkart",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6226...28031a1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6226caa1857afbc6dfb6ca66071eb241228031a1",
+      "https://ethplorer.io/address/0x6226caa1857afbc6dfb6ca66071eb241228031a1"
+    ],
+    "git": "https://github.com/linkart/"
   },
   "LinkBased": {
     "name": "LinkBased",
@@ -56783,16 +56782,15 @@
     "url": "/currencies/linkcoin-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9f54...a7382aa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa",
+      "https://ethplorer.io/address/0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa"
+    ]
   },
   "LinkEye": {
     "name": "LinkEye",
@@ -56800,16 +56798,15 @@
     "url": "/currencies/linkeye",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfa31...b756288"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfa3118b34522580c35ae27f6cf52da1dbb756288",
+      "https://ethplorer.io/address/0xfa3118b34522580c35ae27f6cf52da1dbb756288"
+    ],
+    "git": "https://github.com/LinkEyeOfficial"
   },
   "LinkToken": {
     "name": "LinkToken",
@@ -56848,16 +56845,15 @@
     "url": "/currencies/liquidity-dividends-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0417...5d4ddcf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0417912b3a7af768051765040a55bb0925d4ddcf",
+      "https://ethplorer.io/address/0x0417912b3a7af768051765040a55bb0925d4ddcf"
+    ],
+    "git": "https://github.com/carlsbad-sunshine/lid-contracts"
   },
   "Liquidity Network": {
     "name": "Liquidity Network",
@@ -56865,16 +56861,15 @@
     "url": "/currencies/liquidity-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xD29F...Ac3f8c4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+      "https://ethplorer.io/address/0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4"
+    ],
+    "git": "https://github.com/liquidity-network"
   },
   "Lisk": {
     "name": "Lisk",
@@ -56896,16 +56891,15 @@
     "url": "/currencies/lisk-machine-learning",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x25b6...ca022e3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3",
+      "https://ethplorer.io/address/0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3"
+    ],
+    "git": "https://github.com/GNYIO"
   },
   "Litbinex Coin": {
     "name": "Litbinex Coin",
@@ -57292,16 +57286,15 @@
     "url": "/currencies/litex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbc46...6c4b835"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+      "https://ethplorer.io/address/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835"
+    ]
   },
   "Lition": {
     "name": "Lition",
@@ -57310,18 +57303,16 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "LIT-099",
-        "0x763f...cc546b2"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+      "https://explorer.binance.org/asset/LIT-099"
+    ],
+    "git": "https://github.com/lition-blockchain"
   },
   "LivenPay": {
     "name": "LivenPay",
@@ -57329,16 +57320,15 @@
     "url": "/currencies/livenpay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc8ca...f085475"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc8cac7672f4669685817cf332a33eb249f085475",
+      "https://ethplorer.io/address/0xc8cac7672f4669685817cf332a33eb249f085475"
+    ],
+    "git": "https://github.com/livenpay"
   },
   "Livenodes Token": {
     "name": "Livenodes Token",
@@ -57559,16 +57549,15 @@
       "Token",
       "Hospitality",
       "Sharing Economy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5e33...d09446c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5e3346444010135322268a4630d2ed5f8d09446c",
+      "https://ethplorer.io/address/0x5e3346444010135322268a4630d2ed5f8d09446c"
+    ],
+    "git": "https://github.com/LockTrip"
   },
   "Loki": {
     "name": "Loki",
@@ -57627,16 +57616,15 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa4e8...5823db0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+      "http://ethplorer.io/address/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+    ],
+    "git": "https://github.com/loomnetwork"
   },
   "Loon Network": {
     "name": "Loon Network",
@@ -57662,16 +57650,15 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbbbb...c7aeafd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "https://ethplorer.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+    ],
+    "git": "https://github.com/loopring"
   },
   "Loopring [NEO]": {
     "name": "Loopring [NEO]",
@@ -57721,16 +57708,15 @@
     "url": "/currencies/lottonation",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3a73...1163644"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3a73F6156C4fBC71B8fDF38090A9D99401163644",
+      "https://ethplorer.io/address/0x3a73F6156C4fBC71B8fDF38090A9D99401163644"
+    ]
   },
   "Love Coin": {
     "name": "Love Coin",
@@ -57831,16 +57817,18 @@
     "url": "/currencies/lua-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Yield farming",
+      "AMM",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xB1f6...64121cC"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "https://ethplorer.io/address/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC"
+    ],
+    "git": "https://github.com/tomochain/luaswap"
   },
   "Lucky Block Network": {
     "name": "Lucky Block Network",
@@ -57947,18 +57935,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/ludena-protocol",
-    "forked_data": {
-      "block": [
-        "0xb296...B70a158"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb29663Aa4E2e81e425294193616c1B102B70a158",
+      "https://ethplorer.io/address/0xb29663Aa4E2e81e425294193616c1B102B70a158"
+    ]
   },
   "Ludos Protocol": {
     "name": "Ludos Protocol",
@@ -57966,16 +57952,15 @@
     "url": "/currencies/ludos",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe64b...b4975f5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5",
+      "https://ethplorer.io/address/0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5"
+    ]
   },
   "Lukiu": {
     "name": "Lukiu",
@@ -58017,16 +58002,15 @@
     "url": "/currencies/lukki-operating-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6556...079800a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6556d2ec4d96da39cf75cbe50d58fae90079800a",
+      "https://ethplorer.io/address/0x6556d2ec4d96da39cf75cbe50d58fae90079800a"
+    ]
   },
   "Lumos": {
     "name": "Lumos",
@@ -58110,16 +58094,15 @@
     "url": "/currencies/lunchmoney",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x66fd...0b4851f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+      "https://ethplorer.io/address/0x66fd97a78d8854fec445cd1c80a07896b0b4851f"
+    ],
+    "git": "https://github.com/LunchMoneyToken/LunchMoney"
   },
   "Lunes": {
     "name": "Lunes",
@@ -58138,16 +58121,15 @@
     "url": "/currencies/lung-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xee0f...82576b0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xee0f286776639cd363da810daf3e0623f82576b0",
+      "https://ethplorer.io/address/0xee0f286776639cd363da810daf3e0623f82576b0"
+    ],
+    "git": "https://github.com/LungProtocol"
   },
   "Lunyr": {
     "name": "Lunyr",
@@ -58158,16 +58140,14 @@
       "Media",
       "Content Creation",
       "Crowdsourcing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfa05...e6567D9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Lunyr"
+    ],
+    "git": "https://github.com/Lunyr"
   },
   "Lux Bio Cell": {
     "name": "Lux Bio Cell",
@@ -58175,16 +58155,15 @@
     "url": "/currencies/lux-bio-cell",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xffe5...cf249eb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xffe510a92434a0df346c5e72a3494b043cf249eb",
+      "https://ethplorer.io/address/0xffe510a92434a0df346c5e72a3494b043cf249eb"
+    ],
+    "git": "https://github.com/DigitalBioExchange/lbxcToken"
   },
   "Lykke": {
     "name": "Lykke",
@@ -58206,16 +58185,15 @@
     "tags": [
       "Token",
       "Health",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc690...fdfc8c5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
+      "https://ethplorer.io/address/0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5"
+    ]
   },
   "Lynx": {
     "name": "Lynx",
@@ -58254,16 +58232,15 @@
     "url": "/currencies/mach-project",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xB119...87F00BE"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xB119Ce94D098C18fe380904c24e358bd887F00BE",
+      "https://ethplorer.io/address/0xB119Ce94D098C18fe380904c24e358bd887F00BE"
+    ]
   },
   "MANTRA DAO": {
     "name": "MANTRA DAO",
@@ -58274,16 +58251,16 @@
       "DeFi",
       "DAO",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2bae...3f0c7d2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+      "https://ethplorer.io/address/0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+    ],
+    "git": "https://github.com/Mantradao"
   },
   "MANY": {
     "name": "MANY",
@@ -58324,16 +58301,16 @@
     "url": "/currencies/map-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9e97...fd728e4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
+      "https://ethplorer.io/address/0x9e976f211daea0d652912ab99b0dc21a7fd728e4"
+    ],
+    "git": "https://github.com/mapprotocol"
   },
   "MAPS": {
     "name": "MAPS",
@@ -58464,16 +58441,16 @@
     "url": "/currencies/math",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x08d9...927dd30"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+      "https://ethplorer.io/address/0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
+    ],
+    "git": "https://github.com/mathwallet"
   },
   "MAX Exchange Token": {
     "name": "MAX Exchange Token",
@@ -58482,16 +58459,15 @@
     "tags": [
       "Token",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe797...02c73e7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7",
+      "https://ethplorer.io/address/0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7"
+    ]
   },
   "MB8 Coin": {
     "name": "MB8 Coin",
@@ -58533,16 +58509,16 @@
     "url": "/currencies/mcdex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4e35...ba4ce42"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "https://ethplorer.io/address/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+    ],
+    "git": "https://github.com/mcdexio"
   },
   "MCO": {
     "name": "MCO",
@@ -58551,16 +58527,15 @@
     "tags": [
       "Token",
       "Medium of Exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb63b...8d1d83d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Monaco",
+      "https://ethplorer.io/address/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+    ]
   },
   "MCOBIT": {
     "name": "MCOBIT",
@@ -58595,16 +58570,15 @@
     "tags": [
       "Token",
       "Health",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd326...4fcab4c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd32641191578ea9b208125ddd4ec5e7b84fcab4c",
+      "https://ethplorer.io/address/0xd32641191578ea9b208125ddd4ec5e7b84fcab4c"
+    ]
   },
   "MDtoken": {
     "name": "MDtoken",
@@ -58741,16 +58715,15 @@
     "url": "/currencies/mesefa",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2720...723A2f3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x27201232579491Ce9b116Ac6F37D354Cc723A2f3",
+      "https://ethplorer.io/address/0x27201232579491Ce9b116Ac6F37D354Cc723A2f3"
+    ]
   },
   "MESG": {
     "name": "MESG",
@@ -58792,16 +58765,15 @@
     "url": "/currencies/mex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2ba6...7da5fd8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2ba6b1e4424e19816382d15937739959f7da5fd8",
+      "https://ethplorer.io/address/0x2ba6b1e4424e19816382d15937739959f7da5fd8"
+    ]
   },
   "MEXC Token": {
     "name": "MEXC Token",
@@ -58811,16 +58783,15 @@
       "Token",
       "Hardware",
       "Research",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7de2...7bde276"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7de2d123042994737105802d2abd0a10a7bde276",
+      "https://ethplorer.io/address/0x7de2d123042994737105802d2abd0a10a7bde276"
+    ]
   },
   "MFCoin": {
     "name": "MFCoin",
@@ -58962,17 +58933,15 @@
     "url": "/currencies/mm-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xa283...e0fd304"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304"
+    ],
+    "git": "https://github.com/mushroomsforest/deployment"
   },
   "MMOCoin": {
     "name": "MMOCoin",
@@ -59171,16 +59140,15 @@
     "url": "/currencies/monnos",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5388...4a11959"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x53884b61963351C283118a8E1Fc05BA464a11959",
+      "https://ethplorer.io/address/0x53884b61963351C283118a8E1Fc05BA464a11959"
+    ],
+    "git": "https://github.com/monnos/"
   },
   "MORELO": {
     "name": "MORELO",
@@ -59236,16 +59204,15 @@
     "url": "/currencies/motiv-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4028...fbb706c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x40284109c3309a7c3439111bfd93bf5e0fbb706c",
+      "https://ethplorer.io/address/0x40284109c3309a7c3439111bfd93bf5e0fbb706c"
+    ]
   },
   "MP3": {
     "name": "MP3",
@@ -59406,16 +59373,15 @@
     "url": "/currencies/mvl",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa849...b18dc71"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+      "https://ethplorer.io/address/0xa849eaae994fb86afa73382e9bd88c2b6b18dc71"
+    ],
+    "git": "https://github.com/mvlchain/mvltoken"
   },
   "MX Token": {
     "name": "MX Token",
@@ -59426,16 +59392,15 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x11ee...f797f36"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+      "https://ethplorer.io/address/0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+    ]
   },
   "MXC": {
     "name": "MXC",
@@ -59445,16 +59410,16 @@
       "Token",
       "IoT",
       "Substrate",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5ca3...9a8386e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+      "https://ethplorer.io/address/0x5ca381bbfb58f0092df149bd3d243b08b9a8386e"
+    ]
   },
   "MYCE": {
     "name": "MYCE",
@@ -59542,16 +59507,15 @@
     "tags": [
       "Token",
       "Art",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfec0...49c2c7e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+      "https://ethplorer.io/address/0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    ],
+    "git": "https://github.com/cofoundit/cfi-maecenas"
   },
   "Mafia.Network": {
     "name": "Mafia.Network",
@@ -59697,18 +59661,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "18122020",
     "git": "https://github.com/mahadao",
-    "forked_data": {
-      "block": [
-        "0xb4d9...45bc365"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365",
+      "https://ethplorer.io/address/0xb4d930279552397bba2ee473229f89ec245bc365"
+    ]
   },
   "MaidSafeCoin": {
     "name": "MaidSafeCoin",
@@ -59731,16 +59693,15 @@
     "url": "/currencies/maincoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9f0f...0e4d5bf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+      "https://ethplorer.io/address/0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf"
+    ],
+    "git": "https://github.com/main-coin"
   },
   "Mainframe": {
     "name": "Mainframe",
@@ -59829,16 +59790,19 @@
       "Token",
       "Store of Value",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Polychain Capital Portfolio",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9f8f...3a579a2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Maker",
+      "https://ethplorer.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "https://blockchair.com/ethereum/erc-20/token/0xda27b988921a0659bceac1abd4b43a295c8296f4",
+      "https://eth.tokenview.com/en/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+    ]
   },
   "Maki Finance": {
     "name": "Maki Finance",
@@ -60005,16 +59969,15 @@
     "url": "/currencies/mandi-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5aA4...3322764"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764",
+      "https://ethplorer.io/address/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764"
+    ]
   },
   "MangoChain": {
     "name": "MangoChain",
