@@ -61154,16 +61154,16 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd552...6f0affe"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd5525d397898e5502075ea5e830d8914f6f0affe",
+      "https://ethplorer.io/address/0xd5525d397898e5502075ea5e830d8914f6f0affe"
+    ]
   },
   "Memetic / PepeCoin": {
     "name": "Memetic / PepeCoin",
@@ -61194,16 +61194,15 @@
     "url": "/currencies/menapay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3810...8cecfca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3810a4ddf41e586fa0dba1463a7951b748cecfca",
+      "https://ethplorer.io/address/0x3810a4ddf41e586fa0dba1463a7951b748cecfca"
+    ],
+    "git": "https://github.com/menapay/"
   },
   "Menlo One": {
     "name": "Menlo One",
@@ -61245,16 +61244,15 @@
     "url": "/currencies/merculet",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8a77...869c86d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8a77e40936bbc27e80e9a3f526368c967869c86d",
+      "https://ethplorer.io/address/0x8a77e40936bbc27e80e9a3f526368c967869c86d"
+    ],
+    "git": "https://github.com/Merculet"
   },
   "Mercurity Swap Protocol": {
     "name": "Mercurity Swap Protocol",
@@ -61337,16 +61335,15 @@
     "url": "/currencies/meridian-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9517...981BD6F"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+      "https://ethplorer.io/address/0x95172ccBe8344fecD73D0a30F54123652981BD6F"
+    ],
+    "git": "https://github.com/cryptopinions3/meridian"
   },
   "MesChain": {
     "name": "MesChain",
@@ -61382,16 +61379,17 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Three Arrows Capital Portfolio",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa3Be...5E9AcD2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+      "https://ethplorer.io/token/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2"
+    ]
   },
   "MetaMorph": {
     "name": "MetaMorph",
@@ -61460,16 +61458,14 @@
       "Token",
       "Medium of Exchange",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF433...F30355e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    ]
   },
   "Metaprediction": {
     "name": "Metaprediction",
@@ -61626,16 +61622,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa959...0625e75"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa9598333b99d14d90bc81cad8af82c4c70625e75"
+    ]
   },
   "Metric": {
     "name": "Metric",
@@ -61715,16 +61708,15 @@
       "DeFi",
       "Payments",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa3d5...f0ece4e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+      "https://ethplorer.io/address/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
+    ],
+    "git": "https://github.com/autonomoussoftware"
   },
   "Mettalex": {
     "name": "Mettalex",
@@ -61778,16 +61770,15 @@
       "Token",
       "Asset management",
       "DApp",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8b1f...d13c349"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+      "https://ethplorer.io/address/0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
+    ],
+    "git": "https://github.com/micro-money/prime"
   },
   "MicroStrategy tokenized stock FTX": {
     "name": "MicroStrategy tokenized stock FTX",
@@ -61806,16 +61797,15 @@
     "url": "/currencies/micromines",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbe6c...45fee6d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d",
+      "https://ethplorer.io/address/0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d"
+    ],
+    "git": "https://github.com/micromines/"
   },
   "Midas": {
     "name": "Midas",
@@ -61868,16 +61858,15 @@
     "url": "/currencies/midasprotocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x23cc...f832430"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x23ccc43365d9dd3882eab88f43d515208f832430",
+      "https://etherscan.io/address/0x23ccc43365d9dd3882eab88f43d515208f832430"
+    ]
   },
   "MileVerse": {
     "name": "MileVerse",
@@ -61885,16 +61874,14 @@
     "url": "/currencies/mileverse",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5819...CE2D6f7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7"
+    ]
   },
   "MilliMeter": {
     "name": "MilliMeter",
@@ -61902,16 +61889,15 @@
     "url": "/currencies/millimeter",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xC3c2...7eF1a63"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC3c221fE28c33814c28c822b631fd76047eF1a63",
+      "https://ethplorer.io/address/0xC3c221fE28c33814c28c822b631fd76047eF1a63"
+    ],
+    "git": "https://github.com/idnd-youngmin/Millimeter.git"
   },
   "MiloCoin": {
     "name": "MiloCoin",
@@ -62078,16 +62064,15 @@
     "url": "/currencies/miniswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4d95...7db44ec"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
+      "https://ethplorer.io/address/0x4d953cf077c0c95ba090226e59a18fcf97db44ec"
+    ],
+    "git": "https://github.com/MiniswapOrg"
   },
   "Mining Core Coin": {
     "name": "Mining Core Coin",
@@ -62214,17 +62199,16 @@
     "url": "/currencies/mirror-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0x09a3...ff2E608"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608"
+    ],
+    "git": "https://github.com/Mirror-Protocol/eth-web-app"
   },
   "Mirrored Alibaba": {
     "name": "Mirrored Alibaba",
@@ -62315,18 +62299,16 @@
       "Token",
       "Ethereum",
       "Mirror",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/Mirror-Protocol/mirror-web-app",
-    "forked_data": {
-      "block": [
-        "0x59A9...2653442"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+      "https://ethplorer.io/address/0x59A921Db27Dd6d4d974745B7FfC5c33932653442"
+    ]
   },
   "Mirrored Invesco QQQ Trust": {
     "name": "Mirrored Invesco QQQ Trust",
@@ -62336,18 +62318,16 @@
       "Token",
       "Ethereum",
       "Mirror",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/mirror-protocol",
-    "forked_data": {
-      "block": [
-        "0x13B0...2F57d15"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+      "https://ethplorer.io/address/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15"
+    ]
   },
   "Mirrored Microsoft": {
     "name": "Mirrored Microsoft",
@@ -62384,18 +62364,16 @@
       "Token",
       "Ethereum",
       "Mirror",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/Mirror-Protocol/mirror-web-app",
-    "forked_data": {
-      "block": [
-        "0xC8d6...a0F9DCD"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
+      "https://ethplorer.io/address/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD"
+    ]
   },
   "Mirrored ProShares VIX": {
     "name": "Mirrored ProShares VIX",
@@ -62405,18 +62383,16 @@
       "Mirror",
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "18122020",
     "git": "https://github.com/mirror-protocol",
-    "forked_data": {
-      "block": [
-        "0xf72F...533fc86"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+      "https://ethplorer.io/address/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86"
+    ]
   },
   "Mirrored Tesla": {
     "name": "Mirrored Tesla",
@@ -62454,18 +62430,16 @@
       "Token",
       "Ethereum",
       "Mirror",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/mirror-protocol",
-    "forked_data": {
-      "block": [
-        "0xEdb0...D78CCA9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+      "https://ethplorer.io/address/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9"
+    ]
   },
   "Mirrored United States Oil Fund": {
     "name": "Mirrored United States Oil Fund",
@@ -62502,18 +62476,16 @@
       "Token",
       "Ethereum",
       "Mirror",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/mirror-protocol",
-    "forked_data": {
-      "block": [
-        "0x1d35...D91F373"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+      "https://ethplorer.io/address/0x1d350417d9787E000cc1b95d70E9536DcD91F373"
+    ]
   },
   "Mirrored iShares Silver Trust": {
     "name": "Mirrored iShares Silver Trust",
@@ -62547,16 +62519,15 @@
     "url": "/currencies/misbloc",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x84c7...06da824"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
+      "https://ethplorer.io/address/0x84c722e6f1363e8d5c6db3ea600bef9a006da824"
+    ]
   },
   "Mithril": {
     "name": "Mithril",
@@ -62568,18 +62539,16 @@
       "Content Creation",
       "Smart Contracts",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "MITH-C76",
-        "0x3893...78310bb"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+      "https://explorer.binance.org/asset/MITH-C76"
+    ],
+    "git": "https://github.com/mithio/mithril-smart-contract"
   },
   "Mithril Share": {
     "name": "Mithril Share",
@@ -62602,16 +62571,15 @@
     "url": "/currencies/mixmarvel",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d28...a4d0429"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d285f735998f36631f678ff41fb56a10a4d0429",
+      "https://ethplorer.io/address/0x5d285f735998f36631f678ff41fb56a10a4d0429"
+    ]
   },
   "MixTrust": {
     "name": "MixTrust",
@@ -62781,16 +62749,15 @@
       "Media",
       "Gaming",
       "Entertainment",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4039...557F212"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212",
+      "https://ethplorer.io/address/0x40395044Ac3c0C57051906dA938B54BD6557F212"
+    ]
   },
   "Mobilian Coin": {
     "name": "Mobilian Coin",
@@ -62798,16 +62765,15 @@
     "url": "/currencies/mobilian-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaf80...856d3e6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaf80951201a0eff85a0fd3adf4c7043db856d3e6",
+      "https://ethplorer.io/address/0xaf80951201a0eff85a0fd3adf4c7043db856d3e6"
+    ]
   },
   "MobilinkToken": {
     "name": "MobilinkToken",
@@ -62952,16 +62918,15 @@
     "url": "/currencies/modex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4bce...21d7438"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438",
+      "https://ethplorer.io/address/0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438"
+    ]
   },
   "ModiHost": {
     "name": "ModiHost",
@@ -62987,16 +62952,15 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x51db...c8415bd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+      "https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+    ],
+    "git": "https://github.com/moedabank"
   },
   "Mogu": {
     "name": "Mogu",
@@ -63004,16 +62968,15 @@
     "url": "/currencies/mogu",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbdec...26d5087"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbdec45952b5e234eddc2981b43eed360826d5087",
+      "https://ethplorer.io/address/0xbdec45952b5e234eddc2981b43eed360826d5087"
+    ]
   },
   "Moin": {
     "name": "Moin",
@@ -63096,16 +63059,15 @@
     "tags": [
       "Token",
       "Technology",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6534...ab8ac0d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x653430560be843c4a3d143d0110e896c2ab8ac0d",
+      "https://ethplorer.io/address/0x653430560be843c4a3d143d0110e896c2ab8ac0d"
+    ]
   },
   "Momentum": {
     "name": "Momentum",
@@ -63212,17 +63174,16 @@
     "url": "/currencies/monavale",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0x275f...2D9412A"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A"
+    ],
+    "git": "https://github.com/DIGITALAX/staking/blob/main/contracts/MONA.sol"
   },
   "Monero": {
     "name": "Monero",
@@ -63303,16 +63264,15 @@
       "Marketplace",
       "Reputation",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaf4d...0631f16"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+      "https://ethplorer.io/address/0xaf4dce16da2877f8c9e00544c93b62ac40631f16"
+    ],
+    "git": "https://github.com/monetha"
   },
   "Money Plant Token": {
     "name": "Money Plant Token",
@@ -63583,16 +63543,15 @@
       "Token",
       "Services",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaaaf...977e73a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/TokenCard",
+      "https://ethplorer.io/address/0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
+    ]
   },
   "Monster Slayer Finance": {
     "name": "Monster Slayer Finance",
@@ -63785,16 +63744,15 @@
     "url": "/currencies/moontools",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x260e...cf56a56"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
+      "https://ethplorer.io/address/0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56"
+    ]
   },
   "Mooncoin": {
     "name": "Mooncoin",
@@ -63817,16 +63775,15 @@
       "Token",
       "DeFi",
       "Staking",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1ad6...5783c01"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x1ad606adde97c0c28bd6ac85554176bc55783c01",
+      "https://ethplorer.io/address/0x1ad606adde97c0c28bd6ac85554176bc55783c01"
+    ]
   },
   "Moozicore": {
     "name": "Moozicore",
@@ -63923,16 +63880,15 @@
     "url": "/currencies/morpher",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6369...dd4aa38"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38",
+      "https://ethplorer.io/address/0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
+    ],
+    "git": "https://github.com/Morpher-io"
   },
   "Morpheus Labs": {
     "name": "Morpheus Labs",
@@ -63942,16 +63898,15 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4a52...58d1db6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+      "https://ethplorer.io/address/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
+    ],
+    "git": "https://github.com/Morpheuslabs-io"
   },
   "Morpheus.Network": {
     "name": "Morpheus.Network",
@@ -63961,16 +63916,15 @@
       "Token",
       "Logistics",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7b0c...44056c8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7b0c06043468469967dba22d1af33d77d44056c8",
+      "https://ethplorer.io/address/0x7b0c06043468469967dba22d1af33d77d44056c8"
+    ],
+    "git": "https://github.com/MorpheusNetwork"
   },
   "Moss Coin": {
     "name": "Moss Coin",
@@ -63978,16 +63932,15 @@
     "url": "/currencies/moss-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x865e...d034e68"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x865ec58b06bf6305b886793aa20a2da31d034e68",
+      "https://ethplorer.io/address/0x865ec58b06bf6305b886793aa20a2da31d034e68"
+    ],
+    "git": "https://github.com/realityreflection/MossCoin"
   },
   "MotaCoin": {
     "name": "MotaCoin",
@@ -64148,16 +64101,15 @@
       "Token",
       "Content Creation",
       "Crowdfunding",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3b58...d603e5f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3b58c52C03ca5Eb619EBa171091c86C34d603e5f",
+      "https://ethplorer.io/address/0x3b58c52C03ca5Eb619EBa171091c86C34d603e5f"
+    ],
+    "git": "https://github.com/mcicoin/"
   },
   "MultiCoinCasino": {
     "name": "MultiCoinCasino",
@@ -64176,18 +64128,16 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "MTV-4C6",
-        "0x8aa6...5D97eF1"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
+      "https://explorer.binance.org/asset/MTV-4C6"
+    ]
   },
   "Multicoin": {
     "name": "Multicoin",
@@ -64220,16 +64170,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8a6f...a7e7018"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018",
+      "https://ethplorer.io/address/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018"
+    ],
+    "git": "https://github.com/Multiplier-Finance"
   },
   "Muse": {
     "name": "Muse",
@@ -64237,16 +64186,15 @@
     "url": "/currencies/muse",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb6ca...ef1fc81"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+    ],
+    "git": "https://github.com/verynifty"
   },
   "MustangCoin": {
     "name": "MustangCoin",
@@ -64369,16 +64317,15 @@
       "Token",
       "Asset management",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d60...135e0bc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+      "https://ethplorer.io/address/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc"
+    ],
+    "git": "https://github.com/MyBitFoundation/MyBitDapp"
   },
   "MyDexPay": {
     "name": "MyDexPay",
@@ -64470,16 +64417,15 @@
     "url": "/currencies/mytoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9b4e...71b37cc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+      "https://ethplorer.io/address/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc"
+    ]
   },
   "MyWish": {
     "name": "MyWish",
@@ -64520,16 +64466,17 @@
       "Token",
       "Platform",
       "Distributed Computing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa645...94B0A71"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+      "https://ethplorer.io/address/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+      "https://etherscan.io/token/0xa645264C5603E96c3b0B078cdab68733794B0A71",
+      "https://ethplorer.io/address/0xa645264C5603E96c3b0B078cdab68733794B0A71"
+    ],
+    "git": "https://github.com/MysteriumNetwork"
   },
   "Mythic Finance": {
     "name": "Mythic Finance",
@@ -64557,18 +64504,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/N3RD-FINANCE/n3rd-finance-contracts",
-    "forked_data": {
-      "block": [
-        "0x32c8...39e4eee"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x32c868f6318d6334b2250f323d914bc2239e4eee"
+    ]
   },
   "NAGA": {
     "name": "NAGA",
@@ -64578,16 +64522,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x72dd...88cf131"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+      "https://ethplorer.io/address/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131"
+    ]
   },
   "NANJCOIN": {
     "name": "NANJCOIN",
@@ -64619,16 +64562,16 @@
     "url": "/currencies/ndn-link",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6ec4...ca35382"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6ec47a178a9d50d4ec4683003d8324f19ca35382",
+      "https://ethplorer.io/address/0x6ec47a178a9d50d4ec4683003d8324f19ca35382"
+    ]
   },
   "NEAR Protocol": {
     "name": "NEAR Protocol",
@@ -64682,16 +64625,15 @@
     "tags": [
       "Token",
       "Oracles",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x04ab...4ddc74c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x04abeda201850ac0124161f037efd70c74ddc74c",
+      "https://ethplorer.io/address/0x04abeda201850ac0124161f037efd70c74ddc74c"
+    ],
+    "git": "https://github.com/NEST-Protocol"
   },
   "NEXT": {
     "name": "NEXT",
@@ -64701,16 +64643,15 @@
       "Token",
       "Marketplace",
       "Centralized exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF292...D707548"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xF29226914595052a04F5AFbe6410D0C3eD707548",
+      "https://ethplorer.io/address/0xF29226914595052a04F5AFbe6410D0C3eD707548"
+    ]
   },
   "NEXT.coin": {
     "name": "NEXT.coin",
@@ -64755,18 +64696,17 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "17122020",
     "git": "https://github.com/NFTLootBox/contracts",
-    "forked_data": {
-      "block": [
-        "0x7b3D...B04F935"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7b3D36Eb606f873A75A6aB68f8c999848B04F935",
+      "https://ethplorer.io/address/0x7b3D36Eb606f873A75A6aB68f8c999848B04F935"
+    ]
   },
   "NFTX": {
     "name": "NFTX",
@@ -64877,16 +64817,15 @@
     "url": "/currencies/nnb-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb66a...03efb51"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb66a2131a6b840dd020151f80723caed603efb51",
+      "https://ethplorer.io/address/0xb66a2131a6b840dd020151f80723caed603efb51"
+    ]
   },
   "NOIA Network": {
     "name": "NOIA Network",
@@ -65061,18 +65000,18 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Binance"
+      "Binance",
+      "Binance Chain",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "NOW-E68",
-        "0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+      "https://explorer.binance.org/asset/NOW-E68",
+      "https://explorer.binance.org/asset/NOW-E68"
+    ],
+    "git": "https://github.com/ChangeNow-io"
   },
   "NPCoin": {
     "name": "NPCoin",
@@ -65190,16 +65129,15 @@
       "Token",
       "DeFi",
       "Insurance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd7c4...9d4cf3b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+      "https://ethplorer.io/address/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+    ],
+    "git": "https://github.com/NexusMutual"
   },
   "NaPoleonX": {
     "name": "NaPoleonX",
@@ -65304,16 +65242,14 @@
     "url": "/currencies/naka-bodhi-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x09Cc...37138b8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x09Ccd2DA5dCDd0510268d4979e792381337138b8"
+    ]
   },
   "Name Changing Token": {
     "name": "Name Changing Token",
@@ -65352,16 +65288,15 @@
     "url": "/currencies/nantrade",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb393...b8a0212"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb393cd041afc1aca4c380c663793fe2c7b8a0212",
+      "https://ethplorer.io/address/0xb393cd041afc1aca4c380c663793fe2c7b8a0212"
+    ]
   },
   "Nano": {
     "name": "Nano",
@@ -65657,18 +65592,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/nfupio/token",
-    "forked_data": {
-      "block": [
-        "0x26CB...b17bBF0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x26CBC7008cD879f4B63B69a915378f2D9b17bBF0",
+      "https://ethplorer.io/token/0x26CBC7008cD879f4B63B69a915378f2D9b17bBF0"
+    ]
   },
   "Natus Vincere Fan Token": {
     "name": "Natus Vincere Fan Token",
@@ -65854,16 +65787,15 @@
       "DeFi",
       "Payments",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcc80...eb97a5e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+      "https://ethplorer.io/address/0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
+    ]
   },
   "Neeo": {
     "name": "Neeo",
@@ -65891,16 +65823,15 @@
     "url": "/currencies/neeva-defi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x38f7...d1d1db3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3",
+      "https://ethplorer.io/address/0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3"
+    ]
   },
   "Nekonium": {
     "name": "Nekonium",
@@ -65944,16 +65875,15 @@
     "url": "/currencies/neoworld-cash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4b94...6383b75"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4b94c8567763654101f690cf4d54957206383b75",
+      "https://ethplorer.io/token/0x4b94c8567763654101f690cf4d54957206383b75"
+    ]
   },
   "Nerva": {
     "name": "Nerva",
@@ -66008,16 +65938,15 @@
     "url": "/currencies/nestree",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x65cc...3ca6a0c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
+      "https://ethplorer.io/address/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
+    ]
   },
   "NetCoin": {
     "name": "NetCoin",
