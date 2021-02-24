@@ -79453,16 +79453,16 @@
     "url": "/currencies/robonomics-web-services",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x08ad...ab97802"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+      "https://ethplorer.io/address/0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802"
+    ]
   },
   "Robonomics.network": {
     "name": "Robonomics.network",
@@ -79470,16 +79470,16 @@
     "url": "/currencies/robonomics-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7de9...7061cb7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+      "https://ethplorer.io/address/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"
+    ],
+    "git": "https://github.com/airalab"
   },
   "Robotina": {
     "name": "Robotina",
@@ -79511,16 +79511,15 @@
     "url": "/currencies/rocket-pool",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb4ef...300bd93"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93",
+      "https://ethplorer.io/address/0xb4efd85c19999d84251304bda99e90b92300bd93"
+    ],
+    "git": "https://github.com/rocket-pool/rocketpool"
   },
   "Rootkit Finance": {
     "name": "Rootkit Finance",
@@ -79570,16 +79569,15 @@
     "url": "/currencies/rotharium",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3fd8...5fb8bc8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3fd8f39a962efda04956981c31ab89fab5fb8bc8",
+      "https://ethplorer.io/address/0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+    ],
+    "git": "https://github.com/CryptoFutureGmbH/RothariumToken"
   },
   "Roti Bank Coin": {
     "name": "Roti Bank Coin",
@@ -79606,16 +79604,18 @@
     "url": "/currencies/rotten",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Memes",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xD047...75ae9E2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+      "https://ethplorer.io/address/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2"
+    ]
   },
   "Router Protocol": {
     "name": "Router Protocol",
@@ -79663,16 +79663,15 @@
     "url": "/currencies/rozeus",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe55c...357ed92"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe55cc44c0cf9cede2d68f9432cbeeafa6357ed92",
+      "https://ethplorer.io/address/0xe55cc44c0cf9cede2d68f9432cbeeafa6357ed92"
+    ],
+    "git": "https://github.com/RozeusBlockChain"
   },
   "Rubic": {
     "name": "Rubic",
@@ -79680,16 +79679,15 @@
     "url": "/currencies/rubic",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa4ee...dcfa3e3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+      "https://ethplorer.io/address/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
+    ],
+    "git": "https://github.com/Cryptorubic/rubic_frontend"
   },
   "Rubies": {
     "name": "Rubies",
@@ -79830,16 +79828,15 @@
       "Token",
       "Platform",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf278...424ace2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf278c1ca969095ffddded020290cf8b5c424ace2",
+      "https://ethplorer.io/address/0xf278c1ca969095ffddded020290cf8b5c424ace2"
+    ],
+    "git": "https://github.com/RuffNotes"
   },
   "Rug": {
     "name": "Rug",
@@ -79941,18 +79938,17 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "IDRTB-178",
-        "0x998F...bA5b48A"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+      "https://explorer.binance.org/asset/IDRTB-178",
+      "https://explorer.binance.org/asset/IDRTB-178"
+    ],
+    "git": "https://github.com/rupiah-token"
   },
   "Ruze Finance": {
     "name": "Ruze Finance",
@@ -79992,16 +79988,16 @@
     "url": "/currencies/s-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8a6A...B275ce0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+      "https://ethplorer.io/address/0x8a6ACA71A218301c7081d4e96D64292D3B275ce0"
+    ]
   },
   "S4FE": {
     "name": "S4FE",
@@ -80009,16 +80005,19 @@
     "url": "/currencies/s4fe",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Platform",
+      "Enterprise solutions",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaec7...f2ce48a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://www.s4fe.org/transactions",
+      "https://etherscan.io/token/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+      "https://ethplorer.io/address/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a"
+    ],
+    "git": "https://github.com/s4fe-io"
   },
   "SAFE DEAL": {
     "name": "SAFE DEAL",
@@ -80058,16 +80057,15 @@
       "Token",
       "Platform",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4156...2000581"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
+      "https://ethplorer.io/address/0x4156d3342d5c385a87d264f90653733592000581"
+    ]
   },
   "SBank": {
     "name": "SBank",
@@ -80230,16 +80228,15 @@
     "url": "/currencies/senso",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba6d...ecc9a69"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1",
+      "https://etherscan.io/token/0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1"
+    ]
   },
   "SERGS": {
     "name": "SERGS",
@@ -80294,16 +80291,15 @@
     "url": "/currencies/shake",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6006...1f96189"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
+      "https://ethplorer.io/address/0x6006FC2a849fEdABa8330ce36F5133DE01F96189"
+    ]
   },
   "SHENG": {
     "name": "SHENG",
@@ -80311,16 +80307,15 @@
     "url": "/currencies/sheng",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x22ef...fe66595"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x22ef3753e3658e81d5a0d0889ce078178fe66595",
+      "https://ethplorer.io/address/0x22ef3753e3658e81d5a0d0889ce078178fe66595"
+    ]
   },
   "SHIBA INU": {
     "name": "SHIBA INU",
@@ -80488,16 +80483,15 @@
       "Token",
       "Platform",
       "Distributed Computing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x68d5...0528d25"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+      "https://ethplorer.io/address/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"
+    ],
+    "git": "https://github.com/sirin-labs"
   },
   "SIX": {
     "name": "SIX",
@@ -80521,17 +80515,16 @@
       "Smart Contracts",
       "Staking",
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "sawBirth": "01122020"
+    "forked_data": [
+      "https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+      "https://ethplorer.io/address/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+    ],
+    "sawBirth": "01122020",
+    "git": "https://github.com/skalenetwork"
   },
   "SKINCHAIN": {
     "name": "SKINCHAIN",
@@ -80539,16 +80532,15 @@
     "url": "/currencies/skinchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0fE1...2801090"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0fE156436F203B114C6c562Cb1a2A81aa2801090",
+      "https://ethplorer.io/address/0x0fE156436F203B114C6c562Cb1a2A81aa2801090"
+    ]
   },
   "SOAR.FI": {
     "name": "SOAR.FI",
@@ -80620,16 +80612,15 @@
       "Health",
       "Enterprise solutions",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x446c...579406f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
+      "https://ethplorer.io/address/0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+    ],
+    "git": "https://github.com/SolveCare"
   },
   "SOMESING": {
     "name": "SOMESING",
@@ -80674,16 +80665,15 @@
       "Distributed Computing",
       "Filesharing",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x983f...04b3c63"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
+      "https://ethplorer.io/address/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63"
+    ],
+    "git": "https://github.com/sonm-io"
   },
   "SONO": {
     "name": "SONO",
@@ -80707,16 +80697,14 @@
     "url": "/currencies/space-iz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa7A5...f1C6c2d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d"
+    ],
+    "git": "https://github.com/TirumaliSaiTeja/SPACE-IZ"
   },
   "SPDR S&P 500 ETF tokenized stock Bittrex": {
     "name": "SPDR S&P 500 ETF tokenized stock Bittrex",
@@ -80986,16 +80974,15 @@
     "url": "/currencies/stable-asset",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd7d0...f5676eb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb",
+      "https://ethplorer.io/address/0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb"
+    ]
   },
   "STASIS EURO": {
     "name": "STASIS EURO",
@@ -81007,16 +80994,15 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdb25...a807ad8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdb25f211ab05b1c97d595516f45794528a807ad8",
+      "https://ethplorer.io/address/0xdb25f211ab05b1c97d595516f45794528a807ad8"
+    ],
+    "git": "https://github.com/STASISNET"
   },
   "STATERA": {
     "name": "STATERA",
@@ -81024,16 +81010,15 @@
     "url": "/currencies/statera",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa7DE...e3DeED1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+      "https://ethplorer.io/address/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1"
+    ],
+    "git": "https://github.com/StateraProject/statera-token/blob/master/contracts/Statera.sol"
   },
   "STEM CELL COIN": {
     "name": "STEM CELL COIN",
@@ -81081,16 +81066,15 @@
       "Token",
       "Services",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaE73...4d71824"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
+      "https://ethplorer.io/address/0xae73b38d1c9a8b274127ec30160a4927c4d71824"
+    ],
+    "git": "https://github.com/STKtoken"
   },
   "STK Coin": {
     "name": "STK Coin",
@@ -81122,16 +81106,15 @@
     "url": "/currencies/stonk",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb405...1f0600e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb4058411967d5046f3510943103805be61f0600e",
+      "https://ethplorer.io/address/0xb4058411967d5046f3510943103805be61f0600e"
+    ],
+    "git": "https://github.com/stonkdev/STONK"
   },
   "STPAY": {
     "name": "STPAY",
@@ -81231,16 +81214,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0763...c6DE4d7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+      "https://ethplorer.io/address/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7"
+    ]
   },
   "SUN": {
     "name": "SUN",
@@ -81273,16 +81255,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4793...2e30F5f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x47935Edfb3CDd358C50F6c0Add1Cc24662e30F5f"
+    ],
+    "git": "https://github.com/supremetoken/supreme_sc"
   },
   "SURF Finance": {
     "name": "SURF Finance",
@@ -81290,16 +81269,14 @@
     "url": "/currencies/surf",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xea31...3ee976c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0xea319e87cf06203dae107dd8e5672175e3ee976c"
+    ]
   },
   "SUSHIUP": {
     "name": "SUSHIUP",
@@ -81321,16 +81298,16 @@
     "url": "/currencies/swag-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x87ed...6b742e6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x87edffde3e14c7a66c9b9724747a1c5696b742e6",
+      "https://ethplorer.io/address/0x87edffde3e14c7a66c9b9724747a1c5696b742e6"
+    ]
   },
   "SWYFT": {
     "name": "SWYFT",
@@ -81338,16 +81315,15 @@
     "url": "/currencies/swyft",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xA124...08dAeB8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xA1248c718d52752b2cC257eeb0eBa900408dAeB8",
+      "https://ethplorer.io/address/0xa1248c718d52752b2cc257eeb0eba900408daeb8"
+    ],
+    "git": "https://github.com/swyft-project/swyft-core/releases/"
   },
   "SXPDOWN": {
     "name": "SXPDOWN",
@@ -81399,16 +81375,16 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xB6ff...03eFD32"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32",
+      "https://ethplorer.io/address/0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
+    ],
+    "git": "https://github.com/C-O-F-E"
   },
   "SaTT": {
     "name": "SaTT",
@@ -81416,16 +81392,15 @@
     "url": "/currencies/satt",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xDF49...8987389"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xDF49C9F599A0A9049D97CFF34D0C30E468987389",
+      "https://ethplorer.io/address/0xDF49C9F599A0A9049D97CFF34D0C30E468987389"
+    ]
   },
   "SableAssent": {
     "name": "SableAssent",
@@ -81780,16 +81755,15 @@
     "url": "/currencies/samurai",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5337...4ae5ed7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x53378825d95281737914a8a2ac0e5a9304ae5ed7",
+      "https://ethplorer.io/address/0x53378825d95281737914a8a2ac0e5a9304ae5ed7"
+    ]
   },
   "Sancoj": {
     "name": "Sancoj",
@@ -81831,16 +81805,15 @@
       "Asset management",
       "AI & Big Data",
       "Crowdsourcing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7c5a...8daf098"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/SAN",
+      "https://ethplorer.io/address/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+    ],
+    "git": "https://github.com/santiment"
   },
   "Sapien": {
     "name": "Sapien",
@@ -81965,16 +81938,14 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xC28E...4b464c2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC28E27870558cF22ADD83540d2126da2e4b464c2"
+    ]
   },
   "SatoExchange Token": {
     "name": "SatoExchange Token",
@@ -81982,16 +81953,15 @@
     "url": "/currencies/satoexchange-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe96f...27b45ab"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab",
+      "https://ethplorer.io/address/0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab"
+    ]
   },
   "Satopay Network": {
     "name": "Satopay Network",
@@ -81999,16 +81969,15 @@
     "url": "/currencies/satopay-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8c3e...d80f4ee"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+      "https://ethplorer.io/address/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee"
+    ]
   },
   "Satoshivisioncoin": {
     "name": "Satoshivisioncoin",
@@ -82057,16 +82026,14 @@
     "url": "/currencies/sav3token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6e10...7f01890"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6e10aacb89a28d6fa0fe68790777fec7e7f01890"
+    ],
+    "git": "https://github.com/sav3org/smart-contracts"
   },
   "Save Environment Token": {
     "name": "Save Environment Token",
@@ -82232,16 +82199,15 @@
     "url": "/currencies/savetoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc1ee...ce859e1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1",
+      "https://ethplorer.io/address/0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1"
+    ],
+    "git": "https://github.com/SaveTokenus/Smart-Contract"
   },
   "ScPrime": {
     "name": "ScPrime",
@@ -82281,16 +82247,15 @@
     "url": "/currencies/scanetchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xadf8...672f0bf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xadf8b8050639b6236915f7516d69de714672f0bf",
+      "https://etherscan.io/address/0xadf8b8050639b6236915f7516d69de714672f0bf"
+    ],
+    "git": "https://github.com/Scanetchain/Scanetchain-ERC20-Token"
   },
   "Schain Wallet": {
     "name": "Schain Wallet",
@@ -82426,16 +82391,15 @@
       "Platform",
       "AI & Big Data",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9F5F...91c7342"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+      "https://ethplorer.io/address/0x9f5f3cfd7a32700c93f971637407ff17b91c7342"
+    ],
+    "git": "https://github.com/scryInfo"
   },
   "Scrypta": {
     "name": "Scrypta",
@@ -82678,16 +82642,15 @@
       "Token",
       "Platform",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb1e9...d4bcc43"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+      "https://ethplorer.io/address/0xb1e93236ab6073fdac58ada5564897177d4bcc43"
+    ],
+    "git": "https://github.com/seeleteam"
   },
   "Seigniorage Shares": {
     "name": "Seigniorage Shares",
@@ -82695,16 +82658,17 @@
     "url": "/currencies/seigniorage-shares",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Rebase",
+      "Seigniorage",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3979...070c66d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+      "https://ethplorer.io/address/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D"
+    ]
   },
   "SelfSell": {
     "name": "SelfSell",
@@ -82742,16 +82706,15 @@
       "Platform",
       "Enterprise solutions",
       "Identity",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4cc1...73296e7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+      "https://ethplorer.io/address/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"
+    ]
   },
   "Semitoken": {
     "name": "Semitoken",
@@ -82759,16 +82722,15 @@
     "url": "/currencies/semitoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6D79...dDf6fc8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8",
+      "https://ethplorer.io/address/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8"
+    ]
   },
   "Semux": {
     "name": "Semux",
@@ -82894,16 +82856,15 @@
     "url": "/currencies/sentinel",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa44E...fFCB037"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+      "https://ethplorer.io/address/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037"
+    ],
+    "git": "https://github.com/sentinel-official"
   },
   "Sentinel Chain": {
     "name": "Sentinel Chain",
@@ -82911,16 +82872,15 @@
     "url": "/currencies/sentinel-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa13f...9f52bc3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+      "https://ethplorer.io/address/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3"
+    ]
   },
   "Sentinel Protocol": {
     "name": "Sentinel Protocol",
@@ -82928,16 +82888,15 @@
     "url": "/currencies/sentinel-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc86d...cfbf652"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc86d054809623432210c107af2e3f619dcfbf652",
+      "https://ethplorer.io/address/0xc86d054809623432210c107af2e3f619dcfbf652"
+    ]
   },
   "Sentivate": {
     "name": "Sentivate",
@@ -82945,16 +82904,15 @@
     "url": "/currencies/sentivate",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7865...6a2b7f8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+      "https://ethplorer.io/address/0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8"
+    ],
+    "git": "https://github.com/sentivate"
   },
   "Sergey Save Link": {
     "name": "Sergey Save Link",
@@ -83081,16 +83039,15 @@
     "url": "/currencies/sessia",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd91a...0344586"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd91a6162f146ef85922d9a15ee6eb14a00344586",
+      "https://ethplorer.io/address/0xd91a6162f146ef85922d9a15ee6eb14a00344586"
+    ],
+    "git": "https://github.com/sessia-llc"
   },
   "Sexcoin": {
     "name": "Sexcoin",
@@ -83214,16 +83171,15 @@
       "Token",
       "Distributed Computing",
       "Filesharing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbbff...da3d4b4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+      "https://ethplorer.io/address/0xbbff862d906e348e9946bfb2132ecb157da3d4b4"
+    ],
+    "git": "https://github.com/Sharders"
   },
   "Shardus": {
     "name": "Shardus",
@@ -83231,16 +83187,15 @@
     "url": "/currencies/shardus",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0961...04353a7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+      "https://ethplorer.io/address/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+    ]
   },
   "ShareAt": {
     "name": "ShareAt",
@@ -83527,16 +83482,15 @@
     "url": "/currencies/shinechain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9064...6624470"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9064c91e51d7021A85AD96817e1432aBf6624470",
+      "https://ethplorer.io/address/0x9064c91e51d7021A85AD96817e1432aBf6624470"
+    ],
+    "git": "https://github.com/ShineChain"
   },
   "ShipChain": {
     "name": "ShipChain",
@@ -83697,16 +83651,17 @@
       "Token",
       "Collectibles & NFTs",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DAO",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xed04...0e5f183"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+      "https://ethplorer.io/address/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+    ],
+    "git": "https://github.com/shroom-finance/"
   },
   "SiaCashCoin": {
     "name": "SiaCashCoin",
@@ -83922,18 +83877,16 @@
       "AI & Big Data",
       "Payments",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "SLV-986",
-        "0x4c1c...6f6f9de"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4c1c4957d22d8f373aed54d0853b090666f6f9de",
+      "https://explorer.binance.org/asset/SLV-986"
+    ]
   },
   "Simbcoin Swap": {
     "name": "Simbcoin Swap",
@@ -84074,16 +84027,15 @@
       "Token",
       "Media",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaec2...b54d009"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/SNGLS",
+      "https://ethplorer.io/address/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+    ]
   },
   "SingularityNET": {
     "name": "SingularityNET",
@@ -84094,16 +84046,15 @@
       "Marketplace",
       "AI & Big Data",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8eb2...cffe285"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285",
+      "https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285"
+    ],
+    "git": "https://github.com/singnet/"
   },
   "Skillchain": {
     "name": "Skillchain",
@@ -84111,16 +84062,15 @@
     "url": "/currencies/skillchain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x996d...738dc3d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+      "https://ethplorer.io/address/0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d"
+    ]
   },
   "SkinCoin": {
     "name": "SkinCoin",
@@ -84131,16 +84081,14 @@
       "Media",
       "Gaming",
       "Entertainment",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2bdc...1a9e0c5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2bdc0d42996017fce214b21607a515da41a9e0c5"
+    ]
   },
   "Skrumble Network": {
     "name": "Skrumble Network",
@@ -84148,16 +84096,15 @@
     "url": "/currencies/skrumble-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x048f...17b3603"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+      "http://ethplorer.io/address/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603"
+    ]
   },
   "SkyHub Coin": {
     "name": "SkyHub Coin",
@@ -84274,16 +84221,15 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3723...443dcf1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+      "https://ethplorer.io/address/0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
+    ]
   },
   "Smart MFG": {
     "name": "Smart MFG",
@@ -84378,16 +84324,15 @@
     "url": "/currencies/smartcredit-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x72e9...f9ada13"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+      "https://ethplorer.io/address/0x72e9d9038ce484ee986fea183f8d8df93f9ada13"
+    ]
   },
   "SmartKey": {
     "name": "SmartKey",
@@ -84412,16 +84357,15 @@
       "Token",
       "Technology",
       "IoT",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x55f9...dc1e081"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x55f93985431fc9304077687a35a1ba103dc1e081",
+      "https://ethplorer.io/address/0x55f93985431fc9304077687a35a1ba103dc1e081"
+    ],
+    "git": "https://github.com/SmartMeshFoundation"
   },
   "Smartlands Network": {
     "name": "Smartlands Network",
@@ -84458,16 +84402,15 @@
     "url": "/currencies/smartshare",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x624d...374e850"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x624d520bab2e4ad83935fa503fb130614374e850",
+      "https://ethplorer.io/address/0x624d520bab2e4ad83935fa503fb130614374e850"
+    ]
   },
   "Smartup": {
     "name": "Smartup",
@@ -84591,16 +84534,15 @@
     "url": "/currencies/snetwork",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xff19...32ec71c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xff19138b039d938db46bdda0067dc4ba132ec71c",
+      "https://ethplorer.io/address/0xff19138b039d938db46bdda0067dc4ba132ec71c"
+    ]
   },
   "SnodeCoin": {
     "name": "SnodeCoin",
@@ -84873,16 +84815,14 @@
     "url": "/currencies/social-rocket",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0829...72d9fb2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2"
+    ]
   },
   "Social Send": {
     "name": "Social Send",
@@ -84954,16 +84894,15 @@
     "url": "/currencies/socialgood",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xddf7...5dbfd0a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xddf7fd345d54ff4b40079579d4c4670415dbfd0a",
+      "https://ethplorer.io/address/0xddf7fd345d54ff4b40079579d4c4670415dbfd0a"
+    ]
   },
   "Sociall": {
     "name": "Sociall",
@@ -85013,16 +84952,15 @@
     "url": "/currencies/soda-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcaD4...a8bC335"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcaD49C39B72c37B32cEe8b14F33F316D3a8bC335",
+      "https://ethplorer.io/address/0xcaD49C39B72c37B32cEe8b14F33F316D3a8bC335"
+    ]
   },
   "Soda Token": {
     "name": "Soda Token",
@@ -85403,16 +85341,16 @@
       "Token",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x40FD...868F677"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+      "https://ethplorer.io/address/0x40FD72257597aA14C7231A7B1aaa29Fce868F677"
+    ],
+    "git": "https://github.com/soramitsu"
   },
   "Sora Validator Token": {
     "name": "Sora Validator Token",
@@ -85420,17 +85358,15 @@
     "url": "/currencies/sora-validator-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xe88f...f3ed1e4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4"
+    ],
+    "git": "https://github.com/sora-xor"
   },
   "SorachanCoin": {
     "name": "SorachanCoin",
@@ -85546,16 +85482,15 @@
     "tags": [
       "Token",
       "Technology",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8069...4dc066b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8069080a922834460c3a092fb2c1510224dc066b",
+      "https://ethplorer.io/address/0x8069080a922834460c3a092fb2c1510224dc066b"
+    ]
   },
   "Spaceswap": {
     "name": "Spaceswap",
@@ -85563,16 +85498,15 @@
     "url": "/currencies/spaceswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x80c8...9ebc1de"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+      "https://ethplorer.io/address/0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de"
+    ]
   },
   "Spaghetti": {
     "name": "Spaghetti",
@@ -85652,16 +85586,17 @@
     "url": "/currencies/sparkpoint",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0488...06e74e6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+      "https://bscscan.com/token/0x14b1166ab53a237c8ceaee2bbc4bbca200cb7da8"
+    ],
+    "git": "https://github.com/sparkpointio"
   },
   "SparkPoint Fuel": {
     "name": "SparkPoint Fuel",
@@ -85733,16 +85668,15 @@
     "url": "/currencies/sparkster",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x971d...2392328"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x971d048e737619884f2df75e31c7eb6412392328",
+      "https://ethplorer.io/address/0x971d048e737619884f2df75e31c7eb6412392328"
+    ],
+    "git": "https://github.com/sparkster-me/Decentralized-Cloud"
   },
   "Spartan": {
     "name": "Spartan",
@@ -85952,16 +85886,15 @@
     "url": "/currencies/spectrum",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x01cc...3a482a3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x01cc4151fe5f00efb8df2f90ff833725d3a482a3",
+      "https://ethplorer.io/address/0x01cc4151fe5f00efb8df2f90ff833725d3a482a3"
+    ],
+    "git": "https://github.com/SPT-Spectrum/Spectrum-info/blob/master/README.md"
   },
   "SpectrumCash": {
     "name": "SpectrumCash",
@@ -86082,18 +86015,17 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "SPNDB-916",
-        "0xddd4...867210c"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xddd460bbd9f79847ea08681563e8a9696867210c",
+      "https://explorer.binance.org/asset/SPNDB-916",
+      "https://explorer.binance.org/asset/SPNDB-916"
+    ],
+    "git": "https://github.com/Spend"
   },
   "Sperax": {
     "name": "Sperax",
@@ -86101,16 +86033,15 @@
     "url": "/currencies/sperax",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf762...818211d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9631483f28B7f5CBf7D435Ab249Be8f709215bC3",
+      "https://ethplorer.io/address/0x9631483f28B7f5CBf7D435Ab249Be8f709215bC3"
+    ],
+    "git": "https://github.com/Sperax"
   },
   "Sphere": {
     "name": "Sphere",
@@ -86142,17 +86073,16 @@
     "url": "/currencies/spiderdao",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
-    "forked_data": {
-      "block": [
-        "0xbcd4...d790fdd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd"
+    ]
   },
   "Spiking": {
     "name": "Spiking",
@@ -86306,16 +86236,16 @@
     "tags": [
       "Token",
       "Marketplace",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa806...0aa2709"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa806b3fed6891136940cf81c4085661500aa2709",
+      "https://ethplorer.io/address/0xa806b3fed6891136940cf81c4085661500aa2709",
+      "https://enjinx.io/eth/token/0xa806b3fed6891136940cf81c4085661500aa2709"
+    ]
   },
   "SportX": {
     "name": "SportX",
@@ -86476,16 +86406,15 @@
     "url": "/currencies/stabilize",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb987...e76d723"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+      "https://ethplorer.io/address/0xb987d48ed8f2c468d52d6405624eadba5e76d723"
+    ]
   },
   "StableUSD": {
     "name": "StableUSD",
@@ -86576,16 +86505,15 @@
     "url": "/currencies/stacy",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf12E...FE1B327"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327"
+    ]
   },
   "Stafi": {
     "name": "Stafi",
@@ -86767,16 +86695,15 @@
     "tags": [
       "Token",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xde7d...f3e2adb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+      "https://ethplorer.io/address/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+    ]
   },
   "StarChain": {
     "name": "StarChain",
@@ -87039,16 +86966,15 @@
       "Media",
       "Content Creation",
       "Privacy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x744d...f805b9e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/StatusNetwork",
+      "https://ethplorer.io/address/0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+    ],
+    "git": "https://github.com/status-im"
   },
   "StaysBASE": {
     "name": "StaysBASE",
@@ -87324,16 +87250,15 @@
     "url": "/currencies/stobox-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x212D...9E5735F"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
+      "https://ethplorer.io/address/0x212DD60D4Bf0DA8372fe8116474602d429E5735F"
+    ]
   },
   "StockChain": {
     "name": "StockChain",
@@ -87463,16 +87388,15 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb64e...c0ab8ac"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/Storj",
+      "http://ethplorer.io/address/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+    ],
+    "git": "https://github.com/storj/storj"
   },
   "StormX": {
     "name": "StormX",
@@ -87482,16 +87406,15 @@
       "Token",
       "Media",
       "Loyalty",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbE93...b722803"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbE9375C6a420D2eEB258962efB95551A5b722803",
+      "https://ethplorer.io/address/0xbE9375C6a420D2eEB258962efB95551A5b722803"
+    ],
+    "git": "https://github.com/StormX-Inc/crowdsale"
   },
   "Stox": {
     "name": "Stox",
@@ -87501,16 +87424,15 @@
       "Token",
       "Platform",
       "Prediction Markets",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x006B...334EF45"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+      "https://ethplorer.io/address/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+    ],
+    "git": "https://github.com/stx-technologies/stox-token"
   },
   "Stratis": {
     "name": "Stratis",
@@ -87532,16 +87454,14 @@
     "url": "/currencies/stream-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9b5C...c8DAe82"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9b5C2BE869a19e84BDBcb1386dAD83a2ec8DAe82"
+    ]
   },
   "Streamit Coin": {
     "name": "Streamit Coin",
@@ -87657,16 +87577,15 @@
       "Media",
       "Content Creation",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0cf0...22cc023"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+      "https://ethplorer.io/address/0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+    ],
+    "git": "https://github.com/streamr-dev"
   },
   "Strong": {
     "name": "Strong",
@@ -87674,16 +87593,17 @@
     "url": "/currencies/strong",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x990f...168017c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x990f341946a3fdb507ae7e52d17851b87168017c",
+      "https://ethplorer.io/address/0x990f341946a3fdb507ae7e52d17851b87168017c"
+    ]
   },
   "StrongHands": {
     "name": "StrongHands",
@@ -87805,16 +87725,15 @@
     "url": "/currencies/student-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb8B7...72e0E52"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb8B7791b1A445FB1e202683a0a329504772e0E52",
+      "https://ethplorer.io/address/0xb8b7791b1a445fb1e202683a0a329504772e0e52"
+    ],
+    "git": "https://github.com/MerkleBlue/tokenmint"
   },
   "Substratum": {
     "name": "Substratum",
@@ -87825,16 +87744,15 @@
       "Platform",
       "Distributed Computing",
       "Sharing Economy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8D75...84DE63a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8D75959f1E61EC2571aa72798237101F084DE63a",
+      "https://ethplorer.io/address/0x8D75959f1E61EC2571aa72798237101F084DE63a"
+    ],
+    "git": "https://github.com/SubstratumNetwork/"
   },
   "Sudan Gold Coin": {
     "name": "Sudan Gold Coin",
@@ -87842,16 +87760,15 @@
     "url": "/currencies/sudan-gold-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x80bD...Ef19852"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x80bD0cc689c206e3F642919244c4251c7Ef19852",
+      "https://ethplorer.io/address/0x80bD0cc689c206e3F642919244c4251c7Ef19852"
+    ]
   },
   "Sugarchain": {
     "name": "Sugarchain",
@@ -87941,16 +87858,14 @@
     "tags": [
       "Token",
       "Energy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF413...7D60404"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404"
+    ],
+    "git": "https://github.com/SunContract/"
   },
   "Super Bitcoin": {
     "name": "Super Bitcoin",
@@ -88223,16 +88138,15 @@
     "tags": [
       "Token",
       "Asset management",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe120...c26fedf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
+      "https://ethplorer.io/address/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf"
+    ]
   },
   "SushiSwap": {
     "name": "SushiSwap",
@@ -88243,16 +88157,18 @@
       "DeFi",
       "Memes",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "AMM",
+      "Yearn Partnerships",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6b35...9c90fe2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "https://ethplorer.io/address/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+    ],
+    "git": "https://github.com/sushiswap/sushiswap"
   },
   "Swace": {
     "name": "Swace",
@@ -88260,16 +88176,15 @@
     "url": "/currencies/swace",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x03b1...b472da1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x03b155af3f4459193a276395dd76e357bb472da1",
+      "https://ethplorer.io/address/0x03b155af3f4459193a276395dd76e357bb472da1"
+    ],
+    "git": "https://github.com/swace/swace-contracts"
   },
   "Swap": {
     "name": "Swap",
@@ -88332,16 +88247,15 @@
     "url": "/currencies/swapcoinz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8109...3EC12e1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+      "https://ethplorer.io/address/0x810908B285f85Af668F6348cD8B26D76B3EC12e1"
+    ]
   },
   "Swapfolio": {
     "name": "Swapfolio",
@@ -88349,16 +88263,15 @@
     "url": "/currencies/swapfolio",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba21...4bd538a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+      "https://ethplorer.io/address/0xba21ef4c9f433ede00badefcc2754b8e74bd538a"
+    ]
   },
   "Swapzilla": {
     "name": "Swapzilla",
@@ -88438,16 +88351,15 @@
       "Token",
       "Asset management",
       "Crowdfunding",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3505...645ca39"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+      "https://ethplorer.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39"
+    ],
+    "git": "https://github.com/swarmfund"
   },
   "Swarm City": {
     "name": "Swarm City",
@@ -88456,16 +88368,14 @@
     "tags": [
       "Token",
       "Marketplace",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb9e7...cdf2607"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/SwarmCity"
+    ],
+    "git": "https://github.com/swarmcity"
   },
   "Swerve": {
     "name": "Swerve",
