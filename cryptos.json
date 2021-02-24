@@ -88384,16 +88384,18 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Yield farming",
+      "AMM",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb8ba...ecbd433"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+      "https://ethplorer.io/address/0xb8baa0e4287890a5f79863ab62b7f175cecbd433"
+    ],
+    "git": "https://github.com/SwerveFinance"
   },
   "SwftCoin": {
     "name": "SwftCoin",
@@ -88405,16 +88407,15 @@
       "DeFi",
       "Interoperability",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0bb2...d0dfC1e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+      "https://ethplorer.io/address/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+    ],
+    "git": "https://github.com/SwftCoins/SwftCoin"
   },
   "SwiftCash": {
     "name": "SwiftCash",
@@ -88519,16 +88520,18 @@
       "DeFi",
       "Payments",
       "Wallet",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8ce9...089b6a9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+      "https://ethplorer.io/address/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+      "https://bscscan.com/token/0x47bead2563dcbf3bf2c9407fea4dc236faba485a"
+    ],
+    "git": "https://github.com/SwipeWallet"
   },
   "Swirge": {
     "name": "Swirge",
@@ -88536,16 +88539,17 @@
     "url": "/currencies/swirge",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x92ef...6549579"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x92ef4ffbfe0df030837b65d7fccfe1abd6549579",
+      "https://bscscan.com/token/0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb"
+    ],
+    "git": "https://github.com/Swirge/swirgepay"
   },
   "SwissBorg": {
     "name": "SwissBorg",
@@ -88555,16 +88559,19 @@
       "Token",
       "Asset management",
       "Staking",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "Fiat",
+      "Wallet",
+      "Mobile",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xba9d...6f135ba"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba",
+      "https://ethplorer.io/address/0xba9d4199fab4f26efe3551d490e3821486f135ba"
+    ],
+    "git": "https://github.com/SwissBorg"
   },
   "Switch": {
     "name": "Switch",
@@ -88572,16 +88579,15 @@
     "url": "/currencies/switch",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd6a5...e5ff3bd"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd",
+      "https://ethplorer.io/address/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd"
+    ]
   },
   "Switcheo": {
     "name": "Switcheo",
@@ -88607,16 +88613,15 @@
     "url": "/currencies/sylo",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf293...7e8dcd4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4",
+      "https://ethplorer.io/address/0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4"
+    ],
+    "git": "https://github.com/dn3010"
   },
   "SymVerse": {
     "name": "SymVerse",
@@ -88624,16 +88629,15 @@
     "url": "/currencies/symverse",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x79b4...4A09dDa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa",
+      "https://ethplorer.io/address/0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa"
+    ]
   },
   "SynLev": {
     "name": "SynLev",
@@ -88641,16 +88645,14 @@
     "url": "/currencies/synlev",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1695...7c08bd9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1695936d6a953df699c38ca21c2140d497c08bd9"
+    ],
+    "git": "https://github.com/CryptoIcarus/SynLev"
   },
   "SyncFab": {
     "name": "SyncFab",
@@ -88680,16 +88682,15 @@
     "url": "/currencies/synchrobitcoin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x179e...4654b7b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x179e31fb25e433441a2839389a7b8ec9c4654b7b",
+      "https://ethplorer.io/address/0x179e31fb25e433441a2839389a7b8ec9c4654b7b"
+    ],
+    "git": "https://github.com/mysynchronium/synchrobit"
   },
   "Synergy": {
     "name": "Synergy",
@@ -88757,19 +88758,20 @@
       "Yield farming",
       "Token",
       "Ethereum",
-      "Binance"
+      "Binance",
+      "DAO",
+      "Three Arrows Capital Portfolio",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xc011...0af2a6f",
-        "0x9ac9...32e8404"
-      ],
-      "forked_from": [
-        "Ethereum",
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "https://ethplorer.io/address/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "https://blockchair.com/ethereum/erc-20/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "https://eth.tokenview.com/en/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+    ]
   },
   "Synthetix Network Token": {
     "name": "Synthetix Network Token",
@@ -88802,18 +88804,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/noia-network",
-    "forked_data": {
-      "block": [
-        "0xa8c8...CD7b6ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+      "https://ethplorer.io/address/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca"
+    ]
   },
   "Syscoin": {
     "name": "Syscoin",
@@ -88915,16 +88915,15 @@
     "url": "/currencies/tcash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7051...290C681"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7051620d11042c4335069AaA4f10Cd3B4290C681",
+      "https://ethplorer.io/address/0x7051620d11042c4335069AaA4f10Cd3B4290C681"
+    ],
+    "git": "https://github.com/etherflyer"
   },
   "TCOIN": {
     "name": "TCOIN",
@@ -88962,16 +88961,15 @@
       "Token",
       "Logistics",
       "Data Provenance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe5f1...582c912"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4",
+      "https://ethplorer.io/address/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4"
+    ]
   },
   "TEAL": {
     "name": "TEAL",
@@ -88979,16 +88977,15 @@
     "url": "/currencies/teal",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x38d5...fd8093b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38d58b82cb24a3e0410a7991f255174c9fd8093b",
+      "https://ethplorer.io/address/0x38d58b82cb24a3e0410a7991f255174c9fd8093b"
+    ]
   },
   "TEAM (TokenStars)": {
     "name": "TEAM (TokenStars)",
@@ -89018,16 +89015,14 @@
     "url": "/currencies/temco",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2fc2...9bdee5d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+    ],
+    "git": "https://github.com/temcolabs/token"
   },
   "TENA": {
     "name": "TENA",
@@ -89035,16 +89030,15 @@
     "url": "/currencies/tena",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xE14A...D85C688"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xE14A603f7c77d4101A87859b8736a04CFD85C688",
+      "https://ethplorer.io/address/0xE14A603f7c77d4101A87859b8736a04CFD85C688"
+    ],
+    "git": "https://github.com/tenaprotocol/contract"
   },
   "TENT": {
     "name": "TENT",
@@ -89095,16 +89089,15 @@
     "url": "/currencies/thecash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcd47...0dc0c0b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b",
+      "https://ethplorer.io/address/0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b"
+    ],
+    "git": "https://github.com/thenode-foundation"
   },
   "THEKEY": {
     "name": "THEKEY",
@@ -89131,16 +89124,15 @@
     "url": "/currencies/thenode",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb4a6...1ace357"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb4a677b0e363c3815d46326954a4e4d2b1ace357",
+      "https://ethplorer.io/address/0xb4a677b0e363c3815d46326954a4e4d2b1ace357"
+    ]
   },
   "THETA": {
     "name": "THETA",
@@ -89222,16 +89214,15 @@
     "url": "/currencies/tilwiki",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x06f3...4235753"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x06f3cdabae564b0546529b4dd8fef1bcd4235753",
+      "https://ethplorer.io/address/0x06f3cdabae564b0546529b4dd8fef1bcd4235753"
+    ]
   },
   "TKN Token": {
     "name": "TKN Token",
@@ -89266,16 +89257,16 @@
     "url": "/currencies/tnc-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd59f...0d1dfE0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd59ffBE33F93aA0ec95EA563c676333100d1dfE0",
+      "https://ethplorer.io/address/0xd59ffbe33f93aa0ec95ea563c676333100d1dfe0",
+      "https://e.tnccoin.com/"
+    ]
   },
   "TOKOK": {
     "name": "TOKOK",
@@ -89283,16 +89274,15 @@
     "url": "/currencies/tokok",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9a49...8bf45e7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
+      "https://ethplorer.io/address/0x9a49f02e128a8e989b443a8f94843c0918bf45e7"
+    ]
   },
   "TOKPIE": {
     "name": "TOKPIE",
@@ -89387,17 +89377,16 @@
     "url": "/currencies/tontoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0x6a6c...b8c520a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+      "https://ethplorer.io/address/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
+    ]
   },
   "TONToken": {
     "name": "TONToken",
@@ -89426,16 +89415,15 @@
     "url": "/currencies/top",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xdcD8...aaFfE2b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+      "https://ethplorer.io/address/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b"
+    ],
+    "git": "https://github.com/telosprotocol"
   },
   "TOPBTC Token": {
     "name": "TOPBTC Token",
@@ -90105,16 +90093,15 @@
     "url": "/currencies/taklimakan-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2c36...e78cb53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2c36204a0712a2a50e54a62f7c4f01867e78cb53",
+      "https://ethplorer.io/address/0x2c36204a0712a2a50e54a62f7c4f01867e78cb53"
+    ]
   },
   "Talent Token": {
     "name": "Talent Token",
@@ -90173,16 +90160,18 @@
       "Wallet",
       "Payments",
       "Mobile",
-      "Discount token"
+      "Discount token",
+      "Cosmos Ecosystem",
+      "Platform",
+      "Centralized exchange",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6368...b9250fc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+      "https://ethplorer.io/address/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc"
+    ]
   },
   "Tapmydata": {
     "name": "Tapmydata",
@@ -90452,16 +90441,16 @@
       "Token",
       "Media",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "Medium of Exchange",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x85e0...74402b2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+      "https://ethplorer.io/address/0x467bccd9d29f223bce8043b84e8c8b282827790f"
+    ],
+    "git": "https://github.com/telcoin"
   },
   "Tellor": {
     "name": "Tellor",
@@ -90472,16 +90461,16 @@
       "Mineable",
       "DeFi",
       "Oracles",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0ba4...c95a2e5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "https://ethplorer.io/address/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "https://www.tellorscan.com/"
+    ],
+    "git": "https://github.com/tellor-io"
   },
   "Telos": {
     "name": "Telos",
@@ -90600,16 +90589,15 @@
     "tags": [
       "Token",
       "Medium of Exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb970...905b280"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/TenXPay",
+      "https://ethplorer.io/address/0xb97048628db6b661d4c2aa833e95dbe1a905b280"
+    ]
   },
   "Tendies": {
     "name": "Tendies",
@@ -90618,16 +90606,15 @@
     "tags": [
       "Token",
       "Memes",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1453...317eaeb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+      "https://ethplorer.io/address/0x1453dbb8a29551ade11d89825ca812e05317eaeb"
+    ]
   },
   "Tenet": {
     "name": "Tenet",
@@ -90687,16 +90674,15 @@
     "url": "/currencies/ternio-erc20",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2428...B2d9a51"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x24283732C3DF91EE1e4354a3934C14B88B2d9a51",
+      "https://ethplorer.io/address/0x24283732C3DF91EE1e4354a3934C14B88B2d9a51"
+    ]
   },
   "Terra": {
     "name": "Terra",
@@ -90845,16 +90831,15 @@
     "url": "/currencies/tesra",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5895...4cef438"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x58959e0c71080434f237bd42d07cd84b74cef438",
+      "https://ethplorer.io/address/0x58959e0c71080434f237bd42d07cd84b74cef438"
+    ],
+    "git": "https://github.com/TesraSupernet"
   },
   "Tessla Coin": {
     "name": "Tessla Coin",
@@ -90862,16 +90847,15 @@
     "url": "/currencies/tessla-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x110F...ED0B9CC"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x110FE5f21C1EDd4F03a6e0DE0D96D0c2eED0B9CC",
+      "https://ethplorer.io/address/0x110FE5f21C1EDd4F03a6e0DE0D96D0c2eED0B9CC"
+    ]
   },
   "Tether": {
     "name": "Tether",
@@ -90885,7 +90869,12 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Ethereum",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "Binance",
+      "New2"
     ],
     "depends": [
       "Bitfinex",
@@ -90902,16 +90891,13 @@
       "Charlie lee",
       "JL Van der Velde"
     ],
-    "forked_data": {
-      "block": [
-        "0xdac1...d831ec7",
-        "TR7NHq...zgjLj6t"
-      ],
-      "forked_from": [
-        "Ethereum",
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://www.omniexplorer.info/asset/31",
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://algoexplorer.io/asset/312769",
+      "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955"
+    ]
   },
   "Tether Gold": {
     "name": "Tether Gold",
@@ -90919,16 +90905,15 @@
     "url": "/currencies/tether-gold",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4922...32e4a2a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a",
+      "https://ethplorer.io/address/0x4922a015c4407f87432b179bb209e125432e4a2a"
+    ]
   },
   "Tetris": {
     "name": "Tetris",
@@ -91196,18 +91181,16 @@
       "Enterprise solutions",
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "18122020",
     "git": "https://github.com/graphprotocol",
-    "forked_data": {
-      "block": [
-        "0xc944...cda44a7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "https://thegraph.com/explorer/"
+    ]
   },
   "The Hash Speed": {
     "name": "The Hash Speed",
@@ -91215,16 +91198,15 @@
     "url": "/currencies/the-hash-speed",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xD0Df...8d15A4d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xD0Df51CeC800D1F8045722377f6faceba8d15A4d",
+      "https://ethplorer.io/address/0xD0Df51CeC800D1F8045722377f6faceba8d15A4d"
+    ],
+    "git": "https://github.com/immykhan777/TheHashSpeed/blob/master/ths.sol"
   },
   "The Hustle App": {
     "name": "The Hustle App",
@@ -91232,16 +91214,15 @@
     "url": "/currencies/the-hustle-app",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x56be...2c1b3b3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x56be94d29e1125d2d61d06629c1b251d72c1b3b3",
+      "https://ethplorer.io/address/0x56be94d29e1125d2d61d06629c1b251d72c1b3b3"
+    ],
+    "git": "https://github.com/cryptohopperproject"
   },
   "The LoveChain": {
     "name": "The LoveChain",
@@ -91249,16 +91230,15 @@
     "url": "/currencies/the-lovechain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe3c8...97e2bd1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe3c864307b5592404431649de541c259497e2bd1",
+      "https://ethplorer.io/address/0xe3c864307b5592404431649de541c259497e2bd1"
+    ],
+    "git": "https://github.com/organizations/The-LoveChain-Pty-Ltd/settings/profile"
   },
   "The Luxury Coin": {
     "name": "The Luxury Coin",
@@ -91266,16 +91246,15 @@
     "url": "/currencies/the-luxury-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8ab0...ecaec01"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8ab0565dfe65bf9be754d7b0dadbb42c4ecaec01",
+      "https://ethplorer.io/address/0x8ab0565dfe65bf9be754d7b0dadbb42c4ecaec01"
+    ]
   },
   "The Midas Touch Gold": {
     "name": "The Midas Touch Gold",
@@ -91283,16 +91262,15 @@
     "url": "/currencies/the-midas-touch-gold",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1008...44c9fa2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x10086399dd8c1e3de736724af52587a2044c9fa2",
+      "https://ethplorer.io/address/0x10086399dd8c1e3de736724af52587a2044c9fa2"
+    ],
+    "git": "https://github.com/DigitalGoldExchange/The-Midas-Touch-Gold"
   },
   "The Sandbox": {
     "name": "The Sandbox",
@@ -91303,16 +91281,15 @@
       "Collectibles & NFTs",
       "Content Creation",
       "Gaming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3845...903a5d0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+      "https://ethplorer.io/address/0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+    ]
   },
   "The Smokehouse": {
     "name": "The Smokehouse",
@@ -91378,16 +91355,15 @@
       "Payments",
       "Ethereum",
       "Ethash",
-      "Japan"
+      "Japan",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2494...d29B02A"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2494a68C1484376fEf880b4c24D91f049d29B02A",
+      "https://ethplorer.io/address/0x2494a68C1484376fEf880b4c24D91f049d29B02A"
+    ],
+    "git": "https://github.com/atom-solutions/TheTransferToken"
   },
   "The Universal Settlement Coin": {
     "name": "The Universal Settlement Coin",
@@ -91416,16 +91392,14 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x96dd...69306f2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x96dd2c778fb281294fa9c1d2b8af3b47369306f2",
+      "https://www.dextools.io/app/uniswap/pair-explorer/0x54febfc615d90c8b3e836c6e5aeabbb734e1672f"
+    ]
   },
   "TheToken.Network": {
     "name": "TheToken.Network",
@@ -91455,16 +91429,16 @@
     "url": "/currencies/themis",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x60c6...cd3d024"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x60c68a87be1e8a84144b543aacfa77199cd3d024",
+      "https://etherscan.io/address/0x60c68a87be1e8a84144b543aacfa77199cd3d024",
+      "https://themiscan.io/explorer"
+    ],
+    "git": "https://github.com/themis-network/go-themis"
   },
   "Theresa May Coin": {
     "name": "Theresa May Coin",
@@ -91546,16 +91520,15 @@
     "url": "/currencies/thingsoperatingsystem",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfb5a...7f3a98e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e",
+      "https://ethplorer.io/address/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e"
+    ],
+    "git": "https://github.com/TOSIO/tos"
   },
   "Thingschain": {
     "name": "Thingschain",
@@ -91636,16 +91609,15 @@
     "url": "/currencies/thore-cash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9972...2ddfad5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5",
+      "https://dev.pywaves.org/assets/FeVnABkSLcroug3dz6rDPZPPVXuero3ACwqm7YCrcSQa"
+    ]
   },
   "ThoreCoin": {
     "name": "ThoreCoin",
@@ -91656,12 +91628,17 @@
       "Store of Value",
       "Centralized exchange",
       "Ethereum",
-      "Waves"
+      "Waves",
+      "Store of Value",
+      "Centralized exchange",
+      "Ethereum",
+      "Waves",
+      "NoGitHub",
+      "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://dev.pywaves.org/assets/51ZCHw4vzWpj4WgviWjjF6buAFga8tjoUSXze2Pkdui9"
+    ]
   },
   "ThoreNext": {
     "name": "ThoreNext",
