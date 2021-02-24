@@ -61714,7 +61714,8 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
-      "https://ethplorer.io/address/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
+      "https://ethplorer.io/address/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+      "https://blockscout.com/etc/mainnet/address/0xa4d3a7b00056cc5d8206b3b2983bfe0c107d90da/transactions"
     ],
     "git": "https://github.com/autonomoussoftware"
   },
@@ -68034,16 +68035,15 @@
     "url": "/currencies/ors-group",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xac2e...75b49ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca",
+      "https://ethplorer.io/address/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca"
+    ],
+    "git": "https://github.com/ORSGroup/ORS-Tokensale"
   },
   "OSA Token": {
     "name": "OSA Token",
@@ -68051,16 +68051,15 @@
     "url": "/currencies/osa-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc6ab...dfd460c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc6abf3c09341741ac6041b0b08195701bdfd460c",
+      "https://ethplorer.io/address/0xc6abf3c09341741ac6041b0b08195701bdfd460c"
+    ],
+    "git": "https://github.com/osa-decentralized"
   },
   "OST": {
     "name": "OST",
