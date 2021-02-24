@@ -73739,16 +73739,15 @@
     "url": "/currencies/plotx",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x72f0...d0c66bb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+      "https://ethplorer.io/address/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb"
+    ],
+    "git": "https://github.com/plotx/smart-contracts"
   },
   "PluraCoin": {
     "name": "PluraCoin",
@@ -73855,16 +73854,17 @@
       "Token",
       "Services",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "DEX",
+      "United Kingdom",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd891...a12264e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+      "https://ethplorer.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E"
+    ]
   },
   "Po.et": {
     "name": "Po.et",
@@ -73873,16 +73873,15 @@
     "tags": [
       "Token",
       "Media",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0e09...ec9b195"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+      "https://ethplorer.io/address/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+    ],
+    "git": "https://github.com/poetapp"
   },
   "PoSW Coin": {
     "name": "PoSW Coin",
@@ -73946,16 +73945,15 @@
     "url": "/currencies/pocketnode",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x435d...187b131"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x435d664F72D6F194ef67d63B5f3936650187b131",
+      "https://ethplorer.io/address/0x435d664F72D6F194ef67d63B5f3936650187b131"
+    ]
   },
   "Pofid Dao": {
     "name": "Pofid Dao",
@@ -73963,16 +73961,15 @@
     "url": "/currencies/pofid-dao",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x87c4...efabd0c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
+      "https://ethplorer.io/address/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c"
+    ]
   },
   "PointPay": {
     "name": "PointPay",
@@ -74109,16 +74106,16 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Polkadot",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x83e6...ac3d5aa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
+    ]
   },
   "Pollux Coin": {
     "name": "Pollux Coin",
@@ -74145,16 +74142,15 @@
       "Token",
       "Cybersecurity",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9e46...7d733d1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+      "https://ethplorer.io/address/0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+    ],
+    "git": "https://github.com/polyswarm"
   },
   "Polybius": {
     "name": "Polybius",
@@ -74163,16 +74159,14 @@
     "tags": [
       "Token",
       "Asset management",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0aff...a631f02"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02"
+    ]
   },
   "Polygon": {
     "name": "Polygon",
@@ -74200,16 +74194,17 @@
     "url": "/currencies/polyient-games-governance-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "DAO",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeacc...1d332a1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
+      "https://ethplorer.io/address/0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1"
+    ]
   },
   "Polymath": {
     "name": "Polymath",
@@ -74219,16 +74214,15 @@
       "Token",
       "Marketplace",
       "Crowdfunding",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9992...d88d1ec"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+      "https://ethplorer.io/address/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
+    ],
+    "git": "https://github.com/PolymathNetwork"
   },
   "PolypuX": {
     "name": "PolypuX",
@@ -74236,16 +74230,15 @@
     "url": "/currencies/polypux",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe277...22431e4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe277ac35f9d327a670c1a3f3eec80a83022431e4",
+      "https://ethplorer.io/address/0xe277ac35f9d327a670c1a3f3eec80a83022431e4"
+    ]
   },
   "PonziCoin": {
     "name": "PonziCoin",
@@ -74505,16 +74498,15 @@
     "tags": [
       "Token",
       "Logistics",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd4fa...ef28e3a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+      "https://ethplorer.io/address/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
+    ],
+    "git": "https://github.com/bitpopulous"
   },
   "Porkchop": {
     "name": "Porkchop",
@@ -74578,16 +74570,15 @@
     "url": "/currencies/port-of-defi-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6ccd...75905e7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6ccd05f73a54359a257fc5649c598a3de75905e7",
+      "https://ethplorer.io/address/0x6ccd05f73a54359a257fc5649c598a3de75905e7"
+    ]
   },
   "Portal": {
     "name": "Portal",
@@ -74595,16 +74586,15 @@
     "url": "/currencies/portal",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8DB9...c9DefdB"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8DB90E3e7D04C875a51997092f9178FCac9DefdB",
+      "https://ethplorer.io/address/0x8db90e3e7d04c875a51997092f9178fcac9defdb"
+    ]
   },
   "Portion": {
     "name": "Portion",
@@ -74680,16 +74670,15 @@
     "url": "/currencies/poseidon-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2822...a4f4C21"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+      "https://ethplorer.io/address/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21"
+    ]
   },
   "Posscoin": {
     "name": "Posscoin",
@@ -74848,17 +74837,17 @@
     "url": "/currencies/power-index-pool-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "11122020",
-    "forked_data": {
-      "block": [
-        "0x2660...a8b699c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb2b9335791346e94245dcd316a9c9ed486e6dd7f",
+      "https://ethplorer.io/address/0xb2b9335791346e94245dcd316a9c9ed486e6dd7f"
+    ]
   },
   "Power Ledger": {
     "name": "Power Ledger",
@@ -74868,16 +74857,15 @@
       "Token",
       "Energy",
       "Sharing Economy",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5958...a361269"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+      "https://ethplorer.io/address/0x595832f8fc6bf59c85c527fec3740a1b7a361269"
+    ]
   },
   "PowerBalt": {
     "name": "PowerBalt",
@@ -74914,16 +74902,17 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Yearn Partnerships",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x38e4...be7dca1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1",
+      "https://ethplorer.io/address/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
+    ]
   },
   "PowerTrade Fuel": {
     "name": "PowerTrade Fuel",
@@ -74931,16 +74920,16 @@
     "url": "/currencies/powertrade-fuel",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Centralized exchange",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xC57d...caA39F7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+      "https://ethplorer.io/address/0xC57d533c50bC22247d49a368880fb49a1caA39F7"
+    ]
   },
   "Precium": {
     "name": "Precium",
@@ -74948,16 +74937,15 @@
     "url": "/currencies/precium",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6096...ad35123"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6096d2460cf5177e40b515223428dc005ad35123",
+      "https://ethplorer.io/address/0x6096d2460cf5177e40b515223428dc005ad35123"
+    ]
   },
   "Predictz": {
     "name": "Predictz",
@@ -74966,18 +74954,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "16122020",
     "git": "https://github.com/predictz",
-    "forked_data": {
-      "block": [
-        "0x4e08...7c3664d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d"
+    ]
   },
   "Predix Network": {
     "name": "Predix Network",
@@ -75041,16 +75026,15 @@
       "Platform",
       "Crowdsourcing",
       "Search Engine",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x88a3...6cb84fa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
+      "https://ethplorer.io/address/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa"
+    ],
+    "git": "https://github.com/presearchofficial"
   },
   "PressOne": {
     "name": "PressOne",
@@ -75060,16 +75044,15 @@
       "Token",
       "Marketplace",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe0d9...b78d8b2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe0d95530820aafc51b1d98023aa1ff000b78d8b2",
+      "https://ethplorer.io/address/0xe0d95530820aafc51b1d98023aa1ff000b78d8b2"
+    ]
   },
   "Previse": {
     "name": "Previse",
@@ -75108,16 +75091,15 @@
       "Token",
       "Media",
       "Content Creation",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d4a...fd46cec"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec",
+      "https://ethplorer.io/address/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec"
+    ]
   },
   "Prime DAI": {
     "name": "Prime DAI",
@@ -75302,16 +75284,15 @@
     "url": "/currencies/probit-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfb55...c139803"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803",
+      "https://ethplorer.io/address/0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803"
+    ],
+    "git": "https://github.com/probitexchange"
   },
   "ProChain": {
     "name": "ProChain",
@@ -75379,16 +75360,15 @@
     "url": "/currencies/project-with",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb7e7...a74bdab"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab",
+      "https://ethplorer.io/address/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab"
+    ]
   },
   "Project-X": {
     "name": "Project-X",
@@ -75436,18 +75416,18 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Binance Chain",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
-        "0xfc82bb4ba86045af6f327323a46e80412b91b27d"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+      "https://ethplorer.io/address/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+      "https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5"
+    ]
   },
   "Promotion Coin": {
     "name": "Promotion Coin",
@@ -75455,16 +75435,15 @@
     "url": "/currencies/promotion-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa671...a775e4d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d",
+      "https://ethplorer.io/address/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d"
+    ]
   },
   "Proof Of Liquidity": {
     "name": "Proof Of Liquidity",
@@ -75525,16 +75504,15 @@
     "url": "/currencies/props",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6fe5...e9d4f41"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+      "https://ethplorer.io/address/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
+    ],
+    "git": "https://github.com/propsproject"
   },
   "Propy": {
     "name": "Propy",
@@ -75545,16 +75523,15 @@
       "Real Estate",
       "Escrow",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x226b...2e9e220"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220",
+      "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"
+    ]
   },
   "Prosper": {
     "name": "Prosper",
@@ -75578,16 +75555,16 @@
     "url": "/currencies/proton",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd7ef...25da2af"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd7efb00d12c2c13131fd319336fdf952525da2af",
+      "https://ethplorer.io/address/0xd7efb00d12c2c13131fd319336fdf952525da2af",
+      "https://proton.bloks.io/"
+    ],
+    "git": "https://github.com/ProtonProtocol"
   },
   "Proton Token": {
     "name": "Proton Token",
@@ -75595,16 +75572,15 @@
     "url": "/currencies/proton-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4689...8a39b9c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+      "https://ethplorer.io/address/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c"
+    ],
+    "git": "https://github.com/ProtonNetwork/"
   },
   "Provoco Token": {
     "name": "Provoco Token",
@@ -75726,16 +75702,14 @@
     "url": "/currencies/pteria",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x02ec...b70259b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b"
+    ]
   },
   "PumaPay": {
     "name": "PumaPay",
@@ -75743,16 +75717,15 @@
     "url": "/currencies/pumapay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x846c...d63336f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x846c66cf71c43f80403b51fe3906b3599d63336f",
+      "https://ethplorer.io/address/0x846c66cf71c43f80403b51fe3906b3599d63336f"
+    ],
+    "git": "https://github.com/pumapayio/pumapay-token"
   },
   "Pumpanomics": {
     "name": "Pumpanomics",
@@ -75783,16 +75756,15 @@
     "tags": [
       "Token",
       "Medium of Exchange",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa15c...49ae5b3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+      "https://ethplorer.io/address/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+    ]
   },
   "Pundi X NEM": {
     "name": "Pundi X NEM",
@@ -75913,16 +75885,15 @@
     "url": "/currencies/puriever",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2904...358230f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2904b9b16652d7d0408eccfa23a19d4a3358230f",
+      "https://ethplorer.io/address/0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
+    ]
   },
   "PutinCoin": {
     "name": "PutinCoin",
