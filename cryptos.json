@@ -62206,7 +62206,8 @@
     ],
     "sawBirth": "07122020",
     "forked_data": [
-      "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608"
+      "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+      "https://finder.terra.money/columbus-4/account/terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6"
     ],
     "git": "https://github.com/Mirror-Protocol/eth-web-app"
   },
@@ -62326,7 +62327,8 @@
     "git": "https://github.com/mirror-protocol",
     "forked_data": [
       "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
-      "https://ethplorer.io/address/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15"
+      "https://ethplorer.io/address/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+      "https://finder.terra.money/columbus-4/account/terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp"
     ]
   },
   "Mirrored Microsoft": {
@@ -62391,7 +62393,8 @@
     "git": "https://github.com/mirror-protocol",
     "forked_data": [
       "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
-      "https://ethplorer.io/address/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86"
+      "https://ethplorer.io/address/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+      "https://finder.terra.money/columbus-4/account/terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45"
     ]
   },
   "Mirrored Tesla": {
@@ -62438,7 +62441,8 @@
     "git": "https://github.com/mirror-protocol",
     "forked_data": [
       "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
-      "https://ethplorer.io/address/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9"
+      "https://ethplorer.io/address/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+      "https://finder.terra.money/columbus-4/account/terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg"
     ]
   },
   "Mirrored United States Oil Fund": {
@@ -62484,7 +62488,8 @@
     "git": "https://github.com/mirror-protocol",
     "forked_data": [
       "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
-      "https://ethplorer.io/address/0x1d350417d9787E000cc1b95d70E9536DcD91F373"
+      "https://ethplorer.io/address/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+      "https://finder.terra.money/columbus-4/account/terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec"
     ]
   },
   "Mirrored iShares Silver Trust": {
@@ -67730,16 +67735,15 @@
     "url": "/currencies/oin-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9aeB...8c01259"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+      "https://ethplorer.io/address/0x9aeB50f542050172359A0e1a25a9933Bc8c01259"
+    ],
+    "git": "https://github.com/oinfinance/oin"
   },
   "OKB": {
     "name": "OKB",
@@ -67750,16 +67754,17 @@
       "Marketplace",
       "Centralized exchange",
       "Discount token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7523...342a86c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "https://blockchair.com/ethereum/erc-20/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "https://eth.tokenview.com/en/token/0x75231f58b43240c9718dd58b4967c5114342a86c"
+    ]
   },
   "OKCash": {
     "name": "OKCash",
@@ -67886,16 +67891,15 @@
     "url": "/currencies/onotoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb31c...e802725"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb31c219959e06f9afbeb36b388a4bad13e802725",
+      "https://ethplorer.io/address/0xb31c219959e06f9afbeb36b388a4bad13e802725"
+    ],
+    "git": "https://github.com/onochat"
   },
   "OOOBTC TOKEN": {
     "name": "OOOBTC TOKEN",
@@ -68014,16 +68018,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc3Eb...b64B466"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc3Eb2622190c57429aac3901808994443b64B466",
+      "https://ethplorer.io/address/0xc3Eb2622190c57429aac3901808994443b64B466"
+    ]
   },
   "ORS Group": {
     "name": "ORS Group",
