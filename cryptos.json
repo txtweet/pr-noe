@@ -68068,16 +68068,16 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2c4e...8e0aeca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+      "https://ethplorer.io/address/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+      "https://view.ost.com"
+    ],
+    "git": "https://github.com/OpenST"
   },
   "OTCBTC Token": {
     "name": "OTCBTC Token",
@@ -68085,16 +68085,15 @@
     "url": "/currencies/otcbtc-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa86a...1af16de"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa86a0da9d05d0771955df05b44ca120661af16de",
+      "https://ethplorer.io/address/0xa86a0da9d05d0771955df05b44ca120661af16de"
+    ]
   },
   "OTOCASH": {
     "name": "OTOCASH",
@@ -68232,16 +68231,15 @@
     "url": "/currencies/owl-token-stealthswap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2a7f...d18e736"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2a7f709ee001069771ceb6d42e85035f7d18e736",
+      "https://ethplorer.io/address/0x2a7f709ee001069771ceb6d42e85035f7d18e736"
+    ],
+    "git": "https://github.com/stealthswap"
   },
   "OWNDATA": {
     "name": "OWNDATA",
@@ -68480,16 +68478,18 @@
       "Filesharing",
       "Substrate",
       "IPFS",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x967d...e1b9f48"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "https://ethplorer.io/address/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "https://blockchair.com/ethereum/erc-20/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ],
+    "git": "https://github.com/oceanprotocol"
   },
   "OceanChain": {
     "name": "OceanChain",
@@ -68518,16 +68518,22 @@
     "url": "/currencies/octofi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Yield farming",
+      "DeFi",
+      "Oracles",
+      "DApp",
+      "DEX",
+      "Yield Aggregator",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7240...5912BA3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+      "https://ethplorer.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3"
+    ]
   },
   "Octoin Coin": {
     "name": "Octoin Coin",
@@ -68551,16 +68557,15 @@
       "Token",
       "Platform",
       "Sharing Economy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4092...780892B"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+      "https://ethplorer.io/address/0x4092678e4e78230f46a1534c0fbc8fa39780892b"
+    ],
+    "git": "https://github.com/OdysseyOCN"
   },
   "Offshift": {
     "name": "Offshift",
@@ -68568,16 +68573,19 @@
     "url": "/currencies/offshift",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Privacy",
+      "DeFi",
+      "Polkadot",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xabe5...622e6be"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+      "https://ethplorer.io/address/0xabe580e7ee158da464b51ee1a83ac0289622e6be"
+    ],
+    "git": "https://github.com/offshift-dev"
   },
   "Oikos": {
     "name": "Oikos",
@@ -68603,16 +68611,15 @@
     "url": "/currencies/okschain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7b68...51e712a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x7b68d272eda2185ea2f9283f241b1c44c51e712a",
+      "https://ethplorer.io/address/0x7b68d272eda2185ea2f9283f241b1c44c51e712a"
+    ],
+    "git": "https://github.com/Okschain"
   },
   "Olive": {
     "name": "Olive",
@@ -68688,16 +68695,15 @@
     "url": "/currencies/omega-protocol-money",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf4c1...c67fd9d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d",
+      "https://ethplorer.io/address/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d"
+    ],
+    "git": "https://github.com/omgswap"
   },
   "Omix": {
     "name": "Omix",
@@ -68773,16 +68779,15 @@
     "url": "/currencies/on-live",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6863...a8bdc47"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6863be0e7cf7ce860a574760e9020d519a8bdc47",
+      "https://ethplorer.io/address/0x6863be0e7cf7ce860a574760e9020d519a8bdc47"
+    ],
+    "git": "https://github.com/OnLivePlatform"
   },
   "OnX Finance": {
     "name": "OnX Finance",
@@ -68953,16 +68958,15 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xff60...8b02386"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386",
+      "https://ethplorer.io/address/0xff603f43946a3a28df5e6a73172555d8c8b02386"
+    ]
   },
   "OneSwap DAO Token": {
     "name": "OneSwap DAO Token",
@@ -68971,16 +68975,15 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0b34...a04d5a4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+      "https://ethplorer.io/address/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4"
+    ]
   },
   "OnigiriSwap": {
     "name": "OnigiriSwap",
@@ -69097,16 +69100,17 @@
       "Mobile",
       "IPFS",
       "Data Provenance",
-      "Ethereum"
+      "Ethereum",
+      "United States of America",
+      "PoW",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7759...11f1473"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xDb05EA0877A2622883941b939f0bb11d1ac7c400",
+      "https://ethplorer.io/address/0xDb05EA0877A2622883941b939f0bb11d1ac7c400"
+    ],
+    "git": "https://github.com/opacity"
   },
   "Opal": {
     "name": "Opal",
@@ -69170,16 +69174,15 @@
     "url": "/currencies/open-platform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9d86...0111340"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9d86b1b2554ec410eccffbf111a6994910111340",
+      "https://ethplorer.io/address/0x9d86b1b2554ec410eccffbf111a6994910111340"
+    ]
   },
   "Open Predict Token": {
     "name": "Open Predict Token",
@@ -69237,16 +69240,15 @@
     "url": "/currencies/openalexa-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1788...de1a316"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1788430620960f9a70e3dc14202a3a35dde1a316",
+      "https://ethplorer.io/address/0x1788430620960f9a70e3dc14202a3a35dde1a316"
+    ]
   },
   "OpenDAO": {
     "name": "OpenDAO",
@@ -69256,14 +69258,7 @@
       "Token",
       "Ethereum"
     ],
-    "forked_data": {
-      "block": [
-        "0x69e8...463a916"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": []
   },
   "Opennity": {
     "name": "Opennity",
