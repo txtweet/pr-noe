@@ -66162,16 +66162,15 @@
       "Token",
       "Asset management",
       "Crowdfunding",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa823...e6b8e32"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+      "https://ethplorer.io/address/0xa823e6722006afe99e91c30ff5295052fe6b8e32"
+    ],
+    "git": "https://github.com/Neufund/"
   },
   "Neural Protocol": {
     "name": "Neural Protocol",
@@ -66179,16 +66178,15 @@
     "url": "/currencies/neural-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3918...5a306b5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3918c42f14f2eb1168365f911f63e540e5a306b5",
+      "https://ethplorer.io/address/0x3918c42f14f2eb1168365f911f63e540e5a306b5"
+    ],
+    "git": "https://github.com/neuralprotocol/NRPSmartContract"
   },
   "NeuroChain": {
     "name": "NeuroChain",
@@ -66196,16 +66194,15 @@
     "url": "/currencies/neurochain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d48...8bd4725"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d48f293baed247a2d0189058ba37aa238bd4725",
+      "https://ethplorer.io/address/0x5d48f293baed247a2d0189058ba37aa238bd4725"
+    ]
   },
   "Neuromorphic.io": {
     "name": "Neuromorphic.io",
@@ -66213,16 +66210,15 @@
     "url": "/currencies/neuromorphic-io",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4D6b...851EAAb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
+      "https://ethplorer.io/address/0x4d6b9f281af31916a0f16d1cea2ec7384851eaab"
+    ],
+    "git": "https://github.com/NeuromorphicIO/"
   },
   "Neurotoken": {
     "name": "Neurotoken",
@@ -66467,16 +66463,15 @@
     "url": "/currencies/nework",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5a1a...c876df6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5a1a29dbb6ad6153db764568c1289076bc876df6",
+      "https://ethplorer.io/address/0x5a1a29dbb6ad6153db764568c1289076bc876df6"
+    ]
   },
   "NewsToken": {
     "name": "NewsToken",
@@ -66484,16 +66479,15 @@
     "url": "/currencies/newstoken",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2953...aca35ba"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x29536b7ca7029b5cddeb03c0451715615aca35ba",
+      "https://ethplorer.io/address/0x29536b7ca7029b5cddeb03c0451715615aca35ba"
+    ],
+    "git": "https://github.com/news-chain/newschain/"
   },
   "Newscrypto": {
     "name": "Newscrypto",
@@ -66652,18 +66646,17 @@
       "Services",
       "Payments",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "NEXO-A84",
-        "0xb621...d815206"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+      "https://explorer.binance.org/asset/NEXO-A84",
+      "https://blockchair.com/ethereum/erc-20/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+    ],
+    "git": "https://github.com/nexofinance/NEXO-Token/"
   },
   "NextDAO": {
     "name": "NextDAO",
@@ -66949,18 +66942,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/thenoderunners/",
-    "forked_data": {
-      "block": [
-        "0x7397...455bE53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x739763a258640919981F9bA610AE65492455bE53",
+      "https://ethplorer.io/address/0x739763a258640919981F9bA610AE65492455bE53"
+    ]
   },
   "Noir": {
     "name": "Noir",
@@ -67153,16 +67144,16 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Insurance",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2094...ccd2114"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x20945cA1df56D237fD40036d47E866C7DcCD2114"
+    ]
   },
   "NuBits": {
     "name": "NuBits",
@@ -67183,16 +67174,14 @@
     "url": "/currencies/nucypher",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4fe8...113a4cc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4fe83213d56308330ec302a8bd641f1d0113a4cc"
+    ],
+    "git": "https://github.com/nucypher"
   },
   "NuShares": {
     "name": "NuShares",
@@ -67246,16 +67235,15 @@
     "url": "/currencies/nuco-cloud",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe0c8...2b33c1b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b",
+      "https://ethplorer.io/address/0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b"
+    ],
+    "git": "https://github.com/nucocloud/ncd-token"
   },
   "Nuggets": {
     "name": "Nuggets",
@@ -67293,16 +67281,15 @@
       "AI & Big Data",
       "DeFi",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1776...Cb46671"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "https://ethplorer.io/address/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    ],
+    "git": "https://github.com/numerai"
   },
   "Nxt": {
     "name": "Nxt",
@@ -67325,16 +67312,15 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc9ce...ee882de"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc9ce70a381910d0a90b30d408cc9c7705ee882de",
+      "https://ethplorer.io/address/0xc9ce70a381910d0a90b30d408cc9c7705ee882de"
+    ],
+    "git": "https://github.com/geass-zero/nyan.finance"
   },
   "Nyan V2": {
     "name": "Nyan V2",
@@ -67342,16 +67328,14 @@
     "url": "/currencies/nyan-v2",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbf4a...de51f14"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbf4a9a37ecfc21825011285222c36ab35de51f14"
+    ],
+    "git": "https://github.com/geass-zero/nyan.finance"
   },
   "Nyerium": {
     "name": "Nyerium",
@@ -67420,16 +67404,15 @@
       "Marketplace",
       "Substrate",
       "Polkadot",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x701c...b23fe1d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d"
+    ]
   },
   "OBIC": {
     "name": "OBIC",
@@ -67631,16 +67614,15 @@
       "Token",
       "Education",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbf52...e30406a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
+      "https://ethplorer.io/address/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a"
+    ],
+    "git": "https://github.com/odemio/ico"
   },
   "ODUWA": {
     "name": "ODUWA",
