@@ -69423,16 +69423,14 @@
     "url": "/currencies/oracle-system",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x324a...64b1b20"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x324af2d5353f2dd138e234b359d30d67c64b1b20"
+    ]
   },
   "OracleChain": {
     "name": "OracleChain",
@@ -69478,16 +69476,16 @@
     "url": "/currencies/oraichain-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Oracles",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4c11...328c1b5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
+      "https://ethplorer.io/address/0x4c11249814f11b9346808179cf06e71ac328c1b5"
+    ],
+    "git": "https://github.com/oraichain"
   },
   "Orbicular": {
     "name": "Orbicular",
@@ -69551,16 +69549,15 @@
     "url": "/currencies/orbit-chain",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x662b...9ef2f51"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+      "https://ethplorer.io/address/0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+    ]
   },
   "Orbitcoin": {
     "name": "Orbitcoin",
@@ -69605,16 +69602,15 @@
       "Token",
       "Services",
       "Enterprise solutions",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xff56...d08b0fa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+      "https://etherscan.io/address/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa"
+    ],
+    "git": "https://github.com/orbs-network/"
   },
   "Orchid": {
     "name": "Orchid",
@@ -69622,16 +69618,16 @@
     "url": "/currencies/orchid",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Polychain Capital Portfolio",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4575...Da13Deb"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "https://ethplorer.io/address/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb"
+    ],
+    "git": "https://github.com/OrchidTechnologies/orchid"
   },
   "Order of the Black Rose": {
     "name": "Order of the Black Rose",
@@ -69640,16 +69636,16 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5956...fa31570"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x595643d83b35df38e29058976c04000acfa31570",
+      "https://bscscan.com/token/0xe49ed1b44117bb7379c1506cf5815ae33089e1a7"
+    ],
+    "git": "https://github.com/nftobr"
   },
   "Orient": {
     "name": "Orient",
@@ -69777,16 +69773,15 @@
       "E-commerce",
       "Marketplace",
       "Platform",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8207...541ae26"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+      "https://ethplorer.io/address/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+    ],
+    "git": "https://github.com/originprotocol"
   },
   "Origin Sport": {
     "name": "Origin Sport",
@@ -69794,16 +69789,15 @@
     "url": "/currencies/origin-sport",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeb9a...0b901b6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+      "https://ethplorer.io/address/0xeb9a4b185816c354db92db09cc3b50be60b901b6"
+    ],
+    "git": "https://github.com/OriginSport"
   },
   "OriginTrail": {
     "name": "OriginTrail",
@@ -69814,16 +69808,16 @@
       "Logistics",
       "Enterprise solutions",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaa7a...d0f0a6f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+      "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+    ],
+    "git": "https://github.com/origintrail"
   },
   "Originate Coin": {
     "name": "Originate Coin",
@@ -69913,16 +69907,15 @@
     "tags": [
       "Token",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0258...fC4434a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
+      "https://ethplorer.io/address/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+    ],
+    "git": "https://github.com/orionprotocol"
   },
   "Ormeus Cash": {
     "name": "Ormeus Cash",
@@ -69930,16 +69923,15 @@
     "url": "/currencies/ormeus-cash",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd6bd...789335b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+      "https://ethplorer.io/address/0xd6bd97a26232ba02172ff86b055d5d7be789335b"
+    ]
   },
   "Ormeus Coin": {
     "name": "Ormeus Coin",
@@ -69949,16 +69941,15 @@
       "Token",
       "Asset management",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc96d...2b75c60"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc96df921009b790dffca412375251ed1a2b75c60",
+      "https://ethplorer.io/address/0xc96df921009b790dffca412375251ed1a2b75c60"
+    ]
   },
   "Ormeus Ecosystem": {
     "name": "Ormeus Ecosystem",
@@ -70025,16 +70016,15 @@
     "url": "/currencies/p2p",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xabe9...e7d98bf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf",
+      "https://ethplorer.io/address/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf"
+    ]
   },
   "P2P Global Network": {
     "name": "P2P Global Network",
@@ -70137,16 +70127,15 @@
     "url": "/currencies/pantheon-x",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3b9e...ba60df4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3b9e094d56103611f0acefdab43182347ba60df4",
+      "https://etherscan.io/address/0x3b9e094d56103611f0acefdab43182347ba60df4"
+    ]
   },
   "PARETO Rewards": {
     "name": "PARETO Rewards",
@@ -70177,16 +70166,16 @@
     "url": "/currencies/parsiq",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "AI & Big Data",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x362b...43ed7D2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2#balances",
+      "https://ethplorer.io/address/0x362bc847A3a9637d3af6624EeC853618a43ed7D2"
+    ]
   },
   "PAX Gold": {
     "name": "PAX Gold",
@@ -70194,16 +70183,15 @@
     "url": "/currencies/pax-gold",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4580...ecbaf78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "https://ethplorer.io/address/0x45804880de22913dafe09f4980848ece6ecbaf78"
+    ],
+    "git": "https://github.com/paxosglobal/paxos-gold-contract"
   },
   "PAXEX": {
     "name": "PAXEX",
@@ -70419,16 +70407,15 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x630d...feaad78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+      "https://ethplorer.io/address/0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+    ],
+    "git": "https://github.com/peakdefi"
   },
   "PENG": {
     "name": "PENG",
@@ -70516,16 +70503,15 @@
     "url": "/currencies/philips-pay-coin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x84f7...4cc6a26"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26",
+      "https://ethplorer.io/address/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26"
+    ]
   },
   "PIBBLE": {
     "name": "PIBBLE",
@@ -70533,16 +70519,15 @@
     "url": "/currencies/pibble",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1864...c70b8a7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1864ce27e9f7517047933caae530674e8c70b8a7",
+      "https://ethplorer.io/address/0x1864ce27e9f7517047933caae530674e8c70b8a7"
+    ]
   },
   "PIRANHAS": {
     "name": "PIRANHAS",
@@ -70615,16 +70600,15 @@
     "url": "/currencies/pixel",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf889...a2b233b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf88951d7b676798705fd3a362ba5b1dbca2b233b",
+      "https://ethplorer.io/address/0xf88951d7b676798705fd3a362ba5b1dbca2b233b"
+    ],
+    "git": "https://github.com/piction-protocol"
   },
   "PLAAS FARMERS TOKEN": {
     "name": "PLAAS FARMERS TOKEN",
@@ -70662,16 +70646,15 @@
     "url": "/currencies/planet",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x307d...df632e4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+      "https://ethplorer.io/address/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
+    ]
   },
   "PLATINCOIN": {
     "name": "PLATINCOIN",
@@ -70763,16 +70746,21 @@
     "url": "/currencies/pop-network-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Media",
+      "Platform",
+      "Distributed Computing",
+      "Content Creation",
+      "Filesharing",
+      "Video",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5d85...2f04670"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5d858bcd53e085920620549214a8b27ce2f04670",
+      "https://ethplorer.io/address/0x5d858bcd53e085920620549214a8b27ce2f04670"
+    ]
   },
   "POPCHAIN": {
     "name": "POPCHAIN",
@@ -70853,16 +70841,14 @@
     "url": "/currencies/pria",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb987...dc3de24"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/address/0xb9871cb10738eada636432e86fc0cb920dc3de24"
+    ]
   },
   "PRIZM": {
     "name": "PRIZM",
@@ -70902,16 +70888,15 @@
     "url": "/currencies/proxi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc4cb...2cbe8a4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+      "https://ethplorer.io/address/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4"
+    ],
+    "git": "https://github.com/ProxideFi"
   },
   "PRiVCY": {
     "name": "PRiVCY",
@@ -70929,16 +70914,15 @@
     "url": "/currencies/pton",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4946...3e73060"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4946583c5b86e01ccd30c71a05617d06e3e73060",
+      "https://ethplorer.io/address/0x4946583c5b86e01ccd30c71a05617d06e3e73060"
+    ],
+    "git": "https://github.com/forestingnetwork"
   },
   "PUBLISH": {
     "name": "PUBLISH",
@@ -71241,16 +71225,15 @@
     "url": "/currencies/palletone",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfe76...d21aec6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfe76be9cec465ed3219a9972c21655d57d21aec6",
+      "https://ethplorer.io/address/0xfe76be9cec465ed3219a9972c21655d57d21aec6"
+    ],
+    "git": "https://github.com/PalletOne"
   },
   "Pamp Network": {
     "name": "Pamp Network",
@@ -71258,16 +71241,15 @@
     "url": "/currencies/pamp-network",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf0fa...5c65bd1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
+      "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
+    ],
+    "git": "https://github.com/Pamp-Network/"
   },
   "PancakeBunny": {
     "name": "PancakeBunny",
@@ -71346,16 +71328,15 @@
     "url": "/currencies/pantos",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5363...eab4c92"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
+      "https://ethplorer.io/address/0x536381a8628dbcc8c70ac9a30a7258442eab4c92"
+    ],
+    "git": "https://github.com/pantos-io"
   },
   "Paparazzi": {
     "name": "Paparazzi",
@@ -71363,16 +71344,15 @@
     "url": "/currencies/paparazzi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbcd8...0a79640"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbcd8756ea481608ea3dd5a555493305cf0a79640",
+      "https://ethplorer.io/address/0xbcd8756ea481608ea3dd5a555493305cf0a79640"
+    ]
   },
   "Parachute": {
     "name": "Parachute",
@@ -71380,16 +71360,20 @@
     "url": "/currencies/parachute",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Payments",
+      "Staking",
+      "DAO",
+      "Wallet",
+      "DeFi",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1bee...a5cee06"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+      "https://ethplorer.io/address/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06"
+    ]
   },
   "ParallelCoin": {
     "name": "ParallelCoin",
@@ -71556,16 +71540,15 @@
     "url": "/currencies/parkingo",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x613f...679c9d7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
+      "https://ethplorer.io/address/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7"
+    ]
   },
   "Parsiq Boost": {
     "name": "Parsiq Boost",
@@ -71627,16 +71610,15 @@
       "Token",
       "Health",
       "Data Provenance",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8ae4...eb8cc06"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
+      "https://ethplorer.io/address/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06"
+    ],
+    "git": "https://github.com/PTOYNetwork"
   },
   "Patron": {
     "name": "Patron",
@@ -71644,16 +71626,15 @@
     "url": "/currencies/patron",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xF3b3...F2Bc624"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624",
+      "https://ethplorer.io/address/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624"
+    ]
   },
   "Pawtocol": {
     "name": "Pawtocol",
@@ -71661,16 +71642,15 @@
     "url": "/currencies/pawtocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x70d2...0f2b67c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
+      "https://ethplorer.io/address/0x70d2b7c19352bb76e4409858ff5746e500f2b67c"
+    ],
+    "git": "https://github.com/pawtocol/Token"
   },
   "Paxos Standard": {
     "name": "Paxos Standard",
@@ -71681,16 +71661,20 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8e87...88289e1"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "https://ethplorer.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "https://blockchair.com/ethereum/erc-20/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "https://eth.tokenview.com/en/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "https://bscscan.com/token/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094"
+    ],
+    "git": "https://github.com/paxosglobal/pax-contracts"
   },
   "PayAccept": {
     "name": "PayAccept",
@@ -71698,16 +71682,14 @@
     "url": "/currencies/payaccept",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8EF4...7d2e2E2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2"
+    ],
+    "git": "https://github.com/payaccept"
   },
   "PayCoin": {
     "name": "PayCoin",
@@ -72119,16 +72101,15 @@
     "url": "/currencies/paypolitan-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7263...e47bafc"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+      "https://ethplorer.io/address/0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
+    ]
   },
   "Payship": {
     "name": "Payship",
@@ -72285,16 +72266,15 @@
       "Decentralized exchange",
       "Staking",
       "DApp",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3c6f...15fe643"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3c6ff50c9ec362efa359317009428d52115fe643",
+      "https://ethplorer.io/address/0x3c6ff50c9ec362efa359317009428d52115fe643"
+    ]
   },
   "Peercoin": {
     "name": "Peercoin",
@@ -72495,16 +72475,15 @@
     "url": "/currencies/penta",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5306...ede5da3"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3",
+      "https://ethplorer.io/address/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
+    ],
+    "git": "https://github.com/pentaglobal"
   },
   "Peony": {
     "name": "Peony",
@@ -72558,16 +72537,17 @@
     "url": "/currencies/perlin",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Singapore",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xeca8...f860318"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeca82185adce47f39c684352b0439f030f860318",
+      "https://ethplorer.io/address/0xeca82185adce47f39c684352b0439f030f860318"
+    ],
+    "git": "https://github.com/perlin-network"
   },
   "Permission Coin": {
     "name": "Permission Coin",
@@ -72584,16 +72564,17 @@
     "url": "/currencies/perpetual-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "AMM",
+      "Three Arrows Capital Portfolio",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xbc39...5233447"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447"
+    ]
   },
   "Perth Mint Gold Token": {
     "name": "Perth Mint Gold Token",
@@ -72601,16 +72582,15 @@
     "url": "/currencies/perth-mint-gold-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaffc...f79efef"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+      "https://ethplorer.io/address/0xaffcdd96531bcd66faed95fc61e443d08f79efef"
+    ],
+    "git": "https://github.com/infinigold-pty-ltd/pmgt-contracts"
   },
   "Pesetacoin": {
     "name": "Pesetacoin",
@@ -72770,16 +72750,23 @@
     "url": "/currencies/phantasma-energy",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Collectibles & NFTs",
+      "DApp",
+      "Payments",
+      "Gaming",
+      "DeFi",
+      "Content Creation",
+      "Cosmos Ecosystem",
+      "PoS",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x14eb...6f8a06d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+      "https://ethplorer.io/address/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d"
+    ],
+    "git": "https://github.com/Phantasma-io"
   },
   "Phantomx": {
     "name": "Phantomx",
@@ -72863,16 +72850,15 @@
       "DAO",
       "Identity",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x38A2...0fBF2f7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+      "https://ethplorer.io/address/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7"
+    ],
+    "git": "https://github.com/PhoenixDAO"
   },
   "Phoenixcoin": {
     "name": "Phoenixcoin",
@@ -73023,16 +73009,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xA7E0...5962106"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xA7E0719a65128b2f6cDbc86096753Ff7d5962106"
+    ],
+    "git": "https://github.com/picaproject/Solcode/blob/main/pica.sol"
   },
   "Pickle Finance": {
     "name": "Pickle Finance",
@@ -73041,16 +73024,19 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "DAO",
+      "Yield Aggregator",
+      "Yearn Partnerships",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4298...b891Ca5"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+      "https://ethplorer.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
+    ],
+    "git": "https://github.com/pickle-finance/contracts"
   },
   "PieDAO BTC++": {
     "name": "PieDAO BTC++",
@@ -73124,16 +73110,15 @@
     "url": "/currencies/piedao-defi-large-cap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x78f2...fe8eb78"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+      "https://ethplorer.io/address/0x78f225869c08d478c34e5f645d07a87d3fe8eb78"
+    ]
   },
   "PieDAO DEFI Small Cap": {
     "name": "PieDAO DEFI Small Cap",
@@ -73141,16 +73126,15 @@
     "url": "/currencies/piedao-defi-small-cap",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xad6a...365ba9c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+      "https://ethplorer.io/address/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c"
+    ]
   },
   "PieDAO DEFI++": {
     "name": "PieDAO DEFI++",
@@ -73183,16 +73167,16 @@
       "Token",
       "DeFi",
       "DAO",
-      "Ethereum"
+      "Ethereum",
+      "Yield farming",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xad32...E737b2D"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+      "https://ethplorer.io/address/0xad32A8e6220741182940c5aBF610bDE99E737b2D"
+    ]
   },
   "PieDAO Yearn Ecosystem Pie": {
     "name": "PieDAO Yearn Ecosystem Pie",
@@ -73237,16 +73221,16 @@
       "Platform",
       "Distributed Computing",
       "Identity",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe381...3149c17"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+      "https://ethplorer.io/address/0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
+    ],
+    "git": "https://github.com/pillarwallet"
   },
   "Pilnette": {
     "name": "Pilnette",
@@ -73655,16 +73639,14 @@
     "url": "/currencies/playdapp",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3a4f...3fCb430"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430"
+    ],
+    "git": "https://github.com/playdapp"
   },
   "PlayFuel": {
     "name": "PlayFuel",
@@ -73672,16 +73654,15 @@
     "url": "/currencies/playfuel",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xaDA6...4FFd4Ef"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+      "https://ethplorer.io/address/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef"
+    ]
   },
   "PlayGame": {
     "name": "PlayGame",
@@ -73689,16 +73670,15 @@
     "url": "/currencies/playgame",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x47e6...d47437e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
+      "https://ethplorer.io/address/0x47e67ba66b0699500f18a53f94e2b9db3d47437e"
+    ],
+    "git": "https://github.com/playgame-global"
   },
   "Playgroundz": {
     "name": "Playgroundz",
@@ -73706,16 +73686,15 @@
     "url": "/currencies/playgroundz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x1c4b...e712006"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1c4b7d0e1885bd7667af3378e0c538f74e712006",
+      "https://ethplorer.io/address/0x1c4b7d0e1885bd7667af3378e0c538f74e712006"
+    ],
+    "git": "https://github.com/Playgroundz/smart-contracts"
   },
   "Playkey": {
     "name": "Playkey",
@@ -73726,16 +73705,15 @@
       "Media",
       "Gaming",
       "Entertainment",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2604...815e83f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2604fa406be957e542beb89e6754fcde6815e83f",
+      "https://ethplorer.io/address/0x2604fa406be957e542beb89e6754fcde6815e83f"
+    ],
+    "git": "https://github.com/Playkey/ico-contracts"
   },
   "Pledge Coin": {
     "name": "Pledge Coin",
@@ -73744,18 +73722,16 @@
     "tags": [
       "Token",
       "Binance",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "PLG-D8D",
-        "0x85ca...BD921bD"
-      ],
-      "forked_from": [
-        "Binance",
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x85ca6710D0F1D511d130f6935eDDA88ACBD921bD",
+      "https://explorer.binance.org/asset/PLG-D8D"
+    ]
   },
   "PlotX": {
     "name": "PlotX",
