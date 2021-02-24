@@ -76022,16 +76022,15 @@
     "url": "/currencies/q-dao-governance-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3166...2efe1f2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+      "https://ethplorer.io/address/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2"
+    ],
+    "git": "https://github.com/Platinumengineering/USDQ"
   },
   "QANplatform": {
     "name": "QANplatform",
@@ -76039,16 +76038,15 @@
     "url": "/currencies/qanplatform",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6312...1732c43"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x63120ccd7b415743e8753afd167f5ad4a1732c43",
+      "https://ethplorer.io/address/0x63120ccd7b415743e8753afd167f5ad4a1732c43"
+    ],
+    "git": "https://github.com/QANplatform/erc20/blob/master/contracts/QARK.sol"
   },
   "QASH": {
     "name": "QASH",
@@ -76059,16 +76057,15 @@
       "Marketplace",
       "Discount token",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x618e...b0037f6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+      "https://ethplorer.io/address/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+    ]
   },
   "QChi": {
     "name": "QChi",
@@ -76076,16 +76073,15 @@
     "url": "/currencies/qchi",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x687b...e781a0e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x687bfc3e73f6af55f0ccca8450114d107e781a0e",
+      "https://ethplorer.io/address/0x687bfc3e73f6af55f0ccca8450114d107e781a0e"
+    ],
+    "git": "https://github.com/qch-qchi/"
   },
   "QChi Chain": {
     "name": "QChi Chain",
@@ -76203,16 +76199,15 @@
     "url": "/currencies/queenbee",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x9bbc...d7759d4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x38bC89cF1f634C71896620bcD807Af235cBdEcd1",
+      "https://ethplorer.io/address/0x38bC89cF1f634C71896620bcD807Af235cBdEcd1"
+    ]
   },
   "QUINADS": {
     "name": "QUINADS",
@@ -76328,16 +76323,15 @@
     "url": "/currencies/quras",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x70da...c09d8ac"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac",
+      "https://ethplorer.io/address/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac"
+    ]
   },
   "QUSD": {
     "name": "QUSD",
@@ -76545,16 +76539,15 @@
     "url": "/currencies/quadrantprotocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xc28e...4fe7df2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xc28e931814725bbeb9e670676fabbcb694fe7df2",
+      "https://ethplorer.io/address/0xc28e931814725bbeb9e670676fabbcb694fe7df2"
+    ]
   },
   "Quant": {
     "name": "Quant",
@@ -76564,16 +76557,15 @@
       "Token",
       "Platform",
       "Interoperability",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x4a22...8254675"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+      "https://ethplorer.io/address/0x4a220e6096b25eadb88358cb44068a3248254675"
+    ],
+    "git": "https://github.com/quantnetwork/eth-contract-metadata"
   },
   "Quantbook": {
     "name": "Quantbook",
@@ -76677,16 +76669,15 @@
       "Token",
       "Cybersecurity",
       "Smart Contracts",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x99ea...070b80d"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
+      "https://ethplorer.io/address/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d"
+    ],
+    "git": "https://github.com/quantstamp"
   },
   "Quantum Resistant Ledger": {
     "name": "Quantum Resistant Ledger",
@@ -76725,16 +76716,15 @@
       "Token",
       "Marketplace",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xea26...7b2b664"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+      "https://ethplorer.io/address/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+    ],
+    "git": "https://github.com/QuarkChain"
   },
   "Quasarcoin": {
     "name": "Quasarcoin",
@@ -76917,16 +76907,15 @@
     "url": "/currencies/quickx-protocol",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf9e5...ec79aee"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee",
+      "https://ethplorer.io/address/0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee"
+    ],
+    "git": "https://github.com/quickxprotocol"
   },
   "Quish Coin": {
     "name": "Quish Coin",
@@ -76993,16 +76982,15 @@
     "url": "/currencies/quiverx",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6e0d...70b14d8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+      "https://ethplorer.io/address/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8"
+    ],
+    "git": "https://github.com/QuiverX/QuiverX"
   },
   "Quiztok": {
     "name": "Quiztok",
@@ -77010,16 +76998,15 @@
     "url": "/currencies/quiztok",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa00a...271c050"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa00a4d5786a6e955e9539d01d78bf68f3271c050",
+      "https://ethplorer.io/address/0xa00a4d5786a6e955e9539d01d78bf68f3271c050"
+    ]
   },
   "QunQun": {
     "name": "QunQun",
@@ -77029,16 +77016,15 @@
       "Token",
       "Media",
       "Payments",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x264D...16fb7b4"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4",
+      "https://ethplorer.io/address/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4"
+    ]
   },
   "Quotient": {
     "name": "Quotient",
@@ -77118,17 +77104,15 @@
     "url": "/currencies/r34p",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "17122020",
-    "forked_data": {
-      "block": [
-        "0xcaea...a8881f6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcaeaf8381d4b20b43afa42061d6f80319a8881f6"
+    ]
   },
   "RAKSUR": {
     "name": "RAKSUR",
@@ -77167,16 +77151,15 @@
     "url": "/currencies/rakun",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x51bc...206d27f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f",
+      "https://ethplorer.io/address/0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f"
+    ],
+    "git": "https://github.com/RAKUNproject"
   },
   "RAMP": {
     "name": "RAMP",
@@ -77184,16 +77167,15 @@
     "url": "/currencies/ramp",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x33D0...7deEd9f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f"
+    ],
+    "git": "https://github.com/RAMP-DEFI/RAMP_SECURITY_AUDITS"
   },
   "RChain": {
     "name": "RChain",
@@ -77272,17 +77254,16 @@
     "url": "/currencies/realpay",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "08122020",
-    "forked_data": {
-      "block": [
-        "0xb23d...6d5822a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb23d94fabded02556910ceeb68fe998d66d5822a",
+      "https://ethplorer.io/address/0xb23d94fabded02556910ceeb68fe998d66d5822a"
+    ],
+    "git": "https://github.com/zenisreality/RAP-ERC20-token"
   },
   "REBIT": {
     "name": "REBIT",
@@ -77290,16 +77271,15 @@
     "url": "/currencies/rebit",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcE13...F19CF90"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90",
+      "https://ethplorer.io/address/0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90"
+    ],
+    "git": "https://github.com/rebitlabs/KeyboardToken"
   },
   "RED": {
     "name": "RED",
@@ -77308,16 +77288,15 @@
     "tags": [
       "Token",
       "Marketplace",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x7696...27aeb2f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+      "https://ethplorer.io/address/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f"
+    ],
+    "git": "https://github.com/red/red"
   },
   "REDi": {
     "name": "REDi",
@@ -77405,16 +77384,14 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x557b...a51a8ca"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+    ],
+    "git": "https://github.com/animocabrands/f1dt-ethereum-contracts/blob/master/contracts/token/ERC20/REVV.sol"
   },
   "RI Token": {
     "name": "RI Token",
@@ -77586,16 +77563,15 @@
     "url": "/currencies/roobee",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa31b...e3891aa"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+      "https://ethplorer.io/address/0xa31b1767e09f842ecfd4bc471fe44f830e3891aa"
+    ],
+    "git": "https://github.com/roobee-platform"
   },
   "ROONEX": {
     "name": "ROONEX",
@@ -77603,16 +77579,15 @@
     "url": "/currencies/roonex",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x72a6...73873c8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x72a6344185B383035d6665C3f44a9DfCC73873c8",
+      "https://ethplorer.io/address/0x72a6344185B383035d6665C3f44a9DfCC73873c8"
+    ]
   },
   "ROS Coin": {
     "name": "ROS Coin",
@@ -77680,16 +77655,14 @@
     "url": "/currencies/rush",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x3957...c1269ec"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x395768aeb16484e5785612a98e9408e4cc1269ec"
+    ],
+    "git": "https://github.com/rushmintable"
   },
   "RabbitCoin": {
     "name": "RabbitCoin",
@@ -77756,16 +77729,13 @@
     "tags": [
       "Token",
       "Ethereum",
-      "Ethereum"
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6468...Af59414"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414"
+    ],
+    "git": "https://github.com/radixdlt & https://github.com/RadixTokensJersey"
   },
   "Ragnarok": {
     "name": "Ragnarok",
@@ -77810,16 +77780,15 @@
       "Token",
       "Platform",
       "State channels",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x255a...52bc8e6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+      "https://ethplorer.io/address/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6"
+    ],
+    "git": "https://github.com/raiden-network/raiden/"
   },
   "Raise": {
     "name": "Raise",
@@ -77863,16 +77832,14 @@
     "url": "/currencies/rake-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xa8b0...0a0be66"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa8b0f154a688c22142e361707df64277e0a0be66"
+    ]
   },
   "Rakon": {
     "name": "Rakon",
@@ -77880,16 +77847,15 @@
     "url": "/currencies/rakon",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6e5a...c7ea597"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6e5a43db10b04701385a34afb670e404bc7ea597",
+      "https://ethplorer.io/address/0x6e5a43db10b04701385a34afb670e404bc7ea597"
+    ]
   },
   "Rally": {
     "name": "Rally",
@@ -77964,16 +77930,15 @@
     "url": "/currencies/rapidz",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6835...ff4ea49"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49",
+      "https://ethplorer.io/address/0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49"
+    ]
   },
   "Rari Governance Token": {
     "name": "Rari Governance Token",
@@ -77984,17 +77949,18 @@
       "Yield farming",
       "Token",
       "DAO",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "Yield Aggregator",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "07122020",
-    "forked_data": {
-      "block": [
-        "0xd291...46cc623"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
+      "https://ethplorer.io/address/0xD291E7a03283640FDc51b121aC401383A46cC623"
+    ],
+    "git": "https://github.com/Rari-Capital"
   },
   "Rarible": {
     "name": "Rarible",
@@ -78003,16 +77969,16 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum"
+      "Ethereum",
+      "DAO",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xfca5...ce441cf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "https://ethplorer.io/address/0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+    ]
   },
   "Rate3": {
     "name": "Rate3",
@@ -78020,16 +77986,15 @@
     "url": "/currencies/rate3",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x436f...994fe53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x436f0f3a982074c4a05084485d421466a994fe53",
+      "https://ethplorer.io/address/0x436f0f3a982074c4a05084485d421466a994fe53"
+    ],
+    "git": "https://github.com/rate-engineering/"
   },
   "Ratecoin": {
     "name": "Ratecoin",
@@ -78165,16 +78130,15 @@
     "tags": [
       "Token",
       "Manufacturing",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6653...0ca16e2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6653c0d21507573cc39ead1e609d74d5e0ca16e2",
+      "https://ethplorer.io/address/0x6653c0d21507573cc39ead1e609d74d5e0ca16e2"
+    ],
+    "git": "https://github.com/refork-org/EFK-smart_contract/blob/master/EFK.sol"
   },
   "RealChain": {
     "name": "RealChain",
@@ -78306,16 +78270,22 @@
     "url": "/currencies/receive-access-ecosystem",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Media",
+      "Marketplace",
+      "Communications & Social Media",
+      "Entertainment",
+      "Content Creation",
+      "Payments",
+      "United States of America",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xE5a3...d948756"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xE5a3229CCb22b6484594973A03a3851dCd948756",
+      "https://ethplorer.io/address/0xE5a3229CCb22b6484594973A03a3851dCd948756"
+    ],
+    "git": "https://github.com/rokfin/eth-contracts"
   },
   "Red Box Dapp Token": {
     "name": "Red Box Dapp Token",
@@ -78471,16 +78441,15 @@
       "Media",
       "Content Creation",
       "Gaming",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xd092...c5e149c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+      "https://ethplorer.io/address/0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+    ]
   },
   "Reflector.Finance": {
     "name": "Reflector.Finance",
@@ -78488,17 +78457,15 @@
     "url": "/currencies/reflector-finance",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "17122020",
-    "forked_data": {
-      "block": [
-        "0x16b1...11a1d2c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x16b1eb8b8e9058800bf0ba3684f805a6711a1d2c"
+    ]
   },
   "Refract": {
     "name": "Refract",
@@ -78599,16 +78566,18 @@
       "Services",
       "Logistics",
       "AI & Big Data",
-      "Ethereum"
+      "Ethereum",
+      "E-commerce",
+      "Mobile",
+      "Smart Contracts",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x61bf...bafa02a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x61bfc979ea8160ede9b862798b7833a97bafa02a",
+      "https://ethplorer.io/address/0x61bfc979ea8160ede9b862798b7833a97bafa02a"
+    ]
   },
   "Relevant": {
     "name": "Relevant",
@@ -78616,16 +78585,15 @@
     "url": "/currencies/relevant",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xb6c4...2f105ec"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+      "https://ethplorer.io/address/0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec"
+    ],
+    "git": "https://github.com/relevant-community/relevant"
   },
   "Relex": {
     "name": "Relex",
@@ -78683,16 +78651,17 @@
       "Token",
       "Marketplace",
       "DeFi",
-      "Ethereum"
+      "Ethereum",
+      "DOT Ecosystem",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x408e...6052a38"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
+      "https://ethplorer.io/address/0x408e41876cccdc0f92210600ef50372656052a38",
+      "https://eth.tokenview.com/en/token/0x408e41876cccdc0f92210600ef50372656052a38"
+    ],
+    "git": "https://github.com/renproject"
   },
   "Render Token": {
     "name": "Render Token",
@@ -78700,16 +78669,15 @@
     "url": "/currencies/render-token",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6de0...e4aeb24"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+      "https://ethplorer.io/address/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+    ]
   },
   "Renewable Electronic Energy Coin": {
     "name": "Renewable Electronic Energy Coin",
@@ -78759,16 +78727,16 @@
       "Payments",
       "Smart Contracts",
       "Platform",
-      "Ethereum"
+      "Ethereum",
+      "DApp",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8f82...37a938a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+      "https://ethplorer.io/address/0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+    ],
+    "git": "https://github.com/RequestNetwork/"
   },
   "Reserve": {
     "name": "Reserve",
@@ -78778,16 +78746,14 @@
       "Token",
       "DeFi",
       "Stablecoin",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x196f...8486988"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x196f4727526eA7FB1e17b2071B3d8eAA38486988"
+    ]
   },
   "Reserve Rights": {
     "name": "Reserve Rights",
@@ -78799,16 +78765,16 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Ethereum"
+      "Ethereum",
+      "Coinbase Ventures Portfolio",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x8762...52616e8"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+      "https://ethplorer.io/address/0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+    ],
+    "git": "https://github.com/reserve-protocol"
   },
   "Resistance": {
     "name": "Resistance",
@@ -78901,16 +78867,15 @@
     "tags": [
       "Token",
       "Energy",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x6425...b099d3b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x6425c6be902d692ae2db752b3c268afadb099d3b",
+      "https://ethplorer.io/address/0x6425c6be902d692ae2db752b3c268afadb099d3b"
+    ],
+    "git": "https://github.com/TransylvaniaHighTech/RestartEnergyICO"
   },
   "Revain": {
     "name": "Revain",
@@ -78924,16 +78889,18 @@
       "Ethereum",
       "United Kingdom",
       "United Arab Emirates",
-      "Tron"
+      "Tron",
+      "TRON",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x2ef5...2D7Edc9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+      "https://ethplorer.io/address/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+      "https://tronscan.org/#/token20/TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k"
+    ],
+    "git": "https://github.com/Revain"
   },
   "Rewardiqa": {
     "name": "Rewardiqa",
@@ -79162,16 +79129,15 @@
     "tags": [
       "Token",
       "Services",
-      "Ethereum"
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xf970...83375a6"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+      "https://ethplorer.io/address/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    ],
+    "git": "https://github.com/ripio/rcn-network"
   },
   "Ripple Alpha": {
     "name": "Ripple Alpha",
@@ -79327,16 +79293,15 @@
     "url": "/currencies/rivermount",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5AB5...B167C3C"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x5AB55ec290BeacAE98f54c3eB70860460B167C3C",
+      "https://ethplorer.io/address/0x5ab55ec290beacae98f54c3eb70860460b167c3c"
+    ]
   },
   "Rivetz": {
     "name": "Rivetz",
@@ -79472,16 +79437,15 @@
     "url": "/currencies/robocalls",
     "tags": [
       "Token",
-      "Ethereum"
+      "Ethereum",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x61b2...284e5c7"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7",
+      "https://ethplorer.io/address/0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7"
+    ]
   },
   "Robonomics Web Services": {
     "name": "Robonomics Web Services",
