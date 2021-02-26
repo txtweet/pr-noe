@@ -59650,8 +59650,8 @@
       "Other Contract",
       "New2"
     ],
+    "explorer": "https://www.mcashscan.io/",
     "forked_data": [
-      "https://www.mcashscan.io/",
       "https://explorer.binance.org/asset/MCASH-869"
     ],
     "git": "https://github.com/MidasCore/java-mcashchain"
@@ -60188,9 +60188,6 @@
       "Platform",
       "DApp",
       "New2"
-    ],
-    "forked_data": [
-      "http://www.wavesgo.com/assets.html?HzfaJp8YQWLvQG4FkUxq2Q7iYWMYQ2k8UF89vVJAjWPj"
     ],
     "git": "https://github.com/SigwoTechnologies"
   },
@@ -61066,6 +61063,7 @@
       "Token",
       "DeFi",
       "Ethereum Contract",
+      "Terra Contract",
       "New2"
     ],
     "sawBirth": "07122020",
@@ -61183,6 +61181,7 @@
       "Mirror",
       "NoLicenceFile",
       "Ethereum Contract",
+      "Terra Contract",
       "New2"
     ],
     "sawBirth": "16122020",
@@ -61247,6 +61246,7 @@
       "Token",
       "NoLicenceFile",
       "Ethereum Contract",
+      "Terra Contract",
       "New2"
     ],
     "sawBirth": "18122020",
@@ -61294,6 +61294,7 @@
       "Mirror",
       "NoLicenceFile",
       "Ethereum Contract",
+      "Terra Contract",
       "New2"
     ],
     "sawBirth": "16122020",
@@ -61340,6 +61341,7 @@
       "Mirror",
       "NoLicenceFile",
       "Ethereum Contract",
+      "Terra Contract",
       "New2"
     ],
     "sawBirth": "16122020",
@@ -61475,8 +61477,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer":"https://mixin.one/snapshots",
     "forked_data": [
-      "https://mixin.one/snapshots",
       "https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33",
       "https://ethplorer.io/address/0xa974c709cfb4566686553a20790685a47aceaa33"
     ],
@@ -62861,7 +62863,6 @@
       "New2"
     ],
     "forked_data": [
-      "https://explorer.ont.io/token/detail/oep4/e5a49d7fd57e7178e189d3965d1ee64368a1036d/MovieBloc/10/1",
       "https://explorer.binance.org/asset/MBL-2D2"
     ]
   },
@@ -64255,8 +64256,7 @@
       "New2"
     ],
     "forked_data": [
-      "https://neotracker.io/contract/3a4acd3647086e7c44398aac0349802e6a171129",
-      "https://scan.nel.group/nep5/0x3a4acd3647086e7c44398aac0349802e6a171129"
+      "https://neotracker.io/contract/3a4acd3647086e7c44398aac0349802e6a171129"
     ],
     "git": "https://github.com/nash-io"
   },
@@ -65347,8 +65347,8 @@
       "Other Contract",
       "New2"
     ],
+    "explorer": "https://explorer.newtonproject.org/",
     "forked_data": [
-      "https://explorer.newtonproject.org/",
       "https://explorer.binance.org/asset/NEW-09E"
     ],
     "git": "https://github.com/newtonproject"
@@ -66668,12 +66668,11 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://omg.eco/blockexplorer",
     "forked_data": [
-      "https://omg.eco/blockexplorer",
       "https://etherscan.io/token/OmiseGo",
       "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-      "https://blockchair.com/ethereum/erc-20/token/0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-      "https://omisego.to/quest"
+      "https://blockchair.com/ethereum/erc-20/token/0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
     ],
     "git": "https://github.com/omgnetwork"
   },
@@ -66858,10 +66857,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://view.ost.com",
     "forked_data": [
       "https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
-      "https://ethplorer.io/address/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
-      "https://view.ost.com"
+      "https://ethplorer.io/address/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca"
     ],
     "git": "https://github.com/OpenST"
   },
@@ -67290,6 +67289,7 @@
     "tags": [
       "Token",
       "NoGitHub",
+      "VeChain Contract",
       "New2"
     ],
     "forked_data": [
@@ -67726,8 +67726,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://oneledger.network/",
     "forked_data": [
-      "https://oneledger.network/",
       "https://etherscan.io/token/0x64a60493d888728cf42616e034a0dfeae38efcf0",
       "https://ethplorer.io/address/0x64a60493d888728cf42616e034a0dfeae38efcf0"
     ],
@@ -67863,9 +67863,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.ont.io/"
-    ]
+    "explorer": "https://explorer.ont.io/"
   },
   "Opacity": {
     "name": "Opacity",
@@ -68214,6 +68212,7 @@
       "Platform",
       "Oracles",
       "NoGitHub",
+      "EOS Contract",
       "New2"
     ],
     "forked_data": [
@@ -68662,8 +68661,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://www.ogoscan.io/",
     "forked_data": [
-      "https://www.ogoscan.io/",
       "https://etherscan.io/token/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
       "https://ethplorer.io/address/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e"
     ],
@@ -73785,9 +73784,6 @@
       "Real Estate",
       "NoGitHub",
       "New2"
-    ],
-    "forked_data": [
-      "http://www.wavesgo.com/assets.html?EdDvbhk4wJ1kL6pMCq1V36GbQE2nGE7Metb87zbaY2JL"
     ]
   },
   "Primas": {
@@ -74258,10 +74254,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://proton.bloks.io/",
     "forked_data": [
       "https://etherscan.io/token/0xd7efb00d12c2c13131fd319336fdf952525da2af",
-      "https://ethplorer.io/address/0xd7efb00d12c2c13131fd319336fdf952525da2af",
-      "https://proton.bloks.io/"
+      "https://ethplorer.io/address/0xd7efb00d12c2c13131fd319336fdf952525da2af"
     ],
     "git": "https://github.com/ProtonProtocol"
   },
@@ -74365,9 +74361,7 @@
       "Coin",
       "New2"
     ],
-    "forked_data": [
-      "http://explorer.xpxsirius.io/#"
-    ],
+    "explorer": "http://explorer.xpxsirius.io/#",
     "git": "https://github.com/proximax-storage"
   },
   "ProxyNode": {
@@ -74841,9 +74835,7 @@
       "Coin",
       "New2"
     ],
-    "forked_data": [
-      "https://qoober.space/txs"
-    ],
+    "explorer": "https://qoober.space/txs",
     "git": "https://github.com/Qoober/qoober-node"
   },
   "QPay": {
@@ -76152,9 +76144,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.intchain.io/"
-    ]
+    "explorer": "https://explorer.intchain.io/"
   },
   "ROCKI": {
     "name": "ROCKI",
@@ -76316,9 +76306,7 @@
       "Filesharing",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
-    ],
+    "explorer": "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
     "git": "https://github.com/riflabs"
   },
   "RSK Smart Bitcoin": {
@@ -77310,11 +77298,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://remchain.remme.io/",
     "forked_data": [
-      "https://remchain.remme.io/",
       "https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
-      "https://ethplorer.io/address/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
-      "https://testchain.remme.io/"
+      "https://ethplorer.io/address/0x83984d6142934bb535793a82adb0a46ef0f66b6d"
     ],
     "git": "https://github.com/Remmeauth/remprotocol"
   },
@@ -78663,8 +78650,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://www.s4fe.org/transactions",
     "forked_data": [
-      "https://www.s4fe.org/transactions",
       "https://etherscan.io/token/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
       "https://ethplorer.io/address/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a"
     ],
@@ -79276,9 +79263,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://tracker.icon.foundation/token/cx429731644462ebcfd22185df38727273f16f9b87"
-    ]
+    "explorer":"https://tracker.icon.foundation/token/cx429731644462ebcfd22185df38727273f16f9b87"
   },
   "SONDER": {
     "name": "SONDER",
@@ -79885,9 +79870,7 @@
       "Token",
       "New2"
     ],
-    "forked_data": [
-      "https://vapor.blockmeta.com/asset/47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e"
-    ],
+    "explorer": "https://vapor.blockmeta.com/asset/47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e",
     "git": "https://github.com/Bytom/vapor"
   },
   "SUP8EME": {
@@ -80149,7 +80132,7 @@
       "Collectibles & NFTs",
       "DeFi",
       "Quantum-Resistant",
-      "VeChain",
+      "VeChain Contract",
       "Singapore",
       "PoA",
       "Proof-of-Authority",
@@ -83724,9 +83707,7 @@
       "DeFi",
       "New2"
     ],
-    "forked_data": [
-      "https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz"
-    ],
+    "explorer": "https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz",
     "git": "https://github.com/sologenic"
   },
   "Solomon Defi": {
@@ -87697,9 +87678,9 @@
       "Other Contract",
       "New2"
     ],
+    "explorer":"https://viewblock.io/thorchain",
     "forked_data": [
-      "https://explorer.binance.org/asset/RUNE-B1A",
-      "https://viewblock.io/thorchain"
+      "https://explorer.binance.org/asset/RUNE-B1A"
     ],
     "git": "https://github.com/thorchain"
   },
@@ -87797,10 +87778,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://e.tnccoin.com/",
     "forked_data": [
       "https://etherscan.io/token/0xd59ffBE33F93aA0ec95EA563c676333100d1dfE0",
-      "https://ethplorer.io/address/0xd59ffbe33f93aa0ec95ea563c676333100d1dfe0",
-      "https://e.tnccoin.com/"
+      "https://ethplorer.io/address/0xd59ffbe33f93aa0ec95ea563c676333100d1dfe0"
     ]
   },
   "TOKOK": {
@@ -88433,9 +88414,7 @@
       "Token",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.v.systems/token/TWZZfKFqcaNVe5TrphLRNEm5DQFnBRJMjDDByqv84"
-    ],
+    "explorer": "https://explorer.v.systems/token/TWZZfKFqcaNVe5TrphLRNEm5DQFnBRJMjDDByqv84",
     "git": "https://github.com/tachyon-protocol"
   },
   "Tacos": {
@@ -88991,10 +88970,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://www.tellorscan.com/",
     "forked_data": [
       "https://etherscan.io/token/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
-      "https://ethplorer.io/address/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
-      "https://www.tellorscan.com/"
+      "https://ethplorer.io/address/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5"
     ],
     "git": "https://github.com/tellor-io"
   },
@@ -89009,10 +88988,7 @@
       "EOS Contract",
       "New2"
     ],
-    "forked_data": [
-      "https://telos.bloks.io/",
-      "https://telostracker.io/topHolders"
-    ],
+    "explorer": "https://telos.bloks.io/",
     "git": "https://github.com/Telos-Foundation/eosio.contracts/blob/master/LICENSE"
   },
   "Teloscoin": {
@@ -89217,7 +89193,8 @@
       "DeFi",
       "Payments",
       "Stablecoin - Algorithmically-Stabilized",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Terra"
     ],
     "git": "https://github.com/terra-project"
   },
@@ -89394,6 +89371,7 @@
       "Ethereum Contract",
       "Other Contract",
       "Binance Contract",
+      "Omni Contract",
       "New2"
     ],
     "depends": [
@@ -89414,7 +89392,6 @@
     "forked_data": [
       "https://www.omniexplorer.info/asset/31",
       "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "https://algoexplorer.io/asset/312769",
       "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
       "https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955"
     ]
@@ -89704,9 +89681,9 @@
     ],
     "sawBirth": "18122020",
     "git": "https://github.com/graphprotocol",
+    "explorer": "https://thegraph.com/explorer/",
     "forked_data": [
-      "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-      "https://thegraph.com/explorer/"
+      "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7"
     ]
   },
   "The Hash Speed": {
@@ -89905,9 +89882,9 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://www.dextools.io/app/uniswap/pair-explorer/0x54febfc615d90c8b3e836c6e5aeabbb734e1672f",
     "forked_data": [
-      "https://etherscan.io/token/0x96dd2c778fb281294fa9c1d2b8af3b47369306f2",
-      "https://www.dextools.io/app/uniswap/pair-explorer/0x54febfc615d90c8b3e836c6e5aeabbb734e1672f"
+      "https://etherscan.io/token/0x96dd2c778fb281294fa9c1d2b8af3b47369306f2"
     ]
   },
   "TheToken.Network": {
@@ -89940,10 +89917,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://themiscan.io/explorer",
     "forked_data": [
       "https://etherscan.io/token/0x60c68a87be1e8a84144b543aacfa77199cd3d024",
-      "https://etherscan.io/address/0x60c68a87be1e8a84144b543aacfa77199cd3d024",
-      "https://themiscan.io/explorer"
+      "https://etherscan.io/address/0x60c68a87be1e8a84144b543aacfa77199cd3d024"
     ],
     "git": "https://github.com/themis-network/go-themis"
   },
@@ -90120,6 +90097,7 @@
       "Token",
       "NoGitHub",
       "Ethereum Contract",
+      "Waves Contract",
       "New2"
     ],
     "forked_data": [
@@ -91192,11 +91170,12 @@
       "Health",
       "Payments",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Waves Contract"
     ],
+    "explorer": "https://explore.tokesplatform.org/",
     "forked_data": [
-      "https://wavesexplorer.com/tx/ATrsNse6UZwNSMruNKsR4bnoTsp89BvLMmBZECRcPoif",
-      "https://explore.tokesplatform.org/"
+      "https://wavesexplorer.com/tx/ATrsNse6UZwNSMruNKsR4bnoTsp89BvLMmBZECRcPoif"
     ]
   },
   "Tokoin": {
@@ -92960,8 +92939,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.ubikiri.com/",
     "forked_data": [
-      "https://explorer.ubikiri.com/",
       "https://etherscan.io/token/0xf5b5efc906513b4344ebabcf47a04901f99f09f3"
     ],
     "git": "https://github.com/SilentNotaryEcosystem/Cil-core"
@@ -93283,6 +93262,7 @@
       "Payments",
       "NoGitHub",
       "Ethereum Contract",
+      "EOS Contract",
       "New2"
     ],
     "forked_data": [
@@ -93345,8 +93325,7 @@
       "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "https://eth.tokenview.com/en/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-      "https://algoexplorer.io/asset/312769"
+      "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
     ],
     "git": "https://github.com/centrehq/centre-tokens"
   },
@@ -94365,9 +94344,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.unification.io"
-    ]
+    "explorer": "https://explorer.unification.io"
   },
   "Uniform Fiscal Object": {
     "name": "Uniform Fiscal Object",
@@ -94848,10 +94825,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://universaexplorer.com/",
     "forked_data": [
       "https://etherscan.io/token/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
-      "https://ethplorer.io/address/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
-      "https://universaexplorer.com/"
+      "https://ethplorer.io/address/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7"
     ],
     "git": "https://github.com/UniversaBlockchain/"
   },
@@ -98392,9 +98369,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://vitescan.io/token/tti_564954455820434f494e69b5"
-    ]
+    "explorer": "https://vitescan.io/token/tti_564954455820434f494e69b5"
   },
   "Vites": {
     "name": "Vites",
@@ -99509,9 +99484,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://waltonchain.pro/#/home",
     "forked_data": [
-      "https://waltonchain.pro/#/home",
-      "https://waltonchain.pro/#/holders",
       "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
       "https://ethplorer.io/address/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
     ]
@@ -99743,10 +99717,11 @@
       "Platform",
       "Enterprise solutions",
       "Staking",
-      "New2"
+      "New2",
+      "Waves Contract"
     ],
+    "explorer": "https://client.wavesenterprise.com/explorer/",
     "forked_data": [
-      "https://client.wavesenterprise.com/explorer/",
       "https://dev.pywaves.org/enterprise/balances/"
     ],
     "git": "https://github.com/waves-enterprise/WE-releases"
@@ -101917,9 +101892,9 @@
     ],
     "sawBirth": "20210218",
     "git": "https://github.com/Xfers/StraitsX-tokens",
+    "explorer": "https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh?txsType=token-contract&specific=zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh&page=1",
     "forked_data": [
-      "https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96",
-      "https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh?txsType=token-contract&specific=zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh&page=1"
+      "https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96"
     ]
   },
   "XSwap": {
@@ -102020,9 +101995,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://yoscan.io/#/token/0xb507887b50c99335bf21240df94657d91f5302ad"
-    ]
+    "explorer": "https://yoscan.io/#/token/0xb507887b50c99335bf21240df94657d91f5302ad"
   },
   "XTZDOWN": {
     "name": "XTZDOWN",
@@ -103240,7 +103213,8 @@
     "url": "/currencies/yfidown",
     "tags": [
       "Token",
-      "Binance Contract"
+      "Binance Contract",
+      "Dead"
     ],
     "forked_data": {
       "forked_from": [
@@ -103401,7 +103375,8 @@
     "url": "/currencies/yfiup",
     "tags": [
       "Token",
-      "Binance Contract"
+      "Binance Contract",
+      "Dead"
     ],
     "forked_data": {
       "forked_from": [
@@ -103966,10 +103941,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://test-explorer.iyouchain.com/",
     "forked_data": [
       "https://etherscan.io/token/0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
-      "https://ethplorer.io/address/0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
-      "https://test-explorer.iyouchain.com/"
+      "https://ethplorer.io/address/0x34364BEe11607b1963d66BCA665FDE93fCA666a8"
     ]
   },
   "YOUengine": {
@@ -104230,8 +104205,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.yapchain.pro/",
     "forked_data": [
-      "https://explorer.yapchain.pro/",
       "https://etherscan.io/token/0x245392ee7Ce736eC6A0908B67dC5d0a218230005"
     ]
   },
@@ -105929,7 +105904,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Dead"
     ],
     "forked_data": [
       "https://tracker.icon.foundation/token/cx08eb683a53d6f244d538a45f0cc584825e2cb985"
@@ -106889,9 +106865,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "http://cryptofresh.com/a/CNY"
-    ]
+    "explorer": "http://cryptofresh.com/a/CNY"
   },
   "bitJob": {
     "name": "bitJob",
@@ -107275,10 +107249,7 @@
       "e-Money"
     ],
     "sawBirth": "21012021",
-    "forked_data": [
-      "https://e-money.net",
-      "https://hubble.figment.io/emoney/chains/emoney-2"
-    ]
+    "explorer": "https://e-money.net"
   },
   "eBitcoin": {
     "name": "eBitcoin",
@@ -107580,7 +107551,8 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "New2"
+      "New2",
+      "EOS Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
@@ -107734,10 +107706,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.hybrix.io",
     "forked_data": [
       "https://etherscan.io/token/0x9b53e429b0badd98ef7f01f03702986c516a5715",
-      "https://ethplorer.io/address/0x9b53e429b0badd98ef7f01f03702986c516a5715",
-      "https://explorer.hybrix.io"
+      "https://ethplorer.io/address/0x9b53e429b0badd98ef7f01f03702986c516a5715"
     ],
     "git": "https://github.com/hybrix-io/"
   },
@@ -110126,7 +110098,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Dead"
     ],
     "forked_data": [
       "https://tracker.icon.foundation/address/hxf75bfd0df8d96ee0963965135af2485cee6d5000"
