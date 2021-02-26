@@ -2434,7 +2434,7 @@
     "url": "/currencies/ak12",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -4789,8 +4789,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer" : "https://explorer.airswap.io/",
     "forked_data": [
-      "https://explorer.airswap.io/",
       "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
     ],
     "git": "https://github.com/airswap/"
@@ -4909,9 +4909,7 @@
     "tags": [
       "Token"
     ],
-    "forked_data": [
-      "https://explorer.aitra.io/"
-    ],
+    "explorer": "https://explorer.aitra.io/",
     "git": "https://github.com/aitracoinofficial/AITRA"
   },
   "Akash Network": {
@@ -5097,7 +5095,7 @@
     "url": "/currencies/alchemint-standards",
     "tags": [
       "Token",
-      "Neo"
+      "Neo Contract"
     ],
     "forked_data": [
       "https://neotracker.io/asset/6fad54d8cc692fc808fd97a207836a846c217705"
@@ -5509,7 +5507,7 @@
     "url": "/currencies/alphacat",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "NoGitHub"
     ],
     "forked_data": [
@@ -6297,7 +6295,7 @@
     "url": "/currencies/apex",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -6447,9 +6445,7 @@
       "DApp",
       "NoGitHub"
     ],
-    "forked_data": [
-      "https://appcexplorer.io/"
-    ]
+    "explorer": "https://appcexplorer.io/"
   },
   "Apple Finance": {
     "name": "Apple Finance",
@@ -7406,7 +7402,7 @@
     "url": "/currencies/asura-coin",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -17847,7 +17843,7 @@
     "url": "/currencies/bridge-protocol",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -21701,7 +21697,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Neo"
+      "Neo Contract"
     ],
     "forked_data": {
       "block": [
@@ -23501,7 +23497,7 @@
     "url": "/currencies/compendia",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -29482,7 +29478,7 @@
       "Token",
       "Platform",
       "AI & Big Data",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -35775,7 +35771,7 @@
     "url": "/currencies/endorsit",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -38081,7 +38077,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Neo"
+      "Neo Contract"
     ],
     "forked_data": {
       "block": [
@@ -40412,7 +40408,7 @@
       "Token",
       "DAO",
       "Yield farming",
-      "Neo",
+      "Neo Contract",
       "Binance Launchpool",
       "Binance Chain",
       "NoGitHub",
@@ -42558,7 +42554,7 @@
       "Medium of Exchange",
       "Payments",
       "Smart Contracts",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -56637,7 +56633,7 @@
       "Marketplace",
       "Decentralized exchange",
       "DeFi",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -59297,7 +59293,7 @@
     "url": "/currencies/master-contract-token",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -64167,7 +64163,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Neo"
+      "Neo Contract"
     ],
     "forked_data": {
       "block": [
@@ -64288,7 +64284,7 @@
       "DeFi",
       "State channels",
       "Liechtenstein",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -67882,7 +67878,7 @@
       "Enterprise solutions",
       "Identity",
       "forked_altcoin",
-      "Neo",
+      "Neo Contract",
       "Binance Chain",
       "NoLicenceFile",
       "DOT Ecosystem",
@@ -71502,7 +71498,7 @@
       "Enterprise solutions",
       "Collectibles & NFTs",
       "Content Creation",
-      "Neo",
+      "Neo Contract",
       "Distributed Computing",
       "Filesharing",
       "DApp",
@@ -71610,7 +71606,7 @@
       "Enterprise solutions",
       "DeFi",
       "Research",
-      "Neo",
+      "Neo Contract",
       "Binance Smart Chain",
       "Binance Contract",
       "Other Contract",
@@ -74858,7 +74854,7 @@
     "tags": [
       "Token",
       "Technology",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -77022,7 +77018,7 @@
       "Token",
       "Services",
       "Research",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -79700,7 +79696,7 @@
     "url": "/currencies/stem-cell-coin",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "Dead"
     ],
     "forked_data": {
@@ -87187,7 +87183,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -87680,7 +87676,7 @@
       "Token",
       "Platform",
       "Identity",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -91773,7 +91769,7 @@
     "url": "/currencies/translateme-network-token",
     "tags": [
       "Token",
-      "Neo",
+      "Neo Contract",
       "NoGitHub",
       "New2"
     ],
@@ -92099,7 +92095,7 @@
       "Platform",
       "Payments",
       "State channels",
-      "Neo",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -100842,7 +100838,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Neo"
+      "Neo Contract"
     ],
     "forked_data": {
       "block": [
