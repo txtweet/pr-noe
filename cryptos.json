@@ -1645,7 +1645,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "deaths": [
       "30112020",
@@ -1740,7 +1740,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -5273,11 +5273,6 @@
     "url": "/currencies/allianceblock",
     "tags": [
       "Token",
-      "DeFi",
-      "Enterprise solutions",
-      "AI & Big Data",
-      "Omni",
-      "Netherlands",
       "NoGitHub",
       "Ethereum Contract",
       "New2"
@@ -5485,7 +5480,7 @@
     "url": "/currencies/alphalink",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -9727,7 +9722,8 @@
     "url": "/currencies/btcup",
     "tags": [
       "Token",
-      "Binance Contract"
+      "Binance Contract",
+      "Dead"
     ],
     "forked_data": {
       "forked_from": [
@@ -9826,7 +9822,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Waves"
+      "Waves Contract"
     ],
     "sawBirth": "29012021",
     "forked_data": [
@@ -10443,7 +10439,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -10764,11 +10760,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Huobi ECO"
+      "Huobi Contract"
     ],
     "sawBirth": "18012021",
     "forked_data": [
-      "https://scan.hecochain.com/"
+      "https://scan.hecochain.com/address/0xa042fb0e60125a4022670014ac121931e7501af4"
     ]
   },
   "Basis Gold Share": {
@@ -11003,9 +10999,7 @@
       "Beacon"
     ],
     "sawBirth": "29012021",
-    "forked_data": [
-      "https://beaconscan.com/"
-    ]
+    "explorer": "https://beaconscan.com/"
   },
   "Beam": {
     "name": "Beam",
@@ -11069,7 +11063,7 @@
     "url": "/currencies/beatzcoin",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -11268,7 +11262,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract",
       "New2"
     ],
@@ -11316,7 +11310,7 @@
       "Discount token",
       "Payments",
       "Wallet",
-      "NEM",
+      "Nem Contract",
       "Seychelles",
       "NoGitHub",
       "New2"
@@ -11715,7 +11709,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Omni Contract"
     ],
     "forked_data": [
       "https://omniexplorer.info/asset/840"
@@ -13194,7 +13189,7 @@
     "url": "/currencies/bitguild-plat",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -13624,7 +13619,7 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -15449,10 +15444,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://bitswift.network/",
-      "https://ardor.tools/asset/17788804238730072774"
-    ]
+    "explorer": "https://bitswift.network/"
   },
   "Bittwatt": {
     "name": "Bittwatt",
@@ -17113,9 +17105,7 @@
     ],
     "sawBirth": "06012021",
     "git": "https://github.com/dr497",
-    "forked_data": [
-      "https://explorer.solana.com"
-    ]
+    "explorer": "https://explorer.solana.com"
   },
   "Bonk": {
     "name": "Bonk",
@@ -18414,8 +18404,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.cache.gold",
     "forked_data": [
-      "https://explorer.cache.gold",
       "https://etherscan.io/token/0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
       "https://ethplorer.io/address/0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
     ],
@@ -18958,7 +18948,7 @@
     "url": "/currencies/corn",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -19333,9 +19323,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://openledger.io/asset/CVN"
-    ]
+    "explorer": "https://openledger.io/asset/CVN"
   },
   "CWV Chain": {
     "name": "CWV Chain",
@@ -20306,7 +20294,7 @@
     "url": "/currencies/carrot",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -20763,11 +20751,7 @@
       "Stablecoin - Algorithmically-Stabilized",
       "New2"
     ],
-    "forked_data": [
-      "https://thecelo.com/",
-      "https://explorer.celo.org/",
-      "https://stats.celo.org/"
-    ],
+    "explorer": "https://explorer.celo.org",
     "git": "https://github.com/celo-org"
   },
   "Celsius": {
@@ -20897,14 +20881,14 @@
     "url": "/currencies/centric-cash",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
     ],
+    "explorer": "https://explorer.joincentric.com/",
     "forked_data": [
-      "https://tronscan.org/#/contract/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt/",
-      "https://explorer.joincentric.com/"
+      "https://tronscan.org/#/contract/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt/"
     ]
   },
   "Centurion": {
@@ -21595,8 +21579,8 @@
       "Other Contract",
       "New2"
     ],
+    "explorer": "https://explorer.chiliz.com/address/0xe4a461065d032c77c8bf2d708f371dd098d71a20/transactions",
     "forked_data": [
-      "https://explorer.chiliz.com/address/0xe4a461065d032c77c8bf2d708f371dd098d71a20/transactions",
       "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
       "https://explorer.binance.org/asset/CHZ-ECD"
     ]
@@ -21833,7 +21817,7 @@
     "url": "/currencies/circleswap",
     "tags": [
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "NoLicenceFile"
     ],
     "sawBirth": "06012021",
@@ -22426,14 +22410,12 @@
     "tags": [
       "Token",
       "Codex",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Dead"
     ],
     "sawBirth": "06012021",
     "git": "https://github.com/CDEXonAltHash",
-    "forked_data": [
-      "http://cdexplorer.net/",
-      "https://explorer.htmlcoin.com/"
-    ]
+    "explorer": "http://cdexplorer.net/"
   },
   "Cofinex Coin": {
     "name": "Cofinex Coin",
@@ -24769,6 +24751,7 @@
     "tags": [
       "Token",
       "NoGitHub",
+      "Waves Contract",
       "New2"
     ],
     "forked_data": [
@@ -25359,7 +25342,7 @@
     "url": "/currencies/cryptobharatcoin",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -26726,7 +26709,7 @@
     "url": "/currencies/dacc2",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -26939,9 +26922,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.dapscoin.com/explorer/overview/",
     "forked_data": [
-      "https://explorer.dapscoin.com/explorer/overview/",
-      "https://chains.trittium.cc/DAPS/blocks",
       "https://etherscan.io/token/0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
       "https://ethplorer.io/address/0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28"
     ],
@@ -27003,7 +26985,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -27173,7 +27155,7 @@
     "url": "/currencies/dejave",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -28208,7 +28190,7 @@
       "Token",
       "Gaming",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -28343,7 +28325,7 @@
       "DOT Ecosystem",
       "Ethereum Contract",
       "Other Contract",
-      "Tron",
+      "Tron Contract",
       "New2"
     ],
     "forked_data": [
@@ -29036,7 +29018,7 @@
     "url": "/currencies/definition",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -29851,7 +29833,7 @@
     "url": "/currencies/delphi-chain-link",
     "tags": [
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/delphichainlink/DCL",
@@ -29939,10 +29921,10 @@
       "Token",
       "Ethereum Contract"
     ],
+    "explorer": "https://explorer.dmtc.io/",
     "forked_data": [
       "https://etherscan.io/token/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
-      "https://ethplorer.io/address/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
-      "https://explorer.dmtc.io/"
+      "https://ethplorer.io/address/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76"
     ],
     "git": "https://github.com/dmtc-chain/dmtc-chain"
   },
@@ -30445,7 +30427,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -30725,8 +30707,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://digidinar.com",
     "forked_data": [
-      "https://digidinar.com",
       "https://etherscan.io/token/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d",
       "https://ethplorer.io/address/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d"
     ],
@@ -32128,7 +32110,7 @@
     "url": "/currencies/dragon-ball",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -32801,9 +32783,7 @@
       "New2"
     ],
     "sawBirth": "20210217",
-    "forked_data": [
-      "https://explorer.gochain.io/addr/0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF"
-    ]
+    "explorer": "https://explorer.gochain.io/addr/0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF"
   },
   "ECOSC": {
     "name": "ECOSC",
@@ -33033,9 +33013,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://www.iostabc.com/token/emogi?page=1&size=50&order=asc"
-    ]
+    "explorer": "https://www.iostabc.com/token/emogi?page=1&size=50&order=asc"
   },
   "ENTONE": {
     "name": "ENTONE",
@@ -33193,7 +33171,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "26012021",
     "forked_data": [
@@ -34646,11 +34624,10 @@
       "Token",
       "EOS Contract",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Dead"
     ],
-    "forked_data": [
-      "https://telos.bloks.io/tokens/ECOIN-telos-ecoin1nation"
-    ]
+    "explorer": "https://telos.bloks.io/tokens/ECOIN-telos-ecoin1nation"
   },
   "Ecoreal Estate": {
     "name": "Ecoreal Estate",
@@ -34810,6 +34787,7 @@
     "tags": [
       "Token",
       "EOS Contract",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -34946,9 +34924,6 @@
     "tags": [
       "Token",
       "New2"
-    ],
-    "forked_data": [
-      "https://vechainstats.com/account/0xf8e1faa0367298b55f57ed17f7a2ff3f5f1d1628/"
     ],
     "git": "https://github.com/BlokParty/"
   },
@@ -35289,7 +35264,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "deaths": [
       "03122020",
@@ -35854,7 +35829,8 @@
       "Token",
       "Energy",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Qtum Contract"
     ],
     "forked_data": [
       "https://explorer.qtum.org/token/d8dec2b605005749abbf4b060edad3070e23cf5c"
@@ -38470,7 +38446,7 @@
     "short": "FIT",
     "url": "/currencies/first-interchangeable-token",
     "tags": [
-      "Tron",
+      "Tron Contract",
       "Dead",
       "Token",
       "NoLicenceFile"
@@ -38798,7 +38774,7 @@
     "tags": [
       "Token",
       "Binance Contract",
-      "Tron",
+      "Tron Contract",
       "Payments",
       "Staking",
       "NoGitHub",
@@ -39898,7 +39874,8 @@
       "Token",
       "DeFi",
       "Ethereum Contract",
-      "New2"
+      "New2",
+      "Wan Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
@@ -40412,6 +40389,7 @@
       "Binance Launchpool",
       "Binance Chain",
       "NoGitHub",
+      "Neo Contract",
       "New2"
     ],
     "forked_data": [
@@ -41318,7 +41296,7 @@
       "Staking",
       "DOT Ecosystem",
       "Ethereum Contract",
-      "Solana",
+      "Solana Contract",
       "Other Contract",
       "Binance Contract",
       "New2"
@@ -41499,10 +41477,10 @@
       "Fuse"
     ],
     "sawBirth": "01022021",
+    "explorer": "https://explorer.fuse.io/",
     "forked_data": [
       "https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
-      "https://ethplorer.io/address/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
-      "https://explorer.fuse.io/"
+      "https://ethplorer.io/address/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d"
     ]
   },
   "Fusion": {
@@ -42038,7 +42016,8 @@
     "url": "/currencies/gm-holding",
     "tags": [
       "Token",
-      "New2"
+      "New2",
+      "Waves Contract"
     ],
     "forked_data": [
       "http://dev.pywaves.org/assets/GCcQTo78M7GTMCKFmn4qULtw79SQfUio1cy8ZX1QjjLi"
@@ -42152,7 +42131,7 @@
     "url": "/currencies/got-token",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -42945,7 +42924,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Ubiq Contract"
     ],
     "forked_data": [
       "https://ubiqscan.io/token/0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
@@ -43609,9 +43589,7 @@
       "Token",
       "New2"
     ],
-    "forked_data": [
-      "https://simpleledger.info/#token/3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500"
-    ],
+    "explorer": "https://simpleledger.info/#token/3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500",
     "git": "https://github.com/Eligma"
   },
   "GoHelpFund": {
@@ -45292,7 +45270,7 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Ethereum Contract",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract",
       "New2"
     ],
@@ -45387,7 +45365,7 @@
       "PoA",
       "Ukraine",
       "Estonia",
-      "VeChain",
+      "VeChain Contract",
       "NoGitHub",
       "Ethereum Contract",
       "New2"
@@ -45737,7 +45715,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract",
       "New2"
     ],
@@ -46651,9 +46629,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://scope.klaytn.com/"
-    ]
+    "explorer": "https://scope.klaytn.com/"
   },
   "Hifi Finance": {
     "name": "Hifi Finance",
@@ -46850,7 +46826,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "12012021",
     "forked_data": [
@@ -48374,7 +48350,7 @@
     "url": "/currencies/ig-gold",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -48605,7 +48581,7 @@
     "url": "/currencies/inrtoken",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -49259,10 +49235,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://ardor.tools/",
-      "https://ardorportal.org/"
-    ]
+    "explorer": "https://ardor.tools/"
   },
   "Ignition": {
     "name": "Ignition",
@@ -49675,7 +49648,8 @@
       "Token",
       "Services",
       "Identity",
-      "New2"
+      "New2",
+      "Qtum Contract"
     ],
     "forked_data": [
       "https://explorer.qtum.org/token/fe59cbc1704e89a698571413a81f0de9d8f00c69",
@@ -50717,7 +50691,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Stellar Contract"
     ],
     "forked_data": [
       "https://stellar.expert/explorer/public/asset/XXA-GC4HS4CQCZULIOTGLLPGRAAMSBDLFRR6Y7HCUQG66LNQDISXKIXXADIM"
@@ -50844,14 +50819,14 @@
     "url": "/currencies/jsb-foundation",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "DeFi",
       "DEX",
       "Wallet",
       "Binance Chain",
       "Binance Smart Chain",
       "Ethereum Contract",
-      "TRON",
+      "Tron Contract",
       "United Kingdom",
       "Singapore",
       "India",
@@ -50959,7 +50934,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -51031,7 +51006,7 @@
     "url": "/currencies/jackpool-finance",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -51629,7 +51604,7 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -51813,7 +51788,7 @@
     "url": "/currencies/king-of-defi",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -51834,9 +51809,7 @@
       "KLAYswap Protocol"
     ],
     "sawBirth": "21012021",
-    "forked_data": [
-      "https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer"
-    ]
+    "explorer": "https://scope.klaytn.com/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654?tabId=tokenTransfer"
   },
   "KNOW": {
     "name": "KNOW",
@@ -52496,12 +52469,9 @@
       "Other Contract",
       "New2"
     ],
+    "explorer": "https://www.mintscan.io/kava",
     "forked_data": [
-      "https://www.mintscan.io/kava",
-      "https://kava.bigdipper.live",
-      "https://explorer.binance.org/asset/KAVA-10C",
-      "https://kavascan.com/",
-      "https://hubble.figment.network/kava/chains/kava-2"
+      "https://explorer.binance.org/asset/KAVA-10C"
     ],
     "git": "https://github.com/kava-labs"
   },
@@ -53007,7 +52977,7 @@
     "url": "/currencies/kingdom-game-4",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -53072,7 +53042,7 @@
     "tags": [
       "Token",
       "Wallet",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -53996,7 +53966,8 @@
     "url": "/currencies/levelg",
     "tags": [
       "Token",
-      "New2"
+      "New2",
+      "Stellar Contract"
     ],
     "forked_data": [
       "https://stellar.expert/explorer/public/asset/LEVELG-GC3L2FLR2QMUSOJ6QMQHKIWUKEXGOXSIN2KY72SDUHPC2KO6HOSQIXIF"
@@ -54496,7 +54467,7 @@
     "url": "/currencies/looprex",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -54833,8 +54804,8 @@
       "Other Contract",
       "New2"
     ],
+    "explorer": "http://explorer.lambdastorage.com/",
     "forked_data": [
-      "http://explorer.lambdastorage.com/",
       "https://explorer.binance.org/asset/LAMB-46C"
     ],
     "git": "https://github.com/LambdaIM"
@@ -54949,7 +54920,7 @@
     "url": "/currencies/lavaswap",
     "tags": [
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract",
       "New2"
     ],
@@ -55131,7 +55102,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract"
     ],
     "sawBirth": "20210212",
@@ -55568,9 +55539,7 @@
       "Token",
       "New2"
     ],
-    "forked_data": [
-      "https://likecoin.bigdipper.live/"
-    ],
+    "explorer": "https://likecoin.bigdipper.live/",
     "git": "https://github.com/likecoin/"
   },
   "Limestone Network": {
@@ -56366,11 +56335,10 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.livepeer.org/",
     "forked_data": [
-      "https://explorer.livepeer.org/",
       "https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239",
-      "https://ethplorer.io/address/0x58b6a8a3302369daec383334672404ee733ab239",
-      "https://hubble.figment.network/livepeer/chains/mainnet"
+      "https://ethplorer.io/address/0x58b6a8a3302369daec383334672404ee733ab239"
     ],
     "git": "https://github.com/livepeer"
   },
@@ -56712,7 +56680,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -57269,7 +57237,7 @@
       "NoGitHub",
       "Token",
       "Ethereum Contract",
-      "Solana",
+      "Solana Contract",
       "Other Contract"
     ],
     "sawBirth": "02022021",
@@ -57488,7 +57456,7 @@
       "NoGitHub",
       "Token",
       "Other Contract",
-      "Tron",
+      "Tron Contract",
       "New2"
     ],
     "sawBirth": "20210214",
@@ -57554,6 +57522,7 @@
       "Platform",
       "DApp",
       "Binance Contract",
+      "EOS Contract",
       "Other Contract",
       "New2"
     ],
@@ -58610,7 +58579,8 @@
       "Platform",
       "Distributed Computing",
       "Filesharing",
-      "New2"
+      "New2",
+      "Omni Contract"
     ],
     "forked_data": [
       "http://omniexplorer.info/asset/3"
@@ -58916,8 +58886,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.mgpchain.io/",
     "forked_data": [
-      "https://explorer.mgpchain.io/",
       "https://etherscan.io/token/0x8a845Fc339CeB022A695281554890429a34DF120",
       "https://ethplorer.io/address/0x8a845fc339ceb022a695281554890429a34df120"
     ]
@@ -59489,10 +59459,6 @@
       "Token",
       "NoGitHub",
       "New2"
-    ],
-    "forked_data": [
-      "https://danb.maxcrowdfund.com/index.html",
-      "https://www.ardor.world/mpg_rich_list/"
     ]
   },
   "Maxcoin": {
@@ -60927,7 +60893,7 @@
     "url": "/currencies/mineral",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -61741,7 +61707,8 @@
       "Token",
       "Platform",
       "Payments",
-      "New2"
+      "New2",
+      "Stellar Contract"
     ],
     "forked_data": [
       "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
@@ -65105,7 +65072,6 @@
     "url": "/currencies/neutrino-usd",
     "tags": [
       "Token",
-      "Waves",
       "LPoS",
       "DeFi",
       "Stablecoin - Algorithmically-Stabilized",
@@ -65116,7 +65082,6 @@
       "New2"
     ],
     "forked_data": [
-      "https://wavesexplorer.com/",
       "https://etherscan.io/token/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
       "https://bscscan.com/token/0xc4b6f32b84657e9f6a73fe119f0967be5ba8cf05"
     ],
@@ -65331,6 +65296,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
+      "Stellar Contract",
       "New2"
     ],
     "forked_data": [
@@ -67409,7 +67375,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -67558,6 +67524,7 @@
       "Scrypt",
       "NoLicenceFile"
     ],
+    "explorer": "https://omniexplorer.info/",
     "git": "https://github.com/OmniLayer"
   },
   "Omnitude": {
@@ -69904,7 +69871,7 @@
     "url": "/currencies/pyro-network-tron",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -70964,7 +70931,7 @@
     "url": "/currencies/pearl",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -71659,7 +71626,7 @@
     "url": "/currencies/phoneum",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -72179,7 +72146,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "VeChain Contract"
     ],
     "forked_data": [
       "https://vechainstats.com/account/0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f/"
@@ -72301,7 +72269,7 @@
       "Token",
       "Gambling",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -72368,7 +72336,7 @@
     "url": "/currencies/playandlike",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "sawBirth": "15012021",
@@ -72884,7 +72852,7 @@
     "url": "/currencies/pollux-coin",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -74074,7 +74042,8 @@
       "Media",
       "Payments",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Qtum Contract"
     ],
     "forked_data": [
       "https://explorer.qtum.org/token/4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
@@ -74186,7 +74155,7 @@
     "url": "/currencies/proof-of-liquidity",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -74509,7 +74478,6 @@
       "New2"
     ],
     "forked_data": [
-      "http://explorer.nemchina.com/#/mosaic?m=npxs&ns=pundix",
       "https://explorer.binance.org/asset/NPXSXEM-89C"
     ]
   },
@@ -75125,7 +75093,8 @@
       "Token",
       "Marketplace",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Qtum Contract"
     ],
     "forked_data": [
       "https://explorer.qtum.org/token/QMUDYjQpjkxZjjfEdKznqsim7VMS5LZzqp",
@@ -75200,7 +75169,7 @@
       "Token",
       "Stablecoin",
       "NoGitHub",
-      "Qtum",
+      "Qtum Contract",
       "Other Contract",
       "New2"
     ],
@@ -75214,7 +75183,7 @@
     "url": "/currencies/qiswap",
     "tags": [
       "Token",
-      "Qtum",
+      "Qtum Contract",
       "Other Contract",
       "New2"
     ],
@@ -75257,6 +75226,7 @@
     "tags": [
       "Coin",
       "Platform",
+      "Qtum",
       "Smart Contracts",
       "BitcoinL"
     ],
@@ -76797,7 +76767,7 @@
       "DEX",
       "NoGitHub",
       "Token",
-      "Solana",
+      "Solana Contract",
       "Other Contract",
       "New2"
     ],
@@ -76921,6 +76891,7 @@
     "tags": [
       "Token",
       "NoGitHub",
+      "Stellar Contract",
       "New2"
     ],
     "forked_data": [
@@ -77586,8 +77557,8 @@
       "Smart Contracts",
       "United Kingdom",
       "United Arab Emirates",
-      "Tron",
-      "TRON",
+      "Tron Contract",
+      "Tron Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -77644,7 +77615,7 @@
     "url": "/currencies/richlab-token",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoLicenceFile",
       "Other Contract",
       "New2"
@@ -78063,7 +78034,8 @@
     "url": "/currencies/rivex",
     "tags": [
       "Token",
-      "New2"
+      "New2",
+      "Wan Contract"
     ],
     "forked_data": [
       "https://www.wanscan.org/token/0xcb72EF349870780Fdc4786e8c86AaB5B4Fa36B73"
@@ -79175,6 +79147,7 @@
       "Token",
       "Payments",
       "NoGitHub",
+      "Stellar Contract",
       "New2"
     ],
     "forked_data": [
@@ -79896,7 +79869,7 @@
     "tags": [
       "Token",
       "Other Contract",
-      "Tron",
+      "Tron Contract",
       "New2"
     ],
     "forked_data": [
@@ -80377,7 +80350,7 @@
     "url": "/currencies/salmonswap",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -81607,7 +81580,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Solana"
+      "Solana Contract"
     ],
     "sawBirth": "12012021",
     "forked_data": [
@@ -81621,7 +81594,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -84766,7 +84739,7 @@
     "url": "/currencies/spoklottery",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -85429,7 +85402,7 @@
     "url": "/currencies/starlink",
     "tags": [
       "Token",
-      "Huobi ECO",
+      "Huobi Contract",
       "Other Contract",
       "New2"
     ],
@@ -87457,7 +87430,7 @@
     "url": "/currencies/tai",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -88135,7 +88108,7 @@
       "Token",
       "Gambling",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -88203,7 +88176,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -88323,7 +88296,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "29012021",
     "forked_data": [
@@ -88393,7 +88366,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -89212,6 +89185,7 @@
     "tags": [
       "Token",
       "NoGitHub",
+      "Stellar Contract",
       "New2"
     ],
     "forked_data": [
@@ -89415,7 +89389,7 @@
       "Payments",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -89425,7 +89399,7 @@
     "depends": [
       "Bitfinex",
       "MasterCoin",
-      "Omni Foundation"
+      "Omni Contract"
     ],
     "people": [
       "Brock Pierce",
@@ -90131,7 +90105,7 @@
       "Token",
       "NoGitHub",
       "Other Contract",
-      "Tron",
+      "Tron Contract",
       "New2"
     ],
     "forked_data": [
@@ -90162,7 +90136,7 @@
       "Store of Value",
       "Centralized exchange",
       "Ethereum Contract",
-      "Waves",
+      "Waves Contract",
       "NoGitHub"
     ],
     "forked_data": [
@@ -90313,7 +90287,7 @@
     "url": "/currencies/tideprotocol",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
@@ -92216,7 +92190,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -92299,7 +92273,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "12012021",
     "forked_data": [
@@ -93439,7 +93413,7 @@
     "url": "/currencies/usdj",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -94061,7 +94035,7 @@
       "Token",
       "NoGitHub",
       "Other Contract",
-      "Tron",
+      "Tron Contract",
       "New2"
     ],
     "forked_data": [
@@ -95549,7 +95523,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": {
       "block": [
@@ -95865,7 +95839,7 @@
     "url": "/currencies/vn-token",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Other Contract",
       "New2"
     ],
@@ -96360,6 +96334,7 @@
       "Logistics",
       "Data Provenance",
       "Smart Contracts",
+      "VeChain",
       "NoGitHub"
     ]
   },
@@ -96371,12 +96346,7 @@
       "Token",
       "New2"
     ],
-    "forked_data": [
-      "https://explore.vechain.org/",
-      "https://vechainstats.com",
-      "https://www.vescan.io/",
-      "https://explorer.vtho.net"
-    ],
+    "explorer": "https://explorer.vtho.net",
     "git": "https://github.com/vechain/thor"
   },
   "VectorAI": {
@@ -96574,7 +96544,8 @@
     "tags": [
       "Token",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Stellar Contract"
     ],
     "forked_data": [
       "https://stellar.expert/explorer/public/asset/VELO-GD7TJVZZAUDCXL5WBSXYAHEK4FJ7M5TRLOT6E3NKKCT3DDTA2WFESQDR-1?order=desc"
@@ -98152,7 +98123,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Tron"
+      "Tron Contract"
     ],
     "sawBirth": "06012021",
     "forked_data": [
@@ -99155,7 +99126,7 @@
     "tags": [
       "Token",
       "Gambling",
-      "Tron"
+      "Tron Contract"
     ],
     "forked_data": []
   },
@@ -99555,7 +99526,8 @@
       "Enterprise solutions",
       "DeFi",
       "Interoperability",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Wan"
     ],
     "git": "https://github.com/wanchain"
   },
@@ -100542,7 +100514,8 @@
       "Asset management",
       "Payments",
       "NoGitHub",
-      "New2"
+      "New2",
+      "Stellar Contract"
     ],
     "forked_data": [
       "https://stellar.expert/explorer/public/asset/WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT"
@@ -105447,7 +105420,7 @@
     "url": "/currencies/zimbocash",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -106535,7 +106508,7 @@
     "url": "/currencies/ztranzit-coin",
     "tags": [
       "Token",
-      "Tron",
+      "Tron Contract",
       "Dead"
     ],
     "sawBirth": "06012021",
