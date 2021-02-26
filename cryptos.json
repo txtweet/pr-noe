@@ -33661,16 +33661,14 @@
     "url": "/currencies/eidos",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "EIDOS-...onecoin"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/tokens/EIDOS-eos-eidosonecoin"
+    ],
+    "git": "https://github.com/enumivo/eidos"
   },
   "ELTCOIN": {
     "name": "ELTCOIN",
@@ -33717,12 +33715,13 @@
     "short": "LOL",
     "url": "/currencies/emogi-network",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://www.iostabc.com/token/emogi?page=1&size=50&order=asc"
+    ]
   },
   "ENTONE": {
     "name": "ENTONE",
@@ -33845,16 +33844,16 @@
       "DeFi",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "EOS"
+      "EOS",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "eosdtsttoken"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://eospark.com/token/eosdt/eosdtsttoken",
+      "https://bloks.io/tokens/EOSDT-eos-eosdtsttoken",
+      "https://www.eosx.io/account/eosdtsttoken?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/equilibrium-eosdt"
   },
   "EOSUP": {
     "name": "EOSUP",
@@ -35343,14 +35342,13 @@
     "url": "/currencies/ecoin-2",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://telos.bloks.io/tokens/ECOIN-telos-ecoin1nation"
+    ]
   },
   "Ecoreal Estate": {
     "name": "Ecoreal Estate",
@@ -35481,12 +35479,14 @@
     "short": "EMC",
     "url": "/currencies/edumetrix",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x0a425122852ed351946a828b348bfdcda51effd8"
+    ],
+    "git": "https://github.com/EduMetrixCoin/EduMetrix/tree/master"
   },
   "Education Ecosystem": {
     "name": "Education Ecosystem",
@@ -35511,16 +35511,14 @@
     "url": "/currencies/effect-ai",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "effecttokens"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/acbc532904b6b51b5ea6d19b803d78af70e7e6f9",
+      "https://www.eosx.io/account/effecttokens?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/effectai"
   },
   "Egas": {
     "name": "Egas",
@@ -35649,12 +35647,13 @@
     "short": "EHRT",
     "url": "/currencies/eight-hours",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://vechainstats.com/account/0xf8e1faa0367298b55f57ed17f7a2ff3f5f1d1628/"
+    ],
+    "git": "https://github.com/BlokParty/"
   },
   "Einsteinium": {
     "name": "Einsteinium",
@@ -36073,16 +36072,17 @@
     "url": "/currencies/emanate",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "emanateoneos"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://eospark.com/contract/emanateoneos",
+      "https://eosflare.io/token/emanateoneos/EMT",
+      "https://bloks.io/tokens/EMT-eos-emanateoneos",
+      "https://www.eosx.io/account/emanateoneos?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/Emanate-official"
   },
   "EmberCoin": {
     "name": "EmberCoin",
@@ -36485,16 +36485,13 @@
     "url": "/currencies/endorsit",
     "tags": [
       "Token",
-      "Neo"
+      "Neo",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "81c089...f34b5c0"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/81c089ab996fc89c468a26c0a88d23ae2f34b5c0"
+    ]
   },
   "Enecuum": {
     "name": "Enecuum",
@@ -36569,12 +36566,13 @@
     "url": "/currencies/energo",
     "tags": [
       "Token",
-      "Energy"
+      "Energy",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.qtum.org/token/d8dec2b605005749abbf4b060edad3070e23cf5c"
+    ]
   },
   "Energy Ledger": {
     "name": "Energy Ledger",
@@ -36676,12 +36674,18 @@
       "Token",
       "Media",
       "Collectibles & NFTs",
-      "Gaming"
+      "Gaming",
+      "Ethereum",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://enjinx.io/eth/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "https://blockchair.com/ethereum/erc-20/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+    ],
+    "git": "https://github.com/enjin/contracts"
   },
   "EnterCoin": {
     "name": "EnterCoin",
@@ -37370,12 +37374,15 @@
     "short": "ESS",
     "url": "/currencies/essentia",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://ethplorer.io/address/0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+      "https://etherscan.io/token/0xfc05987bd2be489ACCF0f509E44B0145d68240f7"
+    ],
+    "git": "https://github.com/essentiaone"
   },
   "Eterbase Utility Token": {
     "name": "Eterbase Utility Token",
@@ -40673,12 +40680,16 @@
     "short": "FNX",
     "url": "/currencies/finnexus",
     "tags": [
-      "Token"
+      "Token",
+      "DeFi",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+      "https://www.wanscan.org/token/0xc6f4465a6A521124c8E3096b62575C157999d361"
+    ],
+    "git": "https://github.com/FinNexus"
   },
   "FinexboxToken": {
     "name": "FinexboxToken",
@@ -41187,16 +41198,15 @@
       "Token",
       "DAO",
       "Yield farming",
-      "Neo"
+      "Neo",
+      "Binance Launchpool",
+      "Binance Chain",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "4d9eab13620fe3569ba3b0e56e2877739e4145e3"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotube.io/nep5/4d9eab13620fe3569ba3b0e56e2877739e4145e3/page/1"
+    ]
   },
   "Flash": {
     "name": "Flash",
@@ -42843,12 +42853,13 @@
     "short": "GM",
     "url": "/currencies/gm-holding",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://dev.pywaves.org/assets/GCcQTo78M7GTMCKFmn4qULtw79SQfUio1cy8ZX1QjjLi"
+    ],
+    "git": "https://github.com/Brunoziye/GM"
   },
   "GMB": {
     "name": "GMB",
@@ -43369,16 +43380,15 @@
       "Medium of Exchange",
       "Payments",
       "Smart Contracts",
-      "Neo"
+      "Neo",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "602c79...9282de7"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+      "https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+      "https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+    ]
   },
   "Gas Token Two": {
     "name": "Gas Token Two",
@@ -43769,12 +43779,13 @@
     "short": "GEO",
     "url": "/currencies/geocoin",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://ubiqscan.io/token/0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
+    ]
   },
   "GeoDB": {
     "name": "GeoDB",
@@ -44441,12 +44452,13 @@
     "short": "GOC",
     "url": "/currencies/gocrypto-token",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://simpleledger.info/#token/3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500"
+    ],
+    "git": "https://github.com/Eligma"
   },
   "GoHelpFund": {
     "name": "GoHelpFund",
@@ -45694,12 +45706,11 @@
     "short": "HAPY",
     "url": "/currencies/hapy-coin",
     "tags": [
+      "Token",
+      "NoGitHub",
       "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": []
   },
   "HARD Protocol": {
     "name": "HARD Protocol",
@@ -46252,12 +46263,19 @@
       "Staking",
       "Marketplace",
       "Education",
-      "PoA"
+      "PoA",
+      "Ukraine",
+      "Estonia",
+      "VeChain",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://vechainstats.com/account/0xacc280010b2ee0efc770bce34774376656d8ce14",
+      "https://etherscan.io/token/0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
+      "https://ethplorer.io/address/0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63"
+    ]
   },
   "Hakka.Finance": {
     "name": "Hakka.Finance",
@@ -46335,12 +46353,15 @@
     "short": "HALV",
     "url": "/currencies/halving-coin",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
+      "https://ethplorer.io/address/0x9e7cb236e43c4bd042fE463df6a175d4479ee186"
+    ]
   },
   "Hamebi Token": {
     "name": "Hamebi Token",
@@ -47520,12 +47541,13 @@
     "short": "HIBS",
     "url": "/currencies/hiblocks",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://scope.klaytn.com/"
+    ]
   },
   "Hifi Finance": {
     "name": "Hifi Finance",
@@ -48081,16 +48103,15 @@
     "url": "/currencies/honest",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "HNST-3C9"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/HNST-3C9",
+      "https://explorer.binance.org/asset/HNST-3C9"
+    ]
   },
   "HonestCoin": {
     "name": "HonestCoin",
@@ -49276,16 +49297,18 @@
     "url": "/currencies/ig-gold",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TVQ6jY...V45ixLn"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea",
+      "https://ethplorer.io/address/0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea",
+      "https://tronscan.org/#/token20/TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn",
+      "https://www.trxplorer.io/token/TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn"
+    ]
   },
   "IGToken": {
     "name": "IGToken",
@@ -49508,16 +49531,14 @@
     "url": "/currencies/inrtoken",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TVnRbE...VHzXGG5"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TVnRbEPaMKZzFm1JSBvDSmCXcWJVHzXGG5"
+    ],
+    "git": "https://github.com/tokeninr/token"
   },
   "INT": {
     "name": "INT",
@@ -50169,12 +50190,14 @@
       "Token",
       "Platform",
       "Payments",
-      "State channels"
+      "State channels",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://ardor.tools/",
+      "https://ardorportal.org/"
+    ]
   },
   "Ignition": {
     "name": "Ignition",
@@ -50590,12 +50613,14 @@
     "tags": [
       "Token",
       "Services",
-      "Identity"
+      "Identity",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.qtum.org/token/fe59cbc1704e89a698571413a81f0de9d8f00c69",
+      "https://qtumexplorer.io/contract/fe59cbc1704e89a698571413a81f0de9d8f00c69"
+    ],
+    "git": "https://github.com/inklabsfoundation"
   },
   "Ink Protocol": {
     "name": "Ink Protocol",
@@ -51644,12 +51669,13 @@
     "short": "XXA",
     "url": "/currencies/ixinium",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/XXA-GC4HS4CQCZULIOTGLLPGRAAMSBDLFRR6Y7HCUQG66LNQDISXKIXXADIM"
+    ]
   },
   "JBOX": {
     "name": "JBOX",
@@ -51773,16 +51799,26 @@
     "url": "/currencies/jsb-foundation",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "DeFi",
+      "DEX",
+      "Wallet",
+      "Binance Chain",
+      "Binance Smart Chain",
+      "Ethereum",
+      "TRON",
+      "United Kingdom",
+      "Singapore",
+      "India",
+      "Other Contract",
+      "Binance",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TBwEPB...z74ppzd"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/contract/TBwEPBdBPQsHaSwk7qhDWjqi8oNz74ppzd",
+      "https://explorer.binance.org/asset/JSB-614M"
+    ],
+    "git": "https://github.com/JSBFoundation"
   },
   "JSECOIN": {
     "name": "JSECOIN",
@@ -51878,16 +51914,14 @@
     "tags": [
       "Token",
       "DeFi",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TCFLL5...VmWZZy9"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+    ]
   },
   "JUST NETWORK": {
     "name": "JUST NETWORK",
@@ -51953,16 +51987,14 @@
     "url": "/currencies/jackpool-finance",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TN7zQd...J7EGyha"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha"
+    ],
+    "git": "https://github.com/justpool-finance"
   },
   "Jackpot": {
     "name": "Jackpot",
@@ -52395,16 +52427,14 @@
     "url": "/currencies/jointer",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x5f2c...55ed2c4"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4"
+    ],
+    "git": "https://github.com/jointerinc"
   },
   "Joule": {
     "name": "Joule",
@@ -52565,16 +52595,14 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TKeuUe...X7Zqpuk"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TKeuUeXkEh9FbDNzhzEYi6K7RzNX7Zqpuk"
+    ]
   },
   "JustLiquidity": {
     "name": "JustLiquidity",
@@ -52699,16 +52727,14 @@
     "url": "/currencies/karma-eos",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "therealkarma"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/account/therealkarma",
+      "https://www.eosx.io/account/therealkarma?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/KarmaApp/eos-karma-tokens"
   },
   "KEY": {
     "name": "KEY",
@@ -52757,17 +52783,15 @@
     "url": "/currencies/king-of-defi",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
     "sawBirth": "01122020",
-    "forked_data": {
-      "block": [
-        "TTUwzo...bMLHJaq"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq"
+    ],
+    "git": "https://github.com/kodxofficial"
   },
   "KLAYswap Protocol": {
     "name": "KLAYswap Protocol",
@@ -53445,16 +53469,18 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "KAVA-10C"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://www.mintscan.io/kava",
+      "https://kava.bigdipper.live",
+      "https://explorer.binance.org/asset/KAVA-10C",
+      "https://kavascan.com/",
+      "https://hubble.figment.network/kava/chains/kava-2"
+    ],
+    "git": "https://github.com/kava-labs"
   },
   "Kcash": {
     "name": "Kcash",
@@ -53967,16 +53993,14 @@
     "url": "/currencies/kingdom-game-4",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TYM9eM...7H2rXAu"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu"
+    ]
   },
   "Kira Network": {
     "name": "Kira Network",
@@ -54036,16 +54060,14 @@
     "tags": [
       "Token",
       "Wallet",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TVj7RN...hjhdNZS"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS"
+    ],
+    "git": "https://github.com/klever-app"
   },
   "Klimatas": {
     "name": "Klimatas",
@@ -54974,12 +54996,13 @@
     "short": "LEVELG",
     "url": "/currencies/levelg",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/LEVELG-GC3L2FLR2QMUSOJ6QMQHKIWUKEXGOXSIN2KY72SDUHPC2KO6HOSQIXIF"
+    ],
+    "git": "https://github.com/LEVELGDOTNET"
   },
   "LGCY Network": {
     "name": "LGCY Network",
@@ -55728,16 +55751,15 @@
     "url": "/currencies/lyfe",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "LYFE-6AB"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/LYFE-6AB",
+      "https://explorer.binance.org/asset/LYFE-6AB"
+    ],
+    "git": "https://github.com/lyfehealth"
   },
   "LYNC Network": {
     "name": "LYNC Network",
@@ -55818,16 +55840,15 @@
       "AI & Big Data",
       "Distributed Computing",
       "Filesharing",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "LAMB-46C"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "http://explorer.lambdastorage.com/",
+      "https://explorer.binance.org/asset/LAMB-46C"
+    ],
+    "git": "https://github.com/LambdaIM"
   },
   "Lamden": {
     "name": "Lamden",
@@ -56573,12 +56594,13 @@
     "short": "LIKE",
     "url": "/currencies/likecoin",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://likecoin.bigdipper.live/"
+    ],
+    "git": "https://github.com/likecoin/"
   },
   "Limestone Network": {
     "name": "Limestone Network",
@@ -56819,16 +56841,15 @@
       "Platform",
       "Distributed Computing",
       "Interoperability",
-      "EOS"
+      "EOS",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "dappservices"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/tokens/DAPP-eos-dappservices",
+      "https://www.eosx.io/account/dappservices?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/liquidapps-io"
   },
   "Liquidity Dividends Protocol": {
     "name": "Liquidity Dividends Protocol",
@@ -57074,17 +57095,10 @@
       "Payments",
       "forked_altcoin",
       "Litecoin",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1371111"
-      ],
-      "date": "2018-02-18",
-      "forked_from": [
-        "Litecoin"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/litecoincash-project/"
   },
   "Litecoin Plus": {
@@ -57390,12 +57404,17 @@
     "short": "LPT",
     "url": "/currencies/livepeer",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.livepeer.org/",
+      "https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239",
+      "https://ethplorer.io/address/0x58b6a8a3302369daec383334672404ee733ab239",
+      "https://hubble.figment.network/livepeer/chains/mainnet"
+    ],
+    "git": "https://github.com/livepeer"
   },
   "Load Network": {
     "name": "Load Network",
@@ -58602,16 +58621,15 @@
       "Token",
       "Platform",
       "DApp",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "MEETONE-031"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/account/eosiomeetone",
+      "https://explorer.binance.org/asset/MEETONE-031"
+    ],
+    "git": "https://github.com/meet-one/documentation"
   },
   "MEETtoken": {
     "name": "MEETtoken",
@@ -59671,12 +59689,13 @@
       "Token",
       "Platform",
       "Distributed Computing",
-      "Filesharing"
+      "Filesharing",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://omniexplorer.info/asset/3"
+    ],
+    "git": "https://github.com/maidsafe"
   },
   "Maincoin": {
     "name": "Maincoin",
@@ -59975,12 +59994,16 @@
     "short": "MGP",
     "url": "/currencies/mangochain",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.mgpchain.io/",
+      "https://etherscan.io/token/0x8a845Fc339CeB022A695281554890429a34DF120",
+      "https://ethplorer.io/address/0x8a845fc339ceb022a695281554890429a34df120"
+    ]
   },
   "Manna": {
     "name": "Manna",
@@ -60355,16 +60378,13 @@
     "url": "/currencies/master-contract-token",
     "tags": [
       "Token",
-      "Neo"
+      "Neo",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "a87cc2...c60bc3f"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/a87cc2a513f5d8b4a42432343687c2127c60bc3f"
+    ],
+    "git": "https://github.com/Splyse/MCT"
   },
   "Matchpool": {
     "name": "Matchpool",
@@ -60552,12 +60572,14 @@
     "short": "MPG",
     "url": "/currencies/max-property-group",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://danb.maxcrowdfund.com/index.html",
+      "https://www.ardor.world/mpg_rich_list/"
+    ]
   },
   "Maxcoin": {
     "name": "Maxcoin",
@@ -60744,16 +60766,15 @@
     "tags": [
       "Token",
       "Mineable",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "MCASH-869"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://www.mcashscan.io/",
+      "https://explorer.binance.org/asset/MCASH-869"
+    ],
+    "git": "https://github.com/MidasCore/java-mcashchain"
   },
   "Mchain": {
     "name": "Mchain",
@@ -61295,12 +61316,13 @@
     "tags": [
       "Token",
       "Platform",
-      "DApp"
+      "DApp",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://www.wavesgo.com/assets.html?HzfaJp8YQWLvQG4FkUxq2Q7iYWMYQ2k8UF89vVJAjWPj"
+    ],
+    "git": "https://github.com/SigwoTechnologies"
   },
   "Merebel": {
     "name": "Merebel",
@@ -61715,12 +61737,15 @@
     "short": "MTLX",
     "url": "/currencies/mettalex",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14",
+      "https://ethplorer.io/address/0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14"
+    ],
+    "git": "https://github.com/fetchai/mettalex-token"
   },
   "MiL.k": {
     "name": "MiL.k",
@@ -61741,17 +61766,10 @@
       "Medium of Exchange",
       "forked_bitcoin",
       "Bitcoin",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "525000"
-      ],
-      "forked_from": [
-        "Bitcoin"
-      ],
-      "date": "2018-05-28"
-    },
+    "forked_data": [],
     "git": "https://github.com/MicroBitcoinOrg"
   },
   "MicroMoney": {
@@ -62018,16 +62036,15 @@
     "url": "/currencies/mineral",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TGj1Ej...6GTWg2U"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/address/TGj1Ej1qRzL9feLTLhjwgxXF4Ct6GTWg2U",
+      "https://tronscan.org/#/token/1001336"
+    ]
   },
   "Minereum": {
     "name": "Minereum",
@@ -62608,12 +62625,16 @@
       "Token",
       "Marketplace",
       "Content Creation",
-      "Wallet"
+      "Wallet",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://mixin.one/snapshots",
+      "https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33",
+      "https://ethplorer.io/address/0xa974c709cfb4566686553a20790685a47aceaa33"
+    ],
+    "git": "https://github.com/MixinNetwork"
   },
   "MktCoin": {
     "name": "MktCoin",
@@ -62841,12 +62862,13 @@
     "tags": [
       "Token",
       "Platform",
-      "Payments"
+      "Payments",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+    ],
+    "git": "https://github.com/mobius-network"
   },
   "Mochimo": {
     "name": "Mochimo",
@@ -62931,16 +62953,13 @@
     "url": "/currencies/modihost",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "aim"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/account/aim"
+    ],
+    "git": "https://github.com/ModiHost/contracts"
   },
   "Moeda Loyalty Points": {
     "name": "Moeda Loyalty Points",
@@ -63204,17 +63223,10 @@
       "Coin",
       "forked_altcoin",
       "Monero",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1546000"
-      ],
-      "date": "2018-04-06",
-      "forked_from": [
-        "Monero"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/monero-classic"
   },
   "MoneroV ": {
@@ -63225,17 +63237,10 @@
       "Coin",
       "forked_altcoin",
       "Monero",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1564965"
-      ],
-      "date": "2018-04-30",
-      "forked_from": [
-        "Monero"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/xmvdev/"
   },
   "MonetaryUnit": {
@@ -64020,16 +64025,15 @@
       "Media",
       "Content Creation",
       "Video",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "MBL-2D2"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.ont.io/token/detail/oep4/e5a49d7fd57e7178e189d3965d1ee64368a1036d/MovieBloc/10/1",
+      "https://explorer.binance.org/asset/MBL-2D2"
+    ]
   },
   "Moving Cloud Coin": {
     "name": "Moving Cloud Coin",
@@ -64430,16 +64434,17 @@
     "url": "/currencies/mywish",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "WISH-2D5"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x8AeD24Bf6E0247bE51c57D68ad32A176bF86F4d9",
+      "https://etherscan.io/token/0xd123575D94A7aD9Bff3ad037aE9d4d52f41a7518",
+      "https://explorer.binance.org/asset/WISH-2D5"
+    ],
+    "git": "https://github.com/mywishplatform"
   },
   "Myriad": {
     "name": "Myriad",
@@ -65437,16 +65442,14 @@
       "DeFi",
       "State channels",
       "Liechtenstein",
-      "Neo"
+      "Neo",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "3a4acd...a171129"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/contract/3a4acd3647086e7c44398aac0349802e6a171129",
+      "https://scan.nel.group/nep5/0x3a4acd3647086e7c44398aac0349802e6a171129"
+    ],
+    "git": "https://github.com/nash-io"
   },
   "Native Utility Token": {
     "name": "Native Utility Token",
@@ -65454,16 +65457,16 @@
     "url": "/currencies/native-utility-token",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "eosdtnutoken"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://eosflare.io/token/eosdtnutoken/NUT",
+      "https://eospark.com/account/eosdtnutoken",
+      "https://bloks.io/account/eosdtnutoken",
+      "https://www.eosx.io/account/eosdtnutoken?partner=coinmarketcap"
+    ]
   },
   "NativeCoin": {
     "name": "NativeCoin",
@@ -66273,12 +66276,18 @@
       "LPoS",
       "DeFi",
       "Stablecoin - Algorithmically-Stabilized",
-      "Staking"
+      "Staking",
+      "Ethereum Contract",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://wavesexplorer.com/",
+      "https://etherscan.io/token/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+      "https://bscscan.com/token/0xc4b6f32b84657e9f6a73fe119f0967be5ba8cf05"
+    ],
+    "git": "https://github.com/waves-exchange/neutrino-contract"
   },
   "Neutron": {
     "name": "Neutron",
@@ -66359,12 +66368,11 @@
     "short": "NBS",
     "url": "/currencies/new-bitshares",
     "tags": [
+      "Token",
       "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [],
+    "git": "https://github.com/bitshares-cnvote/newbitshares-core"
   },
   "New Year Bull": {
     "name": "New Year Bull",
@@ -66491,12 +66499,16 @@
     "short": "NWC",
     "url": "/currencies/newscrypto",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/NWC-GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2",
+      "https://stellarchain.io/address/GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2",
+      "https://etherscan.io/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+    ],
+    "git": "https://github.com/newscrypto"
   },
   "Newsolution": {
     "name": "Newsolution",
@@ -66535,16 +66547,15 @@
       "Mineable",
       "Marketplace",
       "Enterprise solutions",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "NEW-09E"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.newtonproject.org/",
+      "https://explorer.binance.org/asset/NEW-09E"
+    ],
+    "git": "https://github.com/newtonproject"
   },
   "Newton Coin Project": {
     "name": "Newton Coin Project",
