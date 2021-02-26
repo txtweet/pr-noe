@@ -715,7 +715,7 @@
     "url": "/currencies/3x-long-bitcoin-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract",
@@ -833,7 +833,7 @@
     "url": "/currencies/3x-long-ethereum-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract",
@@ -1043,7 +1043,7 @@
     "url": "/currencies/3x-short-bitcoin-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract",
@@ -1162,7 +1162,7 @@
     "url": "/currencies/3x-short-ethereum-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract",
@@ -1372,7 +1372,7 @@
     "url": "/currencies/3x-long-eos-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -1419,7 +1419,7 @@
     "url": "/currencies/3x-long-xrp-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -1466,7 +1466,7 @@
     "url": "/currencies/3x-short-eos-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -1513,7 +1513,7 @@
     "url": "/currencies/3x-short-xrp-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -1690,7 +1690,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -1838,7 +1838,7 @@
     "url": "/currencies/aave-down",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "deaths": [
@@ -1851,7 +1851,7 @@
     "url": "/currencies/aave-up",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ]
   },
   "AAX Token": {
@@ -2173,7 +2173,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "03122020",
     "deaths": [
@@ -2205,7 +2205,7 @@
     "url": "/currencies/adadown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -2244,7 +2244,7 @@
     "url": "/currencies/adaup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -4019,7 +4019,7 @@
     "url": "/currencies/aditus",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -4228,7 +4228,7 @@
       "Platform",
       "Enterprise solutions",
       "Smart Contracts",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -4247,7 +4247,7 @@
       "Token",
       "Transport",
       "Data Provenance",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -5359,7 +5359,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance",
+      "Binance Contract",
       "Yield farming",
       "Yield Aggregator",
       "Binance Launchpool",
@@ -6129,7 +6129,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "05022021",
@@ -6146,7 +6146,7 @@
       "Platform",
       "Enterprise solutions",
       "Substrate",
-      "Binance",
+      "Binance Contract",
       "Filesharing",
       "DOT Ecosystem",
       "Binance Chain",
@@ -7506,7 +7506,7 @@
     "tags": [
       "Token",
       "Marketing",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -8003,7 +8003,7 @@
     "url": "/currencies/auto",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "04022021",
@@ -8588,7 +8588,7 @@
     "url": "/currencies/bchdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "deaths": [
@@ -8611,7 +8611,7 @@
     "url": "/currencies/bchup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "deaths": [
@@ -8788,7 +8788,7 @@
     "url": "/currencies/bfis-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "Dead"
     ],
@@ -8856,7 +8856,7 @@
     "url": "/currencies/binance-idr",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -9182,7 +9182,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -9248,7 +9248,7 @@
     "url": "/currencies/bnbdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -9266,7 +9266,7 @@
     "url": "/currencies/bnbup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -9518,7 +9518,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -9552,7 +9552,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoLicenceFile"
     ],
     "sawBirth": "06012021",
@@ -9572,7 +9572,7 @@
       "Binance Smart Chain",
       "Dead",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -9697,7 +9697,7 @@
     "url": "/currencies/btcdown",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "forked_from": [
@@ -9730,7 +9730,7 @@
     "url": "/currencies/btcup",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "forked_from": [
@@ -9873,7 +9873,7 @@
       "Ethereum Contract",
       "Binance Smart Chain",
       "NoGitHub",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -10094,7 +10094,7 @@
     "url": "/currencies/bakerytoken",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "DeFi",
       "AMM",
       "DEX",
@@ -10381,7 +10381,7 @@
       "Token",
       "DeFi",
       "Oracles",
-      "Binance",
+      "Binance Contract",
       "Binance Chain",
       "Ethereum Contract",
       "Other Contract",
@@ -10918,7 +10918,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "12012021",
     "forked_data": [
@@ -10932,7 +10932,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "12012021",
@@ -11291,7 +11291,7 @@
     "url": "/currencies/beefy-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -11664,7 +11664,7 @@
     "tags": [
       "Oracles",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -12340,7 +12340,7 @@
     "url": "/currencies/billionhappiness",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -12402,7 +12402,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "27012021",
     "deaths": [
@@ -12435,7 +12435,7 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Dead"
     ],
@@ -12466,7 +12466,7 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -12492,7 +12492,7 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance",
+      "Binance Contract",
       "Binance Chain",
       "Ethereum Contract",
       "Other Contract",
@@ -12514,7 +12514,7 @@
       "Stablecoin - Asset-Backed",
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "06012021",
@@ -12775,7 +12775,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -13794,7 +13794,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": {
@@ -14094,7 +14094,7 @@
     "url": "/currencies/bitcoin-bep2",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -14427,7 +14427,7 @@
     "url": "/currencies/bitcoin-standard-hashrate-token",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "14012021",
     "git": "https://github.com/Standard-Hashrate-Group",
@@ -16317,7 +16317,7 @@
     "tags": [
       "Token",
       "Platform",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -16335,7 +16335,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": {
@@ -16475,7 +16475,7 @@
     "url": "/currencies/xio",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": []
@@ -17500,7 +17500,7 @@
       "Binance Smart Chain",
       "NoGitHub",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -18197,7 +18197,7 @@
     "url": "/currencies/burger-swap",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "AMM",
       "Binance Smart Chain",
       "NoGitHub",
@@ -19089,7 +19089,7 @@
       "Platform",
       "AI & Big Data",
       "IoT",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -19516,7 +19516,7 @@
       "Staking",
       "Yield farming",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -19778,7 +19778,7 @@
       "Platform",
       "Crowdsourcing",
       "Sharing Economy",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Dead"
     ],
@@ -20420,7 +20420,7 @@
     "tags": [
       "Token",
       "Platform",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "NoGitHub",
       "Other Contract",
@@ -21119,7 +21119,7 @@
       "Polkadot",
       "DOT Ecosystem",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -21343,7 +21343,7 @@
     "url": "/currencies/cheeseswap",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/cheeseswapbsc/",
@@ -21574,7 +21574,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -21592,7 +21592,7 @@
       "Sports",
       "Content Creation",
       "Payments",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -24128,7 +24128,7 @@
     "tags": [
       "Token",
       "Media",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -24517,7 +24517,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance",
+      "Binance Contract",
       "DAO",
       "Binance Chain",
       "NoGitHub",
@@ -24785,7 +24785,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -24818,7 +24818,7 @@
     "url": "/currencies/crow-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -24960,7 +24960,7 @@
     "url": "/currencies/crudeoil-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -25379,7 +25379,7 @@
       "Token",
       "Transport",
       "Loyalty",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -25532,7 +25532,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -26181,7 +26181,7 @@
     "url": "/currencies/cubiex",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Interoperability",
       "Binance Smart Chain",
       "NoGitHub",
@@ -27330,7 +27330,7 @@
       "Token",
       "DeFi",
       "Yield farming",
-      "Binance",
+      "Binance Contract",
       "DAO",
       "Yield Aggregator",
       "Binance Chain",
@@ -27708,7 +27708,7 @@
     "url": "/currencies/dotdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -27726,7 +27726,7 @@
     "url": "/currencies/dotup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -27840,7 +27840,7 @@
     "url": "/currencies/drep",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -27858,7 +27858,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -31522,7 +31522,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "deaths": [
@@ -32449,7 +32449,7 @@
       "Marketplace",
       "Privacy",
       "Smart Contracts",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -33139,7 +33139,7 @@
     "url": "/currencies/eosdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -33177,7 +33177,7 @@
     "url": "/currencies/eosdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -33951,7 +33951,7 @@
     "url": "/currencies/ethdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -33984,7 +33984,7 @@
     "url": "/currencies/ethup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -34402,7 +34402,7 @@
       "Token",
       "Payments",
       "Dead",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "block": [
@@ -36150,7 +36150,7 @@
     "url": "/currencies/equal",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -38409,7 +38409,7 @@
     "url": "/currencies/fildown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "18122020",
@@ -38423,7 +38423,7 @@
     "url": "/currencies/filup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "18122020",
@@ -38800,7 +38800,7 @@
     "url": "/currencies/free-coin",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Tron",
       "Payments",
       "Staking",
@@ -38860,7 +38860,7 @@
       "Token",
       "Marketplace",
       "Derivatives",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -39275,7 +39275,7 @@
       "Enterprise solutions",
       "Research",
       "Smart Contracts",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "DeFi",
       "Scaling",
@@ -41323,7 +41323,7 @@
       "Ethereum Contract",
       "Solana",
       "Other Contract",
-      "Binance",
+      "Binance Contract",
       "New2"
     ],
     "forked_data": [
@@ -41925,7 +41925,7 @@
     "url": "/currencies/givly-coin",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -43087,7 +43087,7 @@
       "Token",
       "NoGitHub",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -43106,7 +43106,7 @@
       "Media",
       "Loyalty",
       "Content Creation",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -43702,7 +43702,7 @@
     "tags": [
       "Token",
       "Platform",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -44246,7 +44246,7 @@
     "tags": [
       "Binance Smart Chain",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -44263,7 +44263,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -45622,7 +45622,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "09022021",
@@ -46330,7 +46330,7 @@
       "Insurance",
       "Binance Smart Chain",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "18012021",
     "git": "https://github.com/helmet-insure/helmet-insure.github.io",
@@ -47203,7 +47203,7 @@
     "url": "/currencies/honest",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -50859,7 +50859,7 @@
       "Singapore",
       "India",
       "Other Contract",
-      "Binance",
+      "Binance Contract",
       "New2"
     ],
     "forked_data": [
@@ -51466,7 +51466,7 @@
     "url": "/currencies/jointer",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -51541,7 +51541,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -51558,7 +51558,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "forked_data": [
@@ -51647,7 +51647,7 @@
     "url": "/currencies/justliquidity",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Binance Smart Chain",
       "Ethereum Contract",
       "Other Contract",
@@ -52495,7 +52495,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -52532,7 +52532,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "27012021",
     "forked_data": [
@@ -52563,7 +52563,7 @@
     "url": "/currencies/keep3r-bsc-network",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoLicenceFile"
     ],
     "sawBirth": "06012021",
@@ -52814,7 +52814,7 @@
       "Collectibles & NFTs",
       "Staking",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -54326,7 +54326,7 @@
     "url": "/currencies/linkdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -54344,7 +54344,7 @@
     "url": "/currencies/linkup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -54641,7 +54641,7 @@
     "url": "/currencies/ltcdown",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ]
   },
   "LTCUP": {
@@ -54650,7 +54650,7 @@
     "url": "/currencies/ltcup",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ]
   },
   "LTO Network": {
@@ -54659,7 +54659,7 @@
     "url": "/currencies/lto-network",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "PoS",
       "Platform",
       "Enterprise solutions",
@@ -54744,7 +54744,7 @@
     "url": "/currencies/lyfe",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -54832,7 +54832,7 @@
       "AI & Big Data",
       "Distributed Computing",
       "Filesharing",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -54993,7 +54993,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -55669,7 +55669,7 @@
       "Binance Smart Chain",
       "NoGitHub",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -56270,7 +56270,7 @@
     "url": "/currencies/lition",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -57556,7 +57556,7 @@
       "Token",
       "Platform",
       "DApp",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -59629,7 +59629,7 @@
     "tags": [
       "Rebase",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -59683,7 +59683,7 @@
     "tags": [
       "Token",
       "Mineable",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -60652,7 +60652,7 @@
     "url": "/currencies/milk-alliance",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ]
   },
   "MicroBitcoin": {
@@ -60731,7 +60731,7 @@
       "Stablecoin",
       "Binance Smart Chain",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -60749,7 +60749,7 @@
       "Stablecoin",
       "Binance Smart Chain",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -61437,7 +61437,7 @@
       "Media",
       "Content Creation",
       "Smart Contracts",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -62434,7 +62434,7 @@
     "url": "/currencies/monster-slayer-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -62450,7 +62450,7 @@
     "url": "/currencies/monster-slayer-share",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -62891,7 +62891,7 @@
       "Media",
       "Content Creation",
       "Video",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -62993,7 +62993,7 @@
     "url": "/currencies/multivac",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -63125,7 +63125,7 @@
     "url": "/currencies/muzika",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Dead"
     ],
@@ -63294,7 +63294,7 @@
     "url": "/currencies/mywish",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "Ethereum Contract",
       "New2"
@@ -63345,7 +63345,7 @@
     "url": "/currencies/mythic-finance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "Ethereum Contract",
       "New2"
@@ -63851,7 +63851,7 @@
     "url": "/currencies/now-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Binance Chain",
       "Ethereum Contract",
       "Other Contract",
@@ -64251,7 +64251,7 @@
     "url": "/currencies/narwhalswap",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -65114,7 +65114,7 @@
       "Stablecoin - Algorithmically-Stabilized",
       "Staking",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -65380,7 +65380,7 @@
       "Mineable",
       "Marketplace",
       "Enterprise solutions",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -65486,7 +65486,7 @@
       "Token",
       "Services",
       "Payments",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -68443,7 +68443,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -68761,7 +68761,7 @@
     "url": "/currencies/ormeus-ecosystem",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "Ethereum Contract",
@@ -69036,7 +69036,7 @@
     "url": "/currencies/paycent",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -69061,7 +69061,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "deaths": [
       "30112020",
@@ -70046,7 +70046,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoLicenceFile"
     ],
     "sawBirth": "06012021",
@@ -70065,7 +70065,7 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Binance",
+      "Binance Contract",
       "DeFi",
       "Binance Chain",
       "Binance Smart Chain",
@@ -70084,7 +70084,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "28012021",
     "forked_data": [
@@ -70443,7 +70443,7 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -71611,7 +71611,7 @@
       "Research",
       "Neo",
       "Binance Smart Chain",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -71694,7 +71694,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "02022021",
@@ -72113,7 +72113,7 @@
     "url": "/currencies/pivot-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "Ethereum Contract",
@@ -72167,7 +72167,7 @@
     "url": "/currencies/pizzaswap",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -72494,7 +72494,7 @@
     "url": "/currencies/pledge-coin",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -72774,7 +72774,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "22012021",
     "forked_data": [
@@ -74157,7 +74157,7 @@
     "url": "/currencies/prometeus",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Binance Chain",
       "NoGitHub",
       "Ethereum Contract",
@@ -74277,7 +74277,7 @@
       "NoGitHub",
       "Token",
       "Ethereum Contract",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "15012021",
     "forked_data": [
@@ -74428,7 +74428,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "28012021",
     "forked_data": [
@@ -74508,7 +74508,7 @@
     "url": "/currencies/pundi-x-nem",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -76754,7 +76754,7 @@
     "url": "/currencies/raven-protocol",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -78624,7 +78624,7 @@
       "Token",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -79425,7 +79425,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": {
@@ -79956,7 +79956,7 @@
     "url": "/currencies/sushiup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "18122020",
@@ -80000,7 +80000,7 @@
     "short": "SXPDOWN",
     "url": "/currencies/sxpdown",
     "tags": [
-      "Binance",
+      "Binance Contract",
       "Token"
     ]
   },
@@ -80009,7 +80009,7 @@
     "short": "SXPUP",
     "url": "/currencies/sxpup",
     "tags": [
-      "Binance",
+      "Binance Contract",
       "Token"
     ]
   },
@@ -80234,7 +80234,7 @@
     "tags": [
       "Wallet",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "08022021",
@@ -81900,7 +81900,7 @@
     "url": "/currencies/sharetoken",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -82046,7 +82046,7 @@
     "tags": [
       "Binance Smart Chain",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -82525,7 +82525,7 @@
       "Marketplace",
       "AI & Big Data",
       "Payments",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -84024,7 +84024,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "03022021",
@@ -84082,7 +84082,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "06012021",
@@ -84219,7 +84219,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -84236,7 +84236,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "deaths": [
@@ -84345,7 +84345,7 @@
     "url": "/currencies/spartan-protocol",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Binance Chain",
       "Binance Smart Chain",
       "Other Contract",
@@ -84643,7 +84643,7 @@
     "url": "/currencies/spendcoin",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -85602,7 +85602,7 @@
     "url": "/currencies/staysbase",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "19012021",
     "git": "https://github.com/staysbase",
@@ -86875,7 +86875,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": {
@@ -87095,7 +87095,7 @@
       "Marketplace",
       "Decentralized exchange",
       "PoS",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -87115,7 +87115,7 @@
       "Payments",
       "Wallet",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -87133,7 +87133,7 @@
     "tags": [
       "Token",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -87340,7 +87340,7 @@
       "DeFi",
       "Yield farming",
       "Token",
-      "Binance",
+      "Binance Contract",
       "DAO",
       "Three Arrows Capital Portfolio",
       "NoGitHub",
@@ -87723,7 +87723,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance",
+      "Binance Contract",
       "Cosmos Ecosystem",
       "Decentralized exchange",
       "Other Contract",
@@ -88275,7 +88275,7 @@
     "url": "/currencies/troy",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -88291,7 +88291,7 @@
     "url": "/currencies/trxdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -88309,7 +88309,7 @@
     "url": "/currencies/trxup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -88860,7 +88860,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "forked_data": [
@@ -89178,7 +89178,7 @@
       "NoGitHub",
       "Token",
       "Ethereum Contract",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "forked_data": [
@@ -89424,7 +89424,7 @@
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
-      "Binance",
+      "Binance Contract",
       "New2"
     ],
     "depends": [
@@ -89842,7 +89842,7 @@
       "Yield farming",
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -90264,7 +90264,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "block": [
@@ -90454,7 +90454,7 @@
     "url": "/currencies/tigerfinance",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -90615,7 +90615,7 @@
       "Privacy",
       "Medium of Exchange",
       "Platform",
-      "Binance",
+      "Binance Contract",
       "DAG",
       "Dead"
     ],
@@ -90673,7 +90673,7 @@
       "DAG",
       "Germany",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "12012021",
@@ -90953,7 +90953,7 @@
       "Asset management",
       "NoGitHub",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -91867,7 +91867,7 @@
     "tags": [
       "Token",
       "Hospitality",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -92414,7 +92414,7 @@
       "Store of Value",
       "Stablecoin",
       "Stablecoin - Asset-Backed",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract",
       "Other Contract",
       "New2"
@@ -92624,7 +92624,7 @@
     "url": "/currencies/trust-wallet-token",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -93179,7 +93179,7 @@
     "short": "UNIDOWN",
     "url": "/currencies/unidown",
     "tags": [
-      "Binance",
+      "Binance Contract",
       "Token"
     ]
   },
@@ -93276,7 +93276,7 @@
     "short": "UNIUP",
     "url": "/currencies/uniup",
     "tags": [
-      "Binance",
+      "Binance Contract",
       "Token"
     ]
   },
@@ -93368,7 +93368,7 @@
       "Stablecoin",
       "Stablecoin - Asset-Backed",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -94373,7 +94373,7 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance",
+      "Binance Contract",
       "Binance Launchpool",
       "Binance Smart Chain",
       "NoGitHub",
@@ -94632,7 +94632,7 @@
       "Three Arrows Capital Portfolio",
       "NoGitHub",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -95682,7 +95682,7 @@
     "tags": [
       "Token",
       "Dead",
-      "Binance",
+      "Binance Contract",
       "Ethereum Contract"
     ],
     "forked_data": {
@@ -95885,7 +95885,7 @@
     "url": "/currencies/vndc",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -96060,7 +96060,7 @@
       "Stablecoin - Asset-Backed",
       "Dead",
       "Token",
-      "Binance",
+      "Binance Contract",
       "venus.io"
     ],
     "sawBirth": "01122020",
@@ -96647,7 +96647,7 @@
     "url": "/currencies/venus",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "venus.io",
       "DeFi",
       "Binance Launchpool",
@@ -96667,7 +96667,7 @@
     "tags": [
       "Dead",
       "venus.io",
-      "Binance",
+      "Binance Contract",
       "Token"
     ],
     "sawBirth": "14122020",
@@ -96722,7 +96722,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract"
     ],
     "sawBirth": "03022021",
@@ -96760,7 +96760,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -96823,7 +96823,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -96886,7 +96886,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -96949,7 +96949,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "12012021",
     "deaths": [
@@ -97000,7 +97000,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "15122020",
     "deaths": [
@@ -97053,7 +97053,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97116,7 +97116,7 @@
       "Dead",
       "NoGitHub",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "12012021",
     "deaths": [
@@ -97167,7 +97167,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "14122020",
     "deaths": [
@@ -97229,7 +97229,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97283,7 +97283,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97346,7 +97346,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97401,7 +97401,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97464,7 +97464,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -97527,7 +97527,7 @@
       "Dead",
       "Token",
       "venus.io",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "13122020",
     "deaths": [
@@ -98541,7 +98541,7 @@
     "url": "/currencies/vodi-x",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Ethereum Contract",
       "Other Contract",
@@ -99810,7 +99810,7 @@
     "url": "/currencies/wazirx",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "NoGitHub",
       "Other Contract",
       "New2"
@@ -100910,7 +100910,7 @@
     "url": "/currencies/wbnb",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -101631,7 +101631,7 @@
     "url": "/currencies/xlmdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "18122020",
@@ -101645,7 +101645,7 @@
     "url": "/currencies/xlmup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "sawBirth": "18122020",
@@ -101905,7 +101905,7 @@
     "url": "/currencies/xrpdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -101923,7 +101923,7 @@
     "url": "/currencies/xrpup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -102062,7 +102062,7 @@
     "url": "/currencies/xtzdown",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -102080,7 +102080,7 @@
     "url": "/currencies/xtzup",
     "tags": [
       "Token",
-      "Binance",
+      "Binance Contract",
       "Dead"
     ],
     "forked_data": {
@@ -103272,7 +103272,7 @@
     "url": "/currencies/yfidown",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "forked_from": [
@@ -103433,7 +103433,7 @@
     "url": "/currencies/yfiup",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "forked_data": {
       "forked_from": [
@@ -104158,7 +104158,7 @@
       "Yield farming",
       "Binance Smart Chain",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -105047,7 +105047,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -105063,7 +105063,7 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -106741,7 +106741,7 @@
       "Marketplace",
       "Enterprise solutions",
       "Ethereum Contract",
-      "Binance",
+      "Binance Contract",
       "Other Contract",
       "New2"
     ],
@@ -106787,7 +106787,7 @@
     "url": "/currencies/bdollar",
     "tags": [
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "12012021",
     "git": "https://github.com/bearn-defi/bdollar-smartcontracts",
@@ -106802,7 +106802,7 @@
     "tags": [
       "Dead",
       "Token",
-      "Binance"
+      "Binance Contract"
     ],
     "sawBirth": "06012021",
     "deaths": [
