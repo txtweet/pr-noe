@@ -66671,12 +66671,13 @@
     "short": "NAX",
     "url": "/currencies/nextdao",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.nebulas.io"
+    ]
   },
   "Nexty": {
     "name": "Nexty",
@@ -67881,12 +67882,18 @@
       "Token",
       "Medium of Exchange",
       "Payments",
-      "State channels"
+      "State channels",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://omg.eco/blockexplorer",
+      "https://etherscan.io/token/OmiseGo",
+      "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "https://blockchair.com/ethereum/erc-20/token/0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+      "https://omisego.to/quest"
+    ],
+    "git": "https://github.com/omgnetwork"
   },
   "ONOToken": {
     "name": "ONOToken",
@@ -68507,12 +68514,13 @@
     "short": "OCE",
     "url": "/currencies/oceanex-token",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explore.veforge.com/tokens/0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14"
+    ]
   },
   "OctoFi": {
     "name": "OctoFi",
@@ -68596,16 +68604,14 @@
     "tags": [
       "Token",
       "DeFi",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TWVVcR...wvDezMn"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn"
+    ],
+    "git": "https://github.com/oikos-cash"
   },
   "Okschain": {
     "name": "Okschain",
@@ -68945,12 +68951,19 @@
       "DeFi",
       "Interoperability",
       "Staking",
-      "DPoS"
+      "DPoS",
+      "Asset management",
+      "Payments",
+      "Wallet",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://oneledger.network/",
+      "https://etherscan.io/token/0x64a60493d888728cf42616e034a0dfeae38efcf0",
+      "https://ethplorer.io/address/0x64a60493d888728cf42616e034a0dfeae38efcf0"
+    ],
+    "git": "https://github.com/Oneledger/OLT"
   },
   "OneRoot Network": {
     "name": "OneRoot Network",
@@ -69066,17 +69079,12 @@
       "forked_altcoin",
       "Neo",
       "Binance Chain",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "DOT Ecosystem",
+      "Binance Smart Chain",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1974823"
-      ],
-      "date": "2018-03-01",
-      "forked_from": [
-        "Neo"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/ontio"
   },
   "Ontology Gas": {
@@ -69084,12 +69092,14 @@
     "short": "ONG",
     "url": "/currencies/ontology-gas",
     "tags": [
-      "Token"
+      "Token",
+      "Ontology",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.ont.io/"
+    ]
   },
   "Opacity": {
     "name": "Opacity",
@@ -69442,12 +69452,13 @@
       "Token",
       "DPoS",
       "Platform",
-      "Oracles"
+      "Oracles",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://eosflare.io/account/octtothemoon"
+    ]
   },
   "Oracolxor": {
     "name": "Oracolxor",
@@ -69895,12 +69906,16 @@
       "Token",
       "Platform",
       "Privacy",
-      "Smart Contracts"
+      "Smart Contracts",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://www.ogoscan.io/",
+      "https://etherscan.io/token/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+      "https://ethplorer.io/address/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e"
+    ],
+    "git": "https://github.com/origolab/origo"
   },
   "Orion Protocol": {
     "name": "Orion Protocol",
@@ -69959,16 +69974,16 @@
     "url": "/currencies/ormeus-ecosystem",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ECO-083"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/ECO-083",
+      "https://etherscan.io/token/0x191557728e4d8caa4ac94f86af842148c0fa8f7e"
+    ]
   },
   "Our Pay": {
     "name": "Our Pay",
@@ -71279,16 +71294,17 @@
     "tags": [
       "Token",
       "Yield farming",
-      "Binance"
+      "Binance",
+      "DeFi",
+      "Binance Chain",
+      "Binance Smart Chain",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0x0e09...e81ce82"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+    ],
+    "git": "https://github.com/pancakeswap"
   },
   "Panda Yield": {
     "name": "Panda Yield",
@@ -72161,16 +72177,15 @@
     "url": "/currencies/paytomat",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ptitokenhome"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://eosflare.io/token/ptitokenhome/PTI",
+      "https://bloks.io/account/ptitokenhome",
+      "https://www.eosx.io/account/ptitokenhome?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/paytomat"
   },
   "Peanut": {
     "name": "Peanut",
@@ -72195,16 +72210,14 @@
     "url": "/currencies/pearl",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TGbu32...Qiaweoq"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.io/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq"
+    ]
   },
   "Peculium": {
     "name": "Peculium",
@@ -72735,16 +72748,28 @@
       "Enterprise solutions",
       "Collectibles & NFTs",
       "Content Creation",
-      "Neo"
+      "Neo",
+      "Distributed Computing",
+      "Filesharing",
+      "DApp",
+      "Wallet",
+      "Staking",
+      "Oracles",
+      "Payments",
+      "Masternodes",
+      "Interoperability",
+      "Entertainment",
+      "Gaming",
+      "E-commerce",
+      "DeFi",
+      "Cosmos Ecosystem",
+      "Marketplace",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ed07cf...c66a7b3"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/ed07cffad18f1308db51920d99a2af60ac66a7b3"
+    ],
+    "git": "https://github.com/phantasma-io"
   },
   "Phantasma Energy": {
     "name": "Phantasma Energy",
@@ -72832,16 +72857,17 @@
       "Enterprise solutions",
       "DeFi",
       "Research",
-      "Neo"
+      "Neo",
+      "Binance Smart Chain",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "157810...770d8c9"
-      ],
-      "forked_from": [
-        "Neo Contract"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/1578103c13e39df15d0d29826d957e85d770d8c9",
+      "https://explorer.binance.org/asset/PHB-2DF"
+    ],
+    "git": "https://github.com/phoenixglobal"
   },
   "PhoenixDAO": {
     "name": "PhoenixDAO",
@@ -72887,16 +72913,15 @@
     "url": "/currencies/phoneum",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1003095"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token/1003095/holders",
+      "https://tronscan.org/#/token/1003095"
+    ]
   },
   "Phore": {
     "name": "Phore",
@@ -73343,16 +73368,17 @@
     "url": "/currencies/pivot-token",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "PVT-554"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/PVT-554",
+      "https://explorer.binance.org/asset/PVT-554",
+      "https://etherscan.io/token/0x7869c4a1a3f6f8684fbcc422a21ad7abe3167834"
+    ]
   },
   "Pixie Coin": {
     "name": "Pixie Coin",
@@ -73382,16 +73408,13 @@
     "url": "/currencies/pizza",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "pizzatotoken"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://eospark.com/account/pizzatotoken"
+    ],
+    "git": "https://github.com/PIZZAUSDE"
   },
   "PizzaSwap": {
     "name": "PizzaSwap",
@@ -73414,29 +73437,37 @@
     "short": "PLA",
     "url": "/currencies/plair",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://vechainstats.com/account/0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f/"
+    ]
   },
   "Plasma Finance": {
     "name": "Plasma Finance",
     "short": "PPAY",
     "url": "/currencies/plasma-finance",
     "tags": [
-      "Token"
+      "Token",
+      "DEX",
+      "DApp",
+      "Smart Contracts",
+      "DeFi",
+      "Decentralized exchange",
+      "Asset management",
+      "Payments",
+      "Yield farming",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "11122020",
-    "forked_data": {
-      "block": [
-        "0x054d...74f3bb2"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+      "https://ethplorer.io/address/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
+    ],
+    "git": "https://github.com/plasmadlt/PPAY-Governance"
   },
   "PlatinumBAR": {
     "name": "PlatinumBAR",
@@ -74125,16 +74156,14 @@
     "url": "/currencies/pollux-coin",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TMnqP8...LRkiZXP"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP"
+    ],
+    "git": "https://github.com/polluxcoin2020/pox"
   },
   "PolySwarm": {
     "name": "PolySwarm",
@@ -75078,12 +75107,13 @@
     "url": "/currencies/primalbase",
     "tags": [
       "Token",
-      "Real Estate"
+      "Real Estate",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://www.wavesgo.com/assets.html?EdDvbhk4wJ1kL6pMCq1V36GbQE2nGE7Metb87zbaY2JL"
+    ]
   },
   "Primas": {
     "name": "Primas",
@@ -75337,12 +75367,13 @@
     "tags": [
       "Token",
       "Media",
-      "Payments"
+      "Payments",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.qtum.org/token/4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
+    ]
   },
   "Project Pai": {
     "name": "Project Pai",
@@ -75453,16 +75484,14 @@
     "url": "/currencies/proof-of-liquidity",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TWcDDx...XXuVLer"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer"
+    ]
   },
   "Prophecy": {
     "name": "Prophecy",
@@ -75662,12 +75691,17 @@
     "tags": [
       "Token",
       "Platform",
-      "Enterprise solutions"
+      "Enterprise solutions",
+      "Distributed Computing",
+      "Filesharing",
+      "IPFS",
+      "Coin",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://explorer.xpxsirius.io/#"
+    ],
+    "git": "https://github.com/proximax-storage"
   },
   "ProxyNode": {
     "name": "ProxyNode",
@@ -75774,16 +75808,15 @@
     "url": "/currencies/pundi-x-nem",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "NPXSXEM-89C"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "http://explorer.nemchina.com/#/mosaic?m=npxs&ns=pundix",
+      "https://explorer.binance.org/asset/NPXSXEM-89C"
+    ]
   },
   "Punk": {
     "name": "Punk",
@@ -76131,28 +76164,31 @@
     "tags": [
       "Token",
       "Technology",
-      "Neo"
+      "Neo",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0d821b...e896cf5"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
+    ],
+    "git": "https://github.com/qlcchain/"
   },
   "QOOBER": {
     "name": "QOOBER",
     "short": "QOOB",
     "url": "/currencies/qoober",
     "tags": [
-      "Token"
+      "Token",
+      "PoS",
+      "E-commerce",
+      "Staking",
+      "Masternodes",
+      "Coin",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://qoober.space/txs"
+    ],
+    "git": "https://github.com/Qoober/qoober-node"
   },
   "QPay": {
     "name": "QPay",
@@ -76401,12 +76437,14 @@
     "url": "/currencies/qbao",
     "tags": [
       "Token",
-      "Marketplace"
+      "Marketplace",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.qtum.org/token/QMUDYjQpjkxZjjfEdKznqsim7VMS5LZzqp",
+      "https://qtumexplorer.io/contract/QMUDYjQpjkxZjjfEdKznqsim7VMS5LZzqp"
+    ]
   },
   "Qbic": {
     "name": "Qbic",
@@ -76474,12 +76512,15 @@
     "url": "/currencies/qcash",
     "tags": [
       "Token",
-      "Stablecoin"
+      "Stablecoin",
+      "NoGitHub",
+      "Qtum",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://qtum.info/contract/f2033ede578e17fa6231047265010445bca8cf1c"
+    ]
   },
   "QiSwap": {
     "name": "QiSwap",
@@ -77468,12 +77509,13 @@
     "short": "ROAD",
     "url": "/currencies/road",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.intchain.io/"
+    ]
   },
   "ROCKI": {
     "name": "ROCKI",
@@ -77633,12 +77675,14 @@
     "tags": [
       "Token",
       "Services",
-      "Payments"
+      "Payments",
+      "Filesharing",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+    ],
+    "git": "https://github.com/riflabs"
   },
   "RSK Smart Bitcoin": {
     "name": "RSK Smart Bitcoin",
@@ -78048,16 +78092,15 @@
     "url": "/currencies/raven-protocol",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "RAVEN-F66"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/RAVEN-F66",
+      "https://bscscan.com/token/0xcd7c5025753a49f1881b31c48caa7c517bb46308"
+    ]
   },
   "Ravencoin": {
     "name": "Ravencoin",
@@ -78221,12 +78264,13 @@
     "short": "RIO",
     "url": "/currencies/realio-network",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK"
+    ]
   },
   "ReapChain": {
     "name": "ReapChain",
@@ -78339,12 +78383,15 @@
     "url": "/currencies/redfox-labs",
     "tags": [
       "Token",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xa1d6df714f91debf4e0802a542e13067f31b8262",
+      "https://ethplorer.io/address/0xa1d6df714f91debf4e0802a542e13067f31b8262"
+    ]
   },
   "Redd": {
     "name": "Redd",
@@ -78638,12 +78685,17 @@
     "tags": [
       "Token",
       "Cybersecurity",
-      "Identity"
+      "Identity",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://remchain.remme.io/",
+      "https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+      "https://ethplorer.io/address/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+      "https://testchain.remme.io/"
+    ],
+    "git": "https://github.com/Remmeauth/remprotocol"
   },
   "Ren": {
     "name": "Ren",
@@ -78950,18 +79002,15 @@
     "tags": [
       "Token",
       "Tron",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Other Contract",
+      "New2"
     ],
     "sawBirth": "15122020",
     "git": "https://github.com/blockchainforfuture/rletoken",
-    "forked_data": {
-      "block": [
-        "TDXJ1d...65BNU5c"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c"
+    ]
   },
   "Rigel Finance": {
     "name": "Rigel Finance",
@@ -79373,12 +79422,13 @@
     "short": "RVX",
     "url": "/currencies/rivex",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://www.wanscan.org/token/0xcb72EF349870780Fdc4786e8c86AaB5B4Fa36B73"
+    ],
+    "git": "https://github.com/RiveX-Foundation"
   },
   "Rizen Coin": {
     "name": "Rizen Coin",
@@ -80501,12 +80551,13 @@
     "url": "/currencies/six",
     "tags": [
       "Token",
-      "Payments"
+      "Payments",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/SIX-GDMS6EECOH6MBMCP3FYRYEVRBIV3TQGLOFQIPVAITBRJUMTI6V7A2X6Z"
+    ]
   },
   "SKALE Network": {
     "name": "SKALE Network",
@@ -80629,12 +80680,13 @@
     "short": "SSX",
     "url": "/currencies/somesing",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tracker.icon.foundation/token/cx429731644462ebcfd22185df38727273f16f9b87"
+    ]
   },
   "SONDER": {
     "name": "SONDER",
@@ -81231,24 +81283,28 @@
     "short": "SUN",
     "url": "/currencies/sun",
     "tags": [
-      "Token"
+      "Token",
+      "Other Contract",
+      "Tron",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tronscan.io/#/contract/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9/code"
+    ],
+    "git": "https://github.com/tronprotocol"
   },
   "SUP": {
     "name": "SUP",
     "short": "SUP",
     "url": "/currencies/sup",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://vapor.blockmeta.com/asset/47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e"
+    ],
+    "git": "https://github.com/Bytom/vapor"
   },
   "SUP8EME": {
     "name": "SUP8EME",
@@ -81491,17 +81547,10 @@
       "Masternodes",
       "forked_altcoin",
       "Dash",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "807085"
-      ],
-      "date": "2018-01-20",
-      "forked_from": [
-        "Dash"
-      ]
-    },
+    "forked_data": [],
     "git": "https://github.com/bankledger"
   },
   "Safe Haven": {
@@ -81516,12 +81565,23 @@
       "Cybersecurity",
       "Hardware",
       "Marketplace",
-      "Platform"
+      "Platform",
+      "Cosmos Ecosystem",
+      "Services",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Quantum-Resistant",
+      "VeChain",
+      "Singapore",
+      "PoA",
+      "Proof-of-Authority",
+      "Belgium",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explore.veforge.com/tokens/0x5db3c8a942333f6468176a870db36eef120a34dc"
+    ],
+    "git": "https://github.com/Safehaven-io"
   },
   "SafeCapital": {
     "name": "SafeCapital",
@@ -83251,16 +83311,17 @@
     "url": "/currencies/sharetoken",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Ethereum Contract",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "SHR-DB6"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0xd98f75b1a3261dab9eed4956c93f33749027a964",
+      "https://ethplorer.io/address/0xd98f75b1a3261dab9eed4956c93f33749027a964",
+      "https://explorer.binance.org/asset/SHR-DB6"
+    ],
+    "git": "https://github.com/sharering"
   },
   "SharedStake": {
     "name": "SharedStake",
@@ -85120,12 +85181,13 @@
     "url": "/currencies/sologenic",
     "tags": [
       "Token",
-      "DeFi"
+      "DeFi",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz"
+    ],
+    "git": "https://github.com/sologenic"
   },
   "Solomon Defi": {
     "name": "Solomon Defi",
@@ -85717,16 +85779,16 @@
     "url": "/currencies/spartan-protocol",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Binance Chain",
+      "Binance Smart Chain",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xe4ae305ebe1abe663f261bc00534067c80ad677c"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0xe4ae305ebe1abe663f261bc00534067c80ad677c"
+    ],
+    "git": "https://github.com/spartan-protocol"
   },
   "Spectiv": {
     "name": "Spectiv",
@@ -87879,17 +87941,10 @@
       "forked_bitcoin",
       "Bitcoin",
       "Super Bitcoin CoreL",
-      "BitcoinL"
+      "BitcoinL",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "498888"
-      ],
-      "forked_from": [
-        "Bitcoin"
-      ],
-      "date": "2017-12-12"
-    },
+    "forked_data": [],
     "git": "https://github.com/superbitcoin/SuperBitcoin"
   },
   "Super CoinView Token": {
@@ -88505,12 +88560,15 @@
       "DeFi",
       "Marketplace",
       "Decentralized exchange",
-      "PoS"
+      "PoS",
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/SWINGBY-888"
+    ],
+    "git": "https://github.com/SwingbyProtocol/"
   },
   "Swipe": {
     "name": "Swipe",
@@ -88598,16 +88656,13 @@
     "tags": [
       "Token",
       "DeFi",
-      "Neo"
+      "Neo",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "ab3835...525e132"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/ab38352559b8b203bde5fddfa0b07d8b2525e132"
+    ]
   },
   "Sylo": {
     "name": "Sylo",
@@ -88883,16 +88938,14 @@
     "url": "/currencies/tai",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TRwS7a...ubUYZ8P"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P"
+    ]
   },
   "TAMA EGG NiftyGotchi": {
     "name": "TAMA EGG NiftyGotchi",
@@ -89109,16 +89162,13 @@
       "Token",
       "Platform",
       "Identity",
-      "Neo"
+      "Neo",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "132947...bc17f18"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/132947096727c84c7f9e076c90f08fec3bc17f18"
+    ],
+    "git": "https://github.com/thekeygithub"
   },
   "THENODE": {
     "name": "THENODE",
@@ -89157,16 +89207,17 @@
     "tags": [
       "Token",
       "DeFi",
-      "Binance"
+      "Binance",
+      "Cosmos Ecosystem",
+      "Decentralized exchange",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "RUNE-B1A"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/RUNE-B1A",
+      "https://viewblock.io/thorchain"
+    ],
+    "git": "https://github.com/thorchain"
   },
   "THORChain (ERC20)": {
     "name": "THORChain (ERC20)",
@@ -89713,16 +89764,15 @@
     "url": "/currencies/troy",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TROY-9B8"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/TROY-9B8",
+      "https://explorer.binance.org/asset/TROY-9B8"
+    ]
   },
   "TRXDOWN": {
     "name": "TRXDOWN",
@@ -89901,12 +89951,13 @@
     "short": "IPX",
     "url": "/currencies/tachyon-protocol",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.v.systems/token/TWZZfKFqcaNVe5TrphLRNEm5DQFnBRJMjDDByqv84"
+    ],
+    "git": "https://github.com/tachyon-protocol"
   },
   "Tacos": {
     "name": "Tacos",
@@ -90482,16 +90533,14 @@
       "Token",
       "Services",
       "Enterprise solutions",
-      "EOS"
+      "EOS",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "telosk...tchen18"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://telos.bloks.io/",
+      "https://telostracker.io/topHolders"
+    ],
+    "git": "https://github.com/Telos-Foundation/eosio.contracts/blob/master/LICENSE"
   },
   "Teloscoin": {
     "name": "Teloscoin",
@@ -90663,12 +90712,13 @@
     "short": "TERN",
     "url": "/currencies/ternio",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/TERN-GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C"
+    ]
   },
   "Ternio-ERC20": {
     "name": "Ternio-ERC20",
@@ -91598,12 +91648,15 @@
     "short": "TONS",
     "url": "/currencies/thisoption",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "Other Contract",
+      "Tron",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/THgLniqRhDg5zePSrDTdU9QwY8FjD9nLYt"
+    ]
   },
   "Thore Cash": {
     "name": "Thore Cash",
@@ -92701,12 +92754,14 @@
     "tags": [
       "Token",
       "Health",
-      "Payments"
+      "Payments",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://wavesexplorer.com/tx/ATrsNse6UZwNSMruNKsR4bnoTsp89BvLMmBZECRcPoif",
+      "https://explore.tokesplatform.org/"
+    ]
   },
   "Tokoin": {
     "name": "Tokoin",
@@ -93162,12 +93217,14 @@
     "short": "TMC",
     "url": "/currencies/trading-membership-community",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://etherscan.io/token/0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3"
+    ],
+    "git": "https://github.com/TMC-Official"
   },
   "Transcodium": {
     "name": "Transcodium",
@@ -93257,16 +93314,14 @@
     "url": "/currencies/translateme-network-token",
     "tags": [
       "Token",
-      "Neo"
+      "Neo",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "d61322...de209c5"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/d613223fa138a1555ff711581982462acde209c5",
+      "https://neoscan.io/asset/d613223fa138a1555ff711581982462acde209c5"
+    ]
   },
   "Tratin": {
     "name": "Tratin",
@@ -93355,16 +93410,14 @@
     "tags": [
       "Token",
       "Hospitality",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "AVA-645"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/AVA-645"
+    ]
   },
   "Travel1Click": {
     "name": "Travel1Click",
@@ -93590,16 +93643,13 @@
       "Platform",
       "Payments",
       "State channels",
-      "Neo"
+      "Neo",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "08e8c4...85d15b6"
-      ],
-      "forked_from": [
-        "Neo"
-      ]
-    }
+    "forked_data": [
+      "https://neotracker.io/asset/08e8c4400f1af2c20c28e0018f29535eb85d15b6"
+    ],
+    "git": "https://github.com/trinity-project"
   },
   "Trinity Protocol": {
     "name": "Trinity Protocol",
@@ -94127,16 +94177,15 @@
     "url": "/currencies/trust-wallet-token",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TWT-8C2"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/TWT-8C2",
+      "https://bscscan.com/token/0x4b0f1812e5df2a09796481ff14017e6005508003"
+    ],
+    "git": "https://github.com/trustwallet"
   },
   "TrustDAO": {
     "name": "TrustDAO",
@@ -94964,16 +95013,15 @@
     "url": "/currencies/usdj",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "TMwFHY...PRFGkGT"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+      "https://www.trxplorer.io/token/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT"
+    ]
   },
   "USDK": {
     "name": "USDK",
@@ -95596,12 +95644,15 @@
     "short": "UP",
     "url": "/currencies/unifi-protocol",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "Other Contract",
+      "Tron",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tronscan.org/#/token20/TJ93jQZibdB3sriHYb5nNwjgkPPAcFR7ty"
+    ]
   },
   "UniGraph": {
     "name": "UniGraph",
@@ -95928,12 +95979,13 @@
     "short": "FUND",
     "url": "/currencies/unification",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.unification.io"
+    ]
   },
   "Uniform Fiscal Object": {
     "name": "Uniform Fiscal Object",
@@ -96279,17 +96331,10 @@
       "Mineable",
       "forked_bitcoin",
       "Bitcoin",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "N/A"
-      ],
-      "forked_from": [
-        "Bitcoin"
-      ],
-      "date": "N/A"
-    },
+    "forked_data": [],
     "git": "https://github.com/UnitedBitcoin"
   },
   "United Bull Traders": {
@@ -97375,16 +97420,14 @@
     "url": "/currencies/vig",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "VIG-eo...1111111"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/tokens/VIG-eos-vig111111111"
+    ]
   },
   "VINchain": {
     "name": "VINchain",
@@ -97433,16 +97476,14 @@
     "url": "/currencies/vn-token",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1003050"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.io/#/token/1003050"
+    ],
+    "git": "https://github.com/tronprotocol"
   },
   "VNDC": {
     "name": "VNDC",
@@ -97946,12 +97987,16 @@
     "short": "VTHO",
     "url": "/currencies/vethor-token",
     "tags": [
-      "Token"
+      "Token",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explore.vechain.org/",
+      "https://vechainstats.com",
+      "https://www.vescan.io/",
+      "https://explorer.vtho.net"
+    ],
+    "git": "https://github.com/vechain/thor"
   },
   "VectorAI": {
     "name": "VectorAI",
@@ -98147,12 +98192,13 @@
     "short": "VELO",
     "url": "/currencies/velo",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/VELO-GD7TJVZZAUDCXL5WBSXYAHEK4FJ7M5TRLOT6E3NKKCT3DDTA2WFESQDR-1?order=desc"
+    ]
   },
   "Veltor": {
     "name": "Veltor",
@@ -98217,16 +98263,17 @@
     "tags": [
       "Token",
       "Binance",
-      "venus.io"
+      "venus.io",
+      "DeFi",
+      "Binance Launchpool",
+      "Binance Smart Chain",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+    ],
+    "git": "https://github.com/SwipeWallet/Venus-Protocol"
   },
   "Venus BCH": {
     "name": "Venus BCH",
@@ -100000,12 +100047,13 @@
     "short": "VX",
     "url": "/currencies/vitex-coin",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://vitescan.io/token/tti_564954455820434f494e69b5"
+    ]
   },
   "Vites": {
     "name": "Vites",
@@ -100748,14 +100796,7 @@
       "Gambling",
       "Tron"
     ],
-    "forked_data": {
-      "block": [
-        "TLa2f6...y5wYjU7"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": []
   },
   "WITChain": {
     "name": "WITChain",
@@ -101376,12 +101417,14 @@
       "Token",
       "Platform",
       "Enterprise solutions",
-      "Staking"
+      "Staking",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://client.wavesenterprise.com/explorer/",
+      "https://dev.pywaves.org/enterprise/balances/"
+    ],
+    "git": "https://github.com/waves-enterprise/WE-releases"
   },
   "WaykiChain": {
     "name": "WaykiChain",
@@ -101409,16 +101452,14 @@
     "url": "/currencies/wazirx",
     "tags": [
       "Token",
-      "Binance"
+      "Binance",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "WRX-ED1"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://explorer.binance.org/asset/WRX-ED1"
+    ]
   },
   "WeBlock": {
     "name": "WeBlock",
@@ -102085,12 +102126,15 @@
       "Token",
       "DAO",
       "DeFi",
-      "Ontology"
+      "Ontology",
+      "DeFi",
+      "Binance Launchpool",
+      "Ontology",
+      "DAO",
+      "NoGitHub",
+      "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": []
   },
   "WingShop": {
     "name": "WingShop",
@@ -102154,12 +102198,13 @@
     "tags": [
       "Token",
       "Asset management",
-      "Payments"
+      "Payments",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT"
+    ]
   },
   "Wisdom Chain": {
     "name": "Wisdom Chain",
@@ -103669,12 +103714,13 @@
     "short": "XTRM",
     "url": "/currencies/xtrm-coin",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://yoscan.io/#/token/0xb507887b50c99335bf21240df94657d91f5302ad"
+    ]
   },
   "XTZDOWN": {
     "name": "XTZDOWN",
@@ -104320,16 +104366,14 @@
     "url": "/currencies/yas",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "YAS-eo...kencode"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/tokens/YAS-eos-yastokencode"
+    ]
   },
   "YEARN2.FINANCE": {
     "name": "YEARN2.FINANCE",
@@ -105916,12 +105960,15 @@
     "short": "YAP",
     "url": "/currencies/yap-stone",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "Ethereum Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://explorer.yapchain.pro/",
+      "https://etherscan.io/token/0x245392ee7Ce736eC6A0908B67dC5d0a218230005"
+    ]
   },
   "Ycash": {
     "name": "Ycash",
@@ -107130,16 +107177,14 @@
     "url": "/currencies/zimbocash",
     "tags": [
       "Token",
-      "Tron"
+      "Tron",
+      "NoGitHub",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "1002984"
-      ],
-      "forked_from": [
-        "Tron"
-      ]
-    }
+    "forked_data": [
+      "https://tronscan.io/#/token/1002984"
+    ]
   },
   "ZINC": {
     "name": "ZINC",
@@ -107644,12 +107689,13 @@
     "short": "SPORTS",
     "url": "/currencies/zensports",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tracker.icon.foundation/token/cx08eb683a53d6f244d538a45f0cc584825e2cb985"
+    ]
   },
   "Zenfuse": {
     "name": "Zenfuse",
@@ -108221,12 +108267,12 @@
     "url": "/currencies/zrcoin",
     "tags": [
       "Token",
-      "Services"
+      "Services",
+      "Services",
+      "NoGitHub",
+      "Token"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": []
   },
   "Ztranzit Coin": {
     "name": "Ztranzit Coin",
@@ -108621,12 +108667,13 @@
       "Token",
       "Store of Value",
       "DeFi",
-      "Stablecoin"
+      "Stablecoin",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "http://cryptofresh.com/a/CNY"
+    ]
   },
   "bitJob": {
     "name": "bitJob",
@@ -109305,16 +109352,15 @@
     "url": "/currencies/eosblack",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "eosblackteam"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/account/eosblackteam",
+      "https://eospark.com/MainNet/account/eosblackteam",
+      "https://www.eosx.io/account/eosblackteam?partner=coinmarketcap"
+    ]
   },
   "eosDAC": {
     "name": "eosDAC",
@@ -110441,16 +110487,15 @@
     "url": "/currencies/peos",
     "tags": [
       "Token",
-      "EOS"
+      "EOS",
+      "Other Contract",
+      "New2"
     ],
-    "forked_data": {
-      "block": [
-        "thepeostoken"
-      ],
-      "forked_from": [
-        "EOS"
-      ]
-    }
+    "forked_data": [
+      "https://bloks.io/tokens/PEOS-eos-thepeostoken",
+      "https://www.eosx.io/account/thepeostoken?partner=coinmarketcap"
+    ],
+    "git": "https://github.com/peosdev"
   },
   "pNetwork": {
     "name": "pNetwork",
@@ -111894,12 +111939,13 @@
     "short": "WOK",
     "url": "/currencies/webloc",
     "tags": [
-      "Token"
+      "Token",
+      "NoGitHub",
+      "New2"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    }
+    "forked_data": [
+      "https://tracker.icon.foundation/address/hxf75bfd0df8d96ee0963965135af2485cee6d5000"
+    ]
   },
   "wormhole.finance": {
     "name": "wormhole.finance",
