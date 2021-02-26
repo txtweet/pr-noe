@@ -132,7 +132,7 @@ _.forEach fresh.data, (crypto) ->
       "tags": ["New"].concat(tmpTags)
       "sawBirth": fileDate
 
-  if crypto.quote.USD.volume_24h is 0
+  if crypto.quote.USD.volume_24h is 0 or crypto.quote.USD.market_cap is 0
     oldDeadCryptos++
     unless cryptos[crypto.name].deaths?
       cryptos[crypto.name].deaths = []

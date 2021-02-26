@@ -7264,9 +7264,7 @@
     "tags": [
       "Token"
     ],
-    "forked_data": [
-      "https://www.aspireexplorer.com/"
-    ],
+    "explorer": "https://www.aspireexplorer.com/",
     "git": "https://github.com/AspireOrg"
   },
   "Assemble Protocol": {
@@ -7504,6 +7502,7 @@
       "Token",
       "Marketing",
       "Binance Contract",
+      "Nebulas Contract",
       "Other Contract",
       "New2"
     ],
@@ -9368,8 +9367,8 @@
       "Ethereum Contract",
       "New2"
     ],
+    "explorer": "https://explorer.boraecosystem.com/?network=mainnet",
     "forked_data": [
-      "https://explorer.boraecosystem.com/?network=mainnet",
       "https://etherscan.io/token/0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
     ],
     "git": "https://github.com/boraecosystem/"
@@ -9694,7 +9693,8 @@
     "url": "/currencies/btcdown",
     "tags": [
       "Token",
-      "Binance Contract"
+      "Binance Contract",
+      "Dead"
     ],
     "forked_data": {
       "forked_from": [
@@ -65504,9 +65504,7 @@
       "NoGitHub",
       "New2"
     ],
-    "forked_data": [
-      "https://explorer.nebulas.io"
-    ]
+    "explorer": "https://explorer.nebulas.io"
   },
   "Nexty": {
     "name": "Nexty",
