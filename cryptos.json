@@ -29467,14 +29467,20 @@
     "short": "CRS",
     "url": "/currencies/crypto-rewards-studio",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210227",
     "deaths": [
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/address/0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA"
     ]
   },
   "Crypto Sports": {
@@ -31475,8 +31481,10 @@
     "short": "DPC",
     "url": "/currencies/dappcents",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Tron Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -31484,6 +31492,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/dappcentre/dappcents",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TEm2pMqgjnbvgNQi1gFYBZH9BfMu123mbW"
     ]
   },
   "DAPS Coin": {
@@ -33798,8 +33810,11 @@
     "short": "D100",
     "url": "/currencies/defi100",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -33809,6 +33824,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x9d8aac497a4b8fe697dd63101d793f0c6a6eebb6"
     ]
   },
   "DeFiChain": {
@@ -34362,14 +34380,20 @@
     "short": "DMC",
     "url": "/currencies/decentralized-mining-exchange",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210227",
     "deaths": [
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://scan.hecochain.com/token/0x854bb58fdda85f20b5ab20b20d888f0554c02560"
     ]
   },
   "Decentralized Vulnerability Platform": {
@@ -35414,8 +35438,10 @@
     "short": "DEXM",
     "url": "/currencies/dexmex",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -35425,6 +35451,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/redtrapltr",
+    "forked_data": [
+      "https://etherscan.io/token/0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+      "https://ethplorer.io/address/0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3"
     ]
   },
   "Dexfin": {
@@ -36538,12 +36569,19 @@
     "short": "DGTX",
     "url": "/currencies/digitex",
     "tags": [
-      "New",
       "Asset management",
       "Centralized exchange",
-      "Derivatives"
+      "Derivatives",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210223"
+    "sawBirth": "20210223",
+    "forked_data": [
+      "https://etherscan.io/token/0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
+      "https://ethplorer.io/address/0xc666081073e8dff8d3d1c2292a29ae1a2153ec09"
+    ]
   },
   "Digitex Futures": {
     "name": "Digitex Futures",
@@ -44311,8 +44349,11 @@
     "short": "EXEN",
     "url": "/currencies/exen-coin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -44322,6 +44363,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f",
+      "https://ethplorer.io/address/0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f"
     ]
   },
   "Exosis": {
@@ -44504,8 +44549,11 @@
     "short": "EXF",
     "url": "/currencies/extend-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -44515,6 +44563,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x6306e883493824ccf606d90e25f68a28e47b98a3"
     ]
   },
   "EzyStayz": {
@@ -45538,9 +45589,11 @@
     "short": "FAIR",
     "url": "/currencies/faircoin",
     "tags": [
-      "New",
       "Hybrid - PoW & PoS",
-      "Groestl"
+      "Groestl",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210225"
   },
@@ -47422,13 +47475,19 @@
     "short": "BANK",
     "url": "/currencies/float-protocol",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210228",
     "deaths": [
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/FloatProtocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x24a6a37576377f63f194caa5f518a60f45b42921"
     ]
   },
   "Flow": {
@@ -47594,10 +47653,12 @@
     "short": "FONT",
     "url": "/currencies/font",
     "tags": [
-      "New",
       "Collectibles & NFTs",
       "DeFi",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -47605,6 +47666,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/fontcommunity",
+    "forked_data": [
+      "https://etherscan.io/token/0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+      "https://ethplorer.io/address/0x4c25bdf026ea05f32713f00f73ca55857fbf6342"
     ]
   },
   "Footballcoin": {
@@ -47748,8 +47814,10 @@
     "short": "FCL",
     "url": "/currencies/fractal",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -47757,6 +47825,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/trustfractal/erc20-token-deployment",
+    "forked_data": [
+      "https://etherscan.io/token/0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+      "https://ethplorer.io/address/0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
     ]
   },
   "Francs": {
