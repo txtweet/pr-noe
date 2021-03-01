@@ -7667,12 +7667,6 @@
     "short": "MATTER",
     "url": "/currencies/antimatter",
     "tags": [
-      "New",
-      "Decentralized exchange",
-      "DeFi",
-      "DApp",
-      "Binance Smart Chain",
-      "Heco",
       "Decentralized exchange",
       "DeFi",
       "DApp",
@@ -7680,13 +7674,16 @@
       "Heco",
       "Token",
       "Ethereum Contract",
-      "Binance Contract"
+      "Binance Contract",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210228",
     "git": "https://github.com/antimatter-finance",
     "forked_data": [
       "https://etherscan.io/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
-      "https://bscscan.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
+      "https://bscscan.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+      "https://hecoinfo.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
     ]
   },
   "Antiample": {
@@ -7801,8 +7798,11 @@
     "short": "NANA",
     "url": "/currencies/ape-tools",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -7812,6 +7812,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x355ad7aBB7bdD53beC94c068F3ABbCB2E2571d0D"
     ]
   },
   "Apex": {
@@ -11579,8 +11582,10 @@
     "short": "BT",
     "url": "/currencies/bt-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -11590,6 +11595,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/btdotfinance/bt-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+      "https://ethplorer.io/address/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a"
     ]
   },
   "BTC Lite": {
@@ -12242,8 +12252,11 @@
     "short": "BSP",
     "url": "/currencies/ballswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -12253,6 +12266,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xa1454f9c704af96636f3a7532b9a04c411f85680",
+      "https://ethplorer.io/address/0xa1454f9c704af96636f3a7532b9a04c411f85680"
     ]
   },
   "BambooDeFi": {
@@ -14655,8 +14672,11 @@
     "short": "BBI",
     "url": "/currencies/bigboys-industry",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -14665,6 +14685,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x336c21557185079F42F6fFC098aB572c87AE9435",
+      "https://ethplorer.io/address/0x336c21557185079F42F6fFC098aB572c87AE9435"
     ]
   },
   "BigGame": {
@@ -20701,12 +20725,21 @@
     "short": "BOT",
     "url": "/currencies/bounce-token-old",
     "tags": [
-      "New",
       "DeFi",
       "Binance Smart Chain",
-      "DOT Ecosystem"
+      "DOT Ecosystem",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210226"
+    "sawBirth": "20210226",
+    "forked_data": [
+      "https://etherscan.io/token/0x5beabaebb3146685dd74176f68a0721f91297d37",
+      "https://ethplorer.io/address/0x5beabaebb3146685dd74176f68a0721f91297d37",
+      "https://bscscan.com/token/0x48DC0190dF5ece990c649A7A07bA19D3650a9572"
+    ]
   },
   "Bounty0x": {
     "name": "Bounty0x",
@@ -23404,8 +23437,11 @@
     "short": "CAD",
     "url": "/currencies/candy-protocol",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -23415,6 +23451,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03",
+      "https://ethplorer.io/address/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03"
     ]
   },
   "CannabisCoin": {
@@ -24917,8 +24957,11 @@
     "short": "CAN",
     "url": "/currencies/channels",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -24929,6 +24972,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://scan.hecochain.com/address/0x1e6395e6b059fc97a4dda925b6c5ebf19e05c69f"
     ]
   },
   "Charg Coin": {
