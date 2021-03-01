@@ -6658,8 +6658,10 @@
     "short": "ALOHA",
     "url": "/currencies/aloha",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -6670,6 +6672,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/Aloha-Open-Wifi",
+    "forked_data": [
+      "https://etherscan.io/token/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe"
     ]
   },
   "Alpaca City": {
@@ -7666,9 +7672,22 @@
       "DeFi",
       "DApp",
       "Binance Smart Chain",
-      "Heco"
+      "Heco",
+      "Decentralized exchange",
+      "DeFi",
+      "DApp",
+      "Binance Smart Chain",
+      "Heco",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract"
     ],
-    "sawBirth": "20210228"
+    "sawBirth": "20210228",
+    "git": "https://github.com/antimatter-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+      "https://bscscan.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
+    ]
   },
   "Antiample": {
     "name": "Antiample",
