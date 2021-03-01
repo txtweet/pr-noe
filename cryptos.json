@@ -86155,7 +86155,7 @@
     "short": "PSIX",
     "url": "/currencies/propersix",
     "tags": [
-      "New",
+      "New2",
       "Dead",
       "NoGitHub",
       "Token"
@@ -86454,8 +86454,11 @@
     "short": "PINT",
     "url": "/currencies/pub-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -86465,6 +86468,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462",
+      "https://ethplorer.io/address/0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462"
     ]
   },
   "Public Mint": {
@@ -86472,9 +86479,14 @@
     "short": "MINT",
     "url": "/currencies/public-mint",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210227"
+    "sawBirth": "20210227",
+    "explorer": "https://explorer.publicmint.io/"
   },
   "PumaPay": {
     "name": "PumaPay",
@@ -87795,8 +87807,9 @@
     "short": "QUICK",
     "url": "/currencies/quickswap",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "Token"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -87805,7 +87818,9 @@
       "20210227",
       "20210228",
       "20210301"
-    ]
+    ],
+    "git": "https://github.com/QuickSwap",
+    "forked_data": []
   },
   "QuickX Protocol": {
     "name": "QuickX Protocol",
