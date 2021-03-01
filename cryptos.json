@@ -88750,15 +88750,17 @@
     "short": "RAD",
     "url": "/currencies/radicle",
     "tags": [
-      "New",
       "Substrate",
       "Polkadot",
-      "Dead"
+      "Dead",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210301",
     "deaths": [
       "20210301"
-    ]
+    ],
+    "git": "https://github.com/radicle-dev"
   },
   "Radium": {
     "name": "Radium",
@@ -88971,8 +88973,10 @@
     "short": "RAMEN",
     "url": "/currencies/ramenswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -88983,6 +88987,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/ramenswap",
+    "forked_data": [
+      "https://bscscan.com/token/0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b"
     ]
   },
   "Rank Token": {
@@ -90116,8 +90124,10 @@
     "short": "RICH",
     "url": "/currencies/rich-maker",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -90128,6 +90138,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/RichMakerGlobal/Contract",
+    "forked_data": [
+      "https://bscscan.com/token/0x0d94335595ae842890bec091ef8c47d62f545d99"
     ]
   },
   "Richlab Token": {
@@ -91735,8 +91749,10 @@
     "short": "SIMBA",
     "url": "/currencies/simba",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -91744,6 +91760,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/SIMBAstorage/SIMBA-Stablecoin",
+    "forked_data": [
+      "https://etherscan.io/token/0x7806a1b2b6056cda57d3e889a9513615733e2b66",
+      "https://ethplorer.io/address/0x7806a1b2b6056cda57d3e889a9513615733e2b66"
     ]
   },
   "SIMBA Storage Token": {
@@ -92048,10 +92069,17 @@
     "short": "SOTA",
     "url": "/currencies/sota-finance",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210225"
+    "sawBirth": "20210225",
+    "forked_data": [
+      "https://etherscan.io/token/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+      "https://ethplorer.io/address/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb"
+    ]
   },
   "SPACE-iZ": {
     "name": "SPACE-iZ",
@@ -95429,8 +95457,11 @@
     "short": "wSZO",
     "url": "/currencies/shuttleone",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -95440,6 +95471,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x5538ac3ce36e73bb851921f2a804b4657b5307bf"
     ]
   },
   "SiaCashCoin": {
@@ -95532,8 +95566,11 @@
     "short": "erowan",
     "url": "/currencies/sifchain",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -95544,6 +95581,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe"
     ]
   },
   "Signals Network": {
@@ -98240,8 +98280,10 @@
     "short": "SPORE",
     "url": "/currencies/spore-engineering",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -98250,6 +98292,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/spore-engineering",
+    "forked_data": [
+      "https://bscscan.com/address/0x77f6a5f1b7a2b6d6c322af8581317d6bb0a52689"
     ]
   },
   "Spore Finance": {
@@ -100312,9 +100358,11 @@
     "short": "SUPER",
     "url": "/currencies/superfarm",
     "tags": [
-      "New",
+      "New2",
       "Collectibles & NFTs",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token"
     ],
     "sawBirth": "20210223",
     "deaths": [
