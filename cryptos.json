@@ -49384,8 +49384,11 @@
     "short": "GADOSHI",
     "url": "/currencies/gadoshi",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -49393,6 +49396,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x619b20c554df4f915173a0f4f34c82e6c2cd944d"
     ]
   },
   "Gains Farm v2": {
@@ -52830,10 +52836,11 @@
     "short": "HOPR",
     "url": "/currencies/hopr",
     "tags": [
-      "New",
       "Substrate",
       "Polkadot",
-      "Dead"
+      "Dead",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -52842,7 +52849,8 @@
       "20210227",
       "20210228",
       "20210301"
-    ]
+    ],
+    "git": "https://github.com/hoprnet"
   },
   "HOQU": {
     "name": "HOQU",
@@ -53887,8 +53895,11 @@
     "short": "HFI",
     "url": "/currencies/hecofi",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -53899,6 +53910,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://scan.hecochain.com/address/0x98fc3b60ed4a504f588342a53746405e355f9347"
     ]
   },
   "Hedera Hashgraph": {
@@ -60931,8 +60945,11 @@
     "short": "KANGAL",
     "url": "/currencies/kangal",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -60943,6 +60960,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/kangaltoken/contract/blob/main/kangaltoken.sol",
+    "forked_data": [
+      "https://etherscan.io/token/0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+      "https://bscscan.com/token/0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB"
     ]
   },
   "Kanva": {
@@ -61408,8 +61430,10 @@
     "short": "KEYFI",
     "url": "/currencies/keyfi",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -61419,6 +61443,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/KEYFIAI",
+    "forked_data": [
+      "https://etherscan.io/token/0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
+      "https://ethplorer.io/address/0xb8647e90c0645152fccf4d9abb6b59eb4aa99052"
     ]
   },
   "Keysians Network": {
@@ -62096,8 +62125,11 @@
     "short": "KPC",
     "url": "/currencies/koloop-basic",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -62106,6 +62138,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xa511768003d01eaa0f464feeea4b1cddc4254b4f"
     ]
   },
   "Komet": {
@@ -64068,8 +64103,10 @@
     "short": "LPOOL",
     "url": "/currencies/launchpool",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -64080,6 +64117,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/Launchpool",
+    "forked_data": [
+      "https://etherscan.io/token/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+      "https://ethplorer.io/address/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b"
     ]
   },
   "LavaSwap": {
@@ -64658,8 +64700,9 @@
     "short": "LBY",
     "url": "/currencies/libocoin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -64669,7 +64712,8 @@
       "20210227",
       "20210228",
       "20210301"
-    ]
+    ],
+    "git": "https://github.com/libonomy"
   },
   "LibreFreelencer": {
     "name": "LibreFreelencer",
@@ -65123,9 +65167,16 @@
     "short": "LNC",
     "url": "/currencies/linker-coin",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210223"
+    "sawBirth": "20210223",
+    "git": "https://github.com/linkercoinfoundation",
+    "forked_data": [
+      "https://etherscan.io/token/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+      "https://ethplorer.io/address/0x6beb418fc6e1958204ac8baddcf109b8e9694966"
+    ]
   },
   "LiquidApps": {
     "name": "LiquidApps",
@@ -67824,8 +67875,10 @@
     "short": "MP4",
     "url": "/currencies/mp4",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -67833,6 +67886,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/blockchainmusicentertainment",
+    "forked_data": [
+      "https://etherscan.io/token/0xe1a0da60f8802b49cc36313bafade3f9e12342fd",
+      "https://ethplorer.io/address/0xe1a0da60f8802b49cc36313bafade3f9e12342fd"
     ]
   },
   "MSD": {
@@ -69083,11 +69141,17 @@
     "short": "MASK",
     "url": "/currencies/mask-network",
     "tags": [
-      "New",
       "Communications & Social Media",
-      "Content Creation"
+      "Content Creation",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210225"
+    "sawBirth": "20210225",
+    "forked_data": [
+      "https://etherscan.io/token/0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+    ]
   },
   "Massnet": {
     "name": "Massnet",
@@ -69822,8 +69886,11 @@
     "short": "MCAN",
     "url": "/currencies/medican-coin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -69833,6 +69900,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x72ba699f0f3c29d0f886c264ec7350533a32b3d5",
+      "https://ethplorer.io/address/0x72ba699f0f3c29d0f886c264ec7350533a32b3d5"
     ]
   },
   "MediconnectUk": {
@@ -73402,8 +73473,10 @@
     "short": "MUSH",
     "url": "/currencies/mushroom",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -73414,6 +73487,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/anthonykarter100/MUSHToken",
+    "forked_data": [
+      "https://etherscan.io/address/0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24"
     ]
   },
   "MustangCoin": {
@@ -74741,8 +74818,11 @@
     "short": "NARUTO2",
     "url": "/currencies/naruto-bsc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -74751,6 +74831,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xe3c40ca5a0d8b48c45a2609e558cea98c5805351"
     ]
   },
   "Narwhale.finance": {
@@ -76944,8 +77027,11 @@
     "short": "NIA",
     "url": "/currencies/nydronia",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -76954,6 +77040,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b",
+      "https://ethplorer.io/address/0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b"
     ]
   },
   "Nyerium": {
@@ -78991,9 +79081,15 @@
     "short": "OPEN",
     "url": "/currencies/open-governance-token",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210223"
+    "sawBirth": "20210223",
+    "git": "https://github.com/opendao-protocols",
+    "forked_data": [
+      "https://etherscan.io/token/0x69e8b9528CABDA89fe846C67675B5D73d463a916"
+    ]
   },
   "Open Platform": {
     "name": "Open Platform",
