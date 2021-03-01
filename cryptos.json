@@ -100619,8 +100619,10 @@
     "short": "SWPRL",
     "url": "/currencies/swaprol",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -100629,6 +100631,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/swaprol",
+    "forked_data": [
+      "https://bscscan.com/token/0xe171e4b490636799849012ed8db7e162e5073ee4"
     ]
   },
   "Swapzilla": {
@@ -102935,8 +102941,10 @@
     "short": "TCO",
     "url": "/currencies/tcoin-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -102946,6 +102954,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/ethereum",
+    "forked_data": [
+      "https://etherscan.io/token/0x00ff902d4b2bfdbd0db38887412447c30b565aa0",
+      "https://ethplorer.io/address/0x00ff902d4b2bfdbd0db38887412447c30b565aa0"
     ]
   },
   "Team Finance": {
@@ -110455,12 +110468,18 @@
     "short": "URUS",
     "url": "/currencies/urus",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210301",
     "deaths": [
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c"
     ]
   },
   "Usechain Token": {
@@ -111060,14 +111079,21 @@
     "short": "VKNF",
     "url": "/currencies/vkenaf",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210227",
     "deaths": [
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/VkenafCoin/Vkenaf",
+    "forked_data": [
+      "https://etherscan.io/token/0xD501900646641eAf5755758E11EeAA43dF691924",
+      "https://ethplorer.io/address/0xD501900646641eAf5755758E11EeAA43dF691924"
     ]
   },
   "VKF Platform": {
@@ -113710,8 +113736,10 @@
     "short": "VIKING",
     "url": "/currencies/viking-swap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -113721,6 +113749,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/VikingDefi/",
+    "forked_data": [
+      "https://bscscan.com/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0"
     ]
   },
   "VikkyToken": {
@@ -114937,14 +114969,21 @@
     "short": "WOW",
     "url": "/currencies/wowswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210227",
     "deaths": [
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+      "https://bscscan.com/token/0x4da996c5fe84755c80e108cf96fe705174c5e36a"
     ]
   },
   "WPP TOKEN": {
@@ -115424,8 +115463,11 @@
     "short": "WTR",
     "url": "/currencies/water-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -115436,6 +115478,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xf9661bf16f7521102eaf412a29e68cfd791a2ca3"
     ]
   },
   "WaterDrop": {
@@ -115468,8 +115513,10 @@
     "short": "WAULT",
     "url": "/currencies/wault-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -115478,6 +115525,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/WaultFinance/WAULT",
+    "forked_data": [
+      "https://bscscan.com/token/0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9"
     ]
   },
   "Waves": {
@@ -115919,8 +115970,10 @@
     "short": "WHL",
     "url": "/currencies/whaleroom",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -115930,6 +115983,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/whaleroom/whaleroom",
+    "forked_data": [
+      "https://etherscan.io/token/0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
+      "https://ethplorer.io/address/0x2af72850c504ddd3c1876c66a914caee7ff8a46a"
     ]
   },
   "WhiteCoin": {
@@ -117075,8 +117133,11 @@
     "short": "WHT",
     "url": "/currencies/wrapped-huobi-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -117087,6 +117148,9 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://scan.hecochain.com/address/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f"
     ]
   },
   "Wrapped LEO": {
@@ -117214,8 +117278,12 @@
     "short": "WSHIFT",
     "url": "/currencies/wshift",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "Token",
+      "Ethereum Contract"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -117225,6 +117293,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "explorer": "https://explorer.shiftnrg.org/",
+    "git": "https://github.com/ShiftNrg/wrappedShift",
+    "forked_data": [
+      "https://etherscan.io/token/0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4"
     ]
   },
   "Wrapped UST Token": {
@@ -124762,9 +124835,15 @@
     "short": "EBRH",
     "url": "/currencies/ebirah",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210225"
+    "sawBirth": "20210225",
+    "forked_data": [
+      "https://bscscan.com/token/0xeae68564c96b1e1c471093a539836ae8bf7c1b65"
+    ]
   },
   "eosBLACK": {
     "name": "eosBLACK",
@@ -124969,14 +125048,20 @@
     "short": "GROOT",
     "url": "/currencies/growth-root-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210227",
     "deaths": [
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/GrowthDeFi/groot-v1-core",
+    "forked_data": [
+      "https://bscscan.com/token/0x8b571fe684133aca1e926beb86cb545e549c832d"
     ]
   },
   "happy birthday coin": {
@@ -125008,8 +125093,10 @@
     "short": "HODL",
     "url": "/currencies/hodlearn-net",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -125019,6 +125106,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/hodlearn",
+    "forked_data": [
+      "https://bscscan.com/token/0xd7bf683cad197f4f869678cddc345b38b483d8e4"
     ]
   },
   "hybrix": {
@@ -127961,8 +128052,11 @@
     "short": "SIG",
     "url": "/currencies/xsigma",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -127970,6 +128064,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x7777777777697cfeecf846a76326da79cc606517",
+      "https://ethplorer.io/address/0x7777777777697cfeecf846a76326da79cc606517"
     ]
   },
   "xToken": {
@@ -127977,9 +128075,11 @@
     "short": "XTK",
     "url": "/currencies/xtoken",
     "tags": [
-      "New",
       "DeFi",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210226",
     "deaths": [
@@ -127987,6 +128087,11 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/xtokenmarket/xtoken-js",
+    "forked_data": [
+      "https://etherscan.io/token/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+      "https://ethplorer.io/address/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
     ]
   },
   "xscoin": {

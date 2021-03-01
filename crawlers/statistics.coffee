@@ -1,24 +1,26 @@
 unless process.argv[2]?
-  console.warn("usage : coffee ./statistics.coffee <date(jjmmyyyy)>")
+  console.warn("usage : coffee ./statistics.coffee <date(yyyymmdd)>")
   process.exit(1)
 
 currentDate = process.argv[2]
 
 _ = require 'lodash'
 cryptos = require '../cryptos.json'
+contracts = require '../contracts.json'
+contracts.forEach (contract) ->
+  contract.nb = 0
+  delete contract.urls
+
+displayContract = () ->
+  rep = ""
+  contracts.forEach (contract) ->
+    if contract.nb > 0
+      rep = rep.concat("#{contract.contract}: #{contract.nb}, ")
+  rep.substring(0, rep.length-2)
 
 all = 0
 token = 0
 coin = 0
-ethereum = 0
-binance = 0
-tron = 0
-ai = 0
-waves = 0
-beacon = 0
-go = 0
-qtum = 0
-zil = 0
 
 result = []
 
@@ -31,26 +33,9 @@ _.forEach cryptos, (crypt) ->
     all++
     if "Token" in crypt.tags
       token++
-      if "Ethereum" in crypt.tags
-        ethereum++
-      else if "Binance" in crypt.tags
-        binance++
-      else if "Tron" in crypt.tags
-        tron++
-      else if "AI" in crypt.tags
-        ai++
-      else if "Waves" in crypt.tags
-        waves++
-      else if "Beacon" in crypt.tags
-        beacon++
-      else if "GoChain" in crypt.tags
-        go++
-      else if "Qtum" in crypt.tags
-        qtum++
-      else if "Zilliqa" in crypt.tags
-        zil++
-      else
-        result.push "Token : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
+      contracts.forEach (contract) ->
+        if contract.contract in crypt.tags
+          contract.nb++
     else
       unless "Coin" in crypt.tags
         console.error "Erreur sur #{JSON.stringify crypt}"
@@ -63,9 +48,7 @@ _.forEach cryptos, (crypt) ->
       dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "--------- News"
-console.log "#{all} nouvelles, dont : #{token} token (dont #{ethereum} Ethereum,
-#{binance} Binance, #{tron} Tron, #{ai} AI, #{waves} Waves, #{beacon} Beacon,
-#{go} GoChain, #{qtum} Qtum, #{zil} Zilliqa)"
+console.log "#{all} nouvelles, dont : #{token} token (dont #{displayContract()})"
 console.log "#{result.length} à observer"
 console.log "#{JSON.stringify result.sort(), null, 2}"
 console.log "--------- "
