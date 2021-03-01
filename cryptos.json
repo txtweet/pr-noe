@@ -84510,8 +84510,10 @@
     "short": "POLC",
     "url": "/currencies/polka-city",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210223",
     "deaths": [
@@ -84522,6 +84524,10 @@
       "20210227",
       "20210228",
       "20210301"
+    ],
+    "git": "https://github.com/POLKACITY/",
+    "forked_data": [
+      "https://etherscan.io/address/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37"
     ]
   },
   "PolkaBridge": {
@@ -84608,13 +84614,20 @@
     "short": "POLK",
     "url": "/currencies/polkamarkets",
     "tags": [
-      "New",
       "DeFi",
       "Prediction Markets",
       "Polkadot",
-      "DOT Ecosystem"
+      "DOT Ecosystem",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210225"
+    "sawBirth": "20210225",
+    "git": "https://github.com/Polkamarkets",
+    "forked_data": [
+      "https://etherscan.io/token/0xd478161c952357f05f0292b56012cd8457f1cfbf",
+      "https://ethplorer.io/address/0xd478161c952357f05f0292b56012cd8457f1cfbf"
+    ]
   },
   "Polkastarter": {
     "name": "Polkastarter",
@@ -86143,7 +86156,9 @@
     "url": "/currencies/propersix",
     "tags": [
       "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -86153,7 +86168,8 @@
       "20210227",
       "20210228",
       "20210301"
-    ]
+    ],
+    "explorer": "http://liboexplorer.com"
   },
   "Prophecy": {
     "name": "Prophecy",
