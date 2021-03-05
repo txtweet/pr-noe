@@ -126374,11 +126374,11 @@
     "short": "WWAN",
     "url": "/currencies/wrapped-wan",
     "tags": [
-      "New",
       "Dead",
       "NoGitHub",
       "Token",
-      "Wan Contract"
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
@@ -126386,7 +126386,8 @@
       "20210305"
     ],
     "forked_data": [
-      "https://www.wanscan.org/token/0xDABd997Ae5e4799be47D6e69d9431615cbA28F48?page=224"
+      "https://www.wanscan.org/token/0xDABd997Ae5e4799be47D6e69d9431615cbA28F48?page=224",
+      "https://info.wanswap.finance/token/0xdabd997ae5e4799be47d6e69d9431615cba28f48"
     ]
   },
   "Wrapped ZEC": {
@@ -137559,12 +137560,18 @@
     "short": "WANBTC",
     "url": "/currencies/wanbtc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0xD15E200060Fc17ef90546ad93c1C61BfeFDC89C7"
     ]
   },
   "wanEOS": {
@@ -137572,12 +137579,18 @@
     "short": "WANEOS",
     "url": "/currencies/waneos",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x81862B7622ceD0deFb652aDDD4E0C110205b0040"
     ]
   },
   "wanETH": {
@@ -137585,13 +137598,19 @@
     "short": "WANETH",
     "url": "/currencies/waneth",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
       "20210304",
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0xe3Ae74d1518a76715Ab4c7bEdf1AF73893CD435a"
     ]
   },
   "wanLINK": {
@@ -137599,13 +137618,19 @@
     "short": "WANLINK",
     "url": "/currencies/wanlink",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
       "20210304",
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x06DA85475F9d2Ae79af300dE474968cd5A4FDE61"
     ]
   },
   "wanSUSHI": {
@@ -137613,12 +137638,18 @@
     "short": "WANSUSHI",
     "url": "/currencies/wansushi",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x9b6863F6aB2047069Ad1cd15FfF8c45aF637d67C"
     ]
   },
   "wanUNI": {
@@ -137626,13 +137657,19 @@
     "short": "WANUNI",
     "url": "/currencies/wanuni",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
       "20210304",
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x73eAA7431b11B1E7a7D5310de470de09883529df"
     ]
   },
   "wanUSDC": {
@@ -137640,13 +137677,19 @@
     "short": "WANUSDC",
     "url": "/currencies/wanusdc",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
       "20210304",
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x52a9cea01C4cbdD669883E41758b8Eb8E8e2b34B"
     ]
   },
   "wanUSDT": {
@@ -137654,12 +137697,18 @@
     "short": "WANUSDT",
     "url": "/currencies/wanusdt",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://www.wanscan.org/token/0x11E77e27aF5539872EFeD10ABAa0B408CFD9Fbbd"
     ]
   },
   "wave edu coin": {
@@ -137871,8 +137920,10 @@
     "short": "xDAI",
     "url": "/currencies/xdaistable",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "xDai Contract",
+      "New2"
     ],
     "sawBirth": "20210302",
     "deaths": [
@@ -137880,6 +137931,10 @@
       "20210303",
       "20210304",
       "20210305"
+    ],
+    "git": "https://github.com/xdaichain",
+    "forked_data": [
+      "https://blockscout.com/xdai/mainnet/"
     ]
   },
   "xDai": {
@@ -138314,12 +138369,18 @@
     "short": "WATCH",
     "url": "/currencies/yieldwatch",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://bscscan.com/address/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0"
     ]
   },
   "yplutus": {

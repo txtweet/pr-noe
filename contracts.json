@@ -171,5 +171,11 @@
       "https://explorer.ont.io/token/detail/oep4"
     ],
     "contract": "Ontology Contract"
+  },
+  {
+    "urls": [
+      "https://blockscout.com/xdai/mainnet/"
+    ],
+    "contract": "xDai Contract"
   }
 ]
