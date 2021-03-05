@@ -1,4 +1,4 @@
-#grep '  "Token : ' stat* | cut -d ":" -f 3 | cut -d "]" -f 2 | cut -d "\"" -f 1 |cut -d " " -f 2 > newCoin
+#grep -H '  "Coin : ' stat* | cut -d ":" -f 3 | cut -d "]" -f 2 | cut -d "\"" -f 1 |cut -d " " -f 2 > newCoin
 
 fs = require "fs"
 stdinBuffer = fs.readFileSync(0)
@@ -17,4 +17,4 @@ liste.forEach (elem) ->
   if found? and not ("Dead" in found.tags)
     request+="symbol.keyword:\"#{found.short}\" or "
 
-console.log request
+console.log request.substring(0, request.length - (" or ".length))
