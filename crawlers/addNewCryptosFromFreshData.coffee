@@ -45,6 +45,7 @@ tagsTables =
   'heco': 'Heco'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
   'insurance': 'Insurance'
+  'launchpad':  'Launchpad'
   'logistics': 'Logistics'
   'loyalty': 'Loyalty'
   'marketplace': 'Marketplace'
