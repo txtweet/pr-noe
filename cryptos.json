@@ -221,12 +221,19 @@
     "short": "XGG",
     "url": "/currencies/10xgg",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x06b179e292f080871825bed5d722162fd96b4c95",
+      "https://ethplorer.io/address/0x06b179e292f080871825bed5d722162fd96b4c95"
     ]
   },
   "12Ships": {
@@ -3914,12 +3921,18 @@
     "short": "SOUL",
     "url": "/currencies/apoyield",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210305",
     "deaths": [
       "20210305"
+    ],
+    "git": "https://github.com/APOyield",
+    "forked_data": [
+      "https://bscscan.com/token/0x67d012f731c23f0313cea1186d0121779c77fcfe"
     ]
   },
   "APR Coin": {
@@ -3994,14 +4007,21 @@
     "short": "APYS",
     "url": "/currencies/apyswap",
     "tags": [
-      "New",
       "DeFi",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210303",
     "deaths": [
       "20210303",
       "20210304"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615",
+      "https://ethplorer.io/address/0xf7413489c474ca4399eee604716c72879eea3615"
     ]
   },
   "ARAW": {
@@ -9549,13 +9569,19 @@
     "short": "THOR",
     "url": "/currencies/asgard-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210304",
     "deaths": [
       "20210304",
       "20210305"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x91a92482526eb04e60e4372a919b74027f1ad935"
     ]
   },
   "Asia Reserve Currency Coin": {
@@ -9564,7 +9590,9 @@
     "url": "/currencies/asia-reserve-currency-coin",
     "tags": [
       "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token"
     ],
     "sawBirth": "20210302",
     "deaths": [
@@ -9572,7 +9600,8 @@
       "20210303",
       "20210304",
       "20210305"
-    ]
+    ],
+    "forked_data": []
   },
   "Asian Dragon": {
     "name": "Asian Dragon",
