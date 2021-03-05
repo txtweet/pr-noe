@@ -49,6 +49,7 @@ for crypto in raw.data
         datadb.type = 'Token'
       else
         console.log "Erreur #{JSON.stringify crypto, null, 2}"
+        console.log "#{JSON.stringify datadb, null, 2}"
         process.exit(1)
 
       # tags = []
