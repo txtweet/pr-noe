@@ -8,9 +8,7 @@ raw = require '../cryptos-'+date+'.json'
 datas = require '../cryptos.json'
 
 ret=''
-chains = ['EOS', 'Binance', 'Solana', 'Huobi ECO',
-'Codex', 'KnoxFS', 'KLAYswap Protocol', 'e-Money',
-'Tron', 'AI', 'Waves', 'Beacon','Fuse']
+contracts = _.map (require "../contracts"), "contract"
 
 for crypto in raw.data
   found = datas[crypto.name]
@@ -33,8 +31,8 @@ for crypto in raw.data
             x is not 'NoGitHub'
               datadb["tag_"+x] = true
 
-            if x in chains
-              datadb["tag_ChainType"] = x
+            if x in contracts
+              datadb["tag_ChainType"] = x.replace(/Contract/, '')
 
       tags = []
       # if crypto.tags?
