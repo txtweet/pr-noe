@@ -35,15 +35,15 @@ for crypto in raw.data
               datadb["tag_type"] = "Contrat"
               datadb["tag_ChainType"] = x.replace(/Contract/, '')
 
-      if datadb.tag_type?
-        datadb.type = 'Exchange'
+      if datadb.tag_Stablecoin?
+        delete datadb.tag_Stablecoin
+        datadb.type = 'Stablecoin'
+      else if datadb.tag_type?
+        datadb.type = 'OnChain'
         delete datadb.tag_type
       else if datadb.tag_Coin?
         delete datadb.tag_Coin
         datadb.type = 'Coin'
-      else if datadb.tag_Stablecoin?
-        delete datadb.tag_Stablecoin
-        datadb.type = 'Stablecoin'
       else if datadb.tag_Token?
         delete datadb.tag_Token
         datadb.type = 'Token'
