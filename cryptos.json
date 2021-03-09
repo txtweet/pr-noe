@@ -58316,18 +58316,20 @@
     "short": "GAT",
     "url": "/currencies/global-aex-token",
     "tags": [
-      "New",
       "Dead",
       "NoGitHub",
       "Token",
-      "Ethereum Contract"
+      "Ethereum Contract",
+      "Bitshares Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
     ],
     "forked_data": [
-      "https://etherscan.io/token/0x24efe6b87bf1bfe9ea2ccb5a9d0a959c7172b364"
+      "https://etherscan.io/token/0x24efe6b87bf1bfe9ea2ccb5a9d0a959c7172b364",
+      "https://bts.ai/asset/GAT"
     ]
   },
   "Global China Cash": {
@@ -58335,8 +58337,11 @@
     "short": "CNC",
     "url": "/currencies/global-china-cash",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Bitshares Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -58344,6 +58349,9 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "forked_data": [
+      "https://bts.ai/asset/CNC"
     ]
   },
   "Global Crypto Alliance": {
@@ -66104,12 +66112,18 @@
     "short": "IDV",
     "url": "/currencies/idavoll-network",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "git": "https://github.com/idavollnetwork",
+    "forked_data": [
+      "https://etherscan.io/token/0x92ec47df1aa167806dfa4916d9cfb99da6953b8f"
     ]
   },
   "Idea Chain Coin": {
@@ -67685,12 +67699,19 @@
     "short": "INV",
     "url": "/currencies/inverse-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "git": "https://github.com/InverseFinance",
+    "forked_data": [
+      "https://etherscan.io/token/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+      "https://ethplorer.io/address/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
     ]
   },
   "InvestDigital": {
@@ -74618,14 +74639,16 @@
     "short": "LBY",
     "url": "/currencies/libonomy",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210308",
     "deaths": [
       "20210308",
       "20210309"
-    ]
+    ],
+    "git": "https://github.com/libonomy"
   },
   "LibreFreelencer": {
     "name": "LibreFreelencer",
@@ -80249,8 +80272,10 @@
     "short": "MCDC",
     "url": "/currencies/mcdonalds-coin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -80258,6 +80283,11 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/mcdonaldsCoin-dev",
+    "forked_data": [
+      "https://etherscan.io/token/0x8937041c8c52a78c25aa54051f6a9dada23d42a2",
+      "https://ethplorer.io/address/0x8937041c8c52a78c25aa54051f6a9dada23d42a2"
     ]
   },
   "McNetworkDefi": {
@@ -85385,9 +85415,12 @@
     "short": "NFTI",
     "url": "/currencies/nft-index",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -85395,6 +85428,10 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+      "https://ethplorer.io/address/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c"
     ]
   },
   "NFTLootBox": {
@@ -93700,13 +93737,19 @@
     "short": "PANDO",
     "url": "/currencies/pando",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210308",
     "deaths": [
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/Pando-Browser/pando-token",
+    "forked_data": [
+      "https://etherscan.io/address/0x7a3c45f34ea5df6fe5f6af710ec8a04d388a71d1"
     ]
   },
   "Pantos": {
@@ -94388,9 +94431,12 @@
     "short": "PROPEL",
     "url": "/currencies/payrue-propel",
     "tags": [
-      "New",
       "Binance Smart Chain",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -94398,6 +94444,9 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x9b44df3318972be845d83f961735609137c4c23c"
     ]
   },
   "PayUSD": {
@@ -96763,15 +96812,23 @@
     "short": "PCNT",
     "url": "/currencies/playcent",
     "tags": [
-      "New",
       "Content Creation",
-      "Dead"
+      "Dead",
+      "Collectibles & NFTs",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210307",
     "deaths": [
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/jaykishan007/playcent-ico-contract",
+    "forked_data": [
+      "https://etherscan.io/token/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
+      "https://ethplorer.io/address/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b"
     ]
   },
   "Playgroundz": {
@@ -107202,12 +107259,18 @@
     "short": "SALT",
     "url": "/currencies/saltswap-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "git": "https://github.com/saltswap/",
+    "forked_data": [
+      "https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4"
     ]
   },
   "SaluS": {
@@ -110215,10 +110278,13 @@
     "short": "SI",
     "url": "/currencies/siren",
     "tags": [
-      "New",
       "Derivatives",
       "AMM",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -110226,6 +110292,10 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+      "https://ethplorer.io/address/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de"
     ]
   },
   "Skillchain": {
@@ -111958,14 +112028,20 @@
     "short": "SCB",
     "url": "/currencies/space-cow-boy",
     "tags": [
-      "New",
       "Collectibles & NFTs",
       "Yield farming",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "git": "https://github.com/OxBull",
+    "forked_data": [
+      "https://bscscan.com/token/0xdcaf1afc07d9e1c057bd5cd144659910c4b91682"
     ]
   },
   "Space Dollar": {
@@ -125896,12 +125972,18 @@
     "short": "FOTO",
     "url": "/currencies/unique-photo",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f"
     ]
   },
   "Uniris": {
@@ -127036,12 +127118,18 @@
     "short": "UTL",
     "url": "/currencies/utile-network",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x3fc20a9672b321e66083896b40a567d5cc65cfaf"
     ]
   },
   "Utopia Genesis Foundation": {
@@ -133100,13 +133188,19 @@
     "short": "WLT",
     "url": "/currencies/wealthlocks",
     "tags": [
-      "New",
       "Binance Smart Chain",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xb7b262b0ac4939d8936685e20189d809bdb5dac6"
     ]
   },
   "Weather Finance": {
@@ -137076,12 +137170,18 @@
     "short": "YNI",
     "url": "/currencies/yearnyfi-network",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6"
     ]
   },
   "YEE": {
@@ -142600,9 +142700,16 @@
     "short": "BALPHA",
     "url": "/currencies/balpha",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210308"
+    "sawBirth": "20210308",
+    "git": "https://github.com/bigdataprotocol/bdp-contracts",
+    "forked_data": [
+      "https://etherscan.io/token/0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+      "https://ethplorer.io/address/0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6"
+    ]
   },
   "bDollar": {
     "name": "bDollar",
