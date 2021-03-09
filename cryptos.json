@@ -7941,10 +7941,16 @@
     "short": "ALPACA",
     "url": "/currencies/alpaca-finance",
     "tags": [
-      "New",
-      "DeFi"
+      "DeFi",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210307"
+    "sawBirth": "20210307",
+    "git": "https://github.com/alpaca-finance",
+    "forked_data": [
+      "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+    ]
   },
   "Alpha Coin": {
     "name": "Alpha Coin",
@@ -9934,12 +9940,18 @@
     "short": "ARGON",
     "url": "/currencies/argon",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "git": "https://github.com/ahmetoznar/ArgonPlatform",
+    "forked_data": [
+      "https://bscscan.com/token/0x851f7a700c5d67db59612b871338a85526752c25"
     ]
   },
   "Argus": {
@@ -17171,9 +17183,16 @@
     "short": "BDP",
     "url": "/currencies/big-data-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210308"
+    "sawBirth": "20210308",
+    "git": "https://github.com/bigdataprotocol/bdp-contracts",
+    "forked_data": [
+      "https://etherscan.io/token/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+      "https://ethplorer.io/address/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e"
+    ]
   },
   "BigBang Core": {
     "name": "BigBang Core",
