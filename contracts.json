@@ -1,26 +1,6 @@
 [
   {
     "urls": [
-      "https://blockchain.coinmarketcap.com/address/ethereum",
-      "https://blockscout.com/etc/mainnet/address",
-      "https://enjinx.io/eth/token",
-      "https://enjinx.io/en-GB/eth/token",
-      "https://etherscan.io/address",
-      "https://etherscan.io/token",
-      "http://etherscan.io/token",
-      "https://ethplorer.address/token",
-      "https://ethplorer.io/addres",
-      "http://ethplorer.io/address",
-      "https://ethplorer.io/address",
-      "https://ethplorer.io/token",
-      "https://eth.tokenview.com/en/token",
-      "https://ethploer.io/addres",
-      "https://blockchair.com/ethereum/erc-20/token"
-    ],
-    "contract": "Ethereum Contract"
-  },
-  {
-    "urls": [
       "https://explorer.binance.org/asset",
       "https://bscscan.com/address",
       "https://bscscan.com/token",
@@ -28,6 +8,12 @@
       "https://www.bscscan.com/address"
     ],
     "contract": "Binance Contract"
+  },
+  {
+    "urls": [
+      "https://bts.ai/asset",
+    ],
+    "contract": "Bitshares Contract"
   },
   {
     "urls": [
@@ -51,26 +37,23 @@
   },
   {
     "urls": [
-      "https://neotracker.io/asset",
-      "https://neoscan.io/asset"
+      "https://blockchain.coinmarketcap.com/address/ethereum",
+      "https://blockscout.com/etc/mainnet/address",
+      "https://enjinx.io/eth/token",
+      "https://enjinx.io/en-GB/eth/token",
+      "https://etherscan.io/address",
+      "https://etherscan.io/token",
+      "http://etherscan.io/token",
+      "https://ethplorer.address/token",
+      "https://ethplorer.io/addres",
+      "http://ethplorer.io/address",
+      "https://ethplorer.io/address",
+      "https://ethplorer.io/token",
+      "https://eth.tokenview.com/en/token",
+      "https://ethploer.io/addres",
+      "https://blockchair.com/ethereum/erc-20/token"
     ],
-    "contract": "Neo Contract"
-  },
-  {
-    "urls": [
-      "https://explorer.nebulas.io/#/token"
-    ],
-    "contract": "Nebulas Contract"
-  },
-  {
-    "urls": [
-      "https://wavesexplorer.com/assets",
-      "http://dev.pywaves.org/assets",
-      "https://dev.pywaves.org/enterprise/balances",
-      "https://dev.pywaves.org/assets",
-      "https://wavesexplorer.com/tx"
-    ],
-    "contract": "Waves Contract"
+    "contract": "Ethereum Contract"
   },
   {
     "urls": [
@@ -82,22 +65,27 @@
   },
   {
     "urls": [
-      "https://tronscan.org/#/address",
-      "https://tronscan.org/#/token",
-      "https://tronscan.org/#/contract",
-      "https://tronscan.io/#/contract",
-      "https://tronscan.io/#/token",
-      "https://tronscan.io/#/token20",
-      "https://trxplorer.io/token",
-      "https://www.trxplorer.io/token"
+      "https://explorer.nebulas.io/#/token"
     ],
-    "contract": "Tron Contract"
+    "contract": "Nebulas Contract"
   },
   {
     "urls": [
       "https://explorer.nemtool.com/#"
     ],
     "contract": "Nem Contract"
+  },
+  {
+    "urls": [
+      "https://neotracker.io/asset",
+      "https://neoscan.io/asset",
+      "https://neotracker.io/asset",
+      "https://neotracker.io/contract",
+      "https://neoexplorer.co/assets",
+      "https://neotube.io/nep5",
+      "https://antchain.xyz/asset/hash"
+    ],
+    "contract": "Neo Contract"
   },
   {
     "urls": [
@@ -109,19 +97,9 @@
   },
   {
     "urls": [
-      "https://explorer.solana.com/address"
+      "https://explorer.ont.io/token/detail/oep4"
     ],
-    "contract": "Solana Contract"
-  },
-  {
-    "urls": [
-      "https://neotracker.io/asset",
-      "https://neotracker.io/contract",
-      "https://neoexplorer.co/assets",
-      "https://neotube.io/nep5",
-      "https://antchain.xyz/asset/hash"
-    ],
-    "contract": "Neo Contract"
+    "contract": "Ontology Contract"
   },
   {
     "urls": [
@@ -134,23 +112,9 @@
   },
   {
     "urls": [
-      "https://www.wanscan.org/token",
-      "https://info.wanswap.finance/token"
+      "https://explorer.solana.com/address"
     ],
-    "contract": "Wan Contract"
-  },
-  {
-    "urls": [
-      "https://ubiqscan.io/token"
-    ],
-    "contract": "Ubiq Contract"
-  },
-  {
-    "urls": [
-      "https://vechainstats.com/account",
-      "https://explore.veforge.com/tokens"
-    ],
-    "contract": "VeChain Contract"
+    "contract": "Solana Contract"
   },
   {
     "urls": [
@@ -168,9 +132,46 @@
   },
   {
     "urls": [
-      "https://explorer.ont.io/token/detail/oep4"
+      "https://tronscan.org/#/address",
+      "https://tronscan.org/#/token",
+      "https://tronscan.org/#/contract",
+      "https://tronscan.io/#/contract",
+      "https://tronscan.io/#/token",
+      "https://tronscan.io/#/token20",
+      "https://trxplorer.io/token",
+      "https://www.trxplorer.io/token"
     ],
-    "contract": "Ontology Contract"
+    "contract": "Tron Contract"
+  },
+  {
+    "urls": [
+      "https://ubiqscan.io/token"
+    ],
+    "contract": "Ubiq Contract"
+  },
+  {
+    "urls": [
+      "https://vechainstats.com/account",
+      "https://explore.veforge.com/tokens"
+    ],
+    "contract": "VeChain Contract"
+  },
+  {
+    "urls": [
+      "https://www.wanscan.org/token",
+      "https://info.wanswap.finance/token"
+    ],
+    "contract": "Wan Contract"
+  },
+  {
+    "urls": [
+      "https://wavesexplorer.com/assets",
+      "http://dev.pywaves.org/assets",
+      "https://dev.pywaves.org/enterprise/balances",
+      "https://dev.pywaves.org/assets",
+      "https://wavesexplorer.com/tx"
+    ],
+    "contract": "Waves Contract"
   },
   {
     "urls": [

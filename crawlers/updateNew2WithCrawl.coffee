@@ -75,5 +75,7 @@ request
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
+  if "Stablecoin - Asset-Backed" in crypto.tags
+    crypto.tags.push("Stablecoin")
   crypto.tags = _.uniq crypto.tags
   console.log JSON.stringify cryptos, null, 2

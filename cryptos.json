@@ -21970,8 +21970,10 @@
     "short": "BLANK",
     "url": "/currencies/blank-wallet",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210306",
     "deaths": [
@@ -21979,6 +21981,11 @@
       "20210307",
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/Blank-Wallet/Blank-token",
+    "forked_data": [
+      "https://etherscan.io/token/0xaec7e1f531bb09115103c53ba76829910ec48966",
+      "https://ethplorer.io/address/0xaec7e1f531bb09115103c53ba76829910ec48966"
     ]
   },
   "Blaze DeFi": {
@@ -23493,12 +23500,18 @@
     "short": "BOG",
     "url": "/currencies/bogged-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xd7b729ef857aa773f47d37088a1181bb3fbf0099"
     ]
   },
   "Bolivarcoin": {
@@ -43089,13 +43102,20 @@
     "short": "DOGY",
     "url": "/currencies/dogeyield",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210308",
     "deaths": [
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/dogeyield",
+    "forked_data": [
+      "https://etherscan.io/token/0x9c405acf8688afb61b3197421cdeec1a266c6839",
+      "https://ethplorer.io/address/0x9c405acf8688afb61b3197421cdeec1a266c6839"
     ]
   },
   "Dogecoin": {
@@ -45940,13 +45960,21 @@
     "short": "ETHA",
     "url": "/currencies/etha-lend",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Yield farming",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210308",
     "deaths": [
       "20210308",
       "20210309"
+    ],
+    "git": "https://github.com/ethalend",
+    "forked_data": [
+      "https://etherscan.io/token/0x59e9261255644c411afdd00bd89162d09d862e38",
+      "https://ethplorer.io/address/0x59e9261255644c411afdd00bd89162d09d862e38"
     ]
   },
   "ETHDOWN": {
@@ -50286,10 +50314,16 @@
     "short": "ERN",
     "url": "/currencies/ethernity-chain",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210309"
+    "sawBirth": "20210309",
+    "forked_data": [
+      "https://etherscan.io/token/0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+    ]
   },
   "Etheroll": {
     "name": "Etheroll",
@@ -55999,13 +56033,19 @@
     "short": "FUSI",
     "url": "/currencies/fusible",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210307",
     "deaths": [
       "20210307",
       "20210308"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x4c924a1fe185c6c6f870bc6bf1762b832208d748"
     ]
   },
   "Fusion": {
@@ -58277,11 +58317,17 @@
     "url": "/currencies/global-aex-token",
     "tags": [
       "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract"
     ],
     "sawBirth": "20210309",
     "deaths": [
       "20210309"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x24efe6b87bf1bfe9ea2ccb5a9d0a959c7172b364"
     ]
   },
   "Global China Cash": {
