@@ -23,6 +23,7 @@ tagsTables =
   'collectibles-nfts': 'Collectibles & NFTs'
   'communications-social-media': 'Communications & Social Media'
   'content-creation':'Content Creation'
+  'cybersecurity': 'Cybersecurity'
   'dao': 'Dao'
   'dapp': 'DApp'
   'decentralized-exchange': 'Decentralized exchange'
