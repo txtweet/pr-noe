@@ -34143,10 +34143,10 @@
       "Services",
       "IoT",
       "Ethereum Contract",
-      "Coin"
+      "Token"
     ],
     "forked_data": [],
-    "git": "https://github.com/CREDITSCOM"
+    "git": "https://github.com/CREDITSCOM/node"
   },
   "Credo": {
     "name": "Credo",
@@ -54192,7 +54192,8 @@
       "Ethereum Contract",
       "DeFi",
       "Scaling",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "forked_data": [],
     "git": "https://github.com/Fantom-Foundation"
@@ -62479,7 +62480,8 @@
       "Substrate",
       "Polkadot",
       "Dead",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210225",
     "deaths": [
@@ -75106,7 +75108,8 @@
       "Yield farming",
       "Coin",
       "Ethereum Contract",
-      "Other Contract"
+      "Other Contract",
+      "NoLicenceFile"
     ],
     "forked_data": [
       "https://etherscan.io/token/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
@@ -76254,7 +76257,8 @@
     "url": "/currencies/libocoin",
     "tags": [
       "Dead",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210224",
     "deaths": [
@@ -95067,7 +95071,12 @@
     "url": "/currencies/prcy-coin",
     "tags": [
       "Dead",
-      "Coin"
+      "Coin",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "DAPScoinL",
+      "PRCYcoinL"
     ],
     "sawBirth": "20210305",
     "deaths": [
@@ -95077,7 +95086,7 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/PRCYCoin"
+    "git": "https://github.com/PRCYCoin/PRCYCoin"
   },
   "PRIA": {
     "name": "PRIA",
@@ -96124,10 +96133,12 @@
     "short": "PSL",
     "url": "/currencies/pastel",
     "tags": [
-      "Coin"
+      "Coin",
+      "PastelL",
+      "BitcoinL"
     ],
     "sawBirth": "20210310",
-    "git": "https://github.com/PastelNetwork/"
+    "git": "https://github.com/PastelNetwork/Pastel"
   },
   "Patientory": {
     "name": "Patientory",
@@ -101620,7 +101631,8 @@
       "Distributed Computing",
       "Filesharing",
       "IPFS",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "explorer": "http://explorer.xpxsirius.io/#",
     "git": "https://github.com/proximax-storage"
@@ -102262,7 +102274,8 @@
       "Staking",
       "Masternodes",
       "Coin",
-      "Dead"
+      "Dead",
+      "NoLicenceFile"
     ],
     "explorer": "https://qoober.space/txs",
     "git": "https://github.com/Qoober/qoober-node",
@@ -104372,7 +104385,8 @@
       "Substrate",
       "Polkadot",
       "Dead",
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210301",
     "deaths": [
@@ -106841,7 +106855,8 @@
     "short": "ROC",
     "url": "/currencies/roxe-cash",
     "tags": [
-      "Coin"
+      "Coin",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210311",
     "git": "https://github.com/RoxeNet/RoxeChain"
@@ -135522,7 +135537,7 @@
       "Dex",
       "Dead",
       "DEX",
-      "Coin"
+      "Token"
     ],
     "sawBirth": "20210304",
     "deaths": [

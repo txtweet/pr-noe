@@ -19,7 +19,7 @@ unless crypto?
   console.log JSON.stringify cryptos, null, 2
   process.exit(1)
 
-# console.warn "Recherche : https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
+console.warn "Recherche : #{crypto.git}"
 console.warn "-> #{crypto.name}"
 url = "https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
 request
