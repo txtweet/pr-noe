@@ -731,9 +731,15 @@
     "short": "2BASED",
     "url": "/currencies/2based-finance",
     "tags": [
+      "Token",
+      "Ethereum Contract",
       "Dead"
     ],
     "sawBirth": "06012021",
+    "forked_data": [
+      "https://etherscan.io/token/0x168E39f96A653Ce0A456560687241b0B2936E5Ff",
+      "https://ethplorer.io/address/0x168E39f96A653Ce0A456560687241b0B2936E5Ff"
+    ],
     "deaths": [
       "21012021",
       "22012021",
@@ -42047,22 +42053,13 @@
     ]
   },
   "Dexchain": {
-    "name": "Dexchain",
+    "name": "MyDexPay",
     "short": "XMD",
     "url": "/currencies/mydexpay",
     "tags": [
-      "Token",
-      "Dead",
-      "Ethereum Contract"
+      "Coin",
+      "Dead"
     ],
-    "forked_data": {
-      "block": [
-        "0xA8b0...B53055e"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
     "deaths": [
       "30112020",
       "01122020",
