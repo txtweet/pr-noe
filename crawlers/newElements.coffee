@@ -16,7 +16,7 @@ liste.forEach (elem) ->
   #   process.exit(1)
   # if found? and (not found.deaths? or not "20210309" in found.deaths) #and not ("Dead" in found.tags)
   if found? and not ("Dead" in found.tags)
-    request+="name.keyword:\"#{found.short}\" or "
+    request+="name.keyword:\"#{found.name}\" or "
 
 
 console.log request.substring(0, request.length - (" or ".length))
