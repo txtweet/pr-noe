@@ -4,7 +4,7 @@ unless process.argv[2]?
   process.exit(1)
 
 date = process.argv[2]
-raw = require '../cryptos-'+date+'.json'
+raw = require '../files/cryptos-'+date+'.json'
 datas = require '../cryptos.json'
 
 ret=''

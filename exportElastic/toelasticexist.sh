@@ -8,7 +8,7 @@ new=0  # Indiquateur de nouvelles données
 
 array=(`cat ./done.lst`)
 
-for file in ../cryptos-*.json ; do
+for file in ../files/cryptos-*.json ; do
   set `echo "$file"|cut -d '-' -f 2|cut -d '.' -f 1` # Remove - and . from file
   value=$*
   if [[ ! " ${array[@]} " =~ " ${value} " ]]; then
