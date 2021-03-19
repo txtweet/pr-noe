@@ -221,15 +221,6 @@
     ],
     "git": "https://github.com/0xcert"
   },
-  "10kcoin": {
-    "name": "10kcoin",
-    "git": "https://github.com/10KCoin/10KCoin",
-    "tags": [
-      "External",
-      "Dead",
-      "NoLicenceFile"
-    ]
-  },
   "10x.gg": {
     "name": "10x.gg",
     "short": "XGG",
@@ -20591,17 +20582,6 @@
     ],
     "git": "https://github.com/SpecialCoins/BitcoinZero/"
   },
-  "BitcoinDark": {
-    "name": "BitcoinDark",
-    "git": "https://github.com/laowais/bitcoindark",
-    "tags": [
-      "Dead",
-      "BitcoinDarkL",
-      "NovacoinL",
-      "PeercoinL",
-      "BitcoinL"
-    ]
-  },
   "BitcoinHD": {
     "name": "BitcoinHD",
     "short": "BHD",
@@ -21342,17 +21322,6 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
-  },
-  "Bithold": {
-    "name": "Bithold",
-    "git": "https://github.com/Bitholddev/Bithold",
-    "tags": [
-      "Dead",
-      "BitholdL",
-      "DashL",
-      "PeercoinL",
-      "BitcoinL"
     ]
   },
   "Bitnation": {
@@ -38905,7 +38874,7 @@
   "Dark": {
     "name": "Dark",
     "short": "D4RK",
-    "url": "/currencies/darkpay",
+    "url": "/currencies/dark",
     "tags": [
       "Coin",
       "DarkpayL",
@@ -65633,7 +65602,7 @@
   "Hydro": {
     "name": "Hydro",
     "short": "HYDRO",
-    "url": "/currencies/hydrogen",
+    "url": "/currencies/hydro",
     "tags": [
       "Token",
       "Platform",
