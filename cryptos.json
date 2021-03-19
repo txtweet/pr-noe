@@ -116380,14 +116380,6 @@
     ],
     "git": "https://github.com/Stipend-Developer/stipend"
   },
-  "Stipenddev": {
-    "name": "Stipenddev",
-    "git": "https://github.com/Stipend-Developer/stipend",
-    "tags": [
-      "Dead",
-      "StipenddevL"
-    ]
-  },
   "Stobox Token": {
     "name": "Stobox Token",
     "short": "STBU",
@@ -122348,7 +122340,7 @@
   "Thugs Finance": {
     "name": "Thugs Finance",
     "short": "THUGS",
-    "url:": "/currencies/thugs-fi/",
+    "url": "/currencies/thugs-fi",
     "tags": [
       "Token",
       "Dead",
@@ -122913,8 +122905,8 @@
   },
   "Toast.finance": {
     "name": "Toast.finance",
-    "short": "TOAST",
-    "url": "/currencies/toast",
+    "short": "HOUSE",
+    "url": "/currencies/toast-finance",
     "tags": [
       "Token",
       "Dead",
@@ -134125,7 +134117,7 @@
   "Vox.Finance": {
     "name": "Vox.Finance",
     "short": "VOX",
-    "url": "/currencies/vox.finance",
+    "url": "/currencies/vox-finance",
     "tags": [
       "Token",
       "Ethereum Contract",
@@ -144569,14 +144561,6 @@
       "https://etherscan.io/token/0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5"
     ]
   },
-  "Zerocoin": {
-    "name": "Zerocoin",
-    "git": "https://github.com/Zerocoin/libzerocoin",
-    "tags": [
-      "Dead",
-      "ZerocoinL"
-    ]
-  },
   "Zetacoin": {
     "name": "Zetacoin",
     "short": "ZET",
@@ -144652,7 +144636,7 @@
   "Ziktalk": {
     "name": "Ziktalk",
     "short": "ZIK",
-    "url": "/currencies/zik-token",
+    "url": "/currencies/ziktalk",
     "tags": [
       "Token",
       "Ethereum Contract",

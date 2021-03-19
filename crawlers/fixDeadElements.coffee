@@ -12,7 +12,7 @@ cryptos=require "../cryptos"
 _.forEach cryptos, (crypto) ->
   if "Dead" in crypto.tags
     nbDeaths = 0
-    unless crypto.deaths?
+    unless crypto.deaths? and crypto.url?
       console.log "no deaths", JSON.stringify crypto, null, 2
       process.exit(1)
     unless "01011970" in crypto.deaths
@@ -21,7 +21,7 @@ _.forEach cryptos, (crypto) ->
           files[date] = require("../files/cryptos-#{date}.json").data
         found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
         unless found
-          console.log "no found", JSON.stringify crypto, null, 2
+          console.log "no found", date, JSON.stringify crypto, null, 2
           process.exit(1)
         if found.quote.USD.volume_24h != 0
           nbDeaths++
@@ -30,6 +30,7 @@ _.forEach cryptos, (crypto) ->
         delete crypto.deaths
         crypto.tags = _.without crypto.tags, "Dead"
 
+console.log JSON.stringify cryptos, null, 2
 process.exit(1)
 
 request=""
