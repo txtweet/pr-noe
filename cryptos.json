@@ -3904,18 +3904,30 @@
     "short": "ASI",
     "url": "/currencies/asi-finance-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd"
+    ]
   },
   "ASI.finance": {
     "name": "ASI.finance",
     "short": "BASI",
     "url": "/currencies/asi-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/asifinance/ASI-contracts",
+    "forked_data": [
+      "https://bscscan.com/token/0x8f671544a39b2c0905beac1c1009389d6922305f"
+    ]
   },
   "ASKO": {
     "name": "ASKO",
@@ -3936,11 +3948,18 @@
     "short": "ASSY",
     "url": "/currencies/assy-index",
     "tags": [
-      "New",
       "DeFi",
-      "DeFi Index"
+      "DeFi Index",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210320"
+    "sawBirth": "20210320",
+    "git": "https://github.com/powerpool-finance/powerindex",
+    "forked_data": [
+      "https://etherscan.io/token/0xFA2562da1Bba7B954f26C74725dF51fb62646313",
+      "https://ethplorer.io/address/0xFA2562da1Bba7B954f26C74725dF51fb62646313"
+    ]
   },
   "ASTA": {
     "name": "ASTA",
@@ -6648,9 +6667,15 @@
     "short": "AVS",
     "url": "/currencies/algovest",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/algovestavs",
+    "forked_data": [
+      "https://etherscan.io/token/0x94d916873b22c9c1b53695f1c002f78537b9b3b2"
+    ]
   },
   "Algorand": {
     "name": "Algorand",
@@ -6816,9 +6841,11 @@
     "short": "ALL",
     "url": "/currencies/alliance-fan-token",
     "tags": [
-      "New",
       "Fan token",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210319",
     "deaths": [
@@ -6847,9 +6874,16 @@
     "short": "ALH",
     "url": "/currencies/allohash",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0x4c6719bf85903d18c295da44216f862b01b36f43",
+      "https://ethplorer.io/address/0x4c6719bf85903d18c295da44216f862b01b36f43"
+    ]
   },
   "Almace Shards": {
     "name": "Almace Shards",
