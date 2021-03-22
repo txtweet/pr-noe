@@ -61,6 +61,7 @@ tagsTables =
   'payments': 'Payments'
   'platform': 'Platform'
   'polkadot': 'Polkadot'
+  'polkadot-ecosystem': 'Polkadot Ecosystem'
   'pos': 'PoS'
   'pow': 'PoW'
   'prediction-markets': 'Prediction Markets'
@@ -87,7 +88,7 @@ tagsTables =
 
 _ = require 'lodash'
 cryptos = require '../cryptos'
-fresh = require "../cryptos-#{fileDate}"
+fresh = require "../files/cryptos-#{fileDate}"
 
 newCryptos = 1
 oldDeadCryptos = 1
