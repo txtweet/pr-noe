@@ -65,6 +65,13 @@
   },
   {
     "urls": [
+      "https://www.iostabc.com/token",
+      "https://www.iostabc.com/contract"
+    ],
+    "contract": "IOST Contract"
+  },
+  {
+    "urls": [
       "https://explorer.nebulas.io/#/token"
     ],
     "contract": "Nebulas Contract"
