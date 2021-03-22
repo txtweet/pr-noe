@@ -110621,9 +110621,15 @@
     "short": "GST",
     "url": "/currencies/the-gemstone",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/TheGemStoneToken/Smart-Contract",
+    "forked_data": [
+      "https://bscscan.com/token/0x444a0e0c139cac67e8f9be945c6dfe01a2766ed1"
+    ]
   },
   "The Graph": {
     "name": "The Graph",
@@ -113285,9 +113291,15 @@
     "short": "TREAT",
     "url": "/currencies/treat-dao",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/TreatDAO",
+    "forked_data": [
+      "https://bscscan.com/token/0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
+    ]
   },
   "Treecle": {
     "name": "Treecle",
@@ -114374,9 +114386,15 @@
     "short": "TFF",
     "url": "/currencies/tutti-frutti",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/TuttiFruttiFinance",
+    "forked_data": [
+      "https://bscscan.com/token/0x2d69c55baecefc6ec815239da0a985747b50db6e"
+    ]
   },
   "Tweebaa": {
     "name": "Tweebaa",
@@ -114771,9 +114789,15 @@
     "short": "UME",
     "url": "/currencies/ume-token",
     "tags": [
-      "New"
+      "Token",
+      "Tron Contract",
+      "New2"
     ],
-    "sawBirth": "20210318"
+    "sawBirth": "20210318",
+    "git": "https://github.com/USWAP-exchange/UME",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH"
+    ]
   },
   "UNCL": {
     "name": "UNCL",
@@ -115207,10 +115231,17 @@
     "short": "USDP",
     "url": "/currencies/usdp",
     "tags": [
-      "New",
-      "Stablecoin"
+      "Stablecoin",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/unitprotocol/core",
+    "forked_data": [
+      "https://etherscan.io/token/0x1456688345527bE1f37E9e627DA0837D6f08C925",
+      "https://ethplorer.io/address/0x1456688345527bE1f37E9e627DA0837D6f08C925"
+    ]
   },
   "USDQ": {
     "name": "USDQ",
@@ -115794,9 +115825,15 @@
     "short": "DOG",
     "url": "/currencies/underdog",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://bscscan.com/token/0xf94ca0b303e52d68b63626bed7f680fa4dc3f779"
+    ]
   },
   "UniCrypt": {
     "name": "UniCrypt",
@@ -117285,10 +117322,17 @@
     "short": "USF",
     "url": "/currencies/unslashed-finance",
     "tags": [
-      "New",
-      "Insurance"
+      "Insurance",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210321"
+    "sawBirth": "20210321",
+    "forked_data": [
+      "https://etherscan.io/token/0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+      "https://ethplorer.io/address/0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce"
+    ]
   },
   "UpBots": {
     "name": "UpBots",
@@ -130550,10 +130594,16 @@
     "short": "YUP",
     "url": "/currencies/yup-token",
     "tags": [
-      "New",
-      "Social Money"
+      "Social Money",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210320"
+    "sawBirth": "20210320",
+    "git": "https://github.com/yup-io",
+    "forked_data": [
+      "https://etherscan.io/token/0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9"
+    ]
   },
   "ZAC Finance": {
     "name": "ZAC Finance",
@@ -132275,9 +132325,15 @@
     "short": "aWSB",
     "url": "/currencies/awsb",
     "tags": [
-      "New"
+      "New",
+      "NoGitHub",
+      "Token",
+      "Binance Contract"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://bscscan.com/address/0x8c48d050e618e715b35a0e1e03c3b590001121cf"
+    ]
   },
   "adToken": {
     "name": "adToken",
