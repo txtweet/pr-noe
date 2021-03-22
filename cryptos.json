@@ -132325,7 +132325,7 @@
     "short": "aWSB",
     "url": "/currencies/awsb",
     "tags": [
-      "New",
+      "New2",
       "NoGitHub",
       "Token",
       "Binance Contract"
@@ -135085,8 +135085,12 @@
     "short": "xMOON",
     "url": "/currencies/moon",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "xDai Contract",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210317",
     "deaths": [
@@ -135096,6 +135100,10 @@
       "20210320",
       "20210321",
       "20210322"
+    ],
+    "forked_data": [
+      "https://blockscout.com/xdai/mainnet/tokens/0x1e16aa4df73d29c029d94ceda3e3114ec191e25a/token-transfers",
+      "https://rinkeby.etherscan.io/token/0xdf82c9014f127243ce1305dfe54151647d74b27a"
     ]
   },
   "r3fi.finance": {
@@ -135244,10 +135252,16 @@
     "short": "RENZEC",
     "url": "/currencies/renzec",
     "tags": [
-      "New",
-      "Wrapped Tokens"
+      "Wrapped Tokens",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210322"
+    "sawBirth": "20210322",
+    "git": "https://github.com/renproject/ren-js",
+    "forked_data": [
+      "https://etherscan.io/token/0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2"
+    ]
   },
   "sADA": {
     "name": "sADA",
@@ -136571,9 +136585,15 @@
     "short": "VBSWAP",
     "url": "/currencies/vbswap",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/valuedefi",
+    "forked_data": [
+      "https://bscscan.com/token/0x4f0ed527e8A95ecAA132Af214dFd41F30b361600"
+    ]
   },
   "vSlice": {
     "name": "vSlice",
@@ -137126,9 +137146,15 @@
     "short": "XMARK",
     "url": "/currencies/xmark",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/benchmarkprotocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb"
+    ]
   },
   "xRhodium": {
     "name": "xRhodium",
@@ -137149,13 +137175,20 @@
     "short": "XSUSHI",
     "url": "/currencies/xsushi",
     "tags": [
-      "New",
       "DeFi",
       "Dex",
       "Yearn Partnerships",
-      "Governance"
+      "Governance",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210321"
+    "sawBirth": "20210321",
+    "forked_data": [
+      "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+      "https://ethplorer.io/address/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272"
+    ]
   },
   "xSigma": {
     "name": "xSigma",
@@ -137296,10 +137329,17 @@
     "short": "yVault LP-yCurve(YYCRV)",
     "url": "/currencies/yvault-lp-ycurve",
     "tags": [
-      "New",
-      "Yield farming"
+      "Yield farming",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210322"
+    "sawBirth": "20210322",
+    "forked_data": [
+      "https://etherscan.io/token/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+      "https://ethplorer.io/address/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c"
+    ]
   },
   "yearn.finance": {
     "name": "yearn.finance",
@@ -137700,10 +137740,13 @@
     "short": "IBFK",
     "url": "/currencies/istanbul-basaksehir-fan-token",
     "tags": [
-      "New",
       "Sports",
       "Fan token",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Chiliz Contract",
+      "New2"
     ],
     "sawBirth": "20210319",
     "deaths": [
@@ -137711,6 +137754,9 @@
       "20210320",
       "20210321",
       "20210322"
+    ],
+    "forked_data": [
+      "https://explorer.chiliz.com/tokens/0x916fb58d0c474314afd399ee50e3528e543e9e9f/token_transfers"
     ]
   }
 }
