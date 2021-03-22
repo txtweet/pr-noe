@@ -86096,9 +86096,15 @@
     "short": "PWAY",
     "url": "/currencies/pway",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://etherscan.io/token/0x5a14fe6923e767A8238f29d3E1FB1a913975F0d7"
+    ]
   },
   "PWR Coin": {
     "name": "PWR Coin",
@@ -88874,9 +88880,15 @@
     "short": "PIG",
     "url": "/currencies/pig-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/pigtokenfinance",
+    "forked_data": [
+      "https://bscscan.com/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5"
+    ]
   },
   "Pigeoncoin": {
     "name": "Pigeoncoin",
@@ -88895,9 +88907,15 @@
     "short": "PIKACHU",
     "url": "/currencies/pika",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf"
+    ]
   },
   "Pillar": {
     "name": "Pillar",
@@ -89905,10 +89923,17 @@
     "short": "PKF",
     "url": "/currencies/polkafoundry",
     "tags": [
-      "New",
-      "Polkadot Ecosystem"
+      "Polkadot Ecosystem",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/polkafoundry",
+    "forked_data": [
+      "https://etherscan.io/token/0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+      "https://ethplorer.io/address/0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+    ]
   },
   "Polkacover": {
     "name": "Polkacover",
@@ -90190,9 +90215,16 @@
     "short": "POODL",
     "url": "/currencies/poodle",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://etherscan.io/token/0x56a980328aee33aabb540a02e002c8323326bf36",
+      "https://ethplorer.io/address/0x56a980328aee33aabb540a02e002c8323326bf36"
+    ]
   },
   "Pool of Stake": {
     "name": "Pool of Stake",
@@ -92938,9 +92970,15 @@
     "short": "QUAM",
     "url": "/currencies/quam-network",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/Quam-Network/QuamR_Public",
+    "forked_data": [
+      "https://bscscan.com/token/0x1ade17b4b38b472b5259bbc938618226df7b5ca8"
+    ]
   },
   "Quant": {
     "name": "Quant",
@@ -94219,9 +94257,15 @@
     "short": "RYIU",
     "url": "/currencies/ryi-unity",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://bscscan.com/token/0xc6d736123fa8e8a5d85803b5c22799e394245fab"
+    ]
   },
   "RabbitCoin": {
     "name": "RabbitCoin",
@@ -94535,10 +94579,14 @@
     "short": "RPEPE",
     "url": "/currencies/rare-pepe",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "New2",
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210321"
+    "sawBirth": "20210321",
+    "explorer": "https://xchain.io/asset/PEPECASH",
+    "forked_data": []
   },
   "Rari Governance Token": {
     "name": "Rari Governance Token",
