@@ -65994,7 +65994,7 @@
     "short": "KONO",
     "url": "/currencies/konomi-network",
     "tags": [
-      "New",
+      "New2",
       "Asset management",
       "NoGitHub",
       "Ethereum Contract",
@@ -66002,7 +66002,9 @@
     ],
     "explorer": "https://konomi-network.medium.com/",
     "sawBirth": "20210317",
-    "forked_data": []
+    "forked_data": [
+      "https://ethplorer.io/address/0x850aAB69f0e0171A9a49dB8BE3E71351c8247Df4"
+    ]
   },
   "Kora Network Token": {
     "name": "Kora Network Token",
@@ -66770,9 +66772,16 @@
     "short": "LABS",
     "url": "/currencies/labs-group",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/labsgroupio",
+    "forked_data": [
+      "https://etherscan.io/token/0x8b0e42f366ba502d787bb134478adfae966c8798",
+      "https://ethplorer.io/address/0x8b0e42f366ba502d787bb134478adfae966c8798"
+    ]
   },
   "LALA World": {
     "name": "LALA World",
@@ -68385,9 +68394,15 @@
     "short": "L3P",
     "url": "/currencies/lepricon",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0xdef1da03061ddd2a5ef6c59220c135dec623116d"
+    ]
   },
   "Lethean": {
     "name": "Lethean",
@@ -71718,9 +71733,15 @@
     "short": "MOCHI",
     "url": "/currencies/mochiswap",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/mochiswap",
+    "forked_data": [
+      "https://www.bscscan.com/token/0x055dab90880613a556a5ae2903b2682f8a5b8d27"
+    ]
   },
   "MODEL-X-coin": {
     "name": "MODEL-X-coin",
@@ -71892,10 +71913,17 @@
     "short": "MORK",
     "url": "/currencies/mork",
     "tags": [
-      "New",
-      "Social Money"
+      "Social Money",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210320"
+    "sawBirth": "20210320",
+    "forked_data": [
+      "https://etherscan.io/token/0xf552b656022c218C26dAd43ad88881Fc04116F76",
+      "https://ethplorer.io/address/0xf552b656022c218C26dAd43ad88881Fc04116F76"
+    ]
   },
   "MOST Protocol": {
     "name": "MOST Protocol",
@@ -72252,9 +72280,15 @@
     "short": "MCRN",
     "url": "/currencies/macaronswap",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/macaronswap",
+    "forked_data": [
+      "https://bscscan.com/token/0xacb2d47827c9813ae26de80965845d80935afd0b"
+    ]
   },
   "Machi X": {
     "name": "Machi X",
@@ -72872,9 +72906,15 @@
     "short": "MANGO",
     "url": "/currencies/mango-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210318"
+    "sawBirth": "20210318",
+    "git": "https://github.com/mangofarmbsc",
+    "forked_data": [
+      "https://bscscan.com/token/0x3d29cdb00cb183a0aeceea4fb73f55e1450af3d4"
+    ]
   },
   "MangoChain": {
     "name": "MangoChain",
@@ -77543,9 +77583,15 @@
     "short": "MCO2",
     "url": "/currencies/moss-carbon-credit",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://etherscan.io/token/0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+    ]
   },
   "Moss Coin": {
     "name": "Moss Coin",
@@ -78453,9 +78499,15 @@
     "short": "NFTP",
     "url": "/currencies/nft-pool",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://bscscan.com/token/0x60a3e1fef73446cc0bbfff6319960e8cf7fc4266"
+    ]
   },
   "NFTL Token": {
     "name": "NFTL Token",
@@ -79904,9 +79956,15 @@
     "short": "NTRC",
     "url": "/currencies/neoteric",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://bscscan.com/token/0xbeBb576f877F93958B0646C12714d5D02B1195B0"
+    ]
   },
   "Nerva": {
     "name": "Nerva",
@@ -81387,10 +81445,13 @@
     "short": "NOV",
     "url": "/currencies/novara-calcio-fan-token",
     "tags": [
-      "New",
       "Sports",
       "Fan token",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Chiliz Contract",
+      "New2"
     ],
     "sawBirth": "20210319",
     "deaths": [
@@ -81398,6 +81459,9 @@
       "20210320",
       "20210321",
       "20210322"
+    ],
+    "forked_data": [
+      "https://explorer.chiliz.com/tokens/0x96f499cfb9bc23ee7bad894fe9e8dd77d31dc86b/token_transfers"
     ]
   },
   "Novo": {
@@ -83108,9 +83172,16 @@
     "short": "ODDZ",
     "url": "/currencies/oddz",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "git": "https://github.com/oddz-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+      "https://ethplorer.io/address/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6"
+    ]
   },
   "Odyssey": {
     "name": "Odyssey",
@@ -84137,12 +84208,19 @@
     "short": "ORCL5",
     "url": "/currencies/oracle-top-5",
     "tags": [
-      "New",
       "Asset Backed Coin",
       "DeFi Index",
-      "Synthetic"
+      "Synthetic",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210320"
+    "sawBirth": "20210320",
+    "git": "https://github.com/indexed-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+      "https://ethplorer.io/address/0xd6cb2adf47655b1babddc214d79257348cbc39a7"
+    ]
   },
   "OracleChain": {
     "name": "OracleChain",
@@ -84814,10 +84892,18 @@
     "short": "OXY",
     "url": "/currencies/oxygen",
     "tags": [
-      "New",
-      "Yield farming"
+      "Yield farming",
+      "NoGitHub",
+      "Token",
+      "Solana Contract",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://explorer.solana.com/address/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+      "https://etherscan.io/token/0x965697b4ef02f0de01384d0d4f9f782b1670c163"
+    ]
   },
   "P2P": {
     "name": "P2P",
@@ -85754,9 +85840,12 @@
     "short": "PQT",
     "url": "/currencies/prediqt",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": []
   },
   "PRIA": {
     "name": "PRIA",
