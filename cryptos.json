@@ -96419,9 +96419,15 @@
     "short": "BUNNY",
     "url": "/currencies/rocket-bunny",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c"
+    ]
   },
   "Rocket Pool": {
     "name": "Rocket Pool",
@@ -98074,9 +98080,15 @@
     "short": "SPRINK",
     "url": "/currencies/sprink",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210318"
+    "sawBirth": "20210318",
+    "forked_data": [
+      "https://etherscan.io/token/0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795"
+    ]
   },
   "SRCOIN": {
     "name": "SRCOIN",
@@ -98914,12 +98926,18 @@
     "short": "SAFESTAR",
     "url": "/currencies/safe-star",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210319",
     "deaths": [
       "20210320"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2"
     ]
   },
   "SafeCapital": {
@@ -99882,9 +99900,11 @@
     "short": "SCHO",
     "url": "/currencies/scholarship-coin",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/scholarshipcoin/scholarshipcoin"
   },
   "Scifi Finance": {
     "name": "Scifi Finance",
@@ -100760,9 +100780,16 @@
     "short": "SHD",
     "url": "/currencies/shadetech",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "git": "https://github.com/SHDshadetech",
+    "forked_data": [
+      "https://etherscan.io/token/0x8a8221628361fa25294a83a172dd4f0133207b37",
+      "https://ethplorer.io/address/0x8a8221628361fa25294a83a172dd4f0133207b37"
+    ]
   },
   "Shadow Token": {
     "name": "Shadow Token",
@@ -101985,10 +102012,13 @@
     "short": "STV",
     "url": "/currencies/sint-truidense-voetbalvereniging",
     "tags": [
-      "New",
       "Sports",
       "Fan token",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Chiliz Contract",
+      "New2"
     ],
     "sawBirth": "20210319",
     "deaths": [
@@ -101996,6 +102026,9 @@
       "20210320",
       "20210321",
       "20210322"
+    ],
+    "forked_data": [
+      "https://explorer.chiliz.com/tokens/0xd7dba30d643ef7b271ef06c3d8c0d5add46440ab/token_transfers"
     ]
   },
   "Siren": {
@@ -104402,9 +104435,16 @@
     "short": "SPH",
     "url": "/currencies/spheroid-universe",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210319"
+    "sawBirth": "20210319",
+    "forked_data": [
+      "https://etherscan.io/token/0xa0cf46eb152656c7090e769916eb44a138aaa406",
+      "https://ethplorer.io/address/0xa0cf46eb152656c7090e769916eb44a138aaa406"
+    ]
   },
   "Spice": {
     "name": "Spice",
@@ -106857,9 +106897,15 @@
     "short": "SUPERBID",
     "url": "/currencies/superbid",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://etherscan.io/token/0x0563dce613d559a47877ffd1593549fb9d3510d6"
+    ]
   },
   "Supreme Finance": {
     "name": "Supreme Finance",
@@ -106942,11 +106988,17 @@
     "short": "RMT",
     "url": "/currencies/sureremit",
     "tags": [
-      "New",
       "Platform",
-      "Payments"
+      "Payments",
+      "NoGitHub",
+      "Token",
+      "Stellar Contract",
+      "New2"
     ],
-    "sawBirth": "20210317"
+    "sawBirth": "20210317",
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/RMT-GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N"
+    ]
   },
   "Suretly": {
     "name": "Suretly",
@@ -107518,15 +107570,19 @@
     "short": "XYM",
     "url": "/currencies/symbol",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "NoGitHub",
+      "Token"
     ],
+    "explorer": "http://explorer.symbolblockchain.io/",
     "sawBirth": "20210320",
     "deaths": [
       "20210320",
       "20210321",
       "20210322"
-    ]
+    ],
+    "forked_data": []
   },
   "SynLev": {
     "name": "SynLev",
