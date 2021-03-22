@@ -47081,7 +47081,8 @@
     "url": "/currencies/evrice",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210317",
     "git": "https://github.com/EVRICE"
@@ -99901,7 +99902,10 @@
     "url": "/currencies/scholarship-coin",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "Litecoin CoreL",
+      "Scholarship CoreL"
     ],
     "sawBirth": "20210317",
     "git": "https://github.com/scholarshipcoin/scholarshipcoin"
