@@ -1,4 +1,5 @@
-#grep -H '  "Coin : ' stat* | cut -d ":" -f 3 | cut -d "]" -f 2 | cut -d "\"" -f 1 |cut -d " " -f 2 |sort|uniq > newCoin
+#grep -H '  "Coin : ' ../files/stat* | cut -d ":" -f 3 | cut -d "]" -f 2 | cut -d "\"" -f 1 |cut -d " " -f 2 |sort|uniq > newCoin
+#grep -H '  "Token : ' ../files/stat* | cut -d ":" -f 3 | cut -d "]" -f 2 | cut -d "\"" -f 1 |cut -d " " -f 2 |sort|uniq > newToken
 
 fs = require "fs"
 stdinBuffer = fs.readFileSync(0)
