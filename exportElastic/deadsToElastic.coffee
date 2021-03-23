@@ -20,6 +20,7 @@ for crypto in raw.data
   else
     if "Dead" in found.tags
       datadb={}
+      datadb["tag_Dead"] = true
       _.forEach datas[crypto.name], (val, key) ->
         unless key == "name" or key == "tags" or key == "forked_data" or key=="depends" or key== "people" or key=="deaths"
           datadb[key]=val
