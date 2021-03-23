@@ -27549,27 +27549,6 @@
       "https://etherscan.io/token/0x6fa0952355607dfb2d399138b7fe10eb90f245e4"
     ]
   },
-  "ClearPoll": {
-    "name": "ClearPoll",
-    "short": "POLL",
-    "url": "/currencies/clearpoll",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x705E...412e3D9"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Clever DeFi": {
     "name": "Clever DeFi",
     "short": "CLVA",
@@ -128975,27 +128954,6 @@
       "NoGitHub"
     ]
   },
-  "YUGE": {
-    "name": "YUGE",
-    "short": "TRUMP",
-    "url": "/currencies/yuge",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x012b...01b6e53"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "YUI Token": {
     "name": "YUI Token",
     "short": "YUI",
@@ -134309,49 +134267,6 @@
     ],
     "git": "https://github.com/iExecBlockchainComputing"
   },
-  "iLINK": {
-    "name": "iLINK",
-    "short": "ILINK",
-    "url": "/currencies/ilink",
-    "tags": [
-      "Token",
-      "Dead",
-      "Ethereum Contract"
-    ],
-    "forked_data": {
-      "block": [
-        "0x2d7a...C162B01"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "20201130",
-      "20201201",
-      "20201203",
-      "20201207",
-      "20201208",
-      "20201209",
-      "20201211",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20201217",
-      "20201218",
-      "20210106",
-      "20210112",
-      "20210114",
-      "20210115",
-      "20210118",
-      "20210119",
-      "20210120",
-      "20210121",
-      "20210122",
-      "20210126"
-    ]
-  },
   "iOWN Token": {
     "name": "iOWN Token",
     "short": "iOWN",
@@ -136480,27 +136395,6 @@
     ],
     "git": "https://github.com/keep-network"
   },
-  "tomatos.finance": {
-    "name": "tomatos.finance",
-    "short": "TOMATOS",
-    "url": "/currencies/tomatos-finance",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x2306...92b2BBf"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "uPlexa": {
     "name": "uPlexa",
     "short": "UPX",
@@ -136510,27 +136404,6 @@
       "NoLicenceFile"
     ],
     "git": "https://github.com/uPlexa/uplexa"
-  },
-  "unibot.cash": {
-    "name": "unibot.cash",
-    "short": "UNDB",
-    "url": "/currencies/unibot-cash",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0xd03B...a425c70"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
   },
   "unilock.network": {
     "name": "unilock.network",
@@ -136996,40 +136869,6 @@
       "https://ethplorer.io/address/0xECbF566944250ddE88322581024E611419715f7A"
     ]
   },
-  "xCrypt Token": {
-    "name": "xCrypt Token",
-    "short": "XCT",
-    "url": "/currencies/xcrypt-token",
-    "tags": [
-      "Token",
-      "Dead",
-      "Ethereum Contract"
-    ],
-    "forked_data": {
-      "block": [
-        "0xd2bb...ebd596b"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "20201130",
-      "20201201",
-      "20201203",
-      "20201207",
-      "20201208",
-      "20201209",
-      "20201211",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20201217",
-      "20201218",
-      "20210106"
-    ]
-  },
   "xDAI": {
     "name": "xDAI",
     "short": "xDAI",
@@ -137460,27 +137299,6 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
-  },
-  "yieldfarming.insure": {
-    "name": "yieldfarming.insure",
-    "short": "SAFE",
-    "url": "/currencies/yieldfarming-insure",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x250a...89a2699"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
     ]
   },
   "yieldwatch": {
