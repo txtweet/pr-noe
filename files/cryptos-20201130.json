@@ -4210,27 +4210,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl",
-      "symbol": "MTXLT",
-      "slug": "tixl",
-      "max_supply": null,
-      "circulating_supply": 61382048.60601793,
-      "total_supply": 899994670.9,
-      "last_updated": "2020-11-30T15:47:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 49.64190900948201,
-          "volume_24h": 43.25891052,
-          "percent_change_1h": 1.36534823,
-          "percent_change_24h": 25.14379361,
-          "percent_change_7d": 39.64151824,
-          "market_cap": 3047122071.715544,
-          "last_updated": "2020-11-30T15:47:04.000Z"
-        }
-      }
-    },
-    {
       "id": 5482,
       "name": "Counos X",
       "symbol": "CCXX",
@@ -55787,7 +55766,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "max_supply": 900000000,

@@ -21476,28 +21476,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-01-19T10:41:05.000Z",
-      "quote": {
-        "USD": {
-          "price": 86.1503492014243,
-          "volume_24h": 752.00699836,
-          "percent_change_1h": -0.03339047,
-          "percent_change_24h": -13.61616695,
-          "percent_change_7d": -9.52902571,
-          "market_cap": 4308809.715309236,
-          "last_updated": "2021-01-19T10:41:05.000Z"
-        }
-      }
-    },
-    {
       "id": 3406,
       "name": "Block-Chain.com",
       "symbol": "BC",
@@ -21945,7 +21923,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

@@ -21849,28 +21849,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-01-21T12:52:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 75.70804302623746,
-          "volume_24h": 0,
-          "percent_change_1h": -0.6302139,
-          "percent_change_24h": -1.6787944,
-          "percent_change_7d": -12.92195233,
-          "market_cap": 3786537.7719572666,
-          "last_updated": "2021-01-21T12:52:04.000Z"
-        }
-      }
-    },
-    {
       "id": 4277,
       "name": "DECOIN",
       "symbol": "DTEP",
@@ -23444,7 +23422,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

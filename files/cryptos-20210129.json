@@ -23609,29 +23609,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-01-29T13:15:05.000Z",
-      "quote": {
-        "USD": {
-          "price": 74.42013427486938,
-          "volume_24h": 2325.3346114,
-          "percent_change_1h": 0.00473514,
-          "percent_change_24h": 3.51874639,
-          "percent_change_7d": -2.56611476,
-          "percent_change_30d": 73.98107907,
-          "market_cap": 3722123.0157575924,
-          "last_updated": "2021-01-29T13:15:05.000Z"
-        }
-      }
-    },
-    {
       "id": 3850,
       "name": "OTOCASH",
       "symbol": "OTO",
@@ -24631,7 +24608,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

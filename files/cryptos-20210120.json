@@ -21753,28 +21753,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-01-20T11:01:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 77.74158882243177,
-          "volume_24h": 45.03691644,
-          "percent_change_1h": -1.77625843,
-          "percent_change_24h": -9.55523888,
-          "percent_change_7d": 14.44187658,
-          "market_cap": 3888245.5649539246,
-          "last_updated": "2021-01-20T11:01:04.000Z"
-        }
-      }
-    },
-    {
       "id": 1392,
       "name": "Pluton",
       "symbol": "PLU",
@@ -22259,7 +22237,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

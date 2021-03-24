@@ -5154,28 +5154,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl",
-      "symbol": "MTXLT",
-      "slug": "tixl",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 61765823.60601793,
-      "total_supply": 899994670.9,
-      "last_updated": "2021-01-06T14:52:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 88.96595091436036,
-          "volume_24h": 2117.7348272,
-          "percent_change_1h": -0.14293324,
-          "percent_change_24h": 10.02023552,
-          "percent_change_7d": 69.21403117,
-          "market_cap": 5495055231.1180315,
-          "last_updated": "2021-01-06T14:52:04.000Z"
-        }
-      }
-    },
-    {
       "id": 6170,
       "name": "KnoxFS (old)",
       "symbol": "KFX",
@@ -62331,7 +62309,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

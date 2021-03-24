@@ -17450,7 +17450,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],
@@ -19933,29 +19933,6 @@
           "percent_change_30d": 28.89324085,
           "market_cap": 6348524.991716795,
           "last_updated": "2021-02-04T13:36:08.000Z"
-        }
-      }
-    },
-    {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-02-04T13:37:05.000Z",
-      "quote": {
-        "USD": {
-          "price": 126.91892330001227,
-          "volume_24h": 1698.24771274,
-          "percent_change_1h": -1.27079882,
-          "percent_change_24h": 19.5044468,
-          "percent_change_7d": 76.65213065,
-          "percent_change_30d": 56.79304083,
-          "market_cap": 6347849.948850114,
-          "last_updated": "2021-02-04T13:37:05.000Z"
         }
       }
     },

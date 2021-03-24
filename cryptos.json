@@ -76886,29 +76886,12 @@
     "tags": [
       "Token",
       "Collectibles & NFTs",
-      "Ethereum Contract",
-      "Dead"
+      "DAO",
+      "Governance",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0xcB8d...7AF7042"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304"
+    "forked_data": [
+      "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
     ]
   },
   "NFT Index": {
@@ -78813,24 +78796,16 @@
       "20210118"
     ]
   },
-  "Neutrino System Base Token": {
-    "name": "Neutrino System Base Token",
-    "short": "NSBT",
-    "url": "/currencies/neutrino-system-base-token",
-    "tags": [
-      "Token",
-      "Dead"
-    ],
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Neutrino Token": {
     "name": "Neutrino Token",
     "short": "NSBT",
     "url": "/currencies/neutrino-system-base-token",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x9D79d5B61De59D882ce90125b18F74af650acB93"
     ],
     "sawBirth": "20201207"
   },
@@ -93106,25 +93081,6 @@
       "https://ethplorer.io/address/0xa1d6df714f91debf4e0802a542e13067f31b8262"
     ]
   },
-  "Redd": {
-    "name": "Redd",
-    "short": "RDD",
-    "url": "/currencies/redd",
-    "tags": [
-      "Coin",
-      "Hybrid - PoW & PoS",
-      "Scrypt",
-      "Media",
-      "Content Creation",
-      "Dead",
-      "BitcoinL",
-      "ReddcoinL"
-    ],
-    "deaths": [
-      "01011970"
-    ],
-    "git": "https://github.com/reddcoin-project/reddcoin"
-  },
   "ReddCoin": {
     "name": "ReddCoin",
     "short": "RDD",
@@ -97055,19 +97011,10 @@
     "url": "/currencies/sake-token",
     "tags": [
       "Token",
-      "Ethereum Contract",
-      "Dead"
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x0667...bd178b0"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
+    "forked_data": [
+      "https://etherscan.io/token/0x066798d9ef0833ccc719076dab77199ecbd178b0"
     ]
   },
   "Sakura Bloom": {
@@ -105560,30 +105507,6 @@
       "https://eth.tokenview.com/en/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
     ]
   },
-  "Synthetix Network Token": {
-    "name": "Synthetix Network Token",
-    "short": "SNX",
-    "url": "/currencies/synthetix-network-token",
-    "tags": [
-      "Token",
-      "Services",
-      "DeFi",
-      "Yield farming",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0xc011...0af2a6f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Syntropy": {
     "name": "Syntropy",
     "short": "NOIA",
@@ -106181,27 +106104,6 @@
     "forked_data": [
       "https://etherscan.io/token/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
       "https://ethplorer.io/address/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
-    ]
-  },
-  "TONToken": {
-    "name": "TONToken",
-    "short": "TON",
-    "url": "/currencies/tontoken",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x6a6c...b8c520a"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
     ]
   },
   "TOP": {
@@ -108283,29 +108185,6 @@
       "https://ethplorer.io/address/0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc"
     ]
   },
-  "The Force Protocol": {
-    "name": "The Force Protocol",
-    "short": "FOR",
-    "url": "/currencies/the-force-protocol",
-    "tags": [
-      "Token",
-      "DeFi",
-      "Singapore",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x1fcd...a5a672f"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "The Forms": {
     "name": "The Forms",
     "short": "FRMS",
@@ -109354,88 +109233,22 @@
   },
   "Tixl": {
     "name": "Tixl",
-    "short": "MTXLT",
-    "url": "/currencies/tixl",
-    "tags": [
-      "Token",
-      "DeFi",
-      "Payments",
-      "Privacy",
-      "Medium of Exchange",
-      "Platform",
-      "Binance Contract",
-      "DAG",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "MTXLT-286"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    },
-    "deaths": [
-      "20201216"
-    ]
-  },
-  "Tixl [NEW]": {
-    "name": "Tixl [NEW]",
     "short": "TXL",
     "url": "/currencies/tixl-new",
     "tags": [
       "Token",
-      "Medium of Exchange",
-      "Store of Value",
-      "Decentralized exchange",
-      "DeFi",
-      "Privacy",
-      "Payments",
-      "Interoperability",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x8eEF...dBf4b41"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
-  "Tixl [old]": {
-    "name": "Tixl [old]",
-    "short": "MTXLT",
-    "url": "/currencies/tixl-old",
-    "tags": [
       "DeFi",
       "Payments",
       "Privacy",
       "Medium of Exchange",
       "Platform",
-      "Binance Coin",
-      "DAG",
-      "Germany",
-      "Token",
       "Binance Contract",
-      "Dead"
+      "Ethereum Contract",
+      "DAG"
     ],
-    "sawBirth": "20210112",
-    "git": "https://github.com/tixl",
     "forked_data": [
-      "https://explorer.binance.org/asset/MTXLT-286",
-      "https://explorer.binance.org/asset/MTXLT-286"
-    ],
-    "deaths": [
-      "20210121",
-      "20210122",
-      "20210212",
-      "20210212",
-      "20210213"
+      "https://etherscan.io/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+      "https://www.bscscan.com/token/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5"
     ]
   },
   "ToaCoin": {

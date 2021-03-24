@@ -11423,29 +11423,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-02-10T05:01:05.000Z",
-      "quote": {
-        "USD": {
-          "price": 663.9537407108714,
-          "volume_24h": 77247.80038675,
-          "percent_change_1h": 31.73243777,
-          "percent_change_24h": 9.3724803,
-          "percent_change_7d": 520.48176967,
-          "percent_change_30d": 697.27719393,
-          "market_cap": 33207646.341654234,
-          "last_updated": "2021-02-10T05:01:05.000Z"
-        }
-      }
-    },
-    {
       "id": 4120,
       "name": "Prometeus",
       "symbol": "PROM",
@@ -11671,7 +11648,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],

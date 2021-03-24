@@ -13269,29 +13269,6 @@
       }
     },
     {
-      "id": 4451,
-      "name": "Tixl [old]",
-      "symbol": "MTXLT",
-      "slug": "tixl-old",
-      "tags": [],
-      "max_supply": 899994671,
-      "circulating_supply": 50015,
-      "total_supply": 900000,
-      "last_updated": "2021-02-13T05:01:05.000Z",
-      "quote": {
-        "USD": {
-          "price": 563.8418117077673,
-          "volume_24h": 0,
-          "percent_change_1h": -0.10320275,
-          "percent_change_24h": 8.31781394,
-          "percent_change_7d": 63.19810183,
-          "percent_change_30d": 566.19942885,
-          "market_cap": 28200548.21256398,
-          "last_updated": "2021-02-13T05:01:05.000Z"
-        }
-      }
-    },
-    {
       "id": 2112,
       "name": "Phoenix Global",
       "symbol": "PHB",
@@ -14520,7 +14497,7 @@
     },
     {
       "id": 7024,
-      "name": "Tixl [NEW]",
+      "name": "Tixl",
       "symbol": "TXL",
       "slug": "tixl-new",
       "tags": [],
