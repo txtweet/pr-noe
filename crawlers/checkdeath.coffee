@@ -27,6 +27,8 @@ removedR = ""
 removedN = 0
 neverBornR = ""
 neverBornN = 0
+regularR = ""
+regularN = 0
 deadR = ""
 deadN = 0
 
@@ -67,8 +69,15 @@ _.forEach (_.clone cryptos), (crypto) ->
           found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
           if found?
             viewed++
+            if since?
+              if found.quote.USD.volume_24h != 0
+                unless regularDeath? ## Check if it falls regularly
+                  regularDeath = true
+
             if found.quote.USD.volume_24h == 0
               nbZero++
+              if regularDeath is true
+                regularDeath = false
             else
               unless since?
                 since = nbZero
@@ -108,17 +117,22 @@ _.forEach (_.clone cryptos), (crypto) ->
       # console.log crypto.name, since, nbZero, viewed
       neverBornN++
       neverBornR+="name.keyword:\"#{crypto.name}\" or \n"
+    else if regularDeath? and regularDeath is true
+      # console.log crypto.name, since, nbZero, viewed
+      regularN++
+      regularR+="name.keyword:\"#{crypto.name}\" or \n"
     else
-      console.log crypto.name, since, nbZero, viewed
       deadN++
       deadR+="name.keyword:\"#{crypto.name}\" or \n"
 
-# console.log "-> Cyclic #{cyclicN} <-"
-# console.log cyclicR.substring(0, cyclicR.length - (" or ".length))
-# console.log "-> Removed #{removedN} <-"
-# console.log removedR.substring(0, removedR.length - (" or ".length))
-# console.log "-> NeverBorn #{neverBornN} <-"
-# console.log neverBornR.substring(0, neverBornR.length - (" or ".length))
-# console.log "-> Dead #{deadN} <-"
-# console.log deadR.substring(0, deadR.length - (" or ".length))
-# console.log "Total #{total}/#{all}"
+console.log "-> Cyclic #{cyclicN} <-"
+console.log cyclicR.substring(0, cyclicR.length - (" or ".length))
+console.log "-> Removed #{removedN} <-"
+console.log removedR.substring(0, removedR.length - (" or ".length))
+console.log "-> NeverBorn #{neverBornN} <-"
+console.log neverBornR.substring(0, neverBornR.length - (" or ".length))
+console.log "-> Natural #{regularN} <-"
+console.log regularR.substring(0, regularR.length - (" or ".length))
+console.log "-> Dead #{deadN} <-"
+console.log deadR.substring(0, deadR.length - (" or ".length))
+console.log "Total #{total}/#{all}"
