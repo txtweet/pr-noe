@@ -12,7 +12,7 @@ dates = [20201130, 20201201, 20201203, 20201207, 20201208, 20201209, 20201211,
 20210311, 20210312, 20210313, 20210314, 20210315, 20210316, 20210317, 20210318,
 20210319, 20210320, 20210321, 20210322]
 
-dates = _.reverse dates.sort()
+datesIni = _.reverse dates.sort()
 files = {}
 dates.forEach (date) ->
   files[date] = require("../files/cryptos-#{date}.json").data
@@ -20,116 +20,87 @@ dates.forEach (date) ->
 cryptos=require "../cryptos"
 # current=require("../files/cryptos-20210322.json").data
 # request = ""
-novolObserved = ""
-novolObservedN = 0
-novolDead = ""
-novolDeadN = 0
-dead = ""
-deadN = 0
-cyclic = ""
+
+cyclicR = ""
 cyclicN = 0
-notDead = ""
-notDeadN = 0
+removedR = ""
+removedN = 0
+deadR = ""
+deadN = 0
 
 _.forEach (_.clone cryptos), (crypto) ->
+  dates = _.clone datesIni
   if "Dead" in crypto.tags
-    death = undefined
-    typeCyclic = false
-    founded = false
-    observed = false
-    for date in dates
-      found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
-      if found?
-        founded = true
-        if date is 20210322 and found.quote.USD.volume_24h != 0
-          observed = true
 
-      if not death? and found and found.quote.USD.volume_24h != 0
-        death = date
-      else if death? and found and found.quote.USD.volume_24h == 0
-        typeCyclic = true
-
-    if not founded
-      console.error crypto.name, "NOT FOUND"
-      console.error "ERREUR"
-      process.exit(1)
-      delete cryptos[crypto.name]
+    last = dates.shift()
+    found = _.find files[last], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+    cyclic = false
+    viewed = 0
+    nbZero = 0
+    if found? and found.quote.USD.volume_24h > 0
+      cyclic = true
+      for idx of dates
+        found = _.find files[dates[idx]], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+        if found?
+          viewed++
+          if found.quote.USD.volume_24h == 0
+            nbZero++
     else
-      # if crypto.name is "Hemelios"
-      #   console.log death, observed, typeCyclic
-      #   process.exit(1)
-      unless death
-        if observed
-          # console.error crypto.name, "novol", "observed"
-          novolObservedN++
-          novolObserved+="name.keyword:\"#{crypto.name}\" or \n"
-        else
-          # console.error crypto.name, "novol", "dead"
-          novolDeadN++
-          novolDead+="name.keyword:\"#{crypto.name}\" or \n"
-      else
-        if typeCyclic
-          # console.error crypto.name, death, "cyclique"
-          cyclicN++
-          cyclic+="name.keyword:\"#{crypto.name}\" or \n"
-        else
-          # console.error crypto.name, death
-          if not observed
-            deadN++
-            dead+="name.keyword:\"#{crypto.name}\" or \n"
+      if not found? #Removed Coin
+        removed = true
+        for date in dates
+          found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+          if not found?
+            nbZero++
           else
-            notDeadN++
-            notDead+="name.keyword:\"#{crypto.name}\" or \n"
+            break
 
-#
-#         # console.log "dead",crypto.name, found.quote.USD.price
-#         if found.quote.USD.price < 0.1
-#           request+="name.keyword:\"#{crypto.name}\" or "
-console.log "Not Dead #{notDeadN}"
-console.log notDead.substring(0, notDead.length - (" or ".length))
-console.log "Dead #{deadN}"
-console.log dead.substring(0, dead.length - (" or ".length))
+        # console.log "NOT FOUND", crypto.name
+      else
+        for date in dates
+          found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+          if found?
+            viewed++
+            if found.quote.USD.volume_24h == 0
+              nbZero++
+            else
+              break
+
+        #     if found?
+        #       viewed++
+        #       if found.quote.USD.volume_24h == 0
+      # last = undefined
+      # while dates.length > 0
+      #   prev = dates.shift()
+      #   found = _.find files[prev], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+      #   if found? and found.quote.USD.volume_24h != 0
+      #     last = prev
+      #     break
+      # if last?
+      #   for idx of dates.entries()
+      #     found = _.find files[dates[idx]], {"slug": "#{crypto.url.replace("/currencies/","")}"}
+      #     if found?
+      #       viewed++
+      #       if found.quote.USD.volume_24h == 0
+      #         if last != dates[idx-1]
+      #           cyclic = true
+      #           nbZero++
+      #         last = dates[idx]
+
+    if cyclic
+      cyclicN++
+      cyclicR+="name.keyword:\"#{crypto.name}\" or \n"
+    else if removed
+      # console.log "Removed", crypto.name, " since ", nbZero, " extracts"
+      removedN++
+      removedR+="name.keyword:\"#{crypto.name}\" or \n"
+    else
+      # console.log crypto.name, nbZero, viewed
+      deadN++
+      deadR+="name.keyword:\"#{crypto.name}\" or \n"
 console.log "Cyclic #{cyclicN}"
-console.log cyclic.substring(0, cyclic.length - (" or ".length))
-console.log "NovolDead #{novolDeadN}"
-console.log novolDead.substring(0, novolDead.length - (" or ".length))
-console.log "NovolObserved #{novolObservedN}"
-console.log novolObserved.substring(0, novolObserved.length - (" or ".length))
-
-# console.log JSON.stringify cryptos, null, 2
-process.exit(1)
-# console.log request.substring(0, request.length - (" or ".length))
-    # nbDeaths = 0
-    # unless crypto.deaths? and crypto.url?
-    #   console.log "no deaths", JSON.stringify crypto, null, 2
-    #   process.exit(1)
-    # unless "01011970" in crypto.deaths
-    #   crypto.deaths.forEach (date) ->
-    #     unless files[date]?
-    #       files[date] = require("../files/cryptos-#{date}.json").data
-    #     found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
-    #     unless found
-    #       console.log "no found", date, JSON.stringify crypto, null, 2
-    #       process.exit(1)
-    #     if found.quote.USD.volume_24h != 0
-    #       nbDeaths++
-    #
-    #   if nbDeaths is crypto.deaths.length
-    #     delete crypto.deaths
-    #     crypto.tags = _.without crypto.tags, "Dead"
-
-
-
-request=""
-
-liste.forEach (elem) ->
-  found = _.find (_.values cryptos), {"url": "#{elem}"}
-  # unless found?
-  #   console.log 'error'
-  #   process.exit(1)
-  # if found? and (not found.deaths? or not "20210309" in found.deaths) #and not ("Dead" in found.tags)
-  if found? and "Dead" in found.tags
-    request+="name.keyword:\"#{found.name}\" or "
-
-
-console.log request.substring(0, request.length - (" or ".length))
+console.log cyclicR.substring(0, cyclicR.length - (" or ".length))
+console.log "Removed #{removedN}"
+console.log removedR.substring(0, removedR.length - (" or ".length))
+console.log "Dead #{deadN}"
+console.log deadR.substring(0, deadR.length - (" or ".length))

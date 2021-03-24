@@ -903,31 +903,12 @@
     "tags": [
       "Token",
       "Ftx",
-      "Dead",
       "NoGitHub",
       "Ethereum Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da",
       "https://ethplorer.io/address/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da"
-    ],
-    "deaths": [
-      "20201207",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
     ]
   },
   "3X Long Ethereum Classic Token": {
@@ -968,7 +949,6 @@
     "url": "/currencies/3x-long-huobi-token-token",
     "tags": [
       "Token",
-      "Dead",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract"
@@ -976,25 +956,6 @@
     "forked_data": [
       "https://etherscan.io/token/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79",
       "https://ethplorer.io/address/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79"
-    ],
-    "deaths": [
-      "20201130",
-      "20201203",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
     ]
   },
   "3X Long Matic Token": {
@@ -1244,35 +1205,12 @@
     "tags": [
       "Token",
       "Ftx",
-      "Dead",
       "NoGitHub",
       "Ethereum Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0xF1d32952E2fbB1a91e620b0FD7fBC8a8879A47f3",
       "https://ethplorer.io/address/0xF1d32952E2fbB1a91e620b0FD7fBC8a8879A47f3"
-    ],
-    "deaths": [
-      "20201211",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
     ]
   },
   "3X Short Ethereum Classic Token": {
@@ -1281,7 +1219,6 @@
     "url": "/currencies/3x-short-ethereum-classic-token",
     "tags": [
       "Token",
-      "Dead",
       "Ftx",
       "NoGitHub",
       "Ethereum Contract"
@@ -1289,34 +1226,6 @@
     "forked_data": [
       "https://etherscan.io/token/0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6",
       "https://ethplorer.io/address/0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6"
-    ],
-    "deaths": [
-      "20201130",
-      "20201201",
-      "20201203",
-      "20201207",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20210115",
-      "20210118",
-      "20210205",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309",
-      "20210311"
     ]
   },
   "3X Short Ethereum Token": {
@@ -1969,49 +1878,12 @@
     "short": "7UP",
     "url": "/currencies/7up-finance",
     "tags": [
-      "Dead",
       "Token",
       "Binance Contract"
     ],
-    "deaths": [
-      "20201130",
-      "20201201",
-      "20201203",
-      "20201207",
-      "20201208",
-      "20201209",
-      "20201211",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20201217",
-      "20201218",
-      "20210106",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ],
-    "forked_data": {
-      "block": [
-        "0x29f350b3822f51dc29619c583adbc9628646e315"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x29f350b3822f51dc29619c583adbc9628646e315"
+    ]
   },
   "808TA": {
     "name": "808TA",
@@ -2170,26 +2042,7 @@
     "url": "/currencies/aave-down",
     "tags": [
       "Token",
-      "Binance Contract",
-      "Dead"
-    ],
-    "deaths": [
-      "20210211",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
+      "Binance Contract"
     ]
   },
   "AAVEUP": {
@@ -2388,35 +2241,11 @@
     "short": "ACXT",
     "url": "/currencies/ac-exchange-token",
     "tags": [
-      "Dead",
       "Token",
       "NoGitHub",
       "Ethereum Contract"
     ],
     "sawBirth": "20201213",
-    "deaths": [
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20201217",
-      "20201218",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ],
     "forked_data": [
       "https://etherscan.io/token/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
       "https://ethplorer.io/address/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d"
@@ -2646,48 +2475,13 @@
     "short": "ACS",
     "url": "/currencies/acryptos",
     "tags": [
-      "Dead",
       "Token",
       "Binance Contract"
     ],
     "sawBirth": "20201203",
-    "deaths": [
-      "20201203",
-      "20201207",
-      "20201208",
-      "20201209",
-      "20201211",
-      "20201213",
-      "20201214",
-      "20201215",
-      "20201216",
-      "20201217",
-      "20201218",
-      "20210106",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ],
-    "forked_data": {
-      "block": [
-        "0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    }
+    "forked_data": [
+      "https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
+    ]
   },
   "ADADOWN": {
     "name": "ADADOWN",
@@ -2695,32 +2489,9 @@
     "url": "/currencies/adadown",
     "tags": [
       "Token",
-      "Binance Contract",
-      "Dead"
+      "Binance Contract"
     ],
-    "forked_data": {
-      "forked_from": [
-        "Binance"
-      ]
-    },
-    "deaths": [
-      "20210211",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ]
+    "forked_data": []
   },
   "ADAMANT Messenger": {
     "name": "ADAMANT Messenger",
@@ -2749,32 +2520,9 @@
     "url": "/currencies/adaup",
     "tags": [
       "Token",
-      "Binance Contract",
-      "Dead"
+      "Binance Contract"
     ],
-    "forked_data": {
-      "forked_from": [
-        "Binance"
-      ]
-    },
-    "deaths": [
-      "20210211",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ]
+    "forked_data": []
   },
   "AEN Smart Token": {
     "name": "AEN Smart Token",
@@ -2811,31 +2559,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Ethereum Contract",
-      "Dead"
+      "Ethereum Contract"
     ],
     "sawBirth": "20210114",
     "forked_data": [
       "https://etherscan.io/token/0xb453f1f2EE776dAF2586501361c457dB70e1ca0F"
-    ],
-    "deaths": [
-      "20210119",
-      "20210214",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
     ]
   },
   "AGOV (ANSWER Governance)": {
@@ -2844,29 +2572,10 @@
     "url": "/currencies/agov-answer-governance",
     "tags": [
       "Token",
-      "Dead",
       "Ethereum Contract"
     ],
     "forked_data": [
       "https://etherscan.io/address/0xc1ad269f10bf36d6972ee30827051b59d0d2456b"
-    ],
-    "deaths": [
-      "20210205",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
     ],
     "git": "https://github.com/answerswap/agov"
   },
@@ -3098,18 +2807,12 @@
     "url": "/currencies/all-best-ico",
     "tags": [
       "Token",
-      "Dead",
       "NoGitHub",
       "Ethereum Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed",
       "https://ethplorer.io/address/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed"
-    ],
-    "deaths": [
-      "20201130",
-      "20210224",
-      "20210225"
     ]
   },
   "ALLY": {
@@ -3879,21 +3582,12 @@
     "url": "/currencies/as-roma-fan-token",
     "tags": [
       "Fan token",
-      "Token",
-      "Dead"
+      "Token"
     ],
     "forked_data": {
       "block": [],
       "forked_from": []
-    },
-    "deaths": [
-      "20201207",
-      "20201208",
-      "20201209",
-      "20201211",
-      "20201213",
-      "20201214"
-    ]
+    }
   },
   "ASI finance": {
     "name": "ASI finance",
