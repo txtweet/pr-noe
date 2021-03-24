@@ -1849,20 +1849,16 @@
   },
   "50x.com": {
     "name": "50x.com",
-    "short": "A2A",
+    "short": "50x",
     "url": "/currencies/50x-com",
     "tags": [
       "NoGitHub",
       "Token",
-      "Ethereum Contract",
-      "Dead"
+      "Ethereum Contract"
     ],
     "sawBirth": "20210310",
     "forked_data": [
       "https://etherscan.io/token/0x4049295fb42de67ccf028a2570b05564cb8cb785"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "7Eleven": {
@@ -9297,21 +9293,17 @@
       "https://eospark.com/token/acc/accissuer123"
     ]
   },
-  "Askobar Network": {
-    "name": "Askobar Network",
+  "ASKO": {
+    "name": "ASKO",
     "short": "ASKO",
     "url": "/currencies/askobar-network",
     "tags": [
       "Token",
-      "Dead",
       "Ethereum Contract"
     ],
     "forked_data": [
       "https://etherscan.io/token/0xeEEE2a622330E6d2036691e983DEe87330588603",
       "https://ethplorer.io/address/0xeEEE2a622330E6d2036691e983DEe87330588603"
-    ],
-    "deaths": [
-      "01011970"
     ],
     "git": "https://github.com/joefilmo/askonetwork-contracts"
   },
@@ -36859,11 +36851,7 @@
       "eMarkL",
       "NovacoinL",
       "PeercoinL",
-      "BitcoinL",
-      "Dead"
-    ],
-    "deaths": [
-      "01011970"
+      "BitcoinL"
     ],
     "git": "https://github.com/emarkproject/eMark"
   },
@@ -46083,8 +46071,7 @@
     "url": "/currencies/exnetwork-token",
     "tags": [
       "Token",
-      "Ethereum Contract",
-      "Dead"
+      "Ethereum Contract"
     ],
     "forked_data": {
       "block": [
@@ -46093,25 +46080,7 @@
       "forked_from": [
         "Ethereum"
       ]
-    },
-    "deaths": [
-      "01011970",
-      "20210223",
-      "20210224",
-      "20210225",
-      "20210226",
-      "20210227",
-      "20210228",
-      "20210301",
-      "20210302",
-      "20210303",
-      "20210304",
-      "20210305",
-      "20210306",
-      "20210307",
-      "20210308",
-      "20210309"
-    ]
+    }
   },
   "Excavo Finance": {
     "name": "Excavo Finance",
@@ -71136,30 +71105,6 @@
     ],
     "git": "https://github.com/main-coin"
   },
-  "Mainframe": {
-    "name": "Mainframe",
-    "short": "MFT",
-    "url": "/currencies/mainframe",
-    "tags": [
-      "Token",
-      "Platform",
-      "Content Creation",
-      "Smart Contracts",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0xdf2c...a4b7428"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Mainstream For The Underground": {
     "name": "Mainstream For The Underground",
     "short": "MFTU",
@@ -76930,11 +76875,7 @@
     "url": "/currencies/next-coin",
     "tags": [
       "Coin",
-      "Dead",
       "NoLicenceFile"
-    ],
-    "deaths": [
-      "01011970"
     ],
     "git": "https://github.com/NextExchange"
   },
@@ -121805,19 +121746,18 @@
       "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
     ]
   },
-  "Wink": {
-    "name": "Wink",
-    "short": "WINK",
+  "WINk": {
+    "name": "WINk",
+    "short": "WIN",
     "url": "/currencies/wink",
     "tags": [
-      "Coin",
-      "Dead",
       "Token",
       "Gambling",
-      "NoGitHub"
+      "NoGitHub",
+      "Tron Contract"
     ],
-    "deaths": [
-      "01011970"
+    "forked_data": [
+      "https://tronscan.org/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7"
     ]
   },
   "Wirex Token": {
@@ -122686,16 +122626,12 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Wan Contract",
-      "Dead"
+      "Wan Contract"
     ],
     "sawBirth": "20210304",
     "forked_data": [
       "https://www.wanscan.org/token/0xDABd997Ae5e4799be47D6e69d9431615cbA28F48?page=224",
       "https://info.wanswap.finance/token/0xdabd997ae5e4799be47d6e69d9431615cba28f48"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "Wrapped ZEC": {

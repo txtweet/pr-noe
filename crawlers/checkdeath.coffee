@@ -20,6 +20,16 @@ dates.forEach (date) ->
 cryptos=require "../cryptos"
 # current=require("../files/cryptos-20210322.json").data
 # request = ""
+novolObserved = ""
+novolObservedN = 0
+novolDead = ""
+novolDeadN = 0
+dead = ""
+deadN = 0
+cyclic = ""
+cyclicN = 0
+notDead = ""
+notDeadN = 0
 
 _.forEach (_.clone cryptos), (crypto) ->
   if "Dead" in crypto.tags
@@ -31,7 +41,8 @@ _.forEach (_.clone cryptos), (crypto) ->
       found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
       if found?
         founded = true
-        if date is 20210322 then observed = true
+        if date is 20210322 and found.quote.USD.volume_24h != 0
+          observed = true
 
       if not death? and found and found.quote.USD.volume_24h != 0
         death = date
@@ -44,23 +55,47 @@ _.forEach (_.clone cryptos), (crypto) ->
       process.exit(1)
       delete cryptos[crypto.name]
     else
+      # if crypto.name is "Hemelios"
+      #   console.log death, observed, typeCyclic
+      #   process.exit(1)
       unless death
         if observed
-          console.error crypto.name, "novol", "observed"
+          # console.error crypto.name, "novol", "observed"
+          novolObservedN++
+          novolObserved+="name.keyword:\"#{crypto.name}\" or \n"
         else
-          console.error crypto.name, "novol", "dead"
+          # console.error crypto.name, "novol", "dead"
+          novolDeadN++
+          novolDead+="name.keyword:\"#{crypto.name}\" or \n"
       else
         if typeCyclic
-          console.error crypto.name, death, "cyclique"
+          # console.error crypto.name, death, "cyclique"
+          cyclicN++
+          cyclic+="name.keyword:\"#{crypto.name}\" or \n"
         else
-          console.error crypto.name, death
+          # console.error crypto.name, death
+          if not observed
+            deadN++
+            dead+="name.keyword:\"#{crypto.name}\" or \n"
+          else
+            notDeadN++
+            notDead+="name.keyword:\"#{crypto.name}\" or \n"
 
 #
 #         # console.log "dead",crypto.name, found.quote.USD.price
 #         if found.quote.USD.price < 0.1
 #           request+="name.keyword:\"#{crypto.name}\" or "
-#
-# console.log request.substring(0, request.length - (" or ".length))
+console.log "Not Dead #{notDeadN}"
+console.log notDead.substring(0, notDead.length - (" or ".length))
+console.log "Dead #{deadN}"
+console.log dead.substring(0, dead.length - (" or ".length))
+console.log "Cyclic #{cyclicN}"
+console.log cyclic.substring(0, cyclic.length - (" or ".length))
+console.log "NovolDead #{novolDeadN}"
+console.log novolDead.substring(0, novolDead.length - (" or ".length))
+console.log "NovolObserved #{novolObservedN}"
+console.log novolObserved.substring(0, novolObserved.length - (" or ".length))
+
 # console.log JSON.stringify cryptos, null, 2
 process.exit(1)
 # console.log request.substring(0, request.length - (" or ".length))
