@@ -25,12 +25,19 @@ cyclicR = ""
 cyclicN = 0
 removedR = ""
 removedN = 0
+neverBornR = ""
+neverBornN = 0
 deadR = ""
 deadN = 0
 
+total=0
+all=0
+
 _.forEach (_.clone cryptos), (crypto) ->
   dates = _.clone datesIni
+  all++
   if "Dead" in crypto.tags
+    total++
 
     last = dates.shift()
     found = _.find files[last], {"slug": "#{crypto.url.replace("/currencies/","")}"}
@@ -55,8 +62,7 @@ _.forEach (_.clone cryptos), (crypto) ->
           else
             break
 
-        # console.log "NOT FOUND", crypto.name
-      else
+      else # Deads
         for date in dates
           found = _.find files[date], {"slug": "#{crypto.url.replace("/currencies/","")}"}
           if found?
@@ -64,8 +70,12 @@ _.forEach (_.clone cryptos), (crypto) ->
             if found.quote.USD.volume_24h == 0
               nbZero++
             else
-              break
-
+              unless since?
+                since = nbZero
+            # else
+            #   break
+        unless since?
+          neverBorn = true # La monnaie n'ai jamais eu de transaction
         #     if found?
         #       viewed++
         #       if found.quote.USD.volume_24h == 0
@@ -94,13 +104,21 @@ _.forEach (_.clone cryptos), (crypto) ->
       # console.log "Removed", crypto.name, " since ", nbZero, " extracts"
       removedN++
       removedR+="name.keyword:\"#{crypto.name}\" or \n"
+    else if neverBorn?
+      # console.log crypto.name, since, nbZero, viewed
+      neverBornN++
+      neverBornR+="name.keyword:\"#{crypto.name}\" or \n"
     else
-      # console.log crypto.name, nbZero, viewed
+      console.log crypto.name, since, nbZero, viewed
       deadN++
       deadR+="name.keyword:\"#{crypto.name}\" or \n"
-console.log "Cyclic #{cyclicN}"
-console.log cyclicR.substring(0, cyclicR.length - (" or ".length))
-console.log "Removed #{removedN}"
-console.log removedR.substring(0, removedR.length - (" or ".length))
-console.log "Dead #{deadN}"
-console.log deadR.substring(0, deadR.length - (" or ".length))
+
+# console.log "-> Cyclic #{cyclicN} <-"
+# console.log cyclicR.substring(0, cyclicR.length - (" or ".length))
+# console.log "-> Removed #{removedN} <-"
+# console.log removedR.substring(0, removedR.length - (" or ".length))
+# console.log "-> NeverBorn #{neverBornN} <-"
+# console.log neverBornR.substring(0, neverBornR.length - (" or ".length))
+# console.log "-> Dead #{deadN} <-"
+# console.log deadR.substring(0, deadR.length - (" or ".length))
+# console.log "Total #{total}/#{all}"
