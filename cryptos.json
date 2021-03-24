@@ -111139,22 +111139,6 @@
     ],
     "git": "https://github.com/TrollCoin2/"
   },
-  "Tron": {
-    "name": "Tron",
-    "short": "TRX",
-    "url": "/currencies/tron",
-    "tags": [
-      "Coin",
-      "Media",
-      "Payments",
-      "Dead",
-      "NoLicenceFile"
-    ],
-    "deaths": [
-      "01011970"
-    ],
-    "git": "https://github.com/tronprotocol"
-  },
   "TronEuropeRewardCoin": {
     "name": "TronEuropeRewardCoin",
     "short": "TERC",
@@ -116008,27 +115992,6 @@
       "https://ethplorer.io/address/0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a"
     ]
   },
-  "Value DeFi Protocol": {
-    "name": "Value DeFi Protocol",
-    "short": "VALUE",
-    "url": "/currencies/value-defi-protocol",
-    "tags": [
-      "Token",
-      "Ethereum Contract",
-      "Dead"
-    ],
-    "forked_data": {
-      "block": [
-        "0x49e8...9218e5c"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Value Liquidity": {
     "name": "Value Liquidity",
     "short": "VALUE",
@@ -120313,14 +120276,9 @@
       "AMM",
       "Dex",
       "DEX",
-      "Token",
-      "Dead"
-    ],
+      "Token"    ],
     "sawBirth": "20210304",
-    "git": "https://github.com/wanswap",
-    "deaths": [
-      "01011970"
-    ]
+    "git": "https://github.com/wanswap"
   },
   "Wanchain": {
     "name": "Wanchain",
@@ -133570,15 +133528,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Wan Contract",
-      "Dead"
+      "Wan Contract"
     ],
     "sawBirth": "20210305",
     "forked_data": [
       "https://www.wanscan.org/token/0xD15E200060Fc17ef90546ad93c1C61BfeFDC89C7"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "wanEOS": {
@@ -133588,15 +133542,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Wan Contract",
-      "Dead"
+      "Wan Contract"
     ],
     "sawBirth": "20210305",
     "forked_data": [
       "https://www.wanscan.org/token/0x81862B7622ceD0deFb652aDDD4E0C110205b0040"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "wanETH": {
@@ -133624,15 +133574,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Wan Contract",
-      "Dead"
+      "Wan Contract"
     ],
     "sawBirth": "20210304",
     "forked_data": [
       "https://www.wanscan.org/token/0x06DA85475F9d2Ae79af300dE474968cd5A4FDE61"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "wanSUSHI": {
@@ -133702,15 +133648,11 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Wan Contract",
-      "Dead"
+      "Wan Contract"
     ],
     "sawBirth": "20210305",
     "forked_data": [
       "https://www.wanscan.org/token/0x11E77e27aF5539872EFeD10ABAa0B408CFD9Fbbd"
-    ],
-    "deaths": [
-      "01011970"
     ]
   },
   "wave edu coin": {
