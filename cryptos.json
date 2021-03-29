@@ -14199,8 +14199,11 @@
     "short": "PET",
     "url": "/currencies/battle-pets",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210324",
     "deaths": [
@@ -14210,6 +14213,9 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8"
     ]
   },
   "Baz Token": {
@@ -17929,9 +17935,15 @@
     "short": "BTA",
     "url": "/currencies/bitcoin-asset",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/bitcoinassets",
+    "forked_data": [
+      "https://bscscan.com/token/0xad9787017e82f6368bbe4893b475caada2258564"
+    ]
   },
   "Bitcoin Atom": {
     "name": "Bitcoin Atom",
@@ -20466,9 +20478,15 @@
     "short": "BLZD",
     "url": "/currencies/blizzard-money",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "git": "https://github.com/blzd-dev",
+    "forked_data": [
+      "https://bscscan.com/token/0x57067a6bd75c0e95a6a5f158455926e43e79beb0"
+    ]
   },
   "Blocery": {
     "name": "Blocery",
@@ -22784,9 +22802,15 @@
     "short": "BSPAY",
     "url": "/currencies/brosispay",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://bscscan.com/token/0x6dceaac4e68d1bc5834dc3c8bc012317cd4d1ffa"
+    ]
   },
   "Brother Music Platform": {
     "name": "Brother Music Platform",
@@ -25811,9 +25835,16 @@
     "short": "CATE",
     "url": "/currencies/cash-tech",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://etherscan.io/token/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
+      "https://etherscan.io/token/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c"
+    ]
   },
   "CashBackPro": {
     "name": "CashBackPro",
@@ -27384,10 +27415,17 @@
     "short": "CHOW",
     "url": "/currencies/chow-chow",
     "tags": [
-      "New",
-      "Memes"
+      "Memes",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210325"
+    "sawBirth": "20210325",
+    "forked_data": [
+      "https://etherscan.io/token/0x925f2c11b99c1a4c46606898ee91ed3d450cfeda",
+      "https://ethplorer.io/address/0x925f2c11b99c1a4c46606898ee91ed3d450cfeda"
+    ]
   },
   "Chromia": {
     "name": "Chromia",
@@ -29156,9 +29194,15 @@
     "short": "CO2",
     "url": "/currencies/collective",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://etherscan.io/token/0x75739d5944534115d7c54ee8c73f186d793bae02"
+    ]
   },
   "Colletrix": {
     "name": "Colletrix",
@@ -30444,10 +30488,13 @@
     "short": "CONV",
     "url": "/currencies/convergence",
     "tags": [
-      "New",
-      "Polkastarter"
+      "New2",
+      "Polkastarter",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": []
   },
   "Convertible ACXT": {
     "name": "Convertible ACXT",
