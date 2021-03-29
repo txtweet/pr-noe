@@ -28,6 +28,7 @@ tagsTables =
   'cosmos-ecosystem': 'Cosmos Ecosystem'
   'cybersecurity': 'Cybersecurity'
   'dao': 'Dao'
+  'dao-maker-launchpad': 'Dao Maker Launchpad'
   'dapp': 'DApp'
   'decentralized-exchange': 'Decentralized exchange'
   'defi': 'DeFi'
