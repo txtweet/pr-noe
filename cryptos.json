@@ -100990,7 +100990,7 @@
     "short": "SAFEMARS",
     "url": "/currencies/safemars",
     "tags": [
-      "New",
+      "New2",
       "NoGitHub",
       "Binance Contrat",
       "Token"
@@ -103602,10 +103602,17 @@
     "short": "SHFT",
     "url": "/currencies/shyft-network",
     "tags": [
-      "New",
-      "Identity"
+      "New2",
+      "Identity",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract"
     ],
-    "sawBirth": "20210328"
+    "explorer": "https://www.shyft.network/",
+    "sawBirth": "20210328",
+    "forked_data": [
+      "https://etherscan.io/token/0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c"
+    ]
   },
   "SiaCashCoin": {
     "name": "SiaCashCoin",
@@ -107281,12 +107288,18 @@
     "short": "STKR",
     "url": "/currencies/stakerdao",
     "tags": [
-      "New",
       "DeFi",
       "Staking",
-      "Dao"
+      "Dao",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/StakerDAO",
+    "forked_data": [
+      "https://etherscan.io/token/0x89dcff5fd892f2bfc8b75dba12804b651f769579?a=0xe7bb039f01cbaeb8cb790864d12e408b22980d74"
+    ]
   },
   "Stakinglab": {
     "name": "Stakinglab",
@@ -107636,9 +107649,16 @@
     "short": "STR",
     "url": "/currencies/stater",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": [
+      "https://etherscan.io/token/0x84bb947fcedba6b9c7dcead42df07e113bb03007",
+      "https://ethplorer.io/address/0x84bb947fcedba6b9c7dcead42df07e113bb03007"
+    ]
   },
   "Status": {
     "name": "Status",
@@ -111501,10 +111521,13 @@
     "short": "TARA",
     "url": "/currencies/taraxa",
     "tags": [
-      "New",
-      "Services"
+      "New2",
+      "Services",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": []
   },
   "Tardigrades Finance": {
     "name": "Tardigrades Finance",
@@ -113415,9 +113438,15 @@
     "short": "TNDR",
     "url": "/currencies/thunderswap",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/thunder-swap-finance",
+    "forked_data": [
+      "https://bscscan.com/token/0x7cc46141ab1057b1928de5ad5ee78bb37efc4868"
+    ]
   },
   "Ti-Value": {
     "name": "Ti-Value",
@@ -113434,9 +113463,15 @@
     "short": "TIDAL",
     "url": "/currencies/tidal-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://etherscan.io/token/0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7"
+    ]
   },
   "Tide Protocol": {
     "name": "Tide Protocol",
@@ -117142,11 +117177,18 @@
     "short": "USDB",
     "url": "/currencies/usd-bancor",
     "tags": [
-      "New",
       "Decentralized exchange",
-      "Stablecoin"
+      "Stablecoin",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/zachdoty/peg-usdb",
+    "forked_data": [
+      "https://etherscan.io/token/0x309627af60f0926daa6041b8279484312f2bf060",
+      "https://ethplorer.io/address/0x309627af60f0926daa6041b8279484312f2bf060"
+    ]
   },
   "USD Coin": {
     "name": "USD Coin",
@@ -119843,9 +119885,11 @@
     "short": "VAULT",
     "url": "/currencies/vault",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210329"
+    "sawBirth": "20210329",
+    "git": "https://github.com/vault-investments/VAULT-Core"
   },
   "VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM": {
     "name": "VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM",
@@ -120918,9 +120962,15 @@
     "short": "VANCAT",
     "url": "/currencies/vancat",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://bscscan.com/token/0x8597ba143ac509189e89aab3ba28d661a5dd9830"
+    ]
   },
   "Vanilla Network": {
     "name": "Vanilla Network",
@@ -124635,9 +124685,11 @@
     "short": "WAYF",
     "url": "/currencies/way-f-coin",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/wayfcoin/source"
   },
   "WEBN token": {
     "name": "WEBN token",
@@ -124815,9 +124867,15 @@
     "short": "WHX",
     "url": "/currencies/whitex",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Tron Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://tronscan.org/#/token20/TD2dhNc3fm4EaktzfybjsGKTVWhomsEVdJ"
+    ]
   },
   "WINk": {
     "name": "WINk",
@@ -125451,8 +125509,11 @@
     "short": "WAR",
     "url": "/currencies/warrior-token-spartan-casino",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210323",
     "deaths": [
@@ -125463,6 +125524,9 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x42dbd44a8883d4363b395f77547812dc7db806d5"
     ]
   },
   "Water Finance": {
@@ -126848,9 +126912,15 @@
     "short": "WOOP",
     "url": "/currencies/woonkly-power",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/Woonkly",
+    "forked_data": [
+      "https://bscscan.com/token/0x8b303d5bbfbbf46f1a4d9741e491e06986894e18"
+    ]
   },
   "Wootrade": {
     "name": "Wootrade",
@@ -127286,9 +127356,12 @@
     "short": "WMATIC",
     "url": "/currencies/wmatic",
     "tags": [
-      "New",
       "Wrapped Tokens",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210324",
     "deaths": [
@@ -127298,6 +127371,9 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/token-transfers"
     ]
   },
   "Wrapped Monero": {
@@ -128888,12 +128964,19 @@
     "short": "XEND",
     "url": "/currencies/xend-finance",
     "tags": [
-      "New",
       "DeFi",
       "Smart Contracts",
-      "Binance Labs Portfolio"
+      "Binance Labs Portfolio",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/xendfinance/xendtoken",
+    "forked_data": [
+      "https://etherscan.io/token/0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
+      "https://ethplorer.io/address/0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903"
+    ]
   },
   "XeniosCoin": {
     "name": "XeniosCoin",
