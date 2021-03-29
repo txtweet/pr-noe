@@ -51,6 +51,7 @@ tagsTables =
   'groestl': 'Groestl'
   'heco': 'Heco'
   'hybrid-pow-pos': 'Hybrid - PoW & PoS'
+  'identity': 'Identity'
   'insurance': 'Insurance'
   'launchpad':  'Launchpad'
   'logistics': 'Logistics'
