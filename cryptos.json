@@ -2118,9 +2118,16 @@
     "short": "ATD",
     "url": "/currencies/a2dao",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/A2DAO",
+    "forked_data": [
+      "https://etherscan.io/token/0x8052327F1BAF94A9DC8B26b9100f211eE3774f54",
+      "https://ethplorer.io/address/0x8052327F1BAF94A9DC8B26b9100f211eE3774f54"
+    ]
   },
   "AAVEDOWN": {
     "name": "AAVEDOWN",
@@ -2447,10 +2454,17 @@
     "short": "ACXT",
     "url": "/currencies/acdx-exchange-token",
     "tags": [
-      "New",
-      "Centralized exchange"
+      "Centralized exchange",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "forked_data": [
+      "https://etherscan.io/token/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
+      "https://ethplorer.io/address/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d"
+    ]
   },
   "ACE": {
     "name": "ACE",
@@ -6275,10 +6289,19 @@
     "short": "AIRX",
     "url": "/currencies/aircoins",
     "tags": [
-      "New",
-      "Gaming"
+      "Gaming",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://etherscan.io/token/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
+      "https://ethplorer.io/address/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
+      "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93"
+    ]
   },
   "Aitheon": {
     "name": "Aitheon",
@@ -10138,9 +10161,15 @@
     "short": "AUR",
     "url": "/currencies/aurix",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": [
+      "https://etherscan.io/token/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790"
+    ]
   },
   "Aurora": {
     "name": "Aurora",
