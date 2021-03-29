@@ -79250,10 +79250,10 @@
     "short": "MVT",
     "url": "/currencies/movement-dao",
     "tags": [
-      "New",
       "Dead",
       "Token",
-      "Ethereum Contract"
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210323",
     "deaths": [
@@ -79261,7 +79261,9 @@
     ],
     "git": "https://github.com/MovementDAO/MVT",
     "forked_data": [
-      "https://etherscan.io/token/0x3d46454212c61ecb7b31248047fa033120b88668"
+      "https://etherscan.io/token/0x3d46454212c61ecb7b31248047fa033120b88668",
+      "https://explorer.bitquery.io/ethereum/token/0x3d46454212c61ecb7b31248047fa033120b88668",
+      "https://ethplorer.io/address/0x3d46454212c61ecb7b31248047fa033120b88668"
     ]
   },
   "MovieBloc": {
@@ -79375,9 +79377,16 @@
     "short": "MPS",
     "url": "/currencies/mt-pelerin",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/MtPelerin",
+    "forked_data": [
+      "https://etherscan.io/token/0x96c645d3d3706f793ef52c19bbace441900ed47d",
+      "https://ethplorer.io/address/0x96c645d3d3706f793ef52c19bbace441900ed47d"
+    ]
   },
   "Multi Channel Influencer Creater Cloud Funding Platform": {
     "name": "Multi Channel Influencer Creater Cloud Funding Platform",
@@ -80090,9 +80099,15 @@
     "short": "WAR",
     "url": "/currencies/nft-wars",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://etherscan.io/token/0x4d75D9e37667a2d4677Ec3d74bDD9049326Ad8d6"
+    ]
   },
   "NFTL Token": {
     "name": "NFTL Token",
@@ -82699,9 +82714,15 @@
     "short": "NBU",
     "url": "/currencies/nimbus",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210325"
+    "sawBirth": "20210325",
+    "git": "https://github.com/nimbusplatformorg/",
+    "forked_data": [
+      "https://etherscan.io/address/0xEB58343b36C7528F23CAAe63a150240241310049"
+    ]
   },
   "Nimiq": {
     "name": "Nimiq",
@@ -83331,9 +83352,15 @@
     "short": "NCAT",
     "url": "/currencies/nyan-cat-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://bscscan.com/token/0x0cf011a946f23a03ceff92a4632d5f9288c6c70d"
+    ]
   },
   "Nyan Finance": {
     "name": "Nyan Finance",
@@ -84233,9 +84260,22 @@
     "short": "ORE",
     "url": "/currencies/oreo",
     "tags": [
-      "New"
+      "Binance Coin",
+      "Marketplace",
+      "Marketing",
+      "Asset management",
+      "Medium of Exchange",
+      "Platform",
+      "Hardware",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/OREODEFI",
+    "forked_data": [
+      "https://bscscan.com/token/0x93d5a19a993d195cfc75acdd736a994428290a59"
+    ]
   },
   "ORO": {
     "name": "ORO",
@@ -87162,9 +87202,16 @@
     "short": "PIGX",
     "url": "/currencies/pigx",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://etherscan.io/token/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
+      "https://ethplorer.io/address/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f"
+    ]
   },
   "PIRANHAS": {
     "name": "PIRANHAS",
@@ -89731,10 +89778,17 @@
     "short": "PPDEX",
     "url": "/currencies/pepedex",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/pepem00n",
+    "forked_data": [
+      "https://etherscan.io/token/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+      "https://ethplorer.io/address/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7"
+    ]
   },
   "Pepemon Pepeballs": {
     "name": "Pepemon Pepeballs",
@@ -91555,9 +91609,15 @@
     "short": "PBOM",
     "url": "/currencies/pocket-bomb",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://bscscan.com/token/0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c"
+    ]
   },
   "PocketNode": {
     "name": "PocketNode",
@@ -91710,12 +91770,19 @@
     "short": "POLC",
     "url": "/currencies/polkacity",
     "tags": [
-      "New",
       "Collectibles & NFTs",
       "Entertainment",
-      "Polkadot"
+      "Polkadot",
+      "DeFi",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "git": "https://github.com/POLKACITY/",
+    "forked_data": [
+      "https://etherscan.io/address/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37"
+    ]
   },
   "Polkacover": {
     "name": "Polkacover",
@@ -100923,9 +100990,12 @@
     "short": "SAFEMARS",
     "url": "/currencies/safemars",
     "tags": [
-      "New"
+      "New",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "forked_data": []
   },
   "Safex Cash": {
     "name": "Safex Cash",
