@@ -67,6 +67,7 @@ tagsTables =
   'payments': 'Payments'
   'platform': 'Platform'
   'polkadot': 'Polkadot'
+  'polkastarter': 'Polkastarter'
   'polkadot-ecosystem': 'Polkadot Ecosystem'
   'pos': 'PoS'
   'pow': 'PoW'
