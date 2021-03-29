@@ -5,7 +5,8 @@
       "https://bscscan.com/address",
       "https://bscscan.com/token",
       "https://www.bscscan.com/token",
-      "https://www.bscscan.com/address"
+      "https://www.bscscan.com/address",
+      "https://pancakeswap.info/token"
     ],
     "contract": "Binance Contract"
   },
@@ -38,6 +39,7 @@
   {
     "urls": [
       "https://rinkeby.etherscan.io/token",
+      "https://explorer-mainnet.maticvigil.com/tokens",
       "https://blockchain.coinmarketcap.com/address/ethereum",
       "https://blockscout.com/etc/mainnet/address",
       "https://enjinx.io/eth/token",

@@ -35339,9 +35339,15 @@
     "short": "DAFT",
     "url": "/currencies/daftcoin",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "git": "https://github.com/daftcoin",
+    "forked_data": [
+      "https://bscscan.com/token/0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772"
+    ]
   },
   "Dai": {
     "name": "Dai",
@@ -35375,9 +35381,15 @@
     "short": "DAILY",
     "url": "/currencies/daily",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": [
+      "https://bscscan.com/token/0xb20b17d86f868b9c2a1e6201ba881d68c1325de4"
+    ]
   },
   "DailySwap Token": {
     "name": "DailySwap Token",
@@ -37297,9 +37309,12 @@
     "short": "DC",
     "url": "/currencies/deep-coin",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": []
   },
   "DeepOnion": {
     "name": "DeepOnion",
@@ -40144,9 +40159,15 @@
     "short": "USDF",
     "url": "/currencies/dollar-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/Dollar-Protocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x05462671c05adc39a6521fa60d5e9443e9e9d2b9"
+    ]
   },
   "Dollarcoin": {
     "name": "Dollarcoin",
@@ -40465,9 +40486,15 @@
     "short": "DORA",
     "url": "/currencies/dora-factory",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": [
+      "https://etherscan.io/token/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d"
+    ]
   },
   "DotBased": {
     "name": "DotBased",
@@ -43062,9 +43089,15 @@
     "short": "ETNA",
     "url": "/currencies/etna-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://bscscan.com/token/0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46"
+    ]
   },
   "EUNO": {
     "name": "EUNO",
@@ -44486,9 +44519,16 @@
     "short": "EPS",
     "url": "/currencies/ellipsis",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Decentralized",
+      "Dex"
     ],
-    "sawBirth": "20210325"
+    "sawBirth": "20210325",
+    "git": "https://github.com/ellipsis-finance",
+    "forked_data": [
+      "https://bscscan.com/token/0xa7f552078dcc247c2684336020c03648500c6d9f"
+    ]
   },
   "Elrond": {
     "name": "Elrond",
@@ -46345,9 +46385,15 @@
     "short": "EBOX",
     "url": "/currencies/ethbox",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "git": "https://github.com/ethbox-official/",
+    "forked_data": [
+      "https://etherscan.io/token/0x33840024177a7daca3468912363bed8b425015c5"
+    ]
   },
   "Ether Kingdoms Token": {
     "name": "Ether Kingdoms Token",
@@ -48595,10 +48641,16 @@
     "short": "FMG",
     "url": "/currencies/fm-gallery",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210324"
+    "sawBirth": "20210324",
+    "forked_data": [
+      "https://etherscan.io/token/0x2991341D28Eaea277785D20e1d878D478c7bA4C7"
+    ]
   },
   "FME": {
     "name": "FME",
@@ -49544,9 +49596,15 @@
     "short": "SPACE",
     "url": "/currencies/farm-space",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/farmspace",
+    "forked_data": [
+      "https://bscscan.com/token/0x0abd3e3502c15ec252f90f64341cba74a24fba06"
+    ]
   },
   "FarmaTrust": {
     "name": "FarmaTrust",
@@ -51966,9 +52024,15 @@
     "short": "TAO",
     "url": "/currencies/friction-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "git": "https://github.com/frictionfinance",
+    "forked_data": [
+      "https://bscscan.com/token/0xf0443834b7b21104b7102edbe8f9ec06204cd395"
+    ]
   },
   "Fridn": {
     "name": "Fridn",
@@ -52459,9 +52523,16 @@
     "short": "FST",
     "url": "/currencies/futureswap",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://etherscan.io/token/0x0e192d382a36de7011f795acc4391cd302003606",
+      "https://ethplorer.io/address/0x0e192d382a36de7011f795acc4391cd302003606"
+    ]
   },
   "FuturoCoin": {
     "name": "FuturoCoin",
@@ -56956,9 +57027,15 @@
     "short": "HOGL",
     "url": "/currencies/hogl-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://bscscan.com/token/0x182c763a4b2fbd18c9b5f2d18102a0ddd9d5df26"
+    ]
   },
   "HOLD": {
     "name": "HOLD",
@@ -57228,9 +57305,15 @@
     "short": "HBT",
     "url": "/currencies/habitat",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/0xHabitat",
+    "forked_data": [
+      "https://etherscan.io/token/0x0ace32f6e87ac1457a5385f8eb0208f37263b415"
+    ]
   },
   "Hacken Token": {
     "name": "Hacken Token",
@@ -59904,9 +59987,15 @@
     "short": "HUE",
     "url": "/currencies/hue",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "forked_data": [
+      "https://etherscan.io/token/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5"
+    ]
   },
   "Humaniq": {
     "name": "Humaniq",
@@ -60863,9 +60952,15 @@
     "short": "IFT",
     "url": "/currencies/iftoken",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/ifwallet",
+    "forked_data": [
+      "https://etherscan.io/token/0x2731d151cbdf84a8a4c6d9d0bae74012db51e428"
+    ]
   },
   "IFX24": {
     "name": "IFX24",
@@ -62093,9 +62188,15 @@
     "short": "VEN",
     "url": "/currencies/impulseven",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210325"
+    "sawBirth": "20210325",
+    "forked_data": [
+      "https://etherscan.io/token/0xe14e06671702f0db50055388c29adc66821d933b"
+    ]
   },
   "Imsmart": {
     "name": "Imsmart",
@@ -66296,9 +66397,15 @@
     "short": "KPAD",
     "url": "/currencies/kickpad",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210328"
+    "sawBirth": "20210328",
+    "forked_data": [
+      "https://pancakeswap.info/token/0xcfefa64b0ddd611b125157c41cd3827f2e8e8615"
+    ]
   },
   "KickToken": {
     "name": "KickToken",
@@ -68571,9 +68678,15 @@
     "short": "LAS",
     "url": "/currencies/lnasolution-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "forked_data": [
+      "https://etherscan.io/token/0xf8fa5874e68dbdfa74be1bc014eb473c5a37b78f"
+    ]
   },
   "LNX Protocol": {
     "name": "LNX Protocol",
@@ -73441,9 +73554,15 @@
     "short": "MYFI",
     "url": "/currencies/myfinance",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210326"
+    "sawBirth": "20210326",
+    "git": "https://github.com/myfinancemyfi",
+    "forked_data": [
+      "https://etherscan.io/token/0x22FE5BcAdA4E30A7310eFB1DfF7f90168dC42b62"
+    ]
   },
   "MYX Network": {
     "name": "MYX Network",
@@ -73744,9 +73863,15 @@
     "short": "MAGI",
     "url": "/currencies/magikarp-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "forked_data": [
+      "https://bscscan.com/token/0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c"
+    ]
   },
   "MahaDAO": {
     "name": "MahaDAO",
@@ -74626,8 +74751,10 @@
     "short": "MAAAVE",
     "url": "/currencies/matic-aave-aave",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210325",
     "deaths": [
@@ -74635,6 +74762,10 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "git": "https://github.com/aavegotchi",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF/token-transfers"
     ]
   },
   "Matic Aave Interest Bearing LINK": {
@@ -74642,8 +74773,10 @@
     "short": "MALINK",
     "url": "/currencies/matic-aave-link",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210325",
     "deaths": [
@@ -74651,6 +74784,10 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "git": "https://github.com/aavegotchi",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x98ea609569bD25119707451eF982b90E3eb719cD/token-transfers"
     ]
   },
   "Matic Aave Interest Bearing USDC": {
@@ -74658,9 +74795,11 @@
     "short": "MAUSDC",
     "url": "/currencies/matic-aave-usdc",
     "tags": [
-      "New",
       "Wrapped Tokens",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210325",
     "deaths": [
@@ -74668,6 +74807,10 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "git": "https://github.com/aavegotchi",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x9719d867A500Ef117cC201206B8ab51e794d3F82/"
     ]
   },
   "Matic Aave Interest Bearing USDT": {
@@ -74675,8 +74818,10 @@
     "short": "MAUSDT",
     "url": "/currencies/matic-aave-usdt",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210325",
     "deaths": [
@@ -74684,6 +74829,10 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "git": "https://github.com/aavegotchi",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0xDAE5F1590db13E3B40423B5b5c5fbf175515910b/token-transfers"
     ]
   },
   "Matic Aave Interest Bearing YFI": {
@@ -74691,9 +74840,10 @@
     "short": "MAYFI",
     "url": "/currencies/matic-aave-yfi",
     "tags": [
-      "New",
+      "New2",
       "Wrapped Tokens",
-      "Dead"
+      "Dead",
+      "Token"
     ],
     "sawBirth": "20210325",
     "deaths": [
@@ -74701,6 +74851,10 @@
       "20210326",
       "20210328",
       "20210329"
+    ],
+    "git": "https://github.com/aavegotchi",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613"
     ]
   },
   "Matic Network": {
@@ -76963,11 +77117,21 @@
     "short": "mFB",
     "url": "/currencies/mirrored-facebook",
     "tags": [
-      "New",
       "Tokenized Stock",
-      "Mirror"
+      "Mirror",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "Terra Contract",
+      "New2"
     ],
-    "sawBirth": "20210323"
+    "sawBirth": "20210323",
+    "git": "https://github.com/mirror-protocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+      "https://bscscan.com/token/0x5501F4713020cf299C3C5929da549Aab3592E451",
+      "https://finder.terra.money/columbus-4/address/terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7"
+    ]
   },
   "Mirrored Google": {
     "name": "Mirrored Google",
@@ -79087,11 +79251,17 @@
     "url": "/currencies/movement-dao",
     "tags": [
       "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract"
     ],
     "sawBirth": "20210323",
     "deaths": [
       "20210325"
+    ],
+    "git": "https://github.com/MovementDAO/MVT",
+    "forked_data": [
+      "https://etherscan.io/token/0x3d46454212c61ecb7b31248047fa033120b88668"
     ]
   },
   "MovieBloc": {
