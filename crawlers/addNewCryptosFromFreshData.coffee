@@ -18,6 +18,7 @@ tagsTables =
   'asset-management': 'Asset management'
   'bittrex': 'Bittrex'
   'binance': 'Binance'
+  'binance-labs-portfolio': 'Binance Labs Portfolio'
   'binance-smart-chain': 'Binance Smart Chain'
   'centralized-exchange': 'Centralized exchange'
   'coinbase-ventures-portfolio': 'Coinbase Ventures Portfolio'
