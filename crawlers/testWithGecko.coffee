@@ -10,7 +10,7 @@ DELAY = 1200
 error = (message...) ->
   console.error "ERROR : ", message
 
-idExceptions = ['3x-long-sushi-token']
+idExceptions = ['3x-long-sushi-token', '3x-short-sushi-token']
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
   console.log "test #{crypto.name}"
@@ -23,19 +23,22 @@ Promise.each (_.values(cryptos)), (crypto) ->
       crypto.checkedWithGecko.found = true
       Promise.delay(DELAY)
       .then () ->
-        # console.log JSON.stringify res, null, 2
-        if res.asset_platform_id?
-          if res.asset_platform_id is "ethereum" and (not res.id in idExceptions)
-            unless "Ethereum Contract" in crypto.tags
-              console.log (JSON.stringify crypto,null, 2), res
-              Promise.reject("Erreur sur #{crypto}")
+        unless res.id in idExceptions
+          # console.log JSON.stringify res, null, 2
+          if res.asset_platform_id?
+            contract = _.find contracts, {"gecko": res.asset_platform_id}
+            if contract?
+              unless contract.contract in crypto.tags
+                console.log JSON.stringify contract, null, 2
+                console.log (JSON.stringify crypto,null, 2), res
+                process.exit(1)
+              else
+                console.log crypto.name, "ok"
             else
-              console.log crypto.name, "ok"
-          else
-            console.log (JSON.stringify crypto,null, 2), res
-            Promise.reject("non euthereum Erreur sur #{crypto}")
+              console.log "Other -->", (JSON.stringify crypto,null, 2), res
+              process.exit(1)
 
-        fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
+          fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
     .catch (err) ->
       crypto.checkedWithGecko.found = false
       fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
@@ -43,6 +46,7 @@ Promise.each (_.values(cryptos)), (crypto) ->
         Promise.delay(DELAY)
       .then () ->
         error("Crypto non trouvée : #{crypto.name}", err.statusCode)
+
 
 # process.exit(1)
 # crypto = _.find cryptos, (crypto) -> "New" in crypto.tags

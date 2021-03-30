@@ -57,7 +57,8 @@
       "https://blockchair.com/ethereum/erc-20/token",
       "https://explorer.bitquery.io/ethereum/token"
     ],
-    "contract": "Ethereum Contract"
+    "contract": "Ethereum Contract",
+    "gecko_asset_platform_id": "ethereum"
   },
   {
     "urls": [
@@ -153,7 +154,8 @@
       "https://trxplorer.io/token",
       "https://www.trxplorer.io/token"
     ],
-    "contract": "Tron Contract"
+    "contract": "Tron Contract",
+    "gecko_asset_platform_id": "tron"
   },
   {
     "urls": [
