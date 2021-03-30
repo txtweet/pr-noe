@@ -119886,7 +119886,11 @@
     "url": "/currencies/vault",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "PIVXL",
+      "VAULTL"
     ],
     "sawBirth": "20210329",
     "git": "https://github.com/vault-investments/VAULT-Core"
@@ -124686,7 +124690,11 @@
     "url": "/currencies/way-f-coin",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "WayfcoinL",
+      "NovaCoinL",
+      "PeercoinL",
+      "BitcoinL"
     ],
     "sawBirth": "20210326",
     "git": "https://github.com/wayfcoin/source"
