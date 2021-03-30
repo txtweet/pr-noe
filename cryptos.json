@@ -8709,11 +8709,13 @@
     "url": "/currencies/anchor-protocol",
     "tags": [
       "Token",
+      "Ethereum Contract",
       "Terra Contract"
     ],
     "sawBirth": "20210318",
     "git": "https://github.com/Anchor-Protocol",
     "forked_data": [
+      "https://etherscan.io/token/0x0f3adc247e91c3c50bc08721355a41037e89bc20",
       "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
     ]
   },
