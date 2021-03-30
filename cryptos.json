@@ -3606,11 +3606,10 @@
       "Token",
       "Dead",
       "NoGitHub",
-      "Ethereum Contract"
+      "Binance Contract"
     ],
     "forked_data": [
-      "https://etherscan.io/token/0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
-      "https://ethplorer.io/address/0x209c1808febf6c1ab7c65764bb61ad67d3923fcc"
+      "https://bscscan.com/token/0xa9ea4b786ee5b7a733c035564bfd9341a4c9fc1e"
     ],
     "deaths": [
       "20210127",
@@ -3635,7 +3634,10 @@
       "20210317",
       "20210318",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "API3": {
     "name": "API3",
@@ -3650,7 +3652,10 @@
       "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
       "https://ethplorer.io/address/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
     ],
-    "git": "https://github.com/api3dao"
+    "git": "https://github.com/api3dao",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APIX": {
     "name": "APIX",
@@ -3665,7 +3670,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
       "https://ethplorer.io/address/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APOyield": {
     "name": "APOyield",
@@ -3679,7 +3687,10 @@
     "git": "https://github.com/APOyield",
     "forked_data": [
       "https://bscscan.com/token/0x67d012f731c23f0313cea1186d0121779c77fcfe"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APR Coin": {
     "name": "APR Coin",
@@ -3701,7 +3712,10 @@
       "20210304",
       "20210308",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APY Vision": {
     "name": "APY Vision",
@@ -3717,7 +3731,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf406f7a9046793267bc276908778b29563323996",
       "https://ethplorer.io/address/0xf406f7a9046793267bc276908778b29563323996"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APY.Finance": {
     "name": "APY.Finance",
@@ -3734,7 +3751,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
       "https://ethplorer.io/address/0x95a4492F028aa1fd432Ea71146b433E7B4446611"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APYSwap": {
     "name": "APYSwap",
@@ -3750,7 +3770,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615",
       "https://ethplorer.io/address/0xf7413489c474ca4399eee604716c72879eea3615"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARAW": {
     "name": "ARAW",
@@ -3827,7 +3850,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/arawtoken"
+    "git": "https://github.com/arawtoken",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ARCS": {
     "name": "ARCS",
@@ -3841,7 +3867,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
       "https://ethplorer.io/address/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARK Innovation ETF tokenized stock FTX": {
     "name": "ARK Innovation ETF tokenized stock FTX",
@@ -3856,7 +3885,10 @@
     "sawBirth": "20201208",
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ARMOR": {
     "name": "ARMOR",
@@ -3873,7 +3905,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x1337def16f9b486faed0293eb623dc8395dfe46a",
       "https://ethplorer.io/address/0x1337def16f9b486faed0293eb623dc8395dfe46a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARMTOKEN": {
     "name": "ARMTOKEN",
@@ -3954,7 +3989,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/ArmToken"
+    "git": "https://github.com/ArmToken",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARPA Chain": {
     "name": "ARPA Chain",
@@ -3968,7 +4006,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a",
       "https://ethplorer.io/address/0xba50933c268f567bdc86e1ac131be072c6b0b71a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARTH": {
     "name": "ARTH",
@@ -3983,7 +4024,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9",
       "https://ethplorer.io/address/0x0e3cc2c4fb9252d17d07c67135e48536071735d9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ARVO": {
     "name": "ARVO",
@@ -4063,7 +4107,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ARbit": {
     "name": "ARbit",
@@ -4139,14 +4186,17 @@
       "20210324",
       "20210326"
     ],
-    "git": "https://github.com/ARbitcoin/ARbit"
+    "git": "https://github.com/ARbitcoin/ARbit",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AS Roma Fan Token": {
     "name": "AS Roma Fan Token",
     "short": "ASR",
     "url": "/currencies/as-roma-fan-token",
     "tags": [
-      "Fan token",
+      "Chiliz Contract",
       "Token"
     ],
     "forked_data": {
@@ -7223,6 +7273,7 @@
     "url": "/currencies/alliance-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Dead",
       "NoGitHub",
       "Coin"
@@ -10233,6 +10284,7 @@
     "url": "/currencies/atletico-de-madrid-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -48592,6 +48644,7 @@
     "url": "/currencies/fc-barcelona-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -53898,6 +53951,7 @@
     "url": "/currencies/galatasaray-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -65510,6 +65564,7 @@
     "url": "/currencies/juventus-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -81624,6 +81679,7 @@
     "url": "/currencies/natus-vincere-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Coin",
       "NoGitHub",
       "Dead"
@@ -83490,10 +83546,10 @@
     "tags": [
       "Sports",
       "Fan token",
+      "Chiliz Contract",
       "Dead",
       "NoGitHub",
-      "Token",
-      "Chiliz Contract"
+      "Token"
     ],
     "sawBirth": "20210319",
     "deaths": [
@@ -84290,6 +84346,7 @@
     "url": "/currencies/og-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -88730,6 +88787,7 @@
     "url": "/currencies/paris-saint-germain-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -112257,6 +112315,7 @@
     "tags": [
       "Token",
       "Fan token",
+      "Chiliz Contract",
       "Dead"
     ],
     "deaths": [
@@ -115152,6 +115211,7 @@
     "url": "/currencies/trabzonspor-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Token",
       "Dead"
     ],
@@ -133420,6 +133480,7 @@
     "url": "/currencies/young-boys-fan-token",
     "tags": [
       "Fan token",
+      "Chiliz Contract",
       "Coin",
       "NoGitHub",
       "Dead"
