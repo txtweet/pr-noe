@@ -7793,13 +7793,16 @@
     "url": "/currencies/alpha-quark-token",
     "tags": [
       "Token",
-      "Ethereum Contract"
+      "Ethereum Contract",
       "NoLicenceFile"
     ],
     "forked_data": [
       "https://etherscan.io/token/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93"
     ],
-    "git": "https://github.com/alphaquark/Alpha-Quark"
+    "git": "https://github.com/alphaquark/Alpha-Quark",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alpha Token": {
     "name": "Alpha Token",
@@ -7879,7 +7882,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/crypt04dvisor/AlphaWallet"
+    "git": "https://github.com/crypt04dvisor/AlphaWallet",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alpha5": {
     "name": "Alpha5",
@@ -7931,7 +7937,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AlphaLink": {
     "name": "AlphaLink",
@@ -7971,7 +7980,10 @@
       "20210319",
       "20210320",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alphacat": {
     "name": "Alphacat",
@@ -7984,7 +7996,10 @@
     ],
     "forked_data": [
       "https://neotracker.io/asset/7f86d61ff377f1b12e589a5907152b57e2ad9a7a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alt.Estate token": {
     "name": "Alt.Estate token",
@@ -8080,7 +8095,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AltEstate/altestate"
+    "git": "https://github.com/AltEstate/altestate",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Altbet": {
     "name": "Altbet",
@@ -8109,7 +8127,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aludra Network": {
     "name": "Aludra Network",
@@ -8172,7 +8193,10 @@
       "20210316",
       "20210317",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aluna.Social": {
     "name": "Aluna.Social",
@@ -8187,7 +8211,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8185bc4757572da2a610f887561c32298f1a5748",
       "https://ethplorer.io/address/0x8185bc4757572da2a610f887561c32298f1a5748"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Amazon tokenized stock Bittrex": {
     "name": "Amazon tokenized stock Bittrex",
@@ -8202,7 +8229,10 @@
     "sawBirth": "20201209",
     "deaths": [
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Amazon tokenized stock FTX": {
     "name": "Amazon tokenized stock FTX",
@@ -8213,7 +8243,10 @@
       "Ftx",
       "Token"
     ],
-    "sawBirth": "20201208"
+    "sawBirth": "20201208",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AmazonasCoin": {
     "name": "AmazonasCoin",
@@ -8224,20 +8257,30 @@
       "NoLicenceFile"
     ],
     "sawBirth": "20210114",
-    "git": "https://github.com/AmzDevelopmentTeam/amazonascoin"
+    "git": "https://github.com/AmzDevelopmentTeam/amazonascoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ambrosus": {
     "name": "Ambrosus",
     "short": "AMB",
     "url": "/currencies/amber",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "Logistics",
       "AI & Big Data",
       "Enterprise solutions",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ambrosus"
+    "forked_data": [
+      "https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce"
+    ],
+    "git": "https://github.com/ambrosus",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AmericanHorror.Finance": {
     "name": "AmericanHorror.Finance",
@@ -8312,7 +8355,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Amino Network": {
     "name": "Amino Network",
@@ -8334,7 +8380,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Amon": {
     "name": "Amon",
@@ -8347,7 +8396,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c"
     ],
-    "git": "https://github.com/amontech"
+    "git": "https://github.com/amontech",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AmonD": {
     "name": "AmonD",
@@ -8362,7 +8414,10 @@
       "https://etherscan.io/token/0x00059ae69c1622a7542edc15e8d17b060fe307b6",
       "https://ethplorer.io/address/0x00059ae69c1622a7542edc15e8d17b060fe307b6"
     ],
-    "git": "https://github.com/amond-project"
+    "git": "https://github.com/amond-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Amoveo": {
     "name": "Amoveo",
@@ -8391,7 +8446,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/zack-bitcoin/amoveo/"
+    "git": "https://github.com/zack-bitcoin/amoveo/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Amp": {
     "name": "Amp",
@@ -8405,7 +8463,10 @@
       "https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2",
       "https://ethplorer.io/address/0xff20817765cb7f73d4bde2e66e067e58d11095c2"
     ],
-    "git": "https://github.com/amptoken"
+    "git": "https://github.com/amptoken",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ampleforth": {
     "name": "Ampleforth",
@@ -8421,7 +8482,10 @@
       "https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
       "https://ethplorer.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161"
     ],
-    "git": "https://github.com/ampleforth"
+    "git": "https://github.com/ampleforth",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AmsterdamCoin": {
     "name": "AmsterdamCoin",
@@ -8516,7 +8580,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/CoinProjects/AmsterdamCoin-v4/"
+    "git": "https://github.com/CoinProjects/AmsterdamCoin-v4/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Amun Bitcoin 3x Daily Long": {
     "name": "Amun Bitcoin 3x Daily Long",
@@ -8530,7 +8597,10 @@
       "https://etherscan.io/token/0x7e5F9F248e84EF0B1f63586323e92a0d91B15568",
       "https://ethplorer.io/address/0x7e5F9F248e84EF0B1f63586323e92a0d91B15568"
     ],
-    "git": "https://github.com/amun/jasper-contracts"
+    "git": "https://github.com/amun/jasper-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Amun Bitcoin 3x Daily Short": {
     "name": "Amun Bitcoin 3x Daily Short",
@@ -8544,7 +8614,10 @@
       "https://etherscan.io/token/0x1148661869D30e095FF4AA48Aa8b5EadedC75f2A",
       "https://ethplorer.io/address/0x1148661869D30e095FF4AA48Aa8b5EadedC75f2A"
     ],
-    "git": "https://github.com/amun/jasper-contracts"
+    "git": "https://github.com/amun/jasper-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Amun Ether 3x Daily Long": {
     "name": "Amun Ether 3x Daily Long",
@@ -8558,7 +8631,10 @@
       "https://etherscan.io/token/0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720",
       "https://ethplorer.io/address/0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720"
     ],
-    "git": "https://github.com/amun/jasper-contracts"
+    "git": "https://github.com/amun/jasper-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Amun Ether 3x Daily Short": {
     "name": "Amun Ether 3x Daily Short",
@@ -8572,7 +8648,10 @@
       "https://etherscan.io/token/0xEF9c8a1b3cE9055266E1CE20b98a4c882F0e5c78",
       "https://ethplorer.io/address/0xEF9c8a1b3cE9055266E1CE20b98a4c882F0e5c78"
     ],
-    "git": "https://github.com/amun/jasper-contracts"
+    "git": "https://github.com/amun/jasper-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AnRKey X": {
     "name": "AnRKey X",
@@ -8586,7 +8665,10 @@
     "sawBirth": "20210106",
     "forked_data": [
       "https://etherscan.io/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Anchor": {
     "name": "Anchor",
@@ -8600,7 +8682,10 @@
       "https://etherscan.io/token/0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
       "https://ethplorer.io/address/0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5"
     ],
-    "git": "https://github.com/AnchorProject/anchor-tokens"
+    "git": "https://github.com/AnchorProject/anchor-tokens",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Anchor Neural World": {
     "name": "Anchor Neural World",
@@ -8613,7 +8698,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x7dbdd9dafdc4c1c03d67925a4f85daa398af32b0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Anchor Protocol": {
     "name": "Anchor Protocol",

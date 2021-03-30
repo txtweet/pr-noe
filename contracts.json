@@ -100,7 +100,8 @@
       "https://neotube.io/nep5",
       "https://antchain.xyz/asset/hash"
     ],
-    "contract": "Neo Contract"
+    "contract": "Neo Contract",
+    "gecko_asset_platform_id": "neo"
   },
   {
     "urls": [
