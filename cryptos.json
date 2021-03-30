@@ -7358,7 +7358,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xed04915c23f00a313a544955524eb7dbd823143d"
     ],
-    "git": "https://github.com/Alchemy-GPS"
+    "git": "https://github.com/Alchemy-GPS",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aleph.im": {
     "name": "Aleph.im",
@@ -7374,7 +7377,10 @@
       "Mineable"
     ],
     "forked_data": [],
-    "git": "https://github.com/aleph-im"
+    "git": "https://github.com/aleph-im",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AlgoVest": {
     "name": "AlgoVest",
@@ -7388,7 +7394,10 @@
     "git": "https://github.com/algovestavs",
     "forked_data": [
       "https://etherscan.io/token/0x94d916873b22c9c1b53695f1c002f78537b9b3b2"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Algorand": {
     "name": "Algorand",
@@ -7403,7 +7412,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/algorand"
+    "git": "https://github.com/algorand",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Algory Project": {
     "name": "Algory Project",
@@ -7418,7 +7430,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x16b0a1a87ae8af5c792fabc429c4fe248834842b",
       "https://ethplorer.io/address/0x16b0a1a87ae8af5c792fabc429c4fe248834842b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alias": {
     "name": "Alias",
@@ -7441,7 +7456,10 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/aliascash"
+    "git": "https://github.com/aliascash",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alibaba tokenized stock Bittrex": {
     "name": "Alibaba tokenized stock Bittrex",
@@ -7457,7 +7475,10 @@
     "deaths": [
       "20210322",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alibaba tokenized stock FTX": {
     "name": "Alibaba tokenized stock FTX",
@@ -7472,7 +7493,10 @@
     "sawBirth": "20201208",
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "All Sports": {
     "name": "All Sports",
@@ -7487,7 +7511,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
       "https://ethplorer.io/address/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "All.me": {
     "name": "All.me",
@@ -7501,7 +7528,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x76574c7b61b07ba14eace42e60cc73a08038da85",
       "https://ethplorer.io/address/0x76574c7b61b07ba14eace42e60cc73a08038da85"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AllSafe": {
     "name": "AllSafe",
@@ -7513,7 +7543,10 @@
       "Scrypt",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Artinvest/Allsafe/releases"
+    "git": "https://github.com/Artinvest/Allsafe/releases",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AllWin DeFi": {
     "name": "AllWin DeFi",
@@ -7548,7 +7581,10 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/BTCETHTRX/DeFiVersus"
+    "git": "https://github.com/BTCETHTRX/DeFiVersus",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alliance Fan Token": {
     "name": "Alliance Fan Token",
@@ -7574,7 +7610,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AllianceBlock": {
     "name": "AllianceBlock",
@@ -7588,7 +7627,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
       "https://ethplorer.io/address/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AlloHash": {
     "name": "AlloHash",
@@ -7603,7 +7645,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x4c6719bf85903d18c295da44216f862b01b36f43",
       "https://ethplorer.io/address/0x4c6719bf85903d18c295da44216f862b01b36f43"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Almace Shards": {
     "name": "Almace Shards",
@@ -7642,7 +7687,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b",
       "https://ethplorer.io/address/0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aloha": {
     "name": "Aloha",
@@ -7656,7 +7704,10 @@
     "git": "https://github.com/Aloha-Open-Wifi",
     "forked_data": [
       "https://etherscan.io/token/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alpaca City": {
     "name": "Alpaca City",
@@ -7672,7 +7723,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7cA4408137eb639570F8E647d9bD7B7E8717514A"
     ],
-    "git": "https://github.com/AlpacaCity/AlpacaCity"
+    "git": "https://github.com/AlpacaCity/AlpacaCity",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alpaca Finance": {
     "name": "Alpaca Finance",
@@ -7687,7 +7741,10 @@
     "git": "https://github.com/alpaca-finance",
     "forked_data": [
       "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alpha Coin": {
     "name": "Alpha Coin",
@@ -7701,7 +7758,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829",
       "https://ethplorer.io/address/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alpha Finance Lab": {
     "name": "Alpha Finance Lab",
@@ -7722,15 +7782,22 @@
       "https://bscscan.com/address/0xa1faa113cbe53436df28ff0aee54275c13b40975",
       "https://etherscan.io/token/0xa1faa113cbe53436df28ff0aee54275c13b40975"
     ],
-    "git": "https://github.com/AlphaFinanceLab/alpha-lending-smart-contract/blob/master/documents/Alpha%20Lending%20Whitepaper.pdf"
+    "git": "https://github.com/AlphaFinanceLab/alpha-lending-smart-contract/blob/master/documents/Alpha%20Lending%20Whitepaper.pdf",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alpha Quark Token": {
     "name": "Alpha Quark Token",
     "short": "AQT",
     "url": "/currencies/alpha-quark-token",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract"
       "NoLicenceFile"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93"
     ],
     "git": "https://github.com/alphaquark/Alpha-Quark"
   },
