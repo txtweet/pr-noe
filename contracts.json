@@ -199,8 +199,9 @@
   },
   {
     "urls": [
-      "https://polkadot.",
+      "https://polkadot."
     ],
-    "contract": "Polkadot Contract"
+    "contract": "Polkadot Contract",
+    "gecko_asset_platform_id": "polkadot"
   }
 ]

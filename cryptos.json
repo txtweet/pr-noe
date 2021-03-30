@@ -5638,9 +5638,9 @@
       "Polkadot Contract",
       "Dead"
     ],
-    "forked_data": {
+    "forked_data": [
       "https://polkadot.acuity.social/#/explorer"
-    },
+    ],
     "deaths": [
       "20201208",
       "20201209",
@@ -5717,7 +5717,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Acute Angle Cloud": {
     "name": "Acute Angle Cloud",
@@ -5735,7 +5738,10 @@
     "git": "https://github.com/AcuteAngleCloud",
     "deaths": [
       "20210225"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AdEx Network": {
     "name": "AdEx Network",
@@ -5754,7 +5760,10 @@
       "https://etherscan.io/token/0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
       "https://ethplorer.io/address/0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
     ],
-    "git": "https://github.com/adexnetwork"
+    "git": "https://github.com/adexnetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AdHive": {
     "name": "AdHive",
@@ -5788,7 +5797,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Adappter Token": {
     "name": "Adappter Token",
@@ -5804,7 +5816,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
       "https://ethplorer.io/address/0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Add.xyz": {
     "name": "Add.xyz",
@@ -5819,7 +5834,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9fbfed658919a896b5dc7b00456ce22d780f9b65",
       "https://ethplorer.io/address/0x9fbfed658919a896b5dc7b00456ce22d780f9b65"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Adelphoi": {
     "name": "Adelphoi",
@@ -5854,7 +5872,10 @@
       "20210308",
       "20210309",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aditus": {
     "name": "Aditus",
@@ -5870,7 +5891,10 @@
       "https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a",
       "https://explorer.binance.org/asset/ADI-6BB"
     ],
-    "git": "https://github.com/aditus/"
+    "git": "https://github.com/aditus/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AdsByWiFi": {
     "name": "AdsByWiFi",
@@ -5900,17 +5924,24 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/adsbywifi"
+    "git": "https://github.com/adsbywifi",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Adshares": {
     "name": "Adshares",
     "short": "ADS",
     "url": "/currencies/adshares",
     "tags": [
-      "Coin",
       "Marketing",
       "NoLicenceFile",
+      "Ethereum Contract",
+      "Token",
       "Dead"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0"
     ],
     "git": "https://github.com/adshares",
     "deaths": [
