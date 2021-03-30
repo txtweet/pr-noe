@@ -137,7 +137,8 @@
       "https://stellar.expert/explorer/public/asset",
       "https://stellarchain.io/address"
     ],
-    "contract": "Stellar Contract"
+    "contract": "Stellar Contract",
+    "gecko_asset_platform_id": "stellar"
   },
   {
     "urls": [

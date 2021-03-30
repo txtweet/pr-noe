@@ -5946,7 +5946,10 @@
     "git": "https://github.com/adshares",
     "deaths": [
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Advanced Internet Blocks": {
     "name": "Advanced Internet Blocks",
@@ -5959,7 +5962,10 @@
       "Scrypt",
       "AIBL"
     ],
-    "git": "https://github.com/iobond/aib"
+    "git": "https://github.com/iobond/aib",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Advanced Micro Devices tokenized stock FTX": {
     "name": "Advanced Micro Devices tokenized stock FTX",
@@ -5974,7 +5980,10 @@
     "sawBirth": "20201208",
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Advanced Technology Coin": {
     "name": "Advanced Technology Coin",
@@ -6051,7 +6060,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AdvancedTechnologyCoin/arc_core"
+    "git": "https://github.com/AdvancedTechnologyCoin/arc_core",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Adzcoin": {
     "name": "Adzcoin",
@@ -6132,7 +6144,10 @@
       "20210326",
       "20210328"
     ],
-    "git": "https://github.com/AdzCoin/adzcoin"
+    "git": "https://github.com/AdzCoin/adzcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aeon": {
     "name": "Aeon",
@@ -6145,7 +6160,10 @@
       "CryptoNight-Lite",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/aeonix/aeon"
+    "git": "https://github.com/aeonix/aeon",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aergo": {
     "name": "Aergo",
@@ -6164,7 +6182,10 @@
       "https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
       "https://explorer.binance.org/asset/AERGO-46B"
     ],
-    "git": "https://github.com/aergoio"
+    "git": "https://github.com/aergoio",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aeron": {
     "name": "Aeron",
@@ -6182,7 +6203,10 @@
       "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
       "https://explorer.binance.org/asset/ARN-71B"
     ],
-    "git": "https://github.com/aeronaero/aeron"
+    "git": "https://github.com/aeronaero/aeron",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aerotoken": {
     "name": "Aerotoken",
@@ -6196,7 +6220,10 @@
       "https://etherscan.io/token/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784",
       "https://ethplorer.io/address/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
     ],
-    "git": "https://github.com/aerotoken"
+    "git": "https://github.com/aerotoken",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aeryus": {
     "name": "Aeryus",
@@ -6281,7 +6308,10 @@
       "20210325",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aeternity": {
     "name": "Aeternity",
@@ -6292,9 +6322,16 @@
       "Mineable",
       "Medium of Exchange",
       "Privacy",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Ethereum Contract"
     ],
-    "git": "https://github.com/aeternity"
+    "forked_data": [
+      "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
+    ],
+    "git": "https://github.com/aeternity",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Affil Coin": {
     "name": "Affil Coin",
@@ -6330,7 +6367,10 @@
       "20210122",
       "20210126"
     ],
-    "git": "https://github.com/affilcoin-official"
+    "git": "https://github.com/affilcoin-official",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AfroDex": {
     "name": "AfroDex",
@@ -6413,7 +6453,10 @@
       "20210324",
       "20210329"
     ],
-    "git": "https://github.com/AfroDex/"
+    "git": "https://github.com/AfroDex/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AgaveCoin": {
     "name": "AgaveCoin",
@@ -6452,7 +6495,10 @@
       "https://etherscan.io/token/0x8b79656FC38a04044E495e22fAD747126ca305C4",
       "https://ethplorer.io/address/0x8b79656FC38a04044E495e22fAD747126ca305C4"
     ],
-    "git": "https://github.com/tanogedler/agavecoin"
+    "git": "https://github.com/tanogedler/agavecoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Agora": {
     "name": "Agora",
@@ -6473,7 +6519,10 @@
       "20210112",
       "20210118",
       "20210204"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Agoras Tokens": {
     "name": "Agoras Tokens",
@@ -6502,7 +6551,10 @@
       "20210213",
       "20210214",
       "20210215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Agrello": {
     "name": "Agrello",
@@ -6519,7 +6571,10 @@
       "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
       "https://ethplorer.io/address/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
     ],
-    "git": "https://github.com/Agrello"
+    "git": "https://github.com/Agrello",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Agrocoin": {
     "name": "Agrocoin",
@@ -6550,7 +6605,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/agrodex"
+    "git": "https://github.com/agrodex",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Agrolot": {
     "name": "Agrolot",
@@ -6617,7 +6675,10 @@
       "20210320",
       "20210321",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AiLink Token": {
     "name": "AiLink Token",
@@ -6635,7 +6696,10 @@
     ],
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AidCoin": {
     "name": "AidCoin",
@@ -6656,7 +6720,10 @@
       "20210114",
       "20210127",
       "20210228"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aidos Kuneen": {
     "name": "Aidos Kuneen",
@@ -6666,7 +6733,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AidosKuneen"
+    "git": "https://github.com/AidosKuneen",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aigang": {
     "name": "Aigang",
@@ -6757,7 +6827,10 @@
       "20210324",
       "20210325"
     ],
-    "git": "https://github.com/AigangNetwork"
+    "git": "https://github.com/AigangNetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Aion": {
     "name": "Aion",
@@ -6771,7 +6844,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/aionnetwork"
+    "git": "https://github.com/aionnetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AirSwap": {
     "name": "AirSwap",
@@ -6791,7 +6867,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
     ],
-    "git": "https://github.com/airswap/"
+    "git": "https://github.com/airswap/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AirWire": {
     "name": "AirWire",
@@ -6841,7 +6920,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Airbloc": {
     "name": "Airbloc",
@@ -6855,7 +6937,10 @@
       "https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea",
       "https://ethplorer.io/address/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea"
     ],
-    "git": "https://github.com/airbloc/token"
+    "git": "https://github.com/airbloc/token",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Airbnb tokenized stock FTX": {
     "name": "Airbnb tokenized stock FTX",
@@ -6870,7 +6955,10 @@
     "sawBirth": "20201209",
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Aircoins": {
     "name": "Aircoins",
@@ -6889,7 +6977,10 @@
       "https://etherscan.io/token/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
       "https://ethplorer.io/address/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
       "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aitheon": {
     "name": "Aitheon",
@@ -6959,7 +7050,10 @@
       "20210310",
       "20210311",
       "20210316"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aitra": {
     "name": "Aitra",
@@ -6969,7 +7063,10 @@
       "Token"
     ],
     "explorer": "https://explorer.aitra.io/",
-    "git": "https://github.com/aitracoinofficial/AITRA"
+    "git": "https://github.com/aitracoinofficial/AITRA",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akash Network": {
     "name": "Akash Network",
@@ -6978,7 +7075,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akita Inu": {
     "name": "Akita Inu",
@@ -6993,15 +7093,22 @@
     "forked_data": [
       "https://etherscan.io/token/0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
       "https://ethplorer.io/address/0x3301ee63fb29f863f2333bd4466acb46cd8323e6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akoin": {
     "name": "Akoin",
     "short": "AKN",
     "url": "/currencies/akoin",
     "tags": [
-      "Coin",
-      "NoGitHub"
+      "Token",
+      "NoGitHub",
+      "Stellar Contract"
+    ],
+    "forked_data":[
+      "https://stellar.expert/explorer/public/asset/AKN-GACSHAJ2XBNKRNJEVDAII6E2EAASIAMDBCLJ3VKSZEWK3KC7Y7DPXUFX-1?order=desc"
     ]
   },
   "Akroma": {
