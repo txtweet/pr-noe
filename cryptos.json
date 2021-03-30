@@ -41,10 +41,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/metahashorg",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/metahashorg"
   },
   "$YEET": {
     "name": "$YEET",
@@ -130,10 +127,7 @@
       "DashL",
       "ZeroOneL"
     ],
-    "git": "https://github.com/zocteam/zeroonecoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/zocteam/zeroonecoin"
   },
   "0Chain": {
     "name": "0Chain",
@@ -152,10 +146,7 @@
       "https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
       "https://ethplorer.io/address/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
     ],
-    "git": "https://github.com/0chain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/0chain"
   },
   "0cash": {
     "name": "0cash",
@@ -166,10 +157,7 @@
       "ZcashL",
       "BitcoinL"
     ],
-    "git": "https://github.com/0cash/0cash",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/0cash/0cash"
   },
   "0x": {
     "name": "0x",
@@ -184,10 +172,7 @@
       "https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498",
       "https://blockchair.com/ethereum/erc-20/token/0xe41d2489571d322189246dafa5ebde1f4699f498"
     ],
-    "git": "https://github.com/0xProject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/0xProject"
   },
   "0xBitcoin": {
     "name": "0xBitcoin",
@@ -220,10 +205,7 @@
       "https://etherscan.io/token/0x83e2be8d114f9661221384b3a50d24b96a5653f5",
       "https://ethplorer.io/address/0x83e2be8d114f9661221384b3a50d24b96a5653f5"
     ],
-    "git": "https://github.com/0xcert",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/0xcert"
   },
   "10x.gg": {
     "name": "10x.gg",
@@ -255,10 +237,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x525794473f7ab5715c81d06d10f52d11cc052804",
       "https://ethplorer.io/address/0x525794473f7ab5715c81d06d10f52d11cc052804"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "1AI Token": {
     "name": "1AI Token",
@@ -394,10 +373,7 @@
       "20210215",
       "20210216",
       "20210217"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "1SG": {
     "name": "1SG",
@@ -505,10 +481,7 @@
       "https://etherscan.io/token/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
       "https://ethplorer.io/address/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23"
     ],
-    "git": "https://github.com/1World-Online",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/1World-Online"
   },
   "1X Short Ethereum Token": {
     "name": "1X Short Ethereum Token",
@@ -522,10 +495,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x10e1E953DDBa597011f8bFA806aB0cC3415a622b",
       "https://ethplorer.io/address/0x10e1E953DDBa597011f8bFA806aB0cC3415a622b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "1X2 COIN": {
     "name": "1X2 COIN",
@@ -638,10 +608,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
       "https://ethplorer.io/address/0x111111111117dc0aa78b770fa6a738034120c302"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "1irstGold": {
     "name": "1irstGold",
@@ -658,10 +625,7 @@
       "https://etherscan.io/token/0xda4129919f964a3a526d3182bb03e6449e5a8872",
       "https://ethplorer.io/address/0xda4129919f964a3a526d3182bb03e6449e5a8872"
     ],
-    "git": "https://github.com/1irstgold/1irstgold",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/1irstgold/1irstgold"
   },
   "1irstcoin": {
     "name": "1irstcoin",
@@ -710,10 +674,7 @@
       "https://etherscan.io/token/0x1FA3bc860bF823d792f04F662f3AA3a500a68814",
       "https://ethplorer.io/address/0x1FA3bc860bF823d792f04F662f3AA3a500a68814"
     ],
-    "git": "https://github.com/ftexchange/ftx",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ftexchange/ftx"
   },
   "2Based Finance": {
     "name": "2Based Finance",
@@ -733,10 +694,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "2GIVE": {
     "name": "2GIVE",
@@ -829,10 +787,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "2key.network": {
     "name": "2key.network",
@@ -881,10 +836,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x584936357d68f5143f12e2e64f0089db93814dad",
       "https://ethplorer.io/address/0x584936357d68f5143f12e2e64f0089db93814dad"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Altcoin Index Token": {
     "name": "3X Long Altcoin Index Token",
@@ -899,10 +851,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8",
       "https://ethplorer.io/address/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long BNB Token": {
     "name": "3X Long BNB Token",
@@ -917,10 +866,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9d1a62c2ad99019768b9126fda004a9952853f6e",
       "https://ethplorer.io/address/0x9d1a62c2ad99019768b9126fda004a9952853f6e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long BitMax Token Token": {
     "name": "3X Long BitMax Token Token",
@@ -935,10 +881,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9885cA101DFd8f23D364874F799554C52BFee820",
       "https://ethplorer.io/address/0x9885cA101DFd8f23D364874F799554C52BFee820"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Bitcoin Token": {
     "name": "3X Long Bitcoin Token",
@@ -955,10 +898,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x68eb95dc9934e19b86687a10df8e364423240e94",
       "https://explorer.binance.org/asset/BULL-BE4"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Cardano Token": {
     "name": "3X Long Cardano Token",
@@ -973,10 +913,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9",
       "https://ethplorer.io/address/0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Chainlink Token": {
     "name": "3X Long Chainlink Token",
@@ -991,10 +928,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B",
       "https://ethplorer.io/address/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Cosmos Token": {
     "name": "3X Long Cosmos Token",
@@ -1009,10 +943,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C",
       "https://ethplorer.io/address/0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Dogecoin Token": {
     "name": "3X Long Dogecoin Token",
@@ -1027,10 +958,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f",
       "https://ethplorer.io/address/0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Dragon Index Token": {
     "name": "3X Long Dragon Index Token",
@@ -1045,10 +973,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da",
       "https://ethplorer.io/address/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Ethereum Classic Token": {
     "name": "3X Long Ethereum Classic Token",
@@ -1063,10 +988,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80",
       "https://ethplorer.io/address/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Ethereum Token": {
     "name": "3X Long Ethereum Token",
@@ -1083,10 +1005,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x871baed4088b863fd6407159f3672d70cd34837d",
       "https://explorer.binance.org/asset/ETHBULL-D33"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Huobi Token Token": {
     "name": "3X Long Huobi Token Token",
@@ -1101,10 +1020,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79",
       "https://ethplorer.io/address/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Matic Token": {
     "name": "3X Long Matic Token",
@@ -1119,10 +1035,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9",
       "https://ethplorer.io/address/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Midcap Index Token": {
     "name": "3X Long Midcap Index Token",
@@ -1137,10 +1050,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5",
       "https://ethplorer.io/address/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long OKB Token": {
     "name": "3X Long OKB Token",
@@ -1155,10 +1065,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4",
       "https://ethplorer.io/address/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Shitcoin Index Token": {
     "name": "3X Long Shitcoin Index Token",
@@ -1173,10 +1080,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0",
       "https://ethplorer.io/address/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Sushi Token": {
     "name": "3X Long Sushi Token",
@@ -1187,10 +1091,7 @@
       "Ftx",
       "NoGitHub"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "3X Long TRX Token": {
     "name": "3X Long TRX Token",
@@ -1205,10 +1106,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
       "https://etherscan.io/address/0xc175E77b04F2341517334Ea3Ed0b198A01A97383"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long Tether Gold Token": {
     "name": "3X Long Tether Gold Token",
@@ -1257,10 +1155,7 @@
       "20210317",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Long TomoChain Token": {
     "name": "3X Long TomoChain Token",
@@ -1275,10 +1170,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa38920C00D1a5303dB538A3Ea08da7a779e1F751",
       "https://ethplorer.io/address/0xa38920C00D1a5303dB538A3Ea08da7a779e1F751"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Algorand Token": {
     "name": "3X Short Algorand Token",
@@ -1293,10 +1185,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x057fb10e3fec001a40e6b75d3a30b99e23e54107",
       "https://ethplorer.io/address/0x057fb10e3fec001a40e6b75d3a30b99e23e54107"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short BNB Token": {
     "name": "3X Short BNB Token",
@@ -1311,10 +1200,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6febdfc0a9d9502c45343fce0df08828def44795",
       "https://ethplorer.io/address/0x6febdfc0a9d9502c45343fce0df08828def44795"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Bitcoin Token": {
     "name": "3X Short Bitcoin Token",
@@ -1331,10 +1217,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x016ee7373248a80bde1fd6baa001311d233b3cfa",
       "https://explorer.binance.org/asset/BEAR-14C"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Cardano Token": {
     "name": "3X Short Cardano Token",
@@ -1349,10 +1232,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xb3299d4BaB93Bf04d5b11bc49CD6DFAD1f77d23f",
       "https://ethplorer.io/address/0xb3299d4BaB93Bf04d5b11bc49CD6DFAD1f77d23f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Chainlink Token": {
     "name": "3X Short Chainlink Token",
@@ -1367,10 +1247,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa209Ba34C01A2713a4453A656630cc9De8A362Bc",
       "https://ethplorer.io/address/0xa209Ba34C01A2713a4453A656630cc9De8A362Bc"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Cosmos Token": {
     "name": "3X Short Cosmos Token",
@@ -1385,10 +1262,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3B834A620751A811f65D8f599b3b72617A4418d0",
       "https://ethplorer.io/address/0x3B834A620751A811f65D8f599b3b72617A4418d0"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Dogecoin Token": {
     "name": "3X Short Dogecoin Token",
@@ -1403,10 +1277,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xF1d32952E2fbB1a91e620b0FD7fBC8a8879A47f3",
       "https://ethplorer.io/address/0xF1d32952E2fbB1a91e620b0FD7fBC8a8879A47f3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Ethereum Classic Token": {
     "name": "3X Short Ethereum Classic Token",
@@ -1421,10 +1292,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6",
       "https://ethplorer.io/address/0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Ethereum Token": {
     "name": "3X Short Ethereum Token",
@@ -1441,10 +1309,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2f5e2c9002c058c063d21a06b6cabb50950130c8",
       "https://explorer.binance.org/asset/ETHBEAR-B2B"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Matic Token": {
     "name": "3X Short Matic Token",
@@ -1492,10 +1357,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Sushi Token": {
     "name": "3X Short Sushi Token",
@@ -1505,10 +1367,7 @@
       "Token",
       "Ftx"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "3X Short TRX Token": {
     "name": "3X Short TRX Token",
@@ -1523,10 +1382,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x86807Da5B92d31F67E128771CAcb85F3579646eA",
       "https://ethplorer.io/address/0x86807Da5B92d31F67E128771CAcb85F3579646eA"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short Tether Gold Token": {
     "name": "3X Short Tether Gold Token",
@@ -1607,10 +1463,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3X Short TomoChain Token": {
     "name": "3X Short TomoChain Token",
@@ -1629,10 +1482,7 @@
     ],
     "deaths": [
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3XT TOKEN": {
     "name": "3XT TOKEN",
@@ -1721,10 +1571,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x4C133E081dFB5858e39ccA74E69bf603d409e57A",
       "https://ethplorer.io/address/0x4C133E081dFB5858e39ccA74E69bf603d409e57A"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Long Bitcoin SV Token": {
     "name": "3x Long Bitcoin SV Token",
@@ -1738,10 +1585,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6e13A9e4AE3d0678E511Fb6d2ad531fcF0e247bf",
       "https://ethplorer.io/address/0x6e13A9e4AE3d0678E511Fb6d2ad531fcF0e247bf"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Long EOS Token": {
     "name": "3x Long EOS Token",
@@ -1757,10 +1601,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xeaD7F3ae4e0Bb0D8785852Cc37CC9d0B5e75c06a",
       "https://explorer.binance.org/asset/EOSBULL-F0D"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Long Litecoin Token": {
     "name": "3x Long Litecoin Token",
@@ -1774,10 +1615,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xDB61354E9cf2217a29770E9811832B360a8DAad3",
       "https://ethplorer.io/address/0xDB61354E9cf2217a29770E9811832B360a8DAad3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Long Tezos Token": {
     "name": "3x Long Tezos Token",
@@ -1791,10 +1629,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554",
       "https://ethplorer.io/address/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Long XRP Token": {
     "name": "3x Long XRP Token",
@@ -1810,10 +1645,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x27c1bA4F85b8dC1c150157816623A6Ce80b7F187",
       "https://explorer.binance.org/asset/XRPBULL-E7C"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short Bitcoin Cash Token": {
     "name": "3x Short Bitcoin Cash Token",
@@ -1827,10 +1659,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa9fC65Da36064cE545e87690e06f5de10C52C690",
       "https://ethplorer.io/address/0xa9fC65Da36064cE545e87690e06f5de10C52C690"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short Bitcoin SV Token": {
     "name": "3x Short Bitcoin SV Token",
@@ -1844,10 +1673,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
       "https://ethplorer.io/address/0xCe49c3c92b33a1653F34811a9d7e34502bF12B89"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short EOS Token": {
     "name": "3x Short EOS Token",
@@ -1863,10 +1689,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3d3dd61b0F9A558759a21dA42166042B114E12D5",
       "https://explorer.binance.org/asset/EOSBEAR-721"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short Litecoin Token": {
     "name": "3x Short Litecoin Token",
@@ -1880,10 +1703,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xB422e605fBd765B80D2C4b5d8196C2f94144438B",
       "https://ethplorer.io/address/0xB422e605fBd765B80D2C4b5d8196C2f94144438B"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short Tezos Token": {
     "name": "3x Short Tezos Token",
@@ -1897,10 +1717,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d",
       "https://ethplorer.io/address/0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "3x Short XRP Token": {
     "name": "3x Short XRP Token",
@@ -1916,10 +1733,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x94FC5934cF5970E944a67de806eEB5a4b493c6E6",
       "https://explorer.binance.org/asset/XRPBEAR-00B"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "42-coin": {
     "name": "42-coin",
@@ -1933,10 +1747,7 @@
       "Store of Value",
       "BitcoinL"
     ],
-    "git": "https://github.com/42-coin/42",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/42-coin/42"
   },
   "4ART Coin": {
     "name": "4ART Coin",
@@ -1949,10 +1760,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "4NEW": {
     "name": "4NEW",
@@ -1973,10 +1781,7 @@
       "20210128",
       "20210310"
     ],
-    "git": "https://github.com/muditgrover/4new-crowdsale",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/muditgrover/4new-crowdsale"
   },
   "4THPILLAR TECHNOLOGIES": {
     "name": "4THPILLAR TECHNOLOGIES",
@@ -2108,10 +1913,7 @@
       "20210309",
       "20210325"
     ],
-    "git": "https://github.com/7elevencoins/7EToken",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/7elevencoins/7EToken"
   },
   "7Finance": {
     "name": "7Finance",
@@ -2184,9 +1986,6 @@
       "forked_from": [
         "Tron"
       ]
-    },
-    "checkedWithGecko": {
-      "found": true
     }
   },
   "7up Finance": {
@@ -2320,10 +2119,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "88mph": {
     "name": "88mph",
@@ -2338,10 +2134,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x8888801af4d980682e47f1a9036e589479e835c5"
     ],
-    "git": "https://github.com/88mphapp",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/88mphapp"
   },
   "8X8 PROTOCOL": {
     "name": "8X8 PROTOCOL",
@@ -2355,10 +2148,7 @@
       "https://etherscan.io/token/0x412d397ddca07d753e3e0c61e367fb1b474b3e7d",
       "https://ethplorer.io/address/0x412d397ddca07d753e3e0c61e367fb1b474b3e7d"
     ],
-    "git": "https://github.com/isoftpartners/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/isoftpartners/"
   },
   "A2A": {
     "name": "A2A",
@@ -2432,10 +2222,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x686c650dbcfeaa75d09b883621ad810f5952bd5d",
       "https://ethplorer.io/address/0x686c650dbcfeaa75d09b883621ad810f5952bd5d"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ABBC Coin": {
     "name": "ABBC Coin",
@@ -2528,10 +2315,7 @@
       "20210323",
       "20210324",
       "20210324"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AC Index": {
     "name": "AC Index",
@@ -2622,10 +2406,7 @@
     "sawBirth": "20210223",
     "forked_data": [
       "https://explorer.chiliz.com/tokens/0xea6a3e367e96521fd9e8296425a44efa6aee82da/token_transfers"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AC eXchange Token": {
     "name": "AC eXchange Token",
@@ -2644,10 +2425,7 @@
     ],
     "deaths": [
       "01011970"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AC3": {
     "name": "AC3",
@@ -2909,10 +2687,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
       "https://ethplorer.io/address/0x9A0aBA393aac4dFbFf4333B06c407458002C6183"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ACryptoS": {
     "name": "ACryptoS",
@@ -2925,10 +2700,7 @@
     "sawBirth": "20201203",
     "forked_data": [
       "https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ADADOWN": {
     "name": "ADADOWN",
@@ -2962,10 +2734,7 @@
       "Services",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/adamant-im",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/adamant-im"
   },
   "ADAUP": {
     "name": "ADAUP",
@@ -3108,10 +2877,7 @@
       "http://insight.ainetwork.ai/",
       "https://etherscan.io/token/0x3A810ff7211b40c4fA76205a14efe161615d0385",
       "https://ethplorer.io/address/0x3A810ff7211b40c4fA76205a14efe161615d0385"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AICHAIN": {
     "name": "AICHAIN",
@@ -3125,10 +2891,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c",
       "https://ethplorer.io/address/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AICON": {
     "name": "AICON",
@@ -3142,10 +2905,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xE7FB3559358A99df54466d0350e4aD6DC7093da3",
       "https://ethplorer.io/address/0xE7FB3559358A99df54466d0350e4aD6DC7093da3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AIDUS TOKEN": {
     "name": "AIDUS TOKEN",
@@ -3311,10 +3071,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed",
       "https://ethplorer.io/address/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ALLY": {
     "name": "ALLY",
@@ -3342,10 +3099,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ALP Coin": {
     "name": "ALP Coin",
@@ -3359,10 +3113,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x37d6e7f287200c740012747d2a79295caed2db35",
       "https://ethplorer.io/address/0x37d6e7f287200c740012747d2a79295caed2db35"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ALQO": {
     "name": "ALQO",
@@ -3387,10 +3138,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AMATEN": {
     "name": "AMATEN",
@@ -3408,10 +3156,7 @@
     ],
     "deaths": [
       "20210201"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AMC Entertainment Holdings tokenized stock FTX": {
     "name": "AMC Entertainment Holdings tokenized stock FTX",
@@ -3443,10 +3188,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
       "https://ethplorer.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
@@ -3581,10 +3323,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/anonymousbitcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/anonymousbitcoin"
   },
   "AOS": {
     "name": "AOS",
@@ -3593,10 +3332,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APEcoin": {
     "name": "APEcoin",
@@ -3635,10 +3371,7 @@
       "20210317",
       "20210318",
       "20210319"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "API3": {
     "name": "API3",
@@ -3653,10 +3386,7 @@
       "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
       "https://ethplorer.io/address/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
     ],
-    "git": "https://github.com/api3dao",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/api3dao"
   },
   "APIX": {
     "name": "APIX",
@@ -3671,10 +3401,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
       "https://ethplorer.io/address/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APOyield": {
     "name": "APOyield",
@@ -3688,10 +3415,7 @@
     "git": "https://github.com/APOyield",
     "forked_data": [
       "https://bscscan.com/token/0x67d012f731c23f0313cea1186d0121779c77fcfe"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APR Coin": {
     "name": "APR Coin",
@@ -3713,10 +3437,7 @@
       "20210304",
       "20210308",
       "20210318"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APY Vision": {
     "name": "APY Vision",
@@ -3732,10 +3453,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf406f7a9046793267bc276908778b29563323996",
       "https://ethplorer.io/address/0xf406f7a9046793267bc276908778b29563323996"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APY.Finance": {
     "name": "APY.Finance",
@@ -3752,10 +3470,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
       "https://ethplorer.io/address/0x95a4492F028aa1fd432Ea71146b433E7B4446611"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "APYSwap": {
     "name": "APYSwap",
@@ -3771,10 +3486,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615",
       "https://ethplorer.io/address/0xf7413489c474ca4399eee604716c72879eea3615"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ARAW": {
     "name": "ARAW",
@@ -3868,10 +3580,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
       "https://ethplorer.io/address/0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ARK Innovation ETF tokenized stock FTX": {
     "name": "ARK Innovation ETF tokenized stock FTX",
@@ -3906,10 +3615,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1337def16f9b486faed0293eb623dc8395dfe46a",
       "https://ethplorer.io/address/0x1337def16f9b486faed0293eb623dc8395dfe46a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ARMTOKEN": {
     "name": "ARMTOKEN",
@@ -3990,10 +3696,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/ArmToken",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ArmToken"
   },
   "ARPA Chain": {
     "name": "ARPA Chain",
@@ -4007,10 +3710,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a",
       "https://ethplorer.io/address/0xba50933c268f567bdc86e1ac131be072c6b0b71a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ARTH": {
     "name": "ARTH",
@@ -4025,10 +3725,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9",
       "https://ethplorer.io/address/0x0e3cc2c4fb9252d17d07c67135e48536071735d9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ARVO": {
     "name": "ARVO",
@@ -4187,10 +3884,7 @@
       "20210324",
       "20210326"
     ],
-    "git": "https://github.com/ARbitcoin/ARbit",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ARbitcoin/ARbit"
   },
   "AS Roma Fan Token": {
     "name": "AS Roma Fan Token",
@@ -4203,9 +3897,6 @@
     "forked_data": {
       "block": [],
       "forked_from": []
-    },
-    "checkedWithGecko": {
-      "found": true
     }
   },
   "ASI finance": {
@@ -4254,10 +3945,7 @@
       "https://etherscan.io/token/0xeEEE2a622330E6d2036691e983DEe87330588603",
       "https://ethplorer.io/address/0xeEEE2a622330E6d2036691e983DEe87330588603"
     ],
-    "git": "https://github.com/joefilmo/askonetwork-contracts",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/joefilmo/askonetwork-contracts"
   },
   "ASSY Index": {
     "name": "ASSY Index",
@@ -4274,10 +3962,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xFA2562da1Bba7B954f26C74725dF51fb62646313",
       "https://ethplorer.io/address/0xFA2562da1Bba7B954f26C74725dF51fb62646313"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ASTA": {
     "name": "ASTA",
@@ -4295,10 +3980,7 @@
       "https://ethplorer.io/address/0xf2ddae89449b7d26309a5d54614b1fc99c608af5",
       "https://eosflare.io/account/astacoinbank",
       "https://bloks.io/tokens/ASTA-eos-astacoinbank"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ASYAGRO": {
     "name": "ASYAGRO",
@@ -4316,10 +3998,7 @@
       "https://etherscan.io/token/0x017b584acfd16d767541ae9e80cdc702f4527b0b",
       "https://ethplorer.io/address/0x017b584acfd16d767541ae9e80cdc702f4527b0b"
     ],
-    "git": "https://github.com/Asyagro/ASY",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Asyagro/ASY"
   },
   "ATBCoin": {
     "name": "ATBCoin",
@@ -4406,10 +4085,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ATC Coin": {
     "name": "ATC Coin",
@@ -4540,10 +4216,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AtlantPlatform",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AtlantPlatform"
   },
   "ATN": {
     "name": "ATN",
@@ -4558,10 +4231,7 @@
       "https://etherscan.io/token/0x461733c17b0755ca5649b6db08b3e213fcf22546",
       "https://ethplorer.io/address/0x461733c17b0755ca5649b6db08b3e213fcf22546"
     ],
-    "git": "https://github.com/atnio",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/atnio"
   },
   "ATTN": {
     "name": "ATTN",
@@ -4575,10 +4245,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89",
       "https://ethplorer.io/address/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AVCCOIN": {
     "name": "AVCCOIN",
@@ -4653,10 +4320,7 @@
       "Filesharing",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/axelnetwork/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/axelnetwork/"
   },
   "AXPR": {
     "name": "AXPR",
@@ -4727,10 +4391,7 @@
       "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "https://ethplorer.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
     ],
-    "git": "https://github.com/aave",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aave"
   },
   "Aave BAT": {
     "name": "Aave BAT",
@@ -4778,10 +4439,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
       "https://ethplorer.io/address/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave BUSD": {
     "name": "Aave BUSD",
@@ -4828,10 +4486,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
       "https://ethplorer.io/address/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave DAI": {
     "name": "Aave DAI",
@@ -4880,10 +4535,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
       "https://ethplorer.io/address/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave Enjin": {
     "name": "Aave Enjin",
@@ -4980,10 +4632,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x9D91BE44C06d373a8a226E1f3b146956083803eB",
       "https://ethplorer.io/address/0x9d91be44c06d373a8a226e1f3b146956083803eb"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave LINK": {
     "name": "Aave LINK",
@@ -5031,10 +4680,7 @@
     "forked_data": [
       "https://etherscan.io/address/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
       "https://ethplorer.io/address/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave MKR": {
     "name": "Aave MKR",
@@ -5082,10 +4728,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
       "https://ethplorer.io/address/0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave SNX": {
     "name": "Aave SNX",
@@ -5133,10 +4776,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
       "https://ethplorer.io/address/0x328c4c80bc7aca0834db37e6600a6c49e12da4de"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave TUSD": {
     "name": "Aave TUSD",
@@ -5189,10 +4829,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341",
       "https://ethplorer.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aave [old]": {
     "name": "Aave [old]",
@@ -5233,10 +4870,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
       "https://ethplorer.io/address/0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Abitshadow Token": {
     "name": "Abitshadow Token",
@@ -5262,10 +4896,7 @@
       "20210307",
       "20210321"
     ],
-    "git": "https://github.com/Abitshadow/abitshadow",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Abitshadow/abitshadow"
   },
   "Absorber Protocol": {
     "name": "Absorber Protocol",
@@ -5341,10 +4972,7 @@
       "20210310",
       "20210316"
     ],
-    "git": "https://github.com/abulaba/aaa",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/abulaba/aaa"
   },
   "Abyss": {
     "name": "Abyss",
@@ -5431,10 +5059,7 @@
       "20210319",
       "20210320",
       "20210321"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aces": {
     "name": "Aces",
@@ -5543,10 +5168,7 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Achain-Dev/Achain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Achain-Dev/Achain"
   },
   "Acoin": {
     "name": "Acoin",
@@ -5611,10 +5233,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/acoin-project/acoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/acoin-project/acoin"
   },
   "Actinium": {
     "name": "Actinium",
@@ -5625,10 +5244,7 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Actinium-project",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Actinium-project"
   },
   "Acuity Token": {
     "name": "Acuity Token",
@@ -5718,10 +5334,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Acute Angle Cloud": {
     "name": "Acute Angle Cloud",
@@ -5739,10 +5352,7 @@
     "git": "https://github.com/AcuteAngleCloud",
     "deaths": [
       "20210225"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AdEx Network": {
     "name": "AdEx Network",
@@ -5817,10 +5427,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
       "https://ethplorer.io/address/0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Add.xyz": {
     "name": "Add.xyz",
@@ -5873,10 +5480,7 @@
       "20210308",
       "20210309",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aditus": {
     "name": "Aditus",
@@ -5892,10 +5496,7 @@
       "https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a",
       "https://explorer.binance.org/asset/ADI-6BB"
     ],
-    "git": "https://github.com/aditus/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aditus/"
   },
   "AdsByWiFi": {
     "name": "AdsByWiFi",
@@ -5943,10 +5544,7 @@
     "git": "https://github.com/adshares",
     "deaths": [
       "20201218"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Advanced Internet Blocks": {
     "name": "Advanced Internet Blocks",
@@ -6057,10 +5655,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AdvancedTechnologyCoin/arc_core",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AdvancedTechnologyCoin/arc_core"
   },
   "Adzcoin": {
     "name": "Adzcoin",
@@ -6141,10 +5736,7 @@
       "20210326",
       "20210328"
     ],
-    "git": "https://github.com/AdzCoin/adzcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AdzCoin/adzcoin"
   },
   "Aeon": {
     "name": "Aeon",
@@ -6157,10 +5749,7 @@
       "CryptoNight-Lite",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/aeonix/aeon",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aeonix/aeon"
   },
   "Aergo": {
     "name": "Aergo",
@@ -6179,10 +5768,7 @@
       "https://etherscan.io/token/0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
       "https://explorer.binance.org/asset/AERGO-46B"
     ],
-    "git": "https://github.com/aergoio",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aergoio"
   },
   "Aeron": {
     "name": "Aeron",
@@ -6200,10 +5786,7 @@
       "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
       "https://explorer.binance.org/asset/ARN-71B"
     ],
-    "git": "https://github.com/aeronaero/aeron",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aeronaero/aeron"
   },
   "Aerotoken": {
     "name": "Aerotoken",
@@ -6217,10 +5800,7 @@
       "https://etherscan.io/token/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784",
       "https://ethplorer.io/address/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
     ],
-    "git": "https://github.com/aerotoken",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aerotoken"
   },
   "Aeryus": {
     "name": "Aeryus",
@@ -6305,10 +5885,7 @@
       "20210325",
       "20210326",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aeternity": {
     "name": "Aeternity",
@@ -6321,10 +5898,7 @@
       "Privacy",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/aeternity",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aeternity"
   },
   "Affil Coin": {
     "name": "Affil Coin",
@@ -6446,10 +6020,7 @@
       "20210324",
       "20210329"
     ],
-    "git": "https://github.com/AfroDex/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AfroDex/"
   },
   "AgaveCoin": {
     "name": "AgaveCoin",
@@ -6488,10 +6059,7 @@
       "https://etherscan.io/token/0x8b79656FC38a04044E495e22fAD747126ca305C4",
       "https://ethplorer.io/address/0x8b79656FC38a04044E495e22fAD747126ca305C4"
     ],
-    "git": "https://github.com/tanogedler/agavecoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/tanogedler/agavecoin"
   },
   "Agora": {
     "name": "Agora",
@@ -6668,10 +6236,7 @@
       "20210320",
       "20210321",
       "20210326"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AiLink Token": {
     "name": "AiLink Token",
@@ -6689,10 +6254,7 @@
     ],
     "deaths": [
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AidCoin": {
     "name": "AidCoin",
@@ -6713,10 +6275,7 @@
       "20210114",
       "20210127",
       "20210228"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aidos Kuneen": {
     "name": "Aidos Kuneen",
@@ -6726,10 +6285,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AidosKuneen",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AidosKuneen"
   },
   "Aigang": {
     "name": "Aigang",
@@ -6837,10 +6393,7 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/aionnetwork",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aionnetwork"
   },
   "AirSwap": {
     "name": "AirSwap",
@@ -6860,10 +6413,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
     ],
-    "git": "https://github.com/airswap/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/airswap/"
   },
   "AirWire": {
     "name": "AirWire",
@@ -6970,10 +6520,7 @@
       "https://etherscan.io/token/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
       "https://ethplorer.io/address/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
       "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aitheon": {
     "name": "Aitheon",
@@ -7043,10 +6590,7 @@
       "20210310",
       "20210311",
       "20210316"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aitra": {
     "name": "Aitra",
@@ -7056,10 +6600,7 @@
       "Token"
     ],
     "explorer": "https://explorer.aitra.io/",
-    "git": "https://github.com/aitracoinofficial/AITRA",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aitracoinofficial/AITRA"
   },
   "Akash Network": {
     "name": "Akash Network",
@@ -7068,10 +6609,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Akita Inu": {
     "name": "Akita Inu",
@@ -7086,10 +6624,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
       "https://ethplorer.io/address/0x3301ee63fb29f863f2333bd4466acb46cd8323e6"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Akoin": {
     "name": "Akoin",
@@ -7098,10 +6633,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Akroma": {
     "name": "Akroma",
@@ -7164,10 +6696,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/akroma-project/akroma",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/akroma-project/akroma"
   },
   "Akropolis": {
     "name": "Akropolis",
@@ -7188,10 +6717,7 @@
       "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
       "https://ethplorer.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
     ],
-    "git": "https://github.com/akropolisio",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/akropolisio"
   },
   "Akropolis Delphi": {
     "name": "Akropolis Delphi",
@@ -7206,10 +6732,7 @@
       "https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182",
       "https://ethplorer.io/address/0x94d863173ee77439e4292284ff13fad54b3ba182"
     ],
-    "git": "https://github.com/akropolisio",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/akropolisio"
   },
   "Aladdin": {
     "name": "Aladdin",
@@ -7266,10 +6789,7 @@
       "https://etherscan.io/token/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8",
       "https://ethplorer.io/address/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8"
     ],
-    "git": "https://github.com/lee01101985/token.git",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/lee01101985/token.git"
   },
   "Alaya": {
     "name": "Alaya",
@@ -7277,10 +6797,7 @@
     "url": "/currencies/alaya",
     "tags": [
       "Token"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alchemint Standards": {
     "name": "Alchemint Standards",
@@ -7313,10 +6830,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
       "https://ethplorer.io/address/0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alchemy": {
     "name": "Alchemy",
@@ -7330,10 +6844,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xfd25676fc2c4421778b18ec7ab86e7c5701df187",
       "https://ethplorer.io/address/0xfd25676fc2c4421778b18ec7ab86e7c5701df187"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alchemy Pay": {
     "name": "Alchemy Pay",
@@ -7343,10 +6854,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Alchemy-GPS",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Alchemy-GPS"
   },
   "Aleph.im": {
     "name": "Aleph.im",
@@ -7379,10 +6887,7 @@
     "git": "https://github.com/algovestavs",
     "forked_data": [
       "https://etherscan.io/token/0x94d916873b22c9c1b53695f1c002f78537b9b3b2"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Algorand": {
     "name": "Algorand",
@@ -7397,10 +6902,7 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/algorand",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/algorand"
   },
   "Algory Project": {
     "name": "Algory Project",
@@ -7496,10 +6998,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
       "https://ethplorer.io/address/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "All.me": {
     "name": "All.me",
@@ -7513,10 +7012,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x76574c7b61b07ba14eace42e60cc73a08038da85",
       "https://ethplorer.io/address/0x76574c7b61b07ba14eace42e60cc73a08038da85"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AllSafe": {
     "name": "AllSafe",
@@ -7528,10 +7024,7 @@
       "Scrypt",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Artinvest/Allsafe/releases",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Artinvest/Allsafe/releases"
   },
   "AllWin DeFi": {
     "name": "AllWin DeFi",
@@ -7594,10 +7087,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AllianceBlock": {
     "name": "AllianceBlock",
@@ -7611,10 +7101,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
       "https://ethplorer.io/address/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AlloHash": {
     "name": "AlloHash",
@@ -7629,10 +7116,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x4c6719bf85903d18c295da44216f862b01b36f43",
       "https://ethplorer.io/address/0x4c6719bf85903d18c295da44216f862b01b36f43"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Almace Shards": {
     "name": "Almace Shards",
@@ -7671,10 +7155,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b",
       "https://ethplorer.io/address/0x25a3dcabbf0070cb8e5baaa62d576cf6643afb5b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aloha": {
     "name": "Aloha",
@@ -7688,10 +7169,7 @@
     "git": "https://github.com/Aloha-Open-Wifi",
     "forked_data": [
       "https://etherscan.io/token/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alpaca City": {
     "name": "Alpaca City",
@@ -7725,10 +7203,7 @@
     "git": "https://github.com/alpaca-finance",
     "forked_data": [
       "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alpha Coin": {
     "name": "Alpha Coin",
@@ -7742,10 +7217,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829",
       "https://ethplorer.io/address/0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alpha Finance Lab": {
     "name": "Alpha Finance Lab",
@@ -7779,10 +7251,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/alphaquark/Alpha-Quark",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/alphaquark/Alpha-Quark"
   },
   "Alpha Token": {
     "name": "Alpha Token",
@@ -7917,10 +7386,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AlphaLink": {
     "name": "AlphaLink",
@@ -7960,10 +7426,7 @@
       "20210319",
       "20210320",
       "20210325"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alphacat": {
     "name": "Alphacat",
@@ -7976,10 +7439,7 @@
     ],
     "forked_data": [
       "https://neotracker.io/asset/7f86d61ff377f1b12e589a5907152b57e2ad9a7a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Alt.Estate token": {
     "name": "Alt.Estate token",
@@ -8107,10 +7567,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aludra Network": {
     "name": "Aludra Network",
@@ -8173,10 +7630,7 @@
       "20210316",
       "20210317",
       "20210318"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aluna.Social": {
     "name": "Aluna.Social",
@@ -8253,10 +7707,7 @@
       "Enterprise solutions",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ambrosus",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ambrosus"
   },
   "AmericanHorror.Finance": {
     "name": "AmericanHorror.Finance",
@@ -8331,10 +7782,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Amino Network": {
     "name": "Amino Network",
@@ -8356,10 +7804,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Amon": {
     "name": "Amon",
@@ -8372,10 +7817,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c"
     ],
-    "git": "https://github.com/amontech",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/amontech"
   },
   "AmonD": {
     "name": "AmonD",
@@ -8390,10 +7832,7 @@
       "https://etherscan.io/token/0x00059ae69c1622a7542edc15e8d17b060fe307b6",
       "https://ethplorer.io/address/0x00059ae69c1622a7542edc15e8d17b060fe307b6"
     ],
-    "git": "https://github.com/amond-project",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/amond-project"
   },
   "Amoveo": {
     "name": "Amoveo",
@@ -8422,10 +7861,7 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/zack-bitcoin/amoveo/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/zack-bitcoin/amoveo/"
   },
   "Amp": {
     "name": "Amp",
@@ -8458,10 +7894,7 @@
       "https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
       "https://ethplorer.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161"
     ],
-    "git": "https://github.com/ampleforth",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ampleforth"
   },
   "AmsterdamCoin": {
     "name": "AmsterdamCoin",
@@ -8556,10 +7989,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/CoinProjects/AmsterdamCoin-v4/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/CoinProjects/AmsterdamCoin-v4/"
   },
   "Amun Bitcoin 3x Daily Long": {
     "name": "Amun Bitcoin 3x Daily Long",
@@ -8641,10 +8071,7 @@
     "sawBirth": "20210106",
     "forked_data": [
       "https://etherscan.io/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Anchor": {
     "name": "Anchor",
@@ -8658,10 +8085,7 @@
       "https://etherscan.io/token/0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
       "https://ethplorer.io/address/0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5"
     ],
-    "git": "https://github.com/AnchorProject/anchor-tokens",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AnchorProject/anchor-tokens"
   },
   "Anchor Neural World": {
     "name": "Anchor Neural World",
@@ -8691,10 +8115,7 @@
     "git": "https://github.com/Anchor-Protocol",
     "forked_data": [
       "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Animal Friends United": {
     "name": "Animal Friends United",
@@ -8715,10 +8136,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AnimalGo": {
     "name": "AnimalGo",
@@ -8785,10 +8203,7 @@
     "sawBirth": "20210205",
     "forked_data": [
       "https://bscscan.com/token/0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Ankr": {
     "name": "Ankr",
@@ -8811,10 +8226,7 @@
       "https://explorer.binance.org/asset/ANKR-E97",
       "https://bscscan.com/token/0xf307910a4c7bbc79691fd374889b36d8531b08e3"
     ],
-    "git": "https://github.com/Ankr-network",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Ankr-network"
   },
   "Anoncoin": {
     "name": "Anoncoin",
@@ -8851,10 +8263,7 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/Anoncoin/anoncoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Anoncoin/anoncoin"
   },
   "AntiMatter": {
     "name": "AntiMatter",
@@ -8877,10 +8286,7 @@
       "https://etherscan.io/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
       "https://bscscan.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
       "https://hecoinfo.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Antiample": {
     "name": "Antiample",
@@ -8914,10 +8320,7 @@
       "20210307",
       "20210317",
       "20210319"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AntiscamToken": {
     "name": "AntiscamToken",
@@ -9018,10 +8421,7 @@
     "tags": [
       "Token",
       "DeFi"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Ape Tools": {
     "name": "Ape Tools",
@@ -9035,10 +8435,7 @@
     "sawBirth": "20210224",
     "forked_data": [
       "https://bscscan.com/token/0x355ad7aBB7bdD53beC94c068F3ABbCB2E2571d0D"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ApeSwap Finance": {
     "name": "ApeSwap Finance",
@@ -9117,10 +8514,7 @@
       "20210228",
       "20210301",
       "20210302"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Apiary Fund Coin": {
     "name": "Apiary Fund Coin",
@@ -9134,10 +8528,7 @@
       "https://etherscan.io/token/0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f",
       "https://ethplorer.io/address/0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f"
     ],
-    "git": "https://github.com/exchangecoinman/AFC/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/exchangecoinman/AFC/"
   },
   "Apollo Currency": {
     "name": "Apollo Currency",
@@ -9231,10 +8622,7 @@
       "20210326",
       "20210329"
     ],
-    "git": "https://github.com/apollondeveloper/ApollonCore/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/apollondeveloper/ApollonCore/"
   },
   "Apollon Limassol": {
     "name": "Apollon Limassol",
@@ -9296,10 +8684,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AppCoins": {
     "name": "AppCoins",
@@ -9312,10 +8697,7 @@
       "DApp",
       "NoGitHub"
     ],
-    "explorer": "https://appcexplorer.io/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "explorer": "https://appcexplorer.io/"
   },
   "Apple Finance": {
     "name": "Apple Finance",
@@ -9330,10 +8712,7 @@
     "git": "https://github.com/AppleFi/AppleFi",
     "forked_data": [
       "https://etherscan.io/token/0x69275aC5477F3A9DC051180BC559140Bc647F8E9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Apple Network": {
     "name": "Apple Network",
@@ -9408,10 +8787,7 @@
       "20210324",
       "20210325"
     ],
-    "git": "https://github.com/atoo388/Apple.network",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/atoo388/Apple.network"
   },
   "Apple tokenized stock Bittrex": {
     "name": "Apple tokenized stock Bittrex",
@@ -9523,10 +8899,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AquariusNetwork/ARCO",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AquariusNetwork/ARCO"
   },
   "Aquila Protocol": {
     "name": "Aquila Protocol",
@@ -9566,10 +8939,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aragon": {
     "name": "Aragon",
@@ -9588,10 +8958,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa117000000f279d81a1d3cc75430faa017fa5a2e",
       "https://ethplorer.io/address/0xa117000000f279d81a1d3cc75430faa017fa5a2e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aragon Court": {
     "name": "Aragon Court",
@@ -9631,10 +8998,7 @@
     ],
     "deaths": [
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ArbitrageCT": {
     "name": "ArbitrageCT",
@@ -9724,10 +9088,7 @@
       "20210325",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Arcblock": {
     "name": "Arcblock",
@@ -9743,10 +9104,7 @@
       "https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986",
       "https://ethplorer.io/address/0xb98d4c97425d9908e66e53a6fdf673acca0be986"
     ],
-    "git": "https://github.com/arcblock",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/arcblock"
   },
   "Archer DAO Governance Token": {
     "name": "Archer DAO Governance Token",
@@ -9759,10 +9117,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
     ],
-    "git": "https://github.com/archerdao/governance",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/archerdao/governance"
   },
   "Arcona": {
     "name": "Arcona",
@@ -9806,10 +9161,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "ArdCoin": {
     "name": "ArdCoin",
@@ -9828,10 +9180,7 @@
     "deaths": [
       "20210127",
       "20210307"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Ardor": {
     "name": "Ardor",
@@ -9843,10 +9192,7 @@
       "Enterprise solutions",
       "State channels",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Arepacoin": {
     "name": "Arepacoin",
@@ -9858,10 +9204,7 @@
       "ArepaCoinL",
       "NovacoinL"
     ],
-    "git": "https://github.com/ProjectArepa/ArepaCoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ProjectArepa/ArepaCoin"
   },
   "Argon": {
     "name": "Argon",
@@ -9875,10 +9218,7 @@
     "git": "https://github.com/ahmetoznar/ArgonPlatform",
     "forked_data": [
       "https://bscscan.com/token/0x851f7a700c5d67db59612b871338a85526752c25"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Argus": {
     "name": "Argus",
@@ -9986,10 +9326,7 @@
     "deaths": [
       "20210126",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Arionum": {
     "name": "Arionum",
@@ -10004,10 +9341,7 @@
     "deaths": [
       "20201201"
     ],
-    "git": "https://github.com/arionum/node",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/arionum/node"
   },
   "Ark": {
     "name": "Ark",
@@ -10025,10 +9359,7 @@
       "Interoperability",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ArkEcosystem",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ArkEcosystem"
   },
   "Armor NXM": {
     "name": "Armor NXM",
@@ -10064,10 +9395,7 @@
       "20210308",
       "20210309",
       "20210311"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Arqma": {
     "name": "Arqma",
@@ -10077,10 +9405,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/arqma",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/arqma"
   },
   "Arro Social": {
     "name": "Arro Social",
@@ -10219,10 +9544,7 @@
       "IPFS",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ArweaveTeam/arweave",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/ArweaveTeam/arweave"
   },
   "Aryacoin": {
     "name": "Aryacoin",
@@ -10233,10 +9555,7 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/Aryacoin/Aryacoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Aryacoin/Aryacoin"
   },
   "Asac Coin": {
     "name": "Asac Coin",
@@ -10299,10 +9618,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AscendEX (BitMax) Token": {
     "name": "AscendEX (BitMax) Token",
@@ -10333,10 +9649,7 @@
       "DApp",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AschPlatform",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AschPlatform"
   },
   "Asgard finance": {
     "name": "Asgard finance",
@@ -10350,10 +9663,7 @@
     "sawBirth": "20210304",
     "forked_data": [
       "https://bscscan.com/token/0x91a92482526eb04e60e4372a919b74027f1ad935"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Asia Reserve Currency Coin": {
     "name": "Asia Reserve Currency Coin",
@@ -10365,10 +9675,7 @@
     ],
     "sawBirth": "20210302",
     "explorer": "https://algoexplorer.io/tx/RR6ACOE4TJ6BOPEWFNWLE22IGX4WIG32O7BCMMFOKYTK5V7JQW5Q",
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Asian Dragon": {
     "name": "Asian Dragon",
@@ -10390,10 +9697,7 @@
       "20210114",
       "20210115",
       "20210118"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Asian Fintech": {
     "name": "Asian Fintech",
@@ -10462,10 +9766,7 @@
     ],
     "forked_data": [
       "https://eospark.com/token/acc/accissuer123"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aspire": {
     "name": "Aspire",
@@ -10475,10 +9776,7 @@
       "Token"
     ],
     "explorer": "https://www.aspireexplorer.com/",
-    "git": "https://github.com/AspireOrg",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AspireOrg"
   },
   "Assemble Protocol": {
     "name": "Assemble Protocol",
@@ -10492,10 +9790,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2565ae0385659badcada1031db704442e1b69982",
       "https://ethplorer.io/address/0x2565ae0385659badcada1031db704442e1b69982"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aston": {
     "name": "Aston",
@@ -10524,10 +9819,7 @@
       "20201217",
       "20201218",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Astosch": {
     "name": "Astosch",
@@ -10627,10 +9919,7 @@
       "20210304",
       "20210305",
       "20210306"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Astronaut": {
     "name": "Astronaut",
@@ -10698,10 +9987,7 @@
     "deaths": [
       "20201213",
       "20201216"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Atlantis Token": {
     "name": "Atlantis Token",
@@ -10784,10 +10070,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Atlas Protocol": {
     "name": "Atlas Protocol",
@@ -10804,10 +10087,7 @@
       "https://explorer.nebulas.io/#/token/n1zUNqeBPvsyrw5zxp9mKcDdLTjuaEL7s39",
       "https://explorer.binance.org/asset/ATP-38C"
     ],
-    "git": "https://github.com/AtlasProtocol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AtlasProtocol"
   },
   "Atlas Token": {
     "name": "Atlas Token",
@@ -10953,10 +10233,7 @@
     "git": "https://github.com/asphyxiating/atmostemp/tree/master/atmos-master",
     "forked_data": [
       "https://bloks.io/tokens/ATMOS-eos-novusphereio"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Atomic Wallet Coin": {
     "name": "Atomic Wallet Coin",
@@ -10970,10 +10247,7 @@
       "https://etherscan.io/token/0xad22f63404f7305e4713ccbd4f296f34770513f4",
       "https://ethplorer.io/address/0xad22f63404f7305e4713ccbd4f296f34770513f4"
     ],
-    "git": "https://github.com/Atomicwallet",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Atomicwallet"
   },
   "Atonomi": {
     "name": "Atonomi",
@@ -11016,10 +10290,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Attila": {
     "name": "Attila",
@@ -11033,10 +10304,7 @@
       "https://etherscan.io/token/0x89Fb927240750c1B15d4743cd58440fc5f14A11C",
       "https://ethplorer.io/address/0x89Fb927240750c1B15d4743cd58440fc5f14A11C"
     ],
-    "git": "https://github.com/attnetwork",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/attnetwork"
   },
   "Auctus": {
     "name": "Auctus",
@@ -11051,10 +10319,7 @@
       "https://etherscan.io/token/0xc12d099be31567add4e4e4d0d45691c3f58f5663",
       "https://ethplorer.io/address/0xc12d099be31567add4e4e4d0d45691c3f58f5663"
     ],
-    "git": "https://github.com/AuctusProject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AuctusProject"
   },
   "AudioCoin": {
     "name": "AudioCoin",
@@ -11125,10 +10390,7 @@
       "20210322",
       "20210328"
     ],
-    "git": "https://github.com/aurovine/audiocoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aurovine/audiocoin"
   },
   "Audius": {
     "name": "Audius",
@@ -11143,10 +10405,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Augur": {
     "name": "Augur",
@@ -11167,10 +10426,7 @@
       "https://ethplorer.io/address/0x1985365e9f78359a9b6ad760e32412f4a445e862",
       "https://blockchair.com/ethereum/erc-20/token/0x1985365e9f78359a9b6ad760e32412f4a445e862"
     ],
-    "git": "https://github.com/AugurProject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AugurProject"
   },
   "Aunite": {
     "name": "Aunite",
@@ -11215,10 +10471,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa",
       "https://ethplorer.io/address/0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Auric Network": {
     "name": "Auric Network",
@@ -11258,10 +10511,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10"
     ],
-    "git": "https://github.com/auricfinance/auric-finance",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/auricfinance/auric-finance"
   },
   "Aurix": {
     "name": "Aurix",
@@ -11276,10 +10526,7 @@
     "sawBirth": "20210323",
     "forked_data": [
       "https://etherscan.io/token/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Aurora": {
     "name": "Aurora",
@@ -11295,10 +10542,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a",
       "https://ethplorer.io/address/0x9ab165d795019b6d8b3e971dda91071421305e5a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Auroracoin": {
     "name": "Auroracoin",
@@ -11328,10 +10572,7 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/aurarad/auroracoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/aurarad/auroracoin"
   },
   "AurusCOIN": {
     "name": "AurusCOIN",
@@ -11351,10 +10592,7 @@
       "20201211",
       "20201213",
       "20201214"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "AurusDeFi": {
     "name": "AurusDeFi",
@@ -11414,10 +10652,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Australian Dollar Token": {
     "name": "Australian Dollar Token",
@@ -11450,10 +10685,7 @@
     "git": "https://github.com/autofarm-network/autofarmV2",
     "forked_data": [
       "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Autonio": {
     "name": "Autonio",
@@ -11470,10 +10702,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
       "https://ethplorer.io/address/0xc813ea5e3b48bebeedb796ab42a30c5599b01740"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Auxilium": {
     "name": "Auxilium",
@@ -11483,10 +10712,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/auxiliumglobal",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/auxiliumglobal"
   },
   "Avalanche": {
     "name": "Avalanche",
@@ -11595,10 +10821,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f",
       "https://ethplorer.io/address/0x0d88ed6e74bbfd96b831231638b66c05571e824f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Axe": {
     "name": "Axe",
@@ -11610,10 +10833,7 @@
       "Marketplace",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AXErunners",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/AXErunners"
   },
   "Axia Protocol": {
     "name": "Axia Protocol",
@@ -11662,10 +10882,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf5d669627376ebd411e34b98f19c868c8aba5ada",
       "https://ethplorer.io/address/0xf5d669627376ebd411e34b98f19c868c8aba5ada"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Axiom": {
     "name": "Axiom",
@@ -11802,10 +11019,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Axion": {
     "name": "Axion",
@@ -11837,10 +11051,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Axis DeFi": {
     "name": "Axis DeFi",
@@ -11854,10 +11065,7 @@
       "https://etherscan.io/token/0xecc0f1f860a82ab3b442382d93853c02d6384389",
       "https://ethplorer.io/address/0xecc0f1f860a82ab3b442382d93853c02d6384389"
     ],
-    "git": "https://github.com/axisdefi",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/axisdefi"
   },
   "Azbit": {
     "name": "Azbit",
@@ -11871,10 +11079,7 @@
       "https://etherscan.io/token/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
       "https://ethplorer.io/address/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99"
     ],
-    "git": "https://github.com/azbit-com/azbit-ico",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/azbit-com/azbit-ico"
   },
   "Azuki": {
     "name": "Azuki",
@@ -11889,10 +11094,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x910524678C0B1B23FFB9285a81f99C29C11CBaEd"
     ],
-    "git": "https://github.com/dokidokidefi",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/dokidokidefi"
   },
   "Azzure": {
     "name": "Azzure",
@@ -11922,10 +11124,7 @@
       "20210308",
       "20210309",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "B ONE PAYMENT": {
     "name": "B ONE PAYMENT",
@@ -11939,10 +11138,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
       "https://ethplorer.io/address/0x4b742b5bdb1d252907ae7f399a891d4a178dbc24"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "B20": {
     "name": "B20",
@@ -11958,10 +11154,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xc4de189abf94c57f396bd4c52ab13b954febefd8",
       "https://ethplorer.io/address/0xc4de189abf94c57f396bd4c52ab13b954febefd8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "B21 Invest": {
     "name": "B21 Invest",
@@ -12105,10 +11298,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BABY YODA FINANCE": {
     "name": "BABY YODA FINANCE",
@@ -12200,10 +11390,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BASIC": {
     "name": "BASIC",
@@ -12217,10 +11404,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf25c91c87e0b1fd9b4064af0f427157aab0193a7",
       "https://ethplorer.io/address/0xf25c91c87e0b1fd9b4064af0f427157aab0193a7"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BBSCoin": {
     "name": "BBSCoin",
@@ -12251,10 +11435,7 @@
       "20210205",
       "20210302"
     ],
-    "git": "https://github.com/bbscoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bbscoin"
   },
   "BCHDOWN": {
     "name": "BCHDOWN",
@@ -12371,10 +11552,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BEAT": {
     "name": "BEAT",
@@ -12426,10 +11604,7 @@
     "git": "https://github.com/believercards/believer",
     "deaths": [
       "20210328"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BEPRO Network": {
     "name": "BEPRO Network",
@@ -12531,10 +11706,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/BERNiecoin/BERNcash",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BERNiecoin/BERNcash"
   },
   "BFis.Finance": {
     "name": "BFis.Finance",
@@ -12680,10 +11852,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930",
       "https://ethplorer.io/address/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BIOKKOIN": {
     "name": "BIOKKOIN",
@@ -12715,10 +11884,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BITCOINHEDGE": {
     "name": "BITCOINHEDGE",
@@ -12774,10 +11940,7 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/bitcoinhedge/contract-source-code",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinhedge/contract-source-code"
   },
   "BITFXT COIN": {
     "name": "BITFXT COIN",
@@ -12838,10 +12001,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BITTO": {
     "name": "BITTO",
@@ -12944,10 +12104,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x7a8ca2f815a260660158a38c34ca321a3605ecfe",
       "https://ethplorer.io/address/0x7a8ca2f815a260660158a38c34ca321a3605ecfe"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BKEX Token": {
     "name": "BKEX Token",
@@ -12961,10 +12118,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c",
       "https://ethplorer.io/address/0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BLAST": {
     "name": "BLAST",
@@ -12980,10 +12134,7 @@
     "deaths": [
       "20210319",
       "20210321"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BLOC.MONEY": {
     "name": "BLOC.MONEY",
@@ -13010,10 +12161,7 @@
       "20210308",
       "20210309",
       "20210316"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BLOCKCLOUT": {
     "name": "BLOCKCLOUT",
@@ -13027,10 +12175,7 @@
       "https://etherscan.io/token/0xa10ae543db5d967a73e9abcc69c81a18a7fc0a78",
       "https://ethplorer.io/address/0xa10ae543db5d967a73e9abcc69c81a18a7fc0a78"
     ],
-    "git": "https://github.com/blockclout",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/blockclout"
   },
   "BLOCKIDCOIN": {
     "name": "BLOCKIDCOIN",
@@ -13040,10 +12185,7 @@
       "Coin",
       "BitcoinL"
     ],
-    "git": "https://github.com/blockidchain/blockidcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/blockidchain/blockidcoin"
   },
   "BLOCKMAX": {
     "name": "BLOCKMAX",
@@ -13092,10 +12234,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BLOCKv": {
     "name": "BLOCKv",
@@ -13112,10 +12251,7 @@
       "https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
       "https://ethplorer.io/address/0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
     ],
-    "git": "https://github.com/BLOCKvIO/documentation",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BLOCKvIO/documentation"
   },
   "BLink": {
     "name": "BLink",
@@ -13149,9 +12285,6 @@
       "forked_from": [
         "Binance"
       ]
-    },
-    "checkedWithGecko": {
-      "found": true
     }
   },
   "BMToken": {
@@ -13184,10 +12317,7 @@
       "20210122",
       "20210126"
     ],
-    "git": "https://github.com/beepmagnet/BmToken-contract",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/beepmagnet/BmToken-contract"
   },
   "BNBDOWN": {
     "name": "BNBDOWN",
@@ -13274,10 +12404,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd996035Db82cae33Ba1f16fDF23B816E5E9fAaBb",
       "https://ethplorer.io/address/0xd996035Db82cae33Ba1f16fDF23B816E5E9fAaBb"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BNSD Finance": {
     "name": "BNSD Finance",
@@ -13292,10 +12419,7 @@
       "https://etherscan.io/token/0x668DbF100635f593A3847c0bDaF21f0a09380188",
       "https://ethplorer.io/address/0x668dbf100635f593a3847c0bdaf21f0a09380188"
     ],
-    "git": "https://github.com/bitbns-official/bns-defi",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitbns-official/bns-defi"
   },
   "BOLT": {
     "name": "BOLT",
@@ -13314,10 +12438,7 @@
       "20210201",
       "20210202"
     ],
-    "git": "https://github.com/SyQic-Ops/bolt",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/SyQic-Ops/bolt"
   },
   "BOMB": {
     "name": "BOMB",
@@ -13331,10 +12452,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714",
       "https://ethplorer.io/address/0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BOOM": {
     "name": "BOOM",
@@ -13368,10 +12486,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
     ],
-    "git": "https://github.com/boraecosystem/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/boraecosystem/"
   },
   "BOSAGORA": {
     "name": "BOSAGORA",
@@ -13385,10 +12500,7 @@
       "https://etherscan.io/token/0x746dda2ea243400d5a63e0700f190ab79f06489e",
       "https://ethplorer.io/address/0x746dda2ea243400d5a63e0700f190ab79f06489e"
     ],
-    "git": "https://github.com/bpfkorea/agora",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bpfkorea/agora"
   },
   "BOSCore": {
     "name": "BOSCore",
@@ -13443,10 +12555,7 @@
       "20210309",
       "20210311",
       "20210317"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BOScoin": {
     "name": "BOScoin",
@@ -13473,10 +12582,7 @@
       "https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
       "https://ethplorer.io/address/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD"
     ],
-    "git": "https://github.com/boxproject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/boxproject"
   },
   "BPOP": {
     "name": "BPOP",
@@ -13509,10 +12615,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BQT": {
     "name": "BQT",
@@ -13532,10 +12635,7 @@
     "git": "https://github.com/bqtio/bqt",
     "deaths": [
       "20210311"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BSB Token": {
     "name": "BSB Token",
@@ -13602,9 +12702,6 @@
       "forked_from": [
         "Binance"
       ]
-    },
-    "checkedWithGecko": {
-      "found": true
     }
   },
   "BSC TOOLS": {
@@ -13656,10 +12753,7 @@
     "git": "https://github.com/bscex",
     "forked_data": [
       "https://bscscan.com/token/0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BSCPAD": {
     "name": "BSCPAD",
@@ -13675,10 +12769,7 @@
     "sawBirth": "20210303",
     "forked_data": [
       "https://bscscan.com/address/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BSCView": {
     "name": "BSCView",
@@ -13692,10 +12783,7 @@
     "sawBirth": "20210317",
     "forked_data": [
       "https://bscscan.com/token/0xbb3837fa11d4b789717c8f622ec4f6eee5375c49"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BSCstarter": {
     "name": "BSCstarter",
@@ -13707,10 +12795,7 @@
     ],
     "explorer": "https://bscscan.com",
     "sawBirth": "20210310",
-    "git": "https://github.com/bscstarter/crispy-octo",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bscstarter/crispy-octo"
   },
   "BSCswap": {
     "name": "BSCswap",
@@ -13762,10 +12847,7 @@
     "git": "https://github.com/bscswap",
     "forked_data": [
       "https://bscscan.com/token/0xacc234978a5eb941665fd051ca48765610d82584"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BSYS": {
     "name": "BSYS",
@@ -13779,10 +12861,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5",
       "https://ethplorer.io/address/0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BT.Finance": {
     "name": "BT.Finance",
@@ -13797,10 +12876,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
       "https://ethplorer.io/address/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BTC Lite": {
     "name": "BTC Lite",
@@ -13828,10 +12904,7 @@
       "20210320",
       "20210322"
     ],
-    "git": "https://github.com/btc-lite",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/btc-lite"
   },
   "BTC Network Demand Set II": {
     "name": "BTC Network Demand Set II",
@@ -13927,10 +13000,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BTCDOWN": {
     "name": "BTCDOWN",
@@ -14059,10 +13129,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
       "https://ethplorer.io/address/0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BUILD Finance": {
     "name": "BUILD Finance",
@@ -14080,10 +13147,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
       "https://ethplorer.io/address/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BULLS": {
     "name": "BULLS",
@@ -14097,10 +13161,7 @@
     "sawBirth": "20210129",
     "forked_data": [
       "https://wavesexplorer.com/assets/3UtUR8pTsgXrzvKByGzGCbdfUsLZZUpaYsz88cRxyHBC"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BUMO": {
     "name": "BUMO",
@@ -14110,10 +13171,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bumoproject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bumoproject"
   },
   "BUX Platform Token": {
     "name": "BUX Platform Token",
@@ -14193,10 +13251,7 @@
       "20210323",
       "20210326"
     ],
-    "git": "https://github.com/buzzcoin-project/BUZZ",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/buzzcoin-project/BUZZ"
   },
   "BZEdge": {
     "name": "BZEdge",
@@ -14215,10 +13270,7 @@
       "20210115",
       "20210127"
     ],
-    "git": "https://github.com/bze-alphateam/bzedge",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bze-alphateam/bzedge"
   },
   "BaaSid": {
     "name": "BaaSid",
@@ -14232,10 +13284,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
       "https://ethplorer.io/address/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BackPacker Coin": {
     "name": "BackPacker Coin",
@@ -14252,10 +13301,7 @@
       "20210209",
       "20210213",
       "20210215"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Badger DAO": {
     "name": "Badger DAO",
@@ -14273,10 +13319,7 @@
     "sawBirth": "20201207",
     "forked_data": [
       "https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Baer Chain": {
     "name": "Baer Chain",
@@ -14345,10 +13388,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Baguette Token": {
     "name": "Baguette Token",
@@ -14424,10 +13464,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BakeryToken": {
     "name": "BakeryToken",
@@ -14446,10 +13483,7 @@
     "forked_data": [
       "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
     ],
-    "git": "https://github.com/BakeryProject",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BakeryProject"
   },
   "Balancer": {
     "name": "Balancer",
@@ -14467,10 +13501,7 @@
       "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
       "https://ethplorer.io/address/0xba100000625a3754423978a60c9317c58a424e3D"
     ],
-    "git": "https://github.com/balancer-labs",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/balancer-labs"
   },
   "Bali Coin": {
     "name": "Bali Coin",
@@ -14543,10 +13574,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa1454f9c704af96636f3a7532b9a04c411f85680",
       "https://ethplorer.io/address/0xa1454f9c704af96636f3a7532b9a04c411f85680"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BambooDeFi": {
     "name": "BambooDeFi",
@@ -14561,10 +13589,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
       "https://ethplorer.io/address/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Banana.finance": {
     "name": "Banana.finance",
@@ -14579,10 +13604,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
       "https://ethplorer.io/address/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bananatok": {
     "name": "Bananatok",
@@ -14596,10 +13618,7 @@
       "https://etherscan.io/token/0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
       "https://ethplorer.io/address/0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8"
     ],
-    "git": "https://github.com/Bananatok/Bananatok",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bananatok/Bananatok"
   },
   "Banano": {
     "name": "Banano",
@@ -14609,10 +13628,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bananocoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bananocoin"
   },
   "BananoDOS": {
     "name": "BananoDOS",
@@ -14712,10 +13728,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x998b3b82bc9dba173990be7afb772788b5acb8bd",
       "https://ethplorer.io/address/0x998b3b82bc9dba173990be7afb772788b5acb8bd"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bancacy": {
     "name": "Bancacy",
@@ -14831,10 +13844,7 @@
       "https://etherscan.io/token/Bancor",
       "https://ethplorer.io/address/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
     ],
-    "git": "https://github.com/bancorprotocol/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bancorprotocol/"
   },
   "Bancor Governance Token": {
     "name": "Bancor Governance Token",
@@ -14855,10 +13865,7 @@
     ],
     "deaths": [
       "20210325"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Band Protocol": {
     "name": "Band Protocol",
@@ -14878,10 +13885,7 @@
       "https://ethplorer.io/address/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
       "https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
     ],
-    "git": "https://github.com/bandprotocol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bandprotocol"
   },
   "Bankcoin": {
     "name": "Bankcoin",
@@ -14907,10 +13911,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/BankcoinReserve/bankcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BankcoinReserve/bankcoin"
   },
   "Bankera": {
     "name": "Bankera",
@@ -14927,10 +13928,7 @@
       "https://etherscan.io/token/0xc80c5e40220172b36adee2c951f26f2a577810c5",
       "https://ethplorer.io/address/0xc80c5e40220172b36adee2c951f26f2a577810c5"
     ],
-    "git": "https://github.com/Bankera-token/BNK-ETH-Contract",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bankera-token/BNK-ETH-Contract"
   },
   "Bankroll Network": {
     "name": "Bankroll Network",
@@ -15029,10 +14027,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bankroll Vault": {
     "name": "Bankroll Vault",
@@ -15081,10 +14076,7 @@
       "20210317",
       "20210319"
     ],
-    "git": "https://github.com/bankrollnetwork",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bankrollnetwork"
   },
   "Bao Finance": {
     "name": "Bao Finance",
@@ -15099,10 +14091,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
       "https://ethplorer.io/address/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Barkis Network": {
     "name": "Barkis Network",
@@ -15151,10 +14140,7 @@
       "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
       "https://ethplorer.io/address/0x0391D2021f89DC339F60Fff84546EA23E337750f"
     ],
-    "git": "https://github.com/BarnBridge/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BarnBridge/"
   },
   "Baroin": {
     "name": "Baroin",
@@ -15167,10 +14153,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x4893a1938df49f4178c37e4e965cc8a1b3882173"
     ],
-    "git": "https://github.com/Baroin-BRI/Contract-Source-Code/blob/main/README.md",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Baroin-BRI/Contract-Source-Code/blob/main/README.md"
   },
   "Barter": {
     "name": "Barter",
@@ -15197,10 +14180,7 @@
       "20210122",
       "20210126"
     ],
-    "git": "https://github.com/bartersmartplace/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bartersmartplace/"
   },
   "BarterTrade": {
     "name": "BarterTrade",
@@ -15213,10 +14193,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba"
     ],
-    "git": "https://github.com/BarterTrade",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BarterTrade"
   },
   "Base Protocol": {
     "name": "Base Protocol",
@@ -15231,10 +14208,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x07150e919b4de5fd6a63de1f9384828396f25fdc"
     ],
-    "git": "https://github.com/Base-Protocol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Base-Protocol"
   },
   "Based Money": {
     "name": "Based Money",
@@ -15270,10 +14244,7 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/cryptoghoulz",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cryptoghoulz"
   },
   "Basic Attention Token": {
     "name": "Basic Attention Token",
@@ -15292,10 +14263,7 @@
       "https://ethplorer.io/address/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
       "https://blockchair.com/ethereum/erc-20/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
       "https://eth.tokenview.com/en/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basid Coin": {
     "name": "Basid Coin",
@@ -15309,10 +14277,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xe33f363351186e185470f35F6DeB94ABa44347D8",
       "https://ethplorer.io/address/0xe33f363351186e185470f35F6DeB94ABa44347D8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basis Cash": {
     "name": "Basis Cash",
@@ -15328,10 +14293,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basis Dollar": {
     "name": "Basis Dollar",
@@ -15364,10 +14326,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basis Dollar Share": {
     "name": "Basis Dollar Share",
@@ -15401,10 +14360,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basis Gold": {
     "name": "Basis Gold",
@@ -15432,10 +14388,7 @@
       "Token"
     ],
     "sawBirth": "20210115",
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Basis Share": {
     "name": "Basis Share",
@@ -15452,10 +14405,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696"
     ],
-    "git": "https://github.com/Basis-Cash",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Basis-Cash"
   },
   "Basiscoin Cash": {
     "name": "Basiscoin Cash",
@@ -15583,10 +14533,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Basix": {
     "name": "Basix",
@@ -15661,10 +14608,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bat True Dollar": {
     "name": "Bat True Dollar",
@@ -15743,10 +14687,7 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/BTA-BATA/Bataoshi/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BTA-BATA/Bataoshi/"
   },
   "Battle Pets": {
     "name": "Battle Pets",
@@ -15770,10 +14711,7 @@
     ],
     "forked_data": [
       "https://bscscan.com/token/0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Baz Token": {
     "name": "Baz Token",
@@ -15807,10 +14745,7 @@
       "20201201",
       "20201217"
     ],
-    "git": "https://github.com/beaconcrypto/beacon",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/beaconcrypto/beacon"
   },
   "Beacon ETH": {
     "name": "Beacon ETH",
@@ -15841,10 +14776,7 @@
       "LelantusMW",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/BeamMW/beam",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BeamMW/beam"
   },
   "Bean Cash": {
     "name": "Bean Cash",
@@ -15912,10 +14844,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/TeamBitBean/bitbean-core",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/TeamBitBean/bitbean-core"
   },
   "Bearn": {
     "name": "Bearn",
@@ -15950,10 +14879,7 @@
     ],
     "deaths": [
       "20210317"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Beaxy": {
     "name": "Beaxy",
@@ -16174,10 +15100,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
       "https://ethplorer.io/address/0x6a27348483d59150ae76ef4c0f3622a78b0ca698"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BeeStore": {
     "name": "BeeStore",
@@ -16251,10 +15174,7 @@
     "deaths": [
       "01011970",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Beer Money": {
     "name": "Beer Money",
@@ -16274,10 +15194,7 @@
     ],
     "forked_data": [
       "https://explorer.nemtool.com/#/mosaic?m=beer&ns=beer-money"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Beetle Coin": {
     "name": "Beetle Coin",
@@ -16293,10 +15210,7 @@
       "DashL",
       "PIVXL"
     ],
-    "git": "https://github.com/beetledev/Wallet",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/beetledev/Wallet"
   },
   "Behodler": {
     "name": "Behodler",
@@ -16340,10 +15254,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bela": {
     "name": "Bela",
@@ -16440,10 +15351,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Beldex": {
     "name": "Beldex",
@@ -16456,10 +15364,7 @@
       "Discount token",
       "Privacy",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bella Protocol": {
     "name": "Bella Protocol",
@@ -16475,10 +15380,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bellevue Network": {
     "name": "Bellevue Network",
@@ -16577,10 +15479,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Belt": {
     "name": "Belt",
@@ -16601,10 +15500,7 @@
       "20210324",
       "20210324",
       "20210325"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Benchmark Protocol": {
     "name": "Benchmark Protocol",
@@ -16620,10 +15516,7 @@
     "forked_data": [
       "https://etherscan.io/address/0x67c597624b17b16fb77959217360b7cd18284253"
     ],
-    "git": "https://github.com/benchmarkprotocol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/benchmarkprotocol"
   },
   "BenePit Protocol": {
     "name": "BenePit Protocol",
@@ -16715,10 +15608,7 @@
       "20210325",
       "20210328"
     ],
-    "git": "https://github.com/elangindonesia",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/elangindonesia"
   },
   "Beowulf": {
     "name": "Beowulf",
@@ -16732,10 +15622,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
       "https://ethplorer.io/address/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Berry": {
     "name": "Berry",
@@ -16763,10 +15650,7 @@
     "git": "https://github.com/berrydata",
     "forked_data": [
       "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bestay": {
     "name": "Bestay",
@@ -16781,10 +15665,7 @@
       "https://etherscan.io/token/0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5",
       "https://ethplorer.io/address/0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5"
     ],
-    "git": "https://github.com",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com"
   },
   "BetProtocol": {
     "name": "BetProtocol",
@@ -16821,10 +15702,7 @@
     ],
     "forked_data": [
       "https://omniexplorer.info/asset/840"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bethereum": {
     "name": "Bethereum",
@@ -16857,10 +15735,7 @@
       "20201217",
       "20201218",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BetterBetting": {
     "name": "BetterBetting",
@@ -16940,10 +15815,7 @@
       "20210317",
       "20210318",
       "20210319"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Beyond Meat Inc tokenized stock Bittrex": {
     "name": "Beyond Meat Inc tokenized stock Bittrex",
@@ -17000,10 +15872,7 @@
       "01011970"
     ],
     "sawBirth": "20201207",
-    "git": "https://github.com/beyondcoin-project/beyondcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/beyondcoin-project/beyondcoin"
   },
   "Bezant": {
     "name": "Bezant",
@@ -17017,10 +15886,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xe1aee98495365fc179699c1bb3e761fa716bee62",
       "https://ethplorer.io/address/0xe1aee98495365fc179699c1bb3e761fa716bee62"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bezop": {
     "name": "Bezop",
@@ -17077,10 +15943,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bfine": {
     "name": "Bfine",
@@ -17106,10 +15969,7 @@
       "20201217",
       "20201218",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bgogo Token": {
     "name": "Bgogo Token",
@@ -17231,10 +16091,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xdb7bb52ac3f9e2f6153a3f9dcdd4d67f9f836034",
       "https://ethplorer.io/address/0xdb7bb52ac3f9e2f6153a3f9dcdd4d67f9f836034"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BiLira": {
     "name": "BiLira",
@@ -17250,10 +16107,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
       "https://ethplorer.io/address/0x2c537e5624e4af88a7ae4060c022609376c8d0eb"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BiTToken": {
     "name": "BiTToken",
@@ -17268,10 +16122,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
       "https://ethplorer.io/address/0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BiblePay": {
     "name": "BiblePay",
@@ -17284,10 +16135,7 @@
       "Payments",
       "BitcoinL"
     ],
-    "git": "https://github.com/biblepay/biblepay-evolution",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/biblepay/biblepay-evolution"
   },
   "Bibox Token": {
     "name": "Bibox Token",
@@ -17304,10 +16152,7 @@
       "https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
       "https://ethplorer.io/address/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069"
     ],
-    "git": "https://github.com/bibox365/bixtoken",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bibox365/bixtoken"
   },
   "Bidao": {
     "name": "Bidao",
@@ -17321,10 +16166,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
       "https://ethplorer.io/address/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bidesk": {
     "name": "Bidesk",
@@ -17379,10 +16221,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BidiPass": {
     "name": "BidiPass",
@@ -17396,10 +16235,7 @@
       "https://etherscan.io/token/0x593114f03a0a575aece9ed675e52ed68d2172b8c",
       "https://ethplorer.io/address/0x593114f03a0a575aece9ed675e52ed68d2172b8c"
     ],
-    "git": "https://github.com/BidiPassCompany",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BidiPassCompany"
   },
   "Bifrost (BFC)": {
     "name": "Bifrost (BFC)",
@@ -17414,10 +16250,7 @@
     "sawBirth": "20210106",
     "forked_data": [
       "https://etherscan.io/address/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Big Bang Game Coin": {
     "name": "Big Bang Game Coin",
@@ -17475,10 +16308,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
       "https://ethplorer.io/address/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BigBang Core": {
     "name": "BigBang Core",
@@ -17488,10 +16318,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bigbangcore/BigBang",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bigbangcore/BigBang"
   },
   "BigBoys Industry": {
     "name": "BigBoys Industry",
@@ -17506,10 +16333,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x336c21557185079F42F6fFC098aB572c87AE9435",
       "https://ethplorer.io/address/0x336c21557185079F42F6fFC098aB572c87AE9435"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BigGame": {
     "name": "BigGame",
@@ -17684,10 +16508,7 @@
       "20201216",
       "20201217",
       "20201218"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Billionaire Token": {
     "name": "Billionaire Token",
@@ -17842,10 +16663,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Binance USD": {
     "name": "Binance USD",
@@ -17866,10 +16684,7 @@
       "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "https://explorer.binance.org/asset/BUSD-BD1"
     ],
-    "git": "https://github.com/paxosglobal/busd-contract",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/paxosglobal/busd-contract"
   },
   "Binance VND": {
     "name": "Binance VND",
@@ -17904,10 +16719,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bincentive": {
     "name": "Bincentive",
@@ -17921,10 +16733,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x9669890e48f330acd88b78d63e1a6b3482652cd9",
       "https://ethplorer.io/address/0x9669890e48f330acd88b78d63e1a6b3482652cd9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bintex Futures": {
     "name": "Bintex Futures",
@@ -17938,10 +16747,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2",
       "https://ethplorer.io/address/0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BioNTech tokenized stock Bittrex": {
     "name": "BioNTech tokenized stock Bittrex",
@@ -18136,10 +16942,7 @@
       "20210321",
       "20210325",
       "20210326"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Birake": {
     "name": "Birake",
@@ -18157,10 +16960,7 @@
     "deaths": [
       "20201211"
     ],
-    "git": "https://github.com/birake/birakecoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/birake/birakecoin"
   },
   "Bird.Money": {
     "name": "Bird.Money",
@@ -18175,10 +16975,7 @@
       "https://etherscan.io/token/0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
       "https://ethplorer.io/address/0x70401dfd142a16dc7031c56e862fc88cb9537ce0"
     ],
-    "git": "https://github.com/bird-money",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bird-money"
   },
   "Birdchain": {
     "name": "Birdchain",
@@ -18192,10 +16989,7 @@
       "https://etherscan.io/token/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d",
       "https://ethplorer.io/address/0x026e62dded1a6ad07d93d39f96b9eabd59665e0d"
     ],
-    "git": "https://github.com/Birdchain/birdchain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Birdchain/birdchain"
   },
   "Birthday Cake": {
     "name": "Birthday Cake",
@@ -18210,10 +17004,7 @@
     "sawBirth": "20210215",
     "forked_data": [
       "https://bscscan.com/token/0x645748fa7e54a818310afdad898410bcb54fc4e0"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Biscuit Farm Finance": {
     "name": "Biscuit Farm Finance",
@@ -18241,10 +17032,7 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bismuthfoundation",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bismuthfoundation"
   },
   "Bispex": {
     "name": "Bispex",
@@ -18258,10 +17046,7 @@
       "https://etherscan.io/token/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
       "https://ethplorer.io/address/0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222"
     ],
-    "git": "https://github.com/Bispex-Platform/Bispex-Token",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bispex-Platform/Bispex-Token"
   },
   "Bit Financial": {
     "name": "Bit Financial",
@@ -18287,10 +17072,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/BIUT-Block",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BIUT-Block"
   },
   "Bit World Token": {
     "name": "Bit World Token",
@@ -18338,10 +17120,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitBall": {
     "name": "BitBall",
@@ -18370,10 +17149,7 @@
     "deaths": [
       "20210208",
       "20210209"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitBar": {
     "name": "BitBar",
@@ -18393,10 +17169,7 @@
     "deaths": [
       "20201130"
     ],
-    "git": "https://github.com/Crypto-Currency/BitBar",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Crypto-Currency/BitBar"
   },
   "BitCanna": {
     "name": "BitCanna",
@@ -18405,10 +17178,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitCapitalVendor": {
     "name": "BitCapitalVendor",
@@ -18437,10 +17207,7 @@
       "Mineable",
       "BitcashL"
     ],
-    "git": "https://github.com/WillyTheCat/BitCash",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/WillyTheCat/BitCash"
   },
   "BitCherry": {
     "name": "BitCherry",
@@ -18456,10 +17223,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2ab05b915c30093679165bcdba9c26d8cd8bee99",
       "https://ethplorer.io/address/0x2ab05b915c30093679165bcdba9c26d8cd8bee99"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitCoal": {
     "name": "BitCoal",
@@ -18567,10 +17331,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitCore": {
     "name": "BitCore",
@@ -18585,10 +17346,7 @@
       "FXTCL"
     ],
     "forked_data": [],
-    "git": "https://github.com/LIMXTEC/BitCore",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/LIMXTEC/BitCore"
   },
   "BitCrystals": {
     "name": "BitCrystals",
@@ -18637,10 +17395,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x2b2b0559081c41e962777B5049632fdb30f7E652"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitDNS": {
     "name": "BitDNS",
@@ -18654,10 +17409,7 @@
     "sawBirth": "20210112",
     "forked_data": [
       "https://etherscan.io/token/0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitDegree": {
     "name": "BitDegree",
@@ -18680,10 +17432,7 @@
     "deaths": [
       "20201201",
       "20201207"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitForex Token": {
     "name": "BitForex Token",
@@ -18762,10 +17511,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e",
       "https://ethplorer.io/address/0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitKan": {
     "name": "BitKan",
@@ -18799,10 +17545,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
       "https://ethplorer.io/address/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitMoney": {
     "name": "BitMoney",
@@ -18842,10 +17585,7 @@
       "20210316",
       "20210319"
     ],
-    "git": "https://github.com/CryptVenture/BitMoneyV2",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/CryptVenture/BitMoneyV2"
   },
   "BitNautic Token": {
     "name": "BitNautic Token",
@@ -19006,10 +17746,7 @@
       "20210320",
       "20210321",
       "20210322"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitScreener Token": {
     "name": "BitScreener Token",
@@ -19046,10 +17783,7 @@
       "BitsendCoreL",
       "DashL"
     ],
-    "git": "https://github.com/LIMXTEC/BitSend",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/LIMXTEC/BitSend"
   },
   "BitShares": {
     "name": "BitShares",
@@ -19064,10 +17798,7 @@
       "DeFi",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bitshares",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitshares"
   },
   "BitSong": {
     "name": "BitSong",
@@ -19084,10 +17815,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x05079687d35b93538cbd59fe5596380cae9054a9",
       "https://ethplorer.io/address/0x05079687d35b93538cbd59fe5596380cae9054a9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitStash": {
     "name": "BitStash",
@@ -19204,10 +17932,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitTorrent": {
     "name": "BitTorrent",
@@ -19270,10 +17995,7 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/BTWhite/BTWChain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BTWhite/BTWChain"
   },
   "BitZ Token": {
     "name": "BitZ Token",
@@ -19290,10 +18012,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063",
       "https://ethplorer.io/address/0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitalgo": {
     "name": "Bitalgo",
@@ -19302,10 +18021,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitball Treasure": {
     "name": "Bitball Treasure",
@@ -19337,10 +18053,7 @@
       "20210129",
       "20210226",
       "20210227"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitblocks": {
     "name": "Bitblocks",
@@ -19372,10 +18085,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b",
       "https://ethplorer.io/address/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitbot Protocol": {
     "name": "Bitbot Protocol",
@@ -19421,10 +18131,7 @@
       "20210325",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcashpay": {
     "name": "Bitcashpay",
@@ -19439,10 +18146,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xe047705117Eb07e712C3d684f5B18E74577e83aC",
       "https://ethplorer.io/address/0xe047705117Eb07e712C3d684f5B18E74577e83aC"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcicoin": {
     "name": "Bitcicoin",
@@ -19457,10 +18161,7 @@
     "deaths": [
       "20210322",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcloud": {
     "name": "Bitcloud",
@@ -19481,10 +18182,7 @@
       "20210213",
       "20210309"
     ],
-    "git": "https://github.com/LIMXTEC/Bitcloud/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/LIMXTEC/Bitcloud/"
   },
   "Bitcloud Pro": {
     "name": "Bitcloud Pro",
@@ -19527,10 +18225,7 @@
       "20210118",
       "20210119",
       "20210120"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoffeen": {
     "name": "Bitcoffeen",
@@ -19591,10 +18286,7 @@
       "20210318",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitcoiNote": {
     "name": "BitcoiNote",
@@ -19609,10 +18301,7 @@
     "git": "https://github.com/Bitcoinote/Bitcoinote-Core",
     "deaths": [
       "20210306"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoiin": {
     "name": "Bitcoiin",
@@ -19688,10 +18377,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/bitcoiinBT2",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoiinBT2"
   },
   "Bitcoin": {
     "name": "Bitcoin",
@@ -19706,10 +18392,7 @@
       "State channels",
       "BitcoinL"
     ],
-    "git": "https://github.com/bitcoin/bitcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoin/bitcoin"
   },
   "Bitcoin & Company Network": {
     "name": "Bitcoin & Company Network",
@@ -19902,10 +18585,7 @@
       "20210126",
       "20210217",
       "20210328"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin Asset": {
     "name": "Bitcoin Asset",
@@ -19936,10 +18616,7 @@
       "Bitcoin",
       "NoGitHub"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Bitcoin BEP2": {
     "name": "Bitcoin BEP2",
@@ -19960,10 +18637,7 @@
     },
     "deaths": [
       "20201213"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin CZ": {
     "name": "Bitcoin CZ",
@@ -19978,10 +18652,7 @@
     "git": "https://github.com/SpecialCoins/bitcoincz",
     "deaths": [
       "20210225"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin Cash": {
     "name": "Bitcoin Cash",
@@ -19999,10 +18670,7 @@
       "Marketplace",
       "NoGitHub"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Bitcoin Cash ABC": {
     "name": "Bitcoin Cash ABC",
@@ -20011,10 +18679,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin Classic": {
     "name": "Bitcoin Classic",
@@ -20024,10 +18689,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/22Developers/Core",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/22Developers/Core"
   },
   "Bitcoin Confidential": {
     "name": "Bitcoin Confidential",
@@ -20037,10 +18699,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Bitcoin-Confidential",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bitcoin-Confidential"
   },
   "Bitcoin Diamond": {
     "name": "Bitcoin Diamond",
@@ -20057,10 +18716,7 @@
       "Bitcoin DiamondL"
     ],
     "forked_data": [],
-    "git": "https://github.com/eveybcd/BitcoinDiamond",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/eveybcd/BitcoinDiamond"
   },
   "Bitcoin Fast": {
     "name": "Bitcoin Fast",
@@ -20095,10 +18751,7 @@
       "20210112",
       "20210114",
       "20210115"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin File": {
     "name": "Bitcoin File",
@@ -20108,10 +18761,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bitcoinfile/bitcoinfile",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinfile/bitcoinfile"
   },
   "Bitcoin Free Cash": {
     "name": "Bitcoin Free Cash",
@@ -20171,10 +18821,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin God": {
     "name": "Bitcoin God",
@@ -20186,10 +18833,7 @@
       "Bitcoin",
       "NoGitHub"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Bitcoin Gold": {
     "name": "Bitcoin Gold",
@@ -20206,10 +18850,7 @@
       "Bitcoin GoldL"
     ],
     "forked_data": [],
-    "git": "https://github.com/BTCGPU/BTCGPU",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BTCGPU/BTCGPU"
   },
   "Bitcoin Incognito": {
     "name": "Bitcoin Incognito",
@@ -20220,10 +18861,7 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/XBIncognito/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/XBIncognito/"
   },
   "Bitcoin Interest": {
     "name": "Bitcoin Interest",
@@ -20251,10 +18889,7 @@
       "20201211",
       "20201218"
     ],
-    "git": "https://github.com/BitcoinInterestOfficial/BitcoinInterest",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BitcoinInterestOfficial/BitcoinInterest"
   },
   "Bitcoin Plus": {
     "name": "Bitcoin Plus",
@@ -20270,10 +18905,7 @@
       "Staking",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/bitcoinplusorg/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinplusorg/"
   },
   "Bitcoin Private": {
     "name": "Bitcoin Private",
@@ -20288,10 +18920,7 @@
     "git": "https://github.com/BTCPrivate/BitcoinPrivate",
     "deaths": [
       "20210301"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin Rhodium": {
     "name": "Bitcoin Rhodium",
@@ -20308,10 +18937,7 @@
     ],
     "deaths": [
       "01011970"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin SV": {
     "name": "Bitcoin SV",
@@ -20367,10 +18993,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin True": {
     "name": "Bitcoin True",
@@ -20420,10 +19043,7 @@
       "20210322",
       "20210323",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoin Vault": {
     "name": "Bitcoin Vault",
@@ -20434,10 +19054,7 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/bitcoinvault/bitcoinvault",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinvault/bitcoinvault"
   },
   "Bitcoin Zero": {
     "name": "Bitcoin Zero",
@@ -20448,10 +19065,7 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/SpecialCoins/BitcoinZero/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/SpecialCoins/BitcoinZero/"
   },
   "BitcoinHD": {
     "name": "BitcoinHD",
@@ -20497,10 +19111,7 @@
       "20210321",
       "20210322",
       "20210323"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitcoinSoV": {
     "name": "BitcoinSoV",
@@ -20582,10 +19193,7 @@
       "20210309",
       "20210310",
       "20210311"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitcoinV": {
     "name": "BitcoinV",
@@ -20640,10 +19248,7 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/bitcoinVBR/bitcoinV",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinVBR/bitcoinV"
   },
   "BitcoinVend": {
     "name": "BitcoinVend",
@@ -20657,10 +19262,7 @@
     "sawBirth": "20210311",
     "forked_data": [
       "https://etherscan.io/token/0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitcoinX": {
     "name": "BitcoinX",
@@ -20702,10 +19304,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BitcoinZ": {
     "name": "BitcoinZ",
@@ -20721,10 +19320,7 @@
       "ZcashL",
       "BitcoinL"
     ],
-    "git": "https://github.com/bitcoinz-pod/bitcoinz",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitcoinz-pod/bitcoinz"
   },
   "Bitcoinus": {
     "name": "Bitcoinus",
@@ -20758,10 +19354,7 @@
       "20210202",
       "20210206",
       "20210210"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcoiva": {
     "name": "Bitcoiva",
@@ -20797,10 +19390,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitcurate": {
     "name": "Bitcurate",
@@ -20814,10 +19404,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x0371f7b219fff864b437bcfb564810f323fffcca",
       "https://ethplorer.io/address/0x0371f7b219fff864b437bcfb564810f323fffcca"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitether": {
     "name": "Bitether",
@@ -21013,10 +19600,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitfinex Bitcoin Dominance Perps": {
     "name": "Bitfinex Bitcoin Dominance Perps",
@@ -21124,10 +19708,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
       "https://ethplorer.io/address/0x1b980e05943de3db3a459c72325338d327b6f5a9"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitgesell": {
     "name": "Bitgesell",
@@ -21137,10 +19718,7 @@
       "Coin",
       "BitcoinL"
     ],
-    "git": "https://github.com/wu-emma/bitgesell",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/wu-emma/bitgesell"
   },
   "Bitgrin": {
     "name": "Bitgrin",
@@ -21192,10 +19770,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/bitgrin/bitgrin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitgrin/bitgrin"
   },
   "Bithao": {
     "name": "Bithao",
@@ -21279,10 +19854,7 @@
       "20210308",
       "20210309",
       "20210325"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitnation": {
     "name": "Bitnation",
@@ -21384,10 +19956,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
       "https://ethplorer.io/address/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitpayer Token": {
     "name": "Bitpayer Token",
@@ -21450,10 +20019,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08",
       "https://ethplorer.io/address/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitpumps Token": {
     "name": "Bitpumps Token",
@@ -21501,10 +20067,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitradio": {
     "name": "Bitradio",
@@ -21516,10 +20079,7 @@
       "DashL",
       "PIVXL"
     ],
-    "git": "https://github.com/thebitradio/Bitradio",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/thebitradio/Bitradio"
   },
   "Bitrue Coin": {
     "name": "Bitrue Coin",
@@ -21634,10 +20194,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitsdaq": {
     "name": "Bitsdaq",
@@ -21775,10 +20332,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/bitstar/bitstar",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bitstar/bitstar"
   },
   "Bitsten Token": {
     "name": "Bitsten Token",
@@ -21793,10 +20347,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
       "https://ethplorer.io/address/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitsum.money": {
     "name": "Bitsum.money",
@@ -21837,10 +20388,7 @@
       "Enterprise solutions",
       "NoGitHub"
     ],
-    "explorer": "https://bitswift.network/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "explorer": "https://bitswift.network/"
   },
   "Bittwatt": {
     "name": "Bittwatt",
@@ -21907,10 +20455,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bitvolt": {
     "name": "Bitvolt",
@@ -22116,10 +20661,7 @@
       "20210204",
       "20210219",
       "20210226"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Black Diamond Rating": {
     "name": "Black Diamond Rating",
@@ -22133,10 +20675,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x78a5b382b9a83fe042a4f7eb2399d563fda931c3",
       "https://ethplorer.io/address/0x78a5b382b9a83fe042a4f7eb2399d563fda931c3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BlackBerry tokenized stock FTX": {
     "name": "BlackBerry tokenized stock FTX",
@@ -22174,10 +20713,7 @@
       "PoS",
       "Scrypt",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BlackDragon": {
     "name": "BlackDragon",
@@ -22208,10 +20744,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x417ffdbc285dd2c4dc00937798ab901634137caa",
       "https://ethplorer.io/address/0x417ffdbc285dd2c4dc00937798ab901634137caa"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BlackPearl Token": {
     "name": "BlackPearl Token",
@@ -22225,10 +20758,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
       "https://ethplorer.io/address/0x426fc8be95573230f6e6bc4af91873f0c67b21b4"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blackmoon": {
     "name": "Blackmoon",
@@ -22272,10 +20802,7 @@
       "20201217",
       "20201218",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blakecoin": {
     "name": "Blakecoin",
@@ -22444,10 +20971,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blaze Network": {
     "name": "Blaze Network",
@@ -22532,10 +21056,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BlazerCoin": {
     "name": "BlazerCoin",
@@ -22679,10 +21200,7 @@
       "20210308",
       "20210310",
       "20210311"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blizzard.money": {
     "name": "Blizzard.money",
@@ -22717,10 +21235,7 @@
       "https://etherscan.io/token/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
       "https://ethplorer.io/address/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d"
     ],
-    "git": "https://github.com/blocery",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/blocery"
   },
   "Block Duelers NFT Battles": {
     "name": "Block Duelers NFT Battles",
@@ -22735,10 +21250,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58",
       "https://ethplorer.io/address/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Block-Chain.com": {
     "name": "Block-Chain.com",
@@ -22766,10 +21278,7 @@
       "20210126",
       "20210128",
       "20210129"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Block-Logic": {
     "name": "Block-Logic",
@@ -22852,10 +21361,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BlockMesh": {
     "name": "BlockMesh",
@@ -22886,10 +21392,7 @@
       "https://etherscan.io/token/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838",
       "https://ethplorer.io/address/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838"
     ],
-    "git": "https://github.com/blockben-official/bnox",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/blockben-official/bnox"
   },
   "BlockStamp": {
     "name": "BlockStamp",
@@ -22924,10 +21427,7 @@
       "20210317",
       "20210326"
     ],
-    "git": "https://github.com/BlockStamp",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BlockStamp"
   },
   "Blockburn": {
     "name": "Blockburn",
@@ -22941,10 +21441,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
       "https://ethplorer.io/address/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockchain Certified Data Token": {
     "name": "Blockchain Certified Data Token",
@@ -22977,10 +21474,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
       "https://ethplorer.io/address/0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockchain Exchange Alliance": {
     "name": "Blockchain Exchange Alliance",
@@ -22994,10 +21488,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x98d8d146e644171cd47ff8588987b7bdeef72a87",
       "https://ethplorer.io/address/0x98d8d146e644171cd47ff8588987b7bdeef72a87"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockchain Quotations Index Token": {
     "name": "Blockchain Quotations Index Token",
@@ -23011,10 +21502,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae",
       "https://ethplorer.io/address/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockcloud": {
     "name": "Blockcloud",
@@ -23028,10 +21516,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6f919d67967a97ea36195a2346d9244e60fe0ddb",
       "https://ethplorer.io/address/0x6f919d67967a97ea36195a2346d9244e60fe0ddb"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blocklancer": {
     "name": "Blocklancer",
@@ -23099,10 +21584,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockmason Credit Protocol": {
     "name": "Blockmason Credit Protocol",
@@ -23164,10 +21646,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blocknet": {
     "name": "Blocknet",
@@ -23179,10 +21658,7 @@
       "Marketplace",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/BlocknetDX/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BlocknetDX/"
   },
   "Blockpass": {
     "name": "Blockpass",
@@ -23196,10 +21672,7 @@
       "https://etherscan.io/token/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
       "https://etherscan.io/address/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc"
     ],
-    "git": "https://github.com/blockpass-org",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/blockpass-org"
   },
   "Blocktix": {
     "name": "Blocktix",
@@ -23268,10 +21741,7 @@
       "20210324",
       "20210324",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blockzero Labs": {
     "name": "Blockzero Labs",
@@ -23282,10 +21752,7 @@
       "Binance Contract",
       "Ethereum Contract"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Blood": {
     "name": "Blood",
@@ -23299,10 +21766,7 @@
       "https://etherscan.io/token/0xd2727e4259BBa31955FD582986334AEA4fBA8C52",
       "https://ethplorer.io/address/0xd2727e4259BBa31955FD582986334AEA4fBA8C52"
     ],
-    "git": "https://github.com/bigbloodland/BloodERC20Token",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bigbloodland/BloodERC20Token"
   },
   "Bloody Token": {
     "name": "Bloody Token",
@@ -23389,9 +21853,6 @@
       "forked_from": [
         "Ethereum"
       ]
-    },
-    "checkedWithGecko": {
-      "found": true
     }
   },
   "Bloom": {
@@ -23432,10 +21893,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6d2c508fc4a588a41713ff59212f85489291d244",
       "https://ethplorer.io/address/0x6d2c508fc4a588a41713ff59212f85489291d244"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blox": {
     "name": "Blox",
@@ -23451,10 +21909,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
       "https://ethplorer.io/address/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blue Baikal": {
     "name": "Blue Baikal",
@@ -23468,10 +21923,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x675ce995953136814cb05aaaa5d02327e7dc8c93",
       "https://ethplorer.io/address/0x675ce995953136814cb05aaaa5d02327e7dc8c93"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blue Protocol": {
     "name": "Blue Protocol",
@@ -23666,10 +22118,7 @@
       "20210326",
       "20210328"
     ],
-    "git": "https://github.com/bluecoiner/bluecoin-new",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bluecoiner/bluecoin-new"
   },
   "Bluekey": {
     "name": "Bluekey",
@@ -23770,10 +22219,7 @@
       "20210311",
       "20210316",
       "20210318"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Blur": {
     "name": "Blur",
@@ -23866,10 +22312,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bluzelle": {
     "name": "Bluzelle",
@@ -23888,10 +22331,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
       "https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BnkToTheFuture": {
     "name": "BnkToTheFuture",
@@ -23907,10 +22347,7 @@
       "https://etherscan.io/token/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
       "https://ethplorer.io/address/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f"
     ],
-    "git": "https://github.com/BankToTheFuture/bft",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BankToTheFuture/bft"
   },
   "BoatPilot Token": {
     "name": "BoatPilot Token",
@@ -24024,10 +22461,7 @@
     "sawBirth": "20210309",
     "forked_data": [
       "https://bscscan.com/token/0xd7b729ef857aa773f47d37088a1181bb3fbf0099"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bolivarcoin": {
     "name": "Bolivarcoin",
@@ -24044,10 +22478,7 @@
     "git": "https://github.com/BOLI-Project/BolivarCoin/releases",
     "deaths": [
       "20201218"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Boltt Coin ": {
     "name": "Boltt Coin ",
@@ -24061,10 +22492,7 @@
       "https://etherscan.io/token/0x688478f003b8d0f10b8af2122bf20378555ef958",
       "https://ethplorer.io/token/0x688478f003b8d0f10b8af2122bf20378555ef958"
     ],
-    "git": "https://github.com/Bolttcoindev/BolttCoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bolttcoindev/BolttCoin"
   },
   "BonFi": {
     "name": "BonFi",
@@ -24078,10 +22506,7 @@
       "https://etherscan.io/token/0x1DE5e000C41C8d35b9f1f4985C23988f05831057",
       "https://ethplorer.io/address/0x1DE5e000C41C8d35b9f1f4985C23988f05831057"
     ],
-    "git": "https://github.com/BonFi-BNF",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BonFi-BNF"
   },
   "Bonded Finance": {
     "name": "Bonded Finance",
@@ -24094,10 +22519,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x5dc02ea99285e17656b8350722694c35154db1e8"
     ],
-    "git": "https://github.com/Bondedfinance",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bondedfinance"
   },
   "Bondly": {
     "name": "Bondly",
@@ -24115,10 +22537,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xd2dda223b2617cb616c1580db421e4cfae6a8a85"
     ],
-    "git": "https://github.com/bondly/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bondly/"
   },
   "Bone": {
     "name": "Bone",
@@ -24151,10 +22570,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BonezYard": {
     "name": "BonezYard",
@@ -24192,10 +22608,7 @@
       "20210309",
       "20210316",
       "20210317"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bonfida": {
     "name": "Bonfida",
@@ -24208,10 +22621,7 @@
     ],
     "sawBirth": "20210106",
     "git": "https://github.com/dr497",
-    "explorer": "https://explorer.solana.com",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "explorer": "https://explorer.solana.com"
   },
   "Bonk": {
     "name": "Bonk",
@@ -24404,10 +22814,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BonusCloud": {
     "name": "BonusCloud",
@@ -24439,10 +22846,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BooBank": {
     "name": "BooBank",
@@ -24473,10 +22877,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Boogle": {
     "name": "Boogle",
@@ -24511,10 +22912,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Boolberry": {
     "name": "Boolberry",
@@ -24543,10 +22941,7 @@
       "20210325",
       "20210326",
       "20210328"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BoostCoin": {
     "name": "BoostCoin",
@@ -24616,10 +23011,7 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/mammix2/boostcoin-core",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/mammix2/boostcoin-core"
   },
   "Boosted Finance": {
     "name": "Boosted Finance",
@@ -24634,10 +23026,7 @@
       "https://etherscan.io/token/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
       "https://ethplorer.io/address/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78"
     ],
-    "git": "https://github.com/Boosted-Finance",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Boosted-Finance"
   },
   "BoringDAO": {
     "name": "BoringDAO",
@@ -24655,10 +23044,7 @@
       "https://etherscan.io/token/0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
       "https://ethplorer.io/address/0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9"
     ],
-    "git": "https://github.com/BoringDAO",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BoringDAO"
   },
   "BotOcean": {
     "name": "BotOcean",
@@ -24729,10 +23115,7 @@
       "Distributed Computing",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Bottos-project",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bottos-project"
   },
   "Bounce Token": {
     "name": "Bounce Token",
@@ -24752,10 +23135,7 @@
       "https://etherscan.io/token/0x5beabaebb3146685dd74176f68a0721f91297d37",
       "https://ethplorer.io/address/0x5beabaebb3146685dd74176f68a0721f91297d37",
       "https://bscscan.com/token/0x48DC0190dF5ece990c649A7A07bA19D3650a9572"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bounce Token (OLD)": {
     "name": "Bounce Token (OLD)",
@@ -24808,10 +23188,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BoutsPro": {
     "name": "BoutsPro",
@@ -24846,10 +23223,7 @@
       "20210214",
       "20210216",
       "20210303"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BowsCoin": {
     "name": "BowsCoin",
@@ -24930,10 +23304,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/BowscoinBSC/Bowscoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BowscoinBSC/Bowscoin"
   },
   "Brazilian Digital Token": {
     "name": "Brazilian Digital Token",
@@ -24947,10 +23318,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
       "https://ethplorer.io/address/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Braziliex Token": {
     "name": "Braziliex Token",
@@ -24964,10 +23332,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xda5180086461ff6eeb09580181ac160522dcdcd4",
       "https://ethplorer.io/address/0xda5180086461ff6eeb09580181ac160522dcdcd4"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bread": {
     "name": "Bread",
@@ -24983,10 +23348,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
       "https://ethplorer.io/address/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Breezecoin": {
     "name": "Breezecoin",
@@ -25000,10 +23362,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x77c07555af5ffdc946fb47ce15ea68620e4e7170",
       "https://ethplorer.io/address/0x77c07555af5ffdc946fb47ce15ea68620e4e7170"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BriaCoin": {
     "name": "BriaCoin",
@@ -25135,10 +23494,7 @@
       "20201217",
       "20201218",
       "20210106"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Brickchain Finance": {
     "name": "Brickchain Finance",
@@ -25186,10 +23542,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bridge Mutual": {
     "name": "Bridge Mutual",
@@ -25205,10 +23558,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
       "https://ethplorer.io/address/0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bridge Oracle": {
     "name": "Bridge Oracle",
@@ -25224,10 +23574,7 @@
     },
     "deaths": [
       "20210121"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bridge Protocol": {
     "name": "Bridge Protocol",
@@ -25240,10 +23587,7 @@
     "forked_data": [
       "https://neotracker.io/asset/bac0d143a547dc66a1d6a2b7d66b06de42614971"
     ],
-    "git": "https://github.com/bridge-protocol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/bridge-protocol"
   },
   "Brosispay": {
     "name": "Brosispay",
@@ -25274,10 +23618,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x01b23286ff60a543ec29366ae8d6b6274ca20541"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Brr": {
     "name": "Brr",
@@ -25488,10 +23829,7 @@
       "20201214",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Buggyra Coin Zero": {
     "name": "Buggyra Coin Zero",
@@ -25558,10 +23896,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Building Cities Beyond Blockchain": {
     "name": "Building Cities Beyond Blockchain",
@@ -25666,10 +24001,7 @@
       "20210321",
       "20210322",
       "20210325"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Bullswap Exchange": {
     "name": "Bullswap Exchange",
@@ -25718,10 +24050,7 @@
       "https://etherscan.io/token/0x8D3E855f3f55109D473735aB76F753218400fe96"
     ],
     "sawBirth": "20201201",
-    "git": "https://github.com/PraneshASP/Bundles-Finance",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/PraneshASP/Bundles-Finance"
   },
   "Burency": {
     "name": "Burency",
@@ -25735,10 +24064,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xc559db74236c1f1dd734e0b4c8d747bb57983e6a",
       "https://ethplorer.io/address/0xc559db74236c1f1dd734e0b4c8d747bb57983e6a"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Burger Swap": {
     "name": "Burger Swap",
@@ -25754,10 +24080,7 @@
     ],
     "forked_data": [
       "https://www.bscscan.com/token/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Burst": {
     "name": "Burst",
@@ -25769,10 +24092,7 @@
       "PoC",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/burst-apps-team",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/burst-apps-team"
   },
   "Business Credit Alliance Chain": {
     "name": "Business Credit Alliance Chain",
@@ -25785,10 +24105,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1abdb309aa592f00a101c545168bfdf9a6ec61ce"
     ],
-    "git": "https://github.com/BusinessCredit",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/BusinessCredit"
   },
   "Business Credit Substitute": {
     "name": "Business Credit Substitute",
@@ -25815,10 +24132,7 @@
       "20210118",
       "20210119",
       "20210120"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Butterfly Protocol": {
     "name": "Butterfly Protocol",
@@ -25833,10 +24147,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xf680429328caaaCabee69b7A9FdB21a71419c063",
       "https://ethplorer.io/address/0xf680429328caaaCabee69b7A9FdB21a71419c063"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Buxcoin": {
     "name": "Buxcoin",
@@ -25864,10 +24175,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Buy-Sell": {
     "name": "Buy-Sell",
@@ -25881,10 +24189,7 @@
     "sawBirth": "20201215",
     "forked_data": [
       "https://etherscan.io/token/0xa30189d8255322a2f8b2a77906b000aeb005570c"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "BuySell": {
     "name": "BuySell",
@@ -25894,10 +24199,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/buysellcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/buysellcoin"
   },
   "Buzzshow": {
     "name": "Buzzshow",
@@ -25911,10 +24213,7 @@
       "https://etherscan.io/token/0x594207c791afd06a8d087d84d99d1da53ccbd45f",
       "https://etherscan.io/address/0x594207c791afd06a8d087d84d99d1da53ccbd45f"
     ],
-    "git": "https://github.com/organizations/BuzzshowNetwork/settings/billing/per_seat",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/organizations/BuzzshowNetwork/settings/billing/per_seat"
   },
   "Bytecoin": {
     "name": "Bytecoin",
@@ -25947,10 +24246,7 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Bytom/bytom",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Bytom/bytom"
   },
   "Bytus": {
     "name": "Bytus",
@@ -25995,10 +24291,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CACHE Gold": {
     "name": "CACHE Gold",
@@ -26013,10 +24306,7 @@
       "https://etherscan.io/token/0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
       "https://ethplorer.io/address/0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
     ],
-    "git": "https://github.com/cache-token/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cache-token/"
   },
   "CAD Coin": {
     "name": "CAD Coin",
@@ -26051,10 +24341,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
       "https://ethplorer.io/address/0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CAPITAL X CELL": {
     "name": "CAPITAL X CELL",
@@ -26073,10 +24360,7 @@
       "20210324",
       "20210325",
       "20210326"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CARAT": {
     "name": "CARAT",
@@ -26109,10 +24393,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CAT.trade Protocol": {
     "name": "CAT.trade Protocol",
@@ -26126,10 +24407,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xC7743bf0B300Ec041E704Cc34d4f43050942099E",
       "https://ethplorer.io/address/0xC7743bf0B300Ec041E704Cc34d4f43050942099E"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CBDAO": {
     "name": "CBDAO",
@@ -26143,10 +24421,7 @@
       "https://etherscan.io/token/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
       "https://ethplorer.io/address/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F"
     ],
-    "git": "https://github.com/coinbreeder/CBDAO-General",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/coinbreeder/CBDAO-General"
   },
   "CCUniverse": {
     "name": "CCUniverse",
@@ -26168,10 +24443,7 @@
       "20210128",
       "20210310",
       "20210311"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CDX Network": {
     "name": "CDX Network",
@@ -26251,10 +24523,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CEDEX Coin": {
     "name": "CEDEX Coin",
@@ -26338,10 +24607,7 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x262b6a8b044ab9b7a345353ded8f541c1ac37bd3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CFun": {
     "name": "CFun",
@@ -26461,10 +24727,7 @@
     },
     "deaths": [
       "20210209"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CITEX Token": {
     "name": "CITEX Token",
@@ -26605,10 +24868,7 @@
       "20210308",
       "20210309",
       "20210310"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CNNS": {
     "name": "CNNS",
@@ -26622,10 +24882,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6c3be406174349cfa4501654313d97e6a31072e1",
       "https://ethplorer.io/address/0x6c3be406174349cfa4501654313d97e6a31072e1"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CNY Tether": {
     "name": "CNY Tether",
@@ -26658,10 +24915,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x91b7ed3b352aa3502f94e58eac930ae1f5b5ebcd",
       "https://ethplorer.io/address/0x91b7ed3b352aa3502f94e58eac930ae1f5b5ebcd"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "COIL": {
     "name": "COIL",
@@ -26740,10 +24994,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
       "https://ethplorer.io/address/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CONUN": {
     "name": "CONUN",
@@ -26757,10 +25008,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
       "https://ethplorer.io/address/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CORD.Finance": {
     "name": "CORD.Finance",
@@ -26812,10 +25060,7 @@
       "20210324",
       "20210324",
       "20210328"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CORN": {
     "name": "CORN",
@@ -26829,10 +25074,7 @@
     ],
     "forked_data": [
       "https://tronscan.org/#/token20/TDAcEgFppHPMfsJdr3kdhUhDFWKTZQVMM5"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "COST COIN+": {
     "name": "COST COIN+",
@@ -26846,10 +25088,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b",
       "https://ethplorer.io/address/0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "COTI": {
     "name": "COTI",
@@ -26861,10 +25100,7 @@
       "DAG",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/coti-io",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/coti-io"
   },
   "COVA": {
     "name": "COVA",
@@ -26891,10 +25127,7 @@
       "Token",
       "Ethereum Contract"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "COVER Protocol[old]": {
     "name": "COVER Protocol[old]",
@@ -26978,10 +25211,7 @@
       "https://etherscan.io/token/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
       "https://explorer.binance.org/asset/CPC-FED"
     ],
-    "git": "https://github.com/cpchain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cpchain"
   },
   "CPUchain": {
     "name": "CPUchain",
@@ -26991,10 +25221,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/cpuchain",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cpuchain"
   },
   "CPUcoin": {
     "name": "CPUcoin",
@@ -27009,10 +25236,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x6d52dfefb16bb9cdc78bfca09061e44574886626",
       "https://ethplorer.io/address/0x6d52dfefb16bb9cdc78bfca09061e44574886626"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CRDT": {
     "name": "CRDT",
@@ -27026,10 +25250,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
       "https://ethplorer.io/address/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CREA": {
     "name": "CREA",
@@ -27058,10 +25279,7 @@
     "deaths": [
       "20201207"
     ],
-    "git": "https://github.com/CroatApps/Croat",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/CroatApps/Croat"
   },
   "CRYPTO20": {
     "name": "CRYPTO20",
@@ -27160,10 +25378,7 @@
       "20210325",
       "20210326",
       "20210328"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CSP DAO": {
     "name": "CSP DAO",
@@ -27211,10 +25426,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CUDOS": {
     "name": "CUDOS",
@@ -27229,10 +25441,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
       "https://ethplorer.io/address/0x817bbdbc3e8a1204f3691d14bb44992841e3db35"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CURE Farm": {
     "name": "CURE Farm",
@@ -27259,10 +25468,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CVCoin": {
     "name": "CVCoin",
@@ -27275,10 +25481,7 @@
       "Privacy",
       "NoGitHub"
     ],
-    "explorer": "https://openledger.io/asset/CVN",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "explorer": "https://openledger.io/asset/CVN"
   },
   "CWV Chain": {
     "name": "CWV Chain",
@@ -27349,10 +25552,7 @@
       "20210324",
       "20210324",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CY Finance": {
     "name": "CY Finance",
@@ -27366,10 +25566,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8",
       "https://ethplorer.io/address/0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CYBR Token": {
     "name": "CYBR Token",
@@ -27508,10 +25705,7 @@
     "git": "https://github.com/CafeSwap/CafeSwap-farm",
     "forked_data": [
       "https://bscscan.com/token/0x790be81c3ca0e53974be2688cdb954732c9862e1"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CaixaPay": {
     "name": "CaixaPay",
@@ -27591,10 +25785,7 @@
       "20210321",
       "20210322",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Californium": {
     "name": "Californium",
@@ -27667,10 +25858,7 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/Californium/Californium",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Californium/Californium"
   },
   "Callisto Network": {
     "name": "Callisto Network",
@@ -27711,10 +25899,7 @@
     "git": "https://github.com/laurobeleche/CaluraCoin",
     "deaths": [
       "20210201"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Camouflage.eth": {
     "name": "Camouflage.eth",
@@ -27827,10 +26012,7 @@
     "forked_data": [
       "https://etherscan.io/address/0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37"
     ],
-    "git": "https://github.com/JoshepJang/CAMP/blob/main/CAMP_erc20.sol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/JoshepJang/CAMP/blob/main/CAMP_erc20.sol"
   },
   "CanYaCoin": {
     "name": "CanYaCoin",
@@ -27864,10 +26046,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Candela Coin": {
     "name": "Candela Coin",
@@ -27949,10 +26128,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03",
       "https://ethplorer.io/address/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CannabisCoin": {
     "name": "CannabisCoin",
@@ -27993,10 +26169,7 @@
       "20210316",
       "20210328"
     ],
-    "git": "https://github.com/cannabiscoindev/cannabiscoin420",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cannabiscoindev/cannabiscoin420"
   },
   "Cannadrix": {
     "name": "Cannadrix",
@@ -28211,10 +26384,7 @@
       "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
       "https://ethplorer.io/address/0x43044f861ec040DB59A7e324c40507adDb673142"
     ],
-    "git": "https://github.com/capfina",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/capfina"
   },
   "Capital.Finance": {
     "name": "Capital.Finance",
@@ -28248,10 +26418,7 @@
       "20210307",
       "20210308",
       "20210309"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cappasity": {
     "name": "Cappasity",
@@ -28267,10 +26434,7 @@
       "https://etherscan.io/token/0x04f2e7221fdb1b52a68169b25793e51478ff0329",
       "https://ethplorer.io/address/0x04f2e7221fdb1b52a68169b25793e51478ff0329"
     ],
-    "git": "https://github.com/CappasityTech",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/CappasityTech"
   },
   "Capricoin+": {
     "name": "Capricoin+",
@@ -28293,10 +26457,7 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/Capricoinofficial/capricoinplus-core",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Capricoinofficial/capricoinplus-core"
   },
   "Carbon": {
     "name": "Carbon",
@@ -28310,10 +26471,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xCdeee767beD58c5325f68500115d4B722b3724EE"
     ],
-    "git": "https://github.com",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com"
   },
   "Carboncoin": {
     "name": "Carboncoin",
@@ -28358,10 +26516,7 @@
       "20210309",
       "20210321"
     ],
-    "git": "https://github.com/carboncointrust/CarboncoinCore",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/carboncointrust/CarboncoinCore"
   },
   "Cardano": {
     "name": "Cardano",
@@ -28376,10 +26531,7 @@
       "Communications & Social Media",
       "Binance Chain",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cardstack": {
     "name": "Cardstack",
@@ -28387,10 +26539,7 @@
     "url": "/currencies/cardstack",
     "tags": [
       "Token"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Carebit": {
     "name": "Carebit",
@@ -28457,10 +26606,7 @@
       "20210322",
       "20210323"
     ],
-    "git": "https://github.com/carebitcoin/carebitcoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/carebitcoin/carebitcoin"
   },
   "CargoX": {
     "name": "CargoX",
@@ -28475,10 +26621,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143",
       "https://ethplorer.io/address/0xb6ee9668771a79be7967ee29a63d4184f8097143"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Carnomaly": {
     "name": "Carnomaly",
@@ -28492,10 +26635,7 @@
     "sawBirth": "20210317",
     "forked_data": [
       "https://etherscan.io/token/0x884ddbb5dc6c2cef77d3e74c6ccca315797d655b"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Carrot": {
     "name": "Carrot",
@@ -28528,10 +26668,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x115eC79F1de567eC68B7AE7eDA501b406626478e",
       "https://ethplorer.io/address/0x115eC79F1de567eC68B7AE7eDA501b406626478e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cartesi": {
     "name": "Cartesi",
@@ -28559,10 +26696,7 @@
       "https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
       "https://ethplorer.io/address/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
     ],
-    "git": "https://github.com/cartesi",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cartesi"
   },
   "Cash Global Coin": {
     "name": "Cash Global Coin",
@@ -28597,10 +26731,7 @@
       "20210121",
       "20210122",
       "20210126"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cash Tech": {
     "name": "Cash Tech",
@@ -28616,10 +26747,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
       "https://etherscan.io/token/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CashBackPro": {
     "name": "CashBackPro",
@@ -28633,10 +26761,7 @@
       "https://etherscan.io/token/0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47",
       "https://ethplorer.io/address/0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47"
     ],
-    "git": "https://github.com/cashbackpro-cbp/cashbackpro",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/cashbackpro-cbp/cashbackpro"
   },
   "Cashaa": {
     "name": "Cashaa",
@@ -28652,10 +26777,7 @@
     ],
     "forked_data": [
       "https://explorer.binance.org/asset/CAS-167"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cashbery Coin": {
     "name": "Cashbery Coin",
@@ -28708,10 +26830,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Cashhand": {
     "name": "Cashhand",
@@ -28726,10 +26845,7 @@
       "20201130",
       "20201201"
     ],
-    "git": "https://github.com/Cashhand/cashhand/releases",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/Cashhand/cashhand/releases"
   },
   "Casino Betting Coin": {
     "name": "Casino Betting Coin",
@@ -28759,10 +26875,7 @@
       "Gaming",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/casinocoin",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/casinocoin"
   },
   "CasinoLand": {
     "name": "CasinoLand",
@@ -28823,10 +26936,7 @@
     "forked_data": [
       "https://etherscan.io/token/0xa6446d655a0c34bc4f05042ee88170d056cbaf45",
       "https://ethplorer.io/address/0xa6446d655a0c34bc4f05042ee88170d056cbaf45"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Castle": {
     "name": "Castle",
@@ -28860,10 +26970,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235"
     ],
-    "git": "https://github.com/castweet/CTT-Contract/blob/master/token.sol",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/castweet/CTT-Contract/blob/master/token.sol"
   },
   "Cat Token": {
     "name": "Cat Token",
@@ -28878,10 +26985,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
       "https://ethplorer.io/address/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Catex Token": {
     "name": "Catex Token",
@@ -28902,10 +27006,7 @@
     },
     "deaths": [
       "20210213"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Ccore": {
     "name": "Ccore",
@@ -28919,10 +27020,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x679badc551626e01b23ceecefbc9b877ea18fc46",
       "https://ethplorer.io/address/0x679badc551626e01b23ceecefbc9b877ea18fc46"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "CelCoin": {
     "name": "CelCoin",
@@ -28936,10 +27034,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x19b58d95929586ad750893caad43e77aa6e8ce9e",
       "https://ethplorer.io/address/0x19b58d95929586ad750893caad43e77aa6e8ce9e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Celer Network": {
     "name": "Celer Network",
@@ -28959,10 +27054,7 @@
       "https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
       "https://ethplorer.io/address/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667"
     ],
-    "git": "https://github.com/celer-network",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/celer-network"
   },
   "Celeum": {
     "name": "Celeum",
@@ -29044,10 +27136,7 @@
       "20210326",
       "20210328",
       "20210329"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Celo": {
     "name": "Celo",
@@ -29057,10 +27146,7 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/celo-org/celo-monorepo/",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/celo-org/celo-monorepo/"
   },
   "Celo Dollar": {
     "name": "Celo Dollar",
@@ -29073,10 +27159,7 @@
       "Stablecoin - Algorithmically-Stabilized"
     ],
     "explorer": "https://explorer.celo.org",
-    "git": "https://github.com/celo-org",
-    "checkedWithGecko": {
-      "found": true
-    }
+    "git": "https://github.com/celo-org"
   },
   "Celsius": {
     "name": "Celsius",
@@ -29109,10 +27192,7 @@
     "forked_data": [
       "https://etherscan.io/token/0x010d14d36c3ea6570d240ae3ac9d660398f7c48e",
       "https://ethplorer.io/address/0x010d14d36c3ea6570d240ae3ac9d660398f7c48e"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Centaur": {
     "name": "Centaur",
@@ -29121,10 +27201,7 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ],
-    "checkedWithGecko": {
-      "found": true
-    }
+    ]
   },
   "Centaure": {
     "name": "Centaure",
@@ -29236,10 +27313,7 @@
       "NoGitHub",
       "Coin"
     ],
-    "forked_data": [],
-    "checkedWithGecko": {
-      "found": true
-    }
+    "forked_data": []
   },
   "Centric Cash": {
     "name": "Centric Cash",
@@ -38505,15 +36579,6 @@
     "forked_data": [
       "https://etherscan.io/token/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
       "https://ethplorer.io/address/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da"
-    ]
-  },
-  "Darkcoin": {
-    "name": "Darkcoin",
-    "git": "https://github.com/smartbitcoin/darkcoin",
-    "tags": [
-      "External",
-      "DarkcoinL",
-      "BitcoinL"
     ]
   },
   "Darma Cash": {

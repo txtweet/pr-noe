@@ -5,6 +5,8 @@ request = require 'request-promise'
 cryptos = require '../cryptos.json'
 contracts = require '../contracts.json'
 
+DELAY = 1200
+
 error = (message...) ->
   console.error "ERROR : ", message
 
@@ -19,7 +21,7 @@ Promise.each (_.values(cryptos)), (crypto) ->
       json: true
     .then (res) ->
       crypto.checkedWithGecko.found = true
-      Promise.delay(1000)
+      Promise.delay(DELAY)
       .then () ->
         # console.log JSON.stringify res, null, 2
         if res.asset_platform_id?
@@ -29,12 +31,16 @@ Promise.each (_.values(cryptos)), (crypto) ->
               Promise.reject("Erreur sur #{crypto}")
             else
               console.log crypto.name, "ok"
+          else
+            console.log (JSON.stringify crypto,null, 2), res
+            Promise.reject("non euthereum Erreur sur #{crypto}")
+
         fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
     .catch (err) ->
       crypto.checkedWithGecko.found = false
       fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
       .then () ->
-        Promise.delay(1000)
+        Promise.delay(DELAY)
       .then () ->
         error("Crypto non trouvée : #{crypto.name}", err.statusCode)
 
