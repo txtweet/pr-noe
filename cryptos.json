@@ -4705,7 +4705,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/azbi-io"
+    "git": "https://github.com/azbi-io",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Aave": {
     "name": "Aave",
@@ -4723,7 +4726,10 @@
       "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "https://ethplorer.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
     ],
-    "git": "https://github.com/aave"
+    "git": "https://github.com/aave",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave BAT": {
     "name": "Aave BAT",
@@ -4771,7 +4777,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
       "https://ethplorer.io/address/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave BUSD": {
     "name": "Aave BUSD",
@@ -4818,7 +4827,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
       "https://ethplorer.io/address/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave DAI": {
     "name": "Aave DAI",
@@ -4867,7 +4879,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
       "https://ethplorer.io/address/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave Enjin": {
     "name": "Aave Enjin",
@@ -4913,7 +4928,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Aave KNC": {
     "name": "Aave KNC",
@@ -4961,7 +4979,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x9D91BE44C06d373a8a226E1f3b146956083803eB",
       "https://ethplorer.io/address/0x9d91be44c06d373a8a226e1f3b146956083803eb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave LINK": {
     "name": "Aave LINK",
@@ -5009,7 +5030,10 @@
     "forked_data": [
       "https://etherscan.io/address/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
       "https://ethplorer.io/address/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave MKR": {
     "name": "Aave MKR",
@@ -5057,7 +5081,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
       "https://ethplorer.io/address/0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave SNX": {
     "name": "Aave SNX",
@@ -5105,7 +5132,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
       "https://ethplorer.io/address/0x328c4c80bc7aca0834db37e6600a6c49e12da4de"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave TUSD": {
     "name": "Aave TUSD",
@@ -5158,7 +5188,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341",
       "https://ethplorer.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aave [old]": {
     "name": "Aave [old]",
@@ -5180,7 +5213,10 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Aavegotchi": {
     "name": "Aavegotchi",
@@ -5196,7 +5232,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
       "https://ethplorer.io/address/0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Abitshadow Token": {
     "name": "Abitshadow Token",
@@ -5222,7 +5261,10 @@
       "20210307",
       "20210321"
     ],
-    "git": "https://github.com/Abitshadow/abitshadow"
+    "git": "https://github.com/Abitshadow/abitshadow",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Absorber Protocol": {
     "name": "Absorber Protocol",
@@ -5240,7 +5282,10 @@
       "https://etherscan.io/token/0xf4c05296c449edcee3e3f1524fac919510b168a2",
       "https://ethplorer.io/address/0xf4c05296c449edcee3e3f1524fac919510b168a2",
       "https://bscscan.com/token/0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Abulaba": {
     "name": "Abulaba",
@@ -5295,7 +5340,10 @@
       "20210310",
       "20210316"
     ],
-    "git": "https://github.com/abulaba/aaa"
+    "git": "https://github.com/abulaba/aaa",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Abyss": {
     "name": "Abyss",
@@ -5311,7 +5359,10 @@
       "https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
       "https://ethplorer.io/address/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6"
     ],
-    "git": "https://github.com/abyssfinance"
+    "git": "https://github.com/abyssfinance",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AceD": {
     "name": "AceD",
@@ -5321,10 +5372,10 @@
       "Token",
       "Dead",
       "NoGitHub",
-      "Ethereum Contract"
+      "Binance Contract"
     ],
     "forked_data": [
-      "https://etherscan.io/token/0x4b3a0c6d668b43f3f07904e124328659b90bb4ca"
+      "https://bscscan.com/token/0x3b98bbefe14b98000f10124ca95ed298ac9db3ff"
     ],
     "deaths": [
       "20201203",
@@ -5379,7 +5430,10 @@
       "20210319",
       "20210320",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aces": {
     "name": "Aces",
@@ -5472,7 +5526,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/aces-coin/AcesCoin"
+    "git": "https://github.com/aces-coin/AcesCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Achain": {
     "name": "Achain",
@@ -5485,7 +5542,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Achain-Dev/Achain"
+    "git": "https://github.com/Achain-Dev/Achain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Acoin": {
     "name": "Acoin",
@@ -5550,7 +5610,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/acoin-project/acoin"
+    "git": "https://github.com/acoin-project/acoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Actinium": {
     "name": "Actinium",
@@ -5561,7 +5624,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Actinium-project"
+    "git": "https://github.com/Actinium-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Acuity Token": {
     "name": "Acuity Token",
@@ -5569,11 +5635,11 @@
     "url": "/currencies/acuity-token",
     "tags": [
       "Token",
+      "Polkadot Contract",
       "Dead"
     ],
     "forked_data": {
-      "block": [],
-      "forked_from": []
+      "https://polkadot.acuity.social/#/explorer"
     },
     "deaths": [
       "20201208",

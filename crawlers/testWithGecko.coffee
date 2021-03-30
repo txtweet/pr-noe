@@ -8,7 +8,7 @@ contracts = require '../contracts.json'
 DELAY = 1200
 
 error = (message...) ->
-  console.error "ERROR : ", message
+  console.error "  -> ERROR : ", message
 
 idExceptions = ['3x-long-sushi-token', '3x-short-sushi-token']
 # console.log _.values(cryptos)
@@ -33,7 +33,7 @@ Promise.each (_.values(cryptos)), (crypto) ->
                 console.log (JSON.stringify crypto,null, 2), res
                 process.exit(1)
               else
-                console.log crypto.name, "ok"
+                console.log "  ->", crypto.name, "ok"
             else
               console.log "Other -->", (JSON.stringify crypto,null, 2), res
               process.exit(1)
