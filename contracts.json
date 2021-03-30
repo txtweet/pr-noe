@@ -36,7 +36,8 @@
       "https://eospark.com/MainNet/account",
       "https://www.eosx.io/account"
     ],
-    "contract": "EOS Contract"
+    "contract": "EOS Contract",
+    "gecko_asset_platform_id": "eos"
   },
   {
     "urls": [

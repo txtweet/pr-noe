@@ -4202,6 +4202,9 @@
     "forked_data": {
       "block": [],
       "forked_from": []
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "ASI finance": {
@@ -4216,7 +4219,10 @@
     "sawBirth": "20210319",
     "forked_data": [
       "https://etherscan.io/token/0x705d6cbf5352b29b4f4ee0bbe0788721f961abcd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ASI.finance": {
     "name": "ASI.finance",
@@ -4230,7 +4236,10 @@
     "git": "https://github.com/asifinance/ASI-contracts",
     "forked_data": [
       "https://bscscan.com/token/0x8f671544a39b2c0905beac1c1009389d6922305f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ASKO": {
     "name": "ASKO",
@@ -4244,7 +4253,10 @@
       "https://etherscan.io/token/0xeEEE2a622330E6d2036691e983DEe87330588603",
       "https://ethplorer.io/address/0xeEEE2a622330E6d2036691e983DEe87330588603"
     ],
-    "git": "https://github.com/joefilmo/askonetwork-contracts"
+    "git": "https://github.com/joefilmo/askonetwork-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ASSY Index": {
     "name": "ASSY Index",
@@ -4261,7 +4273,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xFA2562da1Bba7B954f26C74725dF51fb62646313",
       "https://ethplorer.io/address/0xFA2562da1Bba7B954f26C74725dF51fb62646313"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ASTA": {
     "name": "ASTA",
@@ -4279,7 +4294,10 @@
       "https://ethplorer.io/address/0xf2ddae89449b7d26309a5d54614b1fc99c608af5",
       "https://eosflare.io/account/astacoinbank",
       "https://bloks.io/tokens/ASTA-eos-astacoinbank"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ASYAGRO": {
     "name": "ASYAGRO",
@@ -4297,7 +4315,10 @@
       "https://etherscan.io/token/0x017b584acfd16d767541ae9e80cdc702f4527b0b",
       "https://ethplorer.io/address/0x017b584acfd16d767541ae9e80cdc702f4527b0b"
     ],
-    "git": "https://github.com/Asyagro/ASY"
+    "git": "https://github.com/Asyagro/ASY",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ATBCoin": {
     "name": "ATBCoin",
@@ -4384,7 +4405,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ATC Coin": {
     "name": "ATC Coin",
@@ -4438,7 +4462,10 @@
       "20210325",
       "20210328"
     ],
-    "git": "https://github.com/atccoinofficial/ATCC"
+    "git": "https://github.com/atccoinofficial/ATCC",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ATLANT": {
     "name": "ATLANT",
@@ -4512,7 +4539,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/AtlantPlatform"
+    "git": "https://github.com/AtlantPlatform",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ATN": {
     "name": "ATN",
@@ -4527,7 +4557,10 @@
       "https://etherscan.io/token/0x461733c17b0755ca5649b6db08b3e213fcf22546",
       "https://ethplorer.io/address/0x461733c17b0755ca5649b6db08b3e213fcf22546"
     ],
-    "git": "https://github.com/atnio"
+    "git": "https://github.com/atnio",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ATTN": {
     "name": "ATTN",
@@ -4541,7 +4574,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89",
       "https://ethplorer.io/address/0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AVCCOIN": {
     "name": "AVCCOIN",
@@ -4602,7 +4638,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AXEL": {
     "name": "AXEL",
@@ -4613,7 +4652,10 @@
       "Filesharing",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/axelnetwork/"
+    "git": "https://github.com/axelnetwork/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AXPR": {
     "name": "AXPR",
@@ -4629,7 +4671,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A",
       "https://ethplorer.io/address/0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AZBI CORE": {
     "name": "AZBI CORE",
