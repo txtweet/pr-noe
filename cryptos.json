@@ -33803,12 +33803,18 @@
     "url": "/currencies/convergence",
     "tags": [
       "New2",
+      "Ethereum Contract",
       "Polkastarter",
       "NoGitHub",
       "Token"
     ],
     "sawBirth": "20210326",
-    "forked_data": []
+    "forked_data": [
+      "https://etherscan.io/token/0xc834fa996fa3bec7aad3693af486ae53d8aa8b50"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Convertible ACXT": {
     "name": "Convertible ACXT",
@@ -33842,7 +33848,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coral Swap": {
     "name": "Coral Swap",
@@ -33866,7 +33875,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoralFarm": {
     "name": "CoralFarm",
@@ -33880,7 +33892,10 @@
     "git": "https://github.com/CoralFarm",
     "forked_data": [
       "https://bscscan.com/token/0xc00b1ffa922edf1175a4e6feaac5b2b469932524"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cord DeFi": {
     "name": "Cord DeFi",
@@ -33903,7 +33918,10 @@
     },
     "deaths": [
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coreto": {
     "name": "Coreto",
@@ -33917,7 +33935,10 @@
     "git": "https://github.com/coreto-io",
     "forked_data": [
       "https://etherscan.io/token/0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CorionX": {
     "name": "CorionX",
@@ -33931,7 +33952,10 @@
       "https://etherscan.io/token/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
       "https://ethplorer.io/address/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97"
     ],
-    "git": "https://github.com/CORIONplatform/CorionX"
+    "git": "https://github.com/CORIONplatform/CorionX",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cornichon": {
     "name": "Cornichon",
@@ -33968,21 +33992,31 @@
       "20210325",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cortex": {
     "name": "Cortex",
     "short": "CTXC",
     "url": "/currencies/cortex",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "Mineable",
       "Platform",
       "IoT",
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/CortexFoundation"
+    "forked_data": [
+      "https://etherscan.io/token/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d"
+    ],
+    "git": "https://github.com/CortexFoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cosmo Coin": {
     "name": "Cosmo Coin",
@@ -34004,7 +34038,10 @@
     "deaths": [
       "20201214",
       "20201215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cosmos": {
     "name": "Cosmos",
@@ -34021,7 +34058,10 @@
       "Staking",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/cosmos"
+    "git": "https://github.com/cosmos",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Couchain": {
     "name": "Couchain",
@@ -34091,7 +34131,10 @@
       "20210228",
       "20210301",
       "20210302"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Counos Coin": {
     "name": "Counos Coin",
@@ -34101,7 +34144,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Counos X": {
     "name": "Counos X",
@@ -34112,7 +34158,10 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/counos-platform/counos-X"
+    "git": "https://github.com/counos-platform/counos-X",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Counterparty": {
     "name": "Counterparty",
@@ -34123,7 +34172,10 @@
       "PoW",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/CounterpartyXCP"
+    "git": "https://github.com/CounterpartyXCP",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coupon Chain": {
     "name": "Coupon Chain",
@@ -34165,7 +34217,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Covesting": {
     "name": "Covesting",
@@ -34180,7 +34235,10 @@
       "https://etherscan.io/token/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
       "https://ethplorer.io/address/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7"
     ],
-    "git": "https://github.com/covesting"
+    "git": "https://github.com/covesting",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cream": {
     "name": "Cream",
@@ -34195,7 +34253,10 @@
     "git": "https://github.com/creamcoin/cream",
     "deaths": [
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cream ETH 2": {
     "name": "Cream ETH 2",
@@ -34217,7 +34278,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
       "https://ethplorer.io/address/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cream Finance": {
     "name": "Cream Finance",
@@ -34237,7 +34301,10 @@
       "https://etherscan.io/token/0x2ba592f78db6436527729929aaf6c908497cb200",
       "https://ethplorer.io/address/0x2ba592f78db6436527729929aaf6c908497cb200",
       "https://bscscan.com/token/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cred": {
     "name": "Cred",
@@ -34252,7 +34319,10 @@
       "https://etherscan.io/token/0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
       "https://ethplorer.io/address/0xfe5f141bf94fe84bc28ded0ab966c16b17490657"
     ],
-    "git": "https://github.com/libracredit"
+    "git": "https://github.com/libracredit",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Credit Tag Chain": {
     "name": "Credit Tag Chain",
@@ -34283,7 +34353,10 @@
       "20210114",
       "20210115"
     ],
-    "git": "https://github.com/credittag/CreditTagChain"
+    "git": "https://github.com/credittag/CreditTagChain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Creditcoin": {
     "name": "Creditcoin",
@@ -34294,7 +34367,10 @@
       "DeFi",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/gluwa/Creditcoin"
+    "git": "https://github.com/gluwa/Creditcoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Credits": {
     "name": "Credits",
@@ -34308,7 +34384,10 @@
       "Token"
     ],
     "forked_data": [],
-    "git": "https://github.com/CREDITSCOM/node"
+    "git": "https://github.com/CREDITSCOM/node",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Credo": {
     "name": "Credo",
@@ -34344,7 +34423,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Creed Finance": {
     "name": "Creed Finance",
@@ -34387,7 +34469,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CrevaCoin": {
     "name": "CrevaCoin",
@@ -34479,7 +34564,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/crevacoin/creva"
+    "git": "https://github.com/crevacoin/creva",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crex Token": {
     "name": "Crex Token",
@@ -34492,7 +34580,10 @@
     ],
     "forked_data": [
       "http://dev.pywaves.org/assets/8k7zgWXJYUA5RfpSZJ75V5uq6mfjJVjWqYZbT6LkehEE"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cross Finance": {
     "name": "Cross Finance",
@@ -34541,6 +34632,9 @@
       "forked_from": [
         "Binance"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "Crow Finance": {
@@ -34556,7 +34650,10 @@
     "git": "https://github.com/crowfinance",
     "forked_data": [
       "https://bscscan.com/address/0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crowd Machine": {
     "name": "Crowd Machine",
@@ -34570,7 +34667,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
       "https://ethplorer.io/address/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CrowdWiz": {
     "name": "CrowdWiz",
@@ -34628,7 +34728,10 @@
       "20210228",
       "20210301",
       "20210302"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crowdholding": {
     "name": "Crowdholding",
@@ -34662,7 +34765,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crown": {
     "name": "Crown",
@@ -34675,7 +34781,10 @@
       "SHA-256",
       "Masternodes",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crowns": {
     "name": "Crowns",
@@ -34689,7 +34798,10 @@
     "sawBirth": "20210202",
     "forked_data": [
       "https://etherscan.io/token/0xac0104cca91d167873b8601d2e71eb3d4d8c33e0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crudeoil Finance": {
     "name": "Crudeoil Finance",
@@ -34704,7 +34816,10 @@
     "git": "https://github.com/CrudeoilFi",
     "forked_data": [
       "https://bscscan.com/token/0xb1b17dff66d75b29d34f0bf8622c406d8219b507"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crust": {
     "name": "Crust",
@@ -34718,7 +34833,10 @@
       "Polkadot",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/crustio"
+    "git": "https://github.com/crustio",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CryCash": {
     "name": "CryCash",
@@ -34740,7 +34858,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptEx": {
     "name": "CryptEx",
@@ -34754,7 +34875,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/token/0x97a30c692ece9c317235d48287d23d358170fc40"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptalDash": {
     "name": "CryptalDash",
@@ -34781,7 +34905,10 @@
       "20201214",
       "20201215",
       "20201216"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptaur": {
     "name": "Cryptaur",
@@ -34795,7 +34922,10 @@
       "https://etherscan.io/token/0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
       "https://ethplorer.io/address/0x88d50b466be55222019d71f9e8fae17f5f45fca1"
     ],
-    "git": "https://github.com/Cryptaur"
+    "git": "https://github.com/Cryptaur",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypterium": {
     "name": "Crypterium",
@@ -34812,7 +34942,10 @@
       "https://etherscan.io/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
       "https://ethplorer.io/address/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
       "https://blockchair.com/ethereum/erc-20/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crypto Accept": {
     "name": "Crypto Accept",
@@ -34844,7 +34977,10 @@
       "20210126",
       "20210320",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto Cricket Club": {
     "name": "Crypto Cricket Club",
@@ -34858,7 +34994,10 @@
       "https://etherscan.io/token/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
       "https://ethplorer.io/address/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D"
     ],
-    "git": "https://github.com/cryptocricketclub"
+    "git": "https://github.com/cryptocricketclub",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crypto Heroes": {
     "name": "Crypto Heroes",
@@ -34887,7 +35026,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crypto Holding Frank Token": {
     "name": "Crypto Holding Frank Token",
@@ -34905,7 +35047,10 @@
     ],
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto Price Index": {
     "name": "Crypto Price Index",
@@ -34919,7 +35064,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
       "https://ethplorer.io/address/0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto Rewards Studio": {
     "name": "Crypto Rewards Studio",
@@ -34933,7 +35081,10 @@
     "sawBirth": "20210227",
     "forked_data": [
       "https://etherscan.io/address/0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crypto Sports": {
     "name": "Crypto Sports",
@@ -34944,7 +35095,10 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/c-sports/cspn"
+    "git": "https://github.com/c-sports/cspn",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto User Base": {
     "name": "Crypto User Base",
@@ -35043,7 +35197,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto Village Accelerator": {
     "name": "Crypto Village Accelerator",
@@ -35057,7 +35214,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x78a52e12c7b63d05c12f9608307587cf654ec3d0",
       "https://ethplorer.io/address/0x78a52e12c7b63d05c12f9608307587cf654ec3d0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypto.com Coin": {
     "name": "Crypto.com Coin",
@@ -35076,7 +35236,10 @@
       "https://ethplorer.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
       "https://blockchair.com/ethereum/erc-20/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
       "https://eth.tokenview.com/en/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CryptoAds Marketplace": {
     "name": "CryptoAds Marketplace",
@@ -35090,7 +35253,10 @@
       "https://etherscan.io/token/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e",
       "https://ethplorer.io/address/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e"
     ],
-    "git": "https://github.com/ixc-software"
+    "git": "https://github.com/ixc-software",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoBank": {
     "name": "CryptoBank",
@@ -35106,7 +35272,10 @@
     "forked_data": [
       "https://etherscan.io/address/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086",
       "https://ethplorer.io/address/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CryptoBet": {
     "name": "CryptoBet",
@@ -35193,7 +35362,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoBharatCoin": {
     "name": "CryptoBharatCoin",
@@ -35207,7 +35379,10 @@
     ],
     "forked_data": [
       "https://tronscan.org/#/token20/TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CryptoBonusMiles": {
     "name": "CryptoBonusMiles",
@@ -35224,7 +35399,10 @@
       "https://explorer.binance.org/asset/CBM-4B2",
       "https://explorer.binance.org/asset/CBM-4B2"
     ],
-    "git": "https://github.com/aeronaero/aeron"
+    "git": "https://github.com/aeronaero/aeron",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoBossCoin": {
     "name": "CryptoBossCoin",
@@ -35297,7 +35475,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoCarbon": {
     "name": "CryptoCarbon",
@@ -35326,7 +35507,10 @@
       "20210309",
       "20210310",
       "20210311"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoEnergy": {
     "name": "CryptoEnergy",
@@ -35340,7 +35524,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc21dBEE65D62770953035f0434C532d578a666c9",
       "https://ethplorer.io/address/0xc21dBEE65D62770953035f0434C532d578a666c9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoFlow": {
     "name": "CryptoFlow",
@@ -35379,7 +35566,10 @@
       "20210122",
       "20210126"
     ],
-    "git": "https://github.com/CryptoFlowCoin/CryptoFlowCoin"
+    "git": "https://github.com/CryptoFlowCoin/CryptoFlowCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoFranc": {
     "name": "CryptoFranc",
@@ -35396,7 +35586,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xb4272071ecadd69d933adcd19ca99fe80664fc08",
       "https://ethplorer.io/address/0xb4272071ecadd69d933adcd19ca99fe80664fc08"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoFrog.Finance": {
     "name": "CryptoFrog.Finance",
@@ -35439,6 +35632,9 @@
       "forked_from": [
         "Binance"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "CryptoKek": {
@@ -35455,7 +35651,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3fa400483487A489EC9b1dB29C4129063EEC4654",
       "https://ethplorer.io/address/0x3fa400483487A489EC9b1dB29C4129063EEC4654"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoPing": {
     "name": "CryptoPing",
@@ -35463,9 +35662,13 @@
     "url": "/currencies/cryptoping",
     "tags": [
       "Token",
+      "Ethereum Contract",
       "Asset management",
       "AI & Big Data",
       "Dead"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x21cd6af01383651ed10554394c0497f9db5e5dbc"
     ],
     "deaths": [
       "20210226",
@@ -35483,7 +35686,10 @@
       "20210318",
       "20210319",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoSoul": {
     "name": "CryptoSoul",
@@ -35508,7 +35714,10 @@
       "20210129",
       "20210201",
       "20210202"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoTask": {
     "name": "CryptoTask",
@@ -35522,7 +35731,10 @@
     "git": "https://github.com/vkajic",
     "forked_data": [
       "https://etherscan.io/address/0x196c81385bc536467433014042788eb707703934"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CryptoVerificationCoin": {
     "name": "CryptoVerificationCoin",
@@ -35584,7 +35796,10 @@
       "20210326",
       "20210329"
     ],
-    "git": "https://github.com/CVCCVerifyCoin"
+    "git": "https://github.com/CVCCVerifyCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CryptoWater": {
     "name": "CryptoWater",
@@ -35664,7 +35879,10 @@
       "20210323",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptobuyer": {
     "name": "Cryptobuyer",
@@ -35678,7 +35896,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x08aa0ed0040736dd28d4c8b16ab453b368248d19",
       "https://ethplorer.io/address/0x08aa0ed0040736dd28d4c8b16ab453b368248d19"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cryptocean": {
     "name": "Cryptocean",
@@ -35692,7 +35913,10 @@
     "git": "https://github.com/cronfoundation",
     "deaths": [
       "20210217"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptochrome": {
     "name": "Cryptochrome",
@@ -35729,7 +35953,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptocurrency Top 10 Tokens Index": {
     "name": "Cryptocurrency Top 10 Tokens Index",
@@ -35746,7 +35973,10 @@
       "https://etherscan.io/address/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
       "https://etherscan.io/token/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
       "https://ethplorer.io/address/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptoindex.com 100": {
     "name": "Cryptoindex.com 100",
@@ -35762,7 +35992,10 @@
       "https://etherscan.io/token/0x6393e822874728f8afa7e1c9944e417d37ca5878",
       "https://ethplorer.io/address/0x6393e822874728f8afa7e1c9944e417d37ca5878"
     ],
-    "git": "https://github.com/phenom-company/smartcontract-cryptoindex"
+    "git": "https://github.com/phenom-company/smartcontract-cryptoindex",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cryptojacks": {
     "name": "Cryptojacks",
@@ -35856,7 +36089,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/cryptojacks/CryptoJacks"
+    "git": "https://github.com/cryptojacks/CryptoJacks",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Crypton": {
     "name": "Crypton",
@@ -35873,7 +36109,10 @@
       "Platform",
       "Collectibles & NFTs",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptonex": {
     "name": "Cryptonex",
@@ -35891,7 +36130,10 @@
     "git": "https://github.com/Cryptonex",
     "deaths": [
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptonite": {
     "name": "Cryptonite",
@@ -35962,7 +36204,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/pallas1/Cryptonite/"
+    "git": "https://github.com/pallas1/Cryptonite/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cryptonits": {
     "name": "Cryptonits",
@@ -35991,7 +36236,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptopay": {
     "name": "Cryptopay",
@@ -36019,7 +36267,10 @@
       "20210217",
       "20210220",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cryptrust": {
     "name": "Cryptrust",
@@ -36050,7 +36301,10 @@
       "20210201",
       "20210202",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Crypxie": {
     "name": "Crypxie",
@@ -36146,6 +36400,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "Crystal Token": {
@@ -36160,7 +36417,10 @@
       "https://etherscan.io/token/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
       "https://etherscan.io/address/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47"
     ],
-    "git": "https://github.com/CrystalToken/erc20contract"
+    "git": "https://github.com/CrystalToken/erc20contract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cub Finance": {
     "name": "Cub Finance",
@@ -36174,7 +36434,10 @@
     "git": "https://github.com/CubFinance",
     "forked_data": [
       "https://bscscan.com/token/0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cube": {
     "name": "Cube",
@@ -36189,7 +36452,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b",
       "https://ethplorer.io/address/0x622dffcc4e83c64ba959530a5a5580687a57581b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cubiex": {
     "name": "Cubiex",
@@ -36208,7 +36474,10 @@
       "https://etherscan.io/token/0x122f96d596384885b54bccdddf2125018c421d83",
       "https://bscscan.com/token/0x34681c1035f97e1edcccec5f142e02ff81a3a230",
       "https://explorer.binance.org/asset/CBIX-3C9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Culture Ticket Chain": {
     "name": "Culture Ticket Chain",
@@ -36236,7 +36505,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Curate": {
     "name": "Curate",
@@ -36253,7 +36525,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xE1c7E30C42C24582888C758984f6e382096786bd"
     ],
-    "git": "https://github.com/curate-project"
+    "git": "https://github.com/curate-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Curecoin": {
     "name": "Curecoin",
@@ -36271,7 +36546,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/cygnusxi/CurecoinSource"
+    "git": "https://github.com/cygnusxi/CurecoinSource",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Curio": {
     "name": "Curio",
@@ -36285,7 +36563,10 @@
       "https://etherscan.io/token/0x13339fd07934cd674269726edf3b5ccee9dd93de",
       "https://ethplorer.io/address/0x13339fd07934cd674269726edf3b5ccee9dd93de"
     ],
-    "git": "https://github.com/CurioTeam"
+    "git": "https://github.com/CurioTeam",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Curio Governance": {
     "name": "Curio Governance",
@@ -36300,7 +36581,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a",
       "https://ethplorer.io/address/0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Curve DAO Token": {
     "name": "Curve DAO Token",
@@ -36318,7 +36602,10 @@
       "https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52",
       "https://ethplorer.io/address/0xD533a949740bb3306d119CC777fa900bA034cd52"
     ],
-    "git": "https://github.com/curvefi/curve-dao-contracts/tree/master/doc"
+    "git": "https://github.com/curvefi/curve-dao-contracts/tree/master/doc",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Custody Token": {
     "name": "Custody Token",
@@ -36368,7 +36655,10 @@
       "20210317",
       "20210322",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CustomContractNetwork": {
     "name": "CustomContractNetwork",
@@ -36440,7 +36730,10 @@
       "20210320",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cyber Movie Chain": {
     "name": "Cyber Movie Chain",
@@ -36539,7 +36832,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cyber Network Token": {
     "name": "Cyber Network Token",
@@ -36554,7 +36850,10 @@
       "https://etherscan.io/token/0x0b46954c970b47F1C39c4C08167970334675dE51",
       "https://ethplorer.io/address/0x0b46954c970b47F1C39c4C08167970334675dE51"
     ],
-    "git": "https://github.com/cy-net/cybernetwork"
+    "git": "https://github.com/cy-net/cybernetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CyberFM": {
     "name": "CyberFM",
@@ -36583,7 +36882,10 @@
       "20210112",
       "20210307",
       "20210308"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CyberFi Token": {
     "name": "CyberFi Token",
@@ -36597,19 +36899,29 @@
     "forked_data": [
       "https://etherscan.io/token/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
       "https://ethplorer.io/address/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CyberMiles": {
     "name": "CyberMiles",
     "short": "CMT",
     "url": "/currencies/cybermiles",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "Platform",
       "E-commerce",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/cybermiles"
+    "forked_data": [
+      "https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f"
+    ],
+    "git": "https://github.com/cybermiles",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CyberMusic": {
     "name": "CyberMusic",
@@ -36623,7 +36935,10 @@
       "https://etherscan.io/token/0x78c292d1445e6b9558bf42e8bc369271ded062ea",
       "https://etherscan.io/address/0x78c292d1445e6b9558bf42e8bc369271ded062ea"
     ],
-    "git": "https://github.com/cybermusicio/ico"
+    "git": "https://github.com/cybermusicio/ico",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CyberTime Finance Token": {
     "name": "CyberTime Finance Token",
@@ -36637,7 +36952,10 @@
     "git": "https://github.com/cybertime-eth",
     "forked_data": [
       "https://bscscan.com/token/0x299baC24C8ad5635586fDe6619efF7891a6c8969"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CyberVein": {
     "name": "CyberVein",
@@ -36651,7 +36969,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772",
       "https://ethplorer.io/address/0xbe428c3867f05dea2a89fc76a102b544eac7f772"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cybercoin": {
     "name": "Cybercoin",
@@ -36743,7 +37064,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cybereits": {
     "name": "Cybereits",
@@ -36779,7 +37103,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cyclops Treasure": {
     "name": "Cyclops Treasure",
@@ -36827,7 +37154,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "D Community": {
     "name": "D Community",
@@ -36874,7 +37204,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DABANKING": {
     "name": "DABANKING",
@@ -36936,7 +37269,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DACC": {
     "name": "DACC",
@@ -36950,7 +37286,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
       "https://ethplorer.io/address/0xf8c595d070d104377f58715ce2e6c93e49a87f3c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DACC2": {
     "name": "DACC2",
@@ -37009,7 +37348,10 @@
       "20210324",
       "20210324",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DACSEE": {
     "name": "DACSEE",
@@ -37087,7 +37429,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAD": {
     "name": "DAD",
@@ -37101,7 +37446,10 @@
       "https://etherscan.io/token/0x5b322514ff727253292637d9054301600c2c81e8",
       "https://ethplorer.io/address/0x5b322514ff727253292637d9054301600c2c81e8"
     ],
-    "git": "https://github.com/DAD-Chain"
+    "git": "https://github.com/DAD-Chain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DAEX": {
     "name": "DAEX",
@@ -37115,7 +37463,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0b4bdc478791897274652dc15ef5c135cae61e60",
       "https://ethplorer.io/address/0x0b4bdc478791897274652dc15ef5c135cae61e60"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAFI Protocol": {
     "name": "DAFI Protocol",
@@ -37130,7 +37481,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xfc979087305a826c2b2a0056cfaba50aad3e6439",
       "https://ethplorer.io/address/0xfc979087305a826c2b2a0056cfaba50aad3e6439"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAO Maker": {
     "name": "DAO Maker",
@@ -37147,7 +37501,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
       "https://ethplorer.io/address/0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAOBet": {
     "name": "DAOBet",
@@ -37158,7 +37515,10 @@
       "Gambling",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/daocasino"
+    "git": "https://github.com/daocasino",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DAOstack": {
     "name": "DAOstack",
@@ -37174,7 +37534,10 @@
       "https://etherscan.io/token/0x543ff227f64aa17ea132bf9886cab5db55dcaddf",
       "https://ethplorer.io/address/0x543ff227f64aa17ea132bf9886cab5db55dcaddf"
     ],
-    "git": "https://github.com/daostack"
+    "git": "https://github.com/daostack",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAOventures": {
     "name": "DAOventures",
@@ -37191,7 +37554,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c",
       "https://ethplorer.io/address/0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAPPCENTS": {
     "name": "DAPPCENTS",
@@ -37225,7 +37591,10 @@
     "git": "https://github.com/dappcentre/dappcents",
     "forked_data": [
       "https://tronscan.org/#/token20/TEm2pMqgjnbvgNQi1gFYBZH9BfMu123mbW"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAPS Coin": {
     "name": "DAPS Coin",
@@ -37244,7 +37613,10 @@
       "https://etherscan.io/token/0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
       "https://ethplorer.io/address/0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28"
     ],
-    "git": "https://github.com/DAPSCoin"
+    "git": "https://github.com/DAPSCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DATA": {
     "name": "DATA",
@@ -37260,7 +37632,10 @@
       "https://etherscan.io/token/0x69b148395ce0015c13e36bffbad63f49ef874e03",
       "https://ethplorer.io/address/0x69b148395ce0015c13e36bffbad63f49ef874e03"
     ],
-    "git": "https://github.com/BlockchainDATA"
+    "git": "https://github.com/BlockchainDATA",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DATx": {
     "name": "DATx",
@@ -37276,7 +37651,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
       "https://ethplorer.io/address/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DAV Coin": {
     "name": "DAV Coin",
@@ -37290,7 +37668,10 @@
       "https://etherscan.io/token/0xd82df0abd3f51425eb15ef7580fda55727875f14",
       "https://ethplorer.io/address/0xd82df0abd3f51425eb15ef7580fda55727875f14"
     ],
-    "git": "https://github.com/DAVFoundation"
+    "git": "https://github.com/DAVFoundation",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DApp Evolution": {
     "name": "DApp Evolution",
@@ -37382,7 +37763,10 @@
       "20210320",
       "20210321",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DDKoin": {
     "name": "DDKoin",
@@ -37397,7 +37781,10 @@
       "Scaling",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AraiEzzra"
+    "git": "https://github.com/AraiEzzra",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DEAPcoin": {
     "name": "DEAPcoin",
@@ -37411,7 +37798,10 @@
       "https://etherscan.io/token/0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
       "https://ethplorer.io/address/0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
     ],
-    "git": "https://github.com/Digita-Entertainment-Asset/DEP"
+    "git": "https://github.com/Digita-Entertainment-Asset/DEP",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DECENT": {
     "name": "DECENT",
@@ -37426,7 +37816,10 @@
     "deaths": [
       "20201130"
     ],
-    "git": "https://github.com/DECENTfoundation"
+    "git": "https://github.com/DECENTfoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DECOIN": {
     "name": "DECOIN",
@@ -37440,16 +37833,23 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/DECOINio/DTEP"
+    "git": "https://github.com/DECOINio/DTEP",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEEX": {
     "name": "DEEX",
     "short": "DEEX",
     "url": "/currencies/deex",
     "tags": [
-      "Coin",
+      "Token",
+      "Bitshare Contract"
       "NoLicenceFile",
       "Dead"
+    ],
+    "forked_data": [
+      "https://bitsharescan.com/asset/DEEX"
     ],
     "git": "https://github.com/thedeex/",
     "deaths": [
