@@ -10,7 +10,11 @@ DELAY = 1200
 error = (message...) ->
   console.error "  -> ERROR : ", message
 
-idExceptions = ['3x-long-sushi-token', '3x-short-sushi-token']
+idExceptions = [
+  '3x-long-sushi-token'
+  '3x-short-sushi-token'
+  'anchor-protocol'
+]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
   console.log "test #{crypto.name}"

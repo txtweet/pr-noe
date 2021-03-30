@@ -8717,7 +8717,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0f3adc247e91c3c50bc08721355a41037e89bc20",
       "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Animal Friends United": {
     "name": "Animal Friends United",
@@ -8725,7 +8728,11 @@
     "url": "/currencies/animal-friends-united",
     "tags": [
       "Token",
+      "Tron Contract",
       "Dead"
+    ],
+    "forked_data": [
+      "https://tronscan.org/#/token/1003356"
     ],
     "deaths": [
       "20210106",
@@ -8738,7 +8745,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AnimalGo": {
     "name": "AnimalGo",
@@ -8752,7 +8762,10 @@
       "https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
       "https://ethplorer.io/address/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7"
     ],
-    "git": "https://github.com/animalgogitadmin/Deeplearning"
+    "git": "https://github.com/animalgogitadmin/Deeplearning",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Animation Vision Cash": {
     "name": "Animation Vision Cash",
@@ -8784,7 +8797,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Anime Token": {
     "name": "Anime Token",
@@ -8799,7 +8815,10 @@
     "sawBirth": "20210205",
     "forked_data": [
       "https://bscscan.com/token/0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ankr": {
     "name": "Ankr",
@@ -8822,7 +8841,10 @@
       "https://explorer.binance.org/asset/ANKR-E97",
       "https://bscscan.com/token/0xf307910a4c7bbc79691fd374889b36d8531b08e3"
     ],
-    "git": "https://github.com/Ankr-network"
+    "git": "https://github.com/Ankr-network",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Anoncoin": {
     "name": "Anoncoin",
@@ -8859,7 +8881,10 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/Anoncoin/anoncoin"
+    "git": "https://github.com/Anoncoin/anoncoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AntiMatter": {
     "name": "AntiMatter",
@@ -8882,7 +8907,10 @@
       "https://etherscan.io/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
       "https://bscscan.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
       "https://hecoinfo.com/token/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Antiample": {
     "name": "Antiample",
@@ -8916,7 +8944,10 @@
       "20210307",
       "20210317",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AntiscamToken": {
     "name": "AntiscamToken",
@@ -9005,7 +9036,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Anyswap": {
     "name": "Anyswap",
@@ -9013,7 +9047,15 @@
     "url": "/currencies/anyswap",
     "tags": [
       "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "Fusion Contract",
       "DeFi"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xf99d58e463a2e07e5692127302c20a191861b4d6",
+      "https://bscscan.com/token/0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
+      "https://fsnex.com/token/0x0c74199d22f732039e843366a236ff4f61986b32"
     ]
   },
   "Ape Tools": {
