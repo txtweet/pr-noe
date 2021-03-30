@@ -31133,7 +31133,10 @@
     ],
     "deaths": [
       "20210201"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Club Atletico Independiente": {
     "name": "Club Atletico Independiente",
@@ -31142,17 +31145,12 @@
     "tags": [
       "Token",
       "Social Token",
-      "Chiliz",
+      "Chiliz Contract",
       "Dead"
     ],
-    "forked_data": {
-      "block": [
-        "0x1793...4486292"
-      ],
-      "forked_from": [
-        "Chiliz"
-      ]
-    },
+    "forked_data": [
+      "https://explorer.chiliz.com/address/0x1793c8b629b0a526d8741e288440c0cbc4486292"
+    ],
     "deaths": [
       "20201207",
       "20201208",
@@ -31195,7 +31193,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ClubCoin": {
     "name": "ClubCoin",
@@ -31273,7 +31274,10 @@
       "20210326",
       "20210329"
     ],
-    "git": "https://github.com/BitClubDev/ClubCoin"
+    "git": "https://github.com/BitClubDev/ClubCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoFiX": {
     "name": "CoFiX",
@@ -31289,7 +31293,10 @@
       "https://etherscan.io/token/0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
       "https://ethplorer.io/address/0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1"
     ],
-    "git": "https://github.com/Computable-Finance"
+    "git": "https://github.com/Computable-Finance",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoTrader": {
     "name": "CoTrader",
@@ -31303,7 +31310,10 @@
       "https://etherscan.io/token/0x5c872500c00565505f3624ab435c222e558e9ff8",
       "https://ethplorer.io/address/0x5c872500c00565505f3624ab435c222e558e9ff8"
     ],
-    "git": "https://github.com/CoTraderCore/"
+    "git": "https://github.com/CoTraderCore/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cobak Token": {
     "name": "Cobak Token",
@@ -31319,7 +31329,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
       "https://ethplorer.io/address/0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cobinhood": {
     "name": "Cobinhood",
@@ -31410,7 +31423,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Cocos-BCX": {
     "name": "Cocos-BCX",
@@ -31423,7 +31439,10 @@
       "Ethereum Contract"
     ],
     "forked_data": [],
-    "git": "https://github.com/cocos-bcx"
+    "git": "https://github.com/cocos-bcx",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Codeo Token": {
     "name": "Codeo Token",
@@ -31444,7 +31463,10 @@
       "https://etherscan.io/token/0x46b4a7d906F1A943b7744Df23625E63726d79035",
       "https://ethplorer.io/address/0x46b4a7d906F1A943b7744Df23625E63726d79035"
     ],
-    "git": "https://github.com/codeotoken-dev"
+    "git": "https://github.com/codeotoken-dev",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Codex": {
     "name": "Codex",
@@ -31457,7 +31479,10 @@
     ],
     "sawBirth": "20210106",
     "git": "https://github.com/CDEXonAltHash",
-    "explorer": "http://cdexplorer.net/"
+    "explorer": "http://cdexplorer.net/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoffeeSwap": {
     "name": "CoffeeSwap",
@@ -31471,7 +31496,10 @@
     "git": "https://github.com/cofeeswap",
     "forked_data": [
       "https://bscscan.com/token/0xf0eebab492d4e3c7500f30401534fb1eb9635e2d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cofinex Coin": {
     "name": "Cofinex Coin",
@@ -31533,7 +31561,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coin Artist": {
     "name": "Coin Artist",
@@ -31550,7 +31581,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coin Controller Cash": {
     "name": "Coin Controller Cash",
@@ -31577,7 +31611,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coin2.1": {
     "name": "Coin2.1",
@@ -31659,7 +31696,10 @@
       "20210324",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CoinDeal Token": {
     "name": "CoinDeal Token",
@@ -31673,16 +31713,26 @@
     "forked_data": [
       "https://etherscan.io/token/0xcb17cd357c7acd594717d899ecb9df540f633f27",
       "https://ethplorer.io/address/0xcb17cd357c7acd594717d899ecb9df540f633f27"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinEx Token": {
     "name": "CoinEx Token",
     "short": "CET",
     "url": "/currencies/coinex-token",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "NoGitHub"
-    ]
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinFi": {
     "name": "CoinFi",
@@ -31699,7 +31749,10 @@
       "https://etherscan.io/token/0x3136ef851592acf49ca4c825131e364170fa32b3",
       "https://ethplorer.io/address/0x3136ef851592acf49ca4c825131e364170fa32b3"
     ],
-    "git": "https://github.com/coinfi/coinfi"
+    "git": "https://github.com/coinfi/coinfi",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinHe Token": {
     "name": "CoinHe Token",
@@ -31713,7 +31766,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3277dd536471a3cBEB0c9486aCad494C95A31E73",
       "https://ethplorer.io/address/0x3277dd536471a3cBEB0c9486aCad494C95A31E73"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinLoan": {
     "name": "CoinLoan",
@@ -31727,7 +31783,10 @@
       "https://etherscan.io/token/0x2001f2a0cf801ecfda622f6c28fb6e10d803d969",
       "https://ethplorer.io/address/0x2001f2a0cf801ecfda622f6c28fb6e10d803d969"
     ],
-    "git": "https://github.com/coinloan/CoinLoanToken"
+    "git": "https://github.com/coinloan/CoinLoanToken",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinMeet": {
     "name": "CoinMeet",
@@ -31743,7 +31802,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
       "https://ethplorer.io/address/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinMetro Token": {
     "name": "CoinMetro Token",
@@ -31757,7 +31819,10 @@
       "https://etherscan.io/token/0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
       "https://ethplorer.io/address/0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25"
     ],
-    "git": "https://github.com/CoinMetro/distribution-smart-contracts"
+    "git": "https://github.com/CoinMetro/distribution-smart-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CoinPoker": {
     "name": "CoinPoker",
@@ -31794,7 +31859,10 @@
       "20210311",
       "20210316",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinUs": {
     "name": "CoinUs",
@@ -31808,7 +31876,10 @@
       "https://etherscan.io/token/0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308",
       "https://ethplorer.io/address/0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308"
     ],
-    "git": "https://github.com/coinus/Cnus_CoinVerse"
+    "git": "https://github.com/coinus/Cnus_CoinVerse",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CoinZoom": {
     "name": "CoinZoom",
@@ -31907,7 +31978,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coinbase Pre-IPO tokenized stock FTX": {
     "name": "Coinbase Pre-IPO tokenized stock FTX",
@@ -31919,7 +31993,10 @@
       "Token"
     ],
     "sawBirth": "20210106",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coinchase Token": {
     "name": "Coinchase Token",
@@ -31950,7 +32027,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coineal Token": {
     "name": "Coineal Token",
@@ -32005,7 +32085,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coinlancer": {
     "name": "Coinlancer",
@@ -32065,7 +32148,10 @@
       "20210318",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coinonat": {
     "name": "Coinonat",
@@ -32150,7 +32236,10 @@
       "20210326",
       "20210329"
     ],
-    "git": "https://github.com/coinonat/"
+    "git": "https://github.com/coinonat/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coinsbit Token": {
     "name": "Coinsbit Token",
@@ -32164,7 +32253,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xC538143202f3b11382D8606aae90a96b042a19DB",
       "https://ethplorer.io/address/0xC538143202f3b11382D8606aae90a96b042a19DB"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coinsto": {
     "name": "Coinsto",
@@ -32206,7 +32298,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coinsuper Ecosystem Network": {
     "name": "Coinsuper Ecosystem Network",
@@ -32220,7 +32315,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0bc61dded5f6710c637cf8288eb6058766ce1921",
       "https://ethplorer.io/address/0x0bc61dded5f6710c637cf8288eb6058766ce1921"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coinwaycoin": {
     "name": "Coinwaycoin",
@@ -32235,7 +32333,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x917FD2f7378FF479419dCB56C5cbB445fBbF902A",
       "https://ethplorer.io/address/0x917FD2f7378FF479419dCB56C5cbB445fBbF902A"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Coinzo Token": {
     "name": "Coinzo Token",
@@ -32249,7 +32350,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd",
       "https://ethplorer.io/address/0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Colibri Protocol": {
     "name": "Colibri Protocol",
@@ -32262,7 +32366,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/address/0x47a60748de6dbd8dce3991adc5751ce0f32279dc"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Collective": {
     "name": "Collective",
@@ -32277,7 +32384,10 @@
     "sawBirth": "20210324",
     "forked_data": [
       "https://etherscan.io/token/0x75739d5944534115d7c54ee8c73f186d793bae02"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Colletrix": {
     "name": "Colletrix",
@@ -32324,7 +32434,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Color Platform": {
     "name": "Color Platform",
@@ -32338,7 +32451,10 @@
       "https://etherscan.io/token/0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
       "https://ethplorer.io/address/0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb"
     ],
-    "git": "https://github.com/colorplatform"
+    "git": "https://github.com/colorplatform",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ColossusXT": {
     "name": "ColossusXT",
@@ -32365,7 +32481,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Colu Local Network": {
     "name": "Colu Local Network",
@@ -32399,7 +32518,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Combine.finance": {
     "name": "Combine.finance",
@@ -32432,7 +32554,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Combo": {
     "name": "Combo",
@@ -32445,7 +32570,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x7C81542ED859A2061538FEE22B6544a235B9557D"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Comet": {
     "name": "Comet",
@@ -32520,7 +32648,10 @@
       "20210325",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Cometh": {
     "name": "Cometh",
@@ -32535,7 +32666,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
       "https://ethplorer.io/address/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Commerce Data Connection": {
     "name": "Commerce Data Connection",
@@ -32608,7 +32742,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CommerceBlock": {
     "name": "CommerceBlock",
@@ -32629,6 +32766,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "Commercium": {
@@ -32654,7 +32794,10 @@
       "20210324",
       "20210324",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Community Token": {
     "name": "Community Token",
@@ -32714,7 +32857,10 @@
       "20210318",
       "20210320",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CommunityGeneration": {
     "name": "CommunityGeneration",
@@ -32765,7 +32911,10 @@
       "20210318",
       "20210329"
     ],
-    "git": "https://github.com/smartinsider/cgencore"
+    "git": "https://github.com/smartinsider/cgencore",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "CommunityToken": {
     "name": "CommunityToken",
@@ -32779,7 +32928,10 @@
     "sawBirth": "20210311",
     "forked_data": [
       "https://bscscan.com/token/0x9130ae8e2826947cf8b6a06333890b4e8a1667c7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compendia": {
     "name": "Compendia",
@@ -32807,7 +32959,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Compound": {
     "name": "Compound",
@@ -32827,7 +32982,10 @@
       "https://ethplorer.io/address/0xc00e94cb662c3520282e6f5717214004a7f26888",
       "https://eth.tokenview.com/en/token/0xc00e94cb662c3520282e6f5717214004a7f26888"
     ],
-    "git": "https://github.com/compound-finance/compound-protocol"
+    "git": "https://github.com/compound-finance/compound-protocol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Compound 0x": {
     "name": "Compound 0x",
@@ -32842,7 +33000,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
       "https://ethplorer.io/address/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound Augur": {
     "name": "Compound Augur",
@@ -32857,7 +33018,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
       "https://ethplorer.io/address/0x158079ee67fce2f58472a96584a73c7ab9ac95c1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound Basic Attention Token": {
     "name": "Compound Basic Attention Token",
@@ -32872,7 +33036,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
       "https://ethplorer.io/address/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound Coin": {
     "name": "Compound Coin",
@@ -32886,7 +33053,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/compounddev/Compound-Coin"
+    "git": "https://github.com/compounddev/Compound-Coin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound Dai": {
     "name": "Compound Dai",
@@ -32901,7 +33071,10 @@
       "https://etherscan.io/token/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
       "https://ethplorer.io/address/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
     ],
-    "git": "https://github.com/compound-finance/compound-protocol"
+    "git": "https://github.com/compound-finance/compound-protocol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Compound Ether": {
     "name": "Compound Ether",
@@ -32956,7 +33129,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound SAI": {
     "name": "Compound SAI",
@@ -33053,7 +33229,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound USD Coin": {
     "name": "Compound USD Coin",
@@ -33068,7 +33247,10 @@
       "https://etherscan.io/token/0x39aa39c021dfbae8fac545936693ac917d5e7563",
       "https://ethplorer.io/address/0x39aa39c021dfbae8fac545936693ac917d5e7563"
     ],
-    "git": "https://github.com/compound-finance/compound-protocol"
+    "git": "https://github.com/compound-finance/compound-protocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound USDT": {
     "name": "Compound USDT",
@@ -33083,7 +33265,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
       "https://ethplorer.io/address/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compound Wrapped BTC": {
     "name": "Compound Wrapped BTC",
@@ -33098,7 +33283,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
       "https://ethplorer.io/address/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Compounder": {
     "name": "Compounder",
@@ -33128,7 +33316,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Conceal": {
     "name": "Conceal",
@@ -33139,7 +33330,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ConcealNetwork"
+    "git": "https://github.com/ConcealNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Concoin": {
     "name": "Concoin",
@@ -33219,7 +33413,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Conflux Network": {
     "name": "Conflux Network",
@@ -33227,7 +33424,10 @@
     "url": "/currencies/conflux-network",
     "tags": [
       "Token"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Coni": {
     "name": "Coni",
@@ -33319,7 +33519,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Connect Coin": {
     "name": "Connect Coin",
@@ -33333,7 +33536,10 @@
       "https://etherscan.io/token/0x0f237d5ea7876e0e2906034d98fdb20d43666ad4",
       "https://ethplorer.io/address/0x0f237d5ea7876e0e2906034d98fdb20d43666ad4"
     ],
-    "git": "https://github.com/connectingcoin"
+    "git": "https://github.com/connectingcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Connect Financial": {
     "name": "Connect Financial",
@@ -33348,7 +33554,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
       "https://ethplorer.io/address/0xeabb8996ea1662cad2f7fb715127852cd3262ae9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Connectome": {
     "name": "Connectome",
@@ -33362,7 +33571,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d",
       "https://ethplorer.io/address/0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Consensus Cell Network": {
     "name": "Consensus Cell Network",
@@ -33376,7 +33588,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
       "https://ethplorer.io/address/0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Consentium": {
     "name": "Consentium",
@@ -33390,7 +33605,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c",
       "https://ethplorer.io/address/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Constant": {
     "name": "Constant",
@@ -33430,7 +33648,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Constellation": {
     "name": "Constellation",
@@ -33444,7 +33665,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Constellation-Labs/constellation"
+    "git": "https://github.com/Constellation-Labs/constellation",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Content Neutrality Network": {
     "name": "Content Neutrality Network",
@@ -33458,7 +33682,10 @@
       "https://etherscan.io/token/0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
       "https://ethplorer.io/address/0x8713d26637cf49e1b6b4a7ce57106aabc9325343"
     ],
-    "git": "https://github.com/cnntoken/"
+    "git": "https://github.com/cnntoken/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Content Value Network": {
     "name": "Content Value Network",
@@ -33480,7 +33707,10 @@
       "20210305",
       "20210306",
       "20210308"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ContentBox": {
     "name": "ContentBox",
@@ -33494,7 +33724,10 @@
       "https://etherscan.io/token/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
       "https://etherscan.io/token/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f"
     ],
-    "git": "https://github.com/BOXFoundation"
+    "git": "https://github.com/BOXFoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Contentos": {
     "name": "Contentos",
@@ -33510,7 +33743,10 @@
       "https://explorer.binance.org/asset/COS-2E4",
       "https://explorer.binance.org/asset/COS-2E4"
     ],
-    "git": "https://github.com/coschain/"
+    "git": "https://github.com/coschain/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Contribute": {
     "name": "Contribute",
@@ -33556,7 +33792,10 @@
       "20210321",
       "20210323",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Convergence": {
     "name": "Convergence",
