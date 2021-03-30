@@ -13,6 +13,18 @@
   },
   {
     "urls": [
+      "https://explorer.binance.org/asset",
+      "https://bscscan.com/address",
+      "https://bscscan.com/token",
+      "https://www.bscscan.com/token",
+      "https://www.bscscan.com/address",
+      "https://pancakeswap.info/token"
+    ],
+    "contract": "Binance Contract",
+    "gecko_asset_platform_id": "binancecoin"
+  },
+  {
+    "urls": [
       "https://bts.ai/asset"
     ],
     "contract": "Bitshares Contract"
@@ -88,7 +100,8 @@
     "urls": [
       "https://explorer.nemtool.com/#"
     ],
-    "contract": "Nem Contract"
+    "contract": "Nem Contract",
+    "gecko_asset_platform_id": "nem"
   },
   {
     "urls": [
@@ -190,7 +203,8 @@
       "https://dev.pywaves.org/assets",
       "https://wavesexplorer.com/tx"
     ],
-    "contract": "Waves Contract"
+    "contract": "Waves Contract",
+    "gecko_asset_platform_id": "waves"
   },
   {
     "urls": [

@@ -14,6 +14,8 @@ idExceptions = [
   '3x-long-sushi-token'
   '3x-short-sushi-token'
   'anchor-protocol'
+  'binance-krw'
+  'cvcoin'
 ]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
