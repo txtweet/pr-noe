@@ -29173,9 +29173,16 @@
     "short": "CNTR",
     "url": "/currencies/centaur",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "NoGitHub"
-    ]
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x03042482d64577a7bdb282260e2ea4c8a89c064b"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Centaure": {
     "name": "Centaure",
@@ -29270,7 +29277,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Centrality": {
     "name": "Centrality",
@@ -29284,7 +29294,10 @@
       "NoGitHub",
       "Coin"
     ],
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Centric Cash": {
     "name": "Centric Cash",
@@ -29299,7 +29312,10 @@
     "explorer": "https://explorer.joincentric.com/",
     "forked_data": [
       "https://tronscan.org/#/contract/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt/"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Centurion": {
     "name": "Centurion",
@@ -29387,7 +29403,10 @@
       "20210324",
       "20210325",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "CertiK": {
     "name": "CertiK",
@@ -29403,7 +29422,10 @@
       "Cosmos",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/certikfoundation"
+    "git": "https://github.com/certikfoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Chad Link Set": {
     "name": "Chad Link Set",
@@ -29502,7 +29524,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Chain Games": {
     "name": "Chain Games",
@@ -29515,7 +29540,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Chain Guardians": {
     "name": "Chain Guardians",
@@ -29531,18 +29559,27 @@
     "forked_data": [
       "https://etherscan.io/address/0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
       "https://ethplorer.io/address/0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ChainX": {
     "name": "ChainX",
     "short": "PCX",
     "url": "/currencies/chainx",
     "tags": [
-      "Coin",
+      "Token",
       "Substrate",
-      "Polkadot",
+      "Polkadot Contract",
       "NoGitHub"
-    ]
+    ],
+    "forked_data": [
+      "https://scan.chainx.org"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ChainZ Arena": {
     "name": "ChainZ Arena",
@@ -29586,7 +29623,10 @@
       "20210320",
       "20210322",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Chainlink": {
     "name": "Chainlink",
@@ -29612,7 +29652,10 @@
       "https://eth.tokenview.com/en/token/0x514910771af9ca656af840dff83e8264ecf986ca",
       "https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
     ],
-    "git": "https://github.com/smartcontractkit/chainlink"
+    "git": "https://github.com/smartcontractkit/chainlink",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Chainpay": {
     "name": "Chainpay",
@@ -29626,7 +29669,10 @@
       "https://etherscan.io/token/0x5825fba40871aaacba45e4b34629abb86520b807",
       "https://ethplorer.io/address/0x5825fba40871aaacba45e4b34629abb86520b807"
     ],
-    "git": "https://github.com/ChainPay-Cryptocurrency"
+    "git": "https://github.com/ChainPay-Cryptocurrency",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Chalice Finance": {
     "name": "Chalice Finance",
@@ -29653,7 +29699,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ChallengeDac": {
     "name": "ChallengeDac",
@@ -29661,7 +29710,11 @@
     "url": "/currencies/challengedac",
     "tags": [
       "Token",
-      "Dead"
+      "Dead",
+      "EOS Contract"
+    ],
+    "forked_data": [
+      "https://eospark.com/token/chl/challengedac"
     ],
     "deaths": [
       "20201216",
@@ -29681,7 +29734,10 @@
       "20210308",
       "20210309",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Change": {
     "name": "Change",
@@ -29718,7 +29774,10 @@
       "20210213",
       "20210214",
       "20210215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Channels": {
     "name": "Channels",

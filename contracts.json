@@ -81,7 +81,8 @@
       "https://scan.hecochain.com/token",
       "https://hecoinfo.com/token"
     ],
-    "contract": "Huobi Contract"
+    "contract": "Huobi Contract",
+    "gecko_asset_platform_id": "huobi-token"
   },
   {
     "urls": [
@@ -215,7 +216,8 @@
   },
   {
     "urls": [
-      "https://polkadot."
+      "https://polkadot.",
+      "https://scan.chainx.org/"
     ],
     "contract": "Polkadot Contract",
     "gecko_asset_platform_id": "polkadot"
