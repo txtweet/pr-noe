@@ -227,5 +227,12 @@
       "https://fsnex.com/token/0x0c74199d22f732039e843366a236ff4f61986b32"
     ],
     "contract": "Fusion Contract"
+  },
+  {
+    "urls": [
+      "https://scope.klaytn.com/token/0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1?tabId=kctTransfer"
+    ],
+    "contract": "Klay Contract",
+    "gecko_asset_platform_id": "klay-token"
   }
 ]
