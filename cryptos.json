@@ -7107,9 +7107,12 @@
       "NoGitHub",
       "Stellar Contract"
     ],
-    "forked_data":[
+    "forked_data": [
       "https://stellar.expert/explorer/public/asset/AKN-GACSHAJ2XBNKRNJEVDAII6E2EAASIAMDBCLJ3VKSZEWK3KC7Y7DPXUFX-1?order=desc"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akroma": {
     "name": "Akroma",
@@ -7172,7 +7175,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/akroma-project/akroma"
+    "git": "https://github.com/akroma-project/akroma",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akropolis": {
     "name": "Akropolis",
@@ -7193,7 +7199,10 @@
       "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
       "https://ethplorer.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
     ],
-    "git": "https://github.com/akropolisio"
+    "git": "https://github.com/akropolisio",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Akropolis Delphi": {
     "name": "Akropolis Delphi",
@@ -7208,7 +7217,10 @@
       "https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182",
       "https://ethplorer.io/address/0x94d863173ee77439e4292284ff13fad54b3ba182"
     ],
-    "git": "https://github.com/akropolisio"
+    "git": "https://github.com/akropolisio",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Aladdin": {
     "name": "Aladdin",
@@ -7248,7 +7260,10 @@
       "20210119",
       "20210120",
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AladiEx": {
     "name": "AladiEx",
@@ -7262,7 +7277,10 @@
       "https://etherscan.io/token/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8",
       "https://ethplorer.io/address/0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8"
     ],
-    "git": "https://github.com/lee01101985/token.git"
+    "git": "https://github.com/lee01101985/token.git",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alaya": {
     "name": "Alaya",
@@ -7270,7 +7288,10 @@
     "url": "/currencies/alaya",
     "tags": [
       "Token"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alchemint Standards": {
     "name": "Alchemint Standards",
@@ -7283,7 +7304,10 @@
     "forked_data": [
       "https://neotracker.io/asset/6fad54d8cc692fc808fd97a207836a846c217705"
     ],
-    "git": "https://github.com/Alchemint/alchemintToken"
+    "git": "https://github.com/Alchemint/alchemintToken",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Alchemix": {
     "name": "Alchemix",
@@ -7300,7 +7324,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
       "https://ethplorer.io/address/0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alchemy": {
     "name": "Alchemy",
@@ -7314,15 +7341,22 @@
     "forked_data": [
       "https://etherscan.io/token/0xfd25676fc2c4421778b18ec7ab86e7c5701df187",
       "https://ethplorer.io/address/0xfd25676fc2c4421778b18ec7ab86e7c5701df187"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Alchemy Pay": {
     "name": "Alchemy Pay",
     "short": "ACH",
     "url": "/currencies/alchemy-pay",
     "tags": [
-      "Coin",
-      "NoLicenceFile"
+      "Token",
+      "NoLicenceFile",
+      "Ethereum Contract"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xed04915c23f00a313a544955524eb7dbd823143d"
     ],
     "git": "https://github.com/Alchemy-GPS"
   },
