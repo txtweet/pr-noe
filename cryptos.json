@@ -2184,6 +2184,9 @@
       "forked_from": [
         "Tron"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "7up Finance": {
@@ -2196,7 +2199,10 @@
     ],
     "forked_data": [
       "https://bscscan.com/token/0x29f350b3822f51dc29619c583adbc9628646e315"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "808TA": {
     "name": "808TA",
@@ -2212,7 +2218,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5b535edfa75d7cb706044da0171204e1c48d00e8",
       "https://ethplorer.io/address/0x5b535edfa75d7cb706044da0171204e1c48d00e8"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "888tron": {
     "name": "888tron",
@@ -2311,7 +2320,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "88mph": {
     "name": "88mph",
@@ -2326,7 +2338,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8888801af4d980682e47f1a9036e589479e835c5"
     ],
-    "git": "https://github.com/88mphapp"
+    "git": "https://github.com/88mphapp",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "8X8 PROTOCOL": {
     "name": "8X8 PROTOCOL",
@@ -2340,7 +2355,10 @@
       "https://etherscan.io/token/0x412d397ddca07d753e3e0c61e367fb1b474b3e7d",
       "https://ethplorer.io/address/0x412d397ddca07d753e3e0c61e367fb1b474b3e7d"
     ],
-    "git": "https://github.com/isoftpartners/"
+    "git": "https://github.com/isoftpartners/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "A2A": {
     "name": "A2A",
@@ -2354,7 +2372,10 @@
     "sawBirth": "20210316",
     "forked_data": [
       "https://etherscan.io/token/0x11c039f368606d91664bfd10137b00eee13cde77"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "A2DAO": {
     "name": "A2DAO",
@@ -2370,7 +2391,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8052327F1BAF94A9DC8B26b9100f211eE3774f54",
       "https://ethplorer.io/address/0x8052327F1BAF94A9DC8B26b9100f211eE3774f54"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AAVEDOWN": {
     "name": "AAVEDOWN",
@@ -2379,7 +2403,10 @@
     "tags": [
       "Token",
       "Binance Contract"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AAVEUP": {
     "name": "AAVEUP",
@@ -2388,7 +2415,10 @@
     "tags": [
       "Token",
       "Binance Contract"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AAX Token": {
     "name": "AAX Token",
@@ -2402,7 +2432,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x686c650dbcfeaa75d09b883621ad810f5952bd5d",
       "https://ethplorer.io/address/0x686c650dbcfeaa75d09b883621ad810f5952bd5d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ABBC Coin": {
     "name": "ABBC Coin",
@@ -2416,7 +2449,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ABBCTEAM"
+    "git": "https://github.com/ABBCTEAM",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ABCC Token": {
     "name": "ABCC Token",
@@ -2492,7 +2528,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AC Index": {
     "name": "AC Index",
@@ -2564,7 +2603,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AC Milan Fan Token": {
     "name": "AC Milan Fan Token",
@@ -2580,7 +2622,10 @@
     "sawBirth": "20210223",
     "forked_data": [
       "https://explorer.chiliz.com/tokens/0xea6a3e367e96521fd9e8296425a44efa6aee82da/token_transfers"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AC eXchange Token": {
     "name": "AC eXchange Token",
@@ -2599,7 +2644,10 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AC3": {
     "name": "AC3",
@@ -2690,7 +2738,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ACDX Exchange Token": {
     "name": "ACDX Exchange Token",
@@ -2707,7 +2758,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
       "https://ethplorer.io/address/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ACE": {
     "name": "ACE",
@@ -2759,7 +2813,10 @@
       "20210309",
       "20210310",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ACE (TokenStars)": {
     "name": "ACE (TokenStars)",
@@ -2835,7 +2892,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/token-stars/ace-token"
+    "git": "https://github.com/token-stars/ace-token",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ACoconut": {
     "name": "ACoconut",
@@ -2849,7 +2909,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
       "https://ethplorer.io/address/0x9A0aBA393aac4dFbFf4333B06c407458002C6183"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ACryptoS": {
     "name": "ACryptoS",
@@ -2862,7 +2925,10 @@
     "sawBirth": "20201203",
     "forked_data": [
       "https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ADADOWN": {
     "name": "ADADOWN",
@@ -2872,7 +2938,10 @@
       "Token",
       "Binance Contract"
     ],
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ADAMANT Messenger": {
     "name": "ADAMANT Messenger",
@@ -2893,7 +2962,10 @@
       "Services",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/adamant-im"
+    "git": "https://github.com/adamant-im",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ADAUP": {
     "name": "ADAUP",
@@ -2903,7 +2975,10 @@
       "Token",
       "Binance Contract"
     ],
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AEN Smart Token": {
     "name": "AEN Smart Token",
@@ -2917,7 +2992,10 @@
       "https://etherscan.io/token/0xD38dE88687172BDE440755b5237987e4A87c23A7",
       "https://ethplorer.io/address/0xD38dE88687172BDE440755b5237987e4A87c23A7"
     ],
-    "git": "https://github.com/AENCO-Global/AENToken"
+    "git": "https://github.com/AENCO-Global/AENToken",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AGA Token": {
     "name": "AGA Token",
@@ -2931,7 +3009,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20",
       "https://ethplorer.io/address/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AGAr": {
     "name": "AGAr",
@@ -2945,7 +3026,10 @@
     "sawBirth": "20210114",
     "forked_data": [
       "https://etherscan.io/token/0xb453f1f2EE776dAF2586501361c457dB70e1ca0F"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AGOV (ANSWER Governance)": {
     "name": "AGOV (ANSWER Governance)",
@@ -2958,7 +3042,10 @@
     "forked_data": [
       "https://etherscan.io/address/0xc1ad269f10bf36d6972ee30827051b59d0d2456b"
     ],
-    "git": "https://github.com/answerswap/agov"
+    "git": "https://github.com/answerswap/agov",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AI Crypto": {
     "name": "AI Crypto",
@@ -2981,7 +3068,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AI Doctor": {
     "name": "AI Doctor",
@@ -2998,7 +3088,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151",
       "https://ethplorer.io/address/0x584b44853680ee34a0f337b712a8f66d816df151"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AI Network": {
     "name": "AI Network",
@@ -3015,7 +3108,10 @@
       "http://insight.ainetwork.ai/",
       "https://etherscan.io/token/0x3A810ff7211b40c4fA76205a14efe161615d0385",
       "https://ethplorer.io/address/0x3A810ff7211b40c4fA76205a14efe161615d0385"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AICHAIN": {
     "name": "AICHAIN",
@@ -3029,7 +3125,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c",
       "https://ethplorer.io/address/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AICON": {
     "name": "AICON",
@@ -3043,7 +3142,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xE7FB3559358A99df54466d0350e4aD6DC7093da3",
       "https://ethplorer.io/address/0xE7FB3559358A99df54466d0350e4aD6DC7093da3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AIDUS TOKEN": {
     "name": "AIDUS TOKEN",
@@ -3057,7 +3159,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa957045a12d270e2ee0dca9a3340c340e05d4670",
       "https://ethplorer.io/address/0xa957045a12d270e2ee0dca9a3340c340e05d4670"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AINORI": {
     "name": "AINORI",
@@ -3071,7 +3176,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://www.bscscan.com/token/0x7ce4accd9bb261508abd20b134d6278902369057"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AK12": {
     "name": "AK12",
@@ -3113,7 +3221,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ALA": {
     "name": "ALA",
@@ -3151,7 +3262,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ALAX": {
     "name": "ALAX",
@@ -3180,7 +3294,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ALL BEST ICO": {
     "name": "ALL BEST ICO",
@@ -3194,7 +3311,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed",
       "https://ethplorer.io/address/0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ALLY": {
     "name": "ALLY",
@@ -3222,7 +3342,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ALP Coin": {
     "name": "ALP Coin",
@@ -3236,7 +3359,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x37d6e7f287200c740012747d2a79295caed2db35",
       "https://ethplorer.io/address/0x37d6e7f287200c740012747d2a79295caed2db35"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ALQO": {
     "name": "ALQO",
@@ -3261,7 +3387,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AMATEN": {
     "name": "AMATEN",
@@ -3279,7 +3408,10 @@
     ],
     "deaths": [
       "20210201"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AMC Entertainment Holdings tokenized stock FTX": {
     "name": "AMC Entertainment Holdings tokenized stock FTX",
@@ -3292,7 +3424,10 @@
       "Token"
     ],
     "sawBirth": "20210128",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AMEPAY": {
     "name": "AMEPAY",
@@ -3308,7 +3443,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
       "https://ethplorer.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AML Bitcoin": {
     "name": "AML Bitcoin",
@@ -3342,7 +3480,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AMLT": {
     "name": "AMLT",
@@ -3356,7 +3497,10 @@
       "https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f",
       "https://ethplorer.io/address/0xca0e7269600d353f70b14ad118a49575455c0f2f"
     ],
-    "git": "https://github.com/TokenMarketNet/ico/tree/master/contracts"
+    "git": "https://github.com/TokenMarketNet/ico/tree/master/contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "AMO Coin": {
     "name": "AMO Coin",
@@ -3370,7 +3514,10 @@
       "https://etherscan.io/token/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
       "https://ethplorer.io/address/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
     ],
-    "git": "https://github.com/AMO-Project/AMO-Contracts"
+    "git": "https://github.com/AMO-Project/AMO-Contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ANON": {
     "name": "ANON",
@@ -3434,7 +3581,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/anonymousbitcoin"
+    "git": "https://github.com/anonymousbitcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "AOS": {
     "name": "AOS",
@@ -3443,7 +3593,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "APEcoin": {
     "name": "APEcoin",

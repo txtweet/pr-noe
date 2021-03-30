@@ -8,7 +8,8 @@
       "https://www.bscscan.com/address",
       "https://pancakeswap.info/token"
     ],
-    "contract": "Binance Contract"
+    "contract": "Binance Contract",
+    "gecko_asset_platform_id": "binance-smart-chain"
   },
   {
     "urls": [
@@ -20,7 +21,8 @@
     "urls": [
       "https://explorer.chiliz.com/tokens"
     ],
-    "contract": "Chiliz Contract"
+    "contract": "Chiliz Contract",
+    "gecko_asset_platform_id": "chiliz"
   },
   {
     "urls": [

@@ -26,7 +26,7 @@ Promise.each (_.values(cryptos)), (crypto) ->
         unless res.id in idExceptions
           # console.log JSON.stringify res, null, 2
           if res.asset_platform_id?
-            contract = _.find contracts, {"gecko": res.asset_platform_id}
+            contract = _.find contracts, {"gecko_asset_platform_id": res.asset_platform_id}
             if contract?
               unless contract.contract in crypto.tags
                 console.log JSON.stringify contract, null, 2
