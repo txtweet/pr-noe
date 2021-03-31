@@ -91332,7 +91332,7 @@
     "url": "/currencies/newyork-exchange",
     "tags": [
       "Token",
-      "Omni Contract", 
+      "Omni Contract",
       "Services",
       "BitcoinL",
       "DashL",
@@ -91343,7 +91343,10 @@
     "git": "https://github.com/nyecoin/NYE",
     "deaths": [
       "20210114"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NewYorkCoin": {
     "name": "NewYorkCoin",
@@ -91357,7 +91360,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/NewYorkCoin-NYC"
+    "git": "https://github.com/NewYorkCoin-NYC",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nework": {
     "name": "Nework",
@@ -91371,7 +91377,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5a1a29dbb6ad6153db764568c1289076bc876df6",
       "https://ethplorer.io/address/0x5a1a29dbb6ad6153db764568c1289076bc876df6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NewsToken": {
     "name": "NewsToken",
@@ -91385,7 +91394,10 @@
       "https://etherscan.io/token/0x29536b7ca7029b5cddeb03c0451715615aca35ba",
       "https://ethplorer.io/address/0x29536b7ca7029b5cddeb03c0451715615aca35ba"
     ],
-    "git": "https://github.com/news-chain/newschain/"
+    "git": "https://github.com/news-chain/newschain/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Newscrypto": {
     "name": "Newscrypto",
@@ -91401,7 +91413,10 @@
       "https://stellarchain.io/address/GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2",
       "https://etherscan.io/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed"
     ],
-    "git": "https://github.com/newscrypto"
+    "git": "https://github.com/newscrypto",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Newsolution": {
     "name": "Newsolution",
@@ -91444,7 +91459,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Newton": {
     "name": "Newton",
@@ -91462,7 +91480,10 @@
     "forked_data": [
       "https://explorer.binance.org/asset/NEW-09E"
     ],
-    "git": "https://github.com/newtonproject"
+    "git": "https://github.com/newtonproject",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Newton Coin Project": {
     "name": "Newton Coin Project",
@@ -91487,7 +91508,10 @@
       "20210309",
       "20210316",
       "20210317"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Newtonium": {
     "name": "Newtonium",
@@ -91571,7 +91595,10 @@
       "20210324",
       "20210325",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nexalt": {
     "name": "Nexalt",
@@ -91580,7 +91607,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nexo": {
     "name": "Nexo",
@@ -91599,7 +91629,10 @@
       "https://explorer.binance.org/asset/NEXO-A84",
       "https://blockchair.com/ethereum/erc-20/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
     ],
-    "git": "https://github.com/nexofinance/NEXO-Token/"
+    "git": "https://github.com/nexofinance/NEXO-Token/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NextDAO": {
     "name": "NextDAO",
@@ -91609,7 +91642,10 @@
       "Token",
       "NoGitHub"
     ],
-    "explorer": "https://explorer.nebulas.io"
+    "explorer": "https://explorer.nebulas.io",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nexty": {
     "name": "Nexty",
@@ -91667,7 +91703,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nexus": {
     "name": "Nexus",
@@ -91681,7 +91720,10 @@
       "Staking",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Nexusoft/"
+    "git": "https://github.com/Nexusoft/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nexxo": {
     "name": "Nexxo",
@@ -91716,7 +91758,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nibble": {
     "name": "Nibble",
@@ -91739,7 +91784,10 @@
       "20210310",
       "20210311",
       "20210316"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nilu": {
     "name": "Nilu",
@@ -91770,7 +91818,10 @@
       "20210311",
       "20210318",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nimbus": {
     "name": "Nimbus",
@@ -91785,7 +91836,10 @@
     "git": "https://github.com/nimbusplatformorg/",
     "forked_data": [
       "https://etherscan.io/address/0xEB58343b36C7528F23CAAe63a150240241310049"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nimiq": {
     "name": "Nimiq",
@@ -91795,7 +91849,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ninjacoin": {
     "name": "Ninjacoin",
@@ -91816,7 +91873,10 @@
       "20210118",
       "20210119",
       "20210120"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nio tokenized stock FTX": {
     "name": "Nio tokenized stock FTX",
@@ -91827,7 +91887,10 @@
       "Ftx",
       "Token"
     ],
-    "sawBirth": "20201208"
+    "sawBirth": "20201208",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Niobio Cash": {
     "name": "Niobio Cash",
@@ -91850,7 +91913,10 @@
       "20210311",
       "20210320",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Niobium Coin": {
     "name": "Niobium Coin",
@@ -91891,7 +91957,10 @@
       "20210323",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Niubi Swap": {
     "name": "Niubi Swap",
@@ -91905,7 +91974,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/token/0xfa90d5d5ff08d9a06c9fdf89b4b22217b9dbc418"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "No BS Crypto": {
     "name": "No BS Crypto",
@@ -91933,7 +92005,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "NoLimitCoin": {
     "name": "NoLimitCoin",
@@ -91944,7 +92019,10 @@
       "PoS",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/NoLimitCoin"
+    "git": "https://github.com/NoLimitCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Node Runners": {
     "name": "Node Runners",
@@ -91960,7 +92038,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x739763a258640919981F9bA610AE65492455bE53",
       "https://ethplorer.io/address/0x739763a258640919981F9bA610AE65492455bE53"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Noir": {
     "name": "Noir",
@@ -91971,7 +92052,10 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/noirofficial/noir"
+    "git": "https://github.com/noirofficial/noir",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nokencoin": {
     "name": "Nokencoin",
@@ -91979,12 +92063,12 @@
     "url": "/currencies/nokencoin",
     "tags": [
       "Token",
+      "Waves Contract",
       "Dead"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "https://wavesexplorer.com/tx/KYGtzFRaUfKtaKGGz2FfbZDoimw3GNY2SKVwyHEsY7M"
+    ],
     "deaths": [
       "20201214",
       "20201217",
@@ -92019,7 +92103,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Noku": {
     "name": "Noku",
@@ -92043,7 +92130,10 @@
       "20210106",
       "20210112",
       "20210114"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Non-Fungible Yearn": {
     "name": "Non-Fungible Yearn",
@@ -92077,7 +92167,10 @@
       "20210303",
       "20210304",
       "20210305"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nord Finance": {
     "name": "Nord Finance",
@@ -92092,7 +92185,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
       "https://ethplorer.io/address/0x6e9730ecffbed43fd876a264c982e254ef05a0de"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NovaDeFi": {
     "name": "NovaDeFi",
@@ -92135,7 +92231,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Novacoin": {
     "name": "Novacoin",
@@ -92157,7 +92256,10 @@
       "20201130",
       "20210106"
     ],
-    "git": "https://github.com/novacoin-project/novacoin"
+    "git": "https://github.com/novacoin-project/novacoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Novara Calcio Fan Token": {
     "name": "Novara Calcio Fan Token",
@@ -92187,7 +92289,10 @@
     ],
     "forked_data": [
       "https://explorer.chiliz.com/tokens/0x96f499cfb9bc23ee7bad894fe9e8dd77d31dc86b/token_transfers"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Novo": {
     "name": "Novo",
@@ -92223,7 +92328,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nsure.Network": {
     "name": "Nsure.Network",
@@ -92239,7 +92347,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x20945cA1df56D237fD40036d47E866C7DcCD2114"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NuBits": {
     "name": "NuBits",
@@ -92257,7 +92368,10 @@
     "deaths": [
       "20210303",
       "20210311"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NuCypher": {
     "name": "NuCypher",
@@ -92270,7 +92384,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x4fe83213d56308330ec302a8bd641f1d0113a4cc"
     ],
-    "git": "https://github.com/nucypher"
+    "git": "https://github.com/nucypher",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NuShares": {
     "name": "NuShares",
@@ -92296,7 +92413,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nucleus Vision": {
     "name": "Nucleus Vision",
@@ -92325,7 +92445,10 @@
       "20201208",
       "20201209",
       "20201211"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nuco.cloud": {
     "name": "Nuco.cloud",
@@ -92346,7 +92469,10 @@
       "20210319",
       "20210320",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nuggets": {
     "name": "Nuggets",
@@ -92376,7 +92502,10 @@
       "20210306",
       "20210310",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Numeraire": {
     "name": "Numeraire",
@@ -92394,7 +92523,10 @@
       "https://etherscan.io/token/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
       "https://ethplorer.io/address/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
     ],
-    "git": "https://github.com/numerai"
+    "git": "https://github.com/numerai",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nxt": {
     "name": "Nxt",
@@ -92408,7 +92540,10 @@
       "Enterprise solutions",
       "State channels",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nyan Cat Token": {
     "name": "Nyan Cat Token",
@@ -92423,7 +92558,10 @@
     "sawBirth": "20210326",
     "forked_data": [
       "https://bscscan.com/token/0x0cf011a946f23a03ceff92a4632d5f9288c6c70d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nyan Finance": {
     "name": "Nyan Finance",
@@ -92438,7 +92576,10 @@
       "https://etherscan.io/token/0xc9ce70a381910d0a90b30d408cc9c7705ee882de",
       "https://ethplorer.io/address/0xc9ce70a381910d0a90b30d408cc9c7705ee882de"
     ],
-    "git": "https://github.com/geass-zero/nyan.finance"
+    "git": "https://github.com/geass-zero/nyan.finance",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nyan V2": {
     "name": "Nyan V2",
@@ -92451,7 +92592,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xbf4a9a37ecfc21825011285222c36ab35de51f14"
     ],
-    "git": "https://github.com/geass-zero/nyan.finance"
+    "git": "https://github.com/geass-zero/nyan.finance",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nydronia": {
     "name": "Nydronia",
@@ -92466,7 +92610,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b",
       "https://ethplorer.io/address/0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nyerium": {
     "name": "Nyerium",
@@ -92516,7 +92663,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/nyerium-core/nyerium"
+    "git": "https://github.com/nyerium-core/nyerium",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nyzo": {
     "name": "Nyzo",
@@ -92526,7 +92676,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/n-y-z-o/nyzoVerifier"
+    "git": "https://github.com/n-y-z-o/nyzoVerifier",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OASISBloc": {
     "name": "OASISBloc",
@@ -92536,7 +92689,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/OASISBloc"
+    "git": "https://github.com/OASISBloc",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OAX": {
     "name": "OAX",
@@ -92553,7 +92709,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OBIC": {
     "name": "OBIC",
@@ -92636,7 +92795,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OBITS": {
     "name": "OBITS",
@@ -92655,7 +92817,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OC Protocol": {
     "name": "OC Protocol",
@@ -92742,7 +92907,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/OC-CryptoCurrency/OCP"
+    "git": "https://github.com/OC-CryptoCurrency/OCP",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ODE": {
     "name": "ODE",
@@ -92833,7 +93001,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ODEM": {
     "name": "ODEM",
@@ -92849,7 +93020,10 @@
       "https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
       "https://ethplorer.io/address/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a"
     ],
-    "git": "https://github.com/odemio/ico"
+    "git": "https://github.com/odemio/ico",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ODUWA": {
     "name": "ODUWA",
@@ -92864,7 +93038,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/ODUWAX/oduwacoin"
+    "git": "https://github.com/ODUWAX/oduwacoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OFIN Token": {
     "name": "OFIN Token",
@@ -92958,7 +93135,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OG Fan Token": {
     "name": "OG Fan Token",
@@ -92981,7 +93161,10 @@
       "20201211",
       "20201213",
       "20201214"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OIN Finance": {
     "name": "OIN Finance",
@@ -92995,7 +93178,10 @@
       "https://etherscan.io/token/0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
       "https://ethplorer.io/address/0x9aeB50f542050172359A0e1a25a9933Bc8c01259"
     ],
-    "git": "https://github.com/oinfinance/oin"
+    "git": "https://github.com/oinfinance/oin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OKB": {
     "name": "OKB",
@@ -93014,7 +93200,10 @@
       "https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c",
       "https://blockchair.com/ethereum/erc-20/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
       "https://eth.tokenview.com/en/token/0x75231f58b43240c9718dd58b4967c5114342a86c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OKCash": {
     "name": "OKCash",
@@ -93029,7 +93218,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/okcashpro/okcash"
+    "git": "https://github.com/okcashpro/okcash",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OKExChain": {
     "name": "OKExChain",
@@ -93042,7 +93234,10 @@
     ],
     "sawBirth": "20210119",
     "git": "https://github.com/okex/okexchain",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OLPORTAL": {
     "name": "OLPORTAL",
@@ -93079,7 +93274,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OLXA": {
     "name": "OLXA",
@@ -93140,7 +93338,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OMG Network": {
     "name": "OMG Network",
@@ -93159,7 +93360,10 @@
       "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
       "https://blockchair.com/ethereum/erc-20/token/0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
     ],
-    "git": "https://github.com/omgnetwork"
+    "git": "https://github.com/omgnetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ONOToken": {
     "name": "ONOToken",
@@ -93173,7 +93377,10 @@
       "https://etherscan.io/token/0xb31c219959e06f9afbeb36b388a4bad13e802725",
       "https://ethplorer.io/address/0xb31c219959e06f9afbeb36b388a4bad13e802725"
     ],
-    "git": "https://github.com/onochat"
+    "git": "https://github.com/onochat",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OOOBTC TOKEN": {
     "name": "OOOBTC TOKEN",
@@ -93272,7 +93479,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ORBYT Token": {
     "name": "ORBYT Token",
@@ -93317,7 +93527,10 @@
       "20210309",
       "20210310",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OREO": {
     "name": "OREO",
@@ -93339,7 +93552,10 @@
     "git": "https://github.com/OREODEFI",
     "forked_data": [
       "https://bscscan.com/token/0x93d5a19a993d195cfc75acdd736a994428290a59"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ORO": {
     "name": "ORO",
@@ -93354,7 +93570,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc3Eb2622190c57429aac3901808994443b64B466",
       "https://ethplorer.io/address/0xc3Eb2622190c57429aac3901808994443b64B466"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ORS Group": {
     "name": "ORS Group",
@@ -93368,7 +93587,10 @@
       "https://etherscan.io/token/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca",
       "https://ethplorer.io/address/0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca"
     ],
-    "git": "https://github.com/ORSGroup/ORS-Tokensale"
+    "git": "https://github.com/ORSGroup/ORS-Tokensale",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OSA Token": {
     "name": "OSA Token",
@@ -93382,7 +93604,10 @@
       "https://etherscan.io/token/0xc6abf3c09341741ac6041b0b08195701bdfd460c",
       "https://ethplorer.io/address/0xc6abf3c09341741ac6041b0b08195701bdfd460c"
     ],
-    "git": "https://github.com/osa-decentralized"
+    "git": "https://github.com/osa-decentralized",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OST": {
     "name": "OST",
@@ -93398,7 +93623,10 @@
       "https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
       "https://ethplorer.io/address/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca"
     ],
-    "git": "https://github.com/OpenST"
+    "git": "https://github.com/OpenST",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OTCBTC Token": {
     "name": "OTCBTC Token",
@@ -93412,7 +93640,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa86a0da9d05d0771955df05b44ca120661af16de",
       "https://ethplorer.io/address/0xa86a0da9d05d0771955df05b44ca120661af16de"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OTOCASH": {
     "name": "OTOCASH",
@@ -93425,7 +93656,10 @@
       "Medium of Exchange",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/otocash/"
+    "git": "https://github.com/otocash/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OVCODE": {
     "name": "OVCODE",
@@ -93459,7 +93693,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OVR": {
     "name": "OVR",
@@ -93474,7 +93711,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
       "https://ethplorer.io/address/0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OWL": {
     "name": "OWL",
@@ -93573,7 +93813,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OWL Token (StealthSwap)": {
     "name": "OWL Token (StealthSwap)",
@@ -93607,7 +93850,10 @@
       "20210309",
       "20210317",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OWNDATA": {
     "name": "OWNDATA",
@@ -93636,7 +93882,10 @@
       "20210310",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oasis Network": {
     "name": "Oasis Network",
@@ -93646,7 +93895,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/oasisprotocol/oasis-core"
+    "git": "https://github.com/oasisprotocol/oasis-core",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oath Protocol": {
     "name": "Oath Protocol",
@@ -93680,7 +93932,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Obee Network": {
     "name": "Obee Network",
@@ -93769,7 +94024,10 @@
       "20210317",
       "20210318",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Obitan Chain": {
     "name": "Obitan Chain",
@@ -93864,7 +94122,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Observer": {
     "name": "Observer",
@@ -93874,7 +94135,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Obyte": {
     "name": "Obyte",
@@ -93887,7 +94151,10 @@
       "Identity",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/byteball"
+    "git": "https://github.com/byteball",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ocean Protocol": {
     "name": "Ocean Protocol",
@@ -93909,7 +94176,10 @@
       "https://ethplorer.io/address/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
       "https://blockchair.com/ethereum/erc-20/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
     ],
-    "git": "https://github.com/oceanprotocol"
+    "git": "https://github.com/oceanprotocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OceanChain": {
     "name": "OceanChain",
@@ -93918,7 +94188,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OceanEx Token": {
     "name": "OceanEx Token",
@@ -93931,7 +94204,10 @@
     ],
     "forked_data": [
       "https://explore.veforge.com/tokens/0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OctoFi": {
     "name": "OctoFi",
@@ -93952,7 +94228,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
       "https://ethplorer.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Octree": {
     "name": "Octree",
@@ -93966,7 +94245,10 @@
     "git": "https://github.com/octree-finance",
     "forked_data": [
       "https://bscscan.com/token/0x49277cc5be56b519901e561096bfd416277b4f6d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oddz": {
     "name": "Oddz",
@@ -93981,7 +94263,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
       "https://ethplorer.io/address/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Odyssey": {
     "name": "Odyssey",
@@ -93997,7 +94282,10 @@
       "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
       "https://ethplorer.io/address/0x4092678e4e78230f46a1534c0fbc8fa39780892b"
     ],
-    "git": "https://github.com/OdysseyOCN"
+    "git": "https://github.com/OdysseyOCN",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Offshift": {
     "name": "Offshift",
@@ -94015,7 +94303,10 @@
       "https://etherscan.io/token/0xabe580e7ee158da464b51ee1a83ac0289622e6be",
       "https://ethplorer.io/address/0xabe580e7ee158da464b51ee1a83ac0289622e6be"
     ],
-    "git": "https://github.com/offshift-dev"
+    "git": "https://github.com/offshift-dev",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oikos": {
     "name": "Oikos",
@@ -94051,7 +94342,10 @@
       "20210316",
       "20210317",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Okschain": {
     "name": "Okschain",
@@ -94065,7 +94359,10 @@
       "https://etherscan.io/token/0x7b68d272eda2185ea2f9283f241b1c44c51e712a",
       "https://ethplorer.io/address/0x7b68d272eda2185ea2f9283f241b1c44c51e712a"
     ],
-    "git": "https://github.com/Okschain"
+    "git": "https://github.com/Okschain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Olive": {
     "name": "Olive",
@@ -94111,7 +94408,10 @@
       "20210127",
       "20210128",
       "20210129"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Olyseum": {
     "name": "Olyseum",
@@ -94131,7 +94431,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
       "https://ethplorer.io/address/0x6595b8fd9c920c81500dca94e53cdc712513fb1f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Omega Protocol Money": {
     "name": "Omega Protocol Money",
@@ -94145,7 +94448,10 @@
       "https://etherscan.io/token/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d",
       "https://ethplorer.io/address/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d"
     ],
-    "git": "https://github.com/omgswap"
+    "git": "https://github.com/omgswap",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Omix": {
     "name": "Omix",
@@ -94178,7 +94484,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Omni": {
     "name": "Omni",
@@ -94191,7 +94500,10 @@
       "NoLicenceFile"
     ],
     "explorer": "https://omniexplorer.info/",
-    "git": "https://github.com/OmniLayer"
+    "git": "https://github.com/OmniLayer",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Omnitude": {
     "name": "Omnitude",
@@ -94214,7 +94526,10 @@
     },
     "deaths": [
       "20210201"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "On.Live": {
     "name": "On.Live",
@@ -94233,7 +94548,10 @@
     "deaths": [
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OnX Finance": {
     "name": "OnX Finance",
@@ -94249,7 +94567,10 @@
     "git": "https://github.com/OnXFinance/",
     "forked_data": [
       "https://etherscan.io/token/0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ondori": {
     "name": "Ondori",
@@ -94342,7 +94663,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/ondori-project"
+    "git": "https://github.com/ondori-project",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "One Cash": {
     "name": "One Cash",
@@ -94358,7 +94682,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xD90E69f67203EBE02c917B5128629E77B4cd92dc",
       "https://ethplorer.io/address/0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "One DEX": {
     "name": "One DEX",
@@ -94407,7 +94734,10 @@
       "20210309",
       "20210320",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "One Share": {
     "name": "One Share",
@@ -94423,7 +94753,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
       "https://ethplorer.io/address/0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OneLedger": {
     "name": "OneLedger",
@@ -94448,7 +94781,10 @@
       "https://etherscan.io/token/0x64a60493d888728cf42616e034a0dfeae38efcf0",
       "https://ethplorer.io/address/0x64a60493d888728cf42616e034a0dfeae38efcf0"
     ],
-    "git": "https://github.com/Oneledger/OLT"
+    "git": "https://github.com/Oneledger/OLT",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OneRoot Network": {
     "name": "OneRoot Network",
@@ -94464,7 +94800,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386",
       "https://ethplorer.io/address/0xff603f43946a3a28df5e6a73172555d8c8b02386"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OneSwap DAO Token": {
     "name": "OneSwap DAO Token",
@@ -94479,7 +94818,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
       "https://ethplorer.io/address/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Onix": {
     "name": "Onix",
@@ -94552,7 +94894,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/onix-project"
+    "git": "https://github.com/onix-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ontology": {
     "name": "Ontology",
@@ -94571,7 +94916,10 @@
       "Binance Smart Chain"
     ],
     "forked_data": [],
-    "git": "https://github.com/ontio"
+    "git": "https://github.com/ontio",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ontology Gas": {
     "name": "Ontology Gas",
@@ -94582,7 +94930,10 @@
       "Ontology",
       "NoGitHub"
     ],
-    "explorer": "https://explorer.ont.io/"
+    "explorer": "https://explorer.ont.io/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Opacity": {
     "name": "Opacity",
@@ -94603,7 +94954,10 @@
       "https://etherscan.io/token/0xDb05EA0877A2622883941b939f0bb11d1ac7c400",
       "https://ethplorer.io/address/0xDb05EA0877A2622883941b939f0bb11d1ac7c400"
     ],
-    "git": "https://github.com/opacity"
+    "git": "https://github.com/opacity",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Opal": {
     "name": "Opal",
@@ -94686,7 +95040,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Open Governance Token": {
     "name": "Open Governance Token",
@@ -94700,7 +95057,10 @@
     "git": "https://github.com/opendao-protocols",
     "forked_data": [
       "https://etherscan.io/token/0x69e8b9528CABDA89fe846C67675B5D73d463a916"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Open Platform": {
     "name": "Open Platform",
@@ -94714,7 +95074,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9d86b1b2554ec410eccffbf111a6994910111340",
       "https://ethplorer.io/address/0x9d86b1b2554ec410eccffbf111a6994910111340"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Open Predict Token": {
     "name": "Open Predict Token",
@@ -94741,7 +95104,10 @@
       "20210122",
       "20210127",
       "20210209"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OpenAlexa Protocol": {
     "name": "OpenAlexa Protocol",
@@ -94755,7 +95121,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x1788430620960f9a70e3dc14202a3a35dde1a316",
       "https://ethplorer.io/address/0x1788430620960f9a70e3dc14202a3a35dde1a316"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OpenDAO": {
     "name": "OpenDAO",
@@ -94769,7 +95138,10 @@
     "forked_data": [],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Opennity": {
     "name": "Opennity",
@@ -94805,7 +95177,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Opium": {
     "name": "Opium",
@@ -94824,7 +95199,10 @@
     "sawBirth": "20210128",
     "forked_data": [
       "https://etherscan.io/token/0x888888888889c00c67689029d7856aac1065ec11"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OptiToken": {
     "name": "OptiToken",
@@ -94871,7 +95249,10 @@
       "20210228",
       "20210302",
       "20210303"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Option Token": {
     "name": "Option Token",
@@ -94937,7 +95318,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x8DE955C3715f6Eb227f1A42E028Bc8f088C5569a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OptionRoom": {
     "name": "OptionRoom",
@@ -94952,7 +95336,10 @@
     "git": "https://github.com/OptionRoom",
     "forked_data": [
       "https://etherscan.io/token/0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Opus": {
     "name": "Opus",
@@ -94976,7 +95363,10 @@
       "20201207",
       "20201208",
       "20210202"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oracle System": {
     "name": "Oracle System",
@@ -94989,7 +95379,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x324af2d5353f2dd138e234b359d30d67c64b1b20"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oracle Top 5 Tokens Index": {
     "name": "Oracle Top 5 Tokens Index",
@@ -95007,7 +95400,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd6cb2adf47655b1babddc214d79257348cbc39a7",
       "https://ethplorer.io/address/0xd6cb2adf47655b1babddc214d79257348cbc39a7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "OracleChain": {
     "name": "OracleChain",
@@ -95023,7 +95419,10 @@
     ],
     "forked_data": [
       "https://eosflare.io/account/octtothemoon"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oracolxor": {
     "name": "Oracolxor",
@@ -95062,7 +95461,10 @@
       "20210308",
       "20210309",
       "20210317"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oraichain Token": {
     "name": "Oraichain Token",
@@ -95077,7 +95479,10 @@
       "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
       "https://ethplorer.io/address/0x4c11249814f11b9346808179cf06e71ac328c1b5"
     ],
-    "git": "https://github.com/oraichain"
+    "git": "https://github.com/oraichain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orbicular": {
     "name": "Orbicular",
@@ -95164,7 +95569,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Orbit Chain": {
     "name": "Orbit Chain",
@@ -95178,7 +95586,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x662b67d00a13faf93254714dd601f5ed49ef2f51",
       "https://ethplorer.io/address/0x662b67d00a13faf93254714dd601f5ed49ef2f51"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orbitcoin": {
     "name": "Orbitcoin",
@@ -95227,7 +95638,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/ghostlander/Orbitcoin"
+    "git": "https://github.com/ghostlander/Orbitcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orbs": {
     "name": "Orbs",
@@ -95243,7 +95657,10 @@
       "https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
       "https://etherscan.io/address/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa"
     ],
-    "git": "https://github.com/orbs-network/"
+    "git": "https://github.com/orbs-network/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orchid": {
     "name": "Orchid",
@@ -95258,7 +95675,10 @@
       "https://etherscan.io/token/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
       "https://ethplorer.io/address/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb"
     ],
-    "git": "https://github.com/OrchidTechnologies/orchid"
+    "git": "https://github.com/OrchidTechnologies/orchid",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Order of the Black Rose": {
     "name": "Order of the Black Rose",
@@ -95274,7 +95694,10 @@
       "https://etherscan.io/token/0x595643d83b35df38e29058976c04000acfa31570",
       "https://bscscan.com/token/0xe49ed1b44117bb7379c1506cf5815ae33089e1a7"
     ],
-    "git": "https://github.com/nftobr"
+    "git": "https://github.com/nftobr",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Orient": {
     "name": "Orient",
@@ -95343,7 +95766,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc0A25a24CcE412E2Fb407c08E3785437FEE9Ad1d",
       "https://ethplorer.io/address/0xc0a25a24cce412e2fb407c08e3785437fee9ad1d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orient Walt": {
     "name": "Orient Walt",
@@ -95352,7 +95778,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Origin Dollar": {
     "name": "Origin Dollar",
@@ -95387,7 +95816,10 @@
       "20201218",
       "20210106",
       "20210112"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Origin Protocol": {
     "name": "Origin Protocol",
@@ -95405,7 +95837,10 @@
       "https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
       "https://ethplorer.io/address/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
     ],
-    "git": "https://github.com/originprotocol"
+    "git": "https://github.com/originprotocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Origin Sport": {
     "name": "Origin Sport",
@@ -95419,7 +95854,10 @@
       "https://etherscan.io/token/0xeb9a4b185816c354db92db09cc3b50be60b901b6",
       "https://ethplorer.io/address/0xeb9a4b185816c354db92db09cc3b50be60b901b6"
     ],
-    "git": "https://github.com/OriginSport"
+    "git": "https://github.com/OriginSport",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "OriginTrail": {
     "name": "OriginTrail",
@@ -95437,7 +95875,10 @@
       "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
       "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
     ],
-    "git": "https://github.com/origintrail"
+    "git": "https://github.com/origintrail",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Originate Coin": {
     "name": "Originate Coin",
@@ -95534,7 +95975,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Origo": {
     "name": "Origo",
@@ -95552,7 +95996,10 @@
       "https://etherscan.io/token/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
       "https://ethplorer.io/address/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e"
     ],
-    "git": "https://github.com/origolab/origo"
+    "git": "https://github.com/origolab/origo",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Orion Protocol": {
     "name": "Orion Protocol",
@@ -95567,7 +96014,10 @@
       "https://etherscan.io/token/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
       "https://ethplorer.io/address/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
     ],
-    "git": "https://github.com/orionprotocol"
+    "git": "https://github.com/orionprotocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ormeus Cash": {
     "name": "Ormeus Cash",
@@ -95581,7 +96031,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd6bd97a26232ba02172ff86b055d5d7be789335b",
       "https://ethplorer.io/address/0xd6bd97a26232ba02172ff86b055d5d7be789335b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ormeus Coin": {
     "name": "Ormeus Coin",
@@ -95597,7 +96050,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc96df921009b790dffca412375251ed1a2b75c60",
       "https://ethplorer.io/address/0xc96df921009b790dffca412375251ed1a2b75c60"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ormeus Ecosystem": {
     "name": "Ormeus Ecosystem",
@@ -95613,7 +96069,10 @@
     "forked_data": [
       "https://explorer.binance.org/asset/ECO-083",
       "https://etherscan.io/token/0x191557728e4d8caa4ac94f86af842148c0fa8f7e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Our Pay": {
     "name": "Our Pay",
@@ -95627,7 +96086,10 @@
     "sawBirth": "20210219",
     "forked_data": [
       "https://etherscan.io/token/0xdff3d69a00759449f091561a0af99a218982bd7f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ouroboros": {
     "name": "Ouroboros",
@@ -95636,7 +96098,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oxbull.tech": {
     "name": "Oxbull.tech",
@@ -95650,7 +96115,10 @@
     "git": "https://github.com/OxBull/oxbull.tech",
     "forked_data": [
       "https://bscscan.com/address/0x3fd5b5746315e3f8d43a46b09c826a001ebb977d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Oxen": {
     "name": "Oxen",
@@ -95667,7 +96135,10 @@
       "NoLicenceFile"
     ],
     "sawBirth": "20210115",
-    "git": "https://github.com/loki-project"
+    "git": "https://github.com/loki-project",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Oxygen": {
     "name": "Oxygen",
@@ -95684,7 +96155,10 @@
     "forked_data": [
       "https://explorer.solana.com/address/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
       "https://etherscan.io/token/0x965697b4ef02f0de01384d0d4f9f782b1670c163"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "P2P": {
     "name": "P2P",
@@ -95698,7 +96172,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf",
       "https://ethplorer.io/address/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "P2P Global Network": {
     "name": "P2P Global Network",
@@ -95735,7 +96212,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PAC Global": {
     "name": "PAC Global",
@@ -95751,7 +96231,10 @@
       "IPFS",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/PACGlobalOfficial"
+    "git": "https://github.com/PACGlobalOfficial",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PAID Network": {
     "name": "PAID Network",
@@ -95766,7 +96249,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
       "https://ethplorer.io/address/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PAL Network": {
     "name": "PAL Network",
@@ -95793,7 +96279,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/policypalnet"
+    "git": "https://github.com/policypalnet",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PANTHEON X": {
     "name": "PANTHEON X",
@@ -95807,7 +96296,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3b9e094d56103611f0acefdab43182347ba60df4",
       "https://etherscan.io/address/0x3b9e094d56103611f0acefdab43182347ba60df4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PARSIQ": {
     "name": "PARSIQ",
@@ -95822,7 +96314,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2#balances",
       "https://ethplorer.io/address/0x362bc847A3a9637d3af6624EeC853618a43ed7D2"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PAX Gold": {
     "name": "PAX Gold",
@@ -95836,7 +96331,10 @@
       "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
       "https://ethplorer.io/address/0x45804880de22913dafe09f4980848ece6ecbaf78"
     ],
-    "git": "https://github.com/paxosglobal/paxos-gold-contract"
+    "git": "https://github.com/paxosglobal/paxos-gold-contract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PAXEX": {
     "name": "PAXEX",
@@ -95890,7 +96388,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/paxex/Paxex"
+    "git": "https://github.com/paxex/Paxex",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PAYCENT": {
     "name": "PAYCENT",
@@ -95899,22 +96400,21 @@
     "tags": [
       "Token",
       "Binance Contract",
-      "Dead"
+      "Dead",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "PYN-C37"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0x0142c3b2fc51819b5af5dfc4aa52df9722790851"
+    ],
     "deaths": [
       "20201211",
       "20201214",
       "20210115",
       "20210129"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PBS Chain": {
     "name": "PBS Chain",
@@ -96009,6 +96509,9 @@
       "forked_from": [
         "Binance"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "PCHAIN": {
@@ -96022,7 +96525,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/pchain-org"
+    "git": "https://github.com/pchain-org",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PDATA": {
     "name": "PDATA",
@@ -96121,7 +96627,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PEAKDEFI": {
     "name": "PEAKDEFI",
@@ -96136,7 +96645,10 @@
       "https://etherscan.io/token/0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
       "https://ethplorer.io/address/0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
     ],
-    "git": "https://github.com/peakdefi"
+    "git": "https://github.com/peakdefi",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PENG": {
     "name": "PENG",
@@ -96196,7 +96708,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/coinpeng/pengcore/releases/latest"
+    "git": "https://github.com/coinpeng/pengcore/releases/latest",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PEPS Coin": {
     "name": "PEPS Coin",
@@ -96209,7 +96724,10 @@
       "PIVXL",
       "PepsL"
     ],
-    "git": "https://github.com/PEPS-Project/peps"
+    "git": "https://github.com/PEPS-Project/peps",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PHI Token": {
     "name": "PHI Token",
@@ -96231,7 +96749,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PHILLIPS PAY COIN": {
     "name": "PHILLIPS PAY COIN",
@@ -96245,7 +96766,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26",
       "https://ethplorer.io/address/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PIBBLE": {
     "name": "PIBBLE",
@@ -96259,7 +96783,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x1864ce27e9f7517047933caae530674e8c70b8a7",
       "https://ethplorer.io/address/0x1864ce27e9f7517047933caae530674e8c70b8a7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PIGX": {
     "name": "PIGX",
@@ -96275,7 +96802,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
       "https://ethplorer.io/address/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PIRANHAS": {
     "name": "PIRANHAS",
@@ -96338,7 +96868,10 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PIVX": {
     "name": "PIVX",
@@ -96364,7 +96897,10 @@
       "BlackCoinL",
       "PIVXL"
     ],
-    "git": "https://github.com/PIVX-Project/PIVX/"
+    "git": "https://github.com/PIVX-Project/PIVX/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PIXEL": {
     "name": "PIXEL",
@@ -96378,7 +96914,10 @@
       "https://etherscan.io/token/0xf88951d7b676798705fd3a362ba5b1dbca2b233b",
       "https://ethplorer.io/address/0xf88951d7b676798705fd3a362ba5b1dbca2b233b"
     ],
-    "git": "https://github.com/piction-protocol"
+    "git": "https://github.com/piction-protocol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PLAAS FARMERS TOKEN": {
     "name": "PLAAS FARMERS TOKEN",
@@ -96408,7 +96947,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PLANET": {
     "name": "PLANET",
@@ -96422,7 +96964,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
       "https://ethplorer.io/address/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PLATINCOIN": {
     "name": "PLATINCOIN",
@@ -96434,7 +96979,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/platincoin-project"
+    "git": "https://github.com/platincoin-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PLNcoin": {
     "name": "PLNcoin",
@@ -96511,7 +97059,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/plncoin/PLNcoin_Core"
+    "git": "https://github.com/plncoin/PLNcoin_Core",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "POA": {
     "name": "POA",
@@ -96522,7 +97073,10 @@
       "Platform",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/poanetwork"
+    "git": "https://github.com/poanetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "POC Blockchain": {
     "name": "POC Blockchain",
@@ -96532,7 +97086,10 @@
       "NoGitHub",
       "Coin"
     ],
-    "sawBirth": "20210126"
+    "sawBirth": "20210126",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "POP Network Token": {
     "name": "POP Network Token",
@@ -96552,7 +97109,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5d858bcd53e085920620549214a8b27ce2f04670",
       "https://ethplorer.io/address/0x5d858bcd53e085920620549214a8b27ce2f04670"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "POPCHAIN": {
     "name": "POPCHAIN",
@@ -96592,7 +97152,10 @@
       "20210202",
       "20210209",
       "20210215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PRASM": {
     "name": "PRASM",
@@ -96625,7 +97188,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PRCY Coin": {
     "name": "PRCY Coin",
@@ -96640,7 +97206,10 @@
       "PRCYcoinL"
     ],
     "sawBirth": "20210305",
-    "git": "https://github.com/PRCYCoin/PRCYCoin"
+    "git": "https://github.com/PRCYCoin/PRCYCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PREDIQT": {
     "name": "PREDIQT",
@@ -96648,10 +97217,16 @@
     "url": "/currencies/prediqt",
     "tags": [
       "NoGitHub",
-      "Token"
+      "Token",
+      "Ethereum Contract"
     ],
     "sawBirth": "20210317",
-    "forked_data": []
+    "forked_data": [
+      "https://etherscan.io/token/0xf8c17c840549974ec17c6573b3963f1e3046c0eb"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PRIA": {
     "name": "PRIA",
@@ -96664,7 +97239,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/address/0xb9871cb10738eada636432e86fc0cb920dc3de24"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PRIZM": {
     "name": "PRIZM",
@@ -96676,7 +97254,10 @@
       "IoT",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/prizmspace/PrizmCore"
+    "git": "https://github.com/prizmspace/PrizmCore",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PROUD Money": {
     "name": "PROUD Money",
@@ -96719,7 +97300,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PROXI": {
     "name": "PROXI",
@@ -96733,7 +97317,10 @@
       "https://etherscan.io/token/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
       "https://ethplorer.io/address/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4"
     ],
-    "git": "https://github.com/ProxideFi"
+    "git": "https://github.com/ProxideFi",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PRiVCY": {
     "name": "PRiVCY",
@@ -96743,7 +97330,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/privcycoin/privcy"
+    "git": "https://github.com/privcycoin/privcy",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PTON": {
     "name": "PTON",
@@ -96757,7 +97347,10 @@
       "https://etherscan.io/token/0x4946583c5b86e01ccd30c71a05617d06e3e73060",
       "https://ethplorer.io/address/0x4946583c5b86e01ccd30c71a05617d06e3e73060"
     ],
-    "git": "https://github.com/forestingnetwork"
+    "git": "https://github.com/forestingnetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PUBLISH": {
     "name": "PUBLISH",
@@ -96801,7 +97394,10 @@
       "20210316",
       "20210317",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PUBLYTO Token": {
     "name": "PUBLYTO Token",
@@ -96896,15 +97492,25 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PUML Better Health": {
     "name": "PUML Better Health",
     "short": "PUML",
     "url": "/currencies/puml-better-health",
     "tags": [
-      "Token"
-    ]
+      "Token",
+      "EOS Contract"
+    ],
+    "forked_data": [
+      "https://bloks.io/tokens/PUML-eos-pumlhealthio"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PWAY": {
     "name": "PWAY",
@@ -96918,7 +97524,10 @@
     "sawBirth": "20210317",
     "forked_data": [
       "https://etherscan.io/token/0x5a14fe6923e767A8238f29d3E1FB1a913975F0d7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PWR Coin": {
     "name": "PWR Coin",
@@ -96969,7 +97578,10 @@
       "20210321",
       "20210325"
     ],
-    "git": "https://github.com/PWRcoin/PWRcoin"
+    "git": "https://github.com/PWRcoin/PWRcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PYRO Network": {
     "name": "PYRO Network",
@@ -97025,7 +97637,10 @@
       "20210311",
       "20210323",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paint": {
     "name": "Paint",
@@ -97045,7 +97660,10 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pajama.Finance": {
     "name": "Pajama.Finance",
@@ -97139,7 +97757,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pakcoin": {
     "name": "Pakcoin",
@@ -97161,7 +97782,10 @@
       "20201209",
       "20201218"
     ],
-    "git": "https://github.com/pakcoin-project/pakcoin/"
+    "git": "https://github.com/pakcoin-project/pakcoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PalletOne": {
     "name": "PalletOne",
@@ -97175,7 +97799,10 @@
       "https://etherscan.io/token/0xfe76be9cec465ed3219a9972c21655d57d21aec6",
       "https://ethplorer.io/address/0xfe76be9cec465ed3219a9972c21655d57d21aec6"
     ],
-    "git": "https://github.com/PalletOne"
+    "git": "https://github.com/PalletOne",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pamp Network": {
     "name": "Pamp Network",
@@ -97189,7 +97816,10 @@
       "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
       "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
     ],
-    "git": "https://github.com/Pamp-Network/"
+    "git": "https://github.com/Pamp-Network/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PancakeBunny": {
     "name": "PancakeBunny",
@@ -97223,7 +97853,10 @@
     "git": "https://github.com/PancakeBunny-finance/Bunny",
     "forked_data": [
       "https://bscscan.com/token/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PancakeSwap": {
     "name": "PancakeSwap",
@@ -97241,7 +97874,10 @@
     "forked_data": [
       "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
     ],
-    "git": "https://github.com/pancakeswap"
+    "git": "https://github.com/pancakeswap",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Panda Dao": {
     "name": "Panda Dao",
@@ -97255,7 +97891,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/token/0x1af3b59a839e97e944c65177ab3a024b499133f8"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Panda Yield": {
     "name": "Panda Yield",
@@ -97269,7 +97908,10 @@
     "sawBirth": "20210128",
     "forked_data": [
       "https://bscscan.com/token/0x2eb5eCC40E403B12ee4428D70fDDF34e2C2c27B0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pandacoin": {
     "name": "Pandacoin",
@@ -97289,7 +97931,10 @@
     "git": "https://github.com/DigitalPandacoin/pandacoin",
     "deaths": [
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pando": {
     "name": "Pando",
@@ -97303,7 +97948,10 @@
     "git": "https://github.com/Pando-Browser/pando-token",
     "forked_data": [
       "https://etherscan.io/address/0x7a3c45f34ea5df6fe5f6af710ec8a04d388a71d1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pantos": {
     "name": "Pantos",
@@ -97317,7 +97965,10 @@
       "https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
       "https://ethplorer.io/address/0x536381a8628dbcc8c70ac9a30a7258442eab4c92"
     ],
-    "git": "https://github.com/pantos-io"
+    "git": "https://github.com/pantos-io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paparazzi": {
     "name": "Paparazzi",
@@ -97331,7 +97982,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xbcd8756ea481608ea3dd5a555493305cf0a79640",
       "https://ethplorer.io/address/0xbcd8756ea481608ea3dd5a555493305cf0a79640"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Parachute": {
     "name": "Parachute",
@@ -97350,7 +98004,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
       "https://ethplorer.io/address/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ParallelCoin": {
     "name": "ParallelCoin",
@@ -97399,7 +98056,10 @@
       "20210218",
       "20210219",
       "20210220"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paris Saint-Germain Fan Token": {
     "name": "Paris Saint-Germain Fan Token",
@@ -97422,7 +98082,10 @@
       "20201211",
       "20201213",
       "20201214"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ParkByte": {
     "name": "ParkByte",
@@ -97505,7 +98168,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Parkgene": {
     "name": "Parkgene",
@@ -97547,7 +98213,10 @@
       "20210319",
       "20210322",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ParkinGo": {
     "name": "ParkinGo",
@@ -97561,7 +98230,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
       "https://ethplorer.io/address/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Parsiq Boost": {
     "name": "Parsiq Boost",
@@ -97595,7 +98267,10 @@
       "20210309",
       "20210316",
       "20210317"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Particl": {
     "name": "Particl",
@@ -97605,7 +98280,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/particl"
+    "git": "https://github.com/particl",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pascal": {
     "name": "Pascal",
@@ -97616,7 +98294,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/PascalCoin/PascalCoin"
+    "git": "https://github.com/PascalCoin/PascalCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Passive Income": {
     "name": "Passive Income",
@@ -97650,7 +98331,10 @@
       "20210308",
       "20210309",
       "20210316"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pasta Finance": {
     "name": "Pasta Finance",
@@ -97664,7 +98348,10 @@
     "git": "https://github.com/pastafinance/",
     "forked_data": [
       "https://bscscan.com/token/0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pastel": {
     "name": "Pastel",
@@ -97676,7 +98363,10 @@
       "BitcoinL"
     ],
     "sawBirth": "20210310",
-    "git": "https://github.com/PastelNetwork/Pastel"
+    "git": "https://github.com/PastelNetwork/Pastel",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Patientory": {
     "name": "Patientory",
@@ -97692,7 +98382,10 @@
       "https://etherscan.io/token/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
       "https://ethplorer.io/address/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06"
     ],
-    "git": "https://github.com/PTOYNetwork"
+    "git": "https://github.com/PTOYNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Patron": {
     "name": "Patron",
@@ -97710,7 +98403,10 @@
     ],
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pawtocol": {
     "name": "Pawtocol",
@@ -97724,7 +98420,10 @@
       "https://etherscan.io/token/0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
       "https://ethplorer.io/address/0x70d2b7c19352bb76e4409858ff5746e500f2b67c"
     ],
-    "git": "https://github.com/pawtocol/Token"
+    "git": "https://github.com/pawtocol/Token",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paxos Standard": {
     "name": "Paxos Standard",
@@ -97746,7 +98445,10 @@
       "https://eth.tokenview.com/en/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
       "https://bscscan.com/token/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094"
     ],
-    "git": "https://github.com/paxosglobal/pax-contracts"
+    "git": "https://github.com/paxosglobal/pax-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PayAccept": {
     "name": "PayAccept",
@@ -97759,7 +98461,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2"
     ],
-    "git": "https://github.com/payaccept"
+    "git": "https://github.com/payaccept",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PayCoin": {
     "name": "PayCoin",
@@ -97837,7 +98542,10 @@
       "20210322",
       "20210323",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PayFrequent USD": {
     "name": "PayFrequent USD",
@@ -97908,7 +98616,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PayPal tokenized stock FTX": {
     "name": "PayPal tokenized stock FTX",
@@ -97924,7 +98635,10 @@
     "deaths": [
       "20210321",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PayPie": {
     "name": "PayPie",
@@ -97977,7 +98691,10 @@
       "20210319",
       "20210322",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PayProtocol": {
     "name": "PayProtocol",
@@ -97987,7 +98704,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/payprotocol"
+    "git": "https://github.com/payprotocol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PayRue (Propel)": {
     "name": "PayRue (Propel)",
@@ -98002,7 +98722,10 @@
     "sawBirth": "20210306",
     "forked_data": [
       "https://bscscan.com/token/0x9b44df3318972be845d83f961735609137c4c23c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PayUSD": {
     "name": "PayUSD",
@@ -98087,7 +98810,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PayYoda": {
     "name": "PayYoda",
@@ -98121,7 +98847,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Payfair": {
     "name": "Payfair",
@@ -98184,7 +98913,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Payou Finance": {
     "name": "Payou Finance",
@@ -98278,7 +99010,10 @@
       "20210324",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paypex": {
     "name": "Paypex",
@@ -98338,7 +99073,10 @@
       "20210324",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paypolitan Token": {
     "name": "Paypolitan Token",
@@ -98352,7 +99090,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
       "https://ethplorer.io/address/0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Payship": {
     "name": "Payship",
@@ -98419,7 +99160,10 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Paytomat": {
     "name": "Paytomat",
@@ -98434,7 +99178,10 @@
       "https://bloks.io/account/ptitokenhome",
       "https://www.eosx.io/account/ptitokenhome?partner=coinmarketcap"
     ],
-    "git": "https://github.com/paytomat"
+    "git": "https://github.com/paytomat",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Peanut": {
     "name": "Peanut",
@@ -98449,7 +99196,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
       "https://ethplorer.io/address/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pearl": {
     "name": "Pearl",
@@ -98463,7 +99213,10 @@
     ],
     "forked_data": [
       "https://tronscan.io/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Peculium": {
     "name": "Peculium",
@@ -98492,7 +99245,10 @@
       "20210214",
       "20210215",
       "20210217"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PeepCoin": {
     "name": "PeepCoin",
@@ -98529,7 +99285,10 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/PXN-Foundation/Peepcoin/"
+    "git": "https://github.com/PXN-Foundation/Peepcoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PeerEx": {
     "name": "PeerEx",
@@ -98548,7 +99307,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3c6ff50c9ec362efa359317009428d52115fe643",
       "https://ethplorer.io/address/0x3c6ff50c9ec362efa359317009428d52115fe643"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Peercoin": {
     "name": "Peercoin",
@@ -98563,7 +99325,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/peercoin"
+    "git": "https://github.com/peercoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Peerplays": {
     "name": "Peerplays",
@@ -98581,7 +99346,10 @@
       "20210115",
       "20210118",
       "20210119"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Peet DeFi": {
     "name": "Peet DeFi",
@@ -98653,7 +99421,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PegNet": {
     "name": "PegNet",
@@ -98663,7 +99434,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/pegnet"
+    "git": "https://github.com/pegnet",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PegsShares": {
     "name": "PegsShares",
@@ -98723,7 +99497,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PegsUSD": {
     "name": "PegsUSD",
@@ -98797,7 +99574,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PengolinCoin": {
     "name": "PengolinCoin",
@@ -98811,7 +99591,10 @@
     "git": "https://github.com/pengolincoin",
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Penta": {
     "name": "Penta",
@@ -98825,7 +99608,10 @@
       "https://etherscan.io/token/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3",
       "https://ethplorer.io/address/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
     ],
-    "git": "https://github.com/pentaglobal"
+    "git": "https://github.com/pentaglobal",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Peony": {
     "name": "Peony",
@@ -98836,7 +99622,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/PeonyTeam/peony/releases"
+    "git": "https://github.com/PeonyTeam/peony/releases",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pepedex": {
     "name": "Pepedex",
@@ -98853,7 +99642,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
       "https://ethplorer.io/address/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pepemon Pepeballs": {
     "name": "Pepemon Pepeballs",
@@ -98870,7 +99662,10 @@
     "sawBirth": "20210215",
     "forked_data": [
       "https://etherscan.io/token/0x4d2ee5dae46c86da2ff521f7657dad98834f97b8"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Perlin": {
     "name": "Perlin",
@@ -98886,7 +99681,10 @@
       "https://etherscan.io/token/0xeca82185adce47f39c684352b0439f030f860318",
       "https://ethplorer.io/address/0xeca82185adce47f39c684352b0439f030f860318"
     ],
-    "git": "https://github.com/perlin-network"
+    "git": "https://github.com/perlin-network",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Permission Coin": {
     "name": "Permission Coin",
@@ -98895,7 +99693,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Perpetual Protocol": {
     "name": "Perpetual Protocol",
@@ -98911,7 +99712,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Perth Mint Gold Token": {
     "name": "Perth Mint Gold Token",
@@ -98925,7 +99729,10 @@
       "https://etherscan.io/token/0xaffcdd96531bcd66faed95fc61e443d08f79efef",
       "https://ethplorer.io/address/0xaffcdd96531bcd66faed95fc61e443d08f79efef"
     ],
-    "git": "https://github.com/infinigold-pty-ltd/pmgt-contracts"
+    "git": "https://github.com/infinigold-pty-ltd/pmgt-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pesetacoin": {
     "name": "Pesetacoin",
@@ -98960,7 +99767,10 @@
       "20210309",
       "20210326"
     ],
-    "git": "https://github.com/FundacionPesetacoin/PesetacoinCore"
+    "git": "https://github.com/FundacionPesetacoin/PesetacoinCore",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Petrachor": {
     "name": "Petrachor",
@@ -98976,7 +99786,10 @@
     "deaths": [
       "20210310",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PetroDollar": {
     "name": "PetroDollar",
@@ -99038,7 +99851,10 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pfizer tokenized stock Bittrex": {
     "name": "Pfizer tokenized stock Bittrex",
@@ -99070,7 +99886,10 @@
       "20210309",
       "20210316",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pfizer tokenized stock FTX": {
     "name": "Pfizer tokenized stock FTX",
@@ -99085,7 +99904,10 @@
     "sawBirth": "20201208",
     "deaths": [
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Phala Network": {
     "name": "Phala Network",
@@ -99098,7 +99920,10 @@
       "Substrate",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Phala-Network"
+    "git": "https://github.com/Phala-Network",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Phantasma": {
     "name": "Phantasma",
@@ -99125,12 +99950,16 @@
       "E-commerce",
       "DeFi",
       "Cosmos Ecosystem",
-      "Marketplace"
+      "Marketplace",
+      "Ethereum Contract"
     ],
     "forked_data": [
-      "https://neotracker.io/asset/ed07cffad18f1308db51920d99a2af60ac66a7b3"
+      "https://explorer.phantasma.io/"
     ],
-    "git": "https://github.com/phantasma-io"
+    "git": "https://github.com/phantasma-io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phantasma Energy": {
     "name": "Phantasma Energy",
@@ -99152,7 +99981,10 @@
       "https://etherscan.io/token/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
       "https://ethplorer.io/address/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d"
     ],
-    "git": "https://github.com/Phantasma-io"
+    "git": "https://github.com/Phantasma-io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phantomx": {
     "name": "Phantomx",
@@ -99221,7 +100053,10 @@
       "20210310",
       "20210311"
     ],
-    "git": "https://github.com/phantomxdev/phantomx"
+    "git": "https://github.com/phantomxdev/phantomx",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phoenix Global": {
     "name": "Phoenix Global",
@@ -99242,7 +100077,10 @@
       "https://neotracker.io/asset/1578103c13e39df15d0d29826d957e85d770d8c9",
       "https://explorer.binance.org/asset/PHB-2DF"
     ],
-    "git": "https://github.com/phoenixglobal"
+    "git": "https://github.com/phoenixglobal",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PhoenixDAO": {
     "name": "PhoenixDAO",
@@ -99259,7 +100097,10 @@
       "https://etherscan.io/token/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
       "https://ethplorer.io/address/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7"
     ],
-    "git": "https://github.com/PhoenixDAO"
+    "git": "https://github.com/PhoenixDAO",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phoenixcoin": {
     "name": "Phoenixcoin",
@@ -99283,7 +100124,10 @@
       "20210306",
       "20210307",
       "20210308"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phoneum": {
     "name": "Phoneum",
@@ -99298,7 +100142,10 @@
     "forked_data": [
       "https://tronscan.org/#/token/1003095/holders",
       "https://tronscan.org/#/token/1003095"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phore": {
     "name": "Phore",
@@ -99311,7 +100158,10 @@
       "PIVXL",
       "PhoreL"
     ],
-    "git": "https://github.com/phoreproject/Phore"
+    "git": "https://github.com/phoreproject/Phore",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Phoswap": {
     "name": "Phoswap",
@@ -99326,7 +100176,10 @@
     "sawBirth": "20210202",
     "forked_data": [
       "https://bscscan.com/token/0xb9784c1633ef3b839563b988c323798634714368"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Photon": {
     "name": "Photon",
@@ -99389,7 +100242,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/photonproject/photon"
+    "git": "https://github.com/photonproject/photon",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PiSwap Token": {
     "name": "PiSwap Token",
@@ -99451,7 +100307,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PicaArtMoney": {
     "name": "PicaArtMoney",
@@ -99464,7 +100323,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xA7E0719a65128b2f6cDbc86096753Ff7d5962106"
     ],
-    "git": "https://github.com/picaproject/Solcode/blob/main/pica.sol"
+    "git": "https://github.com/picaproject/Solcode/blob/main/pica.sol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pickle Finance": {
     "name": "Pickle Finance",
@@ -99483,7 +100345,10 @@
       "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
       "https://ethplorer.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
     ],
-    "git": "https://github.com/pickle-finance/contracts"
+    "git": "https://github.com/pickle-finance/contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO BTC++": {
     "name": "PieDAO BTC++",
@@ -99562,7 +100427,10 @@
       "20210324",
       "20210325",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO Balanced Crypto Pie": {
     "name": "PieDAO Balanced Crypto Pie",
@@ -99577,7 +100445,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe4f726adc8e89c6a6017f01eada77865db22da14",
       "https://ethplorer.io/address/0xe4f726adc8e89c6a6017f01eada77865db22da14"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO DEFI Large Cap": {
     "name": "PieDAO DEFI Large Cap",
@@ -99612,7 +100483,10 @@
       "20210310",
       "20210322",
       "20210323"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO DEFI Small Cap": {
     "name": "PieDAO DEFI Small Cap",
@@ -99644,7 +100518,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO DEFI++": {
     "name": "PieDAO DEFI++",
@@ -99674,7 +100551,10 @@
       "20210324",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO DOUGH v2": {
     "name": "PieDAO DOUGH v2",
@@ -99691,7 +100571,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xad32A8e6220741182940c5aBF610bDE99E737b2D",
       "https://ethplorer.io/address/0xad32A8e6220741182940c5aBF610bDE99E737b2D"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PieDAO Yearn Ecosystem Pie": {
     "name": "PieDAO Yearn Ecosystem Pie",
@@ -99730,7 +100613,10 @@
       "20210309",
       "20210323",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pig Finance": {
     "name": "Pig Finance",
@@ -99744,7 +100630,10 @@
     "git": "https://github.com/pigtokenfinance",
     "forked_data": [
       "https://bscscan.com/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pigeoncoin": {
     "name": "Pigeoncoin",
@@ -99756,7 +100645,10 @@
       "BitcoinL",
       "PigeonL"
     ],
-    "git": "https://github.com/Pigeoncoin/pigeoncoin"
+    "git": "https://github.com/Pigeoncoin/pigeoncoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pika": {
     "name": "Pika",
@@ -99770,7 +100662,10 @@
     "sawBirth": "20210319",
     "forked_data": [
       "https://etherscan.io/token/0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pillar": {
     "name": "Pillar",
@@ -99788,7 +100683,10 @@
       "https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
       "https://ethplorer.io/address/0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
     ],
-    "git": "https://github.com/pillarwallet"
+    "git": "https://github.com/pillarwallet",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pilnette": {
     "name": "Pilnette",
@@ -99809,7 +100707,10 @@
     },
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pinkcoin": {
     "name": "Pinkcoin",
@@ -99822,7 +100723,10 @@
       "X11",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Pink2Dev"
+    "git": "https://github.com/Pink2Dev",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PiplCoin": {
     "name": "PiplCoin",
@@ -99860,7 +100764,10 @@
       "20210224",
       "20210227",
       "20210228"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pirate Chain": {
     "name": "Pirate Chain",
@@ -99871,7 +100778,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/PirateNetwork"
+    "git": "https://github.com/PirateNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PirateCash": {
     "name": "PirateCash",
@@ -99885,7 +100795,10 @@
       "Transport",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/piratecash"
+    "git": "https://github.com/piratecash",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pirl": {
     "name": "Pirl",
@@ -99895,7 +100808,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pivot Token": {
     "name": "Pivot Token",
@@ -99912,7 +100828,10 @@
       "https://explorer.binance.org/asset/PVT-554",
       "https://explorer.binance.org/asset/PVT-554",
       "https://etherscan.io/token/0x7869c4a1a3f6f8684fbcc422a21ad7abe3167834"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pixie Coin": {
     "name": "Pixie Coin",
@@ -99954,7 +100873,10 @@
       "20210319",
       "20210325",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pizza": {
     "name": "Pizza",
@@ -99967,7 +100889,10 @@
     "forked_data": [
       "https://eospark.com/account/pizzatotoken"
     ],
-    "git": "https://github.com/PIZZAUSDE"
+    "git": "https://github.com/PIZZAUSDE",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PizzaSwap": {
     "name": "PizzaSwap",
@@ -99982,7 +100907,10 @@
     "git": "https://github.com/pizzafinancebsc",
     "forked_data": [
       "https://bscscan.com/token/0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Plair": {
     "name": "Plair",
@@ -99995,7 +100923,10 @@
     ],
     "forked_data": [
       "https://vechainstats.com/account/0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f/"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Plasma Finance": {
     "name": "Plasma Finance",
@@ -100018,7 +100949,10 @@
       "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
       "https://ethplorer.io/address/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
     ],
-    "git": "https://github.com/plasmadlt/PPAY-Governance"
+    "git": "https://github.com/plasmadlt/PPAY-Governance",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlatinumBAR": {
     "name": "PlatinumBAR",
@@ -100102,7 +101036,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/xptx/PlatinumBar"
+    "git": "https://github.com/xptx/PlatinumBar",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PlatonCoin": {
     "name": "PlatonCoin",
@@ -100127,7 +101064,10 @@
       "20201211",
       "20201213",
       "20201214"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Play Royal": {
     "name": "Play Royal",
@@ -100227,7 +101167,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PlayAndLike": {
     "name": "PlayAndLike",
@@ -100262,7 +101205,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlayChip": {
     "name": "PlayChip",
@@ -100301,7 +101247,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlayDapp": {
     "name": "PlayDapp",
@@ -100314,7 +101263,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430"
     ],
-    "git": "https://github.com/playdapp"
+    "git": "https://github.com/playdapp",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlayFuel": {
     "name": "PlayFuel",
@@ -100328,7 +101280,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
       "https://ethplorer.io/address/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlayGame": {
     "name": "PlayGame",
@@ -100342,7 +101297,10 @@
       "https://etherscan.io/token/0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
       "https://ethplorer.io/address/0x47e67ba66b0699500f18a53f94e2b9db3d47437e"
     ],
-    "git": "https://github.com/playgame-global"
+    "git": "https://github.com/playgame-global",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Playcent": {
     "name": "Playcent",
@@ -100359,7 +101317,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
       "https://ethplorer.io/address/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Playgroundz": {
     "name": "Playgroundz",
@@ -100379,7 +101340,10 @@
       "20210307",
       "20210308",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Playkey": {
     "name": "Playkey",
@@ -100396,7 +101360,10 @@
       "https://etherscan.io/token/0x2604fa406be957e542beb89e6754fcde6815e83f",
       "https://ethplorer.io/address/0x2604fa406be957e542beb89e6754fcde6815e83f"
     ],
-    "git": "https://github.com/Playkey/ico-contracts"
+    "git": "https://github.com/Playkey/ico-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pledge Coin": {
     "name": "Pledge Coin",
@@ -100412,7 +101379,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x85ca6710D0F1D511d130f6935eDDA88ACBD921bD",
       "https://explorer.binance.org/asset/PLG-D8D"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PlotX": {
     "name": "PlotX",
@@ -100426,7 +101396,10 @@
       "https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
       "https://ethplorer.io/address/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb"
     ],
-    "git": "https://github.com/plotx/smart-contracts"
+    "git": "https://github.com/plotx/smart-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PluraCoin": {
     "name": "PluraCoin",
@@ -100482,7 +101455,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/pluracoin/PluraCoin"
+    "git": "https://github.com/pluracoin/PluraCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Plus-Coin": {
     "name": "Plus-Coin",
@@ -100505,7 +101481,10 @@
       "20201203",
       "20201216",
       "20210122"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PlusOneCoin": {
     "name": "PlusOneCoin",
@@ -100516,7 +101495,10 @@
       "Mineable",
       "BitcoinL"
     ],
-    "git": "https://github.com/plusonecoin/plusonecoin"
+    "git": "https://github.com/plusonecoin/plusonecoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pluto": {
     "name": "Pluto",
@@ -100553,7 +101535,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pluton": {
     "name": "Pluton",
@@ -100571,7 +101556,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
       "https://ethplorer.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Po.et": {
     "name": "Po.et",
@@ -100586,7 +101574,10 @@
       "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
       "https://ethplorer.io/address/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
     ],
-    "git": "https://github.com/poetapp"
+    "git": "https://github.com/poetapp",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PoSW Coin": {
     "name": "PoSW Coin",
@@ -100667,7 +101658,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pocket Bomb": {
     "name": "Pocket Bomb",
@@ -100682,7 +101676,10 @@
     "sawBirth": "20210324",
     "forked_data": [
       "https://bscscan.com/token/0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PocketNode": {
     "name": "PocketNode",
@@ -100696,7 +101693,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x435d664F72D6F194ef67d63B5f3936650187b131",
       "https://ethplorer.io/address/0x435d664F72D6F194ef67d63B5f3936650187b131"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pofid Dao": {
     "name": "Pofid Dao",
@@ -100710,7 +101710,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
       "https://ethplorer.io/address/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PointPay": {
     "name": "PointPay",
@@ -100739,7 +101742,10 @@
       "20210119",
       "20210120",
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Pokeball": {
     "name": "Pokeball",
@@ -100753,7 +101759,10 @@
     "sawBirth": "20210122",
     "forked_data": [
       "https://bscscan.com/token/0xcdad3683335a4a96d2c437dd4513b061e4aec4ff"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polaris Share": {
     "name": "Polaris Share",
@@ -100767,7 +101776,10 @@
     "sawBirth": "20210129",
     "forked_data": [
       "https://etherscan.io/token/0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polis": {
     "name": "Polis",
@@ -100779,7 +101791,10 @@
       "BitcoinL",
       "Polis CoreL"
     ],
-    "git": "https://github.com/polispay/polis"
+    "git": "https://github.com/polispay/polis",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polka City": {
     "name": "Polka City",
@@ -100797,7 +101812,10 @@
     ],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PolkaBridge": {
     "name": "PolkaBridge",
@@ -100812,7 +101830,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
       "https://ethplorer.io/address/0x0d6ae2a429df13e44a07cd2969e085e4833f64a0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PolkaFoundry": {
     "name": "PolkaFoundry",
@@ -100828,7 +101849,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8b39b70e39aa811b69365398e0aace9bee238aeb",
       "https://ethplorer.io/address/0x8b39b70e39aa811b69365398e0aace9bee238aeb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polkacity": {
     "name": "Polkacity",
@@ -100847,7 +101871,10 @@
     "git": "https://github.com/POLKACITY/",
     "forked_data": [
       "https://etherscan.io/address/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Polkacover": {
     "name": "Polkacover",
@@ -100862,7 +101889,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
       "https://ethplorer.io/address/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polkadot": {
     "name": "Polkadot",
@@ -100875,7 +101905,10 @@
       "Binance Chain",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/w3f"
+    "git": "https://github.com/w3f",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Polkainsure Finance": {
     "name": "Polkainsure Finance",
@@ -100891,7 +101924,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c",
       "https://ethplorer.io/address/0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polkamarkets": {
     "name": "Polkamarkets",
@@ -100910,7 +101946,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd478161c952357f05f0292b56012cd8457f1cfbf",
       "https://ethplorer.io/address/0xd478161c952357f05f0292b56012cd8457f1cfbf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polkastarter": {
     "name": "Polkastarter",
@@ -100926,7 +101965,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polkazeck": {
     "name": "Polkazeck",
@@ -100941,7 +101983,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
       "https://ethplorer.io/address/0xedb7b7842f7986a7f211d791e8f306c4ce82ba32"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pollux Coin": {
     "name": "Pollux Coin",
@@ -100959,7 +102004,10 @@
     "git": "https://github.com/polluxcoin2020/pox",
     "deaths": [
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PolySwarm": {
     "name": "PolySwarm",
@@ -100975,7 +102023,10 @@
       "https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1",
       "https://ethplorer.io/address/0x9e46a38f5daabe8683e10793b06749eef7d733d1"
     ],
-    "git": "https://github.com/polyswarm"
+    "git": "https://github.com/polyswarm",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polybius": {
     "name": "Polybius",
@@ -100989,7 +102040,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polygon": {
     "name": "Polygon",
@@ -101008,7 +102062,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
       "https://ethplorer.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Polyient Games Governance Token": {
     "name": "Polyient Games Governance Token",
@@ -101024,7 +102081,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
       "https://ethplorer.io/address/0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Polymath": {
     "name": "Polymath",
@@ -101040,7 +102100,10 @@
       "https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
       "https://ethplorer.io/address/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
     ],
-    "git": "https://github.com/PolymathNetwork"
+    "git": "https://github.com/PolymathNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PolypuX": {
     "name": "PolypuX",
@@ -101054,7 +102117,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe277ac35f9d327a670c1a3f3eec80a83022431e4",
       "https://ethplorer.io/address/0xe277ac35f9d327a670c1a3f3eec80a83022431e4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PonziCoin": {
     "name": "PonziCoin",
@@ -101132,7 +102198,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Poodl Token": {
     "name": "Poodl Token",
@@ -101147,7 +102216,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x56a980328aee33aabb540a02e002c8323326bf36",
       "https://ethplorer.io/address/0x56a980328aee33aabb540a02e002c8323326bf36"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pool of Stake": {
     "name": "Pool of Stake",
@@ -101177,7 +102249,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PoolStake": {
     "name": "PoolStake",
@@ -101263,7 +102338,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PoolTogether": {
     "name": "PoolTogether",
@@ -101278,7 +102356,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
       "https://ethplorer.io/address/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Poolz Finance": {
     "name": "Poolz Finance",
@@ -101293,7 +102374,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
       "https://ethplorer.io/address/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Popcorn": {
     "name": "Popcorn",
@@ -101387,7 +102471,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PopularCoin": {
     "name": "PopularCoin",
@@ -101404,7 +102491,10 @@
       "NovacoinL",
       "PopularCoinL"
     ],
-    "git": "https://github.com/Pop-Currency-Foundation/PopularCoin"
+    "git": "https://github.com/Pop-Currency-Foundation/PopularCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Populous": {
     "name": "Populous",
@@ -101419,7 +102509,10 @@
       "https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
       "https://ethplorer.io/address/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
     ],
-    "git": "https://github.com/bitpopulous"
+    "git": "https://github.com/bitpopulous",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Porkchop": {
     "name": "Porkchop",
@@ -101504,7 +102597,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Port of DeFi Network": {
     "name": "Port of DeFi Network",
@@ -101552,7 +102648,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Portal": {
     "name": "Portal",
@@ -101566,7 +102665,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8DB90E3e7D04C875a51997092f9178FCac9DefdB",
       "https://ethplorer.io/address/0x8db90e3e7d04c875a51997092f9178fcac9defdb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Portion": {
     "name": "Portion",
@@ -101580,7 +102682,10 @@
     "git": "https://github.com/jasonrosenstein/Portion/blob/master/PortionToken.sol",
     "forked_data": [
       "https://etherscan.io/token/0x6D0F5149c502faf215C89ab306ec3E50b15e2892"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PosEx": {
     "name": "PosEx",
@@ -101649,7 +102754,10 @@
       "20210324",
       "20210328"
     ],
-    "git": "https://github.com/PosEx/Posex"
+    "git": "https://github.com/PosEx/Posex",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Poseidon Network": {
     "name": "Poseidon Network",
@@ -101663,7 +102771,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
       "https://ethplorer.io/address/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Posscoin": {
     "name": "Posscoin",
@@ -101762,7 +102873,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PostCoin": {
     "name": "PostCoin",
@@ -101837,7 +102951,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/PostCoinDevelopers/PostCoin/"
+    "git": "https://github.com/PostCoinDevelopers/PostCoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PotCoin": {
     "name": "PotCoin",
@@ -101850,7 +102967,10 @@
       "Scrypt",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/potcoin"
+    "git": "https://github.com/potcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Potentiam": {
     "name": "Potentiam",
@@ -101865,7 +102985,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7c32DB0645A259FaE61353c1f891151A2e7f8c1e",
       "https://ethplorer.io/address/0x7c32db0645a259fae61353c1f891151a2e7f8c1e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Power Index Pool Token": {
     "name": "Power Index Pool Token",
@@ -101904,7 +103027,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Power Ledger": {
     "name": "Power Ledger",
@@ -101920,7 +103046,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
       "https://ethplorer.io/address/0x595832f8fc6bf59c85c527fec3740a1b7a361269"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PowerBalt": {
     "name": "PowerBalt",
@@ -101972,7 +103101,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/PWRB-Project"
+    "git": "https://github.com/PWRB-Project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PowerPool": {
     "name": "PowerPool",
@@ -101989,7 +103121,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1",
       "https://ethplorer.io/address/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "PowerTrade Fuel": {
     "name": "PowerTrade Fuel",
@@ -102004,7 +103139,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xC57d533c50bC22247d49a368880fb49a1caA39F7",
       "https://ethplorer.io/address/0xC57d533c50bC22247d49a368880fb49a1caA39F7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Precium": {
     "name": "Precium",
@@ -102018,7 +103156,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6096d2460cf5177e40b515223428dc005ad35123",
       "https://ethplorer.io/address/0x6096d2460cf5177e40b515223428dc005ad35123"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Predictz": {
     "name": "Predictz",
@@ -102051,7 +103192,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Predix Network": {
     "name": "Predix Network",
@@ -102108,7 +103252,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Premia": {
     "name": "Premia",
@@ -102125,7 +103272,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
       "https://ethplorer.io/address/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Presearch": {
     "name": "Presearch",
@@ -102142,7 +103292,10 @@
       "https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
       "https://ethplorer.io/address/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa"
     ],
-    "git": "https://github.com/presearchofficial"
+    "git": "https://github.com/presearchofficial",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PressOne": {
     "name": "PressOne",
@@ -102158,7 +103311,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe0d95530820aafc51b1d98023aa1ff000b78d8b2",
       "https://ethplorer.io/address/0xe0d95530820aafc51b1d98023aa1ff000b78d8b2"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Previse": {
     "name": "Previse",
@@ -102172,7 +103328,10 @@
     "sawBirth": "20210218",
     "forked_data": [
       "https://etherscan.io/token/0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Primalbase Token": {
     "name": "Primalbase Token",
@@ -102182,7 +103341,10 @@
       "Token",
       "Real Estate",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Primas": {
     "name": "Primas",
@@ -102198,7 +103360,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec",
       "https://ethplorer.io/address/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prime Whiterock Company": {
     "name": "Prime Whiterock Company",
@@ -102212,7 +103377,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://etherscan.io/token/0xa3d93c0616dbc31fef1e112c7665a4ba4ddbf0be"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prime-XI": {
     "name": "Prime-XI",
@@ -102298,7 +103466,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PrimeFinance": {
     "name": "PrimeFinance",
@@ -102313,7 +103484,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x989ac4c1fc5ab2b8c86924c6253aaf1ee68e9ce9",
       "https://ethplorer.io/address/0x989ac4c1fc5ab2b8c86924c6253aaf1ee68e9ce9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Primecoin": {
     "name": "Primecoin",
@@ -102329,7 +103503,10 @@
       "BitcoinL",
       "PeercoinL"
     ],
-    "git": "https://github.com/primecoin/primecoin/"
+    "git": "https://github.com/primecoin/primecoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Printer.Finance": {
     "name": "Printer.Finance",
@@ -102369,7 +103546,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Privatix": {
     "name": "Privatix",
@@ -102393,7 +103573,10 @@
     "deaths": [
       "20210118",
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ProBit Token": {
     "name": "ProBit Token",
@@ -102407,7 +103590,10 @@
       "https://etherscan.io/token/0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803",
       "https://ethplorer.io/address/0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803"
     ],
-    "git": "https://github.com/probitexchange"
+    "git": "https://github.com/probitexchange",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ProChain": {
     "name": "ProChain",
@@ -102441,7 +103627,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Profile Utility Token": {
     "name": "Profile Utility Token",
@@ -102456,7 +103645,10 @@
     ],
     "forked_data": [
       "https://explorer.qtum.org/token/4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Project Inverse": {
     "name": "Project Inverse",
@@ -102470,7 +103662,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://etherscan.io/token/0x44f262622248027f8e2a8fb1090c4cf85072392c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Project Pai": {
     "name": "Project Pai",
@@ -102482,7 +103677,10 @@
       "AI & Big Data",
       "Identity",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Project WITH": {
     "name": "Project WITH",
@@ -102496,7 +103694,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab",
       "https://ethplorer.io/address/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Project-X": {
     "name": "Project-X",
@@ -102547,7 +103748,10 @@
       "20210309",
       "20210310",
       "20210316"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prometeus": {
     "name": "Prometeus",
@@ -102565,7 +103769,10 @@
       "https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
       "https://ethplorer.io/address/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
       "https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Promotion Coin": {
     "name": "Promotion Coin",
@@ -102579,7 +103786,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d",
       "https://ethplorer.io/address/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Proof Of Liquidity": {
     "name": "Proof Of Liquidity",
@@ -102593,7 +103803,10 @@
     ],
     "forked_data": [
       "https://tronscan.org/#/token20/TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ProperSix": {
     "name": "ProperSix",
@@ -102604,7 +103817,10 @@
       "Token"
     ],
     "sawBirth": "20210224",
-    "explorer": "http://liboexplorer.com"
+    "explorer": "http://liboexplorer.com",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prophecy": {
     "name": "Prophecy",
@@ -102619,7 +103835,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x3C81D482172cC273c3b91dD9D8eb212023D00521",
       "https://ethplorer.io/address/0x3C81D482172cC273c3b91dD9D8eb212023D00521"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prophet": {
     "name": "Prophet",
@@ -102667,7 +103886,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Props Token": {
     "name": "Props Token",
@@ -102681,7 +103903,10 @@
       "https://etherscan.io/token/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
       "https://ethplorer.io/address/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
     ],
-    "git": "https://github.com/propsproject"
+    "git": "https://github.com/propsproject",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Propy": {
     "name": "Propy",
@@ -102698,7 +103923,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220",
       "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Prosper": {
     "name": "Prosper",
@@ -102714,7 +103942,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
       "https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Proton": {
     "name": "Proton",
@@ -102729,7 +103960,10 @@
       "https://etherscan.io/token/0xd7efb00d12c2c13131fd319336fdf952525da2af",
       "https://ethplorer.io/address/0xd7efb00d12c2c13131fd319336fdf952525da2af"
     ],
-    "git": "https://github.com/ProtonProtocol"
+    "git": "https://github.com/ProtonProtocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Proton Token": {
     "name": "Proton Token",
@@ -102761,7 +103995,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Provoco Token": {
     "name": "Provoco Token",
@@ -102798,7 +104035,10 @@
       "20210210",
       "20210211",
       "20210213"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Proxeus": {
     "name": "Proxeus",
@@ -102832,7 +104072,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ProximaX": {
     "name": "ProximaX",
@@ -102849,7 +104092,10 @@
       "NoLicenceFile"
     ],
     "explorer": "http://explorer.xpxsirius.io/#",
-    "git": "https://github.com/proximax-storage"
+    "git": "https://github.com/proximax-storage",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ProxyNode": {
     "name": "ProxyNode",
@@ -102864,7 +104110,10 @@
     "deaths": [
       "20210126",
       "20210221"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Psychic": {
     "name": "Psychic",
@@ -102878,7 +104127,10 @@
     "sawBirth": "20210128",
     "forked_data": [
       "https://bscscan.com/token/0x8dbc995946ad745dd77186d1ac10019b8ea6694a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pteria": {
     "name": "Pteria",
@@ -102891,7 +104143,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/address/0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pub Finance": {
     "name": "Pub Finance",
@@ -102910,7 +104165,10 @@
     ],
     "deaths": [
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Public Mint": {
     "name": "Public Mint",
@@ -102919,11 +104177,16 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "NoGitHub",
-      "Token"
+      "Ethereum Contract"
     ],
     "sawBirth": "20210227",
-    "explorer": "https://explorer.publicmint.io/"
+    "explorer": "https://explorer.publicmint.io/",
+    "checkedWithGecko": {
+      "found": true
+    },
+    "forked_data": [
+      "https://etherscan.io/token/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059"
+    ]
   },
   "PumaPay": {
     "name": "PumaPay",
@@ -102937,7 +104200,10 @@
       "https://etherscan.io/token/0x846c66cf71c43f80403b51fe3906b3599d63336f",
       "https://ethplorer.io/address/0x846c66cf71c43f80403b51fe3906b3599d63336f"
     ],
-    "git": "https://github.com/pumapayio/pumapay-token"
+    "git": "https://github.com/pumapayio/pumapay-token",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pundi X": {
     "name": "Pundi X",
@@ -102952,7 +104218,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
       "https://ethplorer.io/address/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pundi X NEM": {
     "name": "Pundi X NEM",
@@ -102966,7 +104235,10 @@
     ],
     "forked_data": [
       "https://explorer.binance.org/asset/NPXSXEM-89C"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Punk": {
     "name": "Punk",
@@ -102982,7 +104254,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9cea2ed9e47059260c97d697f82b8a14efa61ea5",
       "https://ethplorer.io/address/0x9cea2ed9e47059260c97d697f82b8a14efa61ea5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Punk Basic": {
     "name": "Punk Basic",
@@ -103013,7 +104288,10 @@
       "20210324",
       "20210324",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PureVidz": {
     "name": "PureVidz",
@@ -103101,7 +104379,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/purevidz/vidzcoin"
+    "git": "https://github.com/purevidz/vidzcoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Puriever": {
     "name": "Puriever",
@@ -103115,7 +104396,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2904b9b16652d7d0408eccfa23a19d4a3358230f",
       "https://ethplorer.io/address/0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "PutinCoin": {
     "name": "PutinCoin",
@@ -103131,7 +104415,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/PutinCoinPUT/PutinCoin"
+    "git": "https://github.com/PutinCoinPUT/PutinCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pylon Network": {
     "name": "Pylon Network",
@@ -103166,7 +104453,10 @@
       "20210324",
       "20210324",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pyrk": {
     "name": "Pyrk",
@@ -103177,7 +104467,10 @@
       "BitcoinL",
       "DashL"
     ],
-    "git": "https://github.com/pyrkcommunity/pyrk"
+    "git": "https://github.com/pyrkcommunity/pyrk",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Pyrrhos Gold": {
     "name": "Pyrrhos Gold",
@@ -103220,7 +104513,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Q DAO Governance token v1.0": {
     "name": "Q DAO Governance token v1.0",
@@ -103234,7 +104530,10 @@
       "https://etherscan.io/token/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
       "https://ethplorer.io/address/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2"
     ],
-    "git": "https://github.com/Platinumengineering/USDQ"
+    "git": "https://github.com/Platinumengineering/USDQ",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "QANplatform": {
     "name": "QANplatform",
@@ -103248,7 +104547,10 @@
       "https://etherscan.io/token/0x63120ccd7b415743e8753afd167f5ad4a1732c43",
       "https://ethplorer.io/address/0x63120ccd7b415743e8753afd167f5ad4a1732c43"
     ],
-    "git": "https://github.com/QANplatform/erc20/blob/master/contracts/QARK.sol"
+    "git": "https://github.com/QANplatform/erc20/blob/master/contracts/QARK.sol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "QASH": {
     "name": "QASH",
@@ -103265,7 +104567,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
       "https://ethplorer.io/address/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "QChi": {
     "name": "QChi",
@@ -103284,7 +104589,10 @@
     "deaths": [
       "20210224",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "QChi Chain": {
     "name": "QChi Chain",
@@ -103320,7 +104628,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "QFinance": {
     "name": "QFinance",
@@ -103353,7 +104664,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "QLC Chain": {
     "name": "QLC Chain",
@@ -103367,7 +104681,10 @@
     "forked_data": [
       "https://neotracker.io/asset/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
     ],
-    "git": "https://github.com/qlcchain/"
+    "git": "https://github.com/qlcchain/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "QOOBER": {
     "name": "QOOBER",

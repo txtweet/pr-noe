@@ -20,8 +20,11 @@ idExceptions = [
   'ignis'
   'likecoin' #cosmos
   'ndau' #cosmos
+  'ouroboros' #cosmos
   'max-property-group'
   'metaverse-dualchain-network-architecture'
+  'oraclechain'
+  'pegnet'
 ]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
