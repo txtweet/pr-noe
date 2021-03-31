@@ -138,7 +138,8 @@
       "https://qtum.info/contract",
       "https://qtum.info/qrc20"
     ],
-    "contract": "Qtum Contract"
+    "contract": "Qtum Contract",
+    "gecko_asset_platform_id": "qtum"
   },
   {
     "urls": [
@@ -203,7 +204,8 @@
       "http://dev.pywaves.org/assets",
       "https://dev.pywaves.org/enterprise/balances",
       "https://dev.pywaves.org/assets",
-      "https://wavesexplorer.com/tx"
+      "https://wavesexplorer.com/tx",
+      "https://wavesdesk.com/asset"
     ],
     "contract": "Waves Contract",
     "gecko_asset_platform_id": "waves"

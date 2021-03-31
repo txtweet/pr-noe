@@ -67738,7 +67738,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
       "https://ethplorer.io/address/0xeda8b016efa8b1161208cf041cd86972eee0f31e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ILCOIN": {
     "name": "ILCOIN",
@@ -67752,7 +67755,10 @@
       "Quantum-Resistant",
       "ILCoin CoreL"
     ],
-    "git": "https://github.com/ILCoinDevTeam/ilcoin-master"
+    "git": "https://github.com/ILCoinDevTeam/ilcoin-master",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INDINODE": {
     "name": "INDINODE",
@@ -67824,7 +67830,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/raymaker/indinode/releases/"
+    "git": "https://github.com/raymaker/indinode/releases/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INLOCK": {
     "name": "INLOCK",
@@ -67861,7 +67870,10 @@
       "20210319",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INMAX": {
     "name": "INMAX",
@@ -67937,7 +67949,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INMAXCOIN": {
     "name": "INMAXCOIN",
@@ -67963,7 +67978,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INO COIN": {
     "name": "INO COIN",
@@ -67979,7 +67997,10 @@
       "https://etherscan.io/token/0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f",
       "https://ethplorer.io/address/0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f"
     ],
-    "git": "https://github.com/InoCoin"
+    "git": "https://github.com/InoCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INRToken": {
     "name": "INRToken",
@@ -67993,7 +68014,10 @@
     "forked_data": [
       "https://tronscan.org/#/token20/TVnRbEPaMKZzFm1JSBvDSmCXcWJVHzXGG5"
     ],
-    "git": "https://github.com/tokeninr/token"
+    "git": "https://github.com/tokeninr/token",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "INT": {
     "name": "INT",
@@ -68005,7 +68029,10 @@
       "IoT",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/intfoundation"
+    "git": "https://github.com/intfoundation",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IOEX": {
     "name": "IOEX",
@@ -68015,7 +68042,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ioeXNetwork"
+    "git": "https://github.com/ioeXNetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ION": {
     "name": "ION",
@@ -68054,7 +68084,10 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/ionomy/ion"
+    "git": "https://github.com/ionomy/ion",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IONChain": {
     "name": "IONChain",
@@ -68072,7 +68105,10 @@
     "git": "https://github.com/ionchain",
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IOOX System": {
     "name": "IOOX System",
@@ -68156,7 +68192,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IOST": {
     "name": "IOST",
@@ -68167,7 +68206,10 @@
       "Hardware",
       "IoT",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IOTA": {
     "name": "IOTA",
@@ -68181,7 +68223,10 @@
       "Sharing Economy",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/iotaledger"
+    "git": "https://github.com/iotaledger",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IOV BlockChain": {
     "name": "IOV BlockChain",
@@ -68239,7 +68284,10 @@
       "20210319",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IP Exchange": {
     "name": "IP Exchange",
@@ -68273,7 +68321,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IQ.cash": {
     "name": "IQ.cash",
@@ -68286,7 +68337,10 @@
       "DashL",
       "IQcash CoreL"
     ],
-    "git": "https://github.com/IQ-Cash/iqcash"
+    "git": "https://github.com/IQ-Cash/iqcash",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IQeon": {
     "name": "IQeon",
@@ -68302,7 +68356,10 @@
       "https://etherscan.io/token/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
       "https://ethplorer.io/address/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31"
     ],
-    "git": "https://github.com/iqeon"
+    "git": "https://github.com/iqeon",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IRISnet": {
     "name": "IRISnet",
@@ -68312,7 +68369,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/irisnet"
+    "git": "https://github.com/irisnet",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ISALCOIN": {
     "name": "ISALCOIN",
@@ -68347,7 +68407,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ISTARDUST": {
     "name": "ISTARDUST",
@@ -68361,7 +68424,10 @@
       "https://etherscan.io/token/0xf2354F740f31704820f6FcfBA70B9dA065459b62",
       "https://ethplorer.io/address/0xf2354F740f31704820f6FcfBA70B9dA065459b62"
     ],
-    "git": "https://github.com/IStardust-io"
+    "git": "https://github.com/IStardust-io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ITAM Games": {
     "name": "ITAM Games",
@@ -68370,7 +68436,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ITEN": {
     "name": "ITEN",
@@ -68383,7 +68452,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x65b678936c489A2639036755Aa2107Ec09569198"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ITO Utility Token": {
     "name": "ITO Utility Token",
@@ -68449,7 +68521,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IXT": {
     "name": "IXT",
@@ -68471,7 +68546,10 @@
     "deaths": [
       "20201208",
       "20201216"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IYF.finance": {
     "name": "IYF.finance",
@@ -68489,7 +68567,10 @@
     "git": "https://github.com/iyieldfarm",
     "deaths": [
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IZE": {
     "name": "IZE",
@@ -68503,7 +68584,10 @@
       "https://etherscan.io/token/0x6944d3e38973C4831dA24E954fbD790c7E688bDd",
       "https://ethplorer.io/address/0x6944d3e38973C4831dA24E954fbD790c7E688bDd"
     ],
-    "git": "https://github.com/IZE-Holdings?tab=repositories"
+    "git": "https://github.com/IZE-Holdings?tab=repositories",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IZEROIUM": {
     "name": "IZEROIUM",
@@ -68546,7 +68630,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Iconic": {
     "name": "Iconic",
@@ -68617,7 +68704,10 @@
       "20210326",
       "20210328"
     ],
-    "git": "https://github.com/iconictoken/iconic"
+    "git": "https://github.com/iconictoken/iconic",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Iconic Token": {
     "name": "Iconic Token",
@@ -68647,7 +68737,10 @@
       "20210308",
       "20210310",
       "20210311"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Idavoll Network": {
     "name": "Idavoll Network",
@@ -68661,7 +68754,10 @@
     "git": "https://github.com/idavollnetwork",
     "forked_data": [
       "https://etherscan.io/token/0x92ec47df1aa167806dfa4916d9cfb99da6953b8f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Idea Chain Coin": {
     "name": "Idea Chain Coin",
@@ -68675,7 +68771,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
       "https://ethplorer.io/address/0xf8483E2d6560585C02D46bF7B3186Bf154a96166"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ideaology": {
     "name": "Ideaology",
@@ -68690,7 +68789,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
       "https://ethplorer.io/address/0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Idena": {
     "name": "Idena",
@@ -68704,7 +68806,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/idena-network"
+    "git": "https://github.com/idena-network",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Idle": {
     "name": "Idle",
@@ -68725,7 +68830,10 @@
       "https://etherscan.io/token/0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
       "https://ethplorer.io/address/0x875773784Af8135eA0ef43b5a374AaD105c5D39e"
     ],
-    "git": "https://github.com/Idle-Labs/"
+    "git": "https://github.com/Idle-Labs/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ifoods Chain": {
     "name": "Ifoods Chain",
@@ -68762,7 +68870,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ignis": {
     "name": "Ignis",
@@ -68775,7 +68886,10 @@
       "State channels",
       "NoGitHub"
     ],
-    "explorer": "https://ardor.tools/"
+    "explorer": "https://ardor.tools/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ignition": {
     "name": "Ignition",
@@ -68803,7 +68917,10 @@
       "20210321",
       "20210325"
     ],
-    "git": "https://github.com/ignitioncoin/"
+    "git": "https://github.com/ignitioncoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ImageCash": {
     "name": "ImageCash",
@@ -68828,7 +68945,10 @@
       "20210318",
       "20210319",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ImageCoin": {
     "name": "ImageCoin",
@@ -68839,7 +68959,10 @@
       "BitcoinL",
       "DashL"
     ],
-    "git": "https://github.com/mceme/ImageCoin/"
+    "git": "https://github.com/mceme/ImageCoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Impleum": {
     "name": "Impleum",
@@ -68864,7 +68987,10 @@
       "20210310",
       "20210318",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "ImpulseVen": {
     "name": "ImpulseVen",
@@ -68879,7 +69005,10 @@
     "sawBirth": "20210325",
     "forked_data": [
       "https://etherscan.io/token/0xe14e06671702f0db50055388c29adc66821d933b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Imsmart": {
     "name": "Imsmart",
@@ -68893,7 +69022,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xbfe03707adb75b478add9a01978057803f480e44",
       "https://ethplorer.io/address/0xbfe03707adb75b478add9a01978057803f480e44"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Incent": {
     "name": "Incent",
@@ -68903,16 +69035,19 @@
       "Token",
       "Platform",
       "Loyalty",
-      "Dead"
+      "Dead",
+      "Waves Contract"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "https://wavesdesk.com/asset/FLbGXzrpqkvucZqsHDcNxePTkh2ChmEi4GdBfDRRJVof"
+    ],
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Independent Money System": {
     "name": "Independent Money System",
@@ -69000,7 +69135,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/independentmoneysystem/IMSCoin"
+    "git": "https://github.com/independentmoneysystem/IMSCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Index Chain": {
     "name": "Index Chain",
@@ -69016,7 +69154,10 @@
       "Smart Contracts",
       "BitcoinL"
     ],
-    "git": "https://github.com/IndexChain/Index"
+    "git": "https://github.com/IndexChain/Index",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Index Cooperative": {
     "name": "Index Cooperative",
@@ -69032,7 +69173,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0954906da0Bf32d5479e25f46056d22f08464cab",
       "https://ethplorer.io/address/0x0954906da0Bf32d5479e25f46056d22f08464cab"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Indexed Finance": {
     "name": "Indexed Finance",
@@ -69047,7 +69191,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
       "https://ethplorer.io/address/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Indorse Token": {
     "name": "Indorse Token",
@@ -69086,7 +69233,10 @@
       "20210309",
       "20210316",
       "20210323"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Inex Project": {
     "name": "Inex Project",
@@ -69115,7 +69265,10 @@
       "20210128",
       "20210204",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Infinite Ricks": {
     "name": "Infinite Ricks",
@@ -69147,7 +69300,10 @@
       "20210309",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Infinitecoin": {
     "name": "Infinitecoin",
@@ -69161,7 +69317,10 @@
       "BitcoinL",
       "InfinitecoinL"
     ],
-    "git": "https://github.com/WilliamXuu/infinitecoin"
+    "git": "https://github.com/WilliamXuu/infinitecoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Infinitus Token": {
     "name": "Infinitus Token",
@@ -69182,7 +69341,10 @@
     },
     "deaths": [
       "20210119"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Infinity Economics": {
     "name": "Infinity Economics",
@@ -69192,7 +69354,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/InfinityEconomicsPlatform"
+    "git": "https://github.com/InfinityEconomicsPlatform",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Infinity Esaham": {
     "name": "Infinity Esaham",
@@ -69206,7 +69371,10 @@
       "https://etherscan.io/token/0x193408ca0576b73156ed42a2ea7d6fd3f6507162",
       "https://ethplorer.io/address/0x193408ca0576b73156ed42a2ea7d6fd3f6507162"
     ],
-    "git": "https://github.com/INFS/INFS.github.io"
+    "git": "https://github.com/INFS/INFS.github.io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "InflationCoin": {
     "name": "InflationCoin",
@@ -69261,7 +69429,10 @@
       "20210308",
       "20210309"
     ],
-    "git": "https://github.com/inflationcoin/inflationcoin"
+    "git": "https://github.com/inflationcoin/inflationcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Injective Protocol": {
     "name": "Injective Protocol",
@@ -69280,7 +69451,10 @@
       "https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30",
       "https://ethplorer.io/address/0xe28b3b32b6c345a34ff64674606124dd5aceca30"
     ],
-    "git": "https://github.com/InjectiveLabs"
+    "git": "https://github.com/InjectiveLabs",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ink": {
     "name": "Ink",
@@ -69296,7 +69470,10 @@
       "https://explorer.qtum.org/token/fe59cbc1704e89a698571413a81f0de9d8f00c69",
       "https://qtumexplorer.io/contract/fe59cbc1704e89a698571413a81f0de9d8f00c69"
     ],
-    "git": "https://github.com/inklabsfoundation"
+    "git": "https://github.com/inklabsfoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ink Protocol": {
     "name": "Ink Protocol",
@@ -69316,7 +69493,10 @@
     "git": "https://github.com/InkProtocol/ink-protocol",
     "deaths": [
       "20210320"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Innova": {
     "name": "Innova",
@@ -69332,7 +69512,10 @@
     "deaths": [
       "20210317",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "InnovaMinex": {
     "name": "InnovaMinex",
@@ -69359,7 +69542,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Innovation Blockchain Payment": {
     "name": "Innovation Blockchain Payment",
@@ -69372,7 +69558,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7D14b842630cbc2530cB288109E5719e0C4d67d7"
     ],
-    "git": "https://github.com/ibpworld"
+    "git": "https://github.com/ibpworld",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Innovative Bioresearch Classic": {
     "name": "Innovative Bioresearch Classic",
@@ -69386,7 +69575,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
       "https://ethplorer.io/address/0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Innovative Bioresearch Coin": {
     "name": "Innovative Bioresearch Coin",
@@ -69401,7 +69593,10 @@
       "https://etherscan.io/token/0xB67718b98d52318240c52E71A898335da4A28c42",
       "https://ethplorer.io/address/0xB67718b98d52318240c52E71A898335da4A28c42"
     ],
-    "git": "https://github.com/InnovativeBioresearch/InnovativeBioresearch"
+    "git": "https://github.com/InnovativeBioresearch/InnovativeBioresearch",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "InsaneCoin": {
     "name": "InsaneCoin",
@@ -69422,7 +69617,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/CryptoCoderz/INSN"
+    "git": "https://github.com/CryptoCoderz/INSN",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Insight Chain": {
     "name": "Insight Chain",
@@ -69479,7 +69677,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insight Protocol": {
     "name": "Insight Protocol",
@@ -69500,7 +69701,10 @@
     },
     "deaths": [
       "20210220"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insights Network": {
     "name": "Insights Network",
@@ -69512,7 +69716,10 @@
       "AI & Big Data",
       "Enterprise solutions",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insolar": {
     "name": "Insolar",
@@ -69542,7 +69749,10 @@
       "20210228",
       "20210301",
       "20210302"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Instantily": {
     "name": "Instantily",
@@ -69551,16 +69761,13 @@
     "tags": [
       "Token",
       "Dead",
-      "Ethereum Contract"
+      "Ethereum Contract",
+      "Tron Contract"
     ],
-    "forked_data": {
-      "block": [
-        "0x8346...F156dAF"
-      ],
-      "forked_from": [
-        "Ethereum"
-      ]
-    },
+    "forked_data": [
+      "https://tronscan.io/#/token20/TCD9h2fr82uomPBKcQ2tieMb4y98fUymum",
+      "https://etherscan.io/token/0x834625F5D8B006D70a6CaAEeF73C29442F156dAF"
+    ],
     "deaths": [
       "20201130",
       "20201201",
@@ -69581,7 +69788,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insula": {
     "name": "Insula",
@@ -69608,7 +69818,10 @@
       "20210204",
       "20210227",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "InsurAce": {
     "name": "InsurAce",
@@ -69622,7 +69835,10 @@
     "sawBirth": "20210318",
     "forked_data": [
       "https://etherscan.io/address/0x544c42fbb96b39b21df61cf322b5edc285ee7429"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insured Finance": {
     "name": "Insured Finance",
@@ -69638,7 +69854,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
       "https://ethplorer.io/address/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Insureum": {
     "name": "Insureum",
@@ -69652,7 +69871,10 @@
       "https://etherscan.io/token/0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136",
       "https://etherscan.io/address/0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136"
     ],
-    "git": "https://github.com/TeamZikto/Contract"
+    "git": "https://github.com/TeamZikto/Contract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IntelliShare": {
     "name": "IntelliShare",
@@ -69707,7 +69929,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Intelligence Quickly Chain": {
     "name": "Intelligence Quickly Chain",
@@ -69767,7 +69992,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Intelligent Investment Chain": {
     "name": "Intelligent Investment Chain",
@@ -69781,7 +70009,10 @@
       "https://etherscan.io/token/0xb6f43025b29196af2dddd69b0a58afba079cd600",
       "https://ethplorer.io/address/0xb6f43025b29196af2dddd69b0a58afba079cd600"
     ],
-    "git": "https://github.com/iichain"
+    "git": "https://github.com/iichain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Intelligent Ratio Set": {
     "name": "Intelligent Ratio Set",
@@ -69880,7 +70111,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Intelligent Trading Foundation": {
     "name": "Intelligent Trading Foundation",
@@ -69963,7 +70197,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "InterValue": {
     "name": "InterValue",
@@ -70008,7 +70245,10 @@
       "20210225",
       "20210310",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Interest Bearing ETH": {
     "name": "Interest Bearing ETH",
@@ -70022,7 +70262,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A"
     ],
-    "git": "https://github.com/AlphaFinanceLab"
+    "git": "https://github.com/AlphaFinanceLab",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Interfinex": {
     "name": "Interfinex",
@@ -70056,7 +70299,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Internet Computer (IOU)": {
     "name": "Internet Computer (IOU)",
@@ -70066,7 +70312,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/dfinity"
+    "git": "https://github.com/dfinity",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Internet of People": {
     "name": "Internet of People",
@@ -70144,7 +70393,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/Internet-of-People"
+    "git": "https://github.com/Internet-of-People",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Internxt": {
     "name": "Internxt",
@@ -70166,7 +70418,10 @@
       "https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82",
       "https://ethplorer.io/address/0xa8006c4ca56f24d6836727d106349320db7fef82"
     ],
-    "git": "https://github.com/internxt"
+    "git": "https://github.com/internxt",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Interop": {
     "name": "Interop",
@@ -70181,7 +70436,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x2eC75589856562646afE393455986CaD26c4Cc5f",
       "https://ethplorer.io/address/0x2ec75589856562646afe393455986cad26c4cc5f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Inverse Bitcoin Volatility Token": {
     "name": "Inverse Bitcoin Volatility Token",
@@ -70217,7 +70475,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Inverse Finance": {
     "name": "Inverse Finance",
@@ -70232,7 +70493,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
       "https://ethplorer.io/address/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "InvestDigital": {
     "name": "InvestDigital",
@@ -70246,7 +70510,10 @@
       "https://etherscan.io/token/0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb",
       "https://ethplorer.io/address/0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb"
     ],
-    "git": "https://github.com/investdigital"
+    "git": "https://github.com/investdigital",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "InvestFeed": {
     "name": "InvestFeed",
@@ -70326,7 +70593,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Invictus Hyperion Fund": {
     "name": "Invictus Hyperion Fund",
@@ -70340,7 +70610,10 @@
       "https://etherscan.io/token/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
       "https://ethplorer.io/address/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
     ],
-    "git": "https://github.com/invictuscapital/IHF-smart-contracts"
+    "git": "https://github.com/invictuscapital/IHF-smart-contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IoT Chain": {
     "name": "IoT Chain",
@@ -70357,7 +70630,10 @@
       "https://etherscan.io/token/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940",
       "https://ethplorer.io/address/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940"
     ],
-    "git": "https://github.com/iot-block/iotchain"
+    "git": "https://github.com/iot-block/iotchain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IoTeX": {
     "name": "IoTeX",
@@ -70370,7 +70646,10 @@
       "DeFi",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/iotexproject/"
+    "git": "https://github.com/iotexproject/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Iridium": {
     "name": "Iridium",
@@ -70387,7 +70666,10 @@
       "20210122",
       "20210126",
       "20210212"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Isiklar Coin": {
     "name": "Isiklar Coin",
@@ -70401,7 +70683,10 @@
       "https://etherscan.io/token/0x42726d074BBa68Ccc15200442B72Afa2D495A783",
       "https://ethplorer.io/address/0x42726d074BBa68Ccc15200442B72Afa2D495A783"
     ],
-    "git": "https://github.com/IsikC-code/isik-coin"
+    "git": "https://github.com/IsikC-code/isik-coin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Italian Lira": {
     "name": "Italian Lira",
@@ -70440,7 +70725,10 @@
       "20210303",
       "20210320",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Italo": {
     "name": "Italo",
@@ -70451,7 +70739,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/italocoin-project/italo"
+    "git": "https://github.com/italocoin-project/italo",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Itchiro Games": {
     "name": "Itchiro Games",
@@ -70465,7 +70756,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x21cf09BC065082478Dcc9ccB5fd215A978Dc8d86"
     ],
-    "git": "https://github.com/itchirogames"
+    "git": "https://github.com/itchirogames",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IterationSyndicate": {
     "name": "IterationSyndicate",
@@ -70479,7 +70773,10 @@
     "sawBirth": "20201203",
     "forked_data": [
       "https://etherscan.io/token/0xC32cC5b70BEe4bd54Aa62B9Aefb91346d18821C4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ivy": {
     "name": "Ivy",
@@ -70513,7 +70810,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ixcoin": {
     "name": "Ixcoin",
@@ -70573,7 +70873,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/ixcore/ixcoin"
+    "git": "https://github.com/ixcore/ixcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ixinium": {
     "name": "Ixinium",
@@ -70586,7 +70889,10 @@
     ],
     "forked_data": [
       "https://stellar.expert/explorer/public/asset/XXA-GC4HS4CQCZULIOTGLLPGRAAMSBDLFRR6Y7HCUQG66LNQDISXKIXXADIM"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "JBOX": {
     "name": "JBOX",
@@ -70632,15 +70938,25 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "JD Coin": {
     "name": "JD Coin",
     "short": "JDC",
     "url": "/currencies/jd-coin",
     "tags": [
-      "Coin",
-      "NoGitHub"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    },
+    "forked_data": [
+      "https://etherscan.io/token/0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce"
     ]
   },
   "JET8": {
@@ -70741,7 +71057,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "JFIN": {
     "name": "JFIN",
@@ -70778,7 +71097,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
       "https://ethplorer.io/address/0x940bdcb99a0ee5fb008a606778ae87ed9789f257"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "JSB FOUNDATION": {
     "name": "JSB FOUNDATION",
@@ -70804,7 +71126,10 @@
       "https://tronscan.org/#/contract/TBwEPBdBPQsHaSwk7qhDWjqi8oNz74ppzd",
       "https://explorer.binance.org/asset/JSB-614M"
     ],
-    "git": "https://github.com/JSBFoundation"
+    "git": "https://github.com/JSBFoundation",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "JSECOIN": {
     "name": "JSECOIN",
@@ -70837,7 +71162,10 @@
       "20201216",
       "20201217",
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "JUIICE": {
     "name": "JUIICE",
@@ -70905,7 +71233,10 @@
       "20210322",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "JUST": {
     "name": "JUST",
