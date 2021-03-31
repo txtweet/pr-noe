@@ -37844,7 +37844,7 @@
     "url": "/currencies/deex",
     "tags": [
       "Token",
-      "Bitshare Contract"
+      "Bitshare Contract",
       "NoLicenceFile",
       "Dead"
     ],
@@ -37888,7 +37888,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEFI Top 5 Tokens Index": {
     "name": "DEFI Top 5 Tokens Index",
@@ -37940,7 +37943,10 @@
     "git": "https://github.com/indexed-finance",
     "forked_data": [
       "https://etherscan.io/address/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEGEN Index": {
     "name": "DEGEN Index",
@@ -37955,7 +37961,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x126c121f99e1e211df2e5f8de2d96fa36647c855",
       "https://ethplorer.io/address/0x126c121f99e1e211df2e5f8de2d96fa36647c855"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEJAVE": {
     "name": "DEJAVE",
@@ -37975,7 +37984,10 @@
     "deaths": [
       "20210319",
       "20210320"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEMOS": {
     "name": "DEMOS",
@@ -38022,7 +38034,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEONEX COIN": {
     "name": "DEONEX COIN",
@@ -38067,7 +38082,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DEOR": {
     "name": "DEOR",
@@ -38081,7 +38099,10 @@
     "git": "https://github.com/computercybersecurity/DecentralizedOracle/",
     "forked_data": [
       "https://etherscan.io/token/0x63726dae7c57d25e90ec829ce9a5c745ffd984d3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DEUS Finance": {
     "name": "DEUS Finance",
@@ -38096,7 +38117,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
       "https://ethplorer.io/address/0x3b62F3820e0B035cc4aD602dECe6d796BC325325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEUS Finance DEA": {
     "name": "DEUS Finance DEA",
@@ -38110,7 +38134,10 @@
     "git": "https://github.com/deusfinance",
     "forked_data": [
       "https://etherscan.io/token/0x80ab141f324c3d6f2b18b030f1c4e95d4d658778"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DEVA TOKEN": {
     "name": "DEVA TOKEN",
@@ -38125,7 +38152,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7ed621d37e30214d5e197454f08b1c5c9558517a",
       "https://ethplorer.io/address/0x7ed621d37e30214d5e197454f08b1c5c9558517a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEX": {
     "name": "DEX",
@@ -38139,7 +38169,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56",
       "https://ethplorer.io/address/0x497baef294c11a5f0f5bea3f2adb3073db448b56"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEXA COIN": {
     "name": "DEXA COIN",
@@ -38153,7 +38186,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x725440512cb7b78bf56b334e50e31707418231cb",
       "https://ethplorer.io/address/0x725440512cb7b78bf56b334e50e31707418231cb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DEXTF Protocol": {
     "name": "DEXTF Protocol",
@@ -38168,7 +38204,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
       "https://ethplorer.io/address/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DEXTools": {
     "name": "DEXTools",
@@ -38182,7 +38221,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x26ce25148832c04f3d7f26f32478a9fe55197166",
       "https://ethplorer.io/address/0x26ce25148832c04f3d7f26f32478a9fe55197166"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DFI.Money": {
     "name": "DFI.Money",
@@ -38204,7 +38246,10 @@
       "https://etherscan.io/token/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
       "https://ethplorer.io/address/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
       "https://bscscan.com/token/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DFOhub": {
     "name": "DFOhub",
@@ -38219,7 +38264,10 @@
       "https://etherscan.io/token/0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
       "https://ethplorer.io/address/0x7b123f53421b1bf8533339bfbdc7c98aa94163db"
     ],
-    "git": "https://github.com/b-u-i-d-l"
+    "git": "https://github.com/b-u-i-d-l",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DGPayment": {
     "name": "DGPayment",
@@ -38275,7 +38323,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DIA": {
     "name": "DIA",
@@ -38292,7 +38343,10 @@
       "https://etherscan.io/token/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
       "https://ethplorer.io/address/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
     ],
-    "git": "https://github.com/diadata-org"
+    "git": "https://github.com/diadata-org",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DIESEL": {
     "name": "DIESEL",
@@ -38306,7 +38360,10 @@
     "sawBirth": "20210316",
     "forked_data": [
       "https://bscscan.com/token/0xe1ea2e1907d93f154234ce3b5a7418faf175fe11"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DIGG": {
     "name": "DIGG",
@@ -38322,7 +38379,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x798D1bE841a82a273720CE31c822C61a67a601C3",
       "https://ethplorer.io/address/0x798d1be841a82a273720ce31c822c61a67a601c3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DIMCOIN": {
     "name": "DIMCOIN",
@@ -38330,12 +38390,12 @@
     "url": "/currencies/dimcoin",
     "tags": [
       "Token",
+      "Nem Contract",
       "Dead"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "http://dimexplorer.io/"
+    ],
     "deaths": [
       "20201130",
       "20201201",
@@ -38351,7 +38411,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DMD": {
     "name": "DMD",
@@ -38365,7 +38428,10 @@
     ],
     "forked_data": [
       "https://bloks.io/tokens/DMD-eos-eosdmdtokens"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DMM: Governance": {
     "name": "DMM: Governance",
@@ -38382,7 +38448,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xEd91879919B71bB6905f23af0A68d231EcF87b14",
       "https://ethplorer.io/address/0xed91879919b71bb6905f23af0a68d231ecf87b14"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DMScript": {
     "name": "DMScript",
@@ -38397,7 +38466,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
       "https://ethplorer.io/address/0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DMarket": {
     "name": "DMarket",
@@ -38414,7 +38486,10 @@
       "https://etherscan.io/token/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
       "https://ethplorer.io/address/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1"
     ],
-    "git": "https://github.com/suntechsoft/dmarket-smartcontract"
+    "git": "https://github.com/suntechsoft/dmarket-smartcontract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DMme": {
     "name": "DMme",
@@ -38428,7 +38503,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
       "https://ethplorer.io/address/0x9556f8ee795d991ff371f547162d5efb2769425f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DNotes": {
     "name": "DNotes",
@@ -38473,7 +38551,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/DNotesCoin/DNotes2.0/"
+    "git": "https://github.com/DNotesCoin/DNotes2.0/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DOC.COM": {
     "name": "DOC.COM",
@@ -38491,7 +38572,10 @@
       "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745",
       "https://ethplorer.io/address/0x905e337c6c8645263d3521205aa37bf4d034e745"
     ],
-    "git": "https://github.com/Docademic/"
+    "git": "https://github.com/Docademic/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DOCH COIN": {
     "name": "DOCH COIN",
@@ -38525,7 +38609,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DODO": {
     "name": "DODO",
@@ -38542,7 +38629,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DOGEFI": {
     "name": "DOGEFI",
@@ -38575,7 +38665,10 @@
       "20210120",
       "20210121",
       "20210122"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DOOS TOKEN": {
     "name": "DOOS TOKEN",
@@ -38589,7 +38682,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x45cde5c8ae6e4a5568e488ef43a173eeeabfcc21",
       "https://ethplorer.io/address/0x45cde5c8ae6e4a5568e488ef43a173eeeabfcc21"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DOS Network": {
     "name": "DOS Network",
@@ -38605,7 +38701,10 @@
       "https://etherscan.io/token/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
       "https://ethplorer.io/address/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7"
     ],
-    "git": "https://github.com/DOSNetwork"
+    "git": "https://github.com/DOSNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DOTDOWN": {
     "name": "DOTDOWN",
@@ -38638,7 +38737,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DOTUP": {
     "name": "DOTUP",
@@ -38671,7 +38773,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DOWCOIN": {
     "name": "DOWCOIN",
@@ -38765,7 +38870,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DPRating": {
     "name": "DPRating",
@@ -38779,7 +38887,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
       "https://ethplorer.io/address/0xe8663a64a96169ff4d95b4299e7ae9a76b905b31"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DRC mobility": {
     "name": "DRC mobility",
@@ -38795,7 +38906,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67",
       "https://ethplorer.io/address/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DREP": {
     "name": "DREP",
@@ -38811,7 +38925,10 @@
       "https://etherscan.io/token/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
       "https://explorer.binance.org/asset/DREP-7D2"
     ],
-    "git": "https://github.com/drep-project"
+    "git": "https://github.com/drep-project",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DRUGS": {
     "name": "DRUGS",
@@ -38842,6 +38959,9 @@
       "forked_from": [
         "Binance"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "DSLA Protocol": {
@@ -38866,7 +38986,10 @@
       "https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
       "https://ethplorer.io/address/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe"
     ],
-    "git": "https://github.com/Stacktical"
+    "git": "https://github.com/Stacktical",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DSYS": {
     "name": "DSYS",
@@ -38902,7 +39025,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DTOP Token": {
     "name": "DTOP Token",
@@ -38957,7 +39083,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DUO Network Token": {
     "name": "DUO Network Token",
@@ -38994,7 +39123,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DWS": {
     "name": "DWS",
@@ -39030,7 +39162,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DXdao": {
     "name": "DXdao",
@@ -39046,7 +39181,10 @@
       "https://etherscan.io/token/0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
       "https://ethplorer.io/address/0xa1d65e8fb6e87b60feccbc582f7f97804b725521"
     ],
-    "git": "https://github.com/gnosis/dx-daostack"
+    "git": "https://github.com/gnosis/dx-daostack",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DaftCoin": {
     "name": "DaftCoin",
@@ -39061,7 +39199,10 @@
     "git": "https://github.com/daftcoin",
     "forked_data": [
       "https://bscscan.com/token/0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dai": {
     "name": "Dai",
@@ -39079,7 +39220,10 @@
       "https://ethplorer.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
       "https://blockchair.com/ethereum/erc-20/token/0x6b175474e89094c44da98b954eedeac495271d0f",
       "https://eth.tokenview.com/en/token/0x6b175474e89094c44da98b954eedeac495271d0f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Daikicoin": {
     "name": "Daikicoin",
@@ -39088,7 +39232,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Daily": {
     "name": "Daily",
@@ -39103,7 +39250,10 @@
     "sawBirth": "20210323",
     "forked_data": [
       "https://bscscan.com/token/0xb20b17d86f868b9c2a1e6201ba881d68c1325de4"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DailySwap Token": {
     "name": "DailySwap Token",
@@ -39117,7 +39267,10 @@
     "sawBirth": "20210317",
     "forked_data": [
       "https://bscscan.com/token/0xe0d6ad5a77fd1ed1a22f89657e4248a8ac6a8cbf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Daiquilibrium": {
     "name": "Daiquilibrium",
@@ -39132,7 +39285,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9",
       "https://ethplorer.io/address/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dandy Dego": {
     "name": "Dandy Dego",
@@ -39175,6 +39331,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "Daneel": {
@@ -39209,7 +39368,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dapp Token": {
     "name": "Dapp Token",
@@ -39223,7 +39385,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x386cabc0b14a507a4e024dea15554342865b20de",
       "https://ethplorer.io/address/0x386cabc0b14a507a4e024dea15554342865b20de"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dark": {
     "name": "Dark",
@@ -39261,7 +39426,10 @@
       "20210323",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dark Energy Crystals": {
     "name": "Dark Energy Crystals",
@@ -39361,7 +39529,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dark.Build": {
     "name": "Dark.Build",
@@ -39375,7 +39546,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
       "https://ethplorer.io/address/0x3108ccFd96816F9E663baA0E8c5951D229E8C6da"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Darma Cash": {
     "name": "Darma Cash",
@@ -39384,7 +39558,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Darwinia Commitment Token": {
     "name": "Darwinia Commitment Token",
@@ -39397,7 +39574,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Darwinia Network": {
     "name": "Darwinia Network",
@@ -39417,7 +39597,10 @@
       "https://etherscan.io/token/0x9469d013805bffb7d3debe5e7839237e535ec483",
       "https://tronscan.org/#/token20/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW"
     ],
-    "git": "https://github.com/darwinia-network"
+    "git": "https://github.com/darwinia-network",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dash": {
     "name": "Dash",
@@ -39434,7 +39617,10 @@
       "BitcoinL",
       "DashL"
     ],
-    "git": "https://github.com/dashpay/dash"
+    "git": "https://github.com/dashpay/dash",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dash Cash": {
     "name": "Dash Cash",
@@ -39482,19 +39668,26 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dash Green": {
     "name": "Dash Green",
     "short": "DASHG",
     "url": "/currencies/dash-green",
     "tags": [
-      "Coin",
+      "Token",
+      "Waves Contract",
       "Mineable",
       "Dead",
       "BitcoinL",
       "DashL",
       "PIVXL"
+    ],
+    "forked_data": [
+      "http://explorer.dashgreen.net"
     ],
     "deaths": [
       "20201201",
@@ -39539,7 +39732,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/DashGreenCoin/dashgreen"
+    "git": "https://github.com/DashGreenCoin/dashgreen",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Databroker": {
     "name": "Databroker",
@@ -39553,7 +39749,10 @@
       "https://etherscan.io/token/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
       "https://ethplorer.io/address/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75"
     ],
-    "git": "https://github.com/DataBrokerDAO"
+    "git": "https://github.com/DataBrokerDAO",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Datacoin": {
     "name": "Datacoin",
@@ -39595,7 +39794,10 @@
       "20210316",
       "20210317",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Datamine": {
     "name": "Datamine",
@@ -39610,7 +39812,10 @@
       "https://etherscan.io/token/0xf80d589b3dbe130c270a69f1a69d050f268786df",
       "https://ethplorer.io/address/0xf80d589b3dbe130c270a69f1a69d050f268786df"
     ],
-    "git": "https://github.com/Datamine-Crypto"
+    "git": "https://github.com/Datamine-Crypto",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Datamine FLUX": {
     "name": "Datamine FLUX",
@@ -39628,7 +39833,10 @@
     ],
     "deaths": [
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Datarius Credit": {
     "name": "Datarius Credit",
@@ -39717,7 +39925,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Datawallet": {
     "name": "Datawallet",
@@ -39745,7 +39956,10 @@
       "20210318",
       "20210319",
       "20210323"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Datum": {
     "name": "Datum",
@@ -39762,16 +39976,23 @@
     "forked_data": [
       "https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
       "https://ethplorer.io/address/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Davies": {
     "name": "Davies",
     "short": "DVS",
     "url": "/currencies/davies",
     "tags": [
-      "Coin",
+      "Token",
+      "Ethereum Contract",
       "NoLicenceFile",
       "Dead"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xdcbcffeee34eb128336fd45ed62fe8f420c8857d"
     ],
     "git": "https://github.com/devdavies",
     "deaths": [
@@ -39782,7 +40003,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Davinci Coin": {
     "name": "Davinci Coin",
@@ -39799,7 +40023,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xaad54c9f27b876d2538455dda69207279ff673a5",
       "https://ethplorer.io/address/0xaad54c9f27b876d2538455dda69207279ff673a5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Davincij15 Token": {
     "name": "Davincij15 Token",
@@ -39815,7 +40042,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9",
       "https://ethplorer.io/address/0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Davion": {
     "name": "Davion",
@@ -39829,7 +40059,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5d56962db8e35197f8e50d76f1f9285a6d7d7619",
       "https://ethplorer.io/address/0x5d56962db8e35197f8e50d76f1f9285a6d7d7619"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dawn Protocol": {
     "name": "Dawn Protocol",
@@ -39843,7 +40076,10 @@
       "https://etherscan.io/token/0x580c8520deda0a441522aeae0f9f7a5f29629afa",
       "https://ethplorer.io/address/0x580c8520deda0a441522aeae0f9f7a5f29629afa"
     ],
-    "git": "https://github.com/Dawn-Protocol"
+    "git": "https://github.com/Dawn-Protocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dcoin Token": {
     "name": "Dcoin Token",
@@ -39852,7 +40088,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeCash": {
     "name": "DeCash",
@@ -39866,7 +40105,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xA740684C9022dc07540031b10dD57984640bAbef",
       "https://ethplorer.io/address/0xA740684C9022dc07540031b10dD57984640bAbef"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Bids": {
     "name": "DeFi Bids",
@@ -39885,7 +40127,10 @@
     "deaths": [
       "20210223",
       "20210224"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Firefly": {
     "name": "DeFi Firefly",
@@ -39937,7 +40182,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFi Gold": {
     "name": "DeFi Gold",
@@ -39951,7 +40199,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
       "https://ethplorer.io/address/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Insurance Protocol": {
     "name": "DeFi Insurance Protocol",
@@ -39965,7 +40216,10 @@
       "https://etherscan.io/token/0xd89A909648e28e8352b63b78007f7fF144f434E9",
       "https://ethplorer.io/address/0xd89a909648e28e8352b63b78007f7ff144f434e9?from=search"
     ],
-    "git": "https://github.com/modagavr/DFIP"
+    "git": "https://github.com/modagavr/DFIP",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFi Nation Signals DAO": {
     "name": "DeFi Nation Signals DAO",
