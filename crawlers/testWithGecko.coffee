@@ -36,7 +36,18 @@ Promise.each (_.values(cryptos)), (crypto) ->
             if contract?
               unless contract.contract in crypto.tags
                 if res.asset_platform_id is 'ethereum' and res.links?.blockchain_site?[0]?
+                  crypto.tags = _.without crypto.tags, "Coin"
+                  crypto.tags.push("Token")
                   crypto.tags.push("Ethereum Contract")
+                  crypto.tags = _.uniq crypto.tags
+                  crypto.forked_data = []
+                  crypto.forked_data.push(res.links.blockchain_site[0])
+                  console.log "  Ajout ->", (JSON.stringify crypto,null, 2)
+                else if res.asset_platform_id is 'tron' and res.links?.blockchain_site?[0]?
+                  crypto.tags = _.without crypto.tags, "Coin"
+                  crypto.tags.push("Token")
+                  crypto.tags.push("Tron Contract")
+                  crypto.tags = _.uniq crypto.tags
                   crypto.forked_data = []
                   crypto.forked_data.push(res.links.blockchain_site[0])
                   console.log "  Ajout ->", (JSON.stringify crypto,null, 2)
