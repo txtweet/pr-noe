@@ -257,6 +257,13 @@
     ],
     "contract": "Telos Contract",
     "gecko_asset_platform_id": "telos"
+  },
+  {
+    "urls": [
+      "https://explorer.sero.cash/"
+    ],
+    "contract": "SuperSero Contract",
+    "gecko_asset_platform_id": "super-zero"
   }
 
 ]

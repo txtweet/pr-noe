@@ -58432,15 +58432,6 @@
       "found": true
     }
   },
-  "FxTC Core": {
-    "name": "FxTC Core",
-    "git": "https://github.com/fxtc/fxtc",
-    "tags": [
-      "External",
-      "BitcoinL",
-      "FxTC CoreL"
-    ]
-  },
   "Fyooz": {
     "name": "Fyooz",
     "short": "FYZ",
@@ -58453,7 +58444,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
       "https://ethplorer.io/address/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "G999": {
     "name": "G999",
@@ -58465,7 +58459,10 @@
       "Token"
     ],
     "sawBirth": "20210212",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GALAXY NETWORK": {
     "name": "GALAXY NETWORK",
@@ -58474,7 +58471,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GAMB": {
     "name": "GAMB",
@@ -58488,7 +58488,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee",
       "https://etherscan.io/address/0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GAPS": {
     "name": "GAPS",
@@ -58504,7 +58507,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xcd8544defedec7c6b60b5a4232320365b1b21fcc",
       "https://ethplorer.io/address/0xcd8544defedec7c6b60b5a4232320365b1b21fcc"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GARD Governance Token": {
     "name": "GARD Governance Token",
@@ -58522,7 +58528,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GCN Coin": {
     "name": "GCN Coin",
@@ -58534,7 +58543,10 @@
       "PoW",
       "Scrypt",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GET Protocol": {
     "name": "GET Protocol",
@@ -58549,7 +58561,10 @@
       "https://etherscan.io/token/0x8a854288a5976036a725879164ca3e91d30c6a1b",
       "https://ethplorer.io/address/0x8a854288a5976036a725879164ca3e91d30c6a1b"
     ],
-    "git": "https://github.com/getprotocol"
+    "git": "https://github.com/getprotocol",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GGDApp": {
     "name": "GGDApp",
@@ -58584,7 +58599,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GHOST": {
     "name": "GHOST",
@@ -58597,7 +58615,10 @@
       "RingCT",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ghost-coin"
+    "git": "https://github.com/ghost-coin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GHOSTPRISM": {
     "name": "GHOSTPRISM",
@@ -58607,7 +58628,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/GhostXPrism/GhostPrism-Coin/releases"
+    "git": "https://github.com/GhostXPrism/GhostPrism-Coin/releases",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GINcoin": {
     "name": "GINcoin",
@@ -58671,7 +58695,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GIVLY Coin": {
     "name": "GIVLY Coin",
@@ -58680,16 +58707,12 @@
     "tags": [
       "Token",
       "Binance Contract",
-      "Dead"
+      "Dead",
+      "Ethereum Contract"
     ],
-    "forked_data": {
-      "block": [
-        "GIV-94E"
-      ],
-      "forked_from": [
-        "Binance"
-      ]
-    },
+    "forked_data": [
+      "https://etherscan.io/token/0xf6537fe0df7f0cc0985cf00792cc98249e73efa0"
+    ],
     "deaths": [
       "20201201",
       "20201215",
@@ -58710,7 +58733,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GLOBALTRUSTFUND TOKEN": {
     "name": "GLOBALTRUSTFUND TOKEN",
@@ -58756,7 +58782,10 @@
       "20210310",
       "20210317",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GLOBEX": {
     "name": "GLOBEX",
@@ -58849,7 +58878,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GM Holding": {
     "name": "GM Holding",
@@ -58862,7 +58894,10 @@
     "forked_data": [
       "http://dev.pywaves.org/assets/GCcQTo78M7GTMCKFmn4qULtw79SQfUio1cy8ZX1QjjLi"
     ],
-    "git": "https://github.com/Brunoziye/GM"
+    "git": "https://github.com/Brunoziye/GM",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GMB": {
     "name": "GMB",
@@ -58883,7 +58918,10 @@
     },
     "deaths": [
       "20210218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GNY": {
     "name": "GNY",
@@ -58899,7 +58937,10 @@
       "https://etherscan.io/token/0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4",
       "https://ethplorer.io/address/0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4"
     ],
-    "git": "https://github.com/GNYIO/"
+    "git": "https://github.com/GNYIO/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GOD KIMCHI": {
     "name": "GOD KIMCHI",
@@ -58977,7 +59018,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GOGO.finance": {
     "name": "GOGO.finance",
@@ -58992,7 +59036,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17",
       "https://ethplorer.io/address/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GOT Token": {
     "name": "GOT Token",
@@ -59048,7 +59095,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GRAP": {
     "name": "GRAP",
@@ -59094,7 +59144,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GSENetwork": {
     "name": "GSENetwork",
@@ -59122,7 +59175,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GSPI Shopping.io Governance": {
     "name": "GSPI Shopping.io Governance",
@@ -59136,7 +59192,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/token/0xb42e1c3902b85b410334f5fff79cdc51fbee6950"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GXChain": {
     "name": "GXChain",
@@ -59148,7 +59207,10 @@
       "Decentralized exchange",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/gxchain"
+    "git": "https://github.com/gxchain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GYEN": {
     "name": "GYEN",
@@ -59162,7 +59224,10 @@
     "git": "https://github.com/trust-zcom/gmotrust-stablecoin-contract",
     "forked_data": [
       "https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GYSR": {
     "name": "GYSR",
@@ -59176,7 +59241,10 @@
       "https://etherscan.io/token/0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
       "https://etherscan.io/address/0xCAda3423d33259A94C1ED1A7AEEcb73B87D0B684"
     ],
-    "git": "https://github.com/gysr-io"
+    "git": "https://github.com/gysr-io",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gadoshi": {
     "name": "Gadoshi",
@@ -59190,7 +59258,10 @@
     "sawBirth": "20210226",
     "forked_data": [
       "https://bscscan.com/token/0x619b20c554df4f915173a0f4f34c82e6c2cd944d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gains Farm v2": {
     "name": "Gains Farm v2",
@@ -59206,7 +59277,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x831091dA075665168E01898c6DAC004A867f1e1B",
       "https://ethplorer.io/address/0x831091dA075665168E01898c6DAC004A867f1e1B"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gala": {
     "name": "Gala",
@@ -59220,7 +59294,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
       "https://ethplorer.io/address/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Galactrum": {
     "name": "Galactrum",
@@ -59242,7 +59319,10 @@
       "20210225",
       "20210228"
     ],
-    "git": "https://github.com/galactrum/galactrum"
+    "git": "https://github.com/galactrum/galactrum",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Galatasaray Fan Token": {
     "name": "Galatasaray Fan Token",
@@ -59261,7 +59341,10 @@
     "deaths": [
       "20201213",
       "20201214"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Galaxy Pool Coin": {
     "name": "Galaxy Pool Coin",
@@ -59316,7 +59399,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Galaxy Wallet": {
     "name": "Galaxy Wallet",
@@ -59330,7 +59416,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x486a72811ae65c4c814ba929d6da35497d21296f",
       "https://ethplorer.io/address/0x486a72811ae65c4c814ba929d6da35497d21296f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Galilel": {
     "name": "Galilel",
@@ -59360,7 +59449,10 @@
       "20210324",
       "20210326"
     ],
-    "git": "https://github.com/Galilel-Project"
+    "git": "https://github.com/Galilel-Project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gallery Finance": {
     "name": "Gallery Finance",
@@ -59403,7 +59495,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Game Ark": {
     "name": "Game Ark",
@@ -59437,7 +59532,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Game.com": {
     "name": "Game.com",
@@ -59452,7 +59550,10 @@
       "https://etherscan.io/token/0xB70835D7822eBB9426B56543E391846C107bd32C",
       "https://ethplorer.io/address/0xb70835d7822ebb9426b56543e391846c107bd32c"
     ],
-    "git": "https://github.com/GameLeLe"
+    "git": "https://github.com/GameLeLe",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GameCredits": {
     "name": "GameCredits",
@@ -59467,7 +59568,10 @@
       "https://etherscan.io/token/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
       "https://ethplorer.io/address/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
     ],
-    "git": "https://github.com/gamecredits-project"
+    "git": "https://github.com/gamecredits-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GameStop tokenized stock FTX": {
     "name": "GameStop tokenized stock FTX",
@@ -59480,7 +59584,10 @@
       "Token"
     ],
     "sawBirth": "20210128",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gameswap": {
     "name": "Gameswap",
@@ -59496,7 +59603,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xaac41ec512808d64625576eddd580e7ea40ef8b2",
       "https://ethplorer.io/address/0xaac41ec512808d64625576eddd580e7ea40ef8b2"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Garlicoin": {
     "name": "Garlicoin",
@@ -59508,7 +59618,10 @@
       "BitcoinL",
       "Garlicoin CoreL"
     ],
-    "git": "https://github.com/GarlicoinOrg/Garlicoin"
+    "git": "https://github.com/GarlicoinOrg/Garlicoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gas": {
     "name": "Gas",
@@ -59526,7 +59639,10 @@
       "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
       "https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
       "https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gas Token Two": {
     "name": "Gas Token Two",
@@ -59541,7 +59657,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0000000000b3f879cb30fe243b4dfee438691c04",
       "https://ethplorer.io/address/0x0000000000b3f879cb30fe243b4dfee438691c04"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gasgains": {
     "name": "Gasgains",
@@ -59556,7 +59675,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc58467b855401ef3ff8fda9216f236e29f0d6277",
       "https://ethplorer.io/address/0xc58467b855401ef3ff8fda9216f236e29f0d6277"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GateToken": {
     "name": "GateToken",
@@ -59573,7 +59695,10 @@
       "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
       "https://ethplorer.io/address/0xe66747a101bff2dba3697199dcce5b743b454759"
     ],
-    "git": "https://github.com/gatechain"
+    "git": "https://github.com/gatechain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gather": {
     "name": "Gather",
@@ -59587,7 +59712,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
       "https://ethplorer.io/address/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gatherer": {
     "name": "Gatherer",
@@ -59608,7 +59736,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GazeCoin": {
     "name": "GazeCoin",
@@ -59681,7 +59812,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gbrick": {
     "name": "Gbrick",
@@ -59691,7 +59825,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/gbxcoin"
+    "git": "https://github.com/gbxcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Geeq": {
     "name": "Geeq",
@@ -59705,7 +59842,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
       "https://ethplorer.io/address/0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gem Exchange And Trading": {
     "name": "Gem Exchange And Trading",
@@ -59719,7 +59859,10 @@
       "https://etherscan.io/token/0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7",
       "https://ethplorer.io/address/0x28d3e409bb9bc58f1ca6e009f8fc78a1db85e6b7"
     ],
-    "git": "https://github.com/gxtmg"
+    "git": "https://github.com/gxtmg",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gemini Dollar": {
     "name": "Gemini Dollar",
@@ -59737,7 +59880,10 @@
       "https://ethplorer.io/address/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
       "https://blockchair.com/ethereum/erc-20/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
     ],
-    "git": "https://github.com/gemini/dollar"
+    "git": "https://github.com/gemini/dollar",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gems ": {
     "name": "Gems ",
@@ -59766,7 +59912,10 @@
       "20210324",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Genaro Network": {
     "name": "Genaro Network",
@@ -59783,7 +59932,10 @@
       "https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
       "https://ethplorer.io/address/0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
     ],
-    "git": "https://github.com/GenaroNetwork"
+    "git": "https://github.com/GenaroNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gene Source Code Chain": {
     "name": "Gene Source Code Chain",
@@ -59797,7 +59949,10 @@
       "https://etherscan.io/token/0x884181554dfa9e578d36379919c05c25dc4a15bb",
       "https://ethplorer.io/address/0x884181554dfa9e578d36379919c05c25dc4a15bb"
     ],
-    "git": "https://github.com/GeneSourceCodeChain"
+    "git": "https://github.com/GeneSourceCodeChain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "General Attention Currency": {
     "name": "General Attention Currency",
@@ -59835,7 +59990,10 @@
       "20210119",
       "20210120",
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Genesis Vision": {
     "name": "Genesis Vision",
@@ -59850,7 +60008,10 @@
       "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
       "https://ethplorer.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
     ],
-    "git": "https://github.com/GenesisVision"
+    "git": "https://github.com/GenesisVision",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GenesisX": {
     "name": "GenesisX",
@@ -59906,7 +60067,10 @@
       "20210322",
       "20210328"
     ],
-    "git": "https://github.com/genesis-x/genesis-x/releases"
+    "git": "https://github.com/genesis-x/genesis-x/releases",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gentarium": {
     "name": "Gentarium",
@@ -59925,7 +60089,10 @@
       "20210309",
       "20210326"
     ],
-    "git": "https://github.com/genterium-project/gentarium"
+    "git": "https://github.com/genterium-project/gentarium",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GeoCoin": {
     "name": "GeoCoin",
@@ -59938,7 +60105,10 @@
     ],
     "forked_data": [
       "https://ubiqscan.io/token/0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GeoDB": {
     "name": "GeoDB",
@@ -59963,7 +60133,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x147faf8de9d8d8daae129b187f0d02d819126750",
       "https://ethplorer.io/address/0x147faf8de9d8d8daae129b187f0d02d819126750"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gera Coin": {
     "name": "Gera Coin",
@@ -59978,7 +60151,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
       "https://ethplorer.io/address/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GermanCoin": {
     "name": "GermanCoin",
@@ -60018,7 +60194,10 @@
       "20210318",
       "20210320",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gexan": {
     "name": "Gexan",
@@ -60043,7 +60222,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GeyserCoin": {
     "name": "GeyserCoin",
@@ -60067,7 +60249,10 @@
       "20210212",
       "20210213"
     ],
-    "git": "https://github.com/geysercoin/geysercoin"
+    "git": "https://github.com/geysercoin/geysercoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Giant": {
     "name": "Giant",
@@ -60088,7 +60273,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Giftedhands": {
     "name": "Giftedhands",
@@ -60105,7 +60293,10 @@
       "https://etherscan.io/token/0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9",
       "https://ethplorer.io/address/0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9",
       "https://bscscan.com/token/0xf1482f1000eae7c704cf05d681ef26420d26ea45"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gifto": {
     "name": "Gifto",
@@ -60124,7 +60315,10 @@
       "https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d",
       "https://explorer.binance.org/asset/GTO-908"
     ],
-    "git": "https://github.com/GIFTO-io"
+    "git": "https://github.com/GIFTO-io",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gire Token": {
     "name": "Gire Token",
@@ -60132,12 +60326,12 @@
     "url": "/currencies/gire-token",
     "tags": [
       "Token",
-      "Dead"
+      "Dead",
+      "Tron Contract"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "https://tronscan.org/#/token/1003286"
+    ],
     "deaths": [
       "20201130",
       "20201203",
@@ -60204,7 +60398,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gladius Finance": {
     "name": "Gladius Finance",
@@ -60253,7 +60450,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gleec": {
     "name": "Gleec",
@@ -60263,7 +60463,10 @@
       "Coin",
       "GleecBTCL"
     ],
-    "git": "https://github.com/Gleecs/GleecBTC-FullNode-Win-Mac-Linux"
+    "git": "https://github.com/Gleecs/GleecBTC-FullNode-Win-Mac-Linux",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Glitch": {
     "name": "Glitch",
@@ -60278,7 +60481,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x038a68ff68c393373ec894015816e33ad41bd564",
       "https://ethplorer.io/address/0x038a68ff68c393373ec894015816e33ad41bd564"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Global AEX Token": {
     "name": "Global AEX Token",
@@ -60294,7 +60500,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x24efe6b87bf1bfe9ea2ccb5a9d0a959c7172b364",
       "https://bts.ai/asset/GAT"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global China Cash": {
     "name": "Global China Cash",
@@ -60303,12 +60512,15 @@
     "tags": [
       "NoGitHub",
       "Token",
-      "Bitshares Contract"
+      "Bitshare Contract"
     ],
     "sawBirth": "20210306",
     "forked_data": [
       "https://bts.ai/asset/CNC"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Crypto Alliance": {
     "name": "Global Crypto Alliance",
@@ -60322,7 +60534,10 @@
       "https://etherscan.io/token/0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
       "https://ethplorer.io/address/0xbbe761ea1447a20b75aa485b7bcad4837415d7d7"
     ],
-    "git": "https://github.com/Global-Crypto-Alliance/call-token"
+    "git": "https://github.com/Global-Crypto-Alliance/call-token",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Cryptocurrency": {
     "name": "Global Cryptocurrency",
@@ -60358,7 +60573,10 @@
       "20210322",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Global Currency Reserve": {
     "name": "Global Currency Reserve",
@@ -60422,7 +60640,10 @@
       "20210324",
       "20210326"
     ],
-    "git": "https://github.com/globalcurrencyreserve/gcr"
+    "git": "https://github.com/globalcurrencyreserve/gcr",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Global Digital Content": {
     "name": "Global Digital Content",
@@ -60450,7 +60671,10 @@
       "20210308",
       "20210309",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Game Coin": {
     "name": "Global Game Coin",
@@ -60467,6 +60691,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": false
     }
   },
   "Global Gaming": {
@@ -60480,7 +60707,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xcf81e6fdb8d7a743c3d4c3542a5356ff197ea1c0"
     ],
-    "git": "https://github.com/crobinsonoc/GlobalGaming-/commit/f6a970bec91696f427a58570678ca111e4c9ce2f"
+    "git": "https://github.com/crobinsonoc/GlobalGaming-/commit/f6a970bec91696f427a58570678ca111e4c9ce2f",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Human Trust": {
     "name": "Global Human Trust",
@@ -60494,7 +60724,10 @@
       "https://etherscan.io/token/0xbe30f684d62c9f7883a75a29c162c332c0d98f23",
       "https://ethplorer.io/address/0xbe30f684d62c9f7883a75a29c162c332c0d98f23"
     ],
-    "git": "https://github.com/ght-dtsgroup"
+    "git": "https://github.com/ght-dtsgroup",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Rental Token": {
     "name": "Global Rental Token",
@@ -60518,7 +60751,10 @@
       "20201213",
       "20201214",
       "20201215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Global Reserve System": {
     "name": "Global Reserve System",
@@ -60595,7 +60831,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Social Chain": {
     "name": "Global Social Chain",
@@ -60609,7 +60848,10 @@
       "https://etherscan.io/token/0x228ba514309ffdf03a81a205a6d040e429d6e80c",
       "https://ethplorer.io/address/0x228ba514309ffdf03a81a205a6d040e429d6e80c"
     ],
-    "git": "https://github.com/gscsocial/gsc-core"
+    "git": "https://github.com/gscsocial/gsc-core",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global Utility Smart Digital Token": {
     "name": "Global Utility Smart Digital Token",
@@ -60624,7 +60866,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3242aebcdcf8de491004b1c98e6595e9827f6c17",
       "https://ethplorer.io/address/0x3242aebcdcf8de491004b1c98e6595e9827f6c17"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Global X Change Token": {
     "name": "Global X Change Token",
@@ -60670,7 +60915,10 @@
       "20210309",
       "20210321",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GlobalBoost-Y": {
     "name": "GlobalBoost-Y",
@@ -60683,7 +60931,10 @@
       "Yescript",
       "BitcoinL"
     ],
-    "git": "https://github.com/GlobalBoost/GlobalBoost-Y"
+    "git": "https://github.com/GlobalBoost/GlobalBoost-Y",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GlobalToken": {
     "name": "GlobalToken",
@@ -60710,7 +60961,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Globalvillage Ecosystem": {
     "name": "Globalvillage Ecosystem",
@@ -60724,7 +60978,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x81705082ef9f0d660f07be80093d46d826d48b25",
       "https://ethplorer.io/address/0x81705082ef9f0d660f07be80093d46d826d48b25"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Glox Finance": {
     "name": "Glox Finance",
@@ -60739,7 +60996,10 @@
     "git": "https://github.com/GloxFinance",
     "forked_data": [
       "https://etherscan.io/token/0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gnosis": {
     "name": "Gnosis",
@@ -60756,7 +61016,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96",
       "https://ethplorer.io/address/0x6810e776880c02933d47db1b9fc05908e5386b96"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GoByte": {
     "name": "GoByte",
@@ -60776,7 +61039,10 @@
       "DashL",
       "GoByte CoreL"
     ],
-    "git": "https://github.com/gobytecoin/gobyte/"
+    "git": "https://github.com/gobytecoin/gobyte/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoChain": {
     "name": "GoChain",
@@ -60785,7 +61051,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoCrypto Token": {
     "name": "GoCrypto Token",
@@ -60795,7 +61064,10 @@
       "Token"
     ],
     "explorer": "https://simpleledger.info/#token/3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500",
-    "git": "https://github.com/Eligma"
+    "git": "https://github.com/Eligma",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GoHelpFund": {
     "name": "GoHelpFund",
@@ -60829,7 +61101,10 @@
       "20210323",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GoNetwork": {
     "name": "GoNetwork",
@@ -60844,7 +61119,10 @@
       "https://etherscan.io/token/0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
       "https://ethplorer.io/address/0x423b5f62b328d0d6d44870f4eee316befa0b2df5"
     ],
-    "git": "https://github.com/gonetwork-project/gonetwork-framework"
+    "git": "https://github.com/gonetwork-project/gonetwork-framework",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoPower": {
     "name": "GoPower",
@@ -60887,7 +61165,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GoSwapp": {
     "name": "GoSwapp",
@@ -60901,7 +61182,10 @@
     "sawBirth": "20210319",
     "forked_data": [
       "https://bscscan.com/token/0x6B8227A0E18bd35A10849601dB194B24aAB2C8ea"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoWithMi": {
     "name": "GoWithMi",
@@ -60918,7 +61202,10 @@
       "https://etherscan.io/token/0xa110eeebc0751407bdcaea4cd230f04a2b82a33a",
       "https://explorer.binance.org/asset/GMAT-FC8"
     ],
-    "git": "https://github.com/GoWithMi"
+    "git": "https://github.com/GoWithMi",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoalTime N": {
     "name": "GoalTime N",
@@ -60975,7 +61262,10 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GokuMarket Credit": {
     "name": "GokuMarket Credit",
@@ -60997,7 +61287,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa6272359bc37f61AF398071B65C8934ACA744d53",
       "https://ethplorer.io/address/0xa6272359bc37f61AF398071B65C8934ACA744d53"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gold BCR": {
     "name": "Gold BCR",
@@ -61045,7 +61338,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gold Coin Reserve": {
     "name": "Gold Coin Reserve",
@@ -61060,7 +61356,10 @@
       "https://etherscan.io/token/0x37F6F8eb409DEB9fEAf032c109A72319F665C79D",
       "https://ethplorer.io/address/0x37f6f8eb409deb9feaf032c109a72319f665c79d"
     ],
-    "git": "https://github.com/goldcoinreserve"
+    "git": "https://github.com/goldcoinreserve",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gold Poker": {
     "name": "Gold Poker",
@@ -61090,7 +61389,10 @@
       "20210323",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoldBlocks": {
     "name": "GoldBlocks",
@@ -61177,7 +61479,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/goldblockscoin/goldblocks"
+    "git": "https://github.com/goldblockscoin/goldblocks",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoldFinX": {
     "name": "GoldFinX",
@@ -61227,7 +61532,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoldFund": {
     "name": "GoldFund",
@@ -61260,16 +61568,20 @@
       "20210322",
       "20210323",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GoldMint": {
     "name": "GoldMint",
     "short": "MNTP",
     "url": "/currencies/goldmint",
     "tags": [
-      "Coin",
       "NoLicenceFile",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract"
     ],
     "git": "https://github.com/Goldmint",
     "deaths": [
@@ -61287,6 +61599,12 @@
       "20210322",
       "20210323",
       "20210325"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    },
+    "forked_data": [
+      "https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc"
     ]
   },
   "Goldblock": {
@@ -61301,7 +61619,10 @@
       "https://etherscan.io/token/0x3e522d144814bd6149c1f3e0c6cd19d0941372ac",
       "https://ethplorer.io/address/0x3e522d144814bd6149c1f3e0c6cd19d0941372ac"
     ],
-    "git": "https://github.com/Goldblock-gbk/GBK"
+    "git": "https://github.com/Goldblock-gbk/GBK",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Goldcoin": {
     "name": "Goldcoin",
@@ -61314,7 +61635,10 @@
       "Scrypt",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/goldcoin/"
+    "git": "https://github.com/goldcoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Golden Goose": {
     "name": "Golden Goose",
@@ -61329,7 +61653,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817",
       "https://ethplorer.io/address/0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Golden Ratio Coin": {
     "name": "Golden Ratio Coin",
@@ -61342,7 +61669,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0xcfE4F03C3AFbB9857b29fC706180Bf0044900D59"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Golden Ratio Per Liquidity": {
     "name": "Golden Ratio Per Liquidity",
@@ -61383,7 +61713,10 @@
       "20210319",
       "20210320",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Golden Ratio Token": {
     "name": "Golden Ratio Token",
@@ -61468,7 +61801,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Golden Token": {
     "name": "Golden Token",
@@ -61482,7 +61818,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11",
       "https://ethplorer.io/address/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GoldenPyrex": {
     "name": "GoldenPyrex",
@@ -61503,7 +61842,10 @@
       "20210226",
       "20210324",
       "20210324"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Golem": {
     "name": "Golem",
@@ -61522,7 +61864,10 @@
       "https://etherscan.io/token/Golem",
       "https://ethplorer.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
     ],
-    "git": "https://github.com/golemfactory/golem"
+    "git": "https://github.com/golemfactory/golem",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Golff": {
     "name": "Golff",
@@ -61536,7 +61881,10 @@
       "https://etherscan.io/token/0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
       "https://ethplorer.io/address/0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c"
     ],
-    "git": "https://github.com/golfffinance/"
+    "git": "https://github.com/golfffinance/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Golos Blockchain": {
     "name": "Golos Blockchain",
@@ -61561,7 +61909,10 @@
       "20210321",
       "20210322"
     ],
-    "git": "https://github.com/golos-blockchain"
+    "git": "https://github.com/golos-blockchain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gomics": {
     "name": "Gomics",
@@ -61594,7 +61945,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Google tokenized stock Bittrex": {
     "name": "Google tokenized stock Bittrex",
@@ -61605,7 +61959,10 @@
       "Bittrex",
       "Token"
     ],
-    "sawBirth": "20201209"
+    "sawBirth": "20201209",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Google tokenized stock FTX": {
     "name": "Google tokenized stock FTX",
@@ -61616,7 +61973,10 @@
       "Ftx",
       "Token"
     ],
-    "sawBirth": "20201209"
+    "sawBirth": "20201209",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Goose Finance": {
     "name": "Goose Finance",
@@ -61632,7 +61992,10 @@
     "git": "https://github.com/goosedefi/",
     "forked_data": [
       "https://bscscan.com/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GorillaYield": {
     "name": "GorillaYield",
@@ -61647,7 +62010,10 @@
     "sawBirth": "20210219",
     "forked_data": [
       "https://bscscan.com/token/0x64b783a80d0c05bed0e2f1a638465a7ba3f4a6fb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gossip Coin": {
     "name": "Gossip Coin",
@@ -61674,7 +62040,10 @@
       "20210309",
       "20210320"
     ],
-    "git": "https://github.com/g0ssipcoin/GossipCoinCore"
+    "git": "https://github.com/g0ssipcoin/GossipCoinCore",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gourmet Galaxy": {
     "name": "Gourmet Galaxy",
@@ -61691,7 +62060,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
       "https://ethplorer.io/address/0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Governor DAO": {
     "name": "Governor DAO",
@@ -61706,7 +62078,10 @@
       "https://etherscan.io/token/0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
       "https://ethplorer.io/address/0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
     ],
-    "git": "https://github.com/zhhuffman/Governor"
+    "git": "https://github.com/zhhuffman/Governor",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Govi": {
     "name": "Govi",
@@ -61721,7 +62096,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
       "https://ethplorer.io/address/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Grace Period Token": {
     "name": "Grace Period Token",
@@ -61730,7 +62108,10 @@
     "tags": [
       "Token"
     ],
-    "sawBirth": "20201211"
+    "sawBirth": "20201211",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GrafSound": {
     "name": "GrafSound",
@@ -61744,7 +62125,10 @@
       "https://etherscan.io/token/0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0",
       "https://ethplorer.io/address/0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0"
     ],
-    "git": "https://github.com/suusofttruongnv/"
+    "git": "https://github.com/suusofttruongnv/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Graft": {
     "name": "Graft",
@@ -61782,7 +62166,10 @@
       "20210321",
       "20210325"
     ],
-    "git": "https://github.com/graft-project"
+    "git": "https://github.com/graft-project",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Grain": {
     "name": "Grain",
@@ -61815,7 +62202,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Graviocoin": {
     "name": "Graviocoin",
@@ -61832,7 +62222,10 @@
       "20201201",
       "20201203",
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gravity": {
     "name": "Gravity",
@@ -61903,7 +62296,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/GZR0/GRZ0"
+    "git": "https://github.com/GZR0/GRZ0",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "GravityCoin": {
     "name": "GravityCoin",
@@ -61916,7 +62312,10 @@
       "Lyra2RE",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/SpecialCoins/GravityCoin/"
+    "git": "https://github.com/SpecialCoins/GravityCoin/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Grayscale Bitcoin Trust tokenized stock FTX": {
     "name": "Grayscale Bitcoin Trust tokenized stock FTX",
@@ -61929,7 +62328,10 @@
       "Token"
     ],
     "sawBirth": "20210128",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GreenPower": {
     "name": "GreenPower",
@@ -61939,7 +62341,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/green-powerchain-ltd"
+    "git": "https://github.com/green-powerchain-ltd",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Greenheart Punt": {
     "name": "Greenheart Punt",
@@ -61989,7 +62394,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gric Coin": {
     "name": "Gric Coin",
@@ -62003,7 +62411,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x720c2c93F5f9A6b82226e84095558B10F399b0FA",
       "https://ethplorer.io/address/0x720c2c93F5f9A6b82226e84095558B10F399b0FA"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Grid+": {
     "name": "Grid+",
@@ -62018,7 +62429,10 @@
       "https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
       "https://ethplorer.io/address/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
     ],
-    "git": "https://github.com/gridplus"
+    "git": "https://github.com/gridplus",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gridcoin": {
     "name": "Gridcoin",
@@ -62035,7 +62449,10 @@
       "BitcoinL",
       "GridcoinL"
     ],
-    "git": "https://github.com/gridcoin/Gridcoin-Research"
+    "git": "https://github.com/gridcoin/Gridcoin-Research",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Grimm": {
     "name": "Grimm",
@@ -62045,7 +62462,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/freenetcoder/grimm"
+    "git": "https://github.com/freenetcoder/grimm",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Grin": {
     "name": "Grin",
@@ -62058,7 +62478,10 @@
       "Privacy",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/mimblewimble"
+    "git": "https://github.com/mimblewimble",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Groestlcoin": {
     "name": "Groestlcoin",
@@ -62072,7 +62495,10 @@
       "Medium of Exchange",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Groestlcoin"
+    "git": "https://github.com/Groestlcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Grom": {
     "name": "Grom",
@@ -62106,7 +62532,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Groovy Finance": {
     "name": "Groovy Finance",
@@ -62158,7 +62587,10 @@
       "20210325",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Growth DeFi": {
     "name": "Growth DeFi",
@@ -62176,7 +62608,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
       "https://ethplorer.io/address/0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Grumpy Cat": {
     "name": "Grumpy Cat",
@@ -62191,7 +62626,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b",
       "https://ethplorer.io/address/0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Gstcoin": {
     "name": "Gstcoin",
@@ -62201,7 +62639,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/gstchain/gst"
+    "git": "https://github.com/gstchain/gst",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Guapcoin": {
     "name": "Guapcoin",
@@ -62217,7 +62658,10 @@
       "PIVXL",
       "GuapcoinL"
     ],
-    "git": "https://github.com/guapcrypto/Guapcoin"
+    "git": "https://github.com/guapcrypto/Guapcoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Guaranteed Ethurance Token Extra": {
     "name": "Guaranteed Ethurance Token Extra",
@@ -62251,7 +62695,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "GuccioneCoin": {
     "name": "GuccioneCoin",
@@ -62321,7 +62768,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Guider": {
     "name": "Guider",
@@ -62335,7 +62785,10 @@
       "https://etherscan.io/token/0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0",
       "https://ethplorer.io/address/0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0"
     ],
-    "git": "https://github.com/GuiderDev/token/blob/master/smart"
+    "git": "https://github.com/GuiderDev/token/blob/master/smart",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Gulden": {
     "name": "Gulden",
@@ -62349,7 +62802,10 @@
       "SIGMA",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Gulden/gulden-official"
+    "git": "https://github.com/Gulden/gulden-official",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HAPI": {
     "name": "HAPI",
@@ -62366,7 +62822,10 @@
     "forked_data": [
       "https://etherscan.io/address/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
       "https://bscscan.com/address/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HAPY Coin": {
     "name": "HAPY Coin",
@@ -62374,9 +62833,12 @@
     "url": "/currencies/hapy-coin",
     "tags": [
       "Token",
-      "NoGitHub"
+      "NoGitHub",
+      "SuperSero Contract"
     ],
-    "forked_data": []
+    "forked_data": [
+      "3JQjDAqXxD8uPb4dKKxnazo18EyeZqwvaoLotGhDtH5e5P28Fu7Fu5ozZeJSJ8v7qdJPif9bxKz3mUXQ16nz3MpE"
+    ]
   },
   "HARD Protocol": {
     "name": "HARD Protocol",
