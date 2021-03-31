@@ -187,6 +187,7 @@
       "https://vechainstats.com/account",
       "https://explore.veforge.com/tokens"
     ],
+    "gecko_asset_platform_id": "vechain",
     "contract": "VeChain Contract"
   },
   {
@@ -217,7 +218,8 @@
   {
     "urls": [
       "https://polkadot.",
-      "https://scan.chainx.org/"
+      "https://scan.chainx.org/",
+      "http://edgeware.subscan.io"
     ],
     "contract": "Polkadot Contract",
     "gecko_asset_platform_id": "polkadot"

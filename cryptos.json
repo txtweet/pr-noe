@@ -48736,14 +48736,20 @@
     "short": "EDG",
     "url": "/currencies/edgeware",
     "tags": [
-      "Coin",
+      "Token",
       "Smart Contracts",
       "DAO",
       "Substrate",
-      "Polkadot",
+      "Polkadot Contract",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/hicommonwealth/edgeware-node"
+    "git": "https://github.com/hicommonwealth/edgeware-node",
+    "forked_data": [
+      "http://edgeware.subscan.io"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EduCoin": {
     "name": "EduCoin",
@@ -48757,7 +48763,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c",
       "https://ethplorer.io/address/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "EduMetrix Coin": {
     "name": "EduMetrix Coin",
@@ -48770,7 +48779,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0a425122852ed351946a828b348bfdcda51effd8"
     ],
-    "git": "https://github.com/EduMetrixCoin/EduMetrix/tree/master"
+    "git": "https://github.com/EduMetrixCoin/EduMetrix/tree/master",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Education Ecosystem": {
     "name": "Education Ecosystem",
@@ -48785,7 +48797,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xc741f06082aa47f93729070ad0dd95e223bda091",
       "http://ethplorer.io/address/0xc741f06082aa47f93729070ad0dd95e223bda091"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Effect.AI": {
     "name": "Effect.AI",
@@ -48800,7 +48815,10 @@
       "https://neotracker.io/asset/acbc532904b6b51b5ea6d19b803d78af70e7e6f9",
       "https://www.eosx.io/account/effecttokens?partner=coinmarketcap"
     ],
-    "git": "https://github.com/effectai"
+    "git": "https://github.com/effectai",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Egas": {
     "name": "Egas",
@@ -48838,7 +48856,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Egoras": {
     "name": "Egoras",
@@ -48873,7 +48894,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Egoras Dollar": {
     "name": "Egoras Dollar",
@@ -48906,7 +48930,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Egretia": {
     "name": "Egretia",
@@ -48920,16 +48947,24 @@
     "forked_data": [
       "https://etherscan.io/token/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
       "https://ethplorer.io/address/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eight Hours": {
     "name": "Eight Hours",
     "short": "EHRT",
     "url": "/currencies/eight-hours",
     "tags": [
-      "Token"
+      "Token",
+      "VeChain Contract"
     ],
-    "git": "https://github.com/BlokParty/"
+    "forked_data": "https://vechainstats.com/account/0xf8e1faa0367298b55f57ed17f7a2ff3f5f1d1628/",
+    "git": "https://github.com/BlokParty/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Einsteinium": {
     "name": "Einsteinium",
@@ -48943,7 +48978,10 @@
       "Research",
       "BitcoinL"
     ],
-    "git": "https://github.com/emc2foundation/einsteinium"
+    "git": "https://github.com/emc2foundation/einsteinium",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elamachain": {
     "name": "Elamachain",
@@ -48957,7 +48995,10 @@
       "https://etherscan.io/token/0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668",
       "https://ethplorer.io/address/0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668"
     ],
-    "git": "https://github.com/ElamaChain"
+    "git": "https://github.com/ElamaChain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elastos": {
     "name": "Elastos",
@@ -48975,7 +49016,10 @@
       "IoT",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/elastos"
+    "git": "https://github.com/elastos",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elcoin": {
     "name": "Elcoin",
@@ -48989,7 +49033,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Electra": {
     "name": "Electra",
@@ -49003,7 +49050,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Electra-project"
+    "git": "https://github.com/Electra-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electra Protocol": {
     "name": "Electra Protocol",
@@ -49018,7 +49068,10 @@
       "NoLicenceFile"
     ],
     "sawBirth": "20210112",
-    "git": "https://github.com/ElectraProtocol"
+    "git": "https://github.com/ElectraProtocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electric Vehicle Zone": {
     "name": "Electric Vehicle Zone",
@@ -49032,7 +49085,10 @@
       "https://etherscan.io/token/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
       "https://ethplorer.io/address/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68"
     ],
-    "git": "https://github.com/evztech/evz_contract"
+    "git": "https://github.com/evztech/evz_contract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electrify.Asia": {
     "name": "Electrify.Asia",
@@ -49047,7 +49103,10 @@
       "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
       "https://ethplorer.io/address/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
     ],
-    "git": "https://github.com/electrifyasia/"
+    "git": "https://github.com/electrifyasia/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Electronero": {
     "name": "Electronero",
@@ -49105,7 +49164,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/electronero/electronero"
+    "git": "https://github.com/electronero/electronero",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electronero Pulse": {
     "name": "Electronero Pulse",
@@ -49115,7 +49177,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/electronero-pulse/electroneropulse"
+    "git": "https://github.com/electronero-pulse/electroneropulse",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electroneum": {
     "name": "Electroneum",
@@ -49128,7 +49193,10 @@
       "Wallet",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/electroneum"
+    "git": "https://github.com/electroneum",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Electrum Dark": {
     "name": "Electrum Dark",
@@ -49142,7 +49210,10 @@
       "https://etherscan.io/token/0x796e47b85a0d759f300f1de96a3583004235d4d8",
       "https://ethplorer.io/address/0x796e47b85a0d759f300f1de96a3583004235d4d8"
     ],
-    "git": "https://github.com/electrumdark/Electrum-dark-token"
+    "git": "https://github.com/electrumdark/Electrum-dark-token",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Elementeum": {
     "name": "Elementeum",
@@ -49206,7 +49277,10 @@
       "20210317",
       "20210319",
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Elevate": {
     "name": "Elevate",
@@ -49221,7 +49295,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
       "https://ethplorer.io/address/0x48be867b240d2ffaff69e0746130f2c027d8d3d2"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elite Swap": {
     "name": "Elite Swap",
@@ -49255,7 +49332,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elitium": {
     "name": "Elitium",
@@ -49270,7 +49350,10 @@
       "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
       "https://ethplorer.io/address/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
       "https://enjinx.io/eth/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ellaism": {
     "name": "Ellaism",
@@ -49285,7 +49368,10 @@
     "git": "https://github.com/ellaism",
     "deaths": [
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ellipsis": {
     "name": "Ellipsis",
@@ -49295,13 +49381,17 @@
       "New2",
       "Token",
       "Decentralized",
+      "Binance Contract",
       "Dex"
     ],
     "sawBirth": "20210325",
     "git": "https://github.com/ellipsis-finance",
     "forked_data": [
       "https://bscscan.com/token/0xa7f552078dcc247c2684336020c03648500c6d9f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Elrond": {
     "name": "Elrond",
@@ -49311,7 +49401,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ElrondNetwork"
+    "git": "https://github.com/ElrondNetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Elxis": {
     "name": "Elxis",
@@ -49367,6 +49460,9 @@
       "forked_from": [
         "Tron"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "Elynet": {
@@ -49429,7 +49525,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Elysian": {
     "name": "Elysian",
@@ -49448,7 +49547,10 @@
     "deaths": [
       "20210316",
       "20210317"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Emanate": {
     "name": "Emanate",
@@ -49465,7 +49567,10 @@
       "https://bloks.io/tokens/EMT-eos-emanateoneos",
       "https://www.eosx.io/account/emanateoneos?partner=coinmarketcap"
     ],
-    "git": "https://github.com/Emanate-official"
+    "git": "https://github.com/Emanate-official",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EmberCoin": {
     "name": "EmberCoin",
@@ -49496,7 +49601,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/EmberCoin/Ember/"
+    "git": "https://github.com/EmberCoin/Ember/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Emerald Crypto": {
     "name": "Emerald Crypto",
@@ -49513,7 +49621,10 @@
     "git": "https://github.com/crypto-currency/Emerald",
     "deaths": [
       "20201218"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Emercoin": {
     "name": "Emercoin",
@@ -49526,7 +49637,10 @@
       "SHA-256",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/emercoin/"
+    "git": "https://github.com/emercoin/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eminence": {
     "name": "Eminence",
@@ -49557,7 +49671,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Eminer": {
     "name": "Eminer",
@@ -49571,7 +49688,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x35b08722aa26be119c1608029ccbc976ac5c1082",
       "https://ethplorer.io/address/0x35b08722aa26be119c1608029ccbc976ac5c1082"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Emirex Token": {
     "name": "Emirex Token",
@@ -49585,7 +49705,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
       "https://ethplorer.io/address/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Emphy": {
     "name": "Emphy",
@@ -49621,7 +49744,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Empow": {
     "name": "Empow",
@@ -49669,7 +49795,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Empty Set Dollar": {
     "name": "Empty Set Dollar",
@@ -49685,7 +49814,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
       "https://ethplorer.io/address/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Emrals": {
     "name": "Emrals",
@@ -49695,7 +49827,10 @@
       "Coin",
       "BitcoinL"
     ],
-    "git": "https://github.com/emrals/emrals"
+    "git": "https://github.com/emrals/emrals",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "En-Tan-Mo": {
     "name": "En-Tan-Mo",
@@ -49731,7 +49866,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Enceladus Network": {
     "name": "Enceladus Network",
@@ -49810,7 +49948,10 @@
       "20210316",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EncrypGen": {
     "name": "EncrypGen",
@@ -49865,7 +50006,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EncryptoTel [ETH]": {
     "name": "EncryptoTel [ETH]",
@@ -49887,7 +50031,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EncryptoTel [WAVES]": {
     "name": "EncryptoTel [WAVES]",
@@ -49904,7 +50051,10 @@
     "deaths": [
       "20201130",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Endor Protocol": {
     "name": "Endor Protocol",
@@ -49918,7 +50068,10 @@
       "https://etherscan.io/token/0xc528c28fec0a90c083328bc45f587ee215760a0f",
       "https://ethplorer.io/address/0xc528c28fec0a90c083328bc45f587ee215760a0f"
     ],
-    "git": "https://github.com/EndorCoin"
+    "git": "https://github.com/EndorCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Endorsit": {
     "name": "Endorsit",
@@ -49931,7 +50084,10 @@
     ],
     "forked_data": [
       "https://neotracker.io/asset/81c089ab996fc89c468a26c0a88d23ae2f34b5c0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Enecuum": {
     "name": "Enecuum",
@@ -49945,7 +50101,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Enecuum"
+    "git": "https://github.com/Enecuum",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Energi": {
     "name": "Energi",
@@ -49964,7 +50123,10 @@
       "DApp",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/energicryptocurrency"
+    "git": "https://github.com/energicryptocurrency",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EnergiToken": {
     "name": "EnergiToken",
@@ -49998,7 +50160,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Energo": {
     "name": "Energo",
@@ -50009,14 +50174,18 @@
       "Energy",
       "NoGitHub",
       "Qtum Contract",
-      "Dead"
+      "Dead",
+      "Ethereum Contract"
     ],
     "forked_data": [
-      "https://explorer.qtum.org/token/d8dec2b605005749abbf4b060edad3070e23cf5c"
+      "https://etherscan.io/token/0x03806ce5ef69bd9780edfb04c29da1f23db96294"
     ],
     "deaths": [
       "20210321"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Energy Ledger": {
     "name": "Energy Ledger",
@@ -50030,7 +50199,10 @@
     "sawBirth": "20210219",
     "forked_data": [
       "https://etherscan.io/token/0x9048c33c7bae0bbe9ad702b17b4453a83900d154"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Energy Web Token": {
     "name": "Energy Web Token",
@@ -50044,7 +50216,10 @@
       "Substrate",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/energywebfoundation/ewc-system-contracts"
+    "git": "https://github.com/energywebfoundation/ewc-system-contracts",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Energycoin": {
     "name": "Energycoin",
@@ -50069,7 +50244,10 @@
       "20210308",
       "20210317"
     ],
-    "git": "https://github.com/EnergyCoinProject/energycoin"
+    "git": "https://github.com/EnergyCoinProject/energycoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Engine": {
     "name": "Engine",
@@ -50083,7 +50261,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xaf8a215e81faea7c180ce22b72483525121813bd",
       "https://ethplorer.io/address/0xaf8a215e81faea7c180ce22b72483525121813bd"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Enigma": {
     "name": "Enigma",
@@ -50099,7 +50280,10 @@
       "https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
       "https://ethplorer.io/address/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
     ],
-    "git": "https://github.com/enigmampc"
+    "git": "https://github.com/enigmampc",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Enjin Coin": {
     "name": "Enjin Coin",
@@ -50118,7 +50302,10 @@
       "https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
       "https://blockchair.com/ethereum/erc-20/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
     ],
-    "git": "https://github.com/enjin/contracts"
+    "git": "https://github.com/enjin/contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "EnterCoin": {
     "name": "EnterCoin",
@@ -50141,7 +50328,10 @@
       "20201211",
       "20201215",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Entherfound": {
     "name": "Entherfound",
@@ -50198,7 +50388,10 @@
       "20210324",
       "20210324",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Enzo": {
     "name": "Enzo",
@@ -50212,7 +50405,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x94eea9a484f0bae03d19623cfe389e2cba56b72f",
       "https://ethplorer.io/address/0x94eea9a484f0bae03d19623cfe389e2cba56b72f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Enzyme": {
     "name": "Enzyme",
@@ -50229,7 +50425,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
       "https://ethplorer.io/address/0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Epanus": {
     "name": "Epanus",
@@ -50243,7 +50442,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x50ec35d1e18d439f02fa895746fc3e1bef311780",
       "https://ethplorer.io/address/0x50ec35d1e18d439f02fa895746fc3e1bef311780"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Epic": {
     "name": "Epic",
@@ -50286,7 +50488,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Epic Cash": {
     "name": "Epic Cash",
@@ -50296,7 +50501,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Equal": {
     "name": "Equal",
@@ -50318,7 +50526,10 @@
     "deaths": [
       "20201214",
       "20201215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Equilibria": {
     "name": "Equilibria",
@@ -50328,7 +50539,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/EquilibriaCC"
+    "git": "https://github.com/EquilibriaCC",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Equus Mining Token": {
     "name": "Equus Mining Token",
@@ -50421,7 +50635,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Era Swap": {
     "name": "Era Swap",
@@ -50435,7 +50652,10 @@
       "https://etherscan.io/token/0xef1344bdf80bef3ff4428d8becec3eea4a2cf574",
       "https://ethplorer.io/address/0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
     ],
-    "git": "https://github.com/KMPARDS/EraSwapSmartContracts"
+    "git": "https://github.com/KMPARDS/EraSwapSmartContracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ErcauX": {
     "name": "ErcauX",
@@ -50513,7 +50733,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ergo": {
     "name": "Ergo",
@@ -50526,7 +50749,10 @@
       "Platform",
       "DApp",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eristica": {
     "name": "Eristica",
@@ -50567,7 +50793,10 @@
       "20210127",
       "20210201",
       "20210205"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eroscoin": {
     "name": "Eroscoin",
@@ -50664,7 +50893,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Escroco Emerald": {
     "name": "Escroco Emerald",
@@ -50744,7 +50976,10 @@
       "20210325",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Eska": {
     "name": "Eska",
@@ -50753,7 +50988,10 @@
     "tags": [
       "Coin",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Espers": {
     "name": "Espers",
@@ -50777,7 +51015,10 @@
       "20201130",
       "20210106"
     ],
-    "git": "https://github.com/cryptocoderz/espers"
+    "git": "https://github.com/cryptocoderz/espers",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Esportbits": {
     "name": "Esportbits",
@@ -50875,7 +51116,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Esports Token": {
     "name": "Esports Token",
@@ -50901,7 +51145,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "EsportsPro": {
     "name": "EsportsPro",
@@ -50915,7 +51162,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://etherscan.io/token/0x7495d89d347ae9ddc95942938b58e933ab3bf7d1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Essek Tov": {
     "name": "Essek Tov",
@@ -50972,7 +51222,10 @@
       "20210317",
       "20210318",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Essentia": {
     "name": "Essentia",
@@ -50986,7 +51239,10 @@
       "https://ethplorer.io/address/0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
       "https://etherscan.io/token/0xfc05987bd2be489ACCF0f509E44B0145d68240f7"
     ],
-    "git": "https://github.com/essentiaone"
+    "git": "https://github.com/essentiaone",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eterbase Utility Token": {
     "name": "Eterbase Utility Token",
@@ -51029,7 +51285,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Eternal Cash": {
     "name": "Eternal Cash",
@@ -51044,7 +51303,10 @@
     "explorer": "https://cryptojerks.tech/EC/",
     "forked_data": [
       "https://bscscan.com/token/0x400df62c3052fdbaad8c74c0226147f9bfaaf7ec"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Eternity": {
     "name": "Eternity",
@@ -51106,7 +51368,10 @@
       "20210302",
       "20210310"
     ],
-    "git": "https://github.com/eternity-group/eternity"
+    "git": "https://github.com/eternity-group/eternity",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethanol": {
     "name": "Ethanol",
@@ -51117,7 +51382,10 @@
       "Ethereum Contract"
     ],
     "forked_data": [],
-    "git": "https://github.com/tokenethanol/"
+    "git": "https://github.com/tokenethanol/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethash Miner": {
     "name": "Ethash Miner",
@@ -51151,7 +51419,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ethbox": {
     "name": "Ethbox",
@@ -51166,7 +51437,10 @@
     "git": "https://github.com/ethbox-official/",
     "forked_data": [
       "https://etherscan.io/token/0x33840024177a7daca3468912363bed8b425015c5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ether Kingdoms Token": {
     "name": "Ether Kingdoms Token",
@@ -51210,7 +51484,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ether Zero": {
     "name": "Ether Zero",
@@ -51236,7 +51513,10 @@
     "git": "https://github.com/etherzero-org",
     "deaths": [
       "20210215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ether-1": {
     "name": "Ether-1",
@@ -51249,7 +51529,10 @@
       "Filesharing",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Ether1Project"
+    "git": "https://github.com/Ether1Project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EtherBone": {
     "name": "EtherBone",
@@ -51285,7 +51568,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EtherGem": {
     "name": "EtherGem",
@@ -51295,7 +51581,10 @@
       "Coin",
       "Mineable",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EtherInc": {
     "name": "EtherInc",
@@ -51397,7 +51686,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/etherinc"
+    "git": "https://github.com/etherinc",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EtherSportz": {
     "name": "EtherSportz",
@@ -51434,7 +51726,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum": {
     "name": "Ethereum",
@@ -51447,7 +51742,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/ethereum"
+    "git": "https://github.com/ethereum",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Classic": {
     "name": "Ethereum Classic",
@@ -51465,7 +51763,10 @@
       "NoLicenceFile"
     ],
     "forked_data": [],
-    "git": "https://github.com/ethereumclassic"
+    "git": "https://github.com/ethereumclassic",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Gold": {
     "name": "Ethereum Gold",
@@ -51514,7 +51815,10 @@
       "20210321",
       "20210325",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Gold Project": {
     "name": "Ethereum Gold Project",
@@ -51536,7 +51840,10 @@
     "deaths": [
       "20201214",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Lightning": {
     "name": "Ethereum Lightning",
@@ -51549,7 +51856,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Ethereum Message Search": {
     "name": "Ethereum Message Search",
@@ -51579,7 +51889,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Meta": {
     "name": "Ethereum Meta",
@@ -51593,7 +51906,10 @@
       "https://etherscan.io/token/0x340ef83ec8560892168d4062720f030460468656",
       "https://ethplorer.io/address/0x340ef83ec8560892168d4062720f030460468656"
     ],
-    "git": "https://github.com/ethermeta/EtherMeta/"
+    "git": "https://github.com/ethermeta/EtherMeta/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Stake": {
     "name": "Ethereum Stake",
@@ -51632,7 +51948,10 @@
       "20210322",
       "20210325",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Vault": {
     "name": "Ethereum Vault",
@@ -51683,7 +52002,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum Yield": {
     "name": "Ethereum Yield",
@@ -51699,7 +52021,10 @@
       "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
       "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5"
     ],
-    "git": "https://github.com/ethereumyieldfarm"
+    "git": "https://github.com/ethereumyieldfarm",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Ethereum eRush": {
     "name": "Ethereum eRush",
@@ -51768,7 +52093,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "EthereumX": {
     "name": "EthereumX",
@@ -51776,12 +52104,13 @@
     "url": "/currencies/ethereumx",
     "tags": [
       "Token",
-      "Dead"
+      "Dead",
+      "Stellar Contract"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/ETX-GCEFMSNWXTALXQPRQFIXOMWJHZFDEQJBM26RGEDZUDFMU32JB6WJGRJX"
+    ]
+    ,
     "deaths": [
       "20201130",
       "20201201",
