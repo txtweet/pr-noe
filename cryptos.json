@@ -40300,7 +40300,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Omega": {
     "name": "DeFi Omega",
@@ -40348,7 +40351,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Pulse Index": {
     "name": "DeFi Pulse Index",
@@ -40363,7 +40369,10 @@
       "https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
       "https://ethplorer.io/address/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
     ],
-    "git": "https://github.com/SetProtocol/set-v2"
+    "git": "https://github.com/SetProtocol/set-v2",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFi Wizard": {
     "name": "DeFi Wizard",
@@ -40377,7 +40386,10 @@
     "git": "https://github.com/DefiWizard",
     "forked_data": [
       "https://etherscan.io/token/0x7dee45dff03ec7137979586ca20a2f4917bac9fa"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi Yield Protocol": {
     "name": "DeFi Yield Protocol",
@@ -40394,7 +40406,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
       "https://ethplorer.io/address/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi of Thrones": {
     "name": "DeFi of Thrones",
@@ -40435,7 +40450,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFi100": {
     "name": "DeFi100",
@@ -40449,7 +40467,10 @@
     "sawBirth": "20210224",
     "forked_data": [
       "https://bscscan.com/token/0x9d8aac497a4b8fe697dd63101d793f0c6a6eebb6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFiChain": {
     "name": "DeFiChain",
@@ -40468,7 +40489,10 @@
       "Derivatives",
       "BitcoinL"
     ],
-    "git": "https://github.com/DeFiCh/ain"
+    "git": "https://github.com/DeFiCh/ain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFiPie": {
     "name": "DeFiPie",
@@ -40482,7 +40506,10 @@
       "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
       "https://ethplorer.io/address/0x607C794cDa77efB21F8848B7910ecf27451Ae842"
     ],
-    "git": "https://github.com/DefiPie"
+    "git": "https://github.com/DefiPie",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFiSocial Gaming": {
     "name": "DeFiSocial Gaming",
@@ -40498,7 +40525,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7",
       "https://ethplorer.io/address/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFiStarter": {
     "name": "DeFiStarter",
@@ -40544,7 +40574,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x46bFA3Bb807B5c3b3Ce7F7e0E667397020B6dc15",
       "https://ethplorer.io/address/0x46bFA3Bb807B5c3b3Ce7F7e0E667397020B6dc15"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFiat": {
     "name": "DeFiat",
@@ -40559,7 +40592,10 @@
       "https://etherscan.io/token/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
       "https://ethplorer.io/address/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
     ],
-    "git": "https://github.com/QuantSoldier/defiat"
+    "git": "https://github.com/QuantSoldier/defiat",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFiato": {
     "name": "DeFiato",
@@ -40598,7 +40634,10 @@
       "20210309",
       "20210311",
       "20210318"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFiner": {
     "name": "DeFiner",
@@ -40613,7 +40652,10 @@
       "https://etherscan.io/token/0x054f76beed60ab6dbeb23502178c52d6c5debe40",
       "https://ethplorer.io/address/0x054f76beed60ab6dbeb23502178c52d6c5debe40"
     ],
-    "git": "https://github.com/DeFinerOrg"
+    "git": "https://github.com/DeFinerOrg",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeFinition": {
     "name": "DeFinition",
@@ -40660,7 +40702,10 @@
       "20210318",
       "20210319",
       "20210320"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeFireX": {
     "name": "DeFireX",
@@ -40674,7 +40719,10 @@
     "git": "https://github.com/DeFireX",
     "forked_data": [
       "https://bscscan.com/token/0x74b3abb94e9e1ecc25bd77d6872949b4a9b2aacf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeGate": {
     "name": "DeGate",
@@ -40688,7 +40736,10 @@
     "git": "https://github.com/degatedev",
     "forked_data": [
       "https://etherscan.io/token/0x53c8395465a84955c95159814461466053dedede"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DePay": {
     "name": "DePay",
@@ -40704,7 +40755,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
       "https://ethplorer.io/address/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeVault": {
     "name": "DeVault",
@@ -40715,7 +40769,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/devaultcrypto"
+    "git": "https://github.com/devaultcrypto",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeXe": {
     "name": "DeXe",
@@ -40729,7 +40786,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
       "https://ethplorer.io/address/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeadSoul": {
     "name": "DeadSoul",
@@ -40743,7 +40803,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/address/0x72feac4c0887c12db21ceb161533fd8467469e6b"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Debase": {
     "name": "Debase",
@@ -40757,7 +40820,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9248c485b0b80f76da451f167a8db30f33c70907"
     ],
-    "git": "https://github.com/debaseonomics/"
+    "git": "https://github.com/debaseonomics/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Debitum": {
     "name": "Debitum",
@@ -40786,7 +40852,10 @@
       "20210127",
       "20210201",
       "20210202"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DecentBet": {
     "name": "DecentBet",
@@ -40801,7 +40870,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
       "https://ethplorer.io/address/0x9b68bfae21df5a510931a262cecf63f41338f264"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Decentr": {
     "name": "Decentr",
@@ -40820,7 +40892,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
       "https://ethplorer.io/address/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentrahub Coin": {
     "name": "Decentrahub Coin",
@@ -40830,7 +40905,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/decentrahub"
+    "git": "https://github.com/decentrahub",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentral Games": {
     "name": "Decentral Games",
@@ -40846,7 +40924,10 @@
       "https://etherscan.io/token/0xee06a81a695750e71a662b51066f2c74cf4478a0",
       "https://ethplorer.io/address/0xee06a81a695750e71a662b51066f2c74cf4478a0"
     ],
-    "git": "https://github.com/decentralgames"
+    "git": "https://github.com/decentralgames",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentraland": {
     "name": "Decentraland",
@@ -40864,7 +40945,10 @@
       "https://etherscan.io/token/decentraland",
       "https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
     ],
-    "git": "https://github.com/decentraland"
+    "git": "https://github.com/decentraland",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Asset Trading Platform": {
     "name": "Decentralized Asset Trading Platform",
@@ -40878,7 +40962,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x813b428af3920226e059b68a62e4c04933d4ea7a",
       "https://ethplorer.io/address/0x813b428af3920226e059b68a62e4c04933d4ea7a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Bank": {
     "name": "Decentralized Bank",
@@ -40911,7 +40998,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Decentralized Crypto Token": {
     "name": "Decentralized Crypto Token",
@@ -41002,7 +41092,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Data Assets Management": {
     "name": "Decentralized Data Assets Management",
@@ -41054,7 +41147,10 @@
       "20210322",
       "20210325",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Machine Learning": {
     "name": "Decentralized Machine Learning",
@@ -41078,7 +41174,10 @@
       "20201215",
       "20210224",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Mining Exchange": {
     "name": "Decentralized Mining Exchange",
@@ -41092,7 +41191,10 @@
     "sawBirth": "20210227",
     "forked_data": [
       "https://scan.hecochain.com/token/0x854bb58fdda85f20b5ab20b20d888f0554c02560"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decentralized Nations": {
     "name": "Decentralized Nations",
@@ -41106,7 +41208,10 @@
     "git": "https://github.com/denation-smatoos/denations",
     "forked_data": [
       "https://etherscan.io/token/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Decentralized Vulnerability Platform": {
     "name": "Decentralized Vulnerability Platform",
@@ -41120,7 +41225,10 @@
       "https://etherscan.io/token/0x8e30ea2329d95802fd804f4291220b0e2f579812",
       "https://ethplorer.io/address/0x8e30ea2329d95802fd804f4291220b0e2f579812"
     ],
-    "git": "https://github.com/dvpnet"
+    "git": "https://github.com/dvpnet",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decred": {
     "name": "Decred",
@@ -41137,7 +41245,10 @@
       "DAO",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/decred"
+    "git": "https://github.com/decred",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Decurian": {
     "name": "Decurian",
@@ -41198,7 +41309,10 @@
       "20210309",
       "20210319",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeepBrain Chain": {
     "name": "DeepBrain Chain",
@@ -41213,7 +41327,10 @@
     ],
     "forked_data": [
       "https://neotracker.io/asset/b951ecbbc5fe37a9c280a76cb0ce0014827294cf"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeepCloud AI": {
     "name": "DeepCloud AI",
@@ -41261,7 +41378,10 @@
       "20210308",
       "20210309",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeepCoin": {
     "name": "DeepCoin",
@@ -41273,7 +41393,10 @@
       "Token"
     ],
     "sawBirth": "20210324",
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeepOnion": {
     "name": "DeepOnion",
@@ -41287,7 +41410,10 @@
       "Privacy",
       "BitcoinL"
     ],
-    "git": "https://github.com/deeponion/deeponion"
+    "git": "https://github.com/deeponion/deeponion",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DefHold": {
     "name": "DefHold",
@@ -41301,7 +41427,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe481f2311c774564d517d015e678c2736a25ddd3",
       "https://ethplorer.io/address/0xe481f2311c774564d517d015e678c2736a25ddd3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Defi": {
     "name": "Defi",
@@ -41315,7 +41444,10 @@
       "https://etherscan.io/token/0x98b2de885e916b598f65ded2fdbb63187eaef184",
       "https://ethplorer.io/address/0x98b2de885e916b598f65ded2fdbb63187eaef184"
     ],
-    "git": "https://github.com/defilab"
+    "git": "https://github.com/defilab",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Defi Shopping Stake": {
     "name": "Defi Shopping Stake",
@@ -41354,7 +41486,10 @@
       "20210317",
       "20210320",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DefiBox": {
     "name": "DefiBox",
@@ -41368,7 +41503,10 @@
     ],
     "forked_data": [
       "https://bloks.io/tokens/BOX-eos-token.defi"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DefiCliq": {
     "name": "DefiCliq",
@@ -41382,7 +41520,10 @@
     ],
     "forked_data": [
       "https://etherscan.io/token/0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DefiDollar": {
     "name": "DefiDollar",
@@ -41397,7 +41538,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
       "https://ethplorer.io/address/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DefiDollar DAO": {
     "name": "DefiDollar DAO",
@@ -41412,7 +41556,10 @@
       "https://etherscan.io/token/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
       "https://ethplorer.io/address/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A"
     ],
-    "git": "https://github.com/defidollar"
+    "git": "https://github.com/defidollar",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Definex": {
     "name": "Definex",
@@ -41449,7 +41596,10 @@
       "20210309",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Definitex": {
     "name": "Definitex",
@@ -41503,7 +41653,10 @@
       "20210323",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Defis": {
     "name": "Defis",
@@ -41513,7 +41666,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/freenetcoder/defis"
+    "git": "https://github.com/freenetcoder/defis",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Defis Network": {
     "name": "Defis Network",
@@ -41527,7 +41683,10 @@
     "forked_data": [
       "https://bloks.io/tokens/DFS-eos-minedfstoken"
     ],
-    "git": "https://github.com/defis-net/defis-network"
+    "git": "https://github.com/defis-net/defis-network",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Defla": {
     "name": "Defla",
@@ -41574,7 +41733,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Deflect": {
     "name": "Deflect",
@@ -41592,7 +41754,10 @@
     ],
     "deaths": [
       "20210323"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Degen Protocol": {
     "name": "Degen Protocol",
@@ -41606,7 +41771,10 @@
     "sawBirth": "20210304",
     "forked_data": [
       "https://bscscan.com/token/0x72f28c09be1342447fa01ebc76ef508473d08c5c"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DegenVC": {
     "name": "DegenVC",
@@ -41642,7 +41810,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Degens": {
     "name": "Degens",
@@ -41657,7 +41828,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdd039990bd551ce7437d3bf54d155220b7988b71",
       "https://ethplorer.io/address/0xdd039990bd551ce7437d3bf54d155220b7988b71"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dego Finance": {
     "name": "Dego Finance",
@@ -41675,7 +41849,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x88ef27e69108b2633f8e1c184cc37940a075cc02",
       "https://ethplorer.io/address/0x88ef27e69108b2633f8e1c184cc37940a075cc02"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Degov": {
     "name": "Degov",
@@ -41689,7 +41866,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x469E66e06fEc34839E5eB1273ba85A119B8D702F"
     ],
-    "git": "https://github.com/debaseonomics/"
+    "git": "https://github.com/debaseonomics/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Deipool": {
     "name": "Deipool",
@@ -41703,7 +41883,10 @@
       "https://etherscan.io/token/0xd1517663883e2acc154178fb194e80e8bbc29730",
       "https://ethplorer.io/address/0xd1517663883e2acc154178fb194e80e8bbc29730"
     ],
-    "git": "https://github.com/Deipool"
+    "git": "https://github.com/Deipool",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Delphi Chain Link": {
     "name": "Delphi Chain Link",
@@ -41736,7 +41919,10 @@
       "20210308",
       "20210309",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Delphy": {
     "name": "Delphy",
@@ -41765,7 +41951,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DeltaChain": {
     "name": "DeltaChain",
@@ -41823,7 +42012,10 @@
       "20210323",
       "20210325",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "DeltaHub Community": {
     "name": "DeltaHub Community",
@@ -41838,7 +42030,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
       "https://ethplorer.io/address/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Demeter Chain": {
     "name": "Demeter Chain",
@@ -41853,7 +42048,10 @@
       "https://etherscan.io/token/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
       "https://ethplorer.io/address/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76"
     ],
-    "git": "https://github.com/dmtc-chain/dmtc-chain"
+    "git": "https://github.com/dmtc-chain/dmtc-chain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Denarius": {
     "name": "Denarius",
@@ -41864,7 +42062,10 @@
       "Mineable",
       "DenariusL"
     ],
-    "git": "https://github.com/carsenk/denarius"
+    "git": "https://github.com/carsenk/denarius",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Dent": {
     "name": "Dent",
@@ -41879,7 +42080,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258",
       "https://ethplorer.io/address/0x3597bfd533a99c9aa083587b074434e61eb0a258"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dentacoin": {
     "name": "Dentacoin",
@@ -41898,7 +42102,10 @@
       "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
       "https://ethplorer.io/address/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
     ],
-    "git": "https://github.com/Dentacoin"
+    "git": "https://github.com/Dentacoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dequant": {
     "name": "Dequant",
@@ -41911,7 +42118,10 @@
       "DequantL"
     ],
     "sawBirth": "20210112",
-    "git": "https://github.com/dequant-project/dequant"
+    "git": "https://github.com/dequant-project/dequant",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Deri Protocol": {
     "name": "Deri Protocol",
@@ -41926,7 +42136,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
       "https://ethplorer.io/address/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "DerivaDAO": {
     "name": "DerivaDAO",
@@ -41936,9 +42149,16 @@
       "DeFi",
       "Token",
       "Maketplace",
-      "NoGitHub"
+      "NoGitHub",
+      "Ethereum Contract"
     ],
-    "sawBirth": "20210126"
+    "sawBirth": "20210126",
+    "checkedWithGecko": {
+      "found": true
+    },
+    "forked_data": [
+      "https://etherscan.io/token/0x3a880652f47bfaa771908c07dd8673a787daed3a"
+    ]
   },
   "DerivaDEX": {
     "name": "DerivaDEX",
@@ -41955,7 +42175,10 @@
     "forked_data": [],
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Derivex": {
     "name": "Derivex",
@@ -41993,7 +42216,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Dero": {
     "name": "Dero",
@@ -42004,7 +42230,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/deroproject/derosuite"
+    "git": "https://github.com/deroproject/derosuite",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Desire": {
     "name": "Desire",
@@ -42062,7 +42291,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Destiny Success": {
     "name": "Destiny Success",
@@ -42073,14 +42305,13 @@
       "Medium of Exchange",
       "Services",
       "Ethereum Contract",
+      "Tron Contract",
       "Dead"
     ],
     "forked_data": {
-      "block": [
-        "0x36c8...f930c54"
-      ],
-      "forked_from": [
-        "Ethereum"
+      "forked_data": [
+        "https://etherscan.io/token/0x36c85687eeDAe01C50eB7d04d74C0ec74f930c54",
+        "https://tronscan.org/#/token20/THcQ2jUys38gp46M8p3HwwZ2dxivA8fvgK"
       ]
     },
     "deaths": [

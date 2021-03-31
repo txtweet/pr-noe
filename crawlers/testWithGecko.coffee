@@ -35,19 +35,25 @@ Promise.each (_.values(cryptos)), (crypto) ->
             contract = _.find contracts, {"gecko_asset_platform_id": res.asset_platform_id}
             if contract?
               unless contract.contract in crypto.tags
-                console.log JSON.stringify contract, null, 2
-                console.log (JSON.stringify crypto,null, 2), res
-                process.exit(1)
+                if res.asset_platform_id is 'ethereum' and res.links?.blockchain_site?[0]?
+                  crypto.tags.push("Ethereum Contract")
+                  crypto.forked_data = []
+                  crypto.forked_data.push(res.links.blockchain_site[0])
+                  console.log "  Ajout ->", (JSON.stringify crypto,null, 2)
+                else
+                  console.log JSON.stringify contract, null, 2
+                  console.log (JSON.stringify crypto,null, 2), res
+                  process.exit(1)
               else
                 console.log "  ->", crypto.name, "ok"
             else
               console.log "Other -->", (JSON.stringify crypto,null, 2), res
               process.exit(1)
 
-          fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
+          fs.writeFile("../cryptos.json", (JSON.stringify cryptos, null, 2))
     .catch (err) ->
       crypto.checkedWithGecko.found = false
-      fs.writeFile("./toto.json", (JSON.stringify cryptos, null, 2))
+      fs.writeFile("../cryptos.json", (JSON.stringify cryptos, null, 2))
       .then () ->
         Promise.delay(DELAY)
       .then () ->
