@@ -241,6 +241,13 @@
     ],
     "contract": "Bitshare Contract",
     "gecko_asset_platform_id": "bitshares"
+  },
+  {
+    "urls": [
+      "https://explorer.gochain.io/addr/"
+    ],
+    "contract": "Gochain Contract",
+    "gecko_asset_platform_id": "gochain"
   }
 
 ]
