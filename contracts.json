@@ -264,6 +264,13 @@
     ],
     "contract": "SuperSero Contract",
     "gecko_asset_platform_id": "super-zero"
+  },
+  {
+    "urls": [
+      "https://www.mintscan.io/kava"
+    ],
+    "contract": "Kava Contract",
+    "gecko_asset_platform_id": "kava"
   }
 
 ]
