@@ -248,6 +248,13 @@
     ],
     "contract": "Gochain Contract",
     "gecko_asset_platform_id": "gochain"
+  },
+  {
+    "urls": [
+      "https://telos.bloks.io/tokens"
+    ],
+    "contract": "Telos Contract",
+    "gecko_asset_platform_id": "telos"
   }
 
 ]

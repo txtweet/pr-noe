@@ -16,6 +16,7 @@ idExceptions = [
   'anchor-protocol'
   'binance-krw'
   'cvcoin'
+  'eos'
 ]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
