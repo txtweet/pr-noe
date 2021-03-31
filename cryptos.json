@@ -63743,7 +63743,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hanacoin": {
     "name": "Hanacoin",
@@ -63755,7 +63758,10 @@
       "LitecoinL",
       "Hanacoin CoreL"
     ],
-    "git": "https://github.com/hanacoinproject/hanacoin"
+    "git": "https://github.com/hanacoinproject/hanacoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hands of Steel": {
     "name": "Hands of Steel",
@@ -63850,7 +63856,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Handshake": {
     "name": "Handshake",
@@ -63862,7 +63871,10 @@
       "IPFS",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/handshake-org"
+    "git": "https://github.com/handshake-org",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Handy": {
     "name": "Handy",
@@ -63875,7 +63887,10 @@
     "forked_data": [
       "https://etherscan.io/address/0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c"
     ],
-    "git": "https://github.com/handypick/token/"
+    "git": "https://github.com/handypick/token/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HappinessToken": {
     "name": "HappinessToken",
@@ -63890,7 +63905,10 @@
     "sawBirth": "20210209",
     "forked_data": [
       "https://bscscan.com/token/0xeda21b525ac789eab1a08ef2404dd8505ffb973d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Harcomia": {
     "name": "Harcomia",
@@ -63927,7 +63945,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Harmony": {
     "name": "Harmony",
@@ -63940,7 +63961,10 @@
       "Scaling",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/harmony-one"
+    "git": "https://github.com/harmony-one",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HarmonyCoin": {
     "name": "HarmonyCoin",
@@ -63967,7 +63991,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Harvest Finance": {
     "name": "Harvest Finance",
@@ -63985,7 +64012,10 @@
       "https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D",
       "https://ethplorer.io/address/0xa0246c9032bC3A600820415aE600c6388619A14D"
     ],
-    "git": "https://github.com/harvest-finance"
+    "git": "https://github.com/harvest-finance",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HashBX ": {
     "name": "HashBX ",
@@ -64012,7 +64042,10 @@
       "20210304",
       "20210316",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HashBridge Oracle": {
     "name": "HashBridge Oracle",
@@ -64027,7 +64060,10 @@
     "sawBirth": "20210220",
     "forked_data": [
       "https://scan.hecochain.com/address/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HashCoin": {
     "name": "HashCoin",
@@ -64055,7 +64091,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HashNet BitEco": {
     "name": "HashNet BitEco",
@@ -64128,7 +64167,10 @@
       "20210309",
       "20210310",
       "20210311"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hashgard": {
     "name": "Hashgard",
@@ -64142,7 +64184,10 @@
       "https://etherscan.io/token/0x5c64031c62061865e5fd0f53d3cdaef80f72e99d",
       "https://ethplorer.io/address/0x5c64031c62061865e5fd0f53d3cdaef80f72e99d"
     ],
-    "git": "https://github.com/hashgard"
+    "git": "https://github.com/hashgard",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hashshare": {
     "name": "Hashshare",
@@ -64152,7 +64197,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/hashshare"
+    "git": "https://github.com/hashshare",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hatch DAO": {
     "name": "Hatch DAO",
@@ -64166,7 +64214,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6F3009663470475F0749A6b76195375f95495fcB",
       "https://ethplorer.io/address/0x6F3009663470475F0749A6b76195375f95495fcB"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hathor": {
     "name": "Hathor",
@@ -64176,7 +64227,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/HathorNetwork/"
+    "git": "https://github.com/HathorNetwork/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hauteclere Shards": {
     "name": "Hauteclere Shards",
@@ -64237,7 +64291,10 @@
       "20210316",
       "20210325",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Haven Protocol": {
     "name": "Haven Protocol",
@@ -64248,7 +64305,10 @@
       "DeFi",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/haven-protocol-org"
+    "git": "https://github.com/haven-protocol-org",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Havy": {
     "name": "Havy",
@@ -64343,7 +64403,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Haze Finance": {
     "name": "Haze Finance",
@@ -64357,7 +64420,10 @@
     "git": "https://github.com/HazeFinance/haze-contracts",
     "forked_data": [
       "https://bscscan.com/token/0x78832bd03078fb75a72d72fbf567ba90b6dab317"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hdac": {
     "name": "Hdac",
@@ -64368,7 +64434,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/Hdactech/hdac"
+    "git": "https://github.com/Hdactech/hdac",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Healing Plus": {
     "name": "Healing Plus",
@@ -64382,7 +64451,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xab55bdef7057b76482914e79f037999f4ebb6bf1",
       "https://ethplorer.io/address/0xab55bdef7057b76482914e79f037999f4ebb6bf1"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Heart Number": {
     "name": "Heart Number",
@@ -64400,7 +64472,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619",
       "https://ethplorer.io/address/0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HeartBout": {
     "name": "HeartBout",
@@ -64421,7 +64496,10 @@
     },
     "deaths": [
       "20210217"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HeartBout Pay": {
     "name": "HeartBout Pay",
@@ -64457,7 +64535,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HebeBlock": {
     "name": "HebeBlock",
@@ -64467,7 +64548,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/HebePlatform"
+    "git": "https://github.com/HebePlatform",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HecoFi": {
     "name": "HecoFi",
@@ -64481,7 +64565,10 @@
     "sawBirth": "20210223",
     "forked_data": [
       "https://scan.hecochain.com/address/0x98fc3b60ed4a504f588342a53746405e355f9347"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hedera Hashgraph": {
     "name": "Hedera Hashgraph",
@@ -64495,7 +64582,10 @@
       "Payments",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/hashgraph"
+    "git": "https://github.com/hashgraph",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HedgeTrade": {
     "name": "HedgeTrade",
@@ -64514,7 +64604,10 @@
       "https://blockchair.com/ethereum/erc-20/token/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
       "https://eth.tokenview.com/en/token/0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
     ],
-    "git": "https://github.com/rublixdev/hedgtokenmint"
+    "git": "https://github.com/rublixdev/hedgtokenmint",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hedget": {
     "name": "Hedget",
@@ -64529,7 +64622,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7968bc6a03017ea2de509aaa816f163db0f35148",
       "https://ethplorer.io/address/0x7968bc6a03017ea2de509aaa816f163db0f35148"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hegic": {
     "name": "Hegic",
@@ -64545,7 +64641,10 @@
       "https://etherscan.io/token/0x584bC13c7D411c00c01A62e8019472dE68768430",
       "https://ethplorer.io/address/0x584bC13c7D411c00c01A62e8019472dE68768430"
     ],
-    "git": "https://github.com/hegic"
+    "git": "https://github.com/hegic",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Helex": {
     "name": "Helex",
@@ -64566,7 +64665,10 @@
     },
     "deaths": [
       "20201213"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Helium": {
     "name": "Helium",
@@ -64577,7 +64679,10 @@
       "Mineable",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/helium/"
+    "git": "https://github.com/helium/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Helix": {
     "name": "Helix",
@@ -64601,7 +64706,10 @@
       "20210324",
       "20210324"
     ],
-    "git": "https://github.com/ProjectHelixCoin"
+    "git": "https://github.com/ProjectHelixCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HelixNetwork": {
     "name": "HelixNetwork",
@@ -64688,7 +64796,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/HelixNetwork"
+    "git": "https://github.com/HelixNetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hellenic Coin": {
     "name": "Hellenic Coin",
@@ -64700,7 +64811,10 @@
       "PoW",
       "Scrypt",
       "NoGitHub"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HelloGold": {
     "name": "HelloGold",
@@ -64735,7 +64849,10 @@
       "20210318",
       "20210321",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Helmet.insure": {
     "name": "Helmet.insure",
@@ -64751,7 +64868,10 @@
     "git": "https://github.com/helmet-insure/helmet-insure.github.io",
     "forked_data": [
       "https://bscscan.com/token/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Helper Search Token": {
     "name": "Helper Search Token",
@@ -64792,7 +64912,10 @@
       "20210119",
       "20210120",
       "20210121"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Helpico": {
     "name": "Helpico",
@@ -64802,7 +64925,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/AnonymousDo/Helpico.git"
+    "git": "https://github.com/AnonymousDo/Helpico.git",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hemelios": {
     "name": "Hemelios",
@@ -64888,7 +65014,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HempCoin": {
     "name": "HempCoin",
@@ -64904,7 +65033,10 @@
       "KomodoL",
       "VerusCoinL"
     ],
-    "git": "https://github.com/jl777/komodo"
+    "git": "https://github.com/jl777/komodo",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Herbalist Token": {
     "name": "Herbalist Token",
@@ -64918,7 +65050,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x04a020325024f130988782bd5276e53595e8d16e",
       "https://ethplorer.io/address/0x04a020325024f130988782bd5276e53595e8d16e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hermez Network": {
     "name": "Hermez Network",
@@ -64931,7 +65066,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE"
     ],
-    "git": "https://github.com/hermeznetwork"
+    "git": "https://github.com/hermeznetwork",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HeroNode": {
     "name": "HeroNode",
@@ -64945,7 +65083,10 @@
       "https://etherscan.io/token/0x491c9a23db85623eed455a8efdd6aba9b911c5df",
       "https://ethplorer.io/address/0x491c9a23db85623eed455a8efdd6aba9b911c5df"
     ],
-    "git": "https://github.com/hero-node"
+    "git": "https://github.com/hero-node",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hey Bitcoin": {
     "name": "Hey Bitcoin",
@@ -65002,7 +65143,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hi Mutual Society": {
     "name": "Hi Mutual Society",
@@ -65036,7 +65180,10 @@
       "20210213",
       "20210214",
       "20210215"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HiCoin": {
     "name": "HiCoin",
@@ -65130,7 +65277,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/hicoindev/hicoin"
+    "git": "https://github.com/hicoindev/hicoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hiblocks": {
     "name": "Hiblocks",
@@ -65138,9 +65288,15 @@
     "url": "/currencies/hiblocks",
     "tags": [
       "Token",
-      "NoGitHub"
+      "NoGitHub",
+      "Klay Contract"
     ],
-    "explorer": "https://scope.klaytn.com/"
+    "forked_data": [
+      "https://scope.klaytn.com/"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hifi Finance": {
     "name": "Hifi Finance",
@@ -65158,19 +65314,29 @@
     "forked_data": [
       "https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
       "https://ethplorer.io/address/0xdf2c7238198ad8b389666574f2d8bc411a4b7428"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "High Performance Blockchain": {
     "name": "High Performance Blockchain",
     "short": "HPB",
     "url": "/currencies/high-performance-blockchain",
     "tags": [
-      "Coin",
       "DPoS",
       "Hardware",
       "Enterprise solutions",
       "Smart Contracts",
-      "NoGitHub"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    },
+    "forked_data": [
+      "https://hpbscan.org/"
     ]
   },
   "High Voltage": {
@@ -65241,7 +65407,10 @@
       "20210324",
       "20210325"
     ],
-    "git": "https://github.com/highvoltagecoin/highvoltagecoin"
+    "git": "https://github.com/highvoltagecoin/highvoltagecoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hintchain": {
     "name": "Hintchain",
@@ -65255,7 +65424,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6ce21e5f5383c95691d243879a86a6025e0870c0",
       "https://ethplorer.io/address/0x6ce21e5f5383c95691d243879a86a6025e0870c0"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hinto": {
     "name": "Hinto",
@@ -65289,7 +65461,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HippoFinance": {
     "name": "HippoFinance",
@@ -65315,7 +65490,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Historia": {
     "name": "Historia",
@@ -65346,7 +65524,10 @@
       "20210308",
       "20210309",
       "20210311"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HitChain": {
     "name": "HitChain",
@@ -65360,7 +65541,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
       "https://ethplorer.io/address/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hithotx": {
     "name": "Hithotx",
@@ -65374,7 +65558,10 @@
     "sawBirth": "20210112",
     "forked_data": [
       "https://tronscan.org/#/token20/TB384ojBf2JeqnURSv1Eyq8dsoSximVQdm"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hive": {
     "name": "Hive",
@@ -65384,7 +65571,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/openhive-network/hive"
+    "git": "https://github.com/openhive-network/hive",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hive Dollar": {
     "name": "Hive Dollar",
@@ -65394,7 +65584,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/openhive-network"
+    "git": "https://github.com/openhive-network",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hiveterminal Token": {
     "name": "Hiveterminal Token",
@@ -65408,7 +65601,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
       "http://ethplorer.io/address/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hiz Finance": {
     "name": "Hiz Finance",
@@ -65445,7 +65641,10 @@
       "20210322",
       "20210325",
       "20210326"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HoboNickels": {
     "name": "HoboNickels",
@@ -65505,7 +65704,10 @@
       "20210324",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HodlTree": {
     "name": "HodlTree",
@@ -65548,7 +65750,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hoge Finance": {
     "name": "Hoge Finance",
@@ -65564,7 +65769,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xfad45e47083e4607302aa43c65fb3106f1cd7607",
       "https://ethplorer.io/address/0xfad45e47083e4607302aa43c65fb3106f1cd7607"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HoldToWin": {
     "name": "HoldToWin",
@@ -65635,7 +65843,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HollyGold": {
     "name": "HollyGold",
@@ -65650,7 +65861,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x0c93b616933b0cd03b201b29cd8a22681dd9e0d9",
       "https://ethplorer.io/address/0x0c93b616933b0cd03b201b29cd8a22681dd9e0d9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HollyWoodCoin": {
     "name": "HollyWoodCoin",
@@ -65746,7 +65960,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/hollywoodcoin-project/HollyWoodCoin"
+    "git": "https://github.com/hollywoodcoin-project/HollyWoodCoin",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Holo": {
     "name": "Holo",
@@ -65763,7 +65980,10 @@
       "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
       "https://ethplorer.io/address/0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
     ],
-    "git": "https://github.com/holochain"
+    "git": "https://github.com/holochain",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Holyheld": {
     "name": "Holyheld",
@@ -65777,7 +65997,10 @@
       "https://etherscan.io/token/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
       "https://ethplorer.io/address/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C"
     ],
-    "git": "https://github.com/Holyheld"
+    "git": "https://github.com/Holyheld",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Homeros": {
     "name": "Homeros",
@@ -65791,7 +66014,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xB1A30851E3f7d841b231B086479608e17198363A",
       "https://ethplorer.io/address/0xB1A30851E3f7d841b231B086479608e17198363A"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HondaisCoin": {
     "name": "HondaisCoin",
@@ -65831,7 +66057,10 @@
       "20210318",
       "20210323"
     ],
-    "git": "https://github.com/HondaisCoin/HNDC"
+    "git": "https://github.com/HondaisCoin/HNDC",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Honest": {
     "name": "Honest",
@@ -65846,7 +66075,10 @@
     "forked_data": [
       "https://explorer.binance.org/asset/HNST-3C9",
       "https://explorer.binance.org/asset/HNST-3C9"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HonestCoin": {
     "name": "HonestCoin",
@@ -65884,7 +66116,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Honey": {
     "name": "Honey",
@@ -65908,7 +66143,10 @@
       "20210321",
       "20210325",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hoo Token": {
     "name": "Hoo Token",
@@ -65996,6 +66234,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "Horizen": {
@@ -66015,7 +66256,10 @@
       "Scaling",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/HorizenOfficial"
+    "git": "https://github.com/HorizenOfficial",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HorusPay": {
     "name": "HorusPay",
@@ -66090,7 +66334,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HoryouToken": {
     "name": "HoryouToken",
@@ -66124,7 +66371,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hub - Human Trust Protocol": {
     "name": "Hub - Human Trust Protocol",
@@ -66148,7 +66398,10 @@
     "forked_data": [
       "https://etherscan.io/address/0xba358b6f5b4c0215650444b8c30d870b55050d2d",
       "https://ethplorer.io/address/0xba358b6f5b4c0215650444b8c30d870b55050d2d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HubDao": {
     "name": "HubDao",
@@ -66203,7 +66456,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hubi Token": {
     "name": "Hubi Token",
@@ -66232,7 +66488,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hubii Network": {
     "name": "Hubii Network",
@@ -66277,7 +66536,10 @@
       "20210308",
       "20210309",
       "20210319"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hue": {
     "name": "Hue",
@@ -66292,7 +66554,10 @@
     "sawBirth": "20210328",
     "forked_data": [
       "https://etherscan.io/token/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Humaniq": {
     "name": "Humaniq",
@@ -66307,7 +66572,10 @@
       "https://etherscan.io/token/Humaniq",
       "https://ethplorer.io/address/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
     ],
-    "git": "https://github.com/humaniq"
+    "git": "https://github.com/humaniq",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Humanscape": {
     "name": "Humanscape",
@@ -66321,18 +66589,25 @@
       "https://etherscan.io/token/0x174afe7a032b5a33a3270a9f6c30746e25708532",
       "https://ethplorer.io/address/0x174afe7a032b5a33a3270a9f6c30746e25708532"
     ],
-    "git": "https://github.com/humanscape"
+    "git": "https://github.com/humanscape",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Huobi BTC": {
     "name": "Huobi BTC",
     "short": "HBTC",
     "url": "/currencies/huobi-btc",
     "tags": [
-      "Token"
+      "Token",
+      "Ethereum Contract"
     ],
     "forked_data": [
-      "https://ethplorer.io/address/0x0316eb71485b0ab14103307bf65a021042c6d380#chart=candlestick"
-    ]
+      "https://etherscan.io/token/0x0316EB71485b0Ab14103307bf65a021042c6d380"
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Huobi Pool Token": {
     "name": "Huobi Pool Token",
@@ -66346,7 +66621,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xa66daa57432024023db65477ba87d4e7f5f95213#readContract",
       "https://ethplorer.io/address/0xa66daa57432024023db65477ba87d4e7f5f95213#readContract"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Huobi Token": {
     "name": "Huobi Token",
@@ -66364,7 +66642,10 @@
       "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
       "http://ethplorer.io/address/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
       "https://eth.tokenview.com/en/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hush": {
     "name": "Hush",
@@ -66422,7 +66703,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/MyHush/hush3"
+    "git": "https://github.com/MyHush/hush3",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hxro": {
     "name": "Hxro",
@@ -66437,7 +66721,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
       "https://ethplorer.io/address/0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hybrid Bank Cash": {
     "name": "Hybrid Bank Cash",
@@ -66451,7 +66738,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xFb9553aFa2B5c19c5F8e5b8eE175Fc01abD1555F",
       "https://ethplorer.io/address/0xFb9553aFa2B5c19c5F8e5b8eE175Fc01abD1555F"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hybrid Block": {
     "name": "Hybrid Block",
@@ -66485,7 +66775,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hydra": {
     "name": "Hydra",
@@ -66496,7 +66789,10 @@
       "NoLicenceFile"
     ],
     "sawBirth": "20210114",
-    "git": "https://github.com/Hydra-Chain"
+    "git": "https://github.com/Hydra-Chain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hydro": {
     "name": "Hydro",
@@ -66512,7 +66808,10 @@
     "forked_data": [],
     "deaths": [
       "20210303"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hydro Protocol": {
     "name": "Hydro Protocol",
@@ -66529,7 +66828,10 @@
       "https://etherscan.io/token/0x9af839687f6c94542ac5ece2e317daae355493a1",
       "https://ethplorer.io/address/0x9af839687f6c94542ac5ece2e317daae355493a1"
     ],
-    "git": "https://github.com/HydroProtocol"
+    "git": "https://github.com/HydroProtocol",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hyper Credit Network": {
     "name": "Hyper Credit Network",
@@ -66564,7 +66866,10 @@
       "20210309",
       "20210319",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hyper Pay": {
     "name": "Hyper Pay",
@@ -66600,7 +66905,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hyper Speed Network": {
     "name": "Hyper Speed Network",
@@ -66655,7 +66963,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HyperCash": {
     "name": "HyperCash",
@@ -66669,7 +66980,10 @@
       "State channels",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/HcashOrg/hcd"
+    "git": "https://github.com/HcashOrg/hcd",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HyperDAO": {
     "name": "HyperDAO",
@@ -66683,7 +66997,10 @@
       "https://etherscan.io/token/0x74faab6986560fd1140508e4266d8a7b87274ffd",
       "https://ethplorer.io/address/0x74faab6986560fd1140508e4266d8a7b87274ffd"
     ],
-    "git": "https://github.com/hyperdao"
+    "git": "https://github.com/hyperdao",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HyperExchange": {
     "name": "HyperExchange",
@@ -66710,7 +67027,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "HyperQuant": {
     "name": "HyperQuant",
@@ -66728,7 +67048,10 @@
     "git": "https://github.com/hyperquant-platform/",
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hyperion": {
     "name": "Hyperion",
@@ -66742,7 +67065,10 @@
       "NoGitHub",
       "Coin"
     ],
-    "forked_data": []
+    "forked_data": [],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Hyprr (Howdoo)": {
     "name": "Hyprr (Howdoo)",
@@ -66756,7 +67082,10 @@
       "https://etherscan.io/token/0x12f649a9e821f90bb143089a6e56846945892ffb",
       "https://etherscan.io/address/0x12f649a9e821f90bb143089a6e56846945892ffb"
     ],
-    "git": "https://github.com/mpg1977/howdoo.token.contracts"
+    "git": "https://github.com/mpg1977/howdoo.token.contracts",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "HyruleSwap": {
     "name": "HyruleSwap",
@@ -66770,7 +67099,10 @@
     "git": "https://github.com/hyruleswap-finance/hyruleswap-contracts",
     "forked_data": [
       "https://bscscan.com/token/0x7b0409a3a3f79baa284035d48e1dfd581d7d7654"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Hyve": {
     "name": "Hyve",
@@ -66783,7 +67115,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4"
     ],
-    "git": "https://github.com/OurGithubIsNotYetPublic"
+    "git": "https://github.com/OurGithubIsNotYetPublic",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "I/O Coin": {
     "name": "I/O Coin",
@@ -66799,7 +67134,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/IOCoin/DIONS"
+    "git": "https://github.com/IOCoin/DIONS",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IBStoken": {
     "name": "IBStoken",
@@ -66844,7 +67182,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ICE ROCK MINING": {
     "name": "ICE ROCK MINING",
@@ -66862,7 +67203,10 @@
     ],
     "deaths": [
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ICHI": {
     "name": "ICHI",
@@ -66877,7 +67221,10 @@
     "sawBirth": "20210211",
     "forked_data": [
       "https://etherscan.io/token/0x903bef1736cddf2a537176cf3c64579c3867a881"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ICOBID": {
     "name": "ICOBID",
@@ -66969,7 +67316,10 @@
       "20210325",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ICOCalendar.Today": {
     "name": "ICOCalendar.Today",
@@ -67003,7 +67353,10 @@
       "20210112",
       "20210114",
       "20210115"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "ICON": {
     "name": "ICON",
@@ -67016,7 +67369,10 @@
       "Interoperability",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/icon-project"
+    "git": "https://github.com/icon-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IDCM Token": {
     "name": "IDCM Token",
@@ -67071,7 +67427,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IDEX": {
     "name": "IDEX",
@@ -67086,7 +67445,10 @@
       "https://etherscan.io/token/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
       "https://ethplorer.io/address/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
     ],
-    "git": "https://github.com/idexio/IDEX"
+    "git": "https://github.com/idexio/IDEX",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IDEX Membership": {
     "name": "IDEX Membership",
@@ -67181,7 +67543,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IDK": {
     "name": "IDK",
@@ -67195,7 +67560,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x61fd1c62551850d0c04c76fce614cbced0094498",
       "https://ethplorer.io/address/0x61fd1c62551850d0c04c76fce614cbced0094498"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IDL Token": {
     "name": "IDL Token",
@@ -67211,7 +67579,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41",
       "https://ethplorer.io/address/0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IDall": {
     "name": "IDall",
@@ -67242,7 +67613,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "IFToken": {
     "name": "IFToken",
@@ -67257,7 +67631,10 @@
     "git": "https://github.com/ifwallet",
     "forked_data": [
       "https://etherscan.io/token/0x2731d151cbdf84a8a4c6d9d0bae74012db51e428"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IFX24": {
     "name": "IFX24",
@@ -67295,7 +67672,10 @@
       "20210325",
       "20210326",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IG Gold": {
     "name": "IG Gold",
@@ -67313,7 +67693,10 @@
       "https://ethplorer.io/address/0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea",
       "https://tronscan.org/#/token20/TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn",
       "https://www.trxplorer.io/token/TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IGToken": {
     "name": "IGToken",
@@ -67337,7 +67720,10 @@
       "20210120",
       "20210129",
       "20210310"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "IHT Real Estate Protocol": {
     "name": "IHT Real Estate Protocol",
