@@ -90400,7 +90400,10 @@
       "20210307",
       "20210308",
       "20210309"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neblio": {
     "name": "Neblio",
@@ -90412,7 +90415,10 @@
       "Enterprise solutions",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/NeblioTeam"
+    "git": "https://github.com/NeblioTeam",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nebula AI": {
     "name": "Nebula AI",
@@ -90432,7 +90438,10 @@
       "20201218",
       "20210106"
     ],
-    "git": "https://github.com/nebulaai"
+    "git": "https://github.com/nebulaai",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nebulas": {
     "name": "Nebulas",
@@ -90444,7 +90453,10 @@
       "Search Engine",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/nebulasio"
+    "git": "https://github.com/nebulasio",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nectar": {
     "name": "Nectar",
@@ -90462,7 +90474,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
       "https://ethplorer.io/address/0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Neeo": {
     "name": "Neeo",
@@ -90482,7 +90497,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Neeva Defi": {
     "name": "Neeva Defi",
@@ -90496,7 +90514,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3",
       "https://ethplorer.io/address/0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nekonium": {
     "name": "Nekonium",
@@ -90520,7 +90541,10 @@
       "20210202",
       "20210318"
     ],
-    "git": "https://github.com/nekonium"
+    "git": "https://github.com/nekonium",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neo": {
     "name": "Neo",
@@ -90533,7 +90557,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/neo-project"
+    "git": "https://github.com/neo-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NeoWorld Cash": {
     "name": "NeoWorld Cash",
@@ -90552,7 +90579,10 @@
     "deaths": [
       "20210228",
       "20210301"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neoteric": {
     "name": "Neoteric",
@@ -90571,7 +90601,10 @@
     "deaths": [
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Nerva": {
     "name": "Nerva",
@@ -90588,7 +90621,10 @@
       "20210115",
       "20210121"
     ],
-    "git": "https://github.com/angrywasp/nerva"
+    "git": "https://github.com/angrywasp/nerva",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nerve Finance": {
     "name": "Nerve Finance",
@@ -90602,7 +90638,10 @@
     "sawBirth": "20210310",
     "forked_data": [
       "https://bscscan.com/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NerveNetwork": {
     "name": "NerveNetwork",
@@ -90612,7 +90651,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/NerveNetwork/nerve"
+    "git": "https://github.com/NerveNetwork/nerve",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nervos Network": {
     "name": "Nervos Network",
@@ -90622,7 +90664,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/nervosnetwork"
+    "git": "https://github.com/nervosnetwork",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NestEGG Coin": {
     "name": "NestEGG Coin",
@@ -90632,7 +90677,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/SirElven8/NestEGG/releases"
+    "git": "https://github.com/SirElven8/NestEGG/releases",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Nestree": {
     "name": "Nestree",
@@ -90646,17 +90694,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
       "https://ethplorer.io/address/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
-    ]
-  },
-  "NetCoin": {
-    "name": "NetCoin",
-    "git": "https://github.com/netcoinproject/netcoin",
-    "tags": [
-      "External",
-      "BitcoinL",
-      "LitecoinL",
-      "NetCoinL"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NetKoin": {
     "name": "NetKoin",
@@ -90677,7 +90718,10 @@
     },
     "deaths": [
       "01011970"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Netbox Coin": {
     "name": "Netbox Coin",
@@ -90690,7 +90734,10 @@
       "Staking",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/netboxglobal"
+    "git": "https://github.com/netboxglobal",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Netflix tokenized stock Bittrex": {
     "name": "Netflix tokenized stock Bittrex",
@@ -90708,7 +90755,10 @@
       "20210320",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Netflix tokenized stock FTX": {
     "name": "Netflix tokenized stock FTX",
@@ -90719,7 +90769,10 @@
       "Ftx",
       "Token"
     ],
-    "sawBirth": "20201208"
+    "sawBirth": "20201208",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Netko": {
     "name": "Netko",
@@ -90793,7 +90846,10 @@
       "20210328",
       "20210329"
     ],
-    "git": "https://github.com/NetkoCoin"
+    "git": "https://github.com/NetkoCoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Netkoin": {
     "name": "Netkoin",
@@ -90836,7 +90892,10 @@
       "20210309",
       "20210316",
       "20210322"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Netrum": {
     "name": "Netrum",
@@ -90915,7 +90974,10 @@
       "20210325",
       "20210329"
     ],
-    "git": "https://github.com/Netrum/Netrum-Blockchain"
+    "git": "https://github.com/Netrum/Netrum-Blockchain",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neumark": {
     "name": "Neumark",
@@ -90931,7 +90993,10 @@
       "https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32",
       "https://ethplorer.io/address/0xa823e6722006afe99e91c30ff5295052fe6b8e32"
     ],
-    "git": "https://github.com/Neufund/"
+    "git": "https://github.com/Neufund/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neural Protocol": {
     "name": "Neural Protocol",
@@ -90945,7 +91010,10 @@
       "https://etherscan.io/token/0x3918c42f14f2eb1168365f911f63e540e5a306b5",
       "https://ethplorer.io/address/0x3918c42f14f2eb1168365f911f63e540e5a306b5"
     ],
-    "git": "https://github.com/neuralprotocol/NRPSmartContract"
+    "git": "https://github.com/neuralprotocol/NRPSmartContract",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NeuroChain": {
     "name": "NeuroChain",
@@ -90959,7 +91027,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x5d48f293baed247a2d0189058ba37aa238bd4725",
       "https://ethplorer.io/address/0x5d48f293baed247a2d0189058ba37aa238bd4725"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neuromorphic.io": {
     "name": "Neuromorphic.io",
@@ -90973,7 +91044,10 @@
       "https://etherscan.io/token/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
       "https://ethplorer.io/address/0x4d6b9f281af31916a0f16d1cea2ec7384851eaab"
     ],
-    "git": "https://github.com/NeuromorphicIO/"
+    "git": "https://github.com/NeuromorphicIO/",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neurotoken": {
     "name": "Neurotoken",
@@ -90998,7 +91072,10 @@
     "deaths": [
       "20201130",
       "20210118"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neutrino Token": {
     "name": "Neutrino Token",
@@ -91006,12 +91083,17 @@
     "url": "/currencies/neutrino-system-base-token",
     "tags": [
       "Token",
-      "Ethereum Contract"
+      "Ethereum Contract",
+      "Waves Contract"
     ],
     "forked_data": [
-      "https://etherscan.io/token/0x9D79d5B61De59D882ce90125b18F74af650acB93"
+      "https://etherscan.io/token/0x9D79d5B61De59D882ce90125b18F74af650acB93",
+      "https://wavesexplorer.com/tx/6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g"
     ],
-    "sawBirth": "20201207"
+    "sawBirth": "20201207",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Neutrino USD": {
     "name": "Neutrino USD",
@@ -91032,7 +91114,10 @@
       "https://etherscan.io/token/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
       "https://bscscan.com/token/0xc4b6f32b84657e9f6a73fe119f0967be5ba8cf05"
     ],
-    "git": "https://github.com/waves-exchange/neutrino-contract"
+    "git": "https://github.com/waves-exchange/neutrino-contract",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Neutron": {
     "name": "Neutron",
@@ -91058,7 +91143,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NevaCoin": {
     "name": "NevaCoin",
@@ -91136,7 +91224,10 @@
       "20210325",
       "20210326"
     ],
-    "git": "https://github.com/Nevacoin/nevacoin"
+    "git": "https://github.com/Nevacoin/nevacoin",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "New BitShares": {
     "name": "New BitShares",
@@ -91146,7 +91237,10 @@
       "Token"
     ],
     "forked_data": [],
-    "git": "https://github.com/bitshares-cnvote/newbitshares-core"
+    "git": "https://github.com/bitshares-cnvote/newbitshares-core",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "New Year Bull": {
     "name": "New Year Bull",
@@ -91227,14 +91321,18 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "NewYork Exchange": {
     "name": "NewYork Exchange",
     "short": "NYE",
     "url": "/currencies/newyork-exchange",
     "tags": [
-      "Coin",
+      "Token",
+      "Omni Contract", 
       "Services",
       "BitcoinL",
       "DashL",
