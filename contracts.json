@@ -123,7 +123,8 @@
       "http://omniexplorer.info/asset",
       "https://omniexplorer.info/asset"
     ],
-    "contract": "Omni Contract"
+    "contract": "Omni Contract",
+    "gecko_asset_platform_id": "omni"
   },
   {
     "urls": [
@@ -145,7 +146,8 @@
     "urls": [
       "https://explorer.solana.com/address"
     ],
-    "contract": "Solana Contract"
+    "contract": "Solana Contract",
+    "gecko_asset_platform_id": "solana"
   },
   {
     "urls": [
@@ -273,6 +275,14 @@
     ],
     "contract": "Kava Contract",
     "gecko_asset_platform_id": "kava"
+  },
+  {
+    "urls": [
+      "https://explorer-mainnet.maticvigil.com/tokens"
+    ],
+    "contract": "Polygon Contract",
+    "gecko_asset_platform_id": "polygon-pos"
   }
+
 
 ]
