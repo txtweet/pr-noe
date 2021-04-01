@@ -118770,7 +118770,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stably USD": {
     "name": "Stably USD",
@@ -118794,7 +118797,10 @@
     },
     "deaths": [
       "20201211"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stacker Ventures": {
     "name": "Stacker Ventures",
@@ -118809,7 +118815,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xe0955f26515d22e347b17669993fcefcc73c3a0a",
       "https://ethplorer.io/address/0xe0955f26515d22e347b17669993fcefcc73c3a0a"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stacks": {
     "name": "Stacks",
@@ -118819,7 +118828,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/blockstack"
+    "git": "https://github.com/blockstack",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stacy": {
     "name": "Stacy",
@@ -118837,20 +118849,31 @@
     ],
     "deaths": [
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stafi": {
     "name": "Stafi",
     "short": "FIS",
     "url": "/currencies/stafi",
     "tags": [
-      "Coin",
+      "Token",
       "DeFi",
       "Substrate",
-      "Polkadot",
+      "Polkadot Contract",
+      "Ethereum Contract",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/stafiprotocol/stafi-node"
+    "forked_data": [
+      "https://stafi.subscan.io/",
+      "https://etherscan.io/token/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
+    ],
+    "git": "https://github.com/stafiprotocol/stafi-node",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stake DAO": {
     "name": "Stake DAO",
@@ -118865,7 +118888,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
       "https://ethplorer.io/address/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "StakeCubeCoin": {
     "name": "StakeCubeCoin",
@@ -118886,7 +118912,10 @@
       "MonetaryUnitL",
       "StakeCubeCoinL"
     ],
-    "git": "https://github.com/stakecube/stakecube"
+    "git": "https://github.com/stakecube/stakecube",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "StakeHound Staked Ether": {
     "name": "StakeHound Staked Ether",
@@ -118922,7 +118951,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
       "https://ethplorer.io/address/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stakenet": {
     "name": "Stakenet",
@@ -118941,7 +118973,10 @@
       "Atomic Swaps",
       "BitcoinL"
     ],
-    "git": "https://github.com/X9Developers/XSN"
+    "git": "https://github.com/X9Developers/XSN",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Staker": {
     "name": "Staker",
@@ -119012,7 +119047,10 @@
       "20210321",
       "20210326",
       "20210328"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "StakerDAO": {
     "name": "StakerDAO",
@@ -119030,7 +119068,10 @@
     "git": "https://github.com/StakerDAO",
     "forked_data": [
       "https://etherscan.io/token/0x89dcff5fd892f2bfc8b75dba12804b651f769579?a=0xe7bb039f01cbaeb8cb790864d12e408b22980d74"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Stakinglab": {
     "name": "Stakinglab",
@@ -119040,7 +119081,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/StakingLab/stakinglab/releases"
+    "git": "https://github.com/StakingLab/stakinglab/releases",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stand Share": {
     "name": "Stand Share",
@@ -119061,7 +119105,10 @@
       "20210120",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Standard Tokenization Protocol": {
     "name": "Standard Tokenization Protocol",
@@ -119076,7 +119123,10 @@
     "forked_data": [
       "https://etherscan.io/token/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
       "https://ethplorer.io/address/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "StarChain": {
     "name": "StarChain",
@@ -119097,6 +119147,9 @@
       "forked_from": [
         "Ethereum"
       ]
+    },
+    "checkedWithGecko": {
+      "found": true
     }
   },
   "StarCoin": {
@@ -119123,7 +119176,10 @@
       "20201217",
       "20201218",
       "20210106"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "StarDEX": {
     "name": "StarDEX",
@@ -119185,7 +119241,10 @@
       "20210326",
       "20210328",
       "20210329"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "StarLink": {
     "name": "StarLink",
@@ -119200,7 +119259,10 @@
     "git": "https://github.com/starlink-so/starlinkminerv2",
     "forked_data": [
       "https://scan.hecochain.com/address/0x4e252342cf35ff02c4cca9bc655129f5b4a2f901"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Starbase": {
     "name": "Starbase",
@@ -119230,7 +119292,10 @@
       "20210220",
       "20210223",
       "20210226"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Starname": {
     "name": "Starname",
@@ -119240,7 +119305,10 @@
       "Coin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/iov-one"
+    "git": "https://github.com/iov-one",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Startcoin": {
     "name": "Startcoin",
@@ -119286,7 +119354,10 @@
       "20210320",
       "20210322"
     ],
-    "git": "https://github.com/startcoin-project"
+    "git": "https://github.com/startcoin-project",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "StarterCoin": {
     "name": "StarterCoin",
@@ -119373,7 +119444,10 @@
       "20210324",
       "20210324",
       "20210325"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Stater": {
     "name": "Stater",
@@ -119389,7 +119463,10 @@
     "forked_data": [
       "https://etherscan.io/token/0x84bb947fcedba6b9c7dcead42df07e113bb03007",
       "https://ethplorer.io/address/0x84bb947fcedba6b9c7dcead42df07e113bb03007"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Status": {
     "name": "Status",
@@ -119406,7 +119483,10 @@
       "https://etherscan.io/token/StatusNetwork",
       "https://ethplorer.io/address/0x744d70fdbe2ba4cf95131626614a1763df805b9e"
     ],
-    "git": "https://github.com/status-im"
+    "git": "https://github.com/status-im",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "StaysBASE": {
     "name": "StaysBASE",
@@ -119421,7 +119501,10 @@
     "forked_data": [
       "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce",
       "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stealth": {
     "name": "Stealth",
@@ -119440,7 +119523,10 @@
       "PeercoinL",
       "BitcoinL"
     ],
-    "git": "https://github.com/StealthSend/Stealth/"
+    "git": "https://github.com/StealthSend/Stealth/",
+    "checkedWithGecko": {
+      "found": false
+    }
   },
   "Steem": {
     "name": "Steem",
@@ -119452,7 +119538,10 @@
       "Content Creation",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/steemit/steem"
+    "git": "https://github.com/steemit/steem",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Steem Dollars": {
     "name": "Steem Dollars",
@@ -119465,7 +119554,10 @@
       "Stablecoin",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/steemit/steem"
+    "git": "https://github.com/steemit/steem",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "SteepCoin": {
     "name": "SteepCoin",
@@ -119490,7 +119582,10 @@
       "20210217",
       "20210302",
       "20210308"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stellar": {
     "name": "Stellar",
@@ -119504,7 +119599,10 @@
       "Smart Contracts",
       "NoLicenceFile"
     ],
-    "git": "https://github.com/stellar"
+    "git": "https://github.com/stellar",
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stellar Classic": {
     "name": "Stellar Classic",
@@ -119539,7 +119637,10 @@
       "20210121",
       "20210122",
       "20210126"
-    ]
+    ],
+    "checkedWithGecko": {
+      "found": true
+    }
   },
   "Stellar Gold": {
     "name": "Stellar Gold",
@@ -119547,12 +119648,12 @@
     "url": "/currencies/stellar-gold",
     "tags": [
       "Token",
+      "Stellar Contract",
       "Dead"
     ],
-    "forked_data": {
-      "block": [],
-      "forked_from": []
-    },
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/XLMG-GCVNN7O5JISPEYUTLK3JYGBDWCPDIHB4MTG4PMSJVIKJCR64NOXWI3YH"
+    ],
     "deaths": [
       "20210219",
       "20210220",

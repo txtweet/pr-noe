@@ -223,7 +223,8 @@
     "urls": [
       "https://polkadot.",
       "https://scan.chainx.org/",
-      "http://edgeware.subscan.io"
+      "http://edgeware.subscan.io",
+      "https://stafi.subscan.io/"
     ],
     "contract": "Polkadot Contract",
     "gecko_asset_platform_id": "polkadot"
