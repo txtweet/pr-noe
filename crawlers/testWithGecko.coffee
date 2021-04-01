@@ -25,7 +25,9 @@ idExceptions = [
   'metaverse-dualchain-network-architecture'
   'oraclechain'
   'pegnet'
-  'somesing'
+  'triipmiles'
+  'utrum'
+  'zensports'
 ]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->

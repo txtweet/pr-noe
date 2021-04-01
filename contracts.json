@@ -217,7 +217,8 @@
       "https://blockscout.com/xdai/mainnet/",
       "https://blockscout.com/poa/xdai/tokens"
     ],
-    "contract": "xDai Contract"
+    "contract": "xDai Contract",
+    "gecko_asset_platform_id": "xdai"
   },
   {
     "urls": [
@@ -283,6 +284,13 @@
     ],
     "contract": "Polygon Contract",
     "gecko_asset_platform_id": "polygon-pos"
+  },
+  {
+    "urls": [
+      "https://tracker.icon.foundation/token"
+    ],
+    "contract": "Icon Contract",
+    "gecko_asset_platform_id": "icon"
   }
 
 
