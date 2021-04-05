@@ -48104,7 +48104,8 @@
       "DeFi",
       "Dead",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210401",
     "deaths": [
@@ -95480,7 +95481,8 @@
     "tags": [
       "Mineable",
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL"
     ],
     "sawBirth": "20210405",
     "git": "https://github.com/soldate/niobiocoin"
@@ -100030,7 +100032,8 @@
       "Masternodes",
       "Storage",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210402",
     "git": "https://github.com/PACGlobalOfficial"
@@ -146679,7 +146682,10 @@
       "Script",
       "Dead",
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "PeercoinL",
+      "WorldcoinL"
     ],
     "sawBirth": "20210405",
     "deaths": [
@@ -155116,12 +155122,15 @@
     "short": "ZWAP",
     "url": "/currencies/zilswap",
     "tags": [
-      "New",
-      "Token"
+      "Token",
+      "Zilliqua Contract",
+      "New2"
     ],
     "sawBirth": "20210403",
     "git": "https://github.com/Switcheo/zilswap",
-    "forked_data": []
+    "forked_data": [
+      "https://viewblock.io/zilliqa/address/zil1p5suryq6q647usxczale29cu3336hhp376c627"
+    ]
   },
   "Zipmex": {
     "name": "Zipmex",
@@ -155933,9 +155942,15 @@
     "short": "BMCH",
     "url": "/currencies/bmeme-cash",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210402"
+    "sawBirth": "20210402",
+    "forked_data": [
+      "https://bscscan.com/token/0x16a437ec46321e674bf0f9167d44f9e0159e0115"
+    ]
   },
   "bXIOT": {
     "name": "bXIOT",
@@ -158636,9 +158651,16 @@
     "short": "pETH18C",
     "url": "/currencies/peth18c",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210331"
+    "sawBirth": "20210331",
+    "forked_data": [
+      "https://etherscan.io/token/0xA15690E9205De386Ce849889831C1668c300C1ad",
+      "https://ethplorer.io/address/0xA15690E9205De386Ce849889831C1668c300C1ad"
+    ]
   },
   "pNetwork": {
     "name": "pNetwork",
@@ -160555,9 +160577,15 @@
     "short": "GANJA",
     "url": "/currencies/trees-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210401"
+    "sawBirth": "20210401",
+    "git": "https://github.com/treesfinance",
+    "forked_data": [
+      "https://bscscan.com/token/0x447C324f7EB99e512Ff18308203B36d3C2607e0E"
+    ]
   },
   "uPlexa": {
     "name": "uPlexa",
@@ -161178,9 +161206,15 @@
     "short": "XDEX",
     "url": "/currencies/xdefi",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210402"
+    "sawBirth": "20210402",
+    "git": "https://github.com/xdefilab",
+    "forked_data": [
+      "https://etherscan.io/token/0x000000000000d0151e748d25b766e77efe2a6c83"
+    ]
   },
   "xETH-G": {
     "name": "xETH-G",

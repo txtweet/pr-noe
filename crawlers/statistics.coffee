@@ -42,10 +42,9 @@ _.forEach cryptos, (crypt) ->
         process.exit(1)
       coin++
       result.push "Coin : #{crypt.name} [#{crypt.tags}] #{crypt.url}"
-  if "Dead" in crypt.tags and crypt.url? and currentDate in crypt.deaths
+  if "Dead" in crypt.tags and crypt.url?
     allDead++
-    if crypt.deaths.length is 1
-      dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
+    dead.push "#{crypt.name} [#{crypt.tags}] #{crypt.url}"
 
 console.log "--------- News"
 console.log "#{all} nouvelles, dont : #{token} token (dont #{displayContract()})"
