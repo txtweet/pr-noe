@@ -18,7 +18,8 @@
       "https://bscscan.com/token",
       "https://www.bscscan.com/token",
       "https://www.bscscan.com/address",
-      "https://pancakeswap.info/token"
+      "https://pancakeswap.info/token",
+      "https://explorer.fantom.network/address"
     ],
     "contract": "Binance Contract",
     "gecko_asset_platform_id": "binancecoin"
@@ -35,6 +36,12 @@
     ],
     "contract": "Chiliz Contract",
     "gecko_asset_platform_id": "chiliz"
+  },
+  {
+    "urls": [
+      "https://confluxscan.io/token"
+    ],
+    "contract": "Conflux Contract"
   },
   {
     "urls": [
@@ -57,11 +64,13 @@
       "https://explorer-mainnet.maticvigil.com/tokens",
       "https://blockchain.coinmarketcap.com/address/ethereum",
       "https://blockscout.com/etc/mainnet/address",
+      "https://blockscout.com/etc/mainnet/tokens",
       "https://enjinx.io/eth/token",
       "https://enjinx.io/en-GB/eth/token",
       "https://etherscan.io/address",
       "https://etherscan.io/token",
       "http://etherscan.io/token",
+      "https://etherscan.io/dapp",
       "https://ethplorer.address/token",
       "https://ethplorer.io/addres",
       "http://ethplorer.io/address",
