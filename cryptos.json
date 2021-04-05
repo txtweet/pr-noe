@@ -148543,13 +148543,13 @@
       "Stablecoin",
       "Token",
       "Ethereum Contract",
-      "Zilliqa",
+      "Zilliqa Contract",
       "Other Contract"
     ],
     "sawBirth": "20210218",
     "git": "https://github.com/Xfers/StraitsX-tokens",
-    "explorer": "https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh?txsType=token-contract&specific=zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh&page=1",
     "forked_data": [
+      "https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh?txsType=token-contract&specific=zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh&page=1",
       "https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96"
     ],
     "checkedWithGecko": {
@@ -154289,14 +154289,15 @@
     "short": "ZUZ",
     "url": "/currencies/zuz-protocol",
     "tags": [
-      "New",
       "NoGitHub",
       "Token",
-      "Ethereum Contract"
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210402",
     "forked_data": [
-      "https://etherscan.io/token/0x202f1877e1db1120ca3e9a98c5d505e7f035c249"
+      "https://etherscan.io/token/0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+      "https://explorer-mainnet.maticvigil.com/address/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad/transactions"
     ]
   },
   "ZYX": {
@@ -155115,9 +155116,12 @@
     "short": "ZWAP",
     "url": "/currencies/zilswap",
     "tags": [
-      "New"
+      "New",
+      "Token"
     ],
-    "sawBirth": "20210403"
+    "sawBirth": "20210403",
+    "git": "https://github.com/Switcheo/zilswap",
+    "forked_data": []
   },
   "Zipmex": {
     "name": "Zipmex",
@@ -157221,7 +157225,11 @@
     "url": "/currencies/governance-zil",
     "tags": [
       "Token",
-      "NoLicenceFile"
+      "NoLicenceFile",
+      "Zilliqa Contract"
+    ],
+    "forked_data": [
+      "https://viewblock.io/zilliqa/address/zil14pzuzq6v6pmmmrfjhczywguu0e97djepxt8g3e"
     ],
     "sawBirth": "20201218",
     "git": "https://github.com/Zilliqa/staking-contract/blob/bug_bounty/contracts/gzil.scilla",
