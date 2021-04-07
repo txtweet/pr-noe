@@ -307,6 +307,13 @@
       "https://viewblock.io/zilliqa/address"
     ],
     "contract": "Zilliqua Contract"
+  },
+  {
+    "urls": [
+      "https://iotexscan.io/token"
+    ],
+    "contract": "IOtex Contract",
+    "gecko_asset_platform_id": "iotex"
   }
 
 
