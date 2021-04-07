@@ -163,6 +163,20 @@
       "found": true
     }
   },
+  "iLINK": {
+    "name": "iLINK",
+    "short": "ILINK",
+    "url": "/currencies/ilink",
+    "tags": [
+      "Synthetics",
+      "Token",
+      "Ethereum Contract",
+      "Dead"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x2d7aC061fc3db53c39fe1607fB8cec1B2C162B01"
+    ]
+  },
   "0cash": {
     "name": "0cash",
     "short": "ZCH",
@@ -56864,7 +56878,7 @@
       "found": false
     }
   },
-  "xCrypt Token" {
+  "xCrypt Token": {
     "name": "xCrypt Token",
     "short": "XCT",
     "url": "/currencies/xcrypt-token",
