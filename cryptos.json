@@ -31498,7 +31498,8 @@
       "Enterprise solutions",
       "Hashkey Capital Portfolio",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210409",
     "git": "https://github.com/CasperLabs"
@@ -43006,7 +43007,13 @@
     "url": "/currencies/dappercoin",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "PeercoinL",
+      "NovaCoinL",
+      "BlackCoinL",
+      "DAPPL"
     ],
     "sawBirth": "20210407",
     "git": "https://github.com/dapperlink/dappcoin"
@@ -60159,7 +60166,8 @@
     "tags": [
       "Dead",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210408",
     "deaths": [
@@ -60804,7 +60812,8 @@
     "url": "/currencies/findora",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210412",
     "git": "https://github.com/findoraorg"
