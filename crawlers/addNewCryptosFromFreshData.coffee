@@ -110,6 +110,7 @@ tagsTables =
   'token': 'Token'
   'tokenized-stock': 'Tokenized Stock'
   'tron': 'Tron'
+  'wallet': 'Wallet'
   'wrapped-tokens': 'Wrapped Tokens'
   'x11': 'X11'
   'x13': 'X13'
