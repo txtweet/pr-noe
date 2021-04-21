@@ -27,6 +27,7 @@ tagsTables =
   'communications-social-media': 'Communications & Social Media'
   'content-creation':'Content Creation'
   'cosmos-ecosystem': 'Cosmos Ecosystem'
+  'crowdfunding': 'Crowdfunding'
   'cybersecurity': 'Cybersecurity'
   'dao': 'Dao'
   'dao-maker': 'DAO Maker'
