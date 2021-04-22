@@ -4079,9 +4079,17 @@
     "short": "ANT",
     "url": "/currencies/antcoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Neo Contract",
+      "New2"
     ],
-    "sawBirth": "20210421"
+    "sawBirth": "20210421",
+    "forked_data": [
+      "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+      "https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+      "https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+    ]
   },
   "AOS": {
     "name": "AOS",
@@ -10861,9 +10869,15 @@
     "short": "AQUAGOAT",
     "url": "/currencies/aquagoat-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210421"
+    "sawBirth": "20210421",
+    "forked_data": [
+      "https://bscscan.com/token/0x07af67b392b7a202fad8e0fbc64c34f33102165b"
+    ]
   },
   "AquariusCoin": {
     "name": "AquariusCoin",
@@ -14677,9 +14691,13 @@
     "short": "BIXB",
     "url": "/currencies/bixbcoin",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
-    "sawBirth": "20210421"
+    "explorer": "http://bixbexplorer.com",
+    "sawBirth": "20210421",
+    "git": "https://github.com/Bixbcoin/Bixbcoin-core",
+    "forked_data": []
   },
   "BIZKEY": {
     "name": "BIZKEY",
@@ -16190,9 +16208,15 @@
     "short": "BA",
     "url": "/currencies/batorrent",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Tron Contract",
+      "New2"
     ],
-    "sawBirth": "20210416"
+    "sawBirth": "20210416",
+    "forked_data": [
+      "https://tronscan.org/#/token/1003743"
+    ]
   },
   "BaaSid": {
     "name": "BaaSid",
@@ -16377,9 +16401,15 @@
     "short": "BAFE",
     "url": "/currencies/bafe-io",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210421"
+    "sawBirth": "20210421",
+    "forked_data": [
+      "https://bscscan.com/token/0x7bb362962F2a4E2089466C79566572B37CFc5D78"
+    ]
   },
   "Bafi Finanace": {
     "name": "Bafi Finanace",
@@ -17445,9 +17475,15 @@
     "short": "BSJ",
     "url": "/currencies/basenjidao",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210415"
+    "sawBirth": "20210415",
+    "forked_data": [
+      "https://etherscan.io/token/0x43901e05f08f48546fff8d6f8df108f60570498b"
+    ]
   },
   "Basic Attention Token": {
     "name": "Basic Attention Token",
@@ -18695,12 +18731,18 @@
     "short": "BCMC1",
     "url": "/currencies/beforecoinmarketcap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210420",
     "deaths": [
       "20210420"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0xd5e2a54fef5f9e4a6b21ec646bbed7a160a00f18"
     ]
   },
   "Behodler": {
@@ -19433,10 +19475,17 @@
     "short": "BYN",
     "url": "/currencies/beyond-finance",
     "tags": [
-      "New",
-      "DuckSTARTER"
+      "DuckSTARTER",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210415"
+    "sawBirth": "20210415",
+    "git": "https://github.com/Beyond-Trade",
+    "forked_data": [
+      "https://etherscan.io/token/0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+      "https://ethplorer.io/address/0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca"
+    ]
   },
   "Beyond Meat Inc tokenized stock Bittrex": {
     "name": "Beyond Meat Inc tokenized stock Bittrex",
@@ -20315,9 +20364,15 @@
     "short": "BCAPS",
     "url": "/currencies/binacaps",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210415"
+    "sawBirth": "20210415",
+    "forked_data": [
+      "https://bscscan.com/token/0xfed2b9ed4f3a6baa02543a9db86524dd790fcc65"
+    ]
   },
   "Binance Beacon ETH": {
     "name": "Binance Beacon ETH",
@@ -22861,15 +22916,17 @@
     "short": "BTCBAM",
     "url": "/currencies/bitcoin-bam",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210419",
     "deaths": [
       "20210419",
       "20210420",
       "20210421"
-    ]
+    ],
+    "git": "https://github.com/bitcoinbam"
   },
   "Bitcoin CZ": {
     "name": "Bitcoin CZ",
@@ -24995,7 +25052,9 @@
     "short": "BITSZ",
     "url": "/currencies/bitsz",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210420"
   },
