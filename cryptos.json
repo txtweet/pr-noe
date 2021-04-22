@@ -22918,7 +22918,8 @@
     "tags": [
       "Dead",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210419",
     "deaths": [
@@ -45679,7 +45680,8 @@
     "url": "/currencies/darwinia-crab-network",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210416",
     "git": "https://github.com/darwinia-network"
@@ -98682,7 +98684,8 @@
       "Polychain Capital Portfolio",
       "Platform Token",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210416",
     "git": "https://github.com/MinaProtocol/mina"
@@ -106683,7 +106686,10 @@
     "url": "/currencies/nodestats",
     "tags": [
       "Coin",
-      "New2"
+      "New2",
+      "BitcoinL",
+      "DashL",
+      "NodestatsL"
     ],
     "sawBirth": "20210416",
     "git": "https://github.com/NODESTATS-NS/nodestats"
@@ -172310,7 +172316,8 @@
     "tags": [
       "Dead",
       "Coin",
-      "New2"
+      "New2",
+      "NoLicenceFile"
     ],
     "sawBirth": "20210421",
     "deaths": [
