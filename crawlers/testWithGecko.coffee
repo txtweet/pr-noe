@@ -31,8 +31,8 @@ idExceptions = [
 ]
 # console.log _.values(cryptos)
 Promise.each (_.values(cryptos)), (crypto) ->
-  console.log "test #{crypto.name}"
   unless crypto.checkedWithGecko?
+    console.log "test #{crypto.name}"
     crypto.checkedWithGecko = {}
     request
       url: "https://api.coingecko.com/api/v3/coins/#{crypto.url.replace("/currencies/", "")}?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false"
