@@ -73211,9 +73211,15 @@
     "short": "FROGE",
     "url": "/currencies/froge-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://etherscan.io/token/0x29502fe4d233ef0b45c3647101fa1252ce0634bd"
+    ]
   },
   "Fromm Car": {
     "name": "Fromm Car",
@@ -75744,9 +75750,15 @@
     "short": "GAZE",
     "url": "/currencies/gazetv",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://etherscan.io/token/0xd1e06952708771f71e6dd18f06ee418f6e8fc564"
+    ]
   },
   "Gbrick": {
     "name": "Gbrick",
@@ -76583,9 +76595,15 @@
     "short": "GTN",
     "url": "/currencies/glitzkoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Stellar Contract",
+      "New2"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/GTN-GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46"
+    ]
   },
   "Global AEX Token": {
     "name": "Global AEX Token",
@@ -77996,9 +78014,15 @@
     "short": "GOLDUCK",
     "url": "/currencies/golden-duck",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://bscscan.com/token/0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb"
+    ]
   },
   "Golden Goose": {
     "name": "Golden Goose",
@@ -78287,9 +78311,15 @@
     "short": "GLDR",
     "url": "/currencies/goldergames",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "git": "https://github.com/Goldergames/",
+    "forked_data": [
+      "https://etherscan.io/token/0xf2ba4afcbe22f0e626d67d8f31e96428706282e9"
+    ]
   },
   "Golem": {
     "name": "Golem",
@@ -78465,9 +78495,15 @@
     "short": "GFI",
     "url": "/currencies/gorilla-fi",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://bscscan.com/token/0xc82C80E03E491B252Cae745575ea2d1c2fDDe25A"
+    ]
   },
   "GorillaYield": {
     "name": "GorillaYield",
@@ -78896,9 +78932,15 @@
     "short": "GNT",
     "url": "/currencies/greentrust",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/GreenTrusttoken",
+    "forked_data": [
+      "https://bscscan.com/token/0xf750a26eb0acf95556e8529e72ed530f3b60f348"
+    ]
   },
   "Greenheart Punt": {
     "name": "Greenheart Punt",
@@ -80707,9 +80749,15 @@
     "short": "HAMTARO",
     "url": "/currencies/hamtaro",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/HamtaroBSC/Hamtaro.sol",
+    "forked_data": [
+      "https://bscscan.com/token/0x4d4cc29b9c4e413cfe5f898e16280f11db57e186"
+    ]
   },
   "Hanacoin": {
     "name": "Hanacoin",
@@ -81629,8 +81677,11 @@
     "short": "HAWK",
     "url": "/currencies/hawkdex",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210503",
     "deaths": [
@@ -81638,6 +81689,9 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x69CBC7449ee102eB792f1656744bF1A7c1bACB7e/token-transfers"
     ]
   },
   "Haze Finance": {
@@ -83244,9 +83298,15 @@
     "short": "HOKK",
     "url": "/currencies/hokkaido-inu",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "forked_data": [
+      "https://etherscan.io/token/0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e"
+    ]
   },
   "HoldToWin": {
     "name": "HoldToWin",
@@ -83803,19 +83863,31 @@
     "short": "HOPE",
     "url": "/currencies/hope-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "forked_data": [
+      "https://bscscan.com/token/0x6f2afbf4f5e5e804c5b954889d7bf3768a3c9a45"
+    ]
   },
   "Hord": {
     "name": "Hord",
     "short": "HORD",
     "url": "/currencies/hord",
     "tags": [
-      "New",
-      "DAO Maker"
+      "DAO Maker",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210424"
+    "sawBirth": "20210424",
+    "forked_data": [
+      "https://etherscan.io/address/0x43a96962254855f16b925556f9e97be436a43448"
+    ]
   },
   "Horizen": {
     "name": "Horizen",
@@ -84922,9 +84994,15 @@
     "short": "HYPER",
     "url": "/currencies/hyperchain",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://bscscan.com/token/0x565d931cba7c7e1af3925f77124d5e2d68311bbe"
+    ]
   },
   "HyperDAO": {
     "name": "HyperDAO",
@@ -87013,12 +87091,18 @@
     "short": "ICA",
     "url": "/currencies/icarus-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210422",
     "deaths": [
       "20210423"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x95111f630ac215eb74599ed42c67e2c2790d69e2"
     ]
   },
   "Iconic": {
@@ -87397,9 +87481,15 @@
     "short": "IMX",
     "url": "/currencies/impermax",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/Impermax-Finance",
+    "forked_data": [
+      "https://etherscan.io/address/0x7b35ce522cb72e4077baeb96cb923a5529764a00"
+    ]
   },
   "Impleum": {
     "name": "Impleum",
@@ -87878,9 +87968,15 @@
     "short": "INFINITY",
     "url": "/currencies/infinity-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://bscscan.com/token/0xF27A589281e1B933E122dFe306EbfD02B061850F"
+    ]
   },
   "InflationCoin": {
     "name": "InflationCoin",
@@ -89562,9 +89658,15 @@
     "short": "VSPACEX",
     "url": "/currencies/ito-vault",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/itovault/ItoVault",
+    "forked_data": [
+      "https://etherscan.io/token/0x44e28f2acc84c36373badcd681749d38e01e2cc4"
+    ]
   },
   "Ivy": {
     "name": "Ivy",
@@ -90739,10 +90841,17 @@
     "short": "STAK",
     "url": "/currencies/jigstack",
     "tags": [
-      "New",
-      "Dao"
+      "Dao",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "git": "https://github.com/jigstack-dev",
+    "forked_data": [
+      "https://etherscan.io/token/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13",
+      "https://ethplorer.io/address/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13"
+    ]
   },
   "Jinbi Token": {
     "name": "Jinbi Token",
@@ -91406,9 +91515,15 @@
     "short": "KILI",
     "url": "/currencies/kilimanjaro",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://bscscan.com/token/0x865d0c78d08bd6e5f0db6bcbf36d3f8eb4ad48f8#balances"
+    ]
   },
   "KIMCHI.finance": {
     "name": "KIMCHI.finance",
@@ -91540,9 +91655,15 @@
     "short": "KLT",
     "url": "/currencies/klend",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://bscscan.com/token/0xf95995d642c652e9a7D124d546A7bDF297c6d0fB"
+    ]
   },
   "KNOW": {
     "name": "KNOW",
@@ -92943,9 +93064,17 @@
     "short": "KEL",
     "url": "/currencies/kelvpn",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432",
+      "https://bscscan.com/token/0x4e1b16ef22935a575a6811d4616f98c4077e4408"
+    ]
   },
   "Kemacoin": {
     "name": "Kemacoin",
@@ -94496,8 +94625,10 @@
     "short": "KRILL",
     "url": "/currencies/krill",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210427",
     "deaths": [
@@ -94511,6 +94642,10 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "git": "https://github.com/polywhalefarm/contracts",
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/token-transfers"
     ]
   },
   "Krios": {
@@ -94651,10 +94786,16 @@
     "short": "KRYPTO",
     "url": "/currencies/kryptobellion",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "forked_data": [
+      "https://bscscan.com/token/0x9f9830631cd280d62772944a2AF06213E7A23771"
+    ]
   },
   "Kryptofranc": {
     "name": "Kryptofranc",
@@ -95352,7 +95493,6 @@
     "short": "KNC",
     "url": "/currencies/kyber-network-crystal-legacy",
     "tags": [
-      "New",
       "Marketplace",
       "Decentralized exchange",
       "DeFi",
@@ -95362,9 +95502,18 @@
       "Governance",
       "Kinetic Capital",
       "Pantera Capital Portfolio",
-      "ParaFi capital"
+      "ParaFi capital",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "git": "https://github.com/kybernetwork",
+    "forked_data": [
+      "https://etherscan.io/token/KyberNetwork",
+      "https://ethplorer.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "https://blockchair.com/ethereum/erc-20/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+    ]
   },
   "Kylin": {
     "name": "Kylin",
@@ -96343,10 +96492,16 @@
     "short": "LOCG",
     "url": "/currencies/locgame",
     "tags": [
-      "New",
-      "DAO Maker"
+      "DAO Maker",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "forked_data": [
+      "https://etherscan.io/token/0x60eb57d085c59932d5faa6c6026268a4386927d0"
+    ]
   },
   "LOCIcoin": {
     "name": "LOCIcoin",
@@ -96944,10 +97099,17 @@
     "short": "LABRA",
     "url": "/currencies/labra-finance",
     "tags": [
-      "New",
-      "Memes"
+      "Memes",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "git": "https://github.com/LabraToken",
+    "forked_data": [
+      "https://etherscan.io/token/0x106d3c66d22d2dd0446df23d7f5960752994d600",
+      "https://ethplorer.io/address/0x106d3c66d22d2dd0446df23d7f5960752994d600"
+    ]
   },
   "Ladder Network Token": {
     "name": "Ladder Network Token",
@@ -97578,9 +97740,16 @@
     "short": "LEMD",
     "url": "/currencies/lemond",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "git": "https://github.com/Lemond-finance/lemond",
+    "forked_data": [
+      "https://etherscan.io/token/0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa",
+      "https://ethplorer.io/address/0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa"
+    ]
   },
   "Lemur Finance": {
     "name": "Lemur Finance",
@@ -98783,11 +98952,18 @@
     "short": "LUSD",
     "url": "/currencies/liquity-usd",
     "tags": [
-      "New",
       "DeFi",
-      "Stablecoin"
+      "Stablecoin",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://etherscan.io/token/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "https://ethplorer.io/address/0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+    ]
   },
   "Lisk": {
     "name": "Lisk",
@@ -100035,9 +100211,15 @@
     "short": "LOT",
     "url": "/currencies/lottery-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "forked_data": [
+      "https://bscscan.com/token/0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7"
+    ]
   },
   "Lotto": {
     "name": "Lotto",
@@ -100963,11 +101145,19 @@
     "short": "LMT",
     "url": "/currencies/lympo-market-token",
     "tags": [
-      "New",
       "Sports",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "forked_data": [
+      "https://etherscan.io/token/0x327673ae6b33bd3d90f0096870059994f30dc8af",
+      "https://bscscan.com/token/0x9617857e191354dbea0b714d78bc59e57c411087"
+    ]
   },
   "Lynx": {
     "name": "Lynx",
@@ -102705,9 +102895,15 @@
     "short": "MORPH",
     "url": "/currencies/morphose",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210503"
+    "sawBirth": "20210503",
+    "git": "https://github.com/morphosecash",
+    "forked_data": [
+      "https://bscscan.com/token/0x2b15bc62d1fb46ade4763a3c5ea0917460bb25f1"
+    ]
   },
   "MOTIV Protocol": {
     "name": "MOTIV Protocol",
@@ -103115,9 +103311,15 @@
     "short": "MYID",
     "url": "/currencies/my-identity-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210429"
+    "sawBirth": "20210429",
+    "forked_data": [
+      "https://etherscan.io/token/0x5273063725a43a323300c502478c22fbb4e92c2d"
+    ]
   },
   "MYCE": {
     "name": "MYCE",
@@ -104152,9 +104354,15 @@
     "short": "MPL",
     "url": "/currencies/maple",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210502"
+    "sawBirth": "20210502",
+    "git": "https://github.com/maple-labs",
+    "forked_data": [
+      "https://etherscan.io/address/0x33349b282065b0284d756f0577fb39c158f935e6"
+    ]
   },
   "Marblecoin": {
     "name": "Marblecoin",
@@ -106197,9 +106405,15 @@
     "short": "MEDIA",
     "url": "/currencies/media-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Solana Contract",
+      "New2"
     ],
-    "sawBirth": "20210502"
+    "sawBirth": "20210502",
+    "forked_data": [
+      "https://explorer.solana.com/address/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs"
+    ]
   },
   "MedicCoin": {
     "name": "MedicCoin",
@@ -106530,9 +106744,15 @@
     "short": "MEL",
     "url": "/currencies/melalie",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0xed0889f7e1c7c7267407222be277e1f1ef4d4892"
+    ]
   },
   "Melecoin": {
     "name": "Melecoin",
@@ -106684,21 +106904,33 @@
     "short": "MEPAD",
     "url": "/currencies/memepad",
     "tags": [
-      "New",
       "Memes",
-      "Exnetwork Capital Portfolio"
+      "Exnetwork Capital Portfolio",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "forked_data": [
+      "https://bscscan.com/token/0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5"
+    ]
   },
   "Memes Token": {
     "name": "Memes Token",
     "short": "MEMES",
     "url": "/currencies/memes-token",
     "tags": [
-      "New",
-      "Memes"
+      "Memes",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210503"
+    "sawBirth": "20210503",
+    "forked_data": [
+      "https://bscscan.com/token/0x40b165fd5ddc75ad0bddc9add0adabff5431a975"
+    ]
   },
   "Memetic / PepeCoin": {
     "name": "Memetic / PepeCoin",
@@ -107703,9 +107935,15 @@
     "short": "MILK",
     "url": "/currencies/milk-token",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "git": "https://github.com/cclaypool1/MilkToken/blob/main/Milk.sol",
+    "forked_data": [
+      "https://bscscan.com/token/0xb7CEF49d89321e22dd3F51a212d58398Ad542640"
+    ]
   },
   "Milktea.finance": {
     "name": "Milktea.finance",
@@ -108305,9 +108543,15 @@
     "short": "MOR",
     "url": "/currencies/mirror-farm",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://bscscan.com/token/0x85e5682cc4513358f765cb8df98f1dd140c6cf86"
+    ]
   },
   "Mirror Protocol": {
     "name": "Mirror Protocol",
@@ -108942,9 +109186,15 @@
     "short": "SOME",
     "url": "/currencies/mixsome",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71"
+    ]
   },
   "Mixty Finance": {
     "name": "Mixty Finance",
@@ -109357,9 +109607,15 @@
     "short": "MOMA",
     "url": "/currencies/mochi-market",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "forked_data": [
+      "https://etherscan.io/token/0xbd1848e1491d4308ad18287a745dd4db2a4bd55b"
+    ]
   },
   "Mochimo": {
     "name": "Mochimo",
@@ -109517,9 +109773,15 @@
     "short": "MOFI",
     "url": "/currencies/mofi-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "git": "https://github.com/mofifinance",
+    "forked_data": [
+      "https://bscscan.com/token/0x984d3e9906ef5f3e44576140cd0cf649ba1befa8"
+    ]
   },
   "Mogu": {
     "name": "Mogu",
@@ -109543,11 +109805,17 @@
     "short": "STARS",
     "url": "/currencies/mogul-productions",
     "tags": [
-      "New",
       "Crowdfunding",
-      "Entertainment"
+      "Entertainment",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "git": "https://github.com/mogulproductions/stars",
+    "forked_data": [
+      "https://etherscan.io/token/0xc55c2175e90a46602fd42e931f62b3acc1a013ca"
+    ]
   },
   "Moin": {
     "name": "Moin",
@@ -110796,9 +111064,15 @@
     "short": "MBS",
     "url": "/currencies/moonboys",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "forked_data": [
+      "https://bscscan.com/token/0xe361344013cC906c56bbA111bDE00C421852c73b"
+    ]
   },
   "MoonDAO": {
     "name": "MoonDAO",
@@ -110879,9 +111153,15 @@
     "short": "MOONMOON",
     "url": "/currencies/moonmoon",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210502"
+    "sawBirth": "20210502",
+    "forked_data": [
+      "https://bscscan.com/token/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79"
+    ]
   },
   "MoonRat": {
     "name": "MoonRat",
@@ -111024,9 +111304,15 @@
     "short": "MOONI",
     "url": "/currencies/mooni-defi",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/mooni-defi",
+    "forked_data": [
+      "https://bscscan.com/token/0xed438051437c22a9ef249b68c7e292435fe8b858"
+    ]
   },
   "Moonshot": {
     "name": "Moonshot",
@@ -112103,9 +112389,15 @@
     "short": "MUST",
     "url": "/currencies/mustangtoken",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance Contract"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "git": "https://github.com/WalterMustang/MustangToken/blob/main/MustangToken.sol",
+    "forked_data": [
+      "https://bscscan.com/token/0xa042d20aBE198E516d885Da52a633B6D44F339B9"
+    ]
   },
   "Mute": {
     "name": "Mute",
