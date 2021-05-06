@@ -318,7 +318,11 @@
     ],
     "contract": "IOtex Contract",
     "gecko_asset_platform_id": "iotex"
+  },
+  {
+    "urls": [
+      "https://iotexscan.io/token"
+    ],
+    "contract": "Avalance Contract"
   }
-
-
 ]

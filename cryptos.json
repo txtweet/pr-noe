@@ -37421,19 +37421,6 @@
       "https://hecoinfo.com/token/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890"
     ]
   },
-  "Chainswap Swap": {
-    "name": "Chainswap Swap",
-    "short": "TOKEN",
-    "url": "/currencies/chainswap-swap",
-    "tags": [
-      "New",
-      "Dead"
-    ],
-    "sawBirth": "20210423",
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Chalice Finance": {
     "name": "Chalice Finance",
     "short": "CHAL",
@@ -37742,9 +37729,15 @@
     "short": "CHZ006",
     "url": "/currencies/charizardtoken",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://bscscan.com/token/0x706954491ebfd6b38e5b1e6f079dbefae0f5eba0"
+    ]
   },
   "ChartEx": {
     "name": "ChartEx",
@@ -38184,9 +38177,11 @@
     "short": "XCH",
     "url": "/currencies/chia-network",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/Chia-Network"
   },
   "Chicken": {
     "name": "Chicken",
@@ -39190,11 +39185,14 @@
     "short": "CLV",
     "url": "/currencies/clover",
     "tags": [
-      "New",
+      "New2",
       "Substrate",
-      "Polkadot Ecosystem"
+      "Polkadot Ecosystem",
+      "Token"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "git": "https://github.com/clover-network",
+    "forked_data": []
   },
   "Club Atletico Independiente": {
     "name": "Club Atletico Independiente",
