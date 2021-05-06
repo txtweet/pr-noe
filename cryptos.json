@@ -146016,9 +146016,15 @@
     "short": "SHEESHA",
     "url": "/currencies/sheesha-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/smartchain2030/sheesha-finance",
+    "forked_data": [
+      "https://www.bscscan.com/address/0x232FB065D9d24c34708eeDbF03724f2e95ABE768"
+    ]
   },
   "SherLOCK Security": {
     "name": "SherLOCK Security",
@@ -146146,9 +146152,15 @@
     "short": "SHILD",
     "url": "/currencies/shield-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "forked_data": [
+      "https://bscscan.com/token/0x0e690ee6fcc26bc09fed2d2287268c23d4a81e42"
+    ]
   },
   "Shield Protocol": {
     "name": "Shield Protocol",
@@ -146576,9 +146588,11 @@
     "short": "SHO",
     "url": "/currencies/showcase",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210429"
+    "sawBirth": "20210429",
+    "git": "https://github.com/showcaseplatform"
   },
   "Shrimp Capital": {
     "name": "Shrimp Capital",
@@ -147631,9 +147645,15 @@
     "short": "SLAM",
     "url": "/currencies/slam-token",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "git": "https://github.com/slamtoken",
+    "forked_data": [
+      "https://bscscan.com/token/0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37"
+    ]
   },
   "Slime Finance": {
     "name": "Slime Finance",
@@ -147941,12 +147961,18 @@
     "short": "SMG",
     "url": "/currencies/smaugs-nft",
     "tags": [
-      "New",
       "Marketplace",
       "DApp",
-      "Binance Smart Chain"
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "forked_data": [
+      "https://bscscan.com/token/0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16"
+    ]
   },
   "SmileyCoin": {
     "name": "SmileyCoin",
@@ -148012,10 +148038,19 @@
     "short": "SMTY",
     "url": "/currencies/smoothy",
     "tags": [
-      "New",
-      "DuckSTARTER"
+      "DuckSTARTER",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "git": "https://github.com/bitcoin/",
+    "forked_data": [
+      "https://etherscan.io/token/0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "https://ethplorer.io/address/0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "https://bscscan.com/token/0xbF776e4FCa664D791C4Ee3A71e2722990E003283"
+    ]
   },
   "Smpl foundation": {
     "name": "Smpl foundation",
@@ -149085,11 +149120,18 @@
     "short": "CUBE",
     "url": "/currencies/somnium-space-cubes",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Metaverse"
+      "Metaverse",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "forked_data": [
+      "https://etherscan.io/token/0xdf801468a808a32656d2ed2d2d80b72a129739f4",
+      "https://ethplorer.io/address/0xdf801468a808a32656d2ed2d2d80b72a129739f4"
+    ]
   },
   "SongCoin": {
     "name": "SongCoin",
@@ -149734,13 +149776,19 @@
     "short": "PNGN",
     "url": "/currencies/spacepenguin",
     "tags": [
-      "New",
       "Memes",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210422",
     "deaths": [
       "20210424"
+    ],
+    "forked_data": [
+      "https://etherscan.io/address/0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a"
     ]
   },
   "Spaceswap MILK2": {
@@ -151272,9 +151320,17 @@
     "short": "STACK",
     "url": "/currencies/stackos",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "forked_data": [
+      "https://etherscan.io/token/0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+      "https://bscscan.com/token/0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3"
+    ]
   },
   "Stacker Ventures": {
     "name": "Stacker Ventures",
@@ -151634,9 +151690,15 @@
     "short": "STND",
     "url": "/currencies/standard-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "forked_data": [
+      "https://etherscan.io/token/0x9040e237C3bF18347bb00957Dc22167D0f2b999d"
+    ]
   },
   "Standard Tokenization Protocol": {
     "name": "Standard Tokenization Protocol",
@@ -152410,13 +152472,19 @@
     "short": "STEP",
     "url": "/currencies/step-finance",
     "tags": [
-      "New",
       "Solana Ecosystem",
-      "Dead"
+      "Dead",
+      "Token",
+      "Solana Contract",
+      "New2"
     ],
     "sawBirth": "20210427",
     "deaths": [
       "20210427"
+    ],
+    "git": "https://github.com/step-finance",
+    "forked_data": [
+      "https://explorer.solana.com/address/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT"
     ]
   },
   "Sting Defi": {
@@ -153097,9 +153165,15 @@
     "short": "STRI",
     "url": "/currencies/strite",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "git": "https://github.com/StriteNFT/Strite",
+    "forked_data": [
+      "https://bscscan.com/token/0x9b93c29595dd603f75854eba3c5f4ee078ee4454"
+    ]
   },
   "Strong": {
     "name": "Strong",
@@ -154250,9 +154324,15 @@
     "short": "SDX",
     "url": "/currencies/swapdex",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210422"
+    "sawBirth": "20210422",
+    "git": "https://github.com/69th-byte",
+    "forked_data": [
+      "https://etherscan.io/token/0x041fdd6637ecfd96af8804278ac12660ac2d12c0"
+    ]
   },
   "SwapShip": {
     "name": "SwapShip",
@@ -157441,9 +157521,16 @@
     "short": "TTT",
     "url": "/currencies/tapcoin",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/TapProject",
+    "forked_data": [
+      "https://etherscan.io/token/0x9f599410d207f3d2828a8712e5e543ac2e040382",
+      "https://ethplorer.io/address/0x9f599410d207f3d2828a8712e5e543ac2e040382"
+    ]
   },
   "Tapmydata": {
     "name": "Tapmydata",
@@ -158829,13 +158916,16 @@
     "short": "TCP",
     "url": "/currencies/the-crypto-prophecies",
     "tags": [
-      "New",
+      "New2",
       "Collectibles & NFTs",
       "Gaming",
       "Entertainment",
-      "DAO Maker"
+      "DAO Maker",
+      "Token",
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "git": "https://github.com/quazard-gaming/crypto-prophecies-contracts",
+    "forked_data": []
   },
   "The Currency Analytics": {
     "name": "The Currency Analytics",
