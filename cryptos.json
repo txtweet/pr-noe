@@ -158921,7 +158921,7 @@
       "Gaming",
       "Entertainment",
       "DAO Maker",
-      "Token",
+      "Token"
     ],
     "sawBirth": "20210501",
     "git": "https://github.com/quazard-gaming/crypto-prophecies-contracts",
@@ -161800,9 +161800,15 @@
     "short": "TORPEDO",
     "url": "/currencies/torpedo",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://bscscan.com/token/0xaf169e53e9f07de6f9f4eac67e2833c623f0c122"
+    ]
   },
   "TosDis": {
     "name": "TosDis",
@@ -162290,9 +162296,17 @@
     "short": "TSX",
     "url": "/currencies/tradestars",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/tradestars-app",
+    "forked_data": [
+      "https://etherscan.io/token/0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+      "https://bscscan.com/token/0x270388e0ca29cfd7c7e73903d9d933a23d1bab39"
+    ]
   },
   "Tradebitpay": {
     "name": "Tradebitpay",
@@ -162961,9 +162975,15 @@
     "short": "SEED",
     "url": "/currencies/treedefi",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/treedefi",
+    "forked_data": [
+      "https://bscscan.com/token/0x40b34cc972908060d6d527276e17c105d224559d"
+    ]
   },
   "Treecle": {
     "name": "Treecle",
@@ -164072,9 +164092,15 @@
     "short": "TRU",
     "url": "/currencies/truebit",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210503"
+    "sawBirth": "20210503",
+    "git": "https://github.com/TruebitProtocol/",
+    "forked_data": [
+      "https://etherscan.io/token/0xf65B5C5104c4faFD4b709d9D60a185eAE063276c"
+    ]
   },
   "Truegame": {
     "name": "Truegame",
@@ -164700,10 +164726,16 @@
     "short": "TWIN",
     "url": "/currencies/twinci",
     "tags": [
-      "New",
-      "Marketplace"
+      "Marketplace",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210426"
+    "sawBirth": "20210426",
+    "git": "https://github.com/twinciio",
+    "forked_data": [
+      "https://bscscan.com/token/0xaf83f292fced83032f52ced45ef7dbddb586441a"
+    ]
   },
   "Twinkle": {
     "name": "Twinkle",
@@ -165447,9 +165479,15 @@
     "short": "LAYERX",
     "url": "/currencies/unilayerx",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://etherscan.io/token/0xfe56e974c1c85e9351325fb2d62963a022ad624f"
+    ]
   },
   "UNION Protocol Governance Token": {
     "name": "UNION Protocol Governance Token",
@@ -167222,25 +167260,39 @@
     "short": "UGOTCHI",
     "url": "/currencies/unicly-aavegotchi-astronauts-collection",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x30c2a84aed6db30e31cf4d7059b1836c12c68068",
+      "https://ethplorer.io/address/0x30c2a84aed6db30e31cf4d7059b1836c12c68068"
+    ]
   },
   "Unicly Chris McCann Collection": {
     "name": "Unicly Chris McCann Collection",
     "short": "UCM",
     "url": "/currencies/unicly-chris-mccann-collection",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210428",
     "deaths": [
       "20210428",
       "20210502",
       "20210504"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x5fb99a3593d7088e44377a1beb27739bd928f269",
+      "https://ethplorer.io/address/0x5fb99a3593d7088e44377a1beb27739bd928f269"
     ]
   },
   "Unicly CryptoPunks Collection": {
@@ -167248,52 +167300,87 @@
     "short": "UPUNK",
     "url": "/currencies/unicly-cryptopunks-collection",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905",
+      "https://ethplorer.io/address/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905"
+    ]
   },
   "Unicly Doki Doki Collection": {
     "name": "Unicly Doki Doki Collection",
     "short": "UDOKI",
     "url": "/currencies/unicly-doki-doki-collection",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x7e6c38d007740931e4b419bf15a68c79a0fb0c66",
+      "https://ethplorer.io/address/0x7e6c38d007740931e4b419bf15a68c79a0fb0c66"
+    ]
   },
   "Unicly Genesis Collection": {
     "name": "Unicly Genesis Collection",
     "short": "UUNICLY",
     "url": "/currencies/unicly-genesis-collection",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3",
+      "https://ethplorer.io/address/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3"
+    ]
   },
   "Unicly Hashmasks Collection": {
     "name": "Unicly Hashmasks Collection",
     "short": "UMASK",
     "url": "/currencies/unicly-hashmasks-collection",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0x5872e64c3f93363822d2b1e4717be3398fdcea51",
+      "https://ethplorer.io/address/0x5872e64c3f93363822d2b1e4717be3398fdcea51"
+    ]
   },
   "Unicly Mystic Axies Collection": {
     "name": "Unicly Mystic Axies Collection",
     "short": "UAXIE",
     "url": "/currencies/unicly-mystic-axies-collection",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210428",
     "deaths": [
       "20210428"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f",
+      "https://ethplorer.io/address/0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f"
     ]
   },
   "Unicore": {
@@ -168074,9 +168161,16 @@
     "short": "UCT",
     "url": "/currencies/unitedcrowd",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/UnitedCrowd/uct",
+    "forked_data": [
+      "https://etherscan.io/token/0x6d1dc3928604b00180bb570bdae94b9698d33b79",
+      "https://ethplorer.io/address/0x6d1dc3928604b00180bb570bdae94b9698d33b79"
+    ]
   },
   "Unitrade": {
     "name": "Unitrade",
@@ -168652,9 +168746,11 @@
     "short": "UNO",
     "url": "/currencies/unore",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/PolkaRe"
   },
   "UnoSwap": {
     "name": "UnoSwap",
@@ -170667,13 +170763,19 @@
     "short": "VAL",
     "url": "/currencies/valkyrie-network",
     "tags": [
-      "New",
       "Crowdfunding",
       "Zero Knowledge Proofs",
       "Staking",
-      "Wallet"
+      "Wallet",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "git": "https://github.com/JPVswap?tab=projects",
+    "forked_data": [
+      "https://bscscan.com/token/0x8e56f77fbd2f58256f8ab81c6bb7eed0959ace04"
+    ]
   },
   "Valobit": {
     "name": "Valobit",
@@ -172324,8 +172426,10 @@
     "short": "vADA",
     "url": "/currencies/venus-cardano",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210423",
     "deaths": [
@@ -172343,6 +172447,10 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "git": "https://github.com/VenusProtocol/venus-protocol",
+    "forked_data": [
+      "https://bscscan.com/token/0x9a0af7fdb2065ce470d72664de73cae409da28ec"
     ]
   },
   "Venus DAI": {
@@ -172598,8 +172706,10 @@
     "short": "vDOGE",
     "url": "/currencies/venus-dogecoin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210429",
     "deaths": [
@@ -172611,6 +172721,10 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "git": "https://github.com/VenusProtocol/venus-protocol",
+    "forked_data": [
+      "https://bscscan.com/token/0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71"
     ]
   },
   "Venus ETH": {
@@ -174245,9 +174359,12 @@
     "short": "VSO",
     "url": "/currencies/verso-token",
     "tags": [
-      "New"
+      "New2",
+      "Token"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "git": "https://github.com/VersoOfficial",
+    "forked_data": []
   },
   "VersoView": {
     "name": "VersoView",
@@ -174848,8 +174965,10 @@
     "short": "VIPER",
     "url": "/currencies/viper-protocol",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "Token",
+      "Harmony Contract"
     ],
     "sawBirth": "20210503",
     "deaths": [
@@ -174857,7 +174976,9 @@
       "20210504",
       "20210505",
       "20210506"
-    ]
+    ],
+    "git": "https://github.com/VenomProtocol",
+    "forked_data": []
   },
   "Vipstar Coin": {
     "name": "Vipstar Coin",
@@ -174884,9 +175005,15 @@
     "short": "REAU",
     "url": "/currencies/vira-lata-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "forked_data": [
+      "https://bscscan.com/token/0x4c79b8c9cb0bd62b047880603a9decf36de28344"
+    ]
   },
   "Vision": {
     "name": "Vision",
@@ -175955,9 +176082,15 @@
     "short": "VLK",
     "url": "/currencies/vulkania",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://bscscan.com/token/0x0921d788e7f7498f80adb0a0a62b8a9476f2db92"
+    ]
   },
   "Vybe": {
     "name": "Vybe",
@@ -177537,11 +177670,17 @@
     "short": "WAULTX",
     "url": "/currencies/wault",
     "tags": [
-      "New",
       "Yield Aggregator",
-      "Lending Borowing"
+      "Lending Borowing",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/WaultFinance",
+    "forked_data": [
+      "https://bscscan.com/token/0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21"
+    ]
   },
   "Wault Finance (OLD)": {
     "name": "Wault Finance (OLD)",
@@ -178211,9 +178350,15 @@
     "short": "WENMOON",
     "url": "/currencies/wenmoon",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210422"
+    "sawBirth": "20210422",
+    "git": "https://github.com/wenmoontoken/WenMoonToken",
+    "forked_data": [
+      "https://bscscan.com/token/0xb93ba7DC61ECFced69067151FC00C41cA369A797"
+    ]
   },
   "Wenburn": {
     "name": "Wenburn",
@@ -178992,9 +179137,15 @@
     "short": "WINDY",
     "url": "/currencies/windswap",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://bscscan.com/token/0xd1587ee50e0333f0c4adcf261379a61b1486c5d2"
+    ]
   },
   "Winding Tree": {
     "name": "Winding Tree",
@@ -179696,8 +179847,10 @@
     "short": "WAVAX",
     "url": "/currencies/wavax",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "Token",
+      "Avalanche Contract"
     ],
     "sawBirth": "20210428",
     "deaths": [
@@ -179710,6 +179863,10 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "git": "https://github.com/ava-labs",
+    "forked_data": [
+      "https://cchain.explorer.avax.network/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/token-transfers"
     ]
   },
   "Wrapped BIND": {

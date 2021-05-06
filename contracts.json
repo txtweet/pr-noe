@@ -324,5 +324,11 @@
       "https://cchain.explorer.avax.network/address"
     ],
     "contract": "Avalanche Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.harmony.one/#/"
+    ],
+    "contract": "Harmony Contract"
   }
 ]
