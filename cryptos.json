@@ -144640,9 +144640,15 @@
     "short": "SBYTE",
     "url": "/currencies/securabyte-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "git": "https://github.com/securabyte/securabyte",
+    "forked_data": [
+      "https://bscscan.com/token/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699"
+    ]
   },
   "Secure Cash": {
     "name": "Secure Cash",
@@ -144678,8 +144684,10 @@
     "short": "SMRAT",
     "url": "/currencies/secured-moonrat-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210427",
     "deaths": [
@@ -144687,6 +144695,10 @@
       "20210428",
       "20210429",
       "20210430"
+    ],
+    "git": "https://github.com/MoonRat-Finance",
+    "forked_data": [
+      "https://bscscan.com/token/0x68590a47578e5060a29fd99654f4556dbfa05d10"
     ]
   },
   "Securypto": {
