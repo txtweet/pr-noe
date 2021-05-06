@@ -181139,9 +181139,15 @@
     "short": "XBC",
     "url": "/currencies/xbn-community-token",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "git": "https://github.com/ElasticBTC-XBT/",
+    "forked_data": [
+      "https://bscscan.com/token/0x0321394309cad7e0e424650844c3ab3b659315d3"
+    ]
   },
   "XCredit": {
     "name": "XCredit",
@@ -189818,9 +189824,15 @@
     "short": "ZEP",
     "url": "/currencies/zeppelin-dao",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/zeppelin-finance/",
+    "forked_data": [
+      "https://bscscan.com/token/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD"
+    ]
   },
   "Zer-Dex": {
     "name": "Zer-Dex",
@@ -190551,10 +190563,16 @@
     "short": "ZOO",
     "url": "/currencies/zookeeper",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "Token",
+      "Wan Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/ZooFarming/",
+    "forked_data": [
+      "https://www.wanscan.org/token/0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F"
+    ]
   },
   "Zoom Protocol": {
     "name": "Zoom Protocol",
@@ -192089,9 +192107,15 @@
     "short": "ESWAP",
     "url": "/currencies/eswapping",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/Piotrreeqq/eSwapping-LimitBot-BSC",
+    "forked_data": [
+      "https://bscscan.com/token/0x1b79708eea29900dbbbca8a5ae620ac741618ae4"
+    ]
   },
   "eToro Australian Dollar": {
     "name": "eToro Australian Dollar",
@@ -192741,9 +192765,15 @@
     "short": "G9TRO",
     "url": "/currencies/g9tro-crowdfunding-platform",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0xfc64c0adf4a08008e3fa2bf9c03540032b1c8288"
+    ]
   },
   "gAsp": {
     "name": "gAsp",
