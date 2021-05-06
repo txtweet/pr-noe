@@ -143440,12 +143440,15 @@
     "short": "SAT",
     "url": "/currencies/satisfinance-token",
     "tags": [
-      "New",
-      "Token"
+      "New2",
+      "Token",
+      "Binance Contract"
     ],
     "sawBirth": "20210423",
     "git": "https://github.com/RenovJ/SatisFi-contracts",
-    "forked_data": []
+    "forked_data": [
+      "https://bscscan.com/token/0xa1928c0d8f83c0bfb7ebe51b412b1fd29a277893"
+    ]
   },
   "SatoExchange Token": {
     "name": "SatoExchange Token",
