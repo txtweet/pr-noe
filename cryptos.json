@@ -112629,9 +112629,15 @@
     "short": "MYO",
     "url": "/currencies/mycro",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/mycro-jobs",
+    "forked_data": [
+      "https://etherscan.io/token/0x50987e6be405ebac691f8988304562e5efc3b2ea"
+    ]
   },
   "Myriad": {
     "name": "Myriad",
@@ -112681,9 +112687,17 @@
     "short": "MYC",
     "url": "/currencies/myteamcoin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "forked_data": [
+      "https://bscscan.com/token/0x6180D382913e0585062336e5FD5E85cEc5ac6C78",
+      "https://etherscan.io/token/0xb8323CfAFb0E6CC60ce332f1181D56e91BA0D8BA#balances"
+    ]
   },
   "Mythic Finance": {
     "name": "Mythic Finance",
@@ -112794,9 +112808,15 @@
     "short": "NAOS",
     "url": "/currencies/naos-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "forked_data": [
+      "https://etherscan.io/token/0x4a615bb7166210cce20e6642a6f8fb5d4d044496"
+    ]
   },
   "NCAT Token": {
     "name": "NCAT Token",
@@ -112984,9 +113004,15 @@
     "short": "ALLEY",
     "url": "/currencies/nft-alley",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210503"
+    "sawBirth": "20210503",
+    "git": "https://github.com/NFTAlley",
+    "forked_data": [
+      "https://bscscan.com/token/0xf8d954168fbbf579f8fad5f7583d4f76f10ae97d"
+    ]
   },
   "NFT Art Finance": {
     "name": "NFT Art Finance",
@@ -113924,10 +113950,17 @@
     "short": "NCT",
     "url": "/currencies/name-change-token",
     "tags": [
-      "New",
-      "Collectibles & NFTs"
+      "Collectibles & NFTs",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+      "https://ethplorer.io/address/0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e"
+    ]
   },
   "Name Changing Token": {
     "name": "Name Changing Token",
@@ -114921,9 +114954,15 @@
     "short": "SNBL",
     "url": "/currencies/nebulaprotocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210429"
+    "sawBirth": "20210429",
+    "forked_data": [
+      "https://bscscan.com/token/0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569"
+    ]
   },
   "Nebulas": {
     "name": "Nebulas",
@@ -116541,14 +116580,21 @@
     "short": "SHROOM",
     "url": "/currencies/niftyx-protocol",
     "tags": [
-      "New",
       "Collectibles & NFTs",
       "DeFi",
       "Dao",
       "Yield farming",
-      "Governance"
+      "Governance",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210424"
+    "sawBirth": "20210424",
+    "git": "https://github.com/shroom-finance/",
+    "forked_data": [
+      "https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+      "https://ethplorer.io/address/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+    ]
   },
   "Nilu": {
     "name": "Nilu",
@@ -117075,10 +117121,16 @@
     "short": "NMX",
     "url": "/currencies/nominex-token",
     "tags": [
-      "New",
-      "Centralized exchange"
+      "Centralized exchange",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210424"
+    "sawBirth": "20210424",
+    "git": "https://github.com/nominex/eth-smart-contracts",
+    "forked_data": [
+      "https://bscscan.com/token/0xD32D01A43C869EDCD1117C640FBDCFCFD97D9D65"
+    ]
   },
   "Non-Fungible Yearn": {
     "name": "Non-Fungible Yearn",
@@ -117914,9 +117966,15 @@
     "short": "OBOT",
     "url": "/currencies/obortech",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0xedadeb5faa413e6c8623461849dfd0b7c3790c32"
+    ]
   },
   "OC Protocol": {
     "name": "OC Protocol",
@@ -118155,9 +118213,15 @@
     "short": "ODIN",
     "url": "/currencies/odin-protocol",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "forked_data": [
+      "https://bscscan.com/token/0x2802eb3a20f5892956d5b9528f6bf13e648534db"
+    ]
   },
   "ODUWA": {
     "name": "ODUWA",
@@ -118718,11 +118782,18 @@
     "short": "ORAO",
     "url": "/currencies/orao-network",
     "tags": [
-      "New",
       "Oracles",
-      "DAO Maker"
+      "DAO Maker",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210504"
+    "sawBirth": "20210504",
+    "forked_data": [
+      "https://etherscan.io/token/0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035",
+      "https://ethplorer.io/address/0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035"
+    ]
   },
   "ORBYT Token": {
     "name": "ORBYT Token",
@@ -119222,9 +119293,16 @@
     "short": "OXO",
     "url": "/currencies/oxo-farm",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://etherscan.io/token/0x47dac6bd80f024575a6d367af5ba8e89202a09fc",
+      "https://ethplorer.io/address/0x47dac6bd80f024575a6d367af5ba8e89202a09fc"
+    ]
   },
   "Oasis Network": {
     "name": "Oasis Network",
@@ -121495,9 +121573,15 @@
     "short": "OX",
     "url": "/currencies/orcax",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "forked_data": [
+      "https://bscscan.com/token/0x139dd9203c8E46d15B3896814Dc9424c5e5559fA"
+    ]
   },
   "Orchid": {
     "name": "Orchid",
@@ -123312,9 +123396,16 @@
     "short": "POP!",
     "url": "/currencies/pop",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "forked_data": [
+      "https://etherscan.io/token/0x4C44F9183d99DF69B1B5fa2484BEC6EFCfFa5c98",
+      "https://ethplorer.io/address/0x4c44f9183d99df69b1b5fa2484bec6efcffa5c98"
+    ]
   },
   "POP Network Token": {
     "name": "POP Network Token",
@@ -123506,9 +123597,15 @@
     "short": "PVM",
     "url": "/currencies/privateum-initiative",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://bscscan.com/token/0x71aff23750db1f4edbe32c942157a478349035b2"
+    ]
   },
   "PRIZM": {
     "name": "PRIZM",
@@ -124363,7 +124460,8 @@
       "New",
       "Decentralized exchange",
       "Avalanche Ecosystem",
-      "Dead"
+      "Dead",
+      "Token"
     ],
     "sawBirth": "20210428",
     "deaths": [
@@ -124376,7 +124474,9 @@
       "20210504",
       "20210505",
       "20210506"
-    ]
+    ],
+    "git": "https://github.com/pangolindex/",
+    "forked_data": []
   },
   "Pantos": {
     "name": "Pantos",
