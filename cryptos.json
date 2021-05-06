@@ -270,10 +270,16 @@
     "short": "100X",
     "url": "/currencies/100xcoin",
     "tags": [
-      "New",
-      "Memes"
+      "Memes",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://bscscan.com/token/0x016c285d5b918b92aa85ef1e147498badfe30d69"
+    ]
   },
   "10x.gg": {
     "name": "10x.gg",
@@ -491,11 +497,19 @@
     "short": "1MIL",
     "url": "/currencies/1millionnfts",
     "tags": [
-      "New",
       "Collectibles & NFTs",
-      "Poolz Finance"
+      "Poolz Finance",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "forked_data": [
+      "https://etherscan.io/token/0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
+      "https://bscscan.com/token/0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016"
+    ]
   },
   "1SG": {
     "name": "1SG",
@@ -870,8 +884,10 @@
     "short": "VCK",
     "url": "/currencies/28vck",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "NoGitHub",
+      "Token"
     ],
     "sawBirth": "20210423",
     "deaths": [
@@ -887,7 +903,8 @@
       "20210502",
       "20210503",
       "20210504"
-    ]
+    ],
+    "forked_data": []
   },
   "2Based Finance": {
     "name": "2Based Finance",
@@ -1044,9 +1061,15 @@
     "short": "2GOSHI",
     "url": "/currencies/2goshi",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210503"
+    "sawBirth": "20210503",
+    "forked_data": [
+      "https://bscscan.com/token/0x70e132641d6f1bd787b119a289fee544fbb2f316"
+    ]
   },
   "2key.network": {
     "name": "2key.network",
@@ -4597,9 +4620,15 @@
     "short": "WGOLD",
     "url": "/currencies/apwars",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "git": "https://github.com/apwars",
+    "forked_data": [
+      "https://bscscan.com/token/0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51"
+    ]
   },
   "APY Vision": {
     "name": "APY Vision",
@@ -8219,9 +8248,11 @@
     "short": "AGVE",
     "url": "/currencies/agave",
     "tags": [
-      "New",
       "Lending Borowing",
-      "Dead"
+      "Dead",
+      "Token",
+      "xDai Contract",
+      "New2"
     ],
     "sawBirth": "20210427",
     "deaths": [
@@ -8235,6 +8266,10 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "git": "https://github.com/Agave-DAO/",
+    "forked_data": [
+      "https://blockscout.com/xdai/mainnet/tokens/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/token-holders"
     ]
   },
   "AgaveCoin": {
@@ -9196,9 +9231,16 @@
     "short": "MIST",
     "url": "/currencies/alchemist",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "git": "https://github.com/alchemistcoin/alchemist",
+    "forked_data": [
+      "https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+      "https://ethplorer.io/address/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab"
+    ]
   },
   "Alchemix": {
     "name": "Alchemix",
@@ -9278,9 +9320,15 @@
     "short": "AGOLP",
     "url": "/currencies/algoil",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0xb4e47ae38cd50e05409e59fc56e1fa6b0496e9ad"
+    ]
   },
   "AlgoVest": {
     "name": "AlgoVest",
@@ -10046,9 +10094,15 @@
     "short": "ALPHR",
     "url": "/currencies/alphr-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210428"
+    "sawBirth": "20210428",
+    "forked_data": [
+      "https://etherscan.io/token/0xaa99199d1e9644b588796F3215089878440D58e0"
+    ]
   },
   "Alt.Estate token": {
     "name": "Alt.Estate token",
@@ -10674,9 +10728,16 @@
     "short": "FORTH",
     "url": "/currencies/ampleforth-governance-token",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210422"
+    "sawBirth": "20210422",
+    "git": "https://github.com/ampleforth/Forth/",
+    "forked_data": [
+      "https://etherscan.io/token/0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "https://ethplorer.io/address/0x77fba179c79de5b7653f68b5039af940ada60ce0"
+    ]
   },
   "AmsterdamCoin": {
     "name": "AmsterdamCoin",
@@ -11130,9 +11191,15 @@
     "short": "FREE",
     "url": "/currencies/anti-lockdown",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://etherscan.io/token/0xc2bd7a597391f31d2e36c2cb769fce0e5bd6d482"
+    ]
   },
   "AntiMatter": {
     "name": "AntiMatter",
@@ -11851,9 +11918,12 @@
     "short": "APN",
     "url": "/currencies/apron-network",
     "tags": [
-      "New"
+      "New2",
+      "NoGitHub",
+      "Token"
     ],
-    "sawBirth": "20210422"
+    "sawBirth": "20210422",
+    "forked_data": []
   },
   "AquaGoat.Finance": {
     "name": "AquaGoat.Finance",
