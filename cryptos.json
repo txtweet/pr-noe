@@ -124457,11 +124457,13 @@
     "short": "PNG",
     "url": "/currencies/pangolin",
     "tags": [
-      "New",
+      "New2",
       "Decentralized exchange",
       "Avalanche Ecosystem",
       "Dead",
-      "Token"
+      "Token",
+      "Token",
+      "Avalanche Contract"
     ],
     "sawBirth": "20210428",
     "deaths": [
@@ -124476,7 +124478,9 @@
       "20210506"
     ],
     "git": "https://github.com/pangolindex/",
-    "forked_data": []
+    "forked_data": [
+      "https://cchain.explorer.avax.network/address/0xefa94DE7a4656D787667C749f7E1223D71E9FD88/transactions"
+    ]
   },
   "Pantos": {
     "name": "Pantos",
@@ -125650,8 +125654,10 @@
     "short": "PAYB",
     "url": "/currencies/paybswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210430",
     "deaths": [
@@ -125660,6 +125666,10 @@
       "20210502",
       "20210503",
       "20210504"
+    ],
+    "git": "https://github.com/PaybSwapp",
+    "forked_data": [
+      "https://bscscan.com/token/0x916792fd41855914ba4b71285c8a05b866f0618b"
     ]
   },
   "Payfair": {
@@ -126619,12 +126629,18 @@
     "short": "PENDLE",
     "url": "/currencies/pendle",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210429",
     "deaths": [
       "20210506"
+    ],
+    "git": "https://github.com/pendle-finance",
+    "forked_data": [
+      "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827"
     ]
   },
   "PengolinCoin": {
@@ -128064,9 +128080,15 @@
     "short": "PINKM",
     "url": "/currencies/pinkmoon",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "git": "https://github.com/pinkmoonfinance",
+    "forked_data": [
+      "https://bscscan.com/token/0xb6090a50f66046E3c6aFB9311846a6432E45060A"
+    ]
   },
   "Pinkcoin": {
     "name": "Pinkcoin",
@@ -128137,9 +128159,15 @@
     "short": "PIPI",
     "url": "/currencies/pippi-finance",
     "tags": [
-      "New"
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
-    "sawBirth": "20210501"
+    "sawBirth": "20210501",
+    "git": "https://github.com/Shrimp-Labs",
+    "forked_data": [
+      "https://hecoinfo.com/token/0xaAaE746b5e55D14398879312660e9fDe07FBC1DC"
+    ]
   },
   "Pirate Chain": {
     "name": "Pirate Chain",
@@ -128328,9 +128356,11 @@
     "short": "PKOIN",
     "url": "/currencies/pocketnet",
     "tags": [
-      "New"
+      "Coin",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "git": "https://github.com/pocketnetteam"
   },
   "Plair": {
     "name": "Plair",
@@ -128911,9 +128941,16 @@
     "short": "PLE",
     "url": "/currencies/plethori",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0xaeeaa9c0ecd8d50ab7fcd159bddad0f52ce360c2",
+      "https://ethplorer.io/address/0xaeeaa9c0ecd8d50ab7fcd159bddad0f52ce360c2"
+    ]
   },
   "Plian": {
     "name": "Plian",
@@ -129837,8 +129874,11 @@
     "short": "PolyMoon",
     "url": "/currencies/polymoon",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Polygon Contract"
     ],
     "sawBirth": "20210503",
     "deaths": [
@@ -129846,6 +129886,9 @@
       "20210504",
       "20210505",
       "20210506"
+    ],
+    "forked_data": [
+      "https://explorer-mainnet.maticvigil.com/tokens/0xeFb3009DdAc87E8144803d78E235E7fb4cd36e61"
     ]
   },
   "PolySwarm": {
@@ -131809,9 +131852,17 @@
     "short": "bPRIVA",
     "url": "/currencies/privapp-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://etherscan.io/token/0xa82e4aa4c8d0859b1dd333145b6dd488f23e9782",
+      "https://bscscan.com/token/0xD0f4afA85a667d27837e9c07c81169869c16Dd16"
+    ]
   },
   "Privatix": {
     "name": "Privatix",
@@ -135814,8 +135865,11 @@
     "short": "ROPE",
     "url": "/currencies/rope-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Solana Contract",
+      "New2"
     ],
     "sawBirth": "20210423",
     "deaths": [
@@ -135824,6 +135878,9 @@
       "20210425",
       "20210426",
       "20210427"
+    ],
+    "forked_data": [
+      "https://explorer.solana.com/address/8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo"
     ]
   },
   "ROS Coin": {
@@ -136476,9 +136533,15 @@
     "short": "RASTA",
     "url": "/currencies/rasta-finance",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "git": "https://github.com/snbrd",
+    "forked_data": [
+      "https://bscscan.com/token/0xe3e8cc42da487d1116d26687856e9fb684817c52"
+    ]
   },
   "Rate3": {
     "name": "Rate3",
@@ -137179,13 +137242,19 @@
     "short": "FINE",
     "url": "/currencies/refinable",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210428",
     "deaths": [
       "20210428",
       "20210429"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x4e6415a5727ea08aae4580057187923aec331227"
     ]
   },
   "Reflector.Finance": {
@@ -137257,16 +137326,24 @@
     "short": "FLX",
     "url": "/currencies/reflexer-ungovernance-token",
     "tags": [
-      "New",
       "DeFi",
       "Derivatives",
       "Smart Contracts",
       "Stablecoin - Asset-Backed",
       "Dao",
       "DApp",
-      "Pantera Capital Portfolio"
+      "Pantera Capital Portfolio",
+      "Token",
+      "Ethereum Contract",
+      "New2",
+      "Stablecoin"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/reflexer-labs/",
+    "forked_data": [
+      "https://etherscan.io/token/0x6243d8cea23066d098a15582d81a598b4e8391f4",
+      "https://ethplorer.io/address/0x6243d8cea23066d098a15582d81a598b4e8391f4"
+    ]
   },
   "Refract": {
     "name": "Refract",
@@ -137936,9 +138013,15 @@
     "short": "REVO",
     "url": "/currencies/revo-network",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210425"
+    "sawBirth": "20210425",
+    "forked_data": [
+      "https://bscscan.com/token/0x678e5f70b6b582dfadb3dbd68af17801d34555c5"
+    ]
   },
   "Revolution Populi": {
     "name": "Revolution Populi",
@@ -139275,9 +139358,15 @@
     "short": "KET",
     "url": "/currencies/rowket-market",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/Rowket/Rowket-Token",
+    "forked_data": [
+      "https://bscscan.com/token/0x5ddAe05d2f854926E8070b435d2dfe5edCa246D9"
+    ]
   },
   "Roxe Cash": {
     "name": "Roxe Cash",
@@ -139870,10 +139959,16 @@
     "short": "SAFESUN",
     "url": "/currencies/safesun-crypto",
     "tags": [
-      "New",
-      "PoW"
+      "PoW",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/SafeSunProtocol/SafeSun",
+    "forked_data": [
+      "https://bscscan.com/token/0xA03C3a233940485D46eE77407343DA3221198427"
+    ]
   },
   "SALT": {
     "name": "SALT",
@@ -142504,27 +142599,46 @@
     "short": "SAFECOMET",
     "url": "/currencies/safecomet",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210505"
+    "sawBirth": "20210505",
+    "forked_data": [
+      "https://bscscan.com/token/0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231"
+    ]
   },
   "SafeEarth": {
     "name": "SafeEarth",
     "short": "SAFEEARTH",
     "url": "/currencies/safeearth",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "forked_data": [
+      "https://etherscan.io/token/0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba",
+      "https://ethplorer.io/address/0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba"
+    ]
   },
   "SafeGalaxy": {
     "name": "SafeGalaxy",
     "short": "SAFEGALAXY",
     "url": "/currencies/safegalaxy",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/safegalaxy/protocol",
+    "forked_data": [
+      "https://bscscan.com/token/0x6b51231c43b1604815313801db5e9e614914d6e4"
+    ]
   },
   "SafeInsure": {
     "name": "SafeInsure",
@@ -142544,9 +142658,15 @@
     "short": "SAFELIGHT",
     "url": "/currencies/safelight",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210427"
+    "sawBirth": "20210427",
+    "forked_data": [
+      "https://bscscan.com/token/0xa5360c2070faecfc231fd6bd743fe88382f2991d"
+    ]
   },
   "SafeMoon": {
     "name": "SafeMoon",
@@ -142712,10 +142832,16 @@
     "short": "SAFEYIELD",
     "url": "/currencies/safeyield",
     "tags": [
-      "New",
-      "Memes"
+      "Memes",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210430"
+    "sawBirth": "20210430",
+    "git": "https://github.com/SafeYield",
+    "forked_data": [
+      "https://bscscan.com/token/0x2ae7bf2937f47fedbdce48db8aca4c5e0b814632"
+    ]
   },
   "Safemars": {
     "name": "Safemars",
@@ -142739,9 +142865,15 @@
     "short": "SAFETESLA",
     "url": "/currencies/safetesla",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/safetesla",
+    "forked_data": [
+      "https://bscscan.com/address/0xA1efCe38CB265Af369e891bC3026d0285545D4E5"
+    ]
   },
   "Safex Cash": {
     "name": "Safex Cash",
@@ -142775,18 +142907,31 @@
     "short": "SAFT",
     "url": "/currencies/sage-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210506"
+    "sawBirth": "20210506",
+    "forked_data": [
+      "https://bscscan.com/token/0xd4ed4a27ff7eae121c487d841e530cd0da65c6b5"
+    ]
   },
   "Saito": {
     "name": "Saito",
     "short": "SAITO",
     "url": "/currencies/saito",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/saitotech/saito-lite",
+    "forked_data": [
+      "https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+      "https://ethplorer.io/address/0xFa14Fa6958401314851A17d6C5360cA29f74B57B"
+    ]
   },
   "SakeToken": {
     "name": "SakeToken",
@@ -143295,9 +143440,12 @@
     "short": "SAT",
     "url": "/currencies/satisfinance-token",
     "tags": [
-      "New"
+      "New",
+      "Token"
     ],
-    "sawBirth": "20210423"
+    "sawBirth": "20210423",
+    "git": "https://github.com/RenovJ/SatisFi-contracts",
+    "forked_data": []
   },
   "SatoExchange Token": {
     "name": "SatoExchange Token",
