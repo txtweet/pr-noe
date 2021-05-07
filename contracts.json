@@ -323,7 +323,8 @@
     "urls": [
       "https://cchain.explorer.avax.network/address"
     ],
-    "contract": "Avalanche Contract"
+    "contract": "Avalanche Contract",
+    "gecko_asset_platform_id": "Avalanche"
   },
   {
     "urls": [
