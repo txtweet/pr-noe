@@ -14,6 +14,7 @@ tagsTables =
   'ai-big-data': 'AI & Big Data'
   'amm': 'AMM'
   'atomic-swaps':'Atomic Swaps'
+  'art': 'Art'
   'asset-backed-coin': 'Asset Backed Coin'
   'asset-management': 'Asset management'
   'avalanche-ecosystem': 'Avalanche Ecosystem'
