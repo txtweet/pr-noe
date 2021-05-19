@@ -40073,9 +40073,15 @@
     "short": "CHANGE",
     "url": "/currencies/changeourworld",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210518"
+    "sawBirth": "20210518",
+    "forked_data": [
+      "https://bscscan.com/token/0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2"
+    ]
   },
   "Channels": {
     "name": "Channels",
@@ -42155,7 +42161,15 @@
     "short": "COAL",
     "url": "/currencies/coalculus",
     "tags": [
-      "New"
+      "Finance / Banking",
+      "Payments",
+      "PoS",
+      "Singapore",
+      "Stablecoin - Asset-Backed",
+      "NoGitHub",
+      "Coin",
+      "New2",
+      "Stablecoin"
     ],
     "sawBirth": "20210507"
   },
@@ -42661,8 +42675,11 @@
     "short": "CFT",
     "url": "/currencies/coinbene-future-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210511",
     "deaths": [
@@ -42674,6 +42691,10 @@
       "20210516",
       "20210517",
       "20210518"
+    ],
+    "forked_data": [
+      "https://etherscan.io/token/0x9b683d81b8334325bcc1802d47de65571993fe89",
+      "https://ethplorer.io/address/0x9b683d81b8334325bcc1802d47de65571993fe89"
     ]
   },
   "CoinDeal Token": {
@@ -43526,12 +43547,19 @@
     "short": "CLS",
     "url": "/currencies/coldstack",
     "tags": [
-      "New",
       "Distributed Computing",
       "Filesharing",
-      "Storage"
+      "Storage",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210516"
+    "sawBirth": "20210516",
+    "forked_data": [
+      "https://etherscan.io/token/0x675bbc7514013e2073db7a919f6e4cbef576de37",
+      "https://ethplorer.io/address/0x675bbc7514013e2073db7a919f6e4cbef576de37"
+    ]
   },
   "Colibri Protocol": {
     "name": "Colibri Protocol",
@@ -43974,9 +44002,15 @@
     "short": "COMFY",
     "url": "/currencies/comfytoken",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210508"
+    "sawBirth": "20210508",
+    "forked_data": [
+      "https://bscscan.com/token/0xc737b44cb0aa18815a1f6918eb338dee7e7e6bd7"
+    ]
   },
   "Commerce Data Connection": {
     "name": "Commerce Data Connection",
@@ -45554,9 +45588,15 @@
     "short": "COP",
     "url": "/currencies/copiosa-coin",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://bscscan.com/token/0x8789337a176e6e7223ff115f1cd85c993d42c25c"
+    ]
   },
   "Coral Swap": {
     "name": "Coral Swap",
@@ -47620,9 +47660,15 @@
     "short": "SKILL",
     "url": "/currencies/cryptoblades",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210510"
+    "sawBirth": "20210510",
+    "forked_data": [
+      "https://bscscan.com/token/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab#balances"
+    ]
   },
   "CryptoBonusMiles": {
     "name": "CryptoBonusMiles",
@@ -52032,9 +52078,15 @@
     "short": "DOGGY",
     "url": "/currencies/doggy",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://bscscan.com/token/0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6"
+    ]
   },
   "DOOS TOKEN": {
     "name": "DOOS TOKEN",
@@ -55853,9 +55905,15 @@
     "short": "DROPS",
     "url": "/currencies/defidrop-launchpad",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210508"
+    "sawBirth": "20210508",
+    "forked_data": [
+      "https://bscscan.com/token/0x4d2e266267f756d54c09afd1d1473c7739eb7020"
+    ]
   },
   "DefiDrops Launchpad": {
     "name": "DefiDrops Launchpad",
@@ -56421,12 +56479,19 @@
     "short": "DETO",
     "url": "/currencies/delta-exchange-token",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210511",
     "deaths": [
       "01011970"
+    ],
+    "git": "https://github.com/delta-exchange/DETO",
+    "forked_data": [
+      "https://etherscan.io/token/0xab93df617f51e1e415b5b4f8111f122d6b48e55c",
+      "https://ethplorer.io/address/0xab93df617f51e1e415b5b4f8111f122d6b48e55c"
     ]
   },
   "DeltaChain": {
@@ -56617,14 +56682,20 @@
     "short": "DEP",
     "url": "/currencies/depth-token",
     "tags": [
-      "New",
       "Asset management",
-      "Dead"
+      "Dead",
+      "Token",
+      "Huobi Contract",
+      "New2"
     ],
     "sawBirth": "20210508",
     "deaths": [
       "20210508",
       "20210509"
+    ],
+    "git": "https://github.com/depthfinance",
+    "forked_data": [
+      "https://hecoinfo.com/token/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27"
     ]
   },
   "Dequant": {
@@ -57327,10 +57398,16 @@
     "short": "DFYN",
     "url": "/currencies/dfyn-network",
     "tags": [
-      "New",
-      "AMM"
+      "AMM",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210511"
+    "sawBirth": "20210511",
+    "git": "https://github.com/dfyn",
+    "forked_data": [
+      "https://etherscan.io/token/0x9695e0114e12c0d3a3636fab5a18e6b737529023"
+    ]
   },
   "DiFy.Finance": {
     "name": "DiFy.Finance",
