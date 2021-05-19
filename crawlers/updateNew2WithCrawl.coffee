@@ -39,7 +39,7 @@ request
 
   # token or coin
   foundCoinOrToken = false
-  $('div.nameSection___3Hk6F > div.cCqhlo > div').each () ->
+  $('div.nameSection___3Hk6F > div.dmQXYG > div').each () ->
     if $(@).text() is 'Coin'
       foundCoinOrToken = true
       crypto.tags.push($(@).text())

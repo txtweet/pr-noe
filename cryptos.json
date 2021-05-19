@@ -2466,9 +2466,15 @@
     "short": "420X",
     "url": "/currencies/420x",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210508"
+    "sawBirth": "20210508",
+    "git": "https://github.com/420xCoin/SourceCode",
+    "forked_data": [
+      "https://bscscan.com/token/0xc4b790e1d5f0c3d8aa526f0a8098ed2a1ff0886a"
+    ]
   },
   "4ART Coin": {
     "name": "4ART Coin",
@@ -3817,10 +3823,17 @@
     "short": "ACE",
     "url": "/currencies/acent",
     "tags": [
-      "New",
-      "Platform Token"
+      "Platform Token",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://etherscan.io/token/0xec5483804e637d45cde22fa0869656b64b5ab1ab",
+      "https://ethplorer.io/address/0xec5483804e637d45cde22fa0869656b64b5ab1ab"
+    ]
   },
   "ACoconut": {
     "name": "ACoconut",
@@ -3936,9 +3949,15 @@
     "short": "AFEN",
     "url": "/currencies/afen-blockchain",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "forked_data": [
+      "https://bscscan.com/address/0xd0840d5f67206f865aee7cce075bd4484cd3cc81"
+    ]
   },
   "AGA Token": {
     "name": "AGA Token",
@@ -9014,8 +9033,10 @@
     "short": "AHT",
     "url": "/currencies/ahatoken",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210512",
     "deaths": [
@@ -9761,9 +9782,15 @@
     "short": "LAS",
     "url": "/currencies/alaska-inu",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "forked_data": [
+      "https://bscscan.com/address/0x735ebe3ed47877a11023b904054a0ffe44e91ab7"
+    ]
   },
   "Alaya": {
     "name": "Alaya",
@@ -9815,18 +9842,30 @@
     "short": "AURUM",
     "url": "/currencies/alchemist-defi-aurum",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/achemistdefi/",
+    "forked_data": [
+      "https://bscscan.com/token/0x49207baa3a7332f0716788aa57b088d499bcc104"
+    ]
   },
   "Alchemist DeFi Mist": {
     "name": "Alchemist DeFi Mist",
     "short": "MIST",
     "url": "/currencies/alchemist-defi-mist",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/achemistdefi/",
+    "forked_data": [
+      "https://bscscan.com/token/0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f"
+    ]
   },
   "Alchemix": {
     "name": "Alchemix",
@@ -9923,14 +9962,20 @@
     "short": "ALGOP",
     "url": "/currencies/algopainter",
     "tags": [
-      "New",
       "Art",
       "Collectibles & NFTs",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210507",
     "deaths": [
       "01011970"
+    ],
+    "git": "https://github.com/algopainter",
+    "forked_data": [
+      "https://bscscan.com/token/0xbee554dbbc677eb9fb711f5e939a2f2302598c75"
     ]
   },
   "AlgoVest": {
@@ -10951,12 +10996,18 @@
     "short": "ALU",
     "url": "/currencies/altura",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210508",
     "deaths": [
       "01011970"
+    ],
+    "git": "https://github.com/Plutus-Gaming-NFTs-Reimagined",
+    "forked_data": [
+      "https://bscscan.com/address/0x8263CD1601FE73C066bf49cc09841f35348e3be0"
     ]
   },
   "Aludra Network": {
@@ -11725,9 +11776,15 @@
     "short": "PAWS",
     "url": "/currencies/animal-adoption-advocacy",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210507"
+    "sawBirth": "20210507",
+    "forked_data": [
+      "https://bscscan.com/token/0x066fc8dd5955534a01a9f892314c9b01b59a9c11"
+    ]
   },
   "Animal Friends United": {
     "name": "Animal Friends United",
@@ -12882,9 +12939,15 @@
     "short": "ARGO",
     "url": "/currencies/argoapp",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/argoapp-live",
+    "forked_data": [
+      "https://etherscan.io/token/0x28cca76f6e8ec81e4550ecd761f899110b060e97"
+    ]
   },
   "Ara Blocks": {
     "name": "Ara Blocks",
@@ -15038,9 +15101,15 @@
     "short": "AURO",
     "url": "/currencies/aurora-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210518"
+    "sawBirth": "20210518",
+    "forked_data": [
+      "https://bscscan.com/token/0xf6530899de1daae4388e1286eba6379d7ddf9c8f"
+    ]
   },
   "Auroracoin": {
     "name": "Auroracoin",
@@ -17444,9 +17513,15 @@
     "short": "BNBD",
     "url": "/currencies/bnb-diamond",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210511"
+    "sawBirth": "20210511",
+    "git": "https://github.com/bnbdiamond",
+    "forked_data": [
+      "https://bscscan.com/token/0x3c730718c97a77562866b5d29b33228c019eac68"
+    ]
   },
   "BNBDOWN": {
     "name": "BNBDOWN",
@@ -18831,9 +18906,16 @@
     "short": "BHIBA",
     "url": "/currencies/baby-shiba",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://etherscan.io/token/0x4a6be56a211a4c4e0dd4474d524138933c17f3e3",
+      "https://ethplorer.io/address/0x4a6be56a211a4c4e0dd4474d524138933c17f3e3"
+    ]
   },
   "Babytoken": {
     "name": "Babytoken",
@@ -19231,12 +19313,18 @@
     "short": "TBAKE",
     "url": "/currencies/bakery-tools",
     "tags": [
-      "New",
       "Services",
       "DApp",
-      "Binance Smart Chain"
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://bscscan.com/token/0x26d6e280f9687c463420908740ae59f712419147"
+    ]
   },
   "BakeryToken": {
     "name": "BakeryToken",
@@ -21783,9 +21871,15 @@
     "short": "BEER",
     "url": "/currencies/beer-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210512"
+    "sawBirth": "20210512",
+    "forked_data": [
+      "https://bscscan.com/token/0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9"
+    ]
   },
   "Beetle Coin": {
     "name": "Beetle Coin",
@@ -24249,9 +24343,15 @@
     "short": "BIRD",
     "url": "/currencies/bird-finance",
     "tags": [
-      "New"
+      "New2",
+      "Token",
+      "Binance Contract"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/BirdFinance/bird-core",
+    "forked_data": [
+      "https://bscscan.com/token/0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d"
+    ]
   },
   "Bird.Money": {
     "name": "Bird.Money",
@@ -24409,14 +24509,21 @@
     "short": "BIST",
     "url": "/currencies/bistroo",
     "tags": [
-      "New",
       "Food & Beverage",
       "Marketplace",
       "Loyalty",
       "E-commerce",
-      "DApp"
+      "DApp",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210518"
+    "sawBirth": "20210518",
+    "git": "https://github.com/Bistroo-nl/bistroo-contracts/blob/main/BistrooToken.flat.sol",
+    "forked_data": [
+      "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+      "https://ethplorer.io/address/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f"
+    ]
   },
   "Bit": {
     "name": "Bit",
@@ -30312,8 +30419,10 @@
     "short": "BPCN",
     "url": "/currencies/blipcoin",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Coin",
+      "New2"
     ],
     "sawBirth": "20210513",
     "deaths": [
@@ -30409,21 +30518,6 @@
       "found": true
     }
   },
-  "Block Collider": {
-    "name": "Block Collider",
-    "short": "EMB",
-    "url": "/currencies/block-collider",
-    "tags": [
-      "New",
-      "Decentralized exchange",
-      "Interoperability",
-      "Dead"
-    ],
-    "sawBirth": "20210508",
-    "deaths": [
-      "01011970"
-    ]
-  },
   "Block Duelers NFT Battles": {
     "name": "Block Duelers NFT Battles",
     "short": "BDT",
@@ -30493,9 +30587,15 @@
     "short": "BBANK",
     "url": "/currencies/blockbank",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210517"
+    "sawBirth": "20210517",
+    "forked_data": [
+      "https://etherscan.io/token/0xf4b5470523ccd314c6b9da041076e7d79e0df267"
+    ]
   },
   "BlockCAT": {
     "name": "BlockCAT",
@@ -31100,12 +31200,18 @@
     "short": "BTYM",
     "url": "/currencies/blocktyme",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210510",
     "deaths": [
       "01011970"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x8c0938091EF72c5768ea9611a6e252B1A3578E0E"
     ]
   },
   "Blockzero Labs": {
@@ -31409,9 +31515,16 @@
     "short": "BDOGE",
     "url": "/currencies/blue-eyes-white-doge",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "forked_data": [
+      "https://etherscan.io/token/0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd",
+      "https://ethplorer.io/address/0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd"
+    ]
   },
   "Blue Protocol": {
     "name": "Blue Protocol",
@@ -32452,10 +32565,16 @@
     "short": "BONFIRE",
     "url": "/currencies/bonfire",
     "tags": [
-      "New",
-      "Binance Smart Chain"
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210508"
+    "sawBirth": "20210508",
+    "forked_data": [
+      "https://bscscan.com/token/0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590"
+    ]
   },
   "Bonkey dAPP": {
     "name": "Bonkey dAPP",
@@ -34552,9 +34671,15 @@
     "short": "BUTTER",
     "url": "/currencies/butter-token",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/cclaypool1/MilkToken",
+    "forked_data": [
+      "https://bscscan.com/token/0x0110ff9e7e4028a5337f07841437b92d5bf53762"
+    ]
   },
   "Butterfly Protocol": {
     "name": "Butterfly Protocol",
@@ -34970,12 +35095,18 @@
     "short": "CC",
     "url": "/currencies/ccswap",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
     "sawBirth": "20210509",
     "deaths": [
       "01011970"
+    ],
+    "forked_data": [
+      "https://etherscan.io/address/0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f"
     ]
   },
   "CCUniverse": {
@@ -38030,10 +38161,16 @@
     "short": "MEL",
     "url": "/currencies/caramel-swap",
     "tags": [
-      "New",
-      "Binance Smart Chain"
+      "Binance Smart Chain",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://bscscan.com/token/0x7ce1e651374ec5324e6f37c4ff312d53428f0d50"
+    ]
   },
   "Carbon": {
     "name": "Carbon",
@@ -38057,9 +38194,15 @@
     "short": "CARBO",
     "url": "/currencies/carbondefi-finance",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210511"
+    "sawBirth": "20210511",
+    "forked_data": [
+      "https://bscscan.com/token/0xc3236733841893ddbd8eac9f647eec29da63f400"
+    ]
   },
   "Carboncoin": {
     "name": "Carboncoin",
@@ -38802,12 +38945,18 @@
     "short": "CATE",
     "url": "/currencies/catecoin",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract"
     ],
     "sawBirth": "20210511",
     "deaths": [
       "01011970"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0x118f073796821da3e9901061b05c0b36377b877e"
     ]
   },
   "Catex Token": {
@@ -38839,12 +38988,19 @@
     "short": "CATZ",
     "url": "/currencies/catzcoin",
     "tags": [
-      "New",
-      "Dead"
+      "New2",
+      "Dead",
+      "Token",
+      "Binance Contract"
     ],
     "sawBirth": "20210512",
     "deaths": [
       "01011970"
+    ],
+    "git": "https://github.com/catzcoin/Catzcoin",
+    "forked_data": [
+      "https://charts.bogged.finance/?token=0xbfBEe3dAc982148aC793161f7362344925506903",
+      "https://bscscan.com/token/0xbfbee3dac982148ac793161f7362344925506903#balances"
     ]
   },
   "Ccore": {
