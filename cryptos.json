@@ -57667,9 +57667,15 @@
     "short": "DIAMOND",
     "url": "/currencies/diamondtoken",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210509"
+    "sawBirth": "20210509",
+    "git": "https://github.com/diamond-token/smartcontracts",
+    "forked_data": [
+      "https://bscscan.com/token/0x3e8cfdd483c5818c5a4a799cbaae324002d086ad"
+    ]
   },
   "Dice": {
     "name": "Dice",
@@ -59197,12 +59203,18 @@
     "short": "DINO",
     "url": "/currencies/dinoexchange",
     "tags": [
-      "New",
       "AMM",
       "Binance Smart Chain",
-      "Dex"
+      "Dex",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210515"
+    "sawBirth": "20210515",
+    "git": "https://github.com/dino-exchange",
+    "forked_data": [
+      "https://bscscan.com/token/0xf317932ee2C30fa5d0E14416775977801734812D"
+    ]
   },
   "Dionpay": {
     "name": "Dionpay",
@@ -59698,9 +59710,15 @@
     "short": "DOGETF",
     "url": "/currencies/doge-father-token",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Stellar Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "forked_data": [
+      "https://stellar.expert/explorer/public/asset/DOGETF-GBJY33ZDHNAO6LPHZYPWGIYQ3FHM2QLTTYFOIUJOKY6VJICRTB5AHX53"
+    ]
   },
   "Doge Killer": {
     "name": "Doge Killer",
@@ -59874,12 +59892,18 @@
     "short": "DOGEDAO",
     "url": "/currencies/dogedao-finance",
     "tags": [
-      "New",
-      "Dead"
+      "Dead",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
     "sawBirth": "20210515",
     "deaths": [
       "01011970"
+    ],
+    "forked_data": [
+      "https://bscscan.com/token/0xc0cfb69cf3470382e89c145b608626c42132c545"
     ]
   },
   "DogeMoon": {
@@ -59887,11 +59911,17 @@
     "short": "DOGEMOON",
     "url": "/currencies/dogemoon",
     "tags": [
-      "New",
       "Philanthropy",
-      "Memes"
+      "Memes",
+      "NoGitHub",
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210515"
+    "sawBirth": "20210515",
+    "forked_data": [
+      "https://bscscan.com/token/0x2f801292924433f41e34669b0817f990764ecaa0"
+    ]
   },
   "DogeYield": {
     "name": "DogeYield",
@@ -59964,9 +59994,15 @@
     "short": "DOGEFATHER",
     "url": "/currencies/dogefather",
     "tags": [
-      "New"
+      "Token",
+      "Binance Contract",
+      "New2"
     ],
-    "sawBirth": "20210513"
+    "sawBirth": "20210513",
+    "git": "https://github.com/dogefatherBSC/dogefatherBSC",
+    "forked_data": [
+      "https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9"
+    ]
   },
   "Dogelon Mars": {
     "name": "Dogelon Mars",
@@ -60415,19 +60451,31 @@
     "short": "DON",
     "url": "/currencies/don-key",
     "tags": [
-      "New",
-      "Superstarter"
+      "Superstarter",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210515"
+    "sawBirth": "20210515",
+    "forked_data": [
+      "https://etherscan.io/token/0x217ddead61a42369a266f1fb754eb5d3ebadc88a"
+    ]
   },
   "Donkey": {
     "name": "Donkey",
     "short": "DONK",
     "url": "/currencies/donkey",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210515"
+    "sawBirth": "20210515",
+    "forked_data": [
+      "https://etherscan.io/token/0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920"
+    ]
   },
   "Donnie Finance": {
     "name": "Donnie Finance",
@@ -63465,10 +63513,17 @@
     "short": "ETH2X-FLI",
     "url": "/currencies/eth-2x-flexible-leverage-index",
     "tags": [
-      "New",
-      "Derivatives"
+      "Derivatives",
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210514"
+    "sawBirth": "20210514",
+    "forked_data": [
+      "https://etherscan.io/token/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "https://ethplorer.io/address/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd"
+    ]
   },
   "ETH AI Limit Loss": {
     "name": "ETH AI Limit Loss",
@@ -66433,18 +66488,32 @@
     "short": "ELENA",
     "url": "/currencies/elena-protocol",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210507"
+    "sawBirth": "20210507",
+    "git": "https://github.com/elenaprotocol/Elena-Protocol-V1.0",
+    "forked_data": [
+      "https://etherscan.io/token/0x6F0f28CeeE6aE686Ee0f939375674C01b156365a",
+      "https://ethplorer.io/address/0x6F0f28CeeE6aE686Ee0f939375674C01b156365a"
+    ]
   },
   "ElenaUSD": {
     "name": "ElenaUSD",
     "short": "USE",
     "url": "/currencies/elanausd",
     "tags": [
-      "New"
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210507"
+    "sawBirth": "20210507",
+    "git": "https://github.com/elenaprotocol",
+    "forked_data": [
+      "https://etherscan.io/token/0x147E3d644d53ADadD18a28201b91e2B98aEB7f94",
+      "https://ethplorer.io/address/0x147E3d644d53ADadD18a28201b91e2B98aEB7f94"
+    ]
   },
   "Elevate": {
     "name": "Elevate",
@@ -66921,11 +66990,17 @@
     "short": "EMB",
     "url": "/currencies/emblem",
     "tags": [
-      "New",
+      "New2",
       "Decentralized exchange",
-      "Interoperability"
+      "Interoperability",
+      "Token",
+      "Ethereum Contract"
     ],
-    "sawBirth": "20210512"
+    "sawBirth": "20210512",
+    "git": "https://github.com/blockcollider/bcnode",
+    "forked_data": [
+      "https://etherscan.io/token/0xdb0acc14396d108b3c5574483acb817855c9dc8d"
+    ]
   },
   "Emerald Crypto": {
     "name": "Emerald Crypto",
@@ -70080,9 +70155,16 @@
     "short": "EMAX",
     "url": "/currencies/ethereummax",
     "tags": [
-      "New"
+      "NoGitHub",
+      "Token",
+      "Ethereum Contract",
+      "New2"
     ],
-    "sawBirth": "20210518"
+    "sawBirth": "20210518",
+    "forked_data": [
+      "https://etherscan.io/token/0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df",
+      "https://ethplorer.io/address/0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df"
+    ]
   },
   "EthereumX": {
     "name": "EthereumX",
@@ -71398,9 +71480,15 @@
     "short": "EXO",
     "url": "/currencies/exohood",
     "tags": [
-      "New"
+      "New",
+      "Token",
+      "Binance Contract"
     ],
-    "sawBirth": "20210518"
+    "sawBirth": "20210518",
+    "git": "https://github.com/exohood",
+    "forked_data": [
+      "https://bscscan.com/token/0x7d10b6157c7c577caa62d319dc215209cf2db8c3"
+    ]
   },
   "Exosis": {
     "name": "Exosis",
