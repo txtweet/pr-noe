@@ -11,6 +11,7 @@ fileDate = process.argv[2]
 ## stablecoin -> Stablecoin
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
 tagsTables =
+  'adult': 'Adult'
   'ai-big-data': 'AI & Big Data'
   'amm': 'AMM'
   'atomic-swaps':'Atomic Swaps'
@@ -69,6 +70,7 @@ tagsTables =
   'identity': 'Identity'
   'insurance': 'Insurance'
   'interoperability': 'Interoperability'
+  'iot': 'IoT'
   'kinetic-capital': 'Kinetic Capital'
   'launchpad':  'Launchpad'
   'lending-borowing': 'Lending Borowing'
