@@ -1,3 +1,5 @@
+#!/opt/node-v12.6.0-darwin-x64/bin/coffee
+
 _ = require 'lodash'
 fs = (require 'fs').promises
 Promise = require 'bluebird'
