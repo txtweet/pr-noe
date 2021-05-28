@@ -339,6 +339,7 @@
     "urls": [
       "https://cardanoscan.io/token/"
     ],
-    "contract": "Cardano Contract"
+    "contract": "Cardano Contract",
+    "gecko_asset_platform_id":"cardano"
   }
 ]
