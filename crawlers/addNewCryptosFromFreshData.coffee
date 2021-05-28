@@ -27,6 +27,7 @@ tagsTables =
   'centralized-exchange': 'Centralized exchange'
   'coinbase-ventures-portfolio': 'Coinbase Ventures Portfolio'
   'collectibles-nfts': 'Collectibles & NFTs'
+  'commodities': 'Commodities'
   'communications-social-media': 'Communications & Social Media'
   'content-creation':'Content Creation'
   'cosmos-ecosystem': 'Cosmos Ecosystem'
