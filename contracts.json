@@ -297,7 +297,8 @@
   },
   {
     "urls": [
-      "https://explorer-mainnet.maticvigil.com/tokens"
+      "https://explorer-mainnet.maticvigil.com/tokens",
+      "https://polygonscan.com/token"
     ],
     "contract": "Polygon Contract",
     "gecko_asset_platform_id": "polygon-pos"
