@@ -36,8 +36,16 @@ for crypto in raw.data
               datadb["tag_type"] = "Contract"
               datadb["tag_ChainType"] = x.replace(/Contract/, '')
 
-      if datadb.tag_Stablecoin?
-        delete datadb.tag_Stablecoin
+      if datadb.checkedWithGecko?.found
+        datadb.checkedWithGecko = true
+      else
+        datadb.checkedWithGecko = false
+
+      if datadb['tag_sc-assetbacked-unknown']? or
+         datadb['tag_sc-assetbacked-fiat-currencies']? or
+         datadb['tag_sc-assetbacked-fiat-others']? or
+         datadb['tag_sc-assetbacked-collaterized']? or
+         datadb['tag_sc-sc-algorithmic']?
         datadb.type = 'Stablecoin'
       else if datadb.tag_type?
         datadb.type = 'Contract'
