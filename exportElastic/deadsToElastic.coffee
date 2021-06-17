@@ -45,7 +45,7 @@ for crypto in raw.data
          datadb['tag_sc-assetbacked-fiat-currencies']? or
          datadb['tag_sc-assetbacked-fiat-others']? or
          datadb['tag_sc-assetbacked-collaterized']? or
-         datadb['tag_sc-sc-algorithmic']?
+         datadb['tag_sc-algorithmic']?
         datadb.type = 'Stablecoin'
       else if datadb.tag_type?
         datadb.type = 'Contract'
