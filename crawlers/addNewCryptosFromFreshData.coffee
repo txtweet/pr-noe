@@ -125,6 +125,8 @@ tagsTables =
   'social-token': 'Social Token'
   'solana-ecosystem': 'Solana Ecosystem'
   'sports': 'Sports'
+  'stablecoin': 'Stablecoin'
+  'stablecoin-algorithmically-stabilized': 'sc-algorithmic'
   'sc-assetbacked-unknown': 'sc-assetbacked-unknown'
   'sc-assetbacked-fiat-currencies': 'sc-assetbacked-fiat-currencies'
   'sc-assetbacked-fiat-others': 'sc-assetbacked-fiat-others'

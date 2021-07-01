@@ -240,7 +240,7 @@
           "value": 1
         },
         {
-          "name": "MobiePay",
+          "name": "MobieCoin",
           "url": "/currencies/mobiepay",
           "value": 1
         },
@@ -1608,7 +1608,7 @@
               "value": 1
             },
             {
-              "name": "Casino Betting Coin",
+              "name": "CBC.network",
               "url": "/currencies/casino-betting-coin",
               "value": 1
             },
@@ -5793,7 +5793,7 @@
               "value": 1
             },
             {
-              "name": "UnFederalReserve",
+              "name": "unFederalReserve",
               "url": "/currencies/unfederalreserve",
               "value": 1
             },
@@ -11671,7 +11671,7 @@
                                   "name": "Smart Contracts",
                                   "children": [
                                     {
-                                      "name": "KickToken",
+                                      "name": "KickToken [old]",
                                       "url": "/currencies/kick-token",
                                       "value": 1
                                     }
