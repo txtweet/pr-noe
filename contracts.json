@@ -36,6 +36,12 @@
   },
   {
     "urls": [
+      "https://explorer.celo.org/address"
+    ],
+    "contract": "Celo Contract"
+  },
+  {
+    "urls": [
       "https://explorer.chiliz.com/tokens"
     ],
     "contract": "Chiliz Contract",
@@ -301,7 +307,8 @@
   {
     "urls": [
       "https://explorer-mainnet.maticvigil.com/tokens",
-      "https://polygonscan.com/token"
+      "https://polygonscan.com/token",
+      "https://cchain.explorer.avax.network/tokens"
     ],
     "contract": "Polygon Contract",
     "gecko_asset_platform_id": "polygon-pos"
