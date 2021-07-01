@@ -21,8 +21,8 @@ for crypto in raw.data
     if "sc-assetbacked-unknown" in found.tags or
        "sc-assetbacked-fiat-currencies" in found.tags or
        "sc-assetbacked-fiat-others" in found.tags  or
-       "sc-assetbacked-collaterized']" in found.tags  or
-       "sc-sc-algorithmic" in found.tags
+       "sc-assetbacked-collaterized" in found.tags  or
+       "sc-algorithmic" in found.tags
       datadb={}
       # _.forEach datas[crypto.name], (val, key) ->
       #   unless key == "name" or
