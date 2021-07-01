@@ -72,7 +72,6 @@
   {
     "urls": [
       "https://rinkeby.etherscan.io/token",
-      "https://explorer-mainnet.maticvigil.com/tokens",
       "https://explorer-mainnet.maticvigil.com/address",
       "https://blockchain.coinmarketcap.com/address/ethereum",
       "https://blockscout.com/etc/mainnet/address",
@@ -308,7 +307,6 @@
   },
   {
     "urls": [
-      "https://explorer-mainnet.maticvigil.com/tokens",
       "https://polygonscan.com/token",
       "https://cchain.explorer.avax.network/tokens"
     ],
@@ -340,7 +338,7 @@
       "https://cchain.explorer.avax.network/address"
     ],
     "contract": "Avalanche Contract",
-    "gecko_asset_platform_id": "Avalanche"
+    "gecko_asset_platform_id": "avalanche"
   },
   {
     "urls": [
