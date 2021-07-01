@@ -10,7 +10,8 @@
       "https://www.bscscan.com/address",
       "https://pancakeswap.info/token",
       "https://explorer.bitquery.io/bsc/token/",
-      "https://dex.guru/token/0x1a566dd84262d51c7543a85408a8452bee025841-bsc"
+      "https://dex.guru/token/0x1a566dd84262d51c7543a85408a8452bee025841-bsc",
+      "https://charts.bogged.finance/?token="
     ],
     "contract": "Binance Contract",
     "gecko_asset_platform_id": "binance-smart-chain"
