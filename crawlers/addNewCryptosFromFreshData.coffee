@@ -97,6 +97,7 @@ tagsTables =
   'philanthropy': 'Philanthropy'
   'platform': 'Platform'
   'platform-token': 'Platform Token'
+  'polygon-ecosystem': 'Polygon Ecosystem'
   'polychain-capital-portfolio': 'Polychain Capital Portfolio'
   'polkadot': 'Polkadot'
   'polkastarter': 'Polkastarter'
