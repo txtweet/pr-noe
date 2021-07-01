@@ -4,7 +4,7 @@
       "https://explorer.binance.org/asset",
       "https://poocoin.app/tokens/",
       "https://bscscan.com/address",
-      "https://bscscan.com/token",
+      "https://bscscan.com/token/",
       "https://bscscan.com/tx",
       "https://www.bscscan.com/token",
       "https://www.bscscan.com/address",
@@ -81,6 +81,7 @@
       "https://etherscan.com/token",
       "https://cn.etherscan.com/token",
       "https://etherscan.io/address",
+      "https://ethplorer.io/ru/address",
       "https://etherscan.io/token",
       "http://etherscan.io/token",
       "https://etherscan.io/dapp",
@@ -359,5 +360,11 @@
       "https://v2.info.uniswap.org/token"
     ],
     "contract": "Uniswap Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.rsk.co/address/"
+    ],
+    "contract": "Sovryn Contract"
   }
 ]
