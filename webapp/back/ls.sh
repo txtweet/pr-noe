@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ../../crawlers/
-ls *.coffee  *.sh
+cd ../../crawlers
+ls *.coffee *.sh

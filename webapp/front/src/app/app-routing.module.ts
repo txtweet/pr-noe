@@ -7,8 +7,6 @@ import { NotfoundComponent } from './notfound/notfound.component';
 const routes: Routes = [
   {path:'', redirectTo: 'default', pathMatch:'full'},
   {path : "default", component : MainComponent},
-  {path : "secondscript", component : MainComponent},
-  {path : "fini", component : FiniComponent},
   {path: '404', component: NotfoundComponent},
   {path: '**', redirectTo: '/404'}
 ];

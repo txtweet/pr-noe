@@ -1,5 +1,6 @@
 const express = require('express');
 const shell = require('shelljs');
+const _ = require('lodash');
 
 const app = express();
 
@@ -11,15 +12,42 @@ app.use((req, res, next) => {
  });
 
 
-app.use('/api/default', (req, res, next) => {
-   commande = shell.exec('./pwd.sh');
+app.use('/api/ls', (req, res, next) => {
+   commande = shell.exec('./ls.sh');
    res.status(200).json({ message: commande });
    next();
 });
 
-app.use('/api/ls', (req, res, next) => {
-   commande = shell.exec('./ls.sh');
-   res.status(200).json({ message: commande });
+app.get('/api/lancescript', (req, res, next) => {
+   leScript = req.query.script;
+   extension = leScript.split('.')[1];
+   var commande;
+
+
+   if (extension == 'coffee'){
+      if (leScript == 'addNewCryptosFromFreshData.coffee'){
+         commande = shell.exec('pwd');
+         last1 = shell.exec('ls -Art ../../files/ | grep cryptos | tail -n 1');
+         last2 = last1.split('-')[1];
+         theLast = last2.split('.')[0];
+         console.log(theLast);
+         commande = shell.exec('coffee ../../crawlers/' + leScript + ' ' + theLast); 
+      }
+      else{
+         commande = shell.exec('coffee ../../crawlers/' + leScript);
+      }
+   }
+   else{
+      commande = shell.exec('bash ../../crawlers/' + leScript);
+   }
+
+
+   if (commande.stdout != ''){
+      res.status(200).json({ message: commande.stdout });
+   }
+   else{
+      res.status(200).json({ message: commande.stderr });
+   }
    next();
 });
 

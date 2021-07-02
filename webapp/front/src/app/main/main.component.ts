@@ -9,11 +9,12 @@ import {Router} from '@angular/router';
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.scss']
 })
-export class MainComponent implements AfterViewInit {
+export class MainComponent  {
 
   @ViewChild('term', { static: true }) child! : NgTerminal;
   retourScript = 'null';
   lesScripts =[''];
+  currentScript = 'null';
 
   constructor(private http : HttpClient, private router : Router){
     this.http.get('http://localhost:3000/api/ls').toPromise().then(data => {
@@ -25,14 +26,21 @@ export class MainComponent implements AfterViewInit {
     });
   }
 
-  getCmd(){
-    this.http.get('http://localhost:3000/api/default').toPromise().then(data => {
-      this.retourScript = JSON.stringify(data);
-      var myObj = JSON.parse(this.retourScript);
-      this.retourScript = myObj['message'];
-      this.child.write('\r\n>> ');
-      this.child.write(this.retourScript);
-    });
+  lanceScript(){
+    if (this.currentScript == 'null'){
+      window.alert('Veuillez sélectionner un script à lancer');
+    }
+    else{
+      this.http.get('http://localhost:3000/api/lancescript?script=' + this.currentScript).toPromise().then(data => {
+        this.retourScript = JSON.stringify(data);
+        var myObj = JSON.parse(this.retourScript);
+        this.retourScript = myObj['message'];
+        this.child.write('\r\n>> ' + this.retourScript + '\r\n');
+        this.currentScript = 'null';
+        //this.child.write(this.retourScript);
+      });
+    }
+    
   }
 
   /*
@@ -51,9 +59,23 @@ export class MainComponent implements AfterViewInit {
   }
   */
 
+  selectScript(script : string){
+    this.currentScript = script;
+    var extension = script.split('.')[1];
+    if (extension == 'coffee'){
+      this.child.write('\r\n$ coffee ./' + script);
+    }
+    else{
+      this.child.write('\r\n$ ./' + script);
+    }
+  }
 
-  ngAfterViewInit(){
-    this.child.write('$ ');
+
+  // à définir : nombre de lignes à supprimer
+  clear(){
+    for (let i=0;i<100;i++){
+      this.child.underlying.clear();
+    }
   }
 
 }
