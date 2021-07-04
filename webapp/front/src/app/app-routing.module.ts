@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { FiniComponent } from './fini/fini.component';
 import { MainComponent } from './main/main.component';
 import { NotfoundComponent } from './notfound/notfound.component';
 

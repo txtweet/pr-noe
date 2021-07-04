@@ -35,9 +35,9 @@ export class MainComponent  {
         this.retourScript = JSON.stringify(data);
         var myObj = JSON.parse(this.retourScript);
         this.retourScript = myObj['message'];
-        this.child.write('\r\n>> ' + this.retourScript + '\r\n');
+        this.child.write('\r\n' + this.retourScript + '\r\n');
         var icon = document.getElementById(this.currentScript);
-        icon?.setAttribute("style", "color: #2C6414")
+        icon?.setAttribute("style", "color: #3E6C2A")
         this.currentScript = 'null';
       });
     }
@@ -72,11 +72,9 @@ export class MainComponent  {
   }
 
 
-  // à définir : nombre de lignes à supprimer
   clear(){
-    for (let i=0;i<100;i++){
-      this.child.underlying.clear();
-    }
+    this.child.underlying.reset();
+    window.scroll(0,0);
   }
 
 }
