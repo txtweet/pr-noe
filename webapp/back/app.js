@@ -30,7 +30,6 @@ app.get('/api/lancescript', (req, res, next) => {
          last1 = shell.exec('ls -Art ../../files/ | grep cryptos | tail -n 1');
          last2 = last1.split('-')[1];
          theLast = last2.split('.')[0];
-         console.log(theLast);
          commande = shell.exec('coffee ../../crawlers/' + leScript + ' ' + theLast); 
       }
       else{

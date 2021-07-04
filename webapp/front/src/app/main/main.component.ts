@@ -44,21 +44,6 @@ export class MainComponent  {
     
   }
 
-  /*
-  nextRoute(){
-    if (this.lance == false) {
-      window.alert("Veuillez lancer le script avant de passer à la prochaine étape");
-    }
-    else{
-      if (this.router.url === '/firstscript'){
-        this.router.navigate(['/secondscript']);
-      }
-      else if (this.router.url === '/secondscript'){
-        this.router.navigate(['/fini']);
-      }
-    }
-  }
-  */
 
   selectScript(script : string){
     this.currentScript = script;
