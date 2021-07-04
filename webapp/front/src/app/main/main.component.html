@@ -17,7 +17,7 @@
     </div>
   
     <div class="terminal">
-      <ng-terminal #term id="term"></ng-terminal>
+      <ng-terminal #term></ng-terminal>
     </div>
   
 </div>
@@ -26,7 +26,7 @@
   <h3>/pr-noe/crawlers</h3><br>
   <mat-list>
     <mat-list-item *ngFor="let script of lesScripts">
-      <mat-icon mat-list-icon>note</mat-icon>
+      <mat-icon mat-list-icon id="{{script}}">note</mat-icon>
       <a (click)="selectScript(script)"><div mat-line>{{script}}</div></a>
     </mat-list-item>
   </mat-list>

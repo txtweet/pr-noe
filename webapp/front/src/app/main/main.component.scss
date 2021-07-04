@@ -102,20 +102,17 @@ cursor: pointer;
 
 .terminal {
 position: relative;
-width:60%;
-height: 520px;
+width:70%;
+height: 530px;
 border-radius: 6px;
 padding-top: 45px;
-margin-top: 8px;
-margin-bottom: 50px;
+margin-right: 5%;
+margin-bottom: 30px;
 background-color: rgb(15, 15, 16);
 float:right;
 font-size: 10px;
 }
 
-#term{
-    overflow: scroll;
-}
 
 .terminal::before {
 content: "\2022 \2022 \2022";
@@ -132,48 +129,42 @@ padding: 14px 0;
 text-indent: 4px;
 }
 
-.terminal pre {
-font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-color: white;
-padding: 0 1rem 1rem;
-margin: 0;
-}
 
 .tree {
-    width: 60%;
-    padding-left: 10px;
-    margin-left: 2%;
-    margin-top: 110px;
-    float: left;
-    position:absolute;
-    display:flex;
-    color: #1976d2;
+width: 60%;
+padding-left: 10px;
+margin-left: 2%;
+margin-top: 110px;
+float: left;
+position:absolute;
+display:flex;
+color: #1976d2;
 }
 
 .tree h3{
-    border-left: 0.13rem solid;
-    padding-left : 10px;
+border-left: 0.13rem solid;
+padding-left : 10px;
 }
 .mat-list{
-    margin-top: 30px;
-    display: block;
-    float:left;
-    position: absolute;
-    border-left: 0.13rem solid;
-    padding-left : 10px;
+margin-top: 30px;
+display: block;
+float:left;
+position: absolute;
+border-left: 0.13rem solid;
+padding-left : 10px;
 }
 
 .mat-list-icon {
-    color: rgba(0, 0, 0, 0.54);
+color: rgba(0, 0, 0, 0.54);
   }
 
 .mat-list-item{
-    margin : 0px;
-    color :black;
-    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-    font-size: 14px;
-    color: #333;
-    font-style: italic;
+margin : 0px;
+color :black;
+font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+font-size: 14px;
+color: #333;
+font-style: italic;
 }
 
 

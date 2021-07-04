@@ -36,8 +36,9 @@ export class MainComponent  {
         var myObj = JSON.parse(this.retourScript);
         this.retourScript = myObj['message'];
         this.child.write('\r\n>> ' + this.retourScript + '\r\n');
+        var icon = document.getElementById(this.currentScript);
+        icon?.setAttribute("style", "color: #2C6414")
         this.currentScript = 'null';
-        //this.child.write(this.retourScript);
       });
     }
     
