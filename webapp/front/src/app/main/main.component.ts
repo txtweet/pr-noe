@@ -1,7 +1,7 @@
 import { Component, AfterViewInit, ViewChild } from '@angular/core';
 import { NgTerminal } from 'ng-terminal';
 import {HttpClient} from '@angular/common/http';
-import {Router} from '@angular/router';
+import { DisplayOption } from 'ng-terminal';
 
 
 @Component({
@@ -9,14 +9,25 @@ import {Router} from '@angular/router';
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.scss']
 })
-export class MainComponent  {
+export class MainComponent implements AfterViewInit{
 
   @ViewChild('term', { static: true }) child! : NgTerminal;
   retourScript = 'null';
   lesScripts =[''];
   currentScript = 'null';
 
-  constructor(private http : HttpClient, private router : Router){
+  style ={
+    "word-break" : "break-word",
+    "overflow-wrap" : "break-word",
+    "flex-wrap" : "nowrap",
+    "width" : "50%",
+    "cols" : "1000"
+  }
+
+  displayOption: DisplayOption = {};
+
+
+  constructor(private http : HttpClient){
     this.http.get('http://localhost:3000/api/ls').toPromise().then(data => {
       var ls = JSON.stringify(data);
       var myObj = JSON.parse(ls);
@@ -32,9 +43,7 @@ export class MainComponent  {
     }
     else{
       this.http.get('http://localhost:3000/api/lancescript?script=' + this.currentScript).toPromise().then(data => {
-        this.retourScript = JSON.stringify(data);
-        var myObj = JSON.parse(this.retourScript);
-        this.retourScript = myObj['message'];
+        this.retourScript = JSON.parse(JSON.stringify(data).replace(/\\n/g,"\\r\\n")).message;
         this.child.write('\r\n' + this.retourScript + '\r\n');
         var icon = document.getElementById(this.currentScript);
         icon?.setAttribute("style", "color: #3E6C2A")
@@ -43,7 +52,6 @@ export class MainComponent  {
     }
     
   }
-
 
   selectScript(script : string){
     this.currentScript = script;
@@ -56,10 +64,16 @@ export class MainComponent  {
     }
   }
 
-
   clear(){
     this.child.underlying.reset();
     window.scroll(0,0);
+  }
+
+  ngAfterViewInit(){
+    /*
+    this.displayOption.fixedGrid = { rows: 10, cols: 200 };
+    this.child.setDisplayOption(this.displayOption);
+    */
   }
 
 }

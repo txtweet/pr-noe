@@ -4,6 +4,7 @@ import {HttpClientModule} from '@angular/common/http';
 import { NgTerminalModule } from 'ng-terminal';
 import {MatListModule} from '@angular/material/list';
 import {MatIconModule} from '@angular/material/icon';
+import {MatTreeModule} from '@angular/material/tree';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -28,7 +29,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     NgTerminalModule,
     BrowserAnimationsModule,
     MatListModule,
-    MatIconModule
+    MatIconModule,
+    MatTreeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

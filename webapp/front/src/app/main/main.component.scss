@@ -180,3 +180,11 @@ font-size: 14px;
 color: #333;
 font-style: italic;
 }
+
+.xterm .xterm-helper-textarea textarea {
+    word-wrap: keep-all;
+    overflow-wrap: normal;
+    flex-wrap: nowrap;
+    white-space: normal;
+    color : blue;
+}
