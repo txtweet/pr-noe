@@ -50,6 +50,21 @@ app.get('/api/lancescript', (req, res, next) => {
    next();
 });
 
+app.get('/api/affichescript', (req, res, next) => {
+   leScript = req.query.script;
+   var commande;
+   commande = shell.exec('cat ../../crawlers/' + leScript);
+
+
+   if (commande.stdout != ''){
+      res.status(200).json({ message: commande.stdout });
+   }
+   else{
+      res.status(200).json({ message: commande.stderr });
+   }
+   next();
+});
+
 
 app.use('/', (req, res) => {
    res.status(404);

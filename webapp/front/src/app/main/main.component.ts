@@ -1,7 +1,8 @@
 import { Component, AfterViewInit, ViewChild } from '@angular/core';
-import { NgTerminal } from 'ng-terminal';
+import { NgTerminal, NgTerminalComponent } from 'ng-terminal';
 import {HttpClient} from '@angular/common/http';
 import { DisplayOption } from 'ng-terminal';
+import { Terminal } from 'xterm';
 
 
 @Component({
@@ -16,16 +17,12 @@ export class MainComponent implements AfterViewInit{
   lesScripts =[''];
   currentScript = 'null';
 
-  style ={
-    "word-break" : "break-word",
-    "overflow-wrap" : "break-word",
-    "flex-wrap" : "nowrap",
-    "width" : "50%",
-    "cols" : "1000"
-  }
-
   displayOption: DisplayOption = {};
 
+  style = {
+    "padding-left" : "5px",
+    "background-color" : "black"
+  }
 
   constructor(private http : HttpClient){
     this.http.get('http://localhost:3000/api/ls').toPromise().then(data => {
@@ -46,7 +43,7 @@ export class MainComponent implements AfterViewInit{
         this.retourScript = JSON.parse(JSON.stringify(data).replace(/\\n/g,"\\r\\n")).message;
         this.child.write('\r\n' + this.retourScript + '\r\n');
         var icon = document.getElementById(this.currentScript);
-        icon?.setAttribute("style", "color: #3E6C2A")
+        icon?.setAttribute("style", "color: #989034")
         this.currentScript = 'null';
       });
     }
@@ -54,26 +51,39 @@ export class MainComponent implements AfterViewInit{
   }
 
   selectScript(script : string){
+    this.child.underlying.reset();
     this.currentScript = script;
-    var extension = script.split('.')[1];
-    if (extension == 'coffee'){
-      this.child.write('\r\n$ coffee ./' + script);
-    }
-    else{
-      this.child.write('\r\n$ ./' + script);
-    }
+    this.child.write('\r\n$ ' + script);
   }
 
-  clear(){
-    this.child.underlying.reset();
-    window.scroll(0,0);
+  scrollTop(){
+    this.child.underlying.scrollToTop();
+  }
+
+  scrollBottom(){
+    this.child.underlying.scrollToBottom();
+  }
+
+  editScript(){
+    if (this.currentScript == 'null'){
+      window.alert('Veuillez sélectionner un script à éditer');
+    }
+    else{
+      this.http.get('http://localhost:3000/api/affichescript?script=' + this.currentScript).toPromise().then(data => {
+        this.retourScript = JSON.parse(JSON.stringify(data).replace(/\\n/g,"\\r\\n")).message;
+        this.child.write('\r\n' + this.retourScript);
+        this.currentScript = 'null';
+      });
+    }
   }
 
   ngAfterViewInit(){
-    /*
-    this.displayOption.fixedGrid = { rows: 10, cols: 200 };
-    this.child.setDisplayOption(this.displayOption);
-    */
+    this.child.underlying.setOption("fontSize" , "14");
+    this.child.underlying.setOption('scrollback', 10000000);
+    this.child.setStyle(this.style);
+
+    //this.displayOption.fixedGrid = { rows: 400, cols: 100 };
+    //this.child.setDisplayOption(this.displayOption);
   }
 
 }
