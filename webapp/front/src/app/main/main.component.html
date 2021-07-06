@@ -1,3 +1,4 @@
+<body>
 <div class="content" role="main">
     
   <section>
@@ -20,18 +21,32 @@
 
   
   
-    <div class="terminal">
-      <span class="down">
+    <div class="terminal" id="terminalA">
+      <div class="down">
         <a target="_blank" rel="noopener" (click)="scrollBottom()">
         <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_down</mat-icon>
-        </a>>
-      </span>
-      <span class="up">
+        </a>
+      </div>
+      <div class="up">
         <a target="_blank" rel="noopener" (click)="scrollTop()">
         <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_up</mat-icon>
-        </a>>
-      </span>
-      <ng-terminal #term></ng-terminal>
+        </a>
+      </div>
+      <ng-terminal #termA id="termA"></ng-terminal>
+    </div>
+
+    <div class="terminal" id="terminalB">
+      <div class="down">
+        <a target="_blank" rel="noopener" (click)="scrollBottomBis()">
+        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_down</mat-icon>
+        </a>
+      </div>
+      <div class="up">
+        <a target="_blank" rel="noopener" (click)="scrollTopBis()">
+        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_up</mat-icon>
+        </a>
+      </div>
+      <ng-terminal #termB id="termB"></ng-terminal>
     </div>
   
 </div>
@@ -45,6 +60,8 @@
     </mat-list-item>
   </mat-list>
 </aside>
+
+</body>
 
 
 
