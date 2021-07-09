@@ -1,8 +1,7 @@
-import { Component, AfterViewInit, ViewChild } from '@angular/core';
-import { NgTerminal, NgTerminalComponent } from 'ng-terminal';
-import {HttpClient} from '@angular/common/http';
+import { Component, AfterViewInit, ViewChild, HostListener } from '@angular/core';
+import { NgTerminal } from 'ng-terminal';
+import {HttpClient, HttpHeaders, HttpParams} from '@angular/common/http';
 import { DisplayOption } from 'ng-terminal';
-import { Terminal } from 'xterm';
 
 
 @Component({
@@ -17,20 +16,15 @@ export class MainComponent implements AfterViewInit{
   retourScript = 'null';
   lesScripts =[''];
   currentScript = 'null';
-
+  saved = false;
   displayOption: DisplayOption = {};
-
   style = {
-    "padding-left" : "5px",
-    "background-color" : "black",
+    "padding-left" : "5px"
   }
 
   constructor(private http : HttpClient){
-    this.http.get('http://localhost:3000/api/ls').toPromise().then(data => {
-      var ls = JSON.stringify(data);
-      var myObj = JSON.parse(ls);
-      ls = myObj['message'];
-      this.lesScripts = ls.split('\n');
+    this.http.get('http://localhost:3000/api/ls').toPromise<any>().then(data => {
+      this.lesScripts = data.message.split('\n');
       this.lesScripts.length --;
     });
   }
@@ -47,8 +41,8 @@ export class MainComponent implements AfterViewInit{
       window.alert('Veuillez sélectionner un script à lancer');
     }
     else{
-      this.http.get('http://localhost:3000/api/lancescript?script=' + this.currentScript).toPromise().then(data => {
-        this.retourScript = JSON.parse(JSON.stringify(data).replace(/\\n/g,"\\r\\n")).message;
+      this.http.get('http://localhost:3000/api/lancescript?script=' + this.currentScript).toPromise<any>().then(data => {
+        this.retourScript = JSON.parse(JSON.stringify(data.message).replace(/\\n/g,"\\r\\n"));
         this.child.write('\r\n' + this.retourScript + '\r\n$ ');
         var icon = document.getElementById(this.currentScript);
         icon?.setAttribute("style", "color: #989034")
@@ -75,26 +69,65 @@ export class MainComponent implements AfterViewInit{
   }
 
   editScript(){
+    if (this.currentScript == 'null'){
+      window.alert('Veuillez sélectionner un script à éditer');
+    }
+    else{
+      this.childBis.underlying.reset();
+      var terminalA = document.getElementById("terminalA");
+      var termA = document.getElementById("termA");
+      var terminalB = document.getElementById("terminalB");
+      var termB = document.getElementById("termB");
+
+      terminalA?.setAttribute("style", "visibility: hidden");
+      termA?.setAttribute("style", "visibility: hidden");
+      terminalB?.setAttribute("style", "visibility: visible");
+      termB?.setAttribute("style", "visibility: visible");
+      this.http.get('http://localhost:3000/api/affichescript?script=' + this.currentScript).toPromise<any>().then(data => {
+        this.retourScript = JSON.parse(JSON.stringify(data.message).replace(/\\n/g,"\\r\\n"));
+        this.childBis.write(this.retourScript);
+      });
+      /*
+      this.childBis.underlying.selectAll();
+      console.log(this.childBis.underlying.hasSelection())
+      console.log(this.childBis.underlying.getSelection())
+      */
+     this.childBis.underlying.focus();
+     console.log(this.childBis.underlying.buffer)
+      
+    }
+  }
+
+  quit(){
     var terminalA = document.getElementById("terminalA");
     var termA = document.getElementById("termA");
     var terminalB = document.getElementById("terminalB");
     var termB = document.getElementById("termB");
 
-    terminalA?.setAttribute("style", "visibility: hidden");
-    termA?.setAttribute("style", "visibility: hidden");
-    terminalB?.setAttribute("style", "visibility: visible");
-    termB?.setAttribute("style", "visibility: visible");
+    if (this.saved == true){
+      terminalA?.setAttribute("style", "visibility: visible");
+      termA?.setAttribute("style", "visibility: visible");
+      terminalB?.setAttribute("style", "visibility: hidden");
+      termB?.setAttribute("style", "visibility: hidden");
+    }
+    else {
+      var answer = window.confirm("Quitter sans sauver ?");
+      if (answer) {
+        terminalA?.setAttribute("style", "visibility: visible");
+        termA?.setAttribute("style", "visibility: visible");
+        terminalB?.setAttribute("style", "visibility: hidden");
+        termB?.setAttribute("style", "visibility: hidden");
+      }
+    }
+  }
 
-    if (this.currentScript == 'null'){
-      window.alert('Veuillez sélectionner un script à éditer');
-    }
-    else{
-      this.http.get('http://localhost:3000/api/affichescript?script=' + this.currentScript).toPromise().then(data => {
-        this.retourScript = JSON.parse(JSON.stringify(data).replace(/\\n/g,"\\r\\n")).message;
-        this.childBis.write('\r\n' + this.retourScript);
-        this.currentScript = 'null';
-      });
-    }
+  save(){
+    this.saved = true;
+    var params = new HttpParams()
+    .set('fichier', this.currentScript)
+    .set('code', "echo 'titi'");
+    var myheaders = new HttpHeaders({'Content-Type' : 'application/x-www-form-urlencoded'});
+    this.http.post('http://localhost:3000/api/savescript', params, {headers:myheaders}).subscribe(data => {});
   }
 
   ngAfterViewInit(){
@@ -121,15 +154,12 @@ export class MainComponent implements AfterViewInit{
       } 
       else if (!e.domEvent.altKey && !e.domEvent.ctrlKey && !e.domEvent.metaKey) {
         this.childBis.write(e.key);
-        this.currentScript += e.key;
       } 
       else if (e.domEvent.keyCode === 8) {
         // backspace
         this.childBis.write('\b \b');
-        console.log(this.childBis.underlying.getSelection());
       }
     });
-
 
   }
 

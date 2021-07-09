@@ -4,6 +4,9 @@ const _ = require('lodash');
 
 const app = express();
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+
 app.use((req, res, next) => {
    res.setHeader('Access-Control-Allow-Origin', '*');
    res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content, Accept, Content-Type, Authorization');
@@ -52,9 +55,7 @@ app.get('/api/lancescript', (req, res, next) => {
 
 app.get('/api/affichescript', (req, res, next) => {
    leScript = req.query.script;
-   var commande;
    commande = shell.exec('cat ../../crawlers/' + leScript);
-
 
    if (commande.stdout != ''){
       res.status(200).json({ message: commande.stdout });
@@ -65,6 +66,18 @@ app.get('/api/affichescript', (req, res, next) => {
    next();
 });
 
+app.post('/api/savescript', (req, res, next) => {
+   fichier = req.body.fichier;
+   code = req.body.code;
+   console.log(req.body)
+
+   commande = 'echo "' + code + '" > ../../crawlers/' + fichier;
+   //shell.exec(commande);
+   res.status(201).json({
+      retour : req.body
+   });
+   next();
+});
 
 app.use('/', (req, res) => {
    res.status(404);

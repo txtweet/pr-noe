@@ -121,7 +121,7 @@ background-color: rgb(15, 15, 16);
 
 
 .terminal::before {
-content: "\2022 \2022 \2022";
+content: "";
 position: absolute;
 top: 0;
 left: 0;
@@ -231,5 +231,43 @@ font-style: italic;
 }
 
 .down a:hover {
+    color : lightgray;
+}
+
+.save {
+    float:left;
+    margin-top : -40px;
+    margin-left: 55px;
+}
+
+.save mat-icon {
+    font-size: 20px;
+    margin-top:2px;
+}
+
+.save a {
+    color : grey;
+}
+
+.save a:hover {
+    color : lightgray;
+}
+
+.quit {
+    float:left;
+    margin-top : -40px;
+    margin-left:  10px;
+}
+
+.quit mat-icon {
+    font-size: 20px;
+    margin-top:2px;
+}
+
+.quit a {
+    color : grey;
+}
+
+.quit a:hover {
     color : lightgray;
 }

@@ -36,14 +36,24 @@
     </div>
 
     <div class="terminal" id="terminalB">
+      <div class="quit">
+        <a target="_blank" rel="noopener" (click)="quit()">
+        <mat-icon aria-hidden="false">clear</mat-icon>
+        </a>
+      </div>
+      <div class="save">
+        <a target="_blank" rel="noopener" (click)="save()">
+        <mat-icon aria-hidden="false">vertical_align_bottom</mat-icon>
+        </a>
+      </div>
       <div class="down">
         <a target="_blank" rel="noopener" (click)="scrollBottomBis()">
-        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_down</mat-icon>
+        <mat-icon aria-hidden="false">keyboard_arrow_down</mat-icon>
         </a>
       </div>
       <div class="up">
         <a target="_blank" rel="noopener" (click)="scrollTopBis()">
-        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_up</mat-icon>
+        <mat-icon aria-hidden="false">keyboard_arrow_up</mat-icon>
         </a>
       </div>
       <ng-terminal #termB id="termB"></ng-terminal>
