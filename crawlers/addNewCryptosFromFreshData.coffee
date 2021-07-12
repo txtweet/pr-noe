@@ -47,6 +47,7 @@ tagsTables =
   'dex': 'Dex'
   'discount-token': 'Discount token'
   'distributed-computing': 'Distributed Computing'
+  'doggone-doggerel': 'Doggone Doggerel'
   'dot-ecosystem': 'DOT Ecosystem'
   'dpos': 'DPoS'
   'duckstarter': 'DuckSTARTER'
