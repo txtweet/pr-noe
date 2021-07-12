@@ -52,7 +52,7 @@ request
   if 'Token' in crypto.tags
     foundChain = false
     crypto.forked_data = []
-    $('div.modal___3Jdkv > div > div > div').each () ->
+    $('div.guFTCp > div > div').each () ->
       if $('h6', @).text() is 'Explorers'
         $('a', @).each () ->
           href = $(@).attr('href')
