@@ -13,6 +13,7 @@ fileDate = process.argv[2]
 tagsTables =
   'adult': 'Adult'
   'ai-big-data': 'AI & Big Data'
+  'alameda-research-portfolio':'Alameda Research Portfolio'
   'amm': 'AMM'
   'atomic-swaps':'Atomic Swaps'
   'art': 'Art'
