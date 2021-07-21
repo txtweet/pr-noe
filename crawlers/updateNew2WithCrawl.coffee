@@ -74,11 +74,12 @@ request
         addContract($(@).attr('href'))
         foundChain = true
 
-    unless foundChain
-      error("Type de token inconnu", crypto)
+    # unless foundChain
+    #   error("Type de token inconnu", crypto)
 
 .catch (err) ->
-  error("Crypto non trouvée #{crypto.name}", err)
+  delete cryptos[crypto.name]
+  console.warn("Crypto #{crypto.name} supprimée du serveur")
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
