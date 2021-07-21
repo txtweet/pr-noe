@@ -50,30 +50,33 @@ request
     error("Type de crypto non trouvé (Coin vs Token) #{crypto.url}")
 
   if 'Token' in crypto.tags
+    addContract = (href) ->
+      contract = _.find contracts, (aContract) ->
+        _.find aContract.urls, (url) ->
+          href.startsWith(url)
+
+      if contract?
+        crypto.tags.push contract.contract
+        crypto.forked_data.push href
+      else
+        error("Type de chaine inconnue", href)
+
+    # Looking for chain contracts in tags (explorers and contracts)
     foundChain = false
     crypto.forked_data = []
     $('div.guFTCp > div > div').each () ->
       if $('h6', @).text() is 'Explorers'
         $('a', @).each () ->
-          href = $(@).attr('href')
-          contract = _.find contracts, (aContract) ->
-            _.find aContract.urls, (url) ->
-              href.startsWith(url)
-
-          if contract?
-            foundChain = true
-            crypto.tags.push contract.contract
-            crypto.forked_data.push href
-          else
-            error("Type de chaine inconnue", href)
+          addContract($(@).attr('href'))
+          foundChain = true
 
     unless foundChain
-      # $('div.contractsRow > div.mobileContent___IGuVW > div > a').each () ->
-      #   console.log(@)
-      #   process.exit(1)
+      $('div.contractsRow > div.mobileContent___IGuVW > div > a').each () ->
+        addContract($(@).attr('href'))
+        foundChain = true
 
+    unless foundChain
       error("Type de token inconnu", crypto)
-    # process.exit(1)
 
 .catch (err) ->
   error("Crypto non trouvée #{crypto.name}", err)
