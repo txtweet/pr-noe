@@ -58,8 +58,7 @@ request
       if contract?
         crypto.tags.push contract.contract
         crypto.forked_data.push href
-      else
-        error("Type de chaine inconnue", href)
+
 
     # Looking for chain contracts in tags (explorers and contracts)
     foundChain = false
