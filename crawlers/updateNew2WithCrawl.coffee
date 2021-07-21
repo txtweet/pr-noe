@@ -68,7 +68,12 @@ request
             error("Type de chaine inconnue", href)
 
     unless foundChain
+      # $('div.contractsRow > div.mobileContent___IGuVW > div > a').each () ->
+      #   console.log(@)
+      #   process.exit(1)
+
       error("Type de token inconnu", crypto)
+    # process.exit(1)
 
 .catch (err) ->
   error("Crypto non trouvée #{crypto.name}", err)
