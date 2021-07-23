@@ -72,7 +72,7 @@ app.post('/api/savescript', (req, res, next) => {
    console.log(req.body)
 
    commande = 'echo "' + code + '" > ../../crawlers/' + fichier;
-   //shell.exec(commande);
+   shell.exec(commande);
    res.status(201).json({
       retour : req.body
    });

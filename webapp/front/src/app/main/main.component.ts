@@ -1,4 +1,4 @@
-import { Component, AfterViewInit, ViewChild, HostListener } from '@angular/core';
+import { Component, AfterViewInit, ViewChild } from '@angular/core';
 import { NgTerminal } from 'ng-terminal';
 import {HttpClient, HttpHeaders, HttpParams} from '@angular/common/http';
 import { DisplayOption } from 'ng-terminal';
@@ -87,18 +87,14 @@ export class MainComponent implements AfterViewInit{
         this.retourScript = JSON.parse(JSON.stringify(data.message).replace(/\\n/g,"\\r\\n"));
         this.childBis.write(this.retourScript);
       });
-      /*
-      this.childBis.underlying.selectAll();
-      console.log(this.childBis.underlying.hasSelection())
-      console.log(this.childBis.underlying.getSelection())
-      */
-     this.childBis.underlying.focus();
-     console.log(this.childBis.underlying.buffer)
       
     }
   }
 
+
   quit(){
+    this.child.underlying.reset();
+    this.child.write('$ ');
     var terminalA = document.getElementById("terminalA");
     var termA = document.getElementById("termA");
     var terminalB = document.getElementById("terminalB");
@@ -117,17 +113,35 @@ export class MainComponent implements AfterViewInit{
         termA?.setAttribute("style", "visibility: visible");
         terminalB?.setAttribute("style", "visibility: hidden");
         termB?.setAttribute("style", "visibility: hidden");
+        this.saved = false;
       }
     }
   }
 
   save(){
+    var tailleBuffer = this.childBis.underlying.buffer.active.length;
+    var modifiedScript = "";
+
+    if (tailleBuffer > 33){
+      for (let i=0; i<this.childBis.underlying.buffer.active.length; i++){
+        modifiedScript += this.childBis.underlying.buffer.active.getLine(i)?.translateToString(false) + "\n";
+       }
+    }
+    else{
+      for (let i=0; i<this.childBis.underlying.buffer.active.length; i++){
+        modifiedScript += this.childBis.underlying.buffer.active.getLine(i)?.translateToString(false) + "\n";
+       }
+       modifiedScript = modifiedScript.replace(/^\s*\n/gm, "");
+    }
+
+    
     this.saved = true;
     var params = new HttpParams()
     .set('fichier', this.currentScript)
-    .set('code', "echo 'titi'");
+    .set('code', modifiedScript);
     var myheaders = new HttpHeaders({'Content-Type' : 'application/x-www-form-urlencoded'});
     this.http.post('http://localhost:3000/api/savescript', params, {headers:myheaders}).subscribe(data => {});
+    window.alert("Script modifié")
   }
 
   ngAfterViewInit(){
@@ -141,10 +155,6 @@ export class MainComponent implements AfterViewInit{
     this.childBis.underlying.setOption('cursorStyle', 'bar');
     this.childBis.setStyle(this.style);
     
-
-    //this.displayOption.fixedGrid = { rows: 400, cols: 100 };
-    //this.child.setDisplayOption(this.displayOption);
-
 
     this.childBis.keyEventInput.subscribe(e => {
       if (e.domEvent.keyCode === 13) {
