@@ -22,6 +22,7 @@ export class MainComponent implements AfterViewInit{
     "padding-left" : "5px"
   }
 
+  // appel api liste scripts
   constructor(private http : HttpClient){
     this.http.get('http://localhost:3000/api/ls').toPromise<any>().then(data => {
       this.lesScripts = data.message.split('\n');
@@ -134,14 +135,13 @@ export class MainComponent implements AfterViewInit{
        modifiedScript = modifiedScript.replace(/^\s*\n/gm, "");
     }
 
-    
     this.saved = true;
     var params = new HttpParams()
     .set('fichier', this.currentScript)
     .set('code', modifiedScript);
     var myheaders = new HttpHeaders({'Content-Type' : 'application/x-www-form-urlencoded'});
     this.http.post('http://localhost:3000/api/savescript', params, {headers:myheaders}).subscribe(data => {});
-    window.alert("Script modifié")
+    window.alert("Script enregistré")
   }
 
   ngAfterViewInit(){
@@ -156,6 +156,7 @@ export class MainComponent implements AfterViewInit{
     this.childBis.setStyle(this.style);
     
 
+    // ecoute clavier
     this.childBis.keyEventInput.subscribe(e => {
       if (e.domEvent.keyCode === 13) {
         //enter
