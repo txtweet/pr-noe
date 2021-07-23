@@ -69,7 +69,6 @@ app.get('/api/affichescript', (req, res, next) => {
 app.post('/api/savescript', (req, res, next) => {
    fichier = req.body.fichier;
    code = req.body.code;
-   console.log(req.body)
 
    commande = 'echo "' + code + '" > ../../crawlers/' + fichier;
    shell.exec(commande);
