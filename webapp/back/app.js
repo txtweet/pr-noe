@@ -14,13 +14,14 @@ app.use((req, res, next) => {
    next();
  });
 
-
+// api liste script
 app.use('/api/ls', (req, res, next) => {
    commande = shell.exec('./ls.sh');
    res.status(200).json({ message: commande });
    next();
 });
 
+// api execution script
 app.get('/api/lancescript', (req, res, next) => {
    leScript = req.query.script;
    extension = leScript.split('.')[1];
@@ -53,6 +54,7 @@ app.get('/api/lancescript', (req, res, next) => {
    next();
 });
 
+// api affiche code source script
 app.get('/api/affichescript', (req, res, next) => {
    leScript = req.query.script;
    commande = shell.exec('cat ../../crawlers/' + leScript);
@@ -66,13 +68,12 @@ app.get('/api/affichescript', (req, res, next) => {
    next();
 });
 
+// api enregistre script
 app.post('/api/savescript', (req, res, next) => {
    fichier = req.body.fichier;
    code = req.body.code;
-   console.log(req.body)
-
    commande = 'echo "' + code + '" > ../../crawlers/' + fichier;
-   //shell.exec(commande);
+   shell.exec(commande);
    res.status(201).json({
       retour : req.body
    });
