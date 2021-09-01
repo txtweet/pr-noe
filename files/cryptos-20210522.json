@@ -2117,7 +2117,7 @@
     },
     {
       "id": 3330,
-      "name": "Paxos Standard",
+      "name": "Pax Dollar",
       "symbol": "PAX",
       "slug": "paxos-standard",
       "tags": [
@@ -4248,7 +4248,7 @@
     },
     {
       "id": 7334,
-      "name": "Conflux Network",
+      "name": "Conflux",
       "symbol": "CFX",
       "slug": "conflux-network",
       "tags": [
@@ -5061,7 +5061,7 @@
     },
     {
       "id": 7501,
-      "name": "Wootrade",
+      "name": "WOO Network",
       "symbol": "WOO",
       "slug": "wootrade",
       "tags": [
@@ -6225,7 +6225,7 @@
     },
     {
       "id": 2132,
-      "name": "Power Ledger",
+      "name": "Powerledger",
       "symbol": "POWR",
       "slug": "power-ledger",
       "tags": [
@@ -16183,7 +16183,7 @@
     },
     {
       "id": 7048,
-      "name": "Wing",
+      "name": "Wing Finance",
       "symbol": "WING",
       "slug": "wing",
       "tags": [
@@ -22693,7 +22693,7 @@
     },
     {
       "id": 4165,
-      "name": "TerraCredit",
+      "name": "CREDIT",
       "symbol": "CREDIT",
       "slug": "credit",
       "tags": [],
@@ -26246,7 +26246,7 @@
     },
     {
       "id": 2240,
-      "name": "SoMee.Social",
+      "name": "SoMee.Social [OLD]",
       "symbol": "ONG",
       "slug": "ongsocial",
       "tags": [
@@ -31589,7 +31589,7 @@
     },
     {
       "id": 8616,
-      "name": "Urus",
+      "name": "Aurox",
       "symbol": "URUS",
       "slug": "urus",
       "tags": [],
@@ -32017,7 +32017,7 @@
     },
     {
       "id": 8620,
-      "name": "Tower",
+      "name": "TOWER",
       "symbol": "TOWER",
       "slug": "tower-token",
       "tags": [
@@ -32898,7 +32898,7 @@
     },
     {
       "id": 8300,
-      "name": "Polkacover",
+      "name": "PolkaCover",
       "symbol": "CVR",
       "slug": "polkacover",
       "tags": [
@@ -45203,7 +45203,7 @@
     },
     {
       "id": 9341,
-      "name": "Lendefi",
+      "name": "Lendefi (old)",
       "symbol": "LDFI",
       "slug": "lendefi",
       "tags": [],
@@ -75287,7 +75287,7 @@
     {
       "id": 7131,
       "name": "YAM v3",
-      "symbol": "YAM",
+      "symbol": "YAM V3",
       "slug": "yamv3",
       "tags": [
         "dao",
@@ -75730,7 +75730,7 @@
     },
     {
       "id": 9178,
-      "name": "ElonGate",
+      "name": "ELONGATE",
       "symbol": "ELONGATE",
       "slug": "elongate",
       "tags": [
@@ -76614,7 +76614,7 @@
     },
     {
       "id": 8487,
-      "name": "TBCC Labs",
+      "name": "TBCC",
       "symbol": "TBCC",
       "slug": "tbcc-labs",
       "tags": [],
@@ -78988,7 +78988,7 @@
     },
     {
       "id": 4427,
-      "name": "BDCC Bitica COIN",
+      "name": "BITICA DIGITAL CRYPTO CURRENCY",
       "symbol": "BDCC",
       "slug": "bdcc-bitica-coin",
       "tags": [],
@@ -79483,7 +79483,7 @@
     },
     {
       "id": 8135,
-      "name": "CryptoKek",
+      "name": "Cryptokek",
       "symbol": "KEK",
       "slug": "cryptokek",
       "tags": [],
@@ -82854,7 +82854,7 @@
     },
     {
       "id": 9899,
-      "name": "PEACOCKCOIN",
+      "name": "PEACOCKCOIN (BSC)",
       "symbol": "PEKC",
       "slug": "peacockcoin",
       "tags": [],
@@ -88765,7 +88765,7 @@
     },
     {
       "id": 6657,
-      "name": "YAMv2",
+      "name": "YAM V2",
       "symbol": "YAMV2",
       "slug": "yam-v2",
       "tags": [
@@ -97218,7 +97218,7 @@
     },
     {
       "id": 9451,
-      "name": "Verso Token",
+      "name": "Verso",
       "symbol": "VSO",
       "slug": "verso-token",
       "tags": [],
@@ -97323,7 +97323,7 @@
     },
     {
       "id": 9968,
-      "name": "Corgidoge real estate payment",
+      "name": "Corgidoge",
       "symbol": "CORGI",
       "slug": "corgidoge-real-estate-payment",
       "tags": [],
@@ -97675,7 +97675,7 @@
     },
     {
       "id": 9115,
-      "name": "WorkQuest",
+      "name": "WorkQuest Token",
       "symbol": "WQT",
       "slug": "workquest",
       "tags": [],
@@ -109799,7 +109799,7 @@
     },
     {
       "id": 8200,
-      "name": "FOX Token",
+      "name": "Shapeshift FOX Token",
       "symbol": "FOX",
       "slug": "fox-token",
       "tags": [],
@@ -114048,7 +114048,7 @@
     },
     {
       "id": 9009,
-      "name": "SaturnV Gold",
+      "name": "SaturnV Gold v2",
       "symbol": "SATVG",
       "slug": "saturnv-gold",
       "tags": [],
@@ -129097,8 +129097,8 @@
     },
     {
       "id": 6539,
-      "name": "YAM v1",
-      "symbol": "YAM",
+      "name": "YAM V1",
+      "symbol": "YAM V3",
       "slug": "yamv1",
       "tags": [
         "defi",
