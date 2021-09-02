@@ -82,8 +82,7 @@ request
 
 .catch (err) ->
   # delete cryptos[crypto.name]
-  console.warn("Crypto #{crypto.name} bugguée", err)
-  console.log JSON.stringify cryptos, null, 2
+  error("Crypto #{crypto.name} bugguée", err)
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
