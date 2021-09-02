@@ -19,6 +19,8 @@ unless crypto?
 request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'
+  headers:
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36'
 .then (body) ->
   console.warn "Testing #{crypto.url}"
 
@@ -39,7 +41,8 @@ request
 
   # token or coin
   foundCoinOrToken = false
-  $('div.nameSection___3Hk6F > div.bILTHz > div').each () ->
+  #NameSection 
+  $('div.kDzKwW > div.bILTHz > div').each () ->
     if $(@).text() is 'Coin'
       foundCoinOrToken = true
       crypto.tags.push($(@).text())
@@ -79,7 +82,8 @@ request
 
 .catch (err) ->
   delete cryptos[crypto.name]
-  console.warn("Crypto #{crypto.name} supprimée du serveur")
+  console.warn("Crypto #{crypto.name} supprimée du serveur", err)
+  process.exit(0)
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
