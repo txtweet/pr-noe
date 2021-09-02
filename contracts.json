@@ -144,6 +144,13 @@
   },
   {
     "urls": [
+      "https://www.oklink.com/okexchain/tokenAddr"
+    ],
+    "contract": "Okex Contract",
+    "gecko_asset_platform_id": "okex-chain"
+  },
+  {
+    "urls": [
       "https://www.omniexplorer.info/asset",
       "http://omniexplorer.info/asset",
       "https://omniexplorer.info/asset"
@@ -169,7 +176,8 @@
   },
   {
     "urls": [
-      "https://explorer.solana.com/address"
+      "https://explorer.solana.com/address",
+      "https://solscan.io/token"
     ],
     "contract": "Solana Contract",
     "gecko_asset_platform_id": "solana"
