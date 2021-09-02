@@ -41,7 +41,7 @@ request
 
   # token or coin
   foundCoinOrToken = false
-  #NameSection 
+  #NameSection
   $('div.kDzKwW > div.bILTHz > div').each () ->
     if $(@).text() is 'Coin'
       foundCoinOrToken = true
@@ -81,9 +81,9 @@ request
     #   error("Type de token inconnu", crypto)
 
 .catch (err) ->
-  delete cryptos[crypto.name]
-  console.warn("Crypto #{crypto.name} supprimée du serveur", err)
-  process.exit(0)
+  # delete cryptos[crypto.name]
+  console.warn("Crypto #{crypto.name} bugguée", err)
+  console.log JSON.stringify cryptos, null, 2
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
