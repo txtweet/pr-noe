@@ -307,8 +307,7 @@
   },
   {
     "urls": [
-      "https://polygonscan.com/token",
-      "https://cchain.explorer.avax.network/tokens"
+      "https://polygonscan.com/token"
     ],
     "contract": "Polygon Contract",
     "gecko_asset_platform_id": "polygon-pos"
