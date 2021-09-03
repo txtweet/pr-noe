@@ -315,6 +315,13 @@
   },
   {
     "urls": [
+      "https://explorer.kcc.io/en/token"
+    ],
+    "contract": "Kucoin Contract",
+    "gecko_asset_platform_id": "kucoin-community-chain"
+  },
+  {
+    "urls": [
       "https://polygonscan.com/token"
     ],
     "contract": "Polygon Contract",
