@@ -102,6 +102,13 @@
   },
   {
     "urls": [
+      "https://ftmscan.com/token/"
+    ],
+    "contract": "Fantom Contract",
+    "gecko_asset_platform_id": "fantom"
+  },
+  {
+    "urls": [
       "https://scan.hecochain.com/address",
       "https://scan.hecochain.com/token",
       "https://hecoinfo.com/token"
@@ -197,6 +204,13 @@
       "https://finder.terra.money/columbus-4/address"
     ],
     "contract": "Terra Contract"
+  },
+  {
+    "urls": [
+      "https://scan.tomochain.com/tokens"
+    ],
+    "contract": "Tomochain Contract",
+    "gecko_asset_platform_id": "tomochain"
   },
   {
     "urls": [
