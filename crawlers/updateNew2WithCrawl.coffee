@@ -82,7 +82,10 @@ request
 
 .catch (err) ->
   # delete cryptos[crypto.name]
-  error("Crypto #{crypto.name} bugguée", err)
+  # error("Crypto #{crypto.name} bugguée")
+  crypto.tags = _.without crypto.tags, "New"
+  console.error("Crypto #{crypto.name} bugguée")
+  console.log JSON.stringify cryptos, null, 2
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
