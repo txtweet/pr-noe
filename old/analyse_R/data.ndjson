@@ -135,7 +135,7 @@
 {"name":"AfroDex","short":"AfroX","url":"/currencies/afrodex","tags":["Token"]}
 {"name":"AgaveCoin","short":"AGVC","url":"/currencies/agavecoin","tags":["Token","Commodities","Discount token"]}
 {"name":"Agora","short":"VOTE","url":"/currencies/agora","tags":["Token"]}
-{"name":"Agoras Tokens","short":"AGRS","url":"/currencies/agoras-tokens","tags":["Token"]}
+{"name":"Agoras","short":"AGRS","url":"/currencies/agoras-tokens","tags":["Token"]}
 {"name":"Agrello","short":"DLT","url":"/currencies/agrello-delta","tags":["Token","Platform","AI & Big Data","Payments"]}
 {"name":"Agrolot","short":"AGLT","url":"/currencies/agrolot","tags":["Token"]}
 {"name":"AiLink Token","short":"ALI","url":"/currencies/ailink-token","tags":["Token"]}
@@ -595,7 +595,7 @@
 {"name":"CashBackPro","short":"CBP","url":"/currencies/cashbackpro","tags":["Token"]}
 {"name":"Cashaa","short":"CAS","url":"/currencies/cashaa","tags":["Token","Platform"]}
 {"name":"Cashbery Coin","short":"CBC","url":"/currencies/cashbery-coin","tags":["Coin","Mineable"]}
-{"name":"Cashhand","short":"CHND","url":"/currencies/cashhand","tags":["Coin"]}
+{"name":"CashHand","short":"CHND","url":"/currencies/cashhand","tags":["Coin"]}
 {"name":"Cashpayz Token","short":"CPC","url":"/currencies/cashpayz-token","tags":["Token"]}
 {"name":"CBC.network","short":"CBC","url":"/currencies/casino-betting-coin","tags":["Token"]}
 {"name":"CasinoCoin","short":"CSC","url":"/currencies/casinocoin","tags":["Coin","PoC","Gambling","Gaming"]}
@@ -1772,7 +1772,7 @@
 {"name":"Matryx","short":"MTX","url":"/currencies/matryx","tags":["Token","Education","Research"]}
 {"name":"Maverick Chain","short":"MVC","url":"/currencies/maverick-chain","tags":["Token"]}
 {"name":"Mavro","short":"MAVRO","url":"/currencies/mavro","tags":["Coin","Mineable"]}
-{"name":"Max Property Group","short":"MPG","url":"/currencies/max-property-group","tags":["Token"]}
+{"name":"Max Crowdfund (MCF)","short":"MPG","url":"/currencies/max-property-group","tags":["Token"]}
 {"name":"Maxcoin","short":"MAX","url":"/currencies/maxcoin","tags":["Coin","Mineable","Hybrid - PoW & PoS"]}
 {"name":"Maximine Coin","short":"MXM","url":"/currencies/maximine-coin","tags":["Token","Platform","Distributed Computing","Staking"]}
 {"name":"Mazzuma","short":"MAZ","url":"/currencies/mazzuma","tags":["Coin"]}
@@ -2097,7 +2097,7 @@
 {"name":"PayCoin","short":"XPY","url":"/currencies/paycoin2","tags":["Coin","Mineable","PoS","SHA-256"]}
 {"name":"PayFrequent USD","short":"PUSD","url":"/currencies/payfrequent-usd-2","tags":["Token"]}
 {"name":"PayPie","short":"PPP","url":"/currencies/paypie","tags":["Token","Marketplace","Smart Contracts"]}
-{"name":"PayProtocol","short":"PCI","url":"/currencies/payprotocol","tags":["Coin"]}
+{"name":"Paycoin","short":"PCI","url":"/currencies/payprotocol","tags":["Coin"]}
 {"name":"Payfair","short":"PFR","url":"/currencies/payfair","tags":["Token"]}
 {"name":"Paymon","short":"PMNT","url":"/currencies/paymon","tags":["Token"]}
 {"name":"Paypex","short":"PAYX","url":"/currencies/paypex","tags":["Token"]}
@@ -2554,7 +2554,7 @@
 {"name":"Swace","short":"SWACE","url":"/currencies/swace","tags":["Token"]}
 {"name":"Swap","short":"XWP","url":"/currencies/swap","tags":["Coin"]}
 {"name":"SwapShip","short":"SWSH","url":"/currencies/swapship","tags":["Token"]}
-{"name":"Swapcoinz","short":"SPAZ","url":"/currencies/swapcoinz","tags":["Token"]}
+{"name":"SMILE","short":"SPAZ","url":"/currencies/swapcoinz","tags":["Token"]}
 {"name":"Swapfolio","short":"SWFL","url":"/currencies/swapfolio","tags":["Token"]}
 {"name":"Swapzilla","short":"SWZL","url":"/currencies/swapzilla","tags":["Token"]}
 {"name":"Swarm","short":"SWM","url":"/currencies/swarm-network","tags":["Token","Asset management","Crowdfunding"]}
