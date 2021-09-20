@@ -1,6 +1,13 @@
 [
   {
     "urls": [
+      "https://arbiscan.io/token"
+    ],
+    "contract": "Arbitrum Contract",
+    "gecko_asset_platform_id": "arbitrum-one"
+  },
+  {
+    "urls": [
       "https://explorer.binance.org/asset",
       "https://poocoin.app/tokens/",
       "https://bscscan.com/address",
