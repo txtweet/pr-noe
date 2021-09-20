@@ -80,16 +80,16 @@ request
     # unless foundChain
     #   error("Type de token inconnu", crypto)
 
-.catch (err) ->
-  # delete cryptos[crypto.name]
-  # error("Crypto #{crypto.name} bugguée")
-  crypto.tags = _.without crypto.tags, "New"
-  console.error("Crypto #{crypto.name} bugguée")
-  console.log JSON.stringify cryptos, null, 2
 .then () ->
   crypto.tags = _.without crypto.tags, "New"
   crypto.tags.push("New2")
   if "Stablecoin - Asset-Backed" in crypto.tags
     crypto.tags.push("Stablecoin")
   crypto.tags = _.uniq crypto.tags
+  console.log JSON.stringify cryptos, null, 2
+.catch (err) ->
+  # delete cryptos[crypto.name]
+  # error("Crypto #{crypto.name} bugguée")
+  crypto.tags = _.without crypto.tags, "New"
+  console.error("Crypto #{crypto.name} bugguée")
   console.log JSON.stringify cryptos, null, 2
