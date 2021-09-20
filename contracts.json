@@ -1,6 +1,14 @@
 [
   {
     "urls": [
+      "https://explorer.planetwatch.io/",
+      "https://algoexplorer.io/asset/"
+    ],
+    "contract": "Algorand Contract",
+    "gecko_asset_platform_id": "algorand"
+  },
+  {
+    "urls": [
       "https://arbiscan.io/token"
     ],
     "contract": "Arbitrum Contract",
@@ -167,7 +175,8 @@
     "urls": [
       "https://www.omniexplorer.info/asset",
       "http://omniexplorer.info/asset",
-      "https://omniexplorer.info/asset"
+      "https://omniexplorer.info/asset",
+      "https://www.oklink.com/okexchain/tokenAddr"
     ],
     "contract": "Omni Contract",
     "gecko_asset_platform_id": "omni"
@@ -210,7 +219,8 @@
       "https://finder.terra.money/columbus-4/account",
       "https://finder.terra.money/columbus-4/address"
     ],
-    "contract": "Terra Contract"
+    "contract": "Terra Contract",
+    "gecko_asset_platform_id": "terra"
   },
   {
     "urls": [
